@@ -1,4 +1,50 @@
 {
-  "edizioni": [],
-  "ultimo_aggiornamento": null
+  "edizioni": [
+    {
+      "data": "2026-06-29",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Terremoto Venezuela: oltre 1.400 morti e 50.000 dispersi, Maduro chiede aiuto al mondo",
+          "fonte": "TGCom24 / Vatican News / ANSA",
+          "cerca_url": "https://www.google.com/search?q=terremoto+Venezuela+morti+dispersi+29+giugno+2026",
+          "post_x": "Venezuela: 1.400 morti, 50.000 dispersi. Trump offre aiuti al paese che ha sanzionato per anni. ENI tranquillizza: le sue infrastrutture sono intatte. Capite chi ha già fatto i conti? #Venezuela #terremoto",
+          "post_sito": "Il Venezuela è in ginocchio: oltre 1.400 morti accertati, più di 50.000 dispersi secondo l'ONU, ospedali nel caos e intere aree di La Guaira militarizzate perché i soccorsi non riuscivano ad arrivare. Il racconto dominante si concentra sulle immagini strazianti — giuste, necessarie — ma tace su un dettaglio: ENI, tra le prime a rassicurare i mercati, ha comunicato che le sue infrastrutture nel paese sono intatte e continuano a soddisfare circa il 50% del fabbisogno di gas delle centrali elettriche venezuelane. Chi estrae petrolio in un paese devastato mentre i suoi cittadini scavano a mani nude tra le macerie non finisce sui titoli. Finisce nei bilanci. Nel frattempo Trump ha offerto aiuti immediati allo stesso governo che Washington ha sanzionato, boicottato e tentato di rovesciare per un decennio — perché, si sa, le emergenze umanitarie sono più semplici da gestire quando il sottosuolo è pieno di greggio."
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Vertice Meloni-Macron ad Antibes: 9 accordi firmati su difesa, nucleare, spazio e Libano",
+          "fonte": "ANSA / Il Messaggero / Il Politico Web",
+          "cerca_url": "https://www.google.com/search?q=vertice+Meloni+Macron+Antibes+accordi+difesa+nucleare+2026",
+          "post_x": "Meloni e Macron si abbracciano ad Antibes e firmano 9 accordi. Tra i beneficiari: Leonardo, Thales, Airbus. Interscambio Italia-Francia: 112 miliardi. I 'rapporti glaciali' duravano quanto serviva. #Antibes #MeloniMacron",
+          "post_sito": "Ad Antibes si è consumata la grande riconciliazione: Meloni e Macron, dopo mesi di retroscena sui rapporti gelidi, si sono seduti a Villa Eilenroc e hanno firmato nove accordi su difesa, nucleare, spazio, Libano e immigrazione. Il titolo è 'nuova alleanza europea'. La domanda che nessuno pone è: chi ci guadagna? La risposta è nei comunicati stessi — Leonardo, Thales e Airbus sono già in joint venture (progetto Bromo) e i missili Aster e il sistema SAMP/T saranno al centro di una roadmap industriale 2026-2031 finanziata con fondi europei per la difesa. L'interscambio bilaterale ha superato i 112 miliardi di euro nel 2025: con questi numeri, i 'rapporti glaciali' erano un lusso che né Roma né Parigi potevano permettersi a lungo. Il contesto rimosso: entrambi i leader sono indeboliti sul fronte interno — Macron in caduta libera nei sondaggi, Meloni sotto pressione dopo le tensioni con Washington sul caso Iran — e un vertice fotografato bene serve a entrambi molto più di qualunque accordo scritto."
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Confindustria: economia italiana in stallo, inflazione al 3,2% e turismo straniero in calo del 3,2%",
+          "fonte": "Confindustria / Il Sole 24 Ore",
+          "cerca_url": "https://www.google.com/search?q=Confindustria+economia+stallo+inflazione+tassi+giugno+2026",
+          "post_x": "Confindustria: economia in stallo, inflazione +3,2%, turismo straniero -3,2%, BCE alza i tassi al 2,25%. Eppure ENI in Borsa +1,73% oggi. Cercate il filo. #economia #inflazione #Italia2026",
+          "post_sito": "Il Centro Studi di Confindustria è impietoso: nel secondo trimestre 2026 l'economia italiana è ferma, l'inflazione — spinta dai prezzi energetici cresciuti dell'11,9% annuo — ha raggiunto il 3,2%, il turismo straniero segna un -3,2% e l'export arretra del 2,8%. La BCE ha risposto alzando i tassi al 2,25%, aumentando il costo del credito al 3,56% medio: una medicina che cura il sintomo colpendo il paziente. Il racconto ufficiale addossa tutto alla guerra in Iran e alla chiusura dello Stretto di Hormuz — cause reali, per carità — ma omette chi in questo scenario ha guadagnato: il prezzo del Brent è passato da 69 dollari di febbraio a un picco di 104 dollari a maggio, e le compagnie petrolifere — ENI in testa, +1,73% in Borsa proprio oggi — hanno incassato margini record mentre famiglie e imprese pagavano bollette record. Non è complottismo: è aritmetica. Il ministro Urso ha convocato per domani Api, ENI, Q8 e Tamoil. Un incontro tra chi chiede spiegazioni e chi ha già incassato i profitti."
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Mondiali 2026: Brasile-Giappone e Germania-Paraguay ai sedicesimi, la fase a eliminazione diretta entra nel vivo",
+          "fonte": "Sky Sport / ANSA / Adnkronos",
+          "cerca_url": "https://www.google.com/search?q=Mondiali+2026+Brasile+Giappone+Germania+Paraguay+29+giugno",
+          "post_x": "Mondiali 2026: Brasile-Giappone su Rai 1 gratis, Germania-Paraguay solo su DAZN a pagamento. Il calcio 'popolare' si vede a metà. Chi paga l'abbonamento lo sa già. #Mondiali2026 #DAZN",
+          "post_sito": "Oggi ai Mondiali 2026 scendono in campo Brasile e Germania, le due nazionali più titolate della storia del torneo, nei sedicesimi di finale contro Giappone e Paraguay. Il circo mediatico è in piena attività: ascolti, pronostici, formazioni. Quello che non si dice è che il torneo ospitato da USA, Canada e Messico vale alla FIFA circa 11 miliardi di dollari di introiti stimati — il più ricco della storia — di cui una quota minima torna ai paesi che formano i calciatori, spesso nazioni povere eliminate nei gironi. Il Giappone, outsider annunciato e già capace di eliminare squadre blasonate nelle ultime edizioni, qui vale come 'ostacolo esotico' del Brasile di Ancelotti. In Italia, la partita del Brasile si vede gratis su Rai 1, quella della Germania solo su DAZN: il calcio 'sport popolare' ha ormai due velocità, una per chi può pagare l'abbonamento e una per chi si accontenta. Il mercato dei diritti televisivi dei Mondiali vale miliardi: in Italia DAZN ha acquisito la copertura totale, mentre la Rai si è garantita solo alcune partite. La domanda è semplice: a chi appartiene il calcio?"
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Caldo estremo in Italia: aumentano le chiamate al 118, reattori spenti in Francia per il calore dei fiumi",
+          "fonte": "ANSA / Today.it",
+          "cerca_url": "https://www.google.com/search?q=caldo+estremo+Italia+giugno+2026+118+emergenza+sanitaria",
+          "post_x": "Caldo record: 118 in allarme in Italia, reattori nucleari spenti in Francia perché i fiumi sono troppo caldi. L'emergenza è climatica. Il business del condizionatore no. #caldo2026 #emergenzaclimatica",
+          "post_sito": "L'ondata di calore che sta investendo l'Italia e l'Europa non è una notizia nuova — lo stesso meccanismo meteorologico si ripete, ma su un pianeta più caldo produce temperature sempre più estreme. Le chiamate al 118 sono in aumento, anche se in linea con le ultime estati, segnale che 'la normalità' si è già spostata verso l'emergenza. In Francia, il caldo ha costretto allo spegnimento di alcuni reattori nucleari perché le acque dei fiumi erano troppo calde per raffreddarli — un paradosso che rivela la fragilità di infrastrutture progettate per un clima che non esiste più. Il racconto dominante si concentra sui consigli comportamentali: 'bevete acqua, evitate le ore centrali'. Quello che non si dice è chi guadagna: il settore del condizionamento d'aria ha registrato vendite record negli ultimi tre anni, con margini in crescita per i produttori di impianti, mentre i costi energetici — già al 3,2% di inflazione — ricadono sulle famiglie che non possono permettersi di non usarli. Il calore uccide soprattutto chi non ha le risorse per difendersene: anziani soli, lavoratori all'aperto, migranti in condizioni precarie. Sono loro l'invisibile statistica estiva."
+        }
+      ]
+    }
+  ],
+  "ultimo_aggiornamento": "2026-06-29T11:02:21.995717+00:00"
 }
