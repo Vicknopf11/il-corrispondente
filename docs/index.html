@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Il Corrispondente Artificiale</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Georgia', serif;
+      background: #f5f0e8;
+      color: #1a1a1a;
+      min-height: 100vh;
+    }
+
+    header {
+      background: #1a1a1a;
+      color: #f5f0e8;
+      text-align: center;
+      padding: 2rem 1rem 1.5rem;
+      border-bottom: 4px solid #c0392b;
+    }
+
+    header h1 {
+      font-size: 2.8rem;
+      letter-spacing: 0.05em;
+      font-variant: small-caps;
+    }
+
+    .sottotitolo {
+      font-size: 0.95rem;
+      color: #ccc;
+      margin-top: 0.4rem;
+      font-style: italic;
+    }
+
+    .tagline {
+      font-size: 0.8rem;
+      color: #888;
+      margin-top: 0.3rem;
+    }
+
+    nav {
+      margin-top: 1rem;
+    }
+
+    nav a {
+      color: #aaa;
+      text-decoration: none;
+      font-size: 0.8rem;
+      margin: 0 0.8rem;
+      font-family: Arial, sans-serif;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+
+    nav a:hover { color: white; }
+
+    #data-aggiornamento {
+      font-size: 0.75rem;
+      color: #666;
+      margin-top: 0.5rem;
+    }
+
+    main {
+      max-width: 780px;
+      margin: 0 auto;
+      padding: 2rem 1rem;
+    }
+
+    .edizione { margin-bottom: 3rem; }
+
+    .edizione-header {
+      border-bottom: 2px solid #1a1a1a;
+      margin-bottom: 1.5rem;
+      padding-bottom: 0.4rem;
+      display: flex;
+      align-items: baseline;
+      gap: 1rem;
+    }
+
+    .edizione-data {
+      font-size: 1.1rem;
+      font-weight: bold;
+      letter-spacing: 0.05em;
+    }
+
+    .edizione-label {
+      font-size: 0.8rem;
+      color: #888;
+      font-style: italic;
+    }
+
+    .categoria-label {
+      display: inline-block;
+      font-size: 0.7rem;
+      font-family: Arial, sans-serif;
+      font-weight: bold;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: white;
+      background: #c0392b;
+      padding: 0.2rem 0.6rem;
+      margin-bottom: 0.8rem;
+    }
+
+    .categoria-label.internazionale { background: #2c3e50; }
+    .categoria-label.nazionale      { background: #c0392b; }
+    .categoria-label.economia       { background: #27ae60; }
+    .categoria-label.sport          { background: #2980b9; }
+    .categoria-label.cronaca        { background: #8e44ad; }
+
+    .post-card {
+      background: white;
+      border-left: 4px solid #c0392b;
+      padding: 1rem 1.2rem;
+      margin-bottom: 1.2rem;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    }
+
+    .post-card.internazionale { border-left-color: #2c3e50; }
+    .post-card.economia       { border-left-color: #27ae60; }
+    .post-card.sport          { border-left-color: #2980b9; }
+    .post-card.cronaca        { border-left-color: #8e44ad; }
+
+    .post-titolo {
+      font-size: 1rem;
+      font-weight: bold;
+      margin-bottom: 0.6rem;
+      line-height: 1.4;
+    }
+
+    .post-testo {
+      font-size: 0.95rem;
+      line-height: 1.7;
+      margin-bottom: 0.8rem;
+      color: #333;
+    }
+
+    .post-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+
+    .post-fonte {
+      font-size: 0.75rem;
+      color: #aaa;
+      font-style: italic;
+    }
+
+    .btn-copia {
+      font-size: 0.75rem;
+      background: #1a1a1a;
+      color: white;
+      border: none;
+      padding: 0.3rem 0.8rem;
+      cursor: pointer;
+      font-family: inherit;
+      transition: background 0.2s;
+    }
+
+    .btn-copia:hover { background: #c0392b; }
+    .btn-copia.copiato { background: #27ae60; }
+
+    #loading {
+      text-align: center;
+      padding: 3rem;
+      color: #888;
+      font-style: italic;
+    }
+
+    footer {
+      text-align: center;
+      padding: 2rem;
+      font-size: 0.75rem;
+      color: #aaa;
+      border-top: 1px solid #ddd;
+      line-height: 1.8;
+    }
+
+    footer a { color: #aaa; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Il Corrispondente Artificiale</h1>
+  <p class="sottotitolo">Nessuna notizia è stata ferita durante la redazione</p>
+  <p class="tagline">Satira generata ogni mattina con l'aiuto dell'intelligenza artificiale</p>
+  <nav>
+    <a href="index.html">Edizioni</a>
+    <a href="chi-siamo.html">Chi siamo</a>
+  </nav>
+  <div id="data-aggiornamento"></div>
+</header>
+
+<main id="contenuto">
+  <div id="loading">Caricamento edizioni...</div>
+</main>
+
+<footer>
+  Il Corrispondente Artificiale · generato ogni giorno alle 09:00 da Claude (Anthropic)<br>
+  <a href="chi-siamo.html">Come funziona · Manifesto editoriale</a>
+</footer>
+
+<script>
+function esc(s) {
+  return String(s)
+    .replace(/&/g,'&amp;')
+    .replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;')
+    .replace(/"/g,'&quot;');
+}
+
+function formatData(d) {
+  if (!d) return '';
+  const [y, m, g] = d.split('-');
+  const mesi = ['','gennaio','febbraio','marzo','aprile','maggio','giugno',
+                 'luglio','agosto','settembre','ottobre','novembre','dicembre'];
+  return `${parseInt(g)} ${mesi[parseInt(m)]} ${y}`;
+}
+
+function slugCategoria(cat) {
+  if (!cat) return '';
+  const c = cat.toLowerCase();
+  if (c.includes('intern')) return 'internazionale';
+  if (c.includes('naz'))    return 'nazionale';
+  if (c.includes('econ'))   return 'economia';
+  if (c.includes('sport'))  return 'sport';
+  if (c.includes('cron'))   return 'cronaca';
+  return '';
+}
+
+function renderPost(p) {
+  const slug = slugCategoria(p.categoria);
+  return `
+    <div class="post-card ${slug}">
+      <div class="categoria-label ${slug}">${esc(p.categoria || '')}</div>
+      <div class="post-titolo">${esc(p.titolo || '')}</div>
+      <div class="post-testo">${esc(p.post_sito || p.post || '')}</div>
+      <div class="post-footer">
+        <span class="post-fonte">Fonte: ${esc(p.fonte || 'varie')}</span>
+        <button class="btn-copia" data-testo="${esc(p.post_x || p.post_sito || p.post || '')}">Copia per X</button>
+      </div>
+    </div>`;
+}
+
+async function caricaArchivio() {
+  const contenuto = document.getElementById('contenuto');
+  try {
+    const r = await fetch('posts.json?t=' + Date.now());
+    const archivio = await r.json();
+
+    if (!archivio.edizioni || archivio.edizioni.length === 0) {
+      contenuto.innerHTML = '<p style="text-align:center;color:#888;padding:3rem">Nessuna edizione ancora.</p>';
+      return;
+    }
+
+    if (archivio.ultimo_aggiornamento) {
+      const d = new Date(archivio.ultimo_aggiornamento);
+      document.getElementById('data-aggiornamento').textContent =
+        'Ultimo aggiornamento: ' + d.toLocaleString('it-IT');
+    }
+
+    contenuto.innerHTML = archivio.edizioni.map((ed, i) => `
+      <div class="edizione">
+        <div class="edizione-header">
+          <span class="edizione-data">${esc(formatData(ed.data))}</span>
+          ${i === 0 ? '<span class="edizione-label">ultima edizione</span>' : ''}
+        </div>
+        ${(ed.post || []).map(p => renderPost(p)).join('')}
+      </div>
+    `).join('');
+
+    document.querySelectorAll('.btn-copia').forEach(btn => {
+      btn.addEventListener('click', function() {
+        navigator.clipboard.writeText(this.dataset.testo).then(() => {
+          const orig = this.textContent;
+          this.textContent = 'Copiato ✓';
+          this.classList.add('copiato');
+          setTimeout(() => { this.textContent = orig; this.classList.remove('copiato'); }, 2000);
+        });
+      });
+    });
+
+  } catch(e) {
+    contenuto.innerHTML = '<p style="text-align:center;color:#c0392b;padding:3rem">Errore nel caricamento. Riprova.</p>';
+  }
+}
+
+caricaArchivio();
+</script>
+</body>
+</html>
