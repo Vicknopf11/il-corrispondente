@@ -8,6 +8,7 @@ import json
 import os
 import re
 from datetime import datetime, timezone
+from email.utils import format_datetime
 import anthropic
 
 # ── Configurazione ──────────────────────────────────────────────
@@ -20,6 +21,8 @@ CATEGORIE = [
 ]
 MAX_ARCHIVIO_GIORNI = 30
 POSTS_FILE = "docs/posts.json"
+FEED_FILE = "docs/feed.xml"
+SITE_URL = "https://vicknopf11.github.io/il-corrispondente"
 PUBBLICA_SU_X = os.environ.get("PUBBLICA_SU_X", "false").lower() == "true"
 # ────────────────────────────────────────────────────────────────
 
@@ -57,40 +60,29 @@ SYSTEM_PROMPT = """Sei Il Corrispondente Artificiale, un cronista satirico gener
 
    Esempi concreti:
    - Sul clima: non mettere in discussione il consenso scientifico, ma non omettere
-     dati reali (benefici agricoli di più CO2 in certe zone, complessità degli scenari)
-     per sostenere una narrativa apocalittica. La satira colpisce chi semplifica
-     in qualsiasi direzione.
+     dati reali per sostenere una narrativa apocalittica.
    - Sulla violenza: non esiste una categoria umana intrinsecamente violenta.
-     La violenza è un problema umano con forme e contesti diversi. La satira colpisce
-     chi usa le vittime per fare propaganda invece di cercare soluzioni.
+     La violenza è un problema umano con forme e contesti diversi.
    - Sulla geopolitica: raramente c'è un solo colpevole. Sanzioni, ingerenze storiche,
-     interessi economici, egemonie — tutti elementi da citare quando il racconto dominante
-     indica un unico responsabile.
+     interessi economici, egemonie — tutti elementi da citare.
    - Sull'economia: dietro ogni crisi ci sono sempre attori che ci guadagnano.
      Nominarli con cifre concrete è giornalismo, non complottismo.
 
 4. RISPETTO UNIVERSALE
    La satira graffia le idee e i comportamenti, mai le persone in quanto esseri umani.
    Non si discrimina, non si insulta, non si disumanizza — nemmeno il peggior criminale.
-   Si onora sempre la vita umana e la dignità di ogni individuo.
-   Non esiste una categoria umana intrinsecamente buona o cattiva —
-   né per sesso, né per razza, né per orientamento politico o sessuale.
+   Non esiste una categoria umana intrinsecamente buona o cattiva.
    Chi sostituisce l'analisi con l'identità merita ironia.
 
 5. TONO
    Cinico e disincantato come un vecchio cronista che ha visto troppo.
    Asciutto, battute secche. Mai volgare, mai crudele.
    Graffiante ma elegante — alla Flaiano, alla Longanesi.
-   Quando citi chi ci guadagna economicamente, fallo con la precisione fredda
-   di chi conosce i numeri — non con indignazione, ma con ironia tagliente.
 
 ━━━ FONTI ━━━
 
-Cerca le notizie su testate italiane e internazionali autorevoli:
-
 Italiane: Corriere della Sera, Repubblica, La Stampa, Il Sole 24 Ore, ANSA, Il Post,
-Il Fatto Quotidiano, Il Messaggero, TGCom24, Sky TG24, Fanpage,
-tutte le principali testate nazionali.
+Il Fatto Quotidiano, Il Messaggero, TGCom24, Sky TG24, Fanpage e altre testate nazionali.
 
 Internazionali: BBC, The Guardian, Le Monde, Der Spiegel, Al Jazeera, The Economist,
 New York Times, Washington Post, Reuters, AP.
@@ -101,7 +93,6 @@ Privilegia fonti diverse tra loro per ogni categoria.
 
 def genera_post() -> dict:
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
-
     categorie_str = "\n".join(f"- {c}" for c in CATEGORIE)
 
     prompt = f"""Cerca la notizia più significativa di oggi per ognuna di queste categorie:
@@ -109,23 +100,14 @@ def genera_post() -> dict:
 
 Per ogni notizia applica la filosofia editoriale del Corrispondente Artificiale:
 - Privilegia l'angolazione controcorrente rispetto all'opinione dominante
-- Se tutti attaccano o difendono un tema, cerca l'assurdità nel coro stesso
 - Cerca sempre chi ci guadagna economicamente — con cifre concrete quando possibile
 - Cita il contesto storico che il racconto dominante rimuove
-- Nomina la notizia importante che questo clamore sta coprendo
 
 Per ogni categoria genera DUE versioni satiriche:
-- post_x: versione breve per X/Twitter, max 280 caratteri, tono asciutto e tagliente
-- post_sito: versione lunga per il sito, 3-5 frasi, include contesto, chi ci guadagna
-  economicamente (con cifre), cosa viene taciuto, commento satirico sviluppato
+- post_x: versione breve per X/Twitter, max 280 caratteri
+- post_sito: versione lunga 3-5 frasi con contesto, chi ci guadagna, cosa viene taciuto
 
-Per ogni post includi anche:
-- titolo: titolo breve della notizia
-- fonte: nome della testata principale
-- cerca_url: URL Google costruito come "https://www.google.com/search?q=" + titolo
-  con spazi sostituiti da "+"
-
-Rispondi SOLO con un oggetto JSON valido, senza markdown, senza backtick, senza testo prima o dopo.
+Rispondi SOLO con un oggetto JSON valido, senza markdown, senza backtick.
 Formato esatto:
 
 {{
@@ -137,7 +119,7 @@ Formato esatto:
       "fonte": "nome testata",
       "cerca_url": "https://www.google.com/search?q=titolo+della+notizia",
       "post_x": "testo breve max 280 caratteri per X",
-      "post_sito": "testo lungo con contesto, chi ci guadagna, cosa viene taciuto"
+      "post_sito": "testo lungo con contesto e commento satirico"
     }}
   ]
 }}"""
@@ -172,21 +154,17 @@ def pubblica_su_x(post: dict) -> None:
             os.environ["X_ACCESS_TOKEN"],
             os.environ["X_ACCESS_SECRET"],
         )
-
         testo = post.get("post_x") or post.get("post_sito", "")[:280]
-
         r = requests.post(
             "https://api.twitter.com/2/tweets",
             auth=auth,
             json={"text": testo},
             timeout=10,
         )
-
         if r.status_code == 201:
             print(f"  ✓ X: pubblicato — {testo[:60]}...")
         else:
             print(f"  ✗ X: errore {r.status_code} — {r.text}")
-
     except Exception as e:
         print(f"  ✗ X: eccezione — {e}")
 
@@ -208,6 +186,65 @@ def aggiorna_archivio(nuova_edizione: dict) -> None:
     print(f"✓ Archivio aggiornato — {len(archivio['edizioni'])} edizioni salvate")
 
 
+def genera_rss(archivio: dict) -> None:
+    """Genera feed.xml RSS 2.0 dalle ultime edizioni."""
+
+    def xml_esc(s: str) -> str:
+        return (str(s)
+                .replace("&", "&amp;")
+                .replace("<", "&lt;")
+                .replace(">", "&gt;")
+                .replace('"', "&quot;"))
+
+    def data_rss(data_str: str) -> str:
+        try:
+            d = datetime.strptime(data_str, "%Y-%m-%d").replace(
+                hour=9, tzinfo=timezone.utc
+            )
+            return format_datetime(d)
+        except Exception:
+            return format_datetime(datetime.now(timezone.utc))
+
+    items = []
+    for ed in archivio.get("edizioni", [])[:10]:  # ultime 10 edizioni
+        data = ed.get("data", "")
+        for p in ed.get("post", []):
+            titolo = xml_esc(p.get("titolo", ""))
+            categoria = xml_esc(p.get("categoria", ""))
+            testo = xml_esc(p.get("post_sito") or p.get("post", ""))
+            fonte = xml_esc(p.get("fonte", ""))
+            link = p.get("cerca_url") or SITE_URL
+            pub_date = data_rss(data)
+
+            items.append(f"""    <item>
+      <title>[{categoria}] {titolo}</title>
+      <link>{xml_esc(link)}</link>
+      <description>{testo} — Fonte: {fonte}</description>
+      <pubDate>{pub_date}</pubDate>
+      <guid isPermaLink="false">{xml_esc(data)}-{xml_esc(p.get('categoria',''))}-{xml_esc(titolo[:30])}</guid>
+      <category>{categoria}</category>
+    </item>""")
+
+    now_rss = format_datetime(datetime.now(timezone.utc))
+    feed = f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Il Corrispondente Artificiale</title>
+    <link>{SITE_URL}</link>
+    <description>Organo Ufficiale della Satira Artificialmente Ragionata — Fondato per necessità e per noia</description>
+    <language>it</language>
+    <lastBuildDate>{now_rss}</lastBuildDate>
+    <atom:link href="{SITE_URL}/feed.xml" rel="self" type="application/rss+xml"/>
+{chr(10).join(items)}
+  </channel>
+</rss>"""
+
+    with open(FEED_FILE, "w", encoding="utf-8") as f:
+        f.write(feed)
+
+    print(f"✓ RSS generato — {len(items)} item")
+
+
 if __name__ == "__main__":
     print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M')}] Avvio generazione...")
     edizione = genera_post()
@@ -220,4 +257,10 @@ if __name__ == "__main__":
             pubblica_su_x(p)
 
     aggiorna_archivio(edizione)
+
+    # Ricarica archivio aggiornato per RSS
+    with open(POSTS_FILE, encoding="utf-8") as f:
+        archivio = json.load(f)
+    genera_rss(archivio)
+
     print("✓ Fatto.")

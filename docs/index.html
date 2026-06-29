@@ -93,7 +93,6 @@
       display: flex;
       justify-content: center;
       flex-wrap: wrap;
-      gap: 0;
       border-bottom: 2px solid #c0392b;
       position: sticky;
       top: 0;
@@ -117,17 +116,71 @@
     }
 
     .tab-btn:hover { color: #ddd; }
-
-    .tab-btn.attivo {
-      color: white;
-      border-bottom-color: #c0392b;
-    }
-
+    .tab-btn.attivo { color: white; border-bottom-color: #c0392b; }
     .tab-btn.attivo.internazionale { border-bottom-color: #2c3e50; }
     .tab-btn.attivo.nazionale      { border-bottom-color: #c0392b; }
     .tab-btn.attivo.economia       { border-bottom-color: #27ae60; }
     .tab-btn.attivo.sport          { border-bottom-color: #2980b9; }
     .tab-btn.attivo.cronaca        { border-bottom-color: #8e44ad; }
+
+    /* ── ARCHIVIO SELETTORE ── */
+    .archivio-bar {
+      background: #f0ebe0;
+      border-bottom: 1px solid #ddd;
+      padding: 0.6rem 1rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.8rem;
+      flex-wrap: wrap;
+    }
+
+    .archivio-label {
+      font-size: 0.75rem;
+      font-family: Arial, sans-serif;
+      color: #888;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+
+    #selettore-data {
+      font-family: 'Georgia', serif;
+      font-size: 0.85rem;
+      background: white;
+      border: 1px solid #ccc;
+      padding: 0.3rem 0.6rem;
+      color: #1a1a1a;
+      cursor: pointer;
+    }
+
+    .archivio-nav {
+      display: flex;
+      gap: 0.4rem;
+    }
+
+    .btn-nav {
+      background: #1a1a1a;
+      color: white;
+      border: none;
+      padding: 0.3rem 0.7rem;
+      font-size: 0.8rem;
+      cursor: pointer;
+      font-family: Arial, sans-serif;
+      transition: background 0.2s;
+    }
+
+    .btn-nav:hover { background: #c0392b; }
+    .btn-nav:disabled { background: #ccc; cursor: default; }
+
+    .rss-link {
+      font-size: 0.75rem;
+      font-family: Arial, sans-serif;
+      color: #e67e22;
+      text-decoration: none;
+      letter-spacing: 0.05em;
+    }
+
+    .rss-link:hover { color: #c0392b; }
 
     /* ── MAIN ── */
     main {
@@ -220,11 +273,7 @@
       font-style: italic;
     }
 
-    .post-fonte a {
-      color: #aaa;
-      text-decoration: none;
-    }
-
+    .post-fonte a { color: #aaa; text-decoration: none; }
     .post-fonte a:hover { color: #c0392b; }
 
     .btn-copia {
@@ -277,13 +326,23 @@
   <div id="data-aggiornamento"></div>
 </header>
 
-<div class="tab-bar" id="tab-bar">
+<div class="tab-bar">
   <button class="tab-btn attivo" data-cat="tutte">Tutte</button>
   <button class="tab-btn internazionale" data-cat="internazionale">Internazionale</button>
   <button class="tab-btn nazionale" data-cat="nazionale">Nazionale</button>
   <button class="tab-btn economia" data-cat="economia">Economia</button>
   <button class="tab-btn sport" data-cat="sport">Sport</button>
   <button class="tab-btn cronaca" data-cat="cronaca">Cronaca</button>
+</div>
+
+<div class="archivio-bar">
+  <span class="archivio-label">Edizione:</span>
+  <select id="selettore-data"></select>
+  <div class="archivio-nav">
+    <button class="btn-nav" id="btn-prec" title="Edizione precedente">&#8592;</button>
+    <button class="btn-nav" id="btn-succ" title="Edizione successiva">&#8594;</button>
+  </div>
+  <a class="rss-link" href="feed.xml" title="Abbonati via RSS">&#9654; RSS</a>
 </div>
 
 <main id="contenuto">
@@ -293,7 +352,9 @@
 <footer>
   Il Corrispondente Artificiale &mdash; Tutti i diritti satiricamente riservati<br>
   Nessuna notizia è stata danneggiata durante la produzione di questo contenuto<br>
-  Generato ogni mattina da Claude (Anthropic) &middot; <a href="chi-siamo.html">Chi siamo &middot; Manifesto editoriale</a>
+  Generato ogni mattina da Claude (Anthropic) &middot;
+  <a href="chi-siamo.html">Chi siamo &middot; Manifesto editoriale</a> &middot;
+  <a href="feed.xml">RSS</a>
 </footer>
 
 <script>
@@ -311,7 +372,9 @@ function formatData(d) {
   const [y, m, g] = d.split('-');
   const mesi = ['','gennaio','febbraio','marzo','aprile','maggio','giugno',
                 'luglio','agosto','settembre','ottobre','novembre','dicembre'];
-  return `${parseInt(g)} ${mesi[parseInt(m)]} ${y}`;
+  const giorni = ['domenica','lunedì','martedì','mercoledì','giovedì','venerdì','sabato'];
+  const data = new Date(y, parseInt(m)-1, parseInt(g));
+  return `${giorni[data.getDay()]} ${parseInt(g)} ${mesi[parseInt(m)]} ${y}`;
 }
 
 function slugCategoria(cat) {
@@ -326,17 +389,21 @@ function slugCategoria(cat) {
 }
 
 // ── Data header ──────────────────────────────────────────────────
-function giornoSettimana(d) {
+(function() {
+  const d = new Date();
   const giorni = ['DOMENICA','LUNEDÌ','MARTEDÌ','MERCOLEDÌ','GIOVEDÌ','VENERDÌ','SABATO'];
   const mesi = ['GENNAIO','FEBBRAIO','MARZO','APRILE','MAGGIO','GIUGNO',
                 'LUGLIO','AGOSTO','SETTEMBRE','OTTOBRE','NOVEMBRE','DICEMBRE'];
-  return `${giorni[d.getDay()]} ${d.getDate()} ${mesi[d.getMonth()]} ${d.getFullYear()} · Agente Satirico v1.0`;
-}
-document.getElementById('data-oggi').textContent = giornoSettimana(new Date());
+  document.getElementById('data-oggi').textContent =
+    `${giorni[d.getDay()]} ${d.getDate()} ${mesi[d.getMonth()]} ${d.getFullYear()} · Agente Satirico v1.0`;
+})();
 
-// ── Tab logic ────────────────────────────────────────────────────
+// ── Stato ────────────────────────────────────────────────────────
+let archivioGlobale = [];
+let indiceAttivo = 0;
 let categoriaAttiva = 'tutte';
 
+// ── Tab ──────────────────────────────────────────────────────────
 document.querySelectorAll('.tab-btn').forEach(btn => {
   btn.addEventListener('click', function() {
     document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('attivo'));
@@ -348,18 +415,40 @@ document.querySelectorAll('.tab-btn').forEach(btn => {
 
 function filtraPost() {
   document.querySelectorAll('.post-card').forEach(card => {
-    if (categoriaAttiva === 'tutte' || card.dataset.slug === categoriaAttiva) {
-      card.style.display = '';
-    } else {
-      card.style.display = 'none';
-    }
+    card.style.display =
+      (categoriaAttiva === 'tutte' || card.dataset.slug === categoriaAttiva) ? '' : 'none';
   });
-  // Nascondi edizioni completamente vuote
-  document.querySelectorAll('.edizione').forEach(ed => {
-    const visibili = [...ed.querySelectorAll('.post-card')]
-      .filter(c => c.style.display !== 'none');
-    ed.style.display = visibili.length === 0 ? 'none' : '';
-  });
+}
+
+// ── Selettore data ───────────────────────────────────────────────
+const selettore = document.getElementById('selettore-data');
+const btnPrec = document.getElementById('btn-prec');
+const btnSucc = document.getElementById('btn-succ');
+
+selettore.addEventListener('change', function() {
+  indiceAttivo = parseInt(this.value);
+  renderEdizione();
+});
+
+btnPrec.addEventListener('click', function() {
+  if (indiceAttivo < archivioGlobale.length - 1) {
+    indiceAttivo++;
+    selettore.value = indiceAttivo;
+    renderEdizione();
+  }
+});
+
+btnSucc.addEventListener('click', function() {
+  if (indiceAttivo > 0) {
+    indiceAttivo--;
+    selettore.value = indiceAttivo;
+    renderEdizione();
+  }
+});
+
+function aggiornaNav() {
+  btnPrec.disabled = indiceAttivo >= archivioGlobale.length - 1;
+  btnSucc.disabled = indiceAttivo <= 0;
 }
 
 // ── Render ───────────────────────────────────────────────────────
@@ -380,6 +469,37 @@ function renderPost(p) {
     </div>`;
 }
 
+function renderEdizione() {
+  const contenuto = document.getElementById('contenuto');
+  const ed = archivioGlobale[indiceAttivo];
+  if (!ed) return;
+
+  const isOggi = indiceAttivo === 0;
+  contenuto.innerHTML = `
+    <div class="edizione">
+      <div class="edizione-header">
+        <span class="edizione-data">${esc(formatData(ed.data))}</span>
+        ${isOggi ? '<span class="edizione-label">ultima edizione</span>' : ''}
+      </div>
+      ${(ed.post || []).map(p => renderPost(p)).join('')}
+    </div>`;
+
+  document.querySelectorAll('.btn-copia').forEach(btn => {
+    btn.addEventListener('click', function() {
+      navigator.clipboard.writeText(this.dataset.testo).then(() => {
+        const orig = this.textContent;
+        this.textContent = 'Copiato ✓';
+        this.classList.add('copiato');
+        setTimeout(() => { this.textContent = orig; this.classList.remove('copiato'); }, 2000);
+      });
+    });
+  });
+
+  filtraPost();
+  aggiornaNav();
+}
+
+// ── Carica archivio ──────────────────────────────────────────────
 async function caricaArchivio() {
   const contenuto = document.getElementById('contenuto');
   try {
@@ -391,36 +511,22 @@ async function caricaArchivio() {
       return;
     }
 
+    archivioGlobale = archivio.edizioni;
+
     if (archivio.ultimo_aggiornamento) {
       const d = new Date(archivio.ultimo_aggiornamento);
       document.getElementById('data-aggiornamento').textContent =
         'Ultimo aggiornamento: ' + d.toLocaleString('it-IT');
     }
 
-    contenuto.innerHTML = archivio.edizioni.map((ed, i) => `
-      <div class="edizione">
-        <div class="edizione-header">
-          <span class="edizione-data">${esc(formatData(ed.data))}</span>
-          ${i === 0 ? '<span class="edizione-label">ultima edizione</span>' : ''}
-        </div>
-        ${(ed.post || []).map(p => renderPost(p)).join('')}
-      </div>
-    `).join('');
+    // Popola selettore
+    selettore.innerHTML = archivioGlobale.map((ed, i) => {
+      const label = i === 0 ? `${ed.data} (ultima)` : ed.data;
+      return `<option value="${i}">${label}</option>`;
+    }).join('');
 
-    // Bottoni copia
-    document.querySelectorAll('.btn-copia').forEach(btn => {
-      btn.addEventListener('click', function() {
-        navigator.clipboard.writeText(this.dataset.testo).then(() => {
-          const orig = this.textContent;
-          this.textContent = 'Copiato ✓';
-          this.classList.add('copiato');
-          setTimeout(() => { this.textContent = orig; this.classList.remove('copiato'); }, 2000);
-        });
-      });
-    });
-
-    // Applica filtro attivo se diverso da "tutte"
-    if (categoriaAttiva !== 'tutte') filtraPost();
+    indiceAttivo = 0;
+    renderEdizione();
 
   } catch(e) {
     contenuto.innerHTML = '<p style="text-align:center;color:#c0392b;padding:3rem">Errore nel caricamento. Riprova.</p>';
