@@ -28,11 +28,30 @@
       font-variant: small-caps;
     }
 
-    .sottotitolo {
+    .organo {
+      font-size: 0.85rem;
+      color: #bbb;
+      font-style: italic;
+      margin-top: 0.3rem;
+    }
+
+    .citazione {
       font-size: 0.95rem;
       color: #ccc;
-      margin-top: 0.4rem;
       font-style: italic;
+      margin-top: 0.8rem;
+      border-top: 1px solid #333;
+      border-bottom: 1px solid #333;
+      padding: 0.5rem 2rem;
+      display: inline-block;
+    }
+
+    .nessuna-notizia {
+      font-size: 0.75rem;
+      color: #666;
+      margin-top: 0.5rem;
+      font-family: Arial, sans-serif;
+      letter-spacing: 0.05em;
     }
 
     nav {
@@ -131,7 +150,9 @@
 
 <header>
   <h1>Il Corrispondente Artificiale</h1>
-  <p class="sottotitolo">Nessuna notizia è stata ferita durante la redazione</p>
+  <p class="organo">Organo Ufficiale della Satira Artificialmente Ragionata &mdash; Fondato per necessità e per noia</p>
+  <p class="citazione">&laquo;La realtà è già satira. Noi aggiungiamo solo la punteggiatura.&raquo;</p>
+  <p class="nessuna-notizia">Nessuna notizia è stata danneggiata durante la redazione</p>
   <nav>
     <a href="index.html">Edizioni</a>
     <a href="chi-siamo.html" class="attivo">Chi siamo</a>
@@ -217,8 +238,9 @@
 </main>
 
 <footer>
-  Il Corrispondente Artificiale · generato ogni giorno alle 09:00 da Claude (Anthropic)<br>
-  <a href="index.html">← Torna alle edizioni</a>
+  Il Corrispondente Artificiale &mdash; Tutti i diritti satiricamente riservati<br>
+  Nessuna notizia è stata danneggiata durante la produzione di questo contenuto<br>
+  Generato ogni mattina da Claude (Anthropic) &middot; <a href="index.html">← Torna alle edizioni</a>
 </footer>
 
 </body>
