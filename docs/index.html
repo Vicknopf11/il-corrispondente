@@ -243,7 +243,7 @@ function renderPost(p) {
       <div class="post-titolo">${esc(p.titolo || '')}</div>
       <div class="post-testo">${esc(p.post_sito || p.post || '')}</div>
       <div class="post-footer">
-        <span class="post-fonte">Fonte: ${esc(p.fonte || 'varie')}</span>
+        <span class="post-fonte">Fonte: ${esc(p.fonte || 'varie')}${p.cerca_url ? ` &nbsp;·&nbsp; <a href="${esc(p.cerca_url)}" target="_blank" rel="noopener" style="color:#aaa;text-decoration:none">Cerca notizia →</a>` : ''}</span>
         <button class="btn-copia" data-testo="${esc(p.post_x || p.post_sito || p.post || '')}">Copia per X</button>
       </div>
     </div>`;
