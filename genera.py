@@ -176,6 +176,10 @@ def aggiorna_archivio(nuova_edizione: dict) -> None:
     else:
         archivio = {"edizioni": [], "ultimo_aggiornamento": None}
 
+    data_nuova = nuova_edizione.get("data")
+    archivio["edizioni"] = [
+        e for e in archivio["edizioni"] if e.get("data") != data_nuova
+    ]
     archivio["edizioni"].insert(0, nuova_edizione)
     archivio["edizioni"] = archivio["edizioni"][:MAX_ARCHIVIO_GIORNI]
     archivio["ultimo_aggiornamento"] = datetime.now(timezone.utc).isoformat()
