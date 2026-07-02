@@ -1,0 +1,44 @@
+name: Pubblica Tweet dalla Coda
+
+on:
+  schedule:
+    - cron: '20 7 * * *'    # ~09:20 ora italiana — poco dopo la generazione
+    - cron: '37 9 * * *'    # ~11:37 ora italiana
+    - cron: '7 12 * * *'    # ~14:07 ora italiana
+    - cron: '7 15 * * *'    # ~17:07 ora italiana
+    - cron: '7 18 * * *'    # ~20:07 ora italiana
+  workflow_dispatch:         # consente esecuzione manuale
+
+jobs:
+  pubblica:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installa dipendenze
+        run: pip install requests requests-oauthlib
+
+      - name: Pubblica il prossimo tweet in coda
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+        run: python pubblica_tweet.py
+
+      - name: Commit coda aggiornata
+        run: |
+          git config user.name "Il Corrispondente Bot"
+          git config user.email "bot@il-corrispondente"
+          git add coda_x.json
+          git diff --staged --quiet || git commit -m "tweet pubblicato dalla coda"
+          git push

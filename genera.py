@@ -22,8 +22,8 @@ CATEGORIE = [
 MAX_ARCHIVIO_GIORNI = 30
 POSTS_FILE = "docs/posts.json"
 FEED_FILE = "docs/feed.xml"
+CODA_FILE = "coda_x.json"
 SITE_URL = "https://vicknopf11.github.io/il-corrispondente"
-PUBBLICA_SU_X = os.environ.get("PUBBLICA_SU_X", "false").lower() == "true"
 # ────────────────────────────────────────────────────────────────
 
 SYSTEM_PROMPT = """Sei Il Corrispondente Artificiale, un cronista satirico generato dall'intelligenza artificiale.
@@ -142,32 +142,19 @@ Formato esatto:
 
     return json.loads(match.group())
 
-
-def pubblica_su_x(post: dict) -> None:
-    try:
-        import requests
-        from requests_oauthlib import OAuth1
-
-        auth = OAuth1(
-            os.environ["X_API_KEY"],
-            os.environ["X_API_SECRET"],
-            os.environ["X_ACCESS_TOKEN"],
-            os.environ["X_ACCESS_SECRET"],
-        )
-        testo = post.get("post_x") or post.get("post_sito", "")[:280]
-        r = requests.post(
-            "https://api.twitter.com/2/tweets",
-            auth=auth,
-            json={"text": testo},
-            timeout=10,
-        )
-        if r.status_code == 201:
-            print(f"  ✓ X: pubblicato — {testo[:60]}...")
-        else:
-            print(f"  ✗ X: errore {r.status_code} — {r.text}")
-    except Exception as e:
-        print(f"  ✗ X: eccezione — {e}")
-
+def crea_coda_x(edizione: dict) -> None:
+    """Crea la coda dei tweet del giorno, da pubblicare uno alla volta
+    più avanti nella giornata tramite pubblica_tweet.py."""
+    coda = {
+        "data": edizione.get("data"),
+        "tweet": [
+            {"testo": p.get("post_x") or p.get("post_sito", "")[:280], "pubblicato": False}
+            for p in edizione.get("post", [])
+        ],
+    }
+    with open(CODA_FILE, "w", encoding="utf-8") as f:
+        json.dump(coda, f, ensure_ascii=False, indent=2)
+    print(f"✓ Coda tweet creata — {len(coda['tweet'])} in attesa di pubblicazione")
 
 def aggiorna_archivio(nuova_edizione: dict) -> None:
     if os.path.exists(POSTS_FILE):
@@ -255,10 +242,7 @@ if __name__ == "__main__":
     n = len(edizione.get("post", []))
     print(f"✓ Generati {n} post per il {edizione.get('data')}")
 
-    if PUBBLICA_SU_X:
-        print("Pubblicazione su X...")
-        for p in edizione.get("post", []):
-            pubblica_su_x(p)
+    crea_coda_x(edizione)
 
     aggiorna_archivio(edizione)
 
