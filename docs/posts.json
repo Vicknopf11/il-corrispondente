@@ -1,6 +1,51 @@
 {
   "edizioni": [
     {
+      "data": "2026-07-15",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Trump riprende guerra all'Iran e poi fa retromarcia su Hormuz",
+          "fonte": "ANSA / CBS News",
+          "cerca_url": "https://www.google.com/search?q=Trump+Iran+Hormuz+retromarcia+pedaggi+luglio+2026",
+          "post_x": "Trump bombarda l'Iran, minaccia pedaggi al 20% sullo Stretto di Hormuz, poi ci ripensa. Nel frattempo il petrolio vola a 80$. Chi ci guadagna? Non l'Iran. Non i consumatori. Indovina.",
+          "post_sito": "La narrazione dominante racconta di un Trump muscolare che piega Teheran. La domanda che nessuno si pone è più semplice: mentre missili e droni si scambiano cortesie nello Stretto di Hormuz, il Brent è balzato oltre gli 85 dollari al barile (+2,85% in un giorno solo) e il gas europeo ha aperto in rialzo del 2% a 54 euro. Coincidenza. Le cinque grandi banche americane hanno appena registrato profitti record per 49 miliardi di dollari in un trimestre — alimentati, come ammettono loro stesse, dalla volatilità dei mercati geopolitici. La retromarcia sui pedaggi del 20%? Accordi commerciali bilaterali al posto della tassa. Ovvero: stessa leva, forme più presentabili. Il contesto rimosso dal racconto dominante è che lo Stretto di Hormuz è già oggetto di tensioni cicliche almeno dal 1980 e che ogni escalation regala agli speculatori energetici e ai trader di Wall Street quello che ai comuni mortali toglie dal portafoglio alla pompa di benzina."
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Governo Meloni sconfitto sulla legge elettorale: 30 franchi tiratori affossano le preferenze",
+          "fonte": "Il Post / Sky TG24",
+          "cerca_url": "https://www.google.com/search?q=governo+Meloni+sconfitto+legge+elettorale+preferenze+franchi+tiratori+luglio+2026",
+          "post_x": "Meloni perde per 1 voto sulla legge elettorale. «Ha vinto la palude», dice. Tradotto: hanno vinto quelli del suo stesso partito che non vogliono farsi votare dai cittadini. Riflessione profonda.",
+          "post_sito": "L'emendamento di FdI per reintrodurre le preferenze è stato bocciato alla Camera con 188 no e 187 sì, a scrutinio segreto, con almeno trenta franchi tiratori interni alla stessa maggioranza. Il racconto dominante divide il mondo in Meloni-eroina-tradita contro la-palude. Quello che si tace è più istruttivo: le preferenze sono uno strumento ambivalente — in alcune regioni del Sud hanno storicamente favorito il voto di scambio e le clientele, e non è un caso che la resistenza interna venga da chi quei collegi li controlla. L'opposizione che grida «al voto!» dimentica di aver ostacolato le preferenze quando governava essa stessa, con gli stessi argomenti. Intanto l'attenzione di tutti è sulla crisi di governo, mentre nel silenzio generale il decreto sicurezza che introduce il fermo preventivo anche per i minorenni avanza senza il clamore che meriterebbe."
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Big Five USA: profitti record da 49 miliardi in un trimestre mentre il mondo brucia",
+          "fonte": "Il Messaggero / CNBC / Milano Chronicle",
+          "cerca_url": "https://www.google.com/search?q=banche+USA+profitti+record+secondo+trimestre+2026+JPMorgan+Goldman+Sachs",
+          "post_x": "Guerra in Iran, volatilità record, famiglie che faticano a pagare benzina e cibo. JPMorgan: +41% di utili. Goldman Sachs: +78%. Totale Big Five: 49 miliardi in 3 mesi. Il caos, per qualcuno, è un prodotto.",
+          "post_sito": "Cinque delle maggiori banche americane hanno archiviato il secondo trimestre 2026 con profitti complessivi da 49 miliardi di dollari — JPMorgan a +41% con 21,2 miliardi, Goldman Sachs a +78% con 6,6 miliardi, Bank of America a +27% con 9,1 miliardi. I loro stessi analisti spiegano senza imbarazzo che a fare la differenza è stata la volatilità geopolitica generata dal conflitto in Iran e dalla crisi di Hormuz: più disordine sui mercati, più i trading desk incassano. La stessa guerra che fa salire il prezzo del gas per le famiglie europee e il costo dei trasporti globali è, letteralmente, un fattore di profitto per i grandi istituti finanziari. Dimon di JPMorgan ha inoltre annunciato tagli di personale del 30-40% in alcune aree grazie all'IA. Il contesto rimosso: le banche incassano sull'instabilità, le famiglie la pagano — e nessun titolo di giornale italiano oggi parla di questo, preferendo occuparsi dei franchi tiratori di Fratelli d'Italia."
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Spagna in finale ai Mondiali: Francia battuta 2-0, Mbappé flop",
+          "fonte": "Gazzetta dello Sport / Sky TG24",
+          "cerca_url": "https://www.google.com/search?q=Spagna+Francia+2-0+semifinale+Mondiali+2026+Oyarzabal+Porro",
+          "post_x": "La Spagna batte la Francia 2-0 e va in finale. Oyarzabal, Porro. Mbappé flop. Tutti parlano del calcio e nessuno nota che i calciatori spagnoli prendono posizione politica contro il proprio governo. Curiosità.",
+          "post_sito": "La Spagna ha eliminato la Francia per 2-0 con reti di Oyarzabal su rigore e Pedro Porro, chiudendo il ciclo Deschamps e rispedendo a casa un Mbappé che a questo Mondiale non ha mai trovato la versione migliore di sé. La narrazione è tutta tecnica e tattica. Ma quello che i giornali sportivi italiani non approfondiscono è il risvolto politico: diversi calciatori della Roja hanno preso posizione pubblica contro il proprio ex premier, con Borja Iglesias che ha dichiarato che la squadra multiculturale è la ricchezza del paese — una presa di distanza esplicita dal nazionalismo del Partido Popular. Una nazionale di calcio che smentisce la retorica identitaria del governo che teoricamente la sostiene. Stasera alle 21 l'altra semifinale: Inghilterra-Argentina, con tutto il carico storico delle Malvinas che nessuno nominerà, ma che aleggerà su ogni pallone."
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Caso Ranucci: nuovi sviluppi sull'attentato, la Rai sospende le repliche di Report",
+          "fonte": "ANSA / Today.it",
+          "cerca_url": "https://www.google.com/search?q=attentato+Ranucci+Lavitola+messaggi+cifrati+Report+sospeso+luglio+2026",
+          "post_x": "Ranucci sopravvive a una bomba sotto casa, la Rai lo ripaga sospendendo le repliche di Report. Il presunto mandante era suo amico. Gli indagati non parlano. Tutto normale, niente da vedere.",
+          "post_sito": "Il caso dell'attentato dinamitardo a Sigfrido Ranucci — avvenuto il 16 ottobre 2025 davanti alla sua abitazione a Pomezia — ha un presunto mandante nell'imprenditore Valter Lavitola, accusato dalla DDA di Roma di strage aggravata con metodo mafioso; gli investigatori stanno analizzando tre cellulari, due pen drive e sette manoscritti sequestrati. La Rai ha risposto all'intera vicenda sospendendo le repliche estive di Report, mentre Fratelli d'Italia esultava sui social. Il contesto che il racconto dominante rimuove è duplice: primo, Lavitola era fonte e amico di Ranucci, il che rende il movente ancora del tutto oscuro e non riconducibile alla semplice narrazione del 'giornalista scomodo eliminato dal potere'; secondo, la sospensione di una trasmissione di giornalismo d'inchiesta da parte del servizio pubblico mentre sono in corso indagini è un fatto di assoluta gravità istituzionale che meriterebbe ben altra attenzione rispetto ai franchi tiratori della legge elettorale."
+        }
+      ]
+    },
+    {
       "data": "2026-07-14",
       "post": [
         {
@@ -676,5 +721,5 @@
       ]
     }
   ],
-  "ultimo_aggiornamento": "2026-07-14T09:20:23.932147+00:00"
+  "ultimo_aggiornamento": "2026-07-15T09:24:54.685496+00:00"
 }
