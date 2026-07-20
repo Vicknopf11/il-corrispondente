@@ -16,6 +16,9 @@ def pubblica_su_x(testo: str) -> bool:
     import requests
     from requests_oauthlib import OAuth1
 
+    if len(testo) > 280:
+        testo = testo[:277] + "..."
+
     auth = OAuth1(
         os.environ["X_API_KEY"],
         os.environ["X_API_SECRET"],
