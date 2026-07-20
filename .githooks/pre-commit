@@ -1,0 +1,20 @@
+#!/bin/sh
+# Pre-commit hook: scrive il copyright EXIF su jpg/png staged prima del commit
+
+STAGED_IMAGES=$(git diff --cached --name-only --diff-filter=ACM | grep -E '\.(jpg|jpeg|png)$')
+
+if [ -z "$STAGED_IMAGES" ]; then
+  exit 0
+fi
+
+for FILE in $STAGED_IMAGES; do
+  if [ -f "$FILE" ]; then
+    exiftool -overwrite_original \
+      -Copyright="© 2026 Filoclastos Ferox - Filoclastos" \
+      -Artist="Filoclastos Ferox" \
+      "$FILE"
+    git add "$FILE"
+  fi
+done
+
+exit 0
