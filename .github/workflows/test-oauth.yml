@@ -12,7 +12,7 @@ jobs:
           python-version: '3.11'
       - name: Installa dipendenze
         run: pip install requests requests-oauthlib
-      - name: Test A - users/me con nuovo hostname
+      - name: Test C - stesso pattern di pubblica_tweet.py (classe OAuth1)
         env:
           X_API_KEY: ${{ secrets.X_API_KEY }}
           X_API_SECRET: ${{ secrets.X_API_SECRET }}
@@ -21,26 +21,24 @@ jobs:
         run: |
           python3 << 'EOF'
           import os
-          from requests_oauthlib import OAuth1Session
+          import requests
+          from requests_oauthlib import OAuth1
 
-          oauth = OAuth1Session(
+          auth = OAuth1(
               os.environ["X_API_KEY"],
-              client_secret=os.environ["X_API_SECRET"],
-              resource_owner_key=os.environ["X_ACCESS_TOKEN"],
-              resource_owner_secret=os.environ["X_ACCESS_SECRET"],
+              os.environ["X_API_SECRET"],
+              os.environ["X_ACCESS_TOKEN"],
+              os.environ["X_ACCESS_SECRET"],
           )
 
-          print("=== TEST A: GET /2/users/me ===")
-          r1 = oauth.get("https://api.x.com/2/users/me")
-          print(f"Status: {r1.status_code}")
-          print(f"Body: {r1.text}")
-
-          print()
-          print("=== TEST B: POST /2/tweets su api.x.com ===")
-          r2 = oauth.post(
+          print("=== TEST C: POST /2/tweets con classe OAuth1 (come pubblica_tweet.py) ===")
+          r = requests.post(
               "https://api.x.com/2/tweets",
-              json={"text": "Test diagnostico API X hostname OAuth1 2026 - ignorare"},
+              auth=auth,
+              json={"text": "Test diagnostico C - classe OAuth1 - ignorare"},
+              timeout=10,
           )
-          print(f"Status: {r2.status_code}")
-          print(f"Body: {r2.text}")
+          print(f"Status: {r.status_code}")
+          print(f"Body: {r.text}")
+          print(f"Request headers inviati: {dict(r.request.headers)}")
           EOF
