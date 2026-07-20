@@ -23,7 +23,7 @@ def pubblica_su_x(testo: str) -> bool:
         os.environ["X_ACCESS_SECRET"],
     )
     r = requests.post(
-        "https://api.twitter.com/2/tweets",
+        "https://api.x.com/2/tweets",
         auth=auth,
         json={"text": testo},
         timeout=10,
