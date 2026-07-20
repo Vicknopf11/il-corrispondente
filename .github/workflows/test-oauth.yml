@@ -12,15 +12,16 @@ jobs:
           python-version: '3.11'
       - name: Installa dipendenze
         run: pip install requests requests-oauthlib
-      - name: Test C - stesso pattern di pubblica_tweet.py (classe OAuth1)
+      - name: Test D - testo reale del tweet in coda (Poste/TIM)
         env:
           X_API_KEY: ${{ secrets.X_API_KEY }}
           X_API_SECRET: ${{ secrets.X_API_SECRET }}
           X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
           X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
         run: |
-          python3 << 'EOF'
+          python3 << 'PYEOF'
           import os
+          import json
           import requests
           from requests_oauthlib import OAuth1
 
@@ -31,14 +32,19 @@ jobs:
               os.environ["X_ACCESS_SECRET"],
           )
 
-          print("=== TEST C: POST /2/tweets con classe OAuth1 (come pubblica_tweet.py) ===")
+          testo = "Poste (Stato) compra TIM (già Stato, privatizzata nel '97, sfilettata da KKR nel 2024). Trent'anni di mercato, per poi rientrare dalla finestra a 10,8 miliardi. I piccoli azionisti di TIM: 'Il premio è del 9%'. Goldman Sachs e Evercore: 'Tutto congruo'. Coincidenze. #TIM #Poste #OPAS"
+
+          print(f"Lunghezza testo: {len(testo)} caratteri")
+          print(f"Testo (repr): {testo!r}")
+          print()
+
+          print("=== TEST D: POST /2/tweets con testo reale dalla coda ===")
           r = requests.post(
               "https://api.x.com/2/tweets",
               auth=auth,
-              json={"text": "Test diagnostico C - classe OAuth1 - ignorare"},
+              json={"text": testo},
               timeout=10,
           )
           print(f"Status: {r.status_code}")
           print(f"Body: {r.text}")
-          print(f"Request headers inviati: {dict(r.request.headers)}")
-          EOF
+          PYEOF
