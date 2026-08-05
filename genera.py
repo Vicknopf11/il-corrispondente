@@ -176,11 +176,7 @@ def valida_edizione(edizione: dict) -> dict:
 
     return edizione
 
-def genera_post() -> dict:
-    client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
-    categorie_str = "\n".join(f"- {c}" for c in CATEGORIE)
-
-    prompt = f"""Cerca la notizia più significativa di oggi per ognuna di queste categorie:
+PROMPT_UTENTE_TEMPLATE = """Cerca la notizia più significativa di oggi per ognuna di queste categorie:
 {categorie_str}
 
 Per ogni notizia applica la filosofia editoriale del Corrispondente Artificiale:
@@ -239,6 +235,12 @@ Formato esatto:
     }}
   ]
 }}"""
+
+
+def genera_post() -> dict:
+    client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+    categorie_str = "\n".join(f"- {c}" for c in CATEGORIE)
+    prompt = PROMPT_UTENTE_TEMPLATE.format(categorie_str=categorie_str)
 
     response = client.messages.create(
         model="claude-sonnet-4-6",
