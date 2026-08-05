@@ -7,6 +7,7 @@ Cerca le notizie del giorno per categoria e genera commenti ironici.
 import json
 import os
 import re
+import unicodedata
 from datetime import datetime, timezone
 from email.utils import format_datetime
 import anthropic
@@ -127,6 +128,53 @@ New York Times, Washington Post, Reuters, AP.
 Privilegia fonti diverse tra loro per ogni categoria.
 """
 
+def slugify(testo: str) -> str:
+    """Converte un titolo in uno slug URL-friendly: minuscolo, ASCII, trattini."""
+    testo = unicodedata.normalize("NFKD", testo)
+    testo = testo.encode("ascii", "ignore").decode("ascii")
+    testo = testo.lower()
+    testo = re.sub(r"[^a-z0-9]+", "-", testo)
+    testo = re.sub(r"-+", "-", testo).strip("-")
+    return testo[:80] or "articolo"
+
+
+SLUG_VALIDO = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
+
+
+def valida_edizione(edizione: dict) -> dict:
+    """Rete di sicurezza: il modello può sbagliare slug/tag/evidenza.
+    Corregge in automatico eventuali difformità dal formato atteso."""
+    posts = edizione.get("post", [])
+
+    for p in posts:
+        slug = p.get("slug")
+        if not isinstance(slug, str) or not SLUG_VALIDO.match(slug):
+            p["slug"] = slugify(p.get("titolo", ""))
+
+        tag = p.get("tag")
+        if not isinstance(tag, list) or not all(isinstance(t, str) for t in tag):
+            p["tag"] = []
+
+    # Garantisce esattamente un'evidenza:true nell'intera edizione
+    evidenziati = [p for p in posts if p.get("evidenza") is True]
+    for p in posts:
+        p["evidenza"] = False
+    if len(evidenziati) >= 1:
+        evidenziati[0]["evidenza"] = True
+    elif posts:
+        posts[0]["evidenza"] = True
+
+    # Disambigua slug duplicati nella stessa edizione (es. due notizie simili)
+    visti = {}
+    for p in posts:
+        s = p["slug"]
+        if s in visti:
+            visti[s] += 1
+            p["slug"] = f"{s}-{visti[s]}"
+        else:
+            visti[s] = 0
+
+    return edizione
 
 def genera_post() -> dict:
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
@@ -158,6 +206,20 @@ Per ogni categoria genera DUE versioni satiriche:
 - post_x: versione breve per X/Twitter, max 280 caratteri
 - post_sito: versione lunga 3-5 frasi con contesto, chi ci guadagna, cosa viene taciuto
 
+Per ogni notizia genera anche:
+- slug: identificativo URL-friendly derivato dal titolo, tutto minuscolo, solo
+  lettere ASCII/numeri/trattini, senza accenti né caratteri speciali
+  (es. "governo-taglia-fondi-ricerca")
+- tag: array di 2-4 parole chiave in minuscolo che descrivono il tema
+  (es. ["sanità", "privatizzazioni", "regione lombardia"])
+
+Inoltre, tra tutte le notizie di questa edizione (di TUTTE le categorie), scegline
+UNA sola — quella editorialmente più rilevante o dirompente della giornata — e
+marcala con "evidenza": true. Tutte le altre notizie devono avere "evidenza": false.
+Questa è la notizia che avrà risalto visivo maggiore in homepage: scegli in base a
+impatto, novità e centralità nel dibattito pubblico, non necessariamente la prima
+categoria della lista.
+
 Rispondi SOLO con un oggetto JSON valido, senza markdown, senza backtick.
 Formato esatto:
 
@@ -167,6 +229,9 @@ Formato esatto:
     {{
       "categoria": "nome della categoria",
       "titolo": "titolo breve della notizia",
+      "slug": "titolo-in-formato-url",
+      "tag": ["parola-chiave-1", "parola-chiave-2"],
+      "evidenza": false,
       "fonte": "nome testata",
       "cerca_url": "https://www.google.com/search?q=titolo+della+notizia",
       "post_x": "testo breve max 280 caratteri per X",
@@ -191,7 +256,8 @@ Formato esatto:
     if not match:
         raise ValueError(f"Nessun JSON trovato nella risposta:\n{testo}")
 
-    return json.loads(match.group())
+    edizione = json.loads(match.group())
+    return valida_edizione(edizione)
 
 def crea_coda_x(edizione: dict) -> None:
     """Crea la coda dei tweet del giorno, da pubblicare uno alla volta
