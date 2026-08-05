@@ -24,7 +24,7 @@ MAX_ARCHIVIO_GIORNI = 30
 POSTS_FILE = "docs/posts.json"
 FEED_FILE = "docs/feed.xml"
 CODA_FILE = "coda_x.json"
-SITE_URL = "https://vicknopf11.github.io/il-corrispondente"
+SITE_URL = "https://corrispondente.filoclastos.it"
 # ────────────────────────────────────────────────────────────────
 
 SYSTEM_PROMPT = """Sei Il Corrispondente Artificiale, un cronista satirico generato dall'intelligenza artificiale.
@@ -316,20 +316,34 @@ def genera_rss(archivio: dict) -> None:
     items = []
     for ed in archivio.get("edizioni", [])[:10]:  # ultime 10 edizioni
         data = ed.get("data", "")
+        try:
+            anno, mese, giorno = data.split("-")
+        except ValueError:
+            anno = mese = giorno = None
+
         for p in ed.get("post", []):
             titolo = xml_esc(p.get("titolo", ""))
             categoria = xml_esc(p.get("categoria", ""))
             testo = xml_esc(p.get("post_sito") or p.get("post", ""))
             fonte = xml_esc(p.get("fonte", ""))
-            link = p.get("cerca_url") or SITE_URL
             pub_date = data_rss(data)
+
+            slug = p.get("slug")
+            if slug and anno:
+                permalink = f"{SITE_URL}/{anno}/{mese}/{giorno}/{slug}/"
+                link = permalink
+                guid = f'<guid isPermaLink="true">{xml_esc(permalink)}</guid>'
+            else:
+                link = p.get("cerca_url") or SITE_URL
+                guid = (f'<guid isPermaLink="false">{xml_esc(data)}-'
+                        f'{xml_esc(p.get("categoria",""))}-{xml_esc(titolo[:30])}</guid>')
 
             items.append(f"""    <item>
       <title>[{categoria}] {titolo}</title>
       <link>{xml_esc(link)}</link>
       <description>{testo} — Fonte: {fonte}</description>
       <pubDate>{pub_date}</pubDate>
-      <guid isPermaLink="false">{xml_esc(data)}-{xml_esc(p.get('categoria',''))}-{xml_esc(titolo[:30])}</guid>
+      {guid}
       <category>{categoria}</category>
     </item>""")
 

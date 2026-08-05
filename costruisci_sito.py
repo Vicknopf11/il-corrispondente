@@ -14,6 +14,7 @@ import re
 from datetime import datetime
 
 POSTS_FILE = "docs/posts.json"
+SITEMAP_FILE = "docs/sitemap.xml"
 SITE_URL = "https://corrispondente.filoclastos.it"
 OG_IMAGE = f"{SITE_URL}/assets/img/og-cover.png"
 # Da docs/{anno}/{mese}/{giorno}/{slug}/index.html a docs/ servono 4 livelli
@@ -356,6 +357,53 @@ def costruisci_pagina(post: dict, data_str: str, anno: str, mese: str, giorno: s
 """
 
 
+def costruisci_sitemap(archivio: dict) -> str:
+    """Genera sitemap.xml con le pagine statiche + tutti i permalink presenti
+    nella finestra rolling di posts.json."""
+
+    def xml_esc(s: str) -> str:
+        return (str(s or "")
+                .replace("&", "&amp;")
+                .replace("<", "&lt;")
+                .replace(">", "&gt;")
+                .replace('"', "&quot;"))
+
+    urls = [
+        (f"{SITE_URL}/", "daily", "1.0", None),
+        (f"{SITE_URL}/chi-siamo.html", "monthly", "0.5", None),
+        (f"{SITE_URL}/prompt.html", "monthly", "0.5", None),
+    ]
+
+    for edizione in archivio.get("edizioni", []):
+        data_str = edizione.get("data", "")
+        parti = data_str.split("-")
+        if len(parti) != 3:
+            continue
+        anno, mese, giorno = parti
+
+        for post in edizione.get("post", []):
+            slug = post.get("slug")
+            if not slug:
+                continue
+            loc = f"{SITE_URL}/{anno}/{mese}/{giorno}/{slug}/"
+            urls.append((loc, "weekly", "0.6", data_str))
+
+    voci = []
+    for loc, changefreq, priority, lastmod in urls:
+        lastmod_tag = f"\n    <lastmod>{xml_esc(lastmod)}</lastmod>" if lastmod else ""
+        voci.append(f"""  <url>
+    <loc>{xml_esc(loc)}</loc>{lastmod_tag}
+    <changefreq>{changefreq}</changefreq>
+    <priority>{priority}</priority>
+  </url>""")
+
+    return f"""<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{chr(10).join(voci)}
+</urlset>
+"""
+
+
 def main():
     if not os.path.exists(POSTS_FILE):
         print(f"⚠ {POSTS_FILE} non trovato, niente da costruire.")
@@ -391,6 +439,11 @@ def main():
 
     print(f"✓ Costruite/aggiornate {n_pagine} pagine permalink"
           + (f" ({n_saltate} post senza slug saltati)" if n_saltate else ""))
+
+    sitemap_xml = costruisci_sitemap(archivio)
+    with open(SITEMAP_FILE, "w", encoding="utf-8") as f:
+        f.write(sitemap_xml)
+    print(f"✓ sitemap.xml aggiornata ({n_pagine} permalink + 3 pagine statiche)")
 
 
 if __name__ == "__main__":

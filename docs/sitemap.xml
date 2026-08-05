@@ -10,4 +10,39 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
+  <url>
+    <loc>https://corrispondente.filoclastos.it/prompt.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://corrispondente.filoclastos.it/2026/08/05/missili-balistici-russi-kiev-17-morti-zelensky-accusa-occidente/</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://corrispondente.filoclastos.it/2026/08/05/giorgetti-clausola-salvaguardia-36-miliardi-difesa-energia/</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://corrispondente.filoclastos.it/2026/08/05/ceuta-ue-boccia-hub-africa-meloni-premia-sanchez/</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://corrispondente.filoclastos.it/2026/08/05/europei-nuoto-artistico-parigi-italia-finale-acrobatica/</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://corrispondente.filoclastos.it/2026/08/05/trovato-corpo-luigi-cavallari-lago-vico-marito-roccella/</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
