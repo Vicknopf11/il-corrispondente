@@ -11,13 +11,29 @@ import os
 
 CODA_FILE = "coda_x.json"
 
+# X accorcia sempre i link a 23 caratteri (wrapper t.co) indipendentemente
+# dalla lunghezza reale, ai fini del conteggio dei 280 caratteri totali.
+URL_PESO = 23
+SEPARATORE = "\n\n"
 
-def pubblica_su_x(testo: str) -> bool:
+
+def comporre_testo(testo: str, url: str = None) -> str:
+    """Compone il testo finale del tweet, riservando spazio per il link
+    (se presente) secondo il conteggio caratteri reale di X."""
+    if not url:
+        return testo if len(testo) <= 280 else testo[:277] + "..."
+
+    budget_testo = 280 - URL_PESO - len(SEPARATORE)
+    if len(testo) > budget_testo:
+        testo = testo[:budget_testo - 3] + "..."
+    return f"{testo}{SEPARATORE}{url}"
+
+
+def pubblica_su_x(testo: str, url: str = None) -> bool:
     import requests
     from requests_oauthlib import OAuth1
 
-    if len(testo) > 280:
-        testo = testo[:277] + "..."
+    testo_finale = comporre_testo(testo, url)
 
     auth = OAuth1(
         os.environ["X_API_KEY"],
@@ -28,11 +44,11 @@ def pubblica_su_x(testo: str) -> bool:
     r = requests.post(
         "https://api.x.com/2/tweets",
         auth=auth,
-        json={"text": testo},
+        json={"text": testo_finale},
         timeout=10,
     )
     if r.status_code == 201:
-        print(f"✓ X: pubblicato — {testo[:60]}...")
+        print(f"✓ X: pubblicato — {testo_finale[:60]}...")
         return True
     else:
         print(f"✗ X: errore {r.status_code} — {r.text}")
@@ -53,7 +69,7 @@ def main() -> None:
         print("Coda vuota per oggi — tutti i tweet sono già stati pubblicati.")
         return
 
-    ok = pubblica_su_x(prossimo["testo"])
+    ok = pubblica_su_x(prossimo["testo"], prossimo.get("url"))
     if ok:
         prossimo["pubblicato"] = True
         with open(CODA_FILE, "w", encoding="utf-8") as f:

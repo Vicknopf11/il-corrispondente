@@ -262,10 +262,26 @@ Formato esatto:
 def crea_coda_x(edizione: dict) -> None:
     """Crea la coda dei tweet del giorno, da pubblicare uno alla volta
     più avanti nella giornata tramite pubblica_tweet.py."""
+    data = edizione.get("data")
+
+    def permalink(p: dict):
+        slug = p.get("slug")
+        if not slug or not data:
+            return None
+        parti = data.split("-")
+        if len(parti) != 3:
+            return None
+        anno, mese, giorno = parti
+        return f"{SITE_URL}/{anno}/{mese}/{giorno}/{slug}/"
+
     coda = {
-        "data": edizione.get("data"),
+        "data": data,
         "tweet": [
-            {"testo": p.get("post_x") or p.get("post_sito", "")[:280], "pubblicato": False}
+            {
+                "testo": p.get("post_x") or p.get("post_sito", "")[:280],
+                "url": permalink(p),
+                "pubblicato": False,
+            }
             for p in edizione.get("post", [])
         ],
     }
