@@ -11,6 +11,7 @@ posts.json NON vengono toccate: restano sul disco come permalink stabili.
 import json
 import os
 import re
+import shutil
 from datetime import datetime
 
 POSTS_FILE = "docs/posts.json"
@@ -357,6 +358,38 @@ def costruisci_pagina(post: dict, data_str: str, anno: str, mese: str, giorno: s
 """
 
 
+def pulisci_orfani(archivio: dict) -> int:
+    """Rimuove le pagine permalink 'orfane': cartelle rimaste sul disco per una
+    data ancora dentro la finestra rolling di posts.json, il cui slug non
+    corrisponde più a nessun post attuale per quella data (es. il modello è
+    stato rilanciato più volte nello stesso giorno, in test o per errore).
+
+    Le date USCITE dalla finestra rolling non vengono mai toccate: i loro
+    permalink restano stabili per sempre, com'è giusto che sia."""
+    n_rimosse = 0
+    for edizione in archivio.get("edizioni", []):
+        data_str = edizione.get("data", "")
+        parti = data_str.split("-")
+        if len(parti) != 3:
+            continue
+        anno, mese, giorno = parti
+
+        cartella_giorno = os.path.join("docs", anno, mese, giorno)
+        if not os.path.isdir(cartella_giorno):
+            continue
+
+        slug_validi = {p.get("slug") for p in edizione.get("post", []) if p.get("slug")}
+
+        for nome in os.listdir(cartella_giorno):
+            percorso = os.path.join(cartella_giorno, nome)
+            if os.path.isdir(percorso) and nome not in slug_validi:
+                shutil.rmtree(percorso)
+                n_rimosse += 1
+                print(f"  ✗ Rimossa pagina orfana: {percorso}")
+
+    return n_rimosse
+
+
 def costruisci_sitemap(archivio: dict) -> str:
     """Genera sitemap.xml con le pagine statiche + tutti i permalink presenti
     nella finestra rolling di posts.json."""
@@ -439,6 +472,10 @@ def main():
 
     print(f"✓ Costruite/aggiornate {n_pagine} pagine permalink"
           + (f" ({n_saltate} post senza slug saltati)" if n_saltate else ""))
+
+    n_orfane = pulisci_orfani(archivio)
+    if n_orfane:
+        print(f"✓ Rimosse {n_orfane} pagine orfane")
 
     sitemap_xml = costruisci_sitemap(archivio)
     with open(SITEMAP_FILE, "w", encoding="utf-8") as f:
