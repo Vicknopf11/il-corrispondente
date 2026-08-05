@@ -257,6 +257,56 @@
     .post-card.sport          { border-left-color: #2980b9; }
     .post-card.cronaca        { border-left-color: #8e44ad; }
 
+    /* ── HERO CARD (articolo in evidenza) ── */
+    .hero-wrapper {
+      margin-bottom: 2.2rem;
+    }
+
+    .hero-label {
+      display: inline-block;
+      font-size: 0.7rem;
+      font-family: Arial, sans-serif;
+      font-weight: bold;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: #c0392b;
+      margin-bottom: 0.6rem;
+    }
+
+    .hero-label::before { content: "★ "; }
+
+    .hero-card {
+      background: white;
+      border-top: 5px solid #c0392b;
+      padding: 1.8rem 2rem;
+      box-shadow: 0 3px 10px rgba(0,0,0,0.12);
+    }
+
+    .hero-card.internazionale { border-top-color: #2c3e50; }
+    .hero-card.economia       { border-top-color: #27ae60; }
+    .hero-card.sport          { border-top-color: #2980b9; }
+    .hero-card.cronaca        { border-top-color: #8e44ad; }
+
+    .hero-card .post-titolo {
+      font-size: 1.6rem;
+      line-height: 1.3;
+      margin-bottom: 0.9rem;
+    }
+
+    .hero-card .post-testo {
+      font-size: 1.02rem;
+    }
+
+    .post-link {
+      font-size: 0.78rem;
+      font-family: Arial, sans-serif;
+      color: #c0392b;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .post-link:hover { text-decoration: underline; }
+
     .post-titolo {
       font-size: 1rem;
       font-weight: bold;
@@ -404,6 +454,13 @@ function slugCategoria(cat) {
   return '';
 }
 
+function buildPermalink(data, slug) {
+  if (!data || !slug) return null;
+  const [y, m, g] = data.split('-');
+  if (!y || !m || !g) return null;
+  return `${y}/${m}/${g}/${slug}/`;
+}
+
 // ── Data header ──────────────────────────────────────────────────
 (function() {
   const d = new Date();
@@ -434,6 +491,8 @@ function filtraPost() {
     card.style.display =
       (categoriaAttiva === 'tutte' || card.dataset.slug === categoriaAttiva) ? '' : 'none';
   });
+  const hero = document.getElementById('hero-wrapper');
+  if (hero) hero.style.display = (categoriaAttiva === 'tutte') ? '' : 'none';
 }
 
 // ── Selettore data ───────────────────────────────────────────────
@@ -468,11 +527,15 @@ function aggiornaNav() {
 }
 
 // ── Render ───────────────────────────────────────────────────────
-function renderPost(p) {
+function renderPost(p, data) {
   const slug = slugCategoria(p.categoria);
   const fonte = p.cerca_url
     ? `Fonte: ${esc(p.fonte || 'varie')} &nbsp;&middot;&nbsp; <a href="${esc(p.cerca_url)}" target="_blank" rel="noopener">Cerca notizia →</a>`
     : `Fonte: ${esc(p.fonte || 'varie')}`;
+  const permalink = buildPermalink(data, p.slug);
+  const linkArticolo = permalink
+    ? `<a class="post-link" href="${esc(permalink)}">Leggi articolo →</a>`
+    : '';
   return `
     <div class="post-card ${slug}" data-slug="${slug}">
       <div class="categoria-label ${slug}">${esc(p.categoria || '')}</div>
@@ -480,7 +543,33 @@ function renderPost(p) {
       <div class="post-testo">${esc(p.post_sito || p.post || '')}</div>
       <div class="post-footer">
         <span class="post-fonte">${fonte}</span>
+        ${linkArticolo}
         <button class="btn-copia" data-testo="${esc(p.post_x || p.post_sito || p.post || '')}">Copia per X</button>
+      </div>
+    </div>`;
+}
+
+function renderHero(p, data) {
+  const slug = slugCategoria(p.categoria);
+  const fonte = p.cerca_url
+    ? `Fonte: ${esc(p.fonte || 'varie')} &nbsp;&middot;&nbsp; <a href="${esc(p.cerca_url)}" target="_blank" rel="noopener">Cerca notizia →</a>`
+    : `Fonte: ${esc(p.fonte || 'varie')}`;
+  const permalink = buildPermalink(data, p.slug);
+  const linkArticolo = permalink
+    ? `<a class="post-link" href="${esc(permalink)}">Leggi articolo →</a>`
+    : '';
+  return `
+    <div class="hero-wrapper" id="hero-wrapper">
+      <div class="hero-label">In evidenza oggi</div>
+      <div class="hero-card ${slug}">
+        <div class="categoria-label ${slug}">${esc(p.categoria || '')}</div>
+        <div class="post-titolo">${esc(p.titolo || '')}</div>
+        <div class="post-testo">${esc(p.post_sito || p.post || '')}</div>
+        <div class="post-footer">
+          <span class="post-fonte">${fonte}</span>
+          ${linkArticolo}
+          <button class="btn-copia" data-testo="${esc(p.post_x || p.post_sito || p.post || '')}">Copia per X</button>
+        </div>
       </div>
     </div>`;
 }
@@ -491,13 +580,15 @@ function renderEdizione() {
   if (!ed) return;
 
   const isOggi = indiceAttivo === 0;
+  const hero = (ed.post || []).find(p => p.evidenza === true);
   contenuto.innerHTML = `
     <div class="edizione">
       <div class="edizione-header">
         <span class="edizione-data">${esc(formatData(ed.data))}</span>
         ${isOggi ? '<span class="edizione-label">ultima edizione</span>' : ''}
       </div>
-      ${(ed.post || []).map(p => renderPost(p)).join('')}
+      ${hero ? renderHero(hero, ed.data) : ''}
+      ${(ed.post || []).map(p => renderPost(p, ed.data)).join('')}
     </div>`;
 
   document.querySelectorAll('.btn-copia').forEach(btn => {
