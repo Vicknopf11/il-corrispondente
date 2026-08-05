@@ -28,10 +28,13 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python genera.py
 
+      - name: Costruisci pagine permalink e sitemap
+        run: python costruisci_sito.py
+
       - name: Commit e push
         run: |
           git config user.name "Il Corrispondente Bot"
           git config user.email "bot@il-corrispondente"
-          git add docs/posts.json docs/feed.xml coda_x.json
+          git add docs/posts.json docs/feed.xml docs/sitemap.xml coda_x.json docs/20*
           git diff --staged --quiet || git commit -m "Edizione del $(date +'%Y-%m-%d')"
           git push
