@@ -21,7 +21,7 @@ jobs:
           python-version: '3.11'
 
       - name: Installa dipendenze
-        run: pip install anthropic requests requests-oauthlib
+        run: pip install anthropic requests requests-oauthlib Pillow
 
       - name: Genera post e coda tweet
         env:
@@ -38,6 +38,6 @@ jobs:
         run: |
           git config user.name "Il Corrispondente Bot"
           git config user.email "bot@il-corrispondente"
-          git add docs/posts.json docs/feed.xml docs/sitemap.xml docs/prompt.html coda_x.json docs/20*
+          git add docs/posts.json docs/feed.xml docs/sitemap.xml docs/prompt.html coda_x.json docs/20* docs/assets/og
           git diff --staged --quiet || git commit -m "Edizione del $(date +'%Y-%m-%d')"
           git push

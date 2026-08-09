@@ -14,10 +14,13 @@ import re
 import shutil
 from datetime import datetime
 
+from og_immagine import genera_immagine_og
+
 POSTS_FILE = "docs/posts.json"
 SITEMAP_FILE = "docs/sitemap.xml"
 SITE_URL = "https://corrispondente.filoclastos.it"
 OG_IMAGE = f"{SITE_URL}/assets/img/og-cover.png"
+OG_IMG_DIR = "docs/assets/og"
 # Da docs/{anno}/{mese}/{giorno}/{slug}/index.html a docs/ servono 4 livelli
 ROOT_REL = "../../../../"
 
@@ -68,7 +71,8 @@ def formatta_data(data_str: str) -> str:
         return data_str or ""
 
 
-def costruisci_pagina(post: dict, data_str: str, anno: str, mese: str, giorno: str) -> str:
+def costruisci_pagina(post: dict, data_str: str, anno: str, mese: str, giorno: str,
+                       og_image_url: str = OG_IMAGE) -> str:
     cat = post.get("categoria", "")
     cat_slug = slug_categoria(cat)
     titolo = post.get("titolo", "")
@@ -122,7 +126,7 @@ def costruisci_pagina(post: dict, data_str: str, anno: str, mese: str, giorno: s
   <meta property="og:url" content="{canonical}">
   <meta property="og:title" content="{esc(titolo)}">
   <meta property="og:description" content="{esc(descrizione)}">
-  <meta property="og:image" content="{OG_IMAGE}">
+  <meta property="og:image" content="{og_image_url}">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
   <meta property="article:section" content="{esc(cat)}">
@@ -130,7 +134,7 @@ def costruisci_pagina(post: dict, data_str: str, anno: str, mese: str, giorno: s
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{esc(titolo)}">
   <meta name="twitter:description" content="{esc(descrizione)}">
-  <meta name="twitter:image" content="{OG_IMAGE}">
+  <meta name="twitter:image" content="{og_image_url}">
   <script type="application/ld+json">{json.dumps(json_ld, ensure_ascii=False)}</script>
   <style>
     * {{ box-sizing: border-box; margin: 0; padding: 0; }}
@@ -387,6 +391,11 @@ def pulisci_orfani(archivio: dict) -> int:
                 n_rimosse += 1
                 print(f"  ✗ Rimossa pagina orfana: {percorso}")
 
+                og_orfana = os.path.join(OG_IMG_DIR, f"{anno}-{mese}-{giorno}-{nome}.png")
+                if os.path.exists(og_orfana):
+                    os.remove(og_orfana)
+                    print(f"  ✗ Rimossa immagine OG orfana: {og_orfana}")
+
     return n_rimosse
 
 
@@ -465,7 +474,17 @@ def main():
             os.makedirs(cartella, exist_ok=True)
             path = os.path.join(cartella, "index.html")
 
-            html = costruisci_pagina(post, data_str, anno, mese, giorno)
+            og_path = os.path.join(OG_IMG_DIR, f"{anno}-{mese}-{giorno}-{slug}.png")
+            og_url = OG_IMAGE
+            try:
+                genera_immagine_og(post, og_path)
+                og_url = f"{SITE_URL}/{og_path.replace('docs/', '')}"
+            except Exception as e:
+                # Non blocchiamo mai la pipeline per un'immagine OG:
+                # meglio l'anteprima generica che un'edizione mancata.
+                print(f"  ⚠ Immagine OG non generata per '{slug}' ({e}) — uso il fallback generico")
+
+            html = costruisci_pagina(post, data_str, anno, mese, giorno, og_image_url=og_url)
             with open(path, "w", encoding="utf-8") as f:
                 f.write(html)
             n_pagine += 1
