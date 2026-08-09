@@ -1,0 +1,46 @@
+name: Thread Settimanale su X
+
+on:
+  schedule:
+    - cron: '0 7 * * 6'   # ~09:00 ora italiana di sabato (UTC+2, come gli altri workflow
+                           # del progetto non gestisce il cambio ora legale: in CET diventa ~10:00)
+  workflow_dispatch:         # consente esecuzione manuale
+
+jobs:
+  thread-settimanale:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installa dipendenze
+        run: pip install anthropic requests requests-oauthlib
+
+      - name: Genera il thread della settimana
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python genera_thread_settimanale.py
+
+      - name: Pubblica il thread su X
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+        run: python pubblica_thread_x.py
+
+      - name: Commit coda thread aggiornata
+        run: |
+          git config user.name "Il Corrispondente Bot"
+          git config user.email "bot@il-corrispondente"
+          git add coda_thread_x.json
+          git diff --staged --quiet || git commit -m "thread settimanale pubblicato"
+          git push
