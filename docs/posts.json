@@ -1,6 +1,91 @@
 {
   "edizioni": [
     {
+      "data": "2026-08-12",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Kiev ferma i droni sulle petroliere: Vance telefona, Zelensky obbedisce",
+          "slug": "kiev-ferma-droni-petroliere-vance-zelensky-obbedisce",
+          "tag": [
+            "ucraina",
+            "guerra",
+            "petrolio",
+            "usa"
+          ],
+          "evidenza": true,
+          "fonte": "Financial Times / Sky TG24",
+          "cerca_url": "https://www.google.com/search?q=Ucraina+sospende+attacchi+petroliere+Novorossiysk+Vance+2026",
+          "post_x": "Zelensky bombarda i russi finché non gli telefonano gli americani. Allora smette. Non perché vuole la pace — ma perché vuole i missili Patriot. La guerra si combatte anche con i contratti. #Ucraina #Vance",
+          "post_sito": "L'Ucraina ha sospeso la sua campagna di droni contro le petroliere nel porto russo di Novorossiysk dopo una telefonata del vicepresidente americano JD Vance a Zelensky il 31 luglio — riporta il Financial Times citando fonti ufficiali di Kiev. Il motivo ufficiale: Washington temeva che gli attacchi destabilizzassero i mercati energetici e danneggiassero aziende americane legate al Caspian Pipeline Consortium, che trasporta petrolio kazako. Tradotto: i droni ucraini colpivano cargo che trasportavano greggio di interesse per interessi USA, non russo. Chi ci guadagna? Kiev ha accettato il compromesso sperando di ottenere una licenza per produrre missili Patriot — e di acquistarne qualche centinaio prima dell'inverno, quando la Russia intensificherà gli attacchi. Il racconto dominante parla di solidarietà atlantica; quello rimosso è più prosaico: la guerra ha un listino prezzi, e qualcuno deve pur pagarlo — in missili, in greggio, in silenzi concordati al telefono."
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Caso Ranucci-Lavitola: la bomba, il mandante, il Comitato Etico Rai e Salvini col cappio in mano",
+          "slug": "caso-ranucci-lavitola-bomba-rai-comitato-etico-salvini",
+          "tag": [
+            "rai",
+            "ranucci",
+            "lavitola",
+            "report"
+          ],
+          "evidenza": false,
+          "fonte": "Il Gazzettino / Sky TG24 / Adnkronos",
+          "cerca_url": "https://www.google.com/search?q=Ranucci+Lavitola+arresto+mandante+attentato+Report+Rai+agosto+2026",
+          "post_x": "Lavitola avrebbe organizzato la bomba sotto casa di Ranucci per FARLO SEMBRARE UNA VITTIMA e lanciarlo in politica. Salvini ne approfitta per chiedergli di lasciare Report. La Rai convoca il Comitato Etico. Tutti ci guadagnano. Tranne la verità. #Report #Ranucci",
+          "post_sito": "Valter Lavitola è in cella a Rebibbia con l'accusa di essere il mandante dell'attentato dinamitardo del 16 ottobre 2025 davanti all'abitazione del giornalista Sigfrido Ranucci — e la contestazione è aggravata dal metodo mafioso. Il dettaglio kafkiano, secondo l'ordinanza del gip Iole Moricca, è che l'attentato sarebbe stato organizzato non per colpire Ranucci, ma per accrescerne la popolarità e accelerarne una candidatura politica, assicurando a Lavitola stesso un ruolo di primo piano nel nuovo scenario. Ranucci è la vittima, non indagato — ma il racconto dominante lo processa lo stesso: Salvini chiede le sue dimissioni da Report, il Comitato Etico della Rai è convocato d'urgenza ad agosto, e una mail interna riservata del direttore dell'Approfondimento Rai — inviata a Ranucci e da lui girata a Lavitola — diventa prova d'accusa mediatica. Il contesto rimosso: Lavitola ha già un curriculum giudiziario di tutto rispetto, è noto per i suoi rapporti con il potere politico trasversale da decenni, e la storia della Rai è piena di commissariamenti mascherati da tutela dell'etica. Chi ci guadagna? Chiunque voglia silenziare Report, indipendentemente dallo schieramento."
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Nvidia e i sei signori di Wall Street: 500 miliardi per costruire le fabbriche dell'IA",
+          "slug": "nvidia-wall-street-500-miliardi-infrastrutture-ia",
+          "tag": [
+            "nvidia",
+            "intelligenza-artificiale",
+            "finanza",
+            "wall-street"
+          ],
+          "evidenza": false,
+          "fonte": "Il Sole 24 Ore / ANSA / Forbes Italia",
+          "cerca_url": "https://www.google.com/search?q=Nvidia+accordo+500+miliardi+BlackRock+Goldman+Sachs+KKR+AI+2026",
+          "post_x": "Nvidia, BlackRock, Goldman Sachs, Apollo, Blackstone, Brookfield e KKR: 500 miliardi per le «fabbriche dell'IA». Jensen Huang dice che è una rivoluzione. Noi diciamo che è la più grande operazione di privatizzazione del futuro mai tentata. #Nvidia #AI",
+          "post_sito": "Nvidia ha annunciato una partnership strategica con sei tra i maggiori player di Wall Street — Apollo, BlackRock, Blackstone, Brookfield Asset Management, Goldman Sachs e KKR — con l'obiettivo di mobilitare oltre 500 miliardi di dollari per finanziare data center, infrastrutture energetiche e cosiddette «fabbriche di IA» in tutto il mondo. L'operazione trasforma le GPU di Nvidia in una vera e propria asset class infrastrutturale: la potenza di calcolo diventa un investimento da finanziare come si fa con autostrade e aeroporti — e i fondi istituzionali ci entrano dentro. Chi ci guadagna? Nvidia, che vale circa 5.250 miliardi di dollari di capitalizzazione, vede accelerare la domanda dei suoi prodotti: più infrastrutture si costruiscono, più chip servono. BlackRock, KKR e soci incassano rendimenti su asset «produttivi, durevoli e fungibili» — parole di Jensen Huang. Il dettaglio taciuto: gli investimenti globali in infrastrutture AI sono attesi superare i mille miliardi di dollari nel solo 2026, e il consumo energetico dei data center sta già riscrivendo i piani climatici di mezzo mondo. La «rivoluzione democratica dell'IA» la pagheranno le bollette elettriche di tutti."
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Jacobs si ferma a 40 metri: infortunio all'adduttore nella finale dei 100m agli Europei di Birmingham",
+          "slug": "jacobs-infortunio-finale-100-metri-europei-birmingham-2026",
+          "tag": [
+            "atletica",
+            "jacobs",
+            "europei",
+            "birmingham"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Il Post / Sky Sport",
+          "cerca_url": "https://www.google.com/search?q=Jacobs+infortunio+finale+100+metri+Europei+atletica+Birmingham+2026",
+          "post_x": "Jacobs si ferma a 40 metri nella finale dei 100m agli Europei. Due titoli europei, un oro olimpico, un corpo che non vuole saperne. Battocletti vince l'oro nei 5000 e nessuno ne parla abbastanza. L'atletica è così: qualcuno brilla mentre gli altri si fermano. #Birmingham2026",
+          "post_sito": "Marcell Jacobs ha concluso al settimo posto la finale dei 100 metri agli Europei di Birmingham, costretto ad alzare bandiera bianca dopo soli 40 metri per un fastidio all'adduttore — lo stesso muscolo che lo aveva già fermato a Montecarlo. Due volte campione europeo in carica, favorito alla vigilia, ha dichiarato: «Ero pronto a rompermi qualsiasi cosa pur di arrivare in fondo». L'oro è andato al britannico Romell Glave in 10.09, con doppietta di casa. La notizia sepolta sotto il dramma Jacobs: Nadia Battocletti ha vinto l'oro nei 5000 metri con 15'37\"84, confermandosi regina del mezzofondo continentale dopo il titolo di Roma 2024, con Micol Majori bronzo in una doppietta tutta azzurra. Il racconto dominante piange Jacobs — legittimo — ma dimentica che mentre l'uomo più veloce d'Italia si fermava, una donna stava costruendo una delle più belle pagine dell'atletica italiana moderna. Il contesto rimosso: gli infortuni muscolari ricorrenti di Jacobs sollevano domande sui carichi di lavoro e sulla gestione atletica, argomento su cui il sistema sportivo italiano preferisce il silenzio alla trasparenza."
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Antonio Perrotta, il bodyguard ucciso a Sangineto: due fratelli fermati, vivevano in Lussemburgo",
+          "slug": "antonio-perrotta-bodyguard-ucciso-sangineto-fermati-fratelli-lussemburgo",
+          "tag": [
+            "cronaca",
+            "sangineto",
+            "cosenza",
+            "violenza-discoteca"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Leggo / Il Giornale",
+          "cerca_url": "https://www.google.com/search?q=Antonio+Perrotta+bodyguard+morto+pestaggio+Sangineto+fermati+2026",
+          "post_x": "Antonio Perrotta, 34 anni, buttato fuori due ragazzi senza biglietto. Loro lo hanno picchiato a morte. Fermati in 48 ore: sono fratelli, abitano in Lussemburgo, erano in vacanza. La Calabria d'estate: il mare, il sangue, la discoteca chiusa 15 giorni. #Sangineto #Cronaca",
+          "post_sito": "Antonio Perrotta, 34 anni, di Fuscaldo, lavorava come addetto alla sicurezza fuori da una discoteca a Sangineto, nel Cosentino. Nella notte tra l'8 e il 9 agosto ha allontanato due giovani che non avevano il biglietto d'ingresso: loro sono usciti, lo hanno pestato con violenza tale da causargli gravi lesioni cerebrali, ed è morto poco dopo all'ospedale di Cosenza. In meno di 48 ore le indagini di polizia e carabinieri — coordinate dalla Procura di Paola — hanno portato al fermo di due fratelli di 20 e 21 anni, individuati grazie alle telecamere di sorveglianza: originari del posto, risiedono e lavorano in Lussemburgo, e tornavano periodicamente in Calabria. La discoteca è stata chiusa per 15 giorni su disposizione del Questore. Il contesto rimosso dal racconto estivo: il lavoro di buttafuori è tra i più esposti alla violenza fisica in Italia, con nessuna tutela specifica e stipendi da mille euro al mese; la Calabria è una terra dove la violenza estiva nei locali torna ogni anno nei titoli di agosto, senza che nulla cambi strutturalmente. Chi ci guadagna dal silenzio su questo? L'industria dell'intrattenimento notturno, che preferisce pagare 15 giorni di chiusura piuttosto che affrontare il problema alla radice."
+        }
+      ]
+    },
+    {
       "data": "2026-08-11",
       "post": [
         {
@@ -1584,52 +1669,7 @@
           "post_sito": "La DDA di Reggio Calabria esegue 79 arresti in una vasta operazione antimafia contro la 'Ndrangheta: 500 uomini tra polizia e carabinieri, comunicati trionfali, conferenze stampa. Il racconto dominante è quello della Stato che vince. Il racconto rimosso è quello delle ragioni per cui la 'Ndrangheta è diventata, secondo Europol, la più potente organizzazione criminale d'Europa per fatturato — con ramificazioni in Germania, Canada, Australia e Colombia. Quella potenza non si costruisce nel vuoto: si costruisce con capitali riciclati nel tessuto legale dell'economia, con appalti, immobili, ristorazione, grande distribuzione. Ogni maxi-operazione è reale e necessaria; ma arriva sempre dopo decenni di infiltrazione silenziosa che nessuno ha fermato prima. La domanda scomoda non è 'chi è stato arrestato oggi', ma 'chi ha fatto affari con loro negli ultimi vent'anni senza finire nei comunicati stampa'."
         }
       ]
-    },
-    {
-      "data": "2026-07-13",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "USA-Iran: battaglia per lo Stretto di Hormuz, bombe e trattative in parallelo",
-          "fonte": "Corriere della Sera / CBS News / ANSA",
-          "cerca_url": "https://www.google.com/search?q=USA+Iran+Stretto+Hormuz+attacchi+luglio+2026",
-          "post_x": "USA bombarda l'Iran, Iran ferma navi a Hormuz, petrolio +5%. Nel frattempo una delegazione iraniana tratta in Oman. Si chiama guerra. O forse si chiama borsa. ENI +2,5% oggi. Chiedete a lei.",
-          "post_sito": "Tutti urlano alla guerra totale. Nessuno nota che, mentre gli F-18 decollano, una delegazione iraniana era già seduta al tavolo a Muscat per trattare — simultaneamente. Lo Stretto di Hormuz, attraverso cui transita il 20% del petrolio mondiale, è formalmente 'chiuso': il Brent schizza a 79 dollari al barile (+4,37%), il WTI a 74,54. A Piazza Affari, ENI guadagna il 2,55%, Saipem e Tenaris corrono insieme. Chi ci guadagna? Le major petrolifere, i fondi speculativi long sull'oil, i contractor militari americani che hanno già incassato contratti dopo i 140 obiettivi colpiti dagli USA. Il contesto rimosso: questa escalation affonda la tregua di metà giugno — un memorandum firmato da Trump e dalla controparte iraniana — fatta saltare dall'attacco a una nave portacontainer cipriota. Cipriota. Bandiera di comodo, proprietà da accertare. Intanto Goldman Sachs aggiorna gli scenari catastrofici su Hormuz: ottima pubblicità per i suoi fondi commodity."
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Schlein vs Conte sul riarmo: la sinistra si divide mentre l'industria della difesa festeggia",
-          "fonte": "Il Fatto Quotidiano / La Stampa",
-          "cerca_url": "https://www.google.com/search?q=Schlein+Conte+riarmo+europeo+scontro+luglio+2026",
-          "post_x": "Schlein critica Conte sul riarmo, Conte risponde 'follia'. Intanto Leonardo SpA è ai massimi da 10 anni. La sinistra italiana litiga su chi è più pacifista. I dividendi non litigano.",
-          "post_sito": "Il campo progressista italiano si sta dilaniando pubblicamente: Elly Schlein attacca Giuseppe Conte sulla linea da tenere riguardo al riarmo europeo e alla Russia, e Conte replica con un 'follia, dirò sempre no'. Narrativa dominante: scontro di valori, anime diverse, crisi dell'opposizione. Narrativa rimossa: mentre i due si accapigliano sui principi, il titolo Leonardo SpA — principale produttore di armamenti italiano, partecipato dallo Stato — ha segnato performance da record nell'ultimo anno, sospinto proprio dai miliardi del riarmo europeo decisi a Bruxelles. Chi ci guadagna? I grandi gruppi della difesa continentale, i fondi di investimento ESG che hanno stranamente reintegrato il settore militare nei portafogli 'etici', e le banche che sottoscrivono i bond sovrani emessi per finanziare le spese militari. Il contesto che sparisce: il dibattito non riguarda davvero la pace o la guerra — riguarda quale partito si intesterà l'opposizione alle prossime elezioni. La pace, nel frattempo, aspetta."
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Petrolio oltre i 79 dollari: Hormuz paralizzata, le borse europee in rosso ma i titoli oil volano",
-          "fonte": "Il Sole 24 Ore / MilanoFinanza / QuiFinanza",
-          "cerca_url": "https://www.google.com/search?q=petrolio+Brent+79+dollari+Hormuz+borse+13+luglio+2026",
-          "post_x": "Borse europee in rosso per la guerra. Tranne i titoli petroliferi. ENI +2,5%, Saipem su, Tenaris su. La guerra è una tragedia umanitaria. È anche un ottimo trimestre per alcune categorie.",
-          "post_sito": "Le borse europee aprono in 'profondo rosso' per l'escalation nel Golfo, titolano i giornali economici. Vero — ma con un asterisco grande come una petroliera. Il 'profondo rosso' riguarda tech, automotive e industriali: Prysmian -1,70%, STM -1,53%, Ferrari -1,06%. Mentre ENI guadagna il 2,55%, Saipem e Tenaris corrono, e i titoli oil globali esultano con il Brent che sfiora i 79 dollari al barile dopo un +5,4% settimanale. L'AD di ENI Descalzi avverte solennemente di un 'punto di rottura' entro il 2027 se il conflitto continua: lo stesso conflitto che nel frattempo fa lievitare i ricavi del segmento Esplorazione e Produzione della sua stessa azienda. Il contesto storico: ogni crisi nel Golfo Persico dal 1973 in poi ha prodotto lo stesso schema — volatilità per tutti, profitti record per pochissimi. Questa volta Goldman Sachs ha già pubblicato il report sugli 'scenari catastrofici' di Hormuz: ottima pubblicità per i propri fondi commodity. La Fed, nel frattempo, tiene i tassi al 3,50-3,75% e sposta ogni taglio al 2027. Qualcuno vince anche lì."
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Sinner vince Wimbledon per il secondo anno consecutivo: 5 Slam, 4,25 milioni di euro e un'Italia che si dimentica tutto il resto",
-          "fonte": "Il Post / Adnkronos / Olympics.com",
-          "cerca_url": "https://www.google.com/search?q=Sinner+Wimbledon+2026+secondo+titolo+consecutivo+Zverev",
-          "post_sito": "Jannik Sinner è campione di Wimbledon per il secondo anno consecutivo, battendo Zverev in quattro set rimontando da un set sotto. Quinto Slam in carriera, 4,25 milioni di euro di montepremi — edizione record. Tutto sacrosanto, tutto meritato. Ma mentre l'Italia intera si commuove davanti al Centre Court, vale la pena notare qualche numero che i telecronisti non citano: Wimbledon genera circa 50 milioni di sterline l'anno solo di diritti televisivi; Nike, sponsor di Sinner, ha visto le vendite di abbigliamento tennis aumentare a doppia cifra da quando l'altoatesino domina le classifiche; e la RAI — che ha trasmesso la finale — ha incassato ascolti da finale mondiale. Sinner è diventato il decimo giocatore dell'Era Open a vincere Wimbledon due volte di fila, un club che comprende Federer e Djokovic. Il contesto rimosso: è arrivato a Wimbledon dopo un crollo fisico al Roland Garros e un mese di test medici. Ha battuto Djokovic in semifinale senza perdere un set. Se l'obiettivo era far dimenticare agli italiani la crisi energetica, il carovita e la guerra in Medio Oriente, difficilmente si poteva trovare momento migliore.",
-          "post_x": "Sinner vince Wimbledon bis. 5 Slam, 4,25 mln€, l'Italia si ferma. Nike, Sky e RAI ringraziano. Zverev invece no. Comunque: bravo Jannik, davvero. Il resto del mondo può riprendere a bruciare."
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Youssef, 19 anni, ucciso a Crema: tre fermati. Il secondo omicidio in tre mesi nella stessa città",
-          "fonte": "ANSA / Libero / Sky TG24",
-          "cerca_url": "https://www.google.com/search?q=omicidio+Crema+19enne+egiziano+accoltellato+luglio+2026",
-          "post_x": "Youssef, 19 anni, ucciso a coltellate a Crema. Tre fermati. È il secondo omicidio simile in tre mesi nella stessa città. Qualcuno urlerà all'emergenza stranieri. Nessuno chiederà perché quei ragazzi erano lì, soli, a quell'ora.",
-          "post_sito": "Youssef Rama Abdelaziz, 19 anni, di origine egiziana, è stato accoltellato a morte nel parcheggio di un supermercato a Crema nella notte tra sabato e domenica. Tre giovani sono stati fermati — di nazionalità italiana e straniera, tutti regolari e residenti nel Cremasco. È il secondo omicidio con dinamiche simili in quella città in meno di tre mesi: ad aprile, un altro ventenne egiziano era stato massacrato a coltellate e colpi di spranga da un diciassettenne. La narrativa dominante si divide immediatamente in due cori speculari: quello che grida 'emergenza immigrazione' e quello che risponde 'è solo microcriminalità'. Entrambi i cori evitano le domande scomode: perché ragazzi di 19 anni, immigrati di seconda generazione o arrivati da poco, finiscono in dinamiche violente in una città di provincia? Quali sono i servizi di integrazione, le opportunità di lavoro, i presidi sociali presenti nel Cremasco? Chi ha tagliato i fondi agli sportelli anti-dispersione scolastica? La violenza non ha nazionalità — ha condizioni materiali. Il resto è propaganda, di qualunque colore."
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-08-11T08:17:18.372946+00:00"
+  "ultimo_aggiornamento": "2026-08-12T08:42:34.894030+00:00"
 }
