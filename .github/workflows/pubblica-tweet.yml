@@ -2,7 +2,7 @@ name: Pubblica Tweet dalla Coda
 
 on:
   schedule:
-    - cron: '20 7 * * *'    # ~09:20 ora italiana — poco dopo la generazione
+    - cron: '35 7 * * *'    # ~09:20 ora italiana — poco dopo la generazione
     - cron: '37 9 * * *'    # ~11:37 ora italiana
     - cron: '7 12 * * *'    # ~14:07 ora italiana
     - cron: '7 15 * * *'    # ~17:07 ora italiana
