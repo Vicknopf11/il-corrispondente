@@ -1,16 +1,22 @@
 {
-  "data": "2026-08-15",
-  "articolo_riferimento": "https://corrispondente.filoclastos.it/2026/08/09/pos-scontrini-evasione-fiscale-9-miliardi-2026/",
-  "pubblicato": false,
+  "data": "2026-08-22",
+  "articolo_riferimento": "https://corrispondente.filoclastos.it/2026/08/20/tania-terrin-femminicidio-sette-denunce-sistema/",
+  "pubblicato": true,
   "tweet": [
     {
-      "testo": "9,1 miliardi di evasione fiscale emersi in sei mesi collegando il Pos alla cassa. La tecnologia c'era. La legge anche. Mancava solo la volontà politica. Domanda: di chi?"
+      "testo": "Tania Terrin aveva denunciato 7-8 volte. Il suo ex aveva già tre ex compagne che lo avevano querelato dal 2002. C'era un ammonimento del Questore. Poi l'hanno trovata sul divano. Il sistema sapeva tutto.",
+      "pubblicato": true,
+      "tweet_id": "2091063811704836478"
     },
     {
-      "testo": "L'evasione fiscale in Italia vale 90-100 miliardi l'anno. È nota da decenni. Ogni governo promette la guerra all'evasore. Nessuno ha mai collegato due database già esistenti. Perché? Forse perché chi evade vota, finanzia campagne, siede nei consigli comunali."
+      "testo": "Il Codice Rosso esiste dal 2019. Sette anni. Non mancano le leggi: mancano i protocolli, i fondi, i magistrati, le case rifugio. Ogni femminicidio produce un'inchiesta parlamentare. Nessuna produce risorse.",
+      "pubblicato": true,
+      "tweet_id": "2091063813067927855"
     },
     {
-      "testo": "Ora che i dati ci sono, cosa succede? Condoni, pace fiscale, «rateizzazioni». La macchina del perdono è già in moto. Chi paga le tasse per intero aspetta ancora la sua ricompensa."
+      "testo": "La domanda non è «perché lui l'ha uccisa». È: quante volte un sistema deve fallire prima che qualcuno paghi per il sistema, non solo per il gesto?",
+      "pubblicato": true,
+      "tweet_id": "2091063815064399980"
     }
   ]
 }
