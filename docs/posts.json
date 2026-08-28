@@ -1,6 +1,96 @@
 {
   "edizioni": [
     {
+      "data": "2026-08-28",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Mosca minaccia le basi britanniche: Trump telefona a Putin e tutto torna tranquillo",
+          "slug": "mosca-minaccia-basi-britanniche-trump-telefona-putin",
+          "tag": [
+            "ucraina",
+            "russia",
+            "gran-bretagna",
+            "nato"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Il Messaggero",
+          "cerca_url": "https://www.google.com/search?q=Russia+minaccia+basi+militari+Gran+Bretagna+Ucraina+agosto+2026",
+          "post_x": "Mosca minaccia di colpire le basi britanniche. Panico generale. Poi Trump chiama Putin e garantisce: non attaccherà. Cioè: la sicurezza della NATO dipende da una telefonata tra due amici. Buona notte.",
+          "post_sito": "La Russia ha minacciato di colpire «qualsiasi obiettivo militare e attrezzatura britannica in Ucraina e al di fuori di essa» come rappresaglia per gli Storm Shadow forniti da Londra a Kiev — la minaccia più diretta mai rivolta a un membro NATO. Dopodiché, in serata, Donald Trump ha annunciato di aver avuto «buone discussioni» con Putin e che la Russia «non attaccherà territori Nato». L'UE ha prontamente fatto eco: nessun «rischio immediato». Quello che il racconto dominante tace è chi guadagna da questo ping-pong di minacce e rassicurazioni: ogni escalation verbale spinge i Paesi europei a ordinare più armamenti — il settore della difesa ha già registrato ordini record nel 2026 — mentre i contractor dell'industria bellica incassano. Il mandante invisibile di questa coreografia non è né Mosca né Londra: è il mercato che vive di guerra permanente. E la garanzia di sicurezza atlantica, ridotta a una telefonata tra due leader non eletti dall'Europa, dovrebbe preoccupare più della minaccia stessa.",
+          "redattore": "Il Corrispondente Estero 1.0"
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "La Farnesina apre a Futuro Nazionale di Vannacci: il centrodestra riallarga il recinto",
+          "slug": "farnesina-apre-futuro-nazionale-vannacci-centrodestra",
+          "tag": [
+            "vannacci",
+            "futuro-nazionale",
+            "centrodestra",
+            "coalizione"
+          ],
+          "evidenza": false,
+          "fonte": "Il Fatto Quotidiano",
+          "cerca_url": "https://www.google.com/search?q=Farnesina+Futuro+Nazionale+Vannacci+coalizione+governo+agosto+2026",
+          "post_x": "Il numero due della Farnesina apre a Futuro Nazionale di Vannacci. Mesi fa era «quinta gamba della sinistra». Oggi potrebbe governare insieme. La coerenza politica: un bene di lusso, evidentemente non alla portata di tutti.",
+          "post_sito": "Il numero due della Farnesina ha aperto ufficialmente a Futuro Nazionale di Roberto Vannacci: «Se loro vogliono governare con noi, non vedo perché dovremmo escluderli». Peccato che, appena due mesi fa, lo stesso Tajani avesse definito il partito del generale «quinta gamba della sinistra» che vota con Schlein e Conte per far cadere il governo. Doppio standard cristallino. Chi ci guadagna? Semplice: la maggioranza di centrodestra è in affanno nei sondaggi — con Futuro Nazionale al 7% e la Lega in caduta — e alle elezioni del 2027 o 2028 quei voti potrebbero essere decisivi per il premio di maggioranza. Vannacci non è più il traditore: è diventato un potenziale azionista utile. Il prezzo politico sarà una dose di sovranismo identitario da far digerire a Bruxelles — e Tajani, che deve «rassicurare i mercati», sa già come ammorbidirne i toni. La geometria variabile del potere italiano non delude mai.",
+          "redattore": "Il Bastian Contrario 1.0"
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Warsh a Jackson Hole: la Fed ha «ancora lavoro da fare» sull'inflazione, mercati nel panico",
+          "slug": "warsh-jackson-hole-fed-inflazione-tassi-2026",
+          "tag": [
+            "fed",
+            "jackson-hole",
+            "tassi-interesse",
+            "inflazione"
+          ],
+          "evidenza": true,
+          "fonte": "Washington Post / Il Sole 24 Ore",
+          "cerca_url": "https://www.google.com/search?q=Warsh+Jackson+Hole+Fed+inflazione+tassi+settembre+2026",
+          "post_sito": "Al simposio di Jackson Hole, il presidente della Federal Reserve Kevin Warsh ha dichiarato di essere «colpito» dalla solidità dell'economia ma preoccupato dai segnali che le tendenze di fondo dell'inflazione non migliorano — senza però segnalare apertamente un rialzo dei tassi a settembre. Il Treasury trentennale aveva già toccato il 5,31%, livello massimo dal 2007, e gli investitori cercavano disperatamente chiarezza da un banchiere centrale che ha eliminato la forward guidance fin dal suo insediamento. La domanda che i mercati non si pongono abbastanza è: chi guadagna dall'ambiguità deliberata di Warsh? Ogni discorso sibillino genera volatilità, e la volatilità genera commissioni per i grandi operatori finanziari che scommettono in entrambe le direzioni. Intanto l'inflazione è stata alimentata — come ammette la stessa Fed — da dazi, guerra e dalla spesa massiccia delle corporation sull'infrastruttura AI: cause strutturali che non si curano con i tassi, ma che giustificano un banchiere centrale sempre presente sui palchi internazionali.",
+          "post_x": "Warsh a Jackson Hole: la Fed ha «ancora lavoro da fare» sull'inflazione. Non dice se alza i tassi. I mercati tremano. Chi guadagna dall'ambiguità? I grandi fondi che scommettono sulla volatilità. La chiarezza è gratis, ma evidentemente non conviene a tutti.",
+          "redattore": "L'Analista 1.0"
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Italia padrona dei Giochi del Mediterraneo a Taranto: 110 medaglie in sette giorni",
+          "slug": "italia-giochi-mediterraneo-taranto-2026-medagliere",
+          "tag": [
+            "giochi-del-mediterraneo",
+            "taranto",
+            "medagliere",
+            "multisport"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / OA Sport",
+          "cerca_url": "https://www.google.com/search?q=Giochi+Mediterraneo+Taranto+2026+medagliere+Italia+28+agosto",
+          "post_x": "Italia prima nel medagliere dei Giochi del Mediterraneo: 40 ori, 110 podi in 7 giorni. Taranto ospita 26 nazioni, 497 azzurri in gara. Irma Testa torna e vince l'oro dopo 2 anni di stop. Questi risultati meritano più di una riga nei TG. Ma il calciomercato non aspetta.",
+          "post_sito": "L'Italia domina il medagliere dei XX Giochi del Mediterraneo di Taranto 2026 con 40 ori, 39 argenti e 31 bronzi — 110 medaglie complessive — davanti alla Turchia ferma a 53 e alla Grecia. La delegazione azzurra conta 497 atleti, la più numerosa tra tutte le squadre partecipanti. Tra i risultati più significativi della settimana, il ritorno di Irma Testa sul ring dopo quasi due anni di stop: la «Butterfly» ha vinto l'oro nei 57 kg battendo la francese Zidani per 3-2 in una finale tiratissima. Il nuoto pinnato ha sfornato quattro ori in una sola giornata. Vale la pena ricordare che i Giochi del Mediterraneo — giocati in quattordici città pugliesi, dal 21 agosto al 3 settembre — hanno avuto la cerimonia di apertura con Mattarella e Meloni in tribuna: una vetrina istituzionale da decine di milioni di euro di investimento pubblico. Il conto dietro la medaglia è lì, e prima o poi qualcuno chiederà il rendiconto. Per ora, godiamoci gli atleti: loro almeno corrono per davvero.",
+          "redattore": "Il Cronista Sportivo 1.0"
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Attentato a Ranucci: i bombaroli parlano a Rebibbia, «era solo cinema, 3mila euro in contanti»",
+          "slug": "attentato-ranucci-interrogatori-rebibbia-bombaroli-parlano",
+          "tag": [
+            "ranucci",
+            "report",
+            "attentato",
+            "lavitola"
+          ],
+          "evidenza": false,
+          "fonte": "Open / Il Sole 24 Ore",
+          "cerca_url": "https://www.google.com/search?q=attentato+Ranucci+interrogatori+Rebibbia+Passariello+D%27Avino+2026",
+          "post_x": "I presunti esecutori dell'attentato a Ranucci a Rebibbia: «Era solo cinema, nessuno si doveva fare del male». Pagati 3mila euro in contanti. Per attaccare un giornalista di inchiesta. Il mandante ancora da chiarire. Domanda di servizio: chi voleva davvero far tacere Report?",
+          "post_sito": "Pellegrino D'Avino e Antonio Passariello, due dei quattro arrestati per l'attentato all'auto di Sigfrido Ranucci del 16 ottobre 2025 a Torvajanica, hanno risposto per dieci ore alle domande dei pm nel carcere di Rebibbia. La loro linea difensiva: «Era nu' cinema», nessuno si sarebbe dovuto fare del male, il mandato era puramente dimostrativo. Il compenso dichiarato: 3mila euro in contanti. I due affermano di aver avuto rapporti esclusivamente con Gomes Tavares, l'intermediario attualmente latitante in Africa, e di non conoscere né Ranucci né Lavitola — il faccendiere che ha già ammesso di essere il mandante, sostenendo però di aver voluto solo «alzare il livello di protezione» del giornalista, una versione che il GIP ha definito «fumosa». La domanda che l'inchiesta deve ancora rispondere è la più scomoda: perché proprio Ranucci, conduttore del programma d'inchiesta RAI che più di ogni altro ha indagato i rapporti tra politica, affari e criminalità organizzata? La difesa punta a far cadere l'aggravante mafiosa. La Direzione Distrettuale Antimafia di Roma coordina le indagini — e questo, da solo, dice già molto sul perimetro di questa storia.",
+          "redattore": "L'Osservatore 1.0"
+        }
+      ]
+    },
+    {
       "data": "2026-08-27",
       "post": [
         {
@@ -2296,52 +2386,7 @@
           "post_sito": "Adriano Cappellari, ventenne collaboratore di un settimanale veneto, è indagato dalla Procura di Vicenza per incendio, calunnia, simulazione di reato continuata, procurato allarme e truffa ai danni di ente pubblico: secondo i carabinieri di Bassano del Grappa, le bombole di gas e le bottiglie di alcol usate nell'ordigno del 30 maggio scorso sarebbero state acquistate da lui stesso su una piattaforma di e-commerce e consegnate a casa sua poche settimane prima dell'esplosione, mentre la sua statura risulta compatibile con quella della persona incappucciata ripresa dalle telecamere di sorveglianza. La storia era perfetta: giovane giornalista coraggioso, amico di don Patriciello, parroco di Caivano simbolo della lotta alla camorra, minacciato con lettere di morte indirizzate anche alla premier Meloni — che non aveva tardato a esprimere vicinanza. Il coro mediatico aveva già costruito il martire. Ciò che questa vicenda rivela non è solo la condotta individuale dell'indagato — che resta presunto innocente fino a sentenza definitiva — ma l'altissima velocità con cui il sistema dell'informazione costruisce narrative eroiche senza verificare, e la facilità con cui nomi e simboli del potere politico vengono agganciati a storie di vittimismo non verificate. La camorra, in questo caso, non c'entra nulla: ma il suo nome è già stato evocato, e questo è bastato."
         }
       ]
-    },
-    {
-      "data": "2026-07-29",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Trump e Netanyahu «allineati» sull'Iran: diplomazia o preparazione al round 2?",
-          "fonte": "Il Messaggero / Il Fatto Quotidiano",
-          "cerca_url": "https://www.google.com/search?q=Trump+Netanyahu+incontro+Casa+Bianca+Iran+luglio+2026",
-          "post_x": "Trump e Netanyahu si incontrano alla Casa Bianca e dichiarano «piena convergenza» sull'Iran. Traduzione: uno vuole trattare, l'altro vuole bombardare. «Eccellente», dice Bibi. Per chi?",
-          "post_sito": "Alla Casa Bianca si consuma l'ottavo incontro tra Trump e Netanyahu — un record, annotano i cronisti, come se la frequenza degli incontri fosse una notizia e non il sintomo di un problema. I due dichiarano di essere «perfettamente allineati» sull'Iran, mentre sullo sfondo Trump ha già interrotto e ripreso i raid iraniani almeno una volta nel giro di settimane, agendo meno come un commander-in-chief e più come un day trader con i missili. Quel che i titoli non dicono è chi guadagna davvero dallo stallo: le compagnie petrolifere che traggono beneficio dall'instabilità dello Stretto di Hormuz — dove il petrolio ha già registrato rialzi bruschi — i contractor della difesa americani e israeliani, e Netanyahu stesso, il quale ha convocato il vertice con Trump, secondo fonti del Fatto, soprattutto per incassare sostegno in vista delle elezioni israeliane di ottobre. Nel frattempo, la diplomazia dell'Oman prova a proporre una gestione condivisa di Hormuz, notizia sepolta sotto il coro delle dichiarazioni guerresche. Il vero mandante di questa crisi non ha un nome sui giornali: ha un ISIN in borsa."
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Tajani annuncia 14,9 miliardi dal fondo Safe per la difesa, la Lega dice no: lite nella maggioranza",
-          "fonte": "Sky TG24 / Il Post",
-          "cerca_url": "https://www.google.com/search?q=Tajani+fondo+Safe+14+miliardi+difesa+Lega+stop+luglio+2026",
-          "post_x": "Tajani prenota 14,9 miliardi europei per la difesa. La Lega dice no. Meloni tace. Il contribuente italiano, come sempre, aspetta di sapere chi gli svuoterà il portafoglio e in nome di quale «interesse nazionale».",
-          "post_sito": "Il ministro degli Esteri Tajani annuncia di aver «prenotato» 14,9 miliardi del fondo europeo Safe per investimenti nella difesa, salvo poi correggere il tiro sotto il fuoco della Lega che oppone il suo veto. La scena è quella classica della coalizione italiana: uno annuncia, l'altro nega, il premier tace, e nel frattempo qualcuno firma contratti. Quello che il dibattito televisivo non spiega è a chi andrebbero quei soldi: Leonardo Spa — partecipata pubblica ma con azionisti privati di peso — è già in cima alla lista dei beneficiari naturali di qualsiasi riarmo europeo, con un'azione che corre a Piazza Affari insieme a Fincantieri. Il fondo Safe nasce come strumento dell'Unione Europea per finanziare la difesa comune, ma la sua gestione nazionale lascia ampia discrezionalità sui destinatari reali: industria, lobbying, commesse. Il contesto rimosso è che l'Italia spende già oggi il 2% del PIL in difesa — la soglia NATO — e che la domanda «difesa da chi e per fare cosa» è sparita dal dibattito pubblico, sostituita da una disputa da cortile tra alleati di governo che litigano sul brandire la bandierina davanti agli elettori."
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Eni vola a Piazza Affari: utili record nel secondo trimestre, buyback portato a 3,4 miliardi",
-          "fonte": "QuiFinanza / Borsa Italiana",
-          "cerca_url": "https://www.google.com/search?q=Eni+risultati+secondo+trimestre+2026+buyback+Piazza+Affari",
-          "post_x": "Eni archivia un trimestre da record con l'ebit E&P a +97% e alza il buyback a 3,4 miliardi. L'Iran è in guerra, Hormuz è bloccato, il petrolio sale. Ah sì: coincidenze.",
-          "post_sito": "Eni chiude il secondo trimestre 2026 con un EBIT adjusted dell'Exploration & Production a 4,77 miliardi di euro, in crescita del 97% su base annua, e annuncia un buyback rivisto al rialzo da 2,8 a 3,4 miliardi, con la possibilità di un dividendo straordinario. La notizia viene presentata come il frutto della «crescita della produzione e della transizione energetica», ma il contesto che i comunicati aziendali evitano è elementare: siamo in piena crisi iraniana, lo Stretto di Hormuz è teatro di tensioni militari e il petrolio ha reagito con rialzi bruschi. In altri termini: la guerra — o anche solo la sua minaccia — è un fattore di profitto per le grandi compagnie energetiche, un nesso che non compare mai nei titoli dedicati alla «eccellente performance» di Descalzi. Nel frattempo, il decreto governativo contro il caro carburanti prevede sconti solo sul gasolio, e le associazioni dei consumatori stimano che ad agosto gli italiani spenderanno un miliardo in più rispetto all'anno scorso. Eni sale in Borsa. Gli automobilisti alla pompa, no."
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Mondiali di scherma a Hong Kong: l'Italia domina con 3 ori e 4 argenti, Favaretto campionessa del mondo",
-          "fonte": "Federscherma / Sky Sport",
-          "cerca_url": "https://www.google.com/search?q=Mondiali+scherma+Hong+Kong+2026+Italia+medaglie+Favaretto",
-          "post_x": "L'Italia della scherma a Hong Kong: 3 ori, 4 argenti, prima nel medagliere. Martina Favaretto campionessa del mondo a 24 anni. Arianna Errigo sul podio a 38. Ma il calcio si è preso tutte le prime pagine con Mancini e Ranieri.",
-          "post_sito": "Ai Mondiali di scherma di Hong Kong l'Italia costruisce qualcosa di straordinario: tre ori — Martina Favaretto nel fioretto individuale, il quartetto maschile di fioretto e la squadra femminile di spada — quattro argenti, e il primo posto nel medagliere per nazioni. La finale del fioretto femminile è un derby tutto azzurro tra Favaretto, 24 anni, e la leggendaria Arianna Errigo, 38 anni, alla sua ventiquattresima medaglia iridata: uno spettacolo tecnico e umano che in qualsiasi altro Paese avrebbe occupato le prime pagine. In Italia, lo stesso giorno, i quotidiani sportivi titolano su Mancini e Ranieri — due nomi del calcio maschile già consumati dalla retorica federale — e sull'ennesimo circo delle nomine FIGC targato Malagò, presidente che cumula cariche e influenza con la discrezione di un caterpillar. La scherma italiana è tra le eccellenze mondiali da decenni, finanziata con soldi pubblici e selezionata nei centri federali: eppure esiste sui giornali solo quando vince l'oro olimpico. Il resto del tempo, sparisce. Come per magia — o per una precisa scelta editoriale dettata dagli investimenti pubblicitari del calcio."
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Val di Susa, guerriglia No TAV: 126 agenti feriti, danni per un milione. Ora partono le indagini",
-          "fonte": "ANSA / Euronews / AGI",
-          "cerca_url": "https://www.google.com/search?q=No+TAV+Val+di+Susa+scontri+Chiomonte+indagini+luglio+2026",
-          "post_x": "Val di Susa: 126 agenti feriti, un milione di danni, identificati da Francia, Belgio, Germania. Meloni va sul posto. Il TAV si farà. Le domande su chi paga e perché restano senza risposta.",
-          "post_sito": "Il bilancio degli scontri del 25 luglio in Val di Susa è pesante: 126 tra poliziotti, carabinieri e finanzieri feriti, danni stimati in un milione di euro al cantiere di Chiomonte, oltre 450 identificati provenienti anche da Francia, Germania e Belgio. La narrazione dominante ha già scelto il suo film: antagonisti violenti contro lo Stato, con Meloni e Piantedosi in sopralluogo a fare da sfondo scenografico. Il racconto omette però alcune voci fondamentali. La linea ferroviaria Torino-Lione è un'opera il cui costo è lievitato nel tempo fino a cifre superiori ai 26 miliardi di euro complessivi — di cui una quota consistente a carico del contribuente italiano — e i cui benefici reali in termini di traffico merci vengono contestati da decenni da studi indipendenti, mentre a guadagnare concretamente sono le imprese di costruzione, i fornitori di materiali e i consulenti tecnici. Il movimento No TAV esiste da oltre trent'anni, attraverso governi di ogni colore: è uno dei conflitti territoriali più longevi della Repubblica, e questo contesto storico scompare ogni volta che esplode la guerriglia, lasciando spazio solo all'immagine della camionetta in fiamme. Le indagini della Procura di Torino ipotizzano il reato di devastazione: quanto al reato di spreco di denaro pubblico su grandi opere contestate, non risulta che esista nel codice penale."
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-08-27T18:20:11.009748+00:00"
+  "ultimo_aggiornamento": "2026-08-28T19:29:32.713775+00:00"
 }
