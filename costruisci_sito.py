@@ -21,6 +21,14 @@ SITEMAP_FILE = "docs/sitemap.xml"
 SITE_URL = "https://corrispondente.filoclastos.it"
 OG_IMAGE = f"{SITE_URL}/assets/img/og-cover.png"
 OG_IMG_DIR = "docs/assets/og"
+DISCLAIMER_EDITORIALE = (
+    "Questa sezione — prospettive e implicazioni — è un'analisi generata "
+    "interamente da intelligenza artificiale, non da una redazione umana. "
+    "Non è giornalismo verificato da fonti indipendenti: è un esercizio "
+    "automatico di lettura multi-angolare della stessa notizia, da leggere "
+    "con lo stesso spirito critico di qualsiasi altro contenuto di questo "
+    "sito."
+)
 # Da docs/{anno}/{mese}/{giorno}/{slug}/index.html a docs/ servono 4 livelli
 ROOT_REL = "../../../../"
 
@@ -97,6 +105,26 @@ def costruisci_pagina(post: dict, data_str: str, anno: str, mese: str, giorno: s
     if tag:
         chips = "".join(f'<span class="tag-chip">{esc(t)}</span>' for t in tag)
         tag_html = f'<div class="tag-bar">{chips}</div>'
+
+    editoriale_html = ""
+    if post.get("editoriale") is True:
+        prospettive = post.get("prospettive") or []
+        implicazioni = post.get("implicazioni") or ""
+        if prospettive and implicazioni:
+            prospettive_html = "".join(
+                f'''<div class="prospettiva">
+      <div class="prospettiva-etichetta">{esc(pr.get("etichetta"))}</div>
+      <div class="prospettiva-testo">{esc(pr.get("testo"))}</div>
+    </div>'''
+                for pr in prospettive
+            )
+            editoriale_html = f"""<div class="editoriale-block">
+      <div class="editoriale-titolo">Analisi multi-prospettiva</div>
+      {prospettive_html}
+      <div class="implicazioni-titolo">Implicazioni</div>
+      <div class="implicazioni-testo">{esc(implicazioni)}</div>
+      <div class="editoriale-disclaimer">{esc(DISCLAIMER_EDITORIALE)}</div>
+    </div>"""
 
     json_ld = {
         "@context": "https://schema.org",
@@ -271,6 +299,66 @@ def costruisci_pagina(post: dict, data_str: str, anno: str, mese: str, giorno: s
       border-radius: 2px;
     }}
 
+    .editoriale-block {{
+      margin: 1.4rem 0;
+      padding: 1.1rem 1.3rem;
+      background: #f0f0ee;
+      border-left: 4px solid #7a7a72;
+    }}
+
+    .editoriale-titolo {{
+      font-family: Arial, sans-serif;
+      font-size: 0.72rem;
+      font-weight: bold;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: #555;
+      margin-bottom: 0.9rem;
+    }}
+
+    .prospettiva {{
+      margin-bottom: 0.9rem;
+    }}
+
+    .prospettiva-etichetta {{
+      font-family: Arial, sans-serif;
+      font-size: 0.82rem;
+      font-weight: bold;
+      color: #333;
+      margin-bottom: 0.2rem;
+    }}
+
+    .prospettiva-testo {{
+      font-size: 0.96rem;
+      line-height: 1.7;
+      color: #333;
+    }}
+
+    .implicazioni-titolo {{
+      font-family: Arial, sans-serif;
+      font-size: 0.82rem;
+      font-weight: bold;
+      color: #333;
+      margin: 1rem 0 0.2rem;
+    }}
+
+    .implicazioni-testo {{
+      font-size: 0.96rem;
+      line-height: 1.7;
+      color: #333;
+    }}
+
+    .editoriale-disclaimer {{
+      font-family: Arial, sans-serif;
+      font-size: 0.72rem;
+      font-style: italic;
+      color: #888;
+      margin-top: 1rem;
+      padding-top: 0.7rem;
+      border-top: 1px solid #ddd;
+      line-height: 1.6;
+    }}
+
     .post-footer {{
       display: flex;
       justify-content: space-between;
@@ -339,6 +427,7 @@ def costruisci_pagina(post: dict, data_str: str, anno: str, mese: str, giorno: s
     <h1 class="post-titolo">{esc(titolo)}</h1>
     <div class="post-data">{esc(data_leggibile)}</div>
     <div class="post-testo">{esc(testo)}</div>
+    {editoriale_html}
     {tag_html}
     <div class="post-footer">
       <span class="post-fonte">{fonte_html}</span>

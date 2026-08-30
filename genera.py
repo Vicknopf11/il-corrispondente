@@ -238,6 +238,45 @@ si applica. Il punto 6 qui significa: numeri di vittime, cause, responsabilità
 accertate — mai approssimati o arrotondati per rendere un argomento più forte.
 Un dato incerto va segnalato come tale, non sostituito con una cifra plausibile.
 
+━━━ SVOLTA EDITORIALE — ANALISI MULTI-PROSPETTIVA ━━━
+
+Oltre al commento satirico che resta il DEFAULT per ogni notizia, tra tutte le
+notizie di questa edizione (di TUTTE le categorie) puoi scegliere AL MASSIMO
+UNA sola notizia per un trattamento editoriale più approfondito. Questa scelta
+è INDIPENDENTE da "evidenza": può coincidere con la notizia in evidenza o
+essere una notizia diversa — sono due decisioni separate.
+
+Non è un adempimento quotidiano obbligatorio: si applica SOLO quando una
+notizia ha davvero più angolazioni legittime e distinte da presentare (es.
+prospettiva istituzionale, dei lavoratori, economica, legale, internazionale).
+Se nessuna notizia dell'edizione lo giustifica, non marcare nulla: zero
+notizie con questo trattamento è un esito normale e preferibile a uno forzato.
+
+Quando scegli di applicarlo, marca quella notizia con "editoriale": true e
+aggiungi due campi:
+
+- "prospettive": un array di 2-4 oggetti {{"etichetta": "...", "testo": "..."}}.
+  Il numero lo decidi tu in base a quante angolazioni distinte ha davvero la
+  notizia — non forzare a un numero fisso. Ogni "etichetta" è un'intestazione
+  breve (es. "La versione del governo", "Chi ci rimette", "Il nodo legale").
+  Ogni "testo" è un resoconto in REGISTRO NEUTRO E GIORNALISTICO, distinto dal
+  registro satirico/bastian-contrario usato in post_x e post_sito: qui non c'è
+  ironia, non c'è "chi ci guadagna" esplicito — sono fatti e posizioni
+  legittime riportate con distacco, come farebbe un cronista che si limita a
+  esporre punti di vista realmente sostenibili sulla stessa notizia.
+- "implicazioni": un breve testo, sempre in registro neutro, su cosa potrebbe
+  cambiare in pratica — conseguenze concrete, non speculazioni gratuite.
+
+Il punto 6 (verifica fattuale) vale qui con rigore ANCORA MAGGIORE che altrove:
+il registro neutro tende ad abbassare la guardia critica di chi legge rispetto
+al registro satirico, dichiaratamente ironico. Ogni prospettiva deve riportare
+posizioni realmente sostenibili o verificabili, mai insinuazioni presentate
+come fatti. Vale sempre la presunzione di innocenza (vedi punto 3).
+
+Prospettive e implicazioni sono contenuto ESCLUSIVO del sito: non vanno MAI
+riassunte, citate o accennate in post_x, che resta sempre e solo il gancio
+satirico breve, identico a come lo scriveresti per qualsiasi altra notizia.
+
 ━━━ FONTI ━━━
 
 Italiane: Corriere della Sera, Repubblica, La Stampa, Il Sole 24 Ore, ANSA, Il Post,
@@ -289,6 +328,37 @@ def valida_edizione(edizione: dict) -> dict:
         evidenziati[0]["evidenza"] = True
     elif posts:
         posts[0]["evidenza"] = True
+
+    # Editoriale multi-prospettiva (Fase 5): al massimo UNA notizia valida per
+    # edizione, indipendente da evidenza. A differenza di evidenza, qui NON si
+    # forza nulla: se nessuna notizia ha una struttura valida (prospettive
+    # ben formate + implicazioni), l'edizione resta semplicemente senza
+    # editoriale — è un esito normale, non un errore da correggere.
+    assegnato_editoriale = False
+    for p in posts:
+        prospettive = p.get("prospettive")
+        implicazioni = p.get("implicazioni")
+        valido = (
+            p.get("editoriale") is True
+            and isinstance(prospettive, list)
+            and len(prospettive) >= 2
+            and all(
+                isinstance(pr, dict)
+                and isinstance(pr.get("etichetta"), str) and pr.get("etichetta", "").strip()
+                and isinstance(pr.get("testo"), str) and pr.get("testo", "").strip()
+                for pr in prospettive
+            )
+            and isinstance(implicazioni, str) and implicazioni.strip()
+        )
+        if valido and not assegnato_editoriale:
+            p["editoriale"] = True
+            assegnato_editoriale = True
+        else:
+            # Non valido, o già assegnato un altro candidato in questa
+            # edizione: azzera per evitare dati a metà o doppioni.
+            p["editoriale"] = False
+            p.pop("prospettive", None)
+            p.pop("implicazioni", None)
 
     # Disambigua slug duplicati nella stessa edizione (es. due notizie simili)
     visti = {}
@@ -342,6 +412,13 @@ Questa è la notizia che avrà risalto visivo maggiore in homepage: scegli in ba
 impatto, novità e centralità nel dibattito pubblico, non necessariamente la prima
 categoria della lista.
 
+Separatamente, valuta se UNA delle notizie di oggi (non necessariamente quella in
+evidenza) si presta a un trattamento editoriale multi-prospettiva (vedi sezione
+SVOLTA EDITORIALE nelle istruzioni di sistema): solo se ha davvero più angolazioni
+legittime da presentare. Se sì, marcala con "editoriale": true e compila
+"prospettive" e "implicazioni". Se nessuna notizia lo giustifica oggi, lascia tutte
+le edizioni con "editoriale": false — non forzare il formato.
+
 Rispondi SOLO con un oggetto JSON valido, senza markdown, senza backtick.
 Formato esatto:
 
@@ -357,10 +434,20 @@ Formato esatto:
       "fonte": "nome testata",
       "cerca_url": "https://www.google.com/search?q=titolo+della+notizia",
       "post_x": "testo breve max 280 caratteri per X",
-      "post_sito": "testo lungo con contesto e commento satirico"
+      "post_sito": "testo lungo con contesto e commento satirico",
+      "editoriale": false,
+      "prospettive": [
+        {{"etichetta": "etichetta breve", "testo": "resoconto in registro neutro"}}
+      ],
+      "implicazioni": "testo breve in registro neutro sulle conseguenze"
     }}
   ]
-}}"""
+}}
+
+I campi "editoriale", "prospettive" e "implicazioni" vanno presenti (anche se
+vuoti/false) su ogni post, ma popolati con contenuto reale solo sulla notizia
+eventualmente scelta per il trattamento editoriale (vedi sezione SVOLTA
+EDITORIALE più sopra) — al massimo una per edizione, spesso nessuna."""
 
 
 def genera_post() -> dict:
