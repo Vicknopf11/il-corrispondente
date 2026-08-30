@@ -1,0 +1,37 @@
+name: Rassegna Sportiva (fonti gratuite)
+
+# Indipendente dalla pipeline satirica (genera-post.yml): niente
+# ANTHROPIC_API_KEY, niente pubblicazione su X. Solo raccolta da fonti
+# gratuite (RSS + TheSportsDB) e aggiornamento del sito.
+on:
+  schedule:
+    - cron: '30 5,11,17 * * *'   # 07:30, 13:30, 19:30 ora italiana (UTC+2)
+  workflow_dispatch:              # consente esecuzione manuale
+
+jobs:
+  raccogli:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Raccogli rassegna sportiva da fonti gratuite
+        env:
+          THESPORTSDB_API_KEY: ${{ secrets.THESPORTSDB_API_KEY }}
+        run: python raccogli_sport.py
+
+      - name: Commit e push
+        run: |
+          git config user.name "Il Corrispondente Bot"
+          git config user.email "bot@il-corrispondente"
+          git add docs/rassegna_sport.json docs/copertura_sport.json
+          git diff --staged --quiet || git commit -m "Rassegna sportiva: aggiornamento $(date +'%Y-%m-%d %H:%M')"
+          git push

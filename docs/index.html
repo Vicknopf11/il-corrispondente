@@ -244,6 +244,69 @@
     .categoria-label.sport          { background: #2980b9; }
     .categoria-label.cronaca        { background: #8e44ad; }
 
+    #rassegna-sportiva {
+      max-width: 720px;
+      margin: 1.2rem auto 0;
+      padding: 0 1rem;
+    }
+
+    .rassegna-header {
+      font-family: Arial, sans-serif;
+      font-size: 0.72rem;
+      font-weight: bold;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: #2980b9;
+      margin-bottom: 0.7rem;
+    }
+
+    .rassegna-lista {
+      display: flex;
+      flex-direction: column;
+      gap: 0.6rem;
+    }
+
+    .rassegna-card {
+      background: #f4f9fc;
+      border-left: 3px solid #2980b9;
+      padding: 0.7rem 0.9rem;
+    }
+
+    .rassegna-pillola {
+      display: inline-block;
+      font-family: Arial, sans-serif;
+      font-size: 0.62rem;
+      font-weight: bold;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #2980b9;
+      background: #e3f0f8;
+      padding: 0.12rem 0.5rem;
+      margin-bottom: 0.35rem;
+    }
+
+    .rassegna-titolo a {
+      font-size: 0.92rem;
+      color: #1a1a1a;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .rassegna-titolo a:hover { color: #2980b9; }
+
+    .rassegna-risultato {
+      font-size: 0.9rem;
+      margin-top: 0.3rem;
+      color: #333;
+    }
+
+    .rassegna-competizione, .rassegna-fonte {
+      font-size: 0.72rem;
+      color: #888;
+      font-style: italic;
+      margin-top: 0.2rem;
+    }
+
     .post-card {
       background: white;
       border-left: 4px solid #c0392b;
@@ -409,6 +472,8 @@
   <a class="rss-link" href="feed.xml" title="Abbonati via RSS">&#9654; RSS</a>
 </div>
 
+<div id="rassegna-sportiva" style="display:none"></div>
+
 <main id="contenuto">
   <div id="loading">Caricamento edizioni...</div>
 </main>
@@ -493,6 +558,8 @@ function filtraPost() {
   });
   const hero = document.getElementById('hero-wrapper');
   if (hero) hero.style.display = (categoriaAttiva === 'tutte') ? '' : 'none';
+  const rassegna = document.getElementById('rassegna-sportiva');
+  if (rassegna) rassegna.style.display = (categoriaAttiva === 'sport') ? '' : 'none';
 }
 
 // ── Selettore data ───────────────────────────────────────────────
@@ -606,6 +673,38 @@ function renderEdizione() {
   aggiornaNav();
 }
 
+// ── Rassegna sportiva (fonti gratuite, senza trattamento AI) ──────
+function renderItemRassegna(it) {
+  const risultatoHtml = it.tipo === 'risultato'
+    ? `<div class="rassegna-risultato">${esc(it.squadra_casa)} ${esc(String(it.punteggio_casa))} – ${esc(String(it.punteggio_ospite))} ${esc(it.squadra_ospite)}</div>
+       <div class="rassegna-competizione">${esc(it.competizione || '')}${it.data_evento ? ' · ' + esc(it.data_evento) : ''}</div>`
+    : '';
+  return `
+    <div class="rassegna-card">
+      <div class="rassegna-pillola">${esc(it.sottocategoria)}</div>
+      <div class="rassegna-titolo"><a href="${esc(it.link)}" target="_blank" rel="noopener">${esc(it.titolo)}</a></div>
+      ${risultatoHtml}
+      <div class="rassegna-fonte">Fonte: ${esc(it.fonte)}</div>
+    </div>`;
+}
+
+async function caricaRassegnaSportiva() {
+  const cont = document.getElementById('rassegna-sportiva');
+  if (!cont) return;
+  try {
+    const r = await fetch('rassegna_sport.json?t=' + Date.now());
+    if (!r.ok) { cont.innerHTML = ''; return; }
+    const dati = await r.json();
+    const item = dati.item || [];
+    if (item.length === 0) { cont.innerHTML = ''; return; }
+    cont.innerHTML = `
+      <div class="rassegna-header">Rassegna sportiva — altre notizie di oggi (fonti gratuite, senza commento satirico)</div>
+      <div class="rassegna-lista">${item.map(renderItemRassegna).join('')}</div>`;
+  } catch (e) {
+    cont.innerHTML = '';
+  }
+}
+
 // ── Carica archivio ──────────────────────────────────────────────
 async function caricaArchivio() {
   const contenuto = document.getElementById('contenuto');
@@ -641,6 +740,7 @@ async function caricaArchivio() {
 }
 
 caricaArchivio();
+caricaRassegnaSportiva();
 </script>
 </body>
 </html>
