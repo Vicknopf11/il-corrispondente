@@ -9,8 +9,14 @@ non può essere spezzato su esecuzioni separate come la coda giornaliera.
 
 import json
 import os
+import sys
 
-from pubblica_tweet import URL_PESO, SEPARATORE
+from pubblica_tweet import (
+    URL_PESO,
+    SEPARATORE,
+    CreditoEsauritoError,
+    EXIT_CREDITO_ESAURITO,
+)
 
 CODA_THREAD_FILE = "coda_thread_x.json"
 
@@ -49,6 +55,9 @@ def pubblica_tweet_singolo(testo: str, in_reply_to: str = None) -> str | None:
         tweet_id = r.json()["data"]["id"]
         print(f"✓ X: pubblicato — {testo[:60]}...")
         return tweet_id
+    elif r.status_code == 402:
+        print(f"✗ X: errore 402 — credito esaurito — {r.text}")
+        raise CreditoEsauritoError(r.text)
     else:
         print(f"✗ X: errore {r.status_code} — {r.text}")
         return None
@@ -64,7 +73,12 @@ def pubblica_thread(coda: dict) -> bool:
         if i == len(tweet_list) - 1 and url:
             testo = comporre_ultimo_tweet(testo, url)
 
-        tweet_id = pubblica_tweet_singolo(testo, in_reply_to=id_precedente)
+        try:
+            tweet_id = pubblica_tweet_singolo(testo, in_reply_to=id_precedente)
+        except CreditoEsauritoError:
+            # Rilanciamo dopo il ciclo: i tweet già pubblicati restano segnati
+            # come tali in coda, così main() può salvare lo stato parziale.
+            raise
         if tweet_id is None:
             # Si interrompe: meglio un thread parziale visibile e un errore
             # nel log, che un ciclo infinito di retry automatici.
@@ -90,10 +104,22 @@ def main() -> None:
         print("Il thread di oggi è già stato pubblicato.")
         return
 
-    ok = pubblica_thread(coda)
+    try:
+        ok = pubblica_thread(coda)
+    except CreditoEsauritoError:
+        # coda["tweet"] è già stata aggiornata in-place per i tweet
+        # pubblicati prima dell'esaurimento del credito: li salviamo.
+        coda["pubblicato"] = False
+        with open(CODA_THREAD_FILE, "w", encoding="utf-8") as f:
+            json.dump(coda, f, ensure_ascii=False, indent=2)
+        sys.exit(EXIT_CREDITO_ESAURITO)
+
     coda["pubblicato"] = ok
     with open(CODA_THREAD_FILE, "w", encoding="utf-8") as f:
         json.dump(coda, f, ensure_ascii=False, indent=2)
+
+    if not ok:
+        sys.exit(1)
 
 
 if __name__ == "__main__":

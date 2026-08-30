@@ -8,8 +8,17 @@ distribuendo nel tempo i post generati in un'unica edizione mattutina.
 
 import json
 import os
+import sys
 
 CODA_FILE = "coda_x.json"
+
+# Exit code dedicato per l'errore 402 (credito X esaurito), distinto dal
+# generico 1 usato per qualsiasi altro tipo di fallimento di pubblicazione.
+EXIT_CREDITO_ESAURITO = 2
+
+
+class CreditoEsauritoError(Exception):
+    """Sollevata quando X risponde 402 — credito API esaurito."""
 
 # X accorcia sempre i link a 23 caratteri (wrapper t.co) indipendentemente
 # dalla lunghezza reale, ai fini del conteggio dei 280 caratteri totali.
@@ -50,6 +59,9 @@ def pubblica_su_x(testo: str, url: str = None) -> bool:
     if r.status_code == 201:
         print(f"✓ X: pubblicato — {testo_finale[:60]}...")
         return True
+    elif r.status_code == 402:
+        print(f"✗ X: errore 402 — credito esaurito — {r.text}")
+        raise CreditoEsauritoError(r.text)
     else:
         print(f"✗ X: errore {r.status_code} — {r.text}")
         return False
@@ -69,11 +81,17 @@ def main() -> None:
         print("Coda vuota per oggi — tutti i tweet sono già stati pubblicati.")
         return
 
-    ok = pubblica_su_x(prossimo["testo"], prossimo.get("url"))
+    try:
+        ok = pubblica_su_x(prossimo["testo"], prossimo.get("url"))
+    except CreditoEsauritoError:
+        sys.exit(EXIT_CREDITO_ESAURITO)
+
     if ok:
         prossimo["pubblicato"] = True
         with open(CODA_FILE, "w", encoding="utf-8") as f:
             json.dump(coda, f, ensure_ascii=False, indent=2)
+    else:
+        sys.exit(1)
 
 
 if __name__ == "__main__":
