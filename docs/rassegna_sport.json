@@ -1,40 +1,45 @@
 {
-  "generato": "2026-08-30T13:34:27.179585+00:00",
+  "generato": "2026-08-30T13:48:44.491179+00:00",
   "item": [
     {
-      "sottocategoria": "Invernali",
+      "sottocategoria": "Acqua",
       "tipo": "notizia",
-      "titolo": "Goggia: \"Questo era l'obiettivo, ma non sono stata perfetta\"",
-      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/Coppa-Mondo-Sci/08-12-2023/goggia-questo-era-l-obiettivo-ma-non-sono-stata-perfetta.shtml",
-      "fonte": "Gazzetta dello Sport — Home"
+      "titolo": "Il quattro di coppia è oro ai Mondiali. Che trionfo per i Cavalieri delle Acque",
+      "link": "https://www.gazzetta.it/Sport-Vari/29-08-2026/italia-oro-quattro-di-coppia-mondiali-canottaggio.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-08-29"
+    },
+    {
+      "sottocategoria": "Calcio femminile",
+      "tipo": "notizia",
+      "titolo": "Canottaggio, Mondiali di Amsterdam: tre barche azzurre volano in finale!",
+      "link": "https://www.gazzetta.it/Sport-Vari/26-08-2026/canottaggio-mondiali-di-amsterdam-italia-tre-barche-in-finale.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-08-26"
+    },
+    {
+      "sottocategoria": "Squadra",
+      "tipo": "notizia",
+      "titolo": "Sudafrica, che riscatto: All Blacks sconfitti 33-26 e serie sull'1-1",
+      "link": "https://www.gazzetta.it/Rugby/29-08-2026/rugby-sudafrica-all-blacks-33-26-e-serie-sull-1-1.shtml",
+      "fonte": "Gazzetta — Rugby",
+      "data_evento": "2026-08-29"
     },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
-      "titolo": "Massimo Pericolo: \"Così il pugilato mi ha aiutato a stare bene. Io sul ring? Sfiderei Emis Killa\"",
-      "link": "https://video.gazzetta.it/video-massimo-pericolo-cosi-il-pugilato-mi-ha-aiutato-io-sul-ring-sfiderei-emis-killa/1cc56a92-684e-45d2-a6e1-daec75ba4xlk",
-      "fonte": "Gazzetta dello Sport — Home"
-    },
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "La piramide di Cambridge e la trasformazione del calcio",
-      "link": "https://www.gazzetta.it/premium/22-11-2023/la-piramide-di-cambridge-e-la-trasformazione-del-calcio.shtml",
-      "fonte": "Gazzetta dello Sport — Home"
+      "titolo": "Incassa, va a terra, resiste e alla nona ripresa si scatena: Hrgovic, da vittima sacrificale a campione dei massimi",
+      "link": "https://www.gazzetta.it/Sport-Vari/30-08-2026/hrgovic-itauma-campione-pesi-massimi.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-08-30"
     },
     {
       "sottocategoria": "Atletica",
       "tipo": "notizia",
-      "titolo": "Addio a Sante Gaiardoni: conquistò due ori a Roma 1960 nel ciclismo",
-      "link": "https://www.gazzetta.it/Ciclismo/30-11-2023/morto-sante-gaiardoni-due-ori-a-roma-1960.shtml",
-      "fonte": "Gazzetta dello Sport — Home"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Tennis, idea \"Premier Tour\": un calendario di grandi tornei in stile F1 e golf",
-      "link": "https://www.gazzetta.it/Tennis/ATP/29-11-2023/tennis-possibile-rivoluzione-ecco-il-premier-tour-tra-formula-1-e-golf.shtml",
-      "fonte": "Gazzetta dello Sport — Home"
+      "titolo": "Dal riformatorio a quel salto nel futuro: gli 80 anni di Bob Beamon",
+      "link": "https://www.gazzetta.it/Atletica/29-08-2026/bob-beamon-compie-80-anni-dal-riformatorio-al-record-mondiale-di-salto-in-lungo-nel-1968.shtml",
+      "fonte": "Gazzetta — Atletica",
+      "data_evento": "2026-08-29"
     }
   ]
 }
