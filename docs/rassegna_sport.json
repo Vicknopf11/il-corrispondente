@@ -1,6 +1,14 @@
 {
-  "generato": "2026-08-30T13:48:44.491179+00:00",
+  "generato": "2026-08-30T13:57:38.237408+00:00",
   "item": [
+    {
+      "sottocategoria": "Combattimento",
+      "tipo": "notizia",
+      "titolo": "Incassa, va a terra, resiste e alla nona ripresa si scatena: Hrgovic, da vittima sacrificale a campione dei massimi",
+      "link": "https://www.gazzetta.it/Sport-Vari/30-08-2026/hrgovic-itauma-campione-pesi-massimi.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-08-30"
+    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
@@ -24,14 +32,6 @@
       "link": "https://www.gazzetta.it/Rugby/29-08-2026/rugby-sudafrica-all-blacks-33-26-e-serie-sull-1-1.shtml",
       "fonte": "Gazzetta — Rugby",
       "data_evento": "2026-08-29"
-    },
-    {
-      "sottocategoria": "Combattimento",
-      "tipo": "notizia",
-      "titolo": "Incassa, va a terra, resiste e alla nona ripresa si scatena: Hrgovic, da vittima sacrificale a campione dei massimi",
-      "link": "https://www.gazzetta.it/Sport-Vari/30-08-2026/hrgovic-itauma-campione-pesi-massimi.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-08-30"
     },
     {
       "sottocategoria": "Atletica",
