@@ -1,6 +1,14 @@
 {
-  "generato": "2026-08-30T14:04:02.004556+00:00",
+  "generato": "2026-08-30T19:57:22.569118+00:00",
   "item": [
+    {
+      "sottocategoria": "Acqua",
+      "tipo": "notizia",
+      "titolo": "Canottaggio, l'Italia chiude i Mondiali con un oro e un bronzo. Galtarossa: \"Siamo soddisfatti\"",
+      "link": "https://www.gazzetta.it/Sport-Vari/30-08-2026/canottaggio-l-italia-chiude-i-mondiali-con-un-oro-e-un-bronzo.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-08-30"
+    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
@@ -8,14 +16,6 @@
       "link": "https://www.gazzetta.it/Sport-Vari/30-08-2026/hrgovic-itauma-campione-pesi-massimi.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-08-30"
-    },
-    {
-      "sottocategoria": "Acqua",
-      "tipo": "notizia",
-      "titolo": "Il quattro di coppia è oro ai Mondiali. Che trionfo per i Cavalieri delle Acque",
-      "link": "https://www.gazzetta.it/Sport-Vari/29-08-2026/italia-oro-quattro-di-coppia-mondiali-canottaggio.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-08-29"
     },
     {
       "sottocategoria": "Calcio femminile",
@@ -36,10 +36,10 @@
     {
       "sottocategoria": "Atletica",
       "tipo": "notizia",
-      "titolo": "Dal riformatorio a quel salto nel futuro: gli 80 anni di Bob Beamon",
-      "link": "https://www.gazzetta.it/Atletica/29-08-2026/bob-beamon-compie-80-anni-dal-riformatorio-al-record-mondiale-di-salto-in-lungo-nel-1968.shtml",
+      "titolo": "Battocletti, un altro exploit: record italiano dei 1500",
+      "link": "https://www.gazzetta.it/Atletica/30-08-2026/atletica-nadia-battocletti-fa-il-record-italiano-dei-1500.shtml",
       "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-08-29"
+      "data_evento": "2026-08-30"
     }
   ]
 }
