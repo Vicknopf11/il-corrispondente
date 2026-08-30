@@ -244,12 +244,6 @@
     .categoria-label.sport          { background: #2980b9; }
     .categoria-label.cronaca        { background: #8e44ad; }
 
-    #rassegna-sportiva {
-      max-width: 720px;
-      margin: 1.2rem auto 0;
-      padding: 0 1rem;
-    }
-
     .rassegna-header {
       font-family: Arial, sans-serif;
       font-size: 0.72rem;
@@ -257,6 +251,9 @@
       text-transform: uppercase;
       letter-spacing: 0.1em;
       color: #2980b9;
+      margin-top: 1.1rem;
+      padding-top: 0.9rem;
+      border-top: 1px dashed #ddd;
       margin-bottom: 0.7rem;
     }
 
@@ -472,8 +469,6 @@
   <a class="rss-link" href="feed.xml" title="Abbonati via RSS">&#9654; RSS</a>
 </div>
 
-<div id="rassegna-sportiva" style="display:none"></div>
-
 <main id="contenuto">
   <div id="loading">Caricamento edizioni...</div>
 </main>
@@ -540,6 +535,7 @@ function buildPermalink(data, slug) {
 let archivioGlobale = [];
 let indiceAttivo = 0;
 let categoriaAttiva = 'tutte';
+let rassegnaSportivaItems = [];
 
 // ── Tab ──────────────────────────────────────────────────────────
 document.querySelectorAll('.tab-btn').forEach(btn => {
@@ -558,8 +554,6 @@ function filtraPost() {
   });
   const hero = document.getElementById('hero-wrapper');
   if (hero) hero.style.display = (categoriaAttiva === 'tutte') ? '' : 'none';
-  const rassegna = document.getElementById('rassegna-sportiva');
-  if (rassegna) rassegna.style.display = (categoriaAttiva === 'sport') ? '' : 'none';
 }
 
 // ── Selettore data ───────────────────────────────────────────────
@@ -603,6 +597,10 @@ function renderPost(p, data) {
   const linkArticolo = permalink
     ? `<a class="post-link" href="${esc(permalink)}">Leggi articolo →</a>`
     : '';
+  const rassegnaHtml = (slug === 'sport' && rassegnaSportivaItems.length > 0)
+    ? `<div class="rassegna-header">Rassegna sportiva — altre notizie di oggi</div>
+       <div class="rassegna-lista">${rassegnaSportivaItems.map(renderItemRassegna).join('')}</div>`
+    : '';
   return `
     <div class="post-card ${slug}" data-slug="${slug}">
       <div class="categoria-label ${slug}">${esc(p.categoria || '')}</div>
@@ -613,6 +611,7 @@ function renderPost(p, data) {
         ${linkArticolo}
         <button class="btn-copia" data-testo="${esc(p.post_x || p.post_sito || p.post || '')}">Copia per X</button>
       </div>
+      ${rassegnaHtml}
     </div>`;
 }
 
@@ -689,19 +688,14 @@ function renderItemRassegna(it) {
 }
 
 async function caricaRassegnaSportiva() {
-  const cont = document.getElementById('rassegna-sportiva');
-  if (!cont) return;
   try {
     const r = await fetch('rassegna_sport.json?t=' + Date.now());
-    if (!r.ok) { cont.innerHTML = ''; return; }
+    if (!r.ok) return;
     const dati = await r.json();
-    const item = dati.item || [];
-    if (item.length === 0) { cont.innerHTML = ''; return; }
-    cont.innerHTML = `
-      <div class="rassegna-header">Rassegna sportiva — altre notizie di oggi (fonti gratuite, senza commento satirico)</div>
-      <div class="rassegna-lista">${item.map(renderItemRassegna).join('')}</div>`;
+    rassegnaSportivaItems = dati.item || [];
+    if (archivioGlobale.length > 0) renderEdizione();
   } catch (e) {
-    cont.innerHTML = '';
+    // silenzioso: la rassegna è un extra, non deve rompere il resto del sito
   }
 }
 
