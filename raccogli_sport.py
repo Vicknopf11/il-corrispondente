@@ -26,12 +26,16 @@ import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import date, datetime, timezone
+from datetime import date, datetime, timedelta, timezone
+from email.utils import parsedate_to_datetime
 
 RASSEGNA_FILE = "docs/rassegna_sport.json"
 COPERTURA_FILE = "docs/copertura_sport.json"
 N_ITEM_FINALI = 5  # "pochi, 3-5 al giorno" — questo è il tetto massimo
 TIMEOUT_SECONDI = 8
+FRESCHEZZA_MAX_GIORNI = 4  # scarta voci RSS più vecchie di così — protegge
+                           # da feed "morti"/archiviati che rispondono
+                           # correttamente ma con contenuto non aggiornato
 
 # TheSportsDB: "3" è la chiave pubblica di test messa a disposizione da
 # TheSportsDB stessa per esperimenti gratuiti (rate limit più stretto e
@@ -54,10 +58,14 @@ SOTTOCATEGORIE_KEYWORD = {
                  "mezzofondo", "ciclismo", "giro d'italia", "tour de france", "vuelta",
                  "triathlon"],
     "Acqua": ["nuoto", "tuffi", "pallanuoto", "canottaggio", "canoa", "kayak", "vela",
-              "nuoto di fondo"],
+              "nuoto di fondo", "quattro di coppia", "due senza", "due di coppia",
+              "otto remi", "cavalieri delle acque", "surf", "wakeboard", "canottieri"],
     "Squadra": ["volley", "pallavolo", "basket", "pallacanestro", "rugby", "pallamano"],
     "Combattimento": ["pugilato", "boxe", "judo", "lotta", "karate", "taekwondo",
-                       "kickboxing", "mma", "scherma"],
+                       "kickboxing", "mma", "scherma", "guantoni", "pesi massimi",
+                       "pesi medi", "pesi welter", "pesi gallo", "pesi leggeri",
+                       "pesi piuma", "pesi mosca", "campione dei massimi",
+                       "gettare la spugna", "ufc"],
     "Motori": ["formula 1", "f1", "motogp", "motociclismo", "rally", "motonautica",
                "superbike"],
     "Racchette e precisione": ["tennis", "atp", "wta", "slam", "padel", "badminton",
@@ -87,18 +95,43 @@ SOTTOCATEGORIE_ESCLUSE = {"Calcio", "Motori"}
 # per scartarne il contenuto sarebbe spreco di banda/rate limit. I feed
 # generalisti (Home, Altri Sport) restano perché possono comunque contenere
 # sport minori mescolati ad altro — il filtro fa comunque la sua parte. ──
+# ── Feed RSS — confermati live il 30/08/2026 dalla directory ufficiale
+# Gazzetta (gazzetta.it/rss), pattern dynamic-feed/rss/section/<Sezione>.xml.
+# Selezione deliberatamente ristretta agli sport minori: niente Calcio,
+# Serie A/B, Coppe, Calciomercato, Motori, F1, Moto — già ampiamente
+# coperti altrove.
+#
+# Ogni voce: (nome_fonte, url, sottocategoria_fissa). Per i feed Gazzetta
+# monotematici (es. "Nuoto.xml" contiene SOLO nuoto) assegniamo la
+# sottocategoria direttamente dal feed — più affidabile di indovinarla per
+# keyword dal titolo. Per i feed generalisti/misti (Sport Vari, ANSA Sport,
+# e il transversale Paralimpici, che copre più discipline) la
+# sottocategoria_fissa è None: si classifica per keyword come prima.
 FONTI_RSS = [
-    ("Gazzetta dello Sport — Home", "https://www.gazzetta.it/rss/home.xml"),
-    ("Gazzetta dello Sport — Tennis", "https://www.gazzetta.it/rss/Tennis.xml"),
-    ("Gazzetta dello Sport — Altri Sport", "https://www.gazzetta.it/rss/Altrisport.xml"),
-    ("ANSA Sport", "https://www.ansa.it/sito/notizie/sport/sport_rss.xml"),
-    # CONI: portale aggregatore notizie federazioni — URL da verificare,
-    # la struttura esatta del feed CONI non è confermata.
-    ("CONI — Notizie", "https://www.coni.it/it/rss.html"),
-    # CIP (Comitato Italiano Paralimpico): priorità trasversale dichiarata
-    # pubblicamente su prompt.html — URL da verificare, non ancora testato.
-    ("CIP — Paralimpico", "https://www.comitatoparalimpico.it/rss"),
+    ("Gazzetta — Sport Vari", "https://www.gazzetta.it/dynamic-feed/rss/section/Sport-Vari.xml", None),
+    ("Gazzetta — Nuoto e Pallanuoto", "https://www.gazzetta.it/dynamic-feed/rss/section/Nuoto.xml", "Acqua"),
+    ("Gazzetta — Vela e Nautica", "https://www.gazzetta.it/dynamic-feed/rss/section/vela.xml", "Acqua"),
+    ("Gazzetta — Rugby", "https://www.gazzetta.it/dynamic-feed/rss/section/Rugby.xml", "Squadra"),
+    ("Gazzetta — Volley", "https://www.gazzetta.it/dynamic-feed/rss/section/Volley.xml", "Squadra"),
+    ("Gazzetta — Basket", "https://www.gazzetta.it/dynamic-feed/rss/section/Basket.xml", "Squadra"),
+    ("Gazzetta — Atletica", "https://www.gazzetta.it/dynamic-feed/rss/section/Atletica.xml", "Atletica"),
+    ("Gazzetta — Ciclismo", "https://www.gazzetta.it/dynamic-feed/rss/section/Ciclismo.xml", "Atletica"),
+    ("Gazzetta — Tennis", "https://www.gazzetta.it/dynamic-feed/rss/section/Tennis.xml", "Racchette e precisione"),
+    ("Gazzetta — Padel", "https://www.gazzetta.it/dynamic-feed/rss/section/padel.xml", "Racchette e precisione"),
+    ("Gazzetta — Golf", "https://www.gazzetta.it/dynamic-feed/rss/section/Golf.xml", "Racchette e precisione"),
+    ("Gazzetta — Arco", "https://www.gazzetta.it/dynamic-feed/rss/section/arco.xml", "Racchette e precisione"),
+    ("Gazzetta — Bocce", "https://www.gazzetta.it/dynamic-feed/rss/section/bocce.xml", "Mente e nicchia"),
+    ("Gazzetta — Fighting", "https://www.gazzetta.it/dynamic-feed/rss/section/fighting.xml", "Combattimento"),
+    ("Gazzetta — Sport Invernali", "https://www.gazzetta.it/dynamic-feed/rss/section/Sport-Invernali.xml", "Invernali"),
+    ("Gazzetta — Paralimpici", "https://www.gazzetta.it/dynamic-feed/rss/section/Paralimpici.xml", None),
+    ("ANSA Sport", "https://www.ansa.it/sito/notizie/sport/sport_rss.xml", None),
 ]
+
+# Nomi fonte per cui, oltre alla sottocategoria, aggiungiamo il flag
+# "paralimpico": true — priorità trasversale dichiarata su prompt.html,
+# utile per un futuro contatore di copertura dedicato indipendente dalla
+# rotazione per sottocategoria.
+FONTI_PARALIMPICHE = {"Gazzetta — Paralimpici"}
 
 # TheSportsDB: query testuali (ricerca per nome di competizione) invece di
 # ID numerici di lega memorizzati, per non dipendere da ID non verificati.
@@ -135,9 +168,13 @@ def classifica_sottocategoria(testo: str):
     return None
 
 
-def estrai_da_rss(nome_fonte: str, url: str) -> list:
+def estrai_da_rss(nome_fonte: str, url: str, sottocategoria_fissa=None) -> list:
     """Estrae le voci da un feed RSS 2.0. Ritorna lista vuota se il feed
-    non risponde o non è XML valido — non blocca mai la pipeline."""
+    non risponde o non è XML valido — non blocca mai la pipeline.
+
+    Se sottocategoria_fissa è fornita (feed Gazzetta monotematici), la usa
+    direttamente invece di indovinare dal titolo — più affidabile. Altrimenti
+    classifica per keyword come per i feed generalisti/misti."""
     try:
         raw = _fetch_url(url)
         root = ET.fromstring(raw)
@@ -146,22 +183,65 @@ def estrai_da_rss(nome_fonte: str, url: str) -> list:
         return []
 
     voci = []
+    scartate_per_eta = 0
+    scartate_per_classificazione = 0
     for item in root.findall(".//item"):
         titolo = (item.findtext("title") or "").strip()
         link = (item.findtext("link") or "").strip()
         descrizione = (item.findtext("description") or "").strip()
+        pub_date_raw = (item.findtext("pubDate") or "").strip()
+        categorie_tag = " ".join(
+            (c.text or "").strip() for c in item.findall("category")
+        )
         if not titolo or not link:
             continue
-        sottocat = classifica_sottocategoria(f"{titolo} {descrizione}")
-        if not sottocat:
-            continue  # non riconducibile a nessuna sottocategoria nota
-        voci.append({
+
+        # Controllo di freschezza: se il feed dichiara una data e questa è
+        # troppo vecchia, scartiamo — protegge da feed "morti"/archiviati
+        # che rispondono con XML valido ma contenuto non aggiornato (visto
+        # in produzione: un feed ha restituito notizie di quasi 3 anni fa).
+        data_evento = None
+        if pub_date_raw:
+            try:
+                dt = parsedate_to_datetime(pub_date_raw)
+                if dt.tzinfo is None:
+                    dt = dt.replace(tzinfo=timezone.utc)
+                eta_giorni = (datetime.now(timezone.utc) - dt).days
+                if eta_giorni > FRESCHEZZA_MAX_GIORNI:
+                    scartate_per_eta += 1
+                    continue
+                data_evento = dt.strftime("%Y-%m-%d")
+            except (TypeError, ValueError):
+                pass  # data non parsabile: non blocchiamo, teniamo la voce
+
+        if sottocategoria_fissa:
+            sottocat = sottocategoria_fissa
+        else:
+            sottocat = classifica_sottocategoria(f"{titolo} {descrizione} {categorie_tag}")
+            if not sottocat:
+                scartate_per_classificazione += 1
+                continue  # non riconducibile a nessuna sottocategoria nota
+
+        voce = {
             "sottocategoria": sottocat,
             "tipo": "notizia",
             "titolo": titolo,
             "link": link,
             "fonte": nome_fonte,
-        })
+        }
+        if data_evento:
+            voce["data_evento"] = data_evento
+        if nome_fonte in FONTI_PARALIMPICHE:
+            voce["paralimpico"] = True
+        voci.append(voce)
+
+    if scartate_per_eta:
+        print(f"  ({nome_fonte}: scartate {scartate_per_eta} voci più vecchie "
+              f"di {FRESCHEZZA_MAX_GIORNI} giorni — possibile feed non aggiornato)")
+    if scartate_per_classificazione and nome_fonte in FONTI_PARALIMPICHE:
+        print(f"  ({nome_fonte}: {scartate_per_classificazione} voci non classificate "
+              f"in nessuna sottocategoria — priorità trasversale, vale la pena rivedere "
+              f"le keyword se il numero è alto)")
     return voci
 
 
@@ -241,13 +321,23 @@ def seleziona_finali(candidati: list, copertura: dict, n: int = N_ITEM_FINALI) -
         except ValueError:
             return 9999
 
-    # Un solo candidato per sottocategoria (preferendo il "risultato"
-    # strutturato a una semplice "notizia", se entrambi disponibili).
+    # Un solo candidato per sottocategoria. Preferenza, in ordine: un
+    # "risultato" strutturato batte una semplice "notizia"; a parità di
+    # tipo, un candidato paralimpico batte uno non paralimpico — coerente
+    # con la priorità trasversale dichiarata su prompt.html.
     per_sottocat = {}
     for c in candidati:
         sc = c["sottocategoria"]
         attuale = per_sottocat.get(sc)
-        if attuale is None or (c["tipo"] == "risultato" and attuale["tipo"] != "risultato"):
+        migliore = (
+            attuale is None
+            or (c["tipo"] == "risultato" and attuale["tipo"] != "risultato")
+            or (
+                c["tipo"] == attuale["tipo"]
+                and c.get("paralimpico") and not attuale.get("paralimpico")
+            )
+        )
+        if migliore:
             per_sottocat[sc] = c
 
     ordinati = sorted(
@@ -266,8 +356,8 @@ def main():
     print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M')}] Raccolta rassegna sportiva...")
 
     candidati = []
-    for nome_fonte, url in FONTI_RSS:
-        voci = estrai_da_rss(nome_fonte, url)
+    for nome_fonte, url, sottocategoria_fissa in FONTI_RSS:
+        voci = estrai_da_rss(nome_fonte, url, sottocategoria_fissa)
         print(f"  {nome_fonte}: {len(voci)} voci classificate")
         candidati.extend(voci)
 
