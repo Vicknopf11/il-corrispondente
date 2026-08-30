@@ -450,6 +450,44 @@ eventualmente scelta per il trattamento editoriale (vedi sezione SVOLTA
 EDITORIALE più sopra) — al massimo una per edizione, spesso nessuna."""
 
 
+def estrai_json(testo: str) -> str:
+    """Estrae il primo oggetto JSON bilanciato dal testo della risposta,
+    contando le graffe e ignorando quelle dentro le stringhe (gestendo
+    correttamente l'escape \\"). Più robusto di un regex greedy, che in
+    caso di risposta troncata finirebbe per catturare un frammento
+    incoerente invece di segnalare chiaramente il problema."""
+    inizio = testo.find("{")
+    if inizio == -1:
+        raise ValueError(f"Nessun JSON trovato nella risposta:\n{testo}")
+
+    profondita = 0
+    in_stringa = False
+    escape = False
+    for i in range(inizio, len(testo)):
+        c = testo[i]
+        if in_stringa:
+            if escape:
+                escape = False
+            elif c == "\\":
+                escape = True
+            elif c == '"':
+                in_stringa = False
+        else:
+            if c == '"':
+                in_stringa = True
+            elif c == "{":
+                profondita += 1
+            elif c == "}":
+                profondita -= 1
+                if profondita == 0:
+                    return testo[inizio:i + 1]
+
+    raise ValueError(
+        "JSON troncato: le graffe non si bilanciano — probabile risposta "
+        f"tagliata da max_tokens. Testo ricevuto:\n{testo}"
+    )
+
+
 def genera_post() -> dict:
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
     categorie_str = "\n".join(f"- {c}" for c in CATEGORIE)
@@ -457,7 +495,7 @@ def genera_post() -> dict:
 
     response = client.messages.create(
         model="claude-sonnet-4-6",
-        max_tokens=4000,
+        max_tokens=6000,
         system=SYSTEM_PROMPT,
         messages=[{"role": "user", "content": prompt}],
         tools=[{"type": "web_search_20250305", "name": "web_search"}],
@@ -467,11 +505,20 @@ def genera_post() -> dict:
         block.text for block in response.content if hasattr(block, "text")
     )
 
-    match = re.search(r"\{[\s\S]*\}", testo)
-    if not match:
-        raise ValueError(f"Nessun JSON trovato nella risposta:\n{testo}")
+    if response.stop_reason == "max_tokens":
+        raise ValueError(
+            "Risposta troncata da max_tokens (aumentalo ulteriormente in "
+            f"genera_post()). Testo ricevuto finora:\n{testo}"
+        )
 
-    edizione = json.loads(match.group())
+    json_testo = estrai_json(testo)
+    try:
+        edizione = json.loads(json_testo)
+    except json.JSONDecodeError as e:
+        raise ValueError(
+            f"JSON malformato ({e}). Candidato estratto:\n{json_testo}"
+        ) from e
+
     return valida_edizione(edizione)
 
 def crea_coda_x(edizione: dict) -> None:
