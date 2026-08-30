@@ -1,29 +1,29 @@
 #!/usr/bin/env python3
 """
 Il Corrispondente Artificiale — Rassegna sportiva da fonti gratuite
-Raccoglie qualche notizia/risultato sportivo al giorno da feed RSS pubblici
-e dall'API gratuita TheSportsDB, SENZA passare da Claude/Anthropic: zero
-trattamento satirico, solo dati strutturati (quando disponibili da
-TheSportsDB) o titolo+link (quando arrivano da RSS). Contenuto esclusivo
-del sito (mai pubblicato su X), pensato per arricchire la sezione Sport
-oltre all'unico post satirico quotidiano già generato da genera.py — quella
-pipeline resta completamente invariata, stesso costo di oggi.
+Raccoglie qualche notizia sportiva al giorno da feed RSS pubblici (Gazzetta
+dello Sport, ANSA), SENZA passare da Claude/Anthropic: zero trattamento
+satirico, solo titolo+link (più data/punteggio quando il feed li fornisce
+già strutturati). Contenuto esclusivo del sito (mai pubblicato su X),
+pensato per arricchire la sezione Sport oltre all'unico post satirico
+quotidiano già generato da genera.py — quella pipeline resta completamente
+invariata, stesso costo di oggi.
 
-NOTA IMPORTANTE: gli URL dei feed RSS in FONTI_RSS e gli endpoint
-TheSportsDB sono candidati plausibili da conoscenza generale, NON
-verificati con una richiesta di rete reale (l'ambiente in cui è stato
-scritto questo script non ha accesso alla rete pubblica generica). Vanno
-controllati al primo run reale su GitHub Actions: la funzione di fetch
-scarta silenziosamente una fonte che non risponde o non è valida, quindi
-un URL sbagliato non blocca mai la pipeline — semplicemente quella fonte
-non porta contenuto quel giorno. Controlla i log del primo run per capire
-quali fonti funzionano davvero.
+NOTA: l'integrazione con TheSportsDB è stata valutata e poi rimossa
+(30/08/2026) — verificato che la chiave gratuita pubblica dà accesso solo a
+Soccer e Motorsport (via all_sports.php), esattamente i due sport esclusi
+dal focus di questo script sugli sport minori. Nessun valore aggiunto sul
+tier gratuito per questo caso d'uso specifico.
+
+NOTA IMPORTANTE: gli URL dei feed RSS in FONTI_RSS sono stati verificati
+live il 30/08/2026 (risposta reale, non solo congettura). Un feed che in
+futuro smettesse di rispondere o cambiasse URL viene comunque scartato in
+silenzio dalla funzione di fetch, senza bloccare la pipeline.
 """
 
 import json
 import os
 import urllib.error
-import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import date, datetime, timedelta, timezone
@@ -36,27 +36,6 @@ TIMEOUT_SECONDI = 8
 FRESCHEZZA_MAX_GIORNI = 4  # scarta voci RSS più vecchie di così — protegge
                            # da feed "morti"/archiviati che rispondono
                            # correttamente ma con contenuto non aggiornato
-
-# TheSportsDB: "123" è la chiave pubblica gratuita attuale (documentata su
-# thesportsdb.com/api.php), con limiti di rate (30 richieste/minuto) e
-# alcuni endpoint di ricerca testuale ristretti sul tier free. Per uso più
-# stabile, registrati gratuitamente e imposta la chiave come secret
-# THESPORTSDB_API_KEY — se il secret non è configurato o è vuoto, si ricade
-# automaticamente sulla chiave pubblica.
-THESPORTSDB_KEY = os.environ.get("THESPORTSDB_API_KEY") or "123"
-THESPORTSDB_BASE = f"https://www.thesportsdb.com/api/v1/json/{THESPORTSDB_KEY}"
-
-# Mappa (sport TheSportsDB, paese, nostra sottocategoria) — usiamo il nome
-# sport come lo intende TheSportsDB per cercare le leghe italiane di quel
-# sport, poi ne prendiamo gli eventi recenti. Nomi sport DA VERIFICARE: non
-# ho modo di controllare dal sandbox quali stringhe esatte l'API riconosce.
-THESPORTSDB_SPORT_PAESE = [
-    ("Volleyball", "Italy", "Squadra"),
-    ("Rugby", "Italy", "Squadra"),
-    ("Basketball", "Italy", "Squadra"),
-    ("Swimming", "Italy", "Acqua"),
-    ("Ice Hockey", "Italy", "Invernali"),
-]
 
 # ── Sottocategorie fisse (stessa tassonomia dell'espansione Sport già
 # pianificata in roadmap) — assegnazione SEMPRE per keyword via codice, mai
@@ -245,100 +224,6 @@ def estrai_da_rss(nome_fonte: str, url: str, sottocategoria_fissa=None) -> list:
     return voci
 
 
-def _cerca_leghe(nome_sport: str, paese: str) -> list:
-    """search_all_leagues.php: elenca le leghe di un paese per uno sport.
-    Endpoint di tipo "List", non "Search" — dovrebbe essere meno limitato
-    sul tier gratuito rispetto agli endpoint di ricerca testuale (che la
-    documentazione TheSportsDB segnala esplicitamente come ristretti, es.
-    "Search Teams" limitata al solo esempio 'Arsenal' sulla chiave free)."""
-    url = (f"{THESPORTSDB_BASE}/search_all_leagues.php?"
-           f"c={urllib.parse.quote(paese)}&s={urllib.parse.quote(nome_sport)}")
-    try:
-        raw = _fetch_url(url)
-        dati = json.loads(raw)
-    except (urllib.error.URLError, json.JSONDecodeError, TimeoutError, OSError, ValueError) as e:
-        print(f"  ⚠ TheSportsDB (ricerca leghe {nome_sport}/{paese}) non raggiungibile: {e}")
-        return []
-    # La chiave della risposta per questo endpoint è storicamente "countrys"
-    # (refuso noto nell'API stessa) — teniamo un fallback su "leagues" nel
-    # caso sia cambiata.
-    return dati.get("countrys") or dati.get("leagues") or []
-
-
-def _eventi_passati_lega(id_lega: str) -> list:
-    """eventspastleague.php: eventi recenti di una lega per ID. Endpoint di
-    tipo "Schedule", stesso ragionamento sui limiti del tier gratuito."""
-    url = f"{THESPORTSDB_BASE}/eventspastleague.php?id={urllib.parse.quote(str(id_lega))}"
-    try:
-        raw = _fetch_url(url)
-        dati = json.loads(raw)
-    except (urllib.error.URLError, json.JSONDecodeError, TimeoutError, OSError, ValueError) as e:
-        print(f"  ⚠ TheSportsDB (eventi lega {id_lega}) non raggiungibile: {e}")
-        return []
-    return dati.get("results") or dati.get("events") or []
-
-
-def estrai_da_thesportsdb(nome_sport: str, paese: str, sottocategoria_fissa: str) -> list:
-    """Cerca le leghe di uno sport in un paese, poi gli eventi recenti di
-    ciascuna: due chiamate API invece di una ricerca testuale libera, più
-    aderenti al modo in cui l'API è pensata per essere usata (vedi
-    documentazione ufficiale). Ritorna lista vuota su qualsiasi errore o
-    risposta inattesa — non blocca mai la pipeline."""
-    leghe = _cerca_leghe(nome_sport, paese)
-    if not leghe:
-        return []
-
-    voci = []
-    for lega in leghe[:3]:  # non esageriamo con le chiamate per singolo sport
-        id_lega = lega.get("idLeague")
-        nome_lega = lega.get("strLeague") or nome_sport
-        if not id_lega:
-            continue
-
-        eventi = _eventi_passati_lega(id_lega)
-        for ev in eventi[:3]:
-            titolo = ev.get("strEvent") or ""
-            data_evento = ev.get("dateEvent")
-
-            # Freschezza: stesso principio del filtro RSS — scartiamo
-            # eventi troppo vecchi (una lega può non giocare da settimane).
-            if data_evento:
-                try:
-                    d = datetime.strptime(data_evento, "%Y-%m-%d").date()
-                    if (date.today() - d).days > FRESCHEZZA_MAX_GIORNI:
-                        continue
-                except ValueError:
-                    pass
-
-            casa = ev.get("strHomeTeam")
-            ospite = ev.get("strAwayTeam")
-            p_casa = ev.get("intHomeScore")
-            p_ospite = ev.get("intAwayScore")
-            strutturato = bool(casa and ospite and p_casa is not None and p_ospite is not None)
-            if not strutturato and not titolo:
-                continue
-
-            voce = {
-                "sottocategoria": sottocategoria_fissa,
-                "tipo": "risultato" if strutturato else "notizia",
-                "titolo": titolo or f"{casa} - {ospite}",
-                "link": ev.get("strVideo") or "https://www.thesportsdb.com",
-                "fonte": f"TheSportsDB — {nome_lega}",
-            }
-            if data_evento:
-                voce["data_evento"] = data_evento
-            if strutturato:
-                voce.update({
-                    "squadra_casa": casa,
-                    "squadra_ospite": ospite,
-                    "punteggio_casa": p_casa,
-                    "punteggio_ospite": p_ospite,
-                    "competizione": nome_lega,
-                })
-            voci.append(voce)
-    return voci
-
-
 def carica_copertura() -> dict:
     if os.path.exists(COPERTURA_FILE):
         with open(COPERTURA_FILE, encoding="utf-8") as f:
@@ -407,18 +292,13 @@ def main():
         print(f"  {nome_fonte}: {len(voci)} voci classificate")
         candidati.extend(voci)
 
-    for nome_sport, paese, sottocategoria_fissa in THESPORTSDB_SPORT_PAESE:
-        voci = estrai_da_thesportsdb(nome_sport, paese, sottocategoria_fissa)
-        print(f"  TheSportsDB '{nome_sport}/{paese}': {len(voci)} voci trovate")
-        candidati.extend(voci)
-
     if not candidati:
         print("⚠ Nessun candidato raccolto da nessuna fonte oggi — la rassegna "
               "esistente resta invariata (non sovrascrivo con un file vuoto).")
         return
 
-    # Deduplica per titolo: la stessa notizia/evento può emergere da più
-    # fonti RSS o da più query TheSportsDB diverse.
+    # Deduplica per titolo: la stessa notizia può emergere da più fonti RSS
+    # (es. sia dal feed generalista "Sport Vari" sia da quello monotematico).
     visti = set()
     candidati_unici = []
     for c in candidati:
