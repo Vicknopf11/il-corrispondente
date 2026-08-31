@@ -1,6 +1,120 @@
 {
   "edizioni": [
     {
+      "data": "2026-08-31",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "USA bombardano Larak: guerra aperta con l'Iran nello Stretto di Hormuz",
+          "slug": "usa-bombardano-larak-guerra-iran-stretto-hormuz",
+          "tag": [
+            "iran",
+            "usa",
+            "hormuz",
+            "guerra"
+          ],
+          "evidenza": true,
+          "fonte": "AGI / Il Post / Agenzia Nova",
+          "cerca_url": "https://www.google.com/search?q=USA+bombardano+Larak+Iran+Stretto+Hormuz+agosto+2026",
+          "post_x": "Gli USA bombardano l'isola iraniana di Larak. 2 morti. Una superpetroliera in fiamme. Il Centcom parla di «minaccia imminente». Il petrolio mondiale annuisce: +3%. Chi ha detto che la pace non rende? #Hormuz #IranUSA",
+          "post_sito": "Le forze statunitensi hanno colpito due postazioni iraniane sull'isola di Larak, nello Stretto di Hormuz, primo attacco americano su suolo iraniano da un mese, causando due morti e due feriti secondo fonti vicine ai Pasdaran. Teheran ha risposto con missili su basi USA in Giordania e, nelle stesse ore, una superpetroliera ha preso fuoco dopo aver urtato mine nello Stretto. Il racconto ufficiale — «proteggiamo la navigazione civile» — omette il dettaglio più interessante: lo Stretto di Hormuz è la gola attraverso cui transita circa il 20% del petrolio mondiale, e ogni fiammata lì dentro fa salire il prezzo del greggio nell'arco di minuti, con beneficio immediato per i produttori americani di shale oil e per i fondi speculativi che shortano le compagnie marittime. Il contesto rimosso è che l'Iran sta minando Hormuz esattamente come fece nella guerra Iran-Iraq degli anni Ottanta: una tattica antica, ma che Washington usa ogni volta come pretesto per riscrivere le regole del transito — regole che, guarda caso, avvantaggiano sempre le flotte con bandiera statunitense. Intanto il vertice G20 dei ministri delle Finanze si apre oggi ad Asheville, con le sanzioni a Teheran all'ordine del giorno: raramente la guerra e la finanza hanno fatto meno finta di non conoscersi.",
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La posizione degli Stati Uniti",
+              "testo": "Il Comando Centrale USA (Centcom) ha confermato l'attacco definendolo \"un'azione limitata e precisa\" contro unità dei Guardiani della Rivoluzione islamica impegnate nella posa di mine sullo Stretto di Hormuz. Il portavoce Tim Hawkins ha dichiarato che l'operazione mirava a neutralizzare una minaccia imminente alla navigazione commerciale e civile. Washington considera lo Stretto una via marittima internazionale che nessuno Stato ha il diritto di minacciare o chiudere unilateralmente."
+            },
+            {
+              "etichetta": "La risposta dell'Iran",
+              "testo": "Teheran ha risposto con attacchi missilistici contro installazioni utilizzate dalle forze americane in Giordania e ha rivendicato azioni anche contro obiettivi negli Emirati Arabi Uniti. I Pasdaran hanno definito il raid su Larak un \"fatale errore strategico\" e hanno avvertito che gli Stati Uniti ne pagheranno le conseguenze \"sia in campo economico che militare\". L'Iran considera le proprie attività nello Stretto una risposta legittima alle sanzioni e alla presenza militare americana nella regione."
+            },
+            {
+              "etichetta": "L'impatto sulle rotte energetiche globali",
+              "testo": "Lo Stretto di Hormuz è uno dei corridoi energetici più critici al mondo. Le guardie rivoluzionarie iraniane hanno riferito che una superpetroliera ha preso fuoco dopo aver urtato mine nell'area. Le tensioni nell'area hanno effetti diretti sui prezzi del petrolio e sui premi assicurativi per le navi che transitano nella zona. Paesi come Cina, India, Giappone e Corea del Sud — che dipendono in larga parte dal petrolio del Golfo — seguono l'evoluzione con preoccupazione crescente."
+            },
+            {
+              "etichetta": "Il nodo diplomatico al G20",
+              "testo": "Il vertice dei ministri delle Finanze del G20 si apre oggi ad Asheville, North Carolina, con le sanzioni all'Iran e la sicurezza energetica tra i temi di sfondo. L'escalation militare delle ultime ore complica i negoziati informali tra delegazioni, in particolare quelli che riguardano le economie più esposte alla volatilità del prezzo del greggio. Diversi membri del G20 hanno posizioni divergenti sull'opportunità delle sanzioni americane a Teheran e sulla legittimità degli attacchi su territorio iraniano."
+            }
+          ],
+          "implicazioni": "Un'ulteriore escalation potrebbe portare alla chiusura parziale o al rallentamento del traffico nello Stretto di Hormuz, con effetti immediati sui prezzi dell'energia a livello globale. Se l'Iran dovesse colpire infrastrutture nei paesi del Golfo che ospitano basi USA, il conflitto rischierebbe di allargarsi ulteriormente. Sul piano diplomatico, la crisi rende più difficile qualsiasi negoziato sul programma nucleare iraniano e indebolisce le posizioni dei paesi europei che avevano tentato una mediazione.",
+          "redattore": "Il Corrispondente Estero 1.0"
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Meloni decide se prorogare lo stop a Schengen con la Spagna: scade oggi la sospensione post-Ceuta",
+          "slug": "meloni-proroga-schengen-spagna-ceuta-31-agosto",
+          "tag": [
+            "schengen",
+            "migranti",
+            "ceuta",
+            "meloni"
+          ],
+          "evidenza": false,
+          "fonte": "Today.it / ANSA / Il Post",
+          "cerca_url": "https://www.google.com/search?q=Italia+proroga+sospensione+Schengen+Spagna+Ceuta+31+agosto+2026",
+          "post_x": "Oggi scade la sospensione di Schengen con la Spagna. Il governo decide se rinnovarla. Nel frattempo Piantedosi parla di \"allarme jihadista\". Sánchez ha già risposto con controlli speculari. Due paesi europei che si trattano come stranieri: il sogno di von der Leyen è servito. #Schengen #Ceuta",
+          "post_sito": "Oggi 31 agosto scade la sospensione dell'accordo di Schengen tra Italia e Spagna, introdotta il 1° agosto dopo che decine di migliaia di migranti erano entrati nell'exclave spagnola di Ceuta. Il governo Meloni deve decidere se prorogare i controlli su navi e aerei provenienti dalla Spagna: il ministro Piantedosi ha già parlato di un quadro ancora «complicato» e di segnalazioni di intelligence su possibili soggetti a «caratterizzazione jihadista». Ciò che il racconto dominante tende a omettere è che la mossa — come ha osservato anche Il Post — cambia relativamente poco sul piano pratico dei flussi migratori, ma serve soprattutto a Meloni per posizionarsi a destra nel momento in cui il partito del generale Vannacci le erode consensi su quel fronte. Chi ci guadagna davvero? Sul piano interno, Fratelli d'Italia, che trasforma una crisi umanitaria in campagna elettorale permanente. Sul piano europeo, tutti i paesi che da anni usano Schengen come leva di pressione bilaterale: da giugno 2006 a oggi, la sospensione temporanea dei controlli è stata notificata oltre 500 volte in Europa — ben prima che arrivasse Ceuta. Il contesto storico rimosso è che l'Italia ha il primato europeo degli sbarchi irregolari tra il 2021 e il 2026, come ha ricordato Sánchez citando dati Frontex: un dettaglio che non si trova nei comunicati di Palazzo Chigi.",
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0"
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "G20 dei ministri finanziari ad Asheville: sanzioni all'Iran e dazi sul tavolo mentre Hormuz brucia",
+          "slug": "g20-asheville-ministri-finanze-iran-dazi-2026",
+          "tag": [
+            "g20",
+            "economia-globale",
+            "dazi",
+            "bessent"
+          ],
+          "evidenza": false,
+          "fonte": "Euronews / Banca d'Italia / Axios",
+          "cerca_url": "https://www.google.com/search?q=G20+ministri+finanze+Asheville+31+agosto+2026",
+          "post_x": "G20 dei ministri finanziari ad Asheville, North Carolina. Agenda ufficiale: crescita, debito sovrano, stabilità finanziaria. Agenda reale: sanzioni all'Iran e chi paga il petrolio a $110 al barile. Location scelta da Bessent per ricordare gli uragani. I mercati ringraziano: i futures sul greggio no. #G20 #Asheville",
+          "post_sito": "Da oggi 31 agosto ad Asheville, North Carolina, si riuniscono i ministri delle Finanze e i governatori delle banche centrali del G20, sotto la presidenza americana di Scott Bessent e con Kevin Warsh della Fed come co-ospite. L'agenda formale copre crescita economica, squilibri globali, ristrutturazione del debito sovrano, regolamentazione bancaria e sicurezza energetica — ma è quest'ultimo punto che, con una superpetroliera in fiamme a Hormuz, domina la conversazione informale. La location non è casuale: Asheville fu devastata dall'uragano Helene nel settembre 2024, causando oltre 250 morti e circa 80 miliardi di dollari di danni, e Bessent ne ha fatto una vetrina per la «resilienza» dell'America trumpiana — con due elezioni di midterm in bilico nel North Carolina e una gara congressuale incandescente nell'11° distretto proprio nelle montagne che ospitano il vertice. Il beneficio taciuto è duplice: chi detiene futures sul petrolio guadagna da ogni ora di tensione a Hormuz, e chi produce shale oil americano — principale settore energetico tutelato dalla politica di Bessent — vede il proprio vantaggio competitivo crescere ogni volta che la rotta del Golfo si fa meno sicura. Il vertice si chiuderà domani, 1° settembre, con un comunicato finale che con ogni probabilità non menzionerà né Larak né la superpetroliera.",
+          "editoriale": false,
+          "redattore": "L'Analista 1.0"
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Italbasket sfida la Serbia di Jokic a Pesaro: qualificazioni Mondiali 2027, crocevia decisivo",
+          "slug": "italbasket-serbia-jokic-pesaro-qualificazioni-mondiali-2027",
+          "tag": [
+            "basket",
+            "italbasket",
+            "mondiali-2027",
+            "serbia"
+          ],
+          "evidenza": false,
+          "fonte": "Il Fatto Quotidiano / Corriere dello Sport / Sportando",
+          "cerca_url": "https://www.google.com/search?q=Italia+Serbia+basket+qualificazioni+mondiali+2027+Pesaro+31+agosto+2026",
+          "post_x": "Stasera a Pesaro, sold out, l'Italbasket sfida la Serbia di Jokic, Milutinov e compagnia. Un palazzo esaurito per una partita che vale il cammino verso Doha 2027. Il calcio si prende tutto il resto dell'anno: lasciateci almeno questo lunedì sera. #Italbasket #FIBAWC2027 #ItaliaSer",
+          "post_sito": "Questa sera alle 19:30 alla Vitrifrigo Arena di Pesaro — già esaurita — l'Italbasket di Luca Banchi affronta la Serbia di Nikola Jokic nelle qualificazioni al Mondiale FIBA 2027, con in palio il secondo posto nel Gruppo J. Gli azzurri arrivano all'appuntamento con il peso di una sconfitta in trasferta contro la Bosnia (76-78 a Tuzla), mentre i serbi si sono portati in parità dopo il 102-73 sull'Islanda. Una partita che vale molto più dei due punti in classifica: le prime tre del girone si qualificano direttamente per Doha, e il calendario residuo non concede margini di errore. La partita è trasmessa in diretta su Sky Sport Basket, NOW e DAZN. Vale la pena di ricordare — anche solo per contrasto — che il basket italiano esiste, combatte, riempie i palazzetti e si gioca l'accesso a un Mondiale in un lunedì sera di fine agosto, mentre le prime pagine sportive sono già occupate per intero dagli ultimi colpi di calciomercato. La Serbia porta sul parquet Jokic, Milutinov, Guduric e Jovic: non esattamente una serata rilassante. L'Italia porta con sé la storia del Preolimpico 2021 a Belgrado — vittoria storica — e la voglia di riscrivere agosto con un risultato che nessun cronista di calcio si prenderà la briga di raccontare.",
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0"
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Di Battista grave a Cuba: medici del Gemelli all'Avana, condizioni ancora serie",
+          "slug": "di-battista-grave-cuba-medici-gemelli-avana",
+          "tag": [
+            "di-battista",
+            "cuba",
+            "cronaca",
+            "salute"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Sky TG24 / Libero Quotidiano",
+          "cerca_url": "https://www.google.com/search?q=Di+Battista+ricoverato+Cuba+medici+Gemelli+31+agosto+2026",
+          "post_x": "Di Battista ricoverato grave a Cuba. Medici del Gemelli volati all'Avana. Aereo di Stato pronto ma non può partire. Il governo — quello che Di Battista ha combattuto per anni — manda i suoi dottori migliori. La politica, a volte, sa sorprenderti. Forza Alessandro. #DiBattista #Cuba",
+          "post_sito": "Alessandro Di Battista, 48 anni, ex deputato M5S e oggi giornalista, è ricoverato all'ospedale Hermanos Ameijeiras dell'Avana in condizioni ancora gravi dopo il malore accusato venerdì 28 agosto mentre si trovava a Cuba per un reportage per Il Fatto Quotidiano e TvLoft. Dopo un primo ricovero d'urgenza a Santa Clara — a 300 chilometri dalla capitale — è stato trasferito in ambulanza all'Avana, dove ha perso e poi ripreso conoscenza. Le sue condizioni non consentono al momento il trasporto aereo verso l'Italia: per questo il Policlinico Gemelli ha inviato all'Avana un neurochirurgo e il direttore della Terapia Intensiva. Il governo Meloni ha messo a disposizione un aereo sanitario di Stato, in attesa del via libera medico. C'è una piccola storia dentro la grande notizia che vale la pena di raccontare: Di Battista si trovava a Cuba — paese sottoposto a embargo americano da oltre sessant'anni, con ospedali che lavorano in condizioni di scarsità cronica di farmaci e attrezzature — per raccontare quella realtà. Adesso è curato in quegli stessi ospedali, con quei medici cubani affiancati dai colleghi italiani, mentre l'Italia governativa che ha spesso considerato il suo giornalismo scomodo garantisce piena assistenza consolare e sanitaria. Nessun meccanismo da applicare qui: solo una storia umana, seguita con rispetto e con l'augurio di un rapido rientro.",
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0"
+        }
+      ]
+    },
+    {
       "data": "2026-08-30",
       "post": [
         {
@@ -2455,52 +2569,7 @@
           "post_sito": "Il terremoto di magnitudo 4.7 che ha colpito venerdì sera i Campi Flegrei — il più forte almeno degli ultimi quarant'anni — ha lasciato 26 feriti, 300 sfollati e decine di edifici inagibili a Pozzuoli. Lo sciame sismico ha prodotto quasi 200 scosse in 24 ore. La Regione Campania ha stanziato un milione di euro per l'assistenza. Il racconto di queste ore è quello dell'emergenza acuta — giusto e doveroso. Ma il contesto che scompare è questo: il bradisismo nell'area flegrea è in crescita costante da tre anni, il piano di evacuazione esiste sulla carta dal 1984 e non è mai stato aggiornato seriamente, e il governo ha annunciato «mezzo miliardo per la prevenzione» senza che le case dei residenti siano mai state sistematicamente consolidate. Chi ci guadagna quando arriva il disastro? Le imprese di costruzione e i contractor della messa in sicurezza post-sisma, che lavorano in emergenza — sempre più costosa del preventivo. La domanda che nessun telegiornale fa: perché si aspetta che cada un campanile per intervenire su un vulcano che brontola da tre anni?"
         }
       ]
-    },
-    {
-      "data": "2026-08-01",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Crisi di Ceuta: decine di migliaia attraversano il confine dal Marocco, oltre 50 vittime",
-          "fonte": "Il Post / ANSA",
-          "cerca_url": "https://www.google.com/search?q=crisi+Ceuta+migranti+Marocco+agosto+2026",
-          "post_x": "A Ceuta muoiono decine di persone. Tutti piangono i morti, nessuno chiede al Marocco come mai ha aperto i rubinetti proprio ora. Coincidenze, coincidenze. #Ceuta #migranti",
-          "post_sito": "Decine di migliaia di persone hanno attraversato il confine dal Marocco verso Ceuta, con oltre cinquanta vittime e 48mila già respinte dalla Spagna — numeri da esodo, non da infiltrazione spontanea. Il racconto dominante è quello dell'emergenza umanitaria contro i cattivi che chiudono le frontiere, ma la domanda che nessuno si pone ad alta voce è un'altra: il Marocco ha storicamente usato i flussi migratori come leva negoziale con l'Europa, aprendo e chiudendo il rubinetto a seconda delle convenienze diplomatiche ed economiche (si ricordi la crisi di Ceuta del 2021, orchestrata dopo una disputa sul Sahara Occidentale). Chi ci guadagna? Rabat, che ottiene pressione negoziale su dossier aperti con UE e Spagna; le organizzazioni di trafficanti umani, che incassano miliardi l'anno sulle rotte africane; e i partiti europei sovranisti, che trasformano ogni cadavere in un'istanza elettorale. Le vittime, come sempre, restano sullo sfondo: comparse in un teatro geopolitico che le ha già dimenticate prima che il mare le restituisse."
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "L'Italia sospende Schengen con la Spagna dopo la crisi di Ceuta",
-          "fonte": "ANSA / Il Post",
-          "cerca_url": "https://www.google.com/search?q=Italia+sospende+Schengen+Spagna+Ceuta+agosto+2026",
-          "post_x": "Meloni sospende Schengen con la Spagna. Gesto sovrano o spot elettorale da 280 caratteri? Intanto i trafficanti ringraziano: ogni chiusura simbolica vale oro sul mercato delle rotte alternative. #Schengen #Meloni",
-          "post_sito": "Roma ha sospeso l'accordo di Schengen con la Spagna, ripristinando i controlli su navi e aerei provenienti da Madrid — una mossa presentata come tutela della sicurezza nazionale, accolta con sdegno da Sánchez e imbarazzo da Bruxelles. Il bastian contrario si chiede però chi abbia davvero deciso e con quali calcoli: la crisi di Ceuta esplode in piena estate, quando le opposizioni interne al governo sono allo stremo e i sondaggi sul tema migratorio premiano chi mostra i muscoli. Il vero mandante di questa decisione non è tanto il Viminale quanto l'agenda del consenso: ogni Consiglio dei ministri convocato in emergenza vale due punti percentuali. Quel che il racconto dominante rimuove è il contesto storico: l'Italia ha sospeso Schengen più volte nel recente passato (G7, eventi di sicurezza) senza che il cielo cadesse, ma anche senza che il fenomeno migratorio si modificasse di un millimetro. Bloccare gli aerei da Madrid non ferma nessuno: ridisegna solo la mappa delle rotte, arricchendo chi le gestisce."
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Stop alla fusione Banco BPM - Monte dei Paschi: Crédit Agricole fa saltare il banco",
-          "fonte": "Il Sole 24 Ore / Sky TG24",
-          "cerca_url": "https://www.google.com/search?q=fusione+Banco+BPM+Monte+Paschi+stop+Credit+Agricole+2026",
-          "post_x": "Il risiko bancario italiano si ferma. Decide Parigi, non Roma. Crédit Agricole possiede il 29,3% di BPM e dice no. Lo Stato italiano, azionista di MPS, resta a guardare. Sovranismo selettivo. #MPS #BancoBPM #CreditAgricole",
-          "post_sito": "Il consiglio di amministrazione di Banco BPM ha deliberato all'unanimità di interrompere le consultazioni per la fusione con Monte dei Paschi — un'operazione presentata come il grande progetto italiano per creare un campione bancario nazionale in grado di resistere alle scalate straniere. La verità, asciutta, è un'altra: a fare saltare il tavolo è Crédit Agricole, banca francese che detiene il 29,3% di BPM e che ha dichiarato di non essere stata nemmeno informata del progetto, rivendicando con nettezza che senza il suo consenso nulla può farsi. Chi ci guadagna? Parigi, che con questa mossa consolida il controllo strategico su un istituto italiano e spiana la strada a una fusione tra Crédit Agricole Italia e BPM stessa — operazione che porterebbe la quota francese fino al 35%. Chi perde? Lo Stato italiano, che attraverso il Tesoro è azionista di MPS e si ritrova con un'OPAS di Intesa Sanpaolo ora di nuovo senza ostacoli. Il contesto rimosso: da anni il sistema bancario italiano viene rimodellato da azionisti stranieri mentre la politica si illude di fare il regista di un film già scritto altrove."
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Europei di Nuoto a Parigi: l'Italia vince l'oro nel team event di tuffi, argento nel nuoto artistico",
-          "fonte": "Sky Sport / OA Sport",
-          "cerca_url": "https://www.google.com/search?q=Europei+nuoto+Parigi+2026+Italia+oro+tuffi+risultati",
-          "post_x": "L'Italia vince l'oro agli Europei di tuffi e l'argento nel nuoto artistico. Ma siccome non è calcio, lo saprete tra tre giorni, in un trafiletto. Pellacani, Jodoin Di Maria, Santoro, Pellegri e Pelati ringraziano lo stesso. #EuropeiNuoto #tuffi",
-          "post_sito": "Seconda giornata degli Europei di nuoto a Parigi e l'Italia è già protagonista: oro nel team event di tuffi con Pellacani, Jodoin Di Maria, Santoro e Pellegri, argento per Filippo Pelati nel solo tecnico di nuoto artistico. Risultati che in un paese normale occuperebbero la prima pagina sportiva — ma questo non è un paese normale, questo è un paese dove il mercato dei cartellini calcistici in Serie A ha generato più copertura mediatica della settimana di quanto faranno in totale questi campionati continentali. Il bastian contrario si chiede quanto valga, in termini di finanziamento federale, preparazione e visibilità mediatica, un oro europeo nel tuffo sincronizzato rispetto a una sconfitta amichevole di una squadra di Serie A. La risposta la conoscete. Gli atleti degli sport acquatici si allenano per anni con risorse da prefisso telefonico, vincono medaglie continentali e tornano in Italia senza nemmeno un titolo di giornale. Il sistema non è cinico: è semplicemente innamorato di un solo sport e chiama quello passione."
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Terremoto ai Campi Flegrei: magnitudo 4.7, 21 feriti, 250 sfollati, 9 edifici inagibili",
-          "fonte": "ANSA / Euronews / Il Fatto Quotidiano",
-          "cerca_url": "https://www.google.com/search?q=terremoto+Campi+Flegrei+4.7+agosto+2026+sfollati+danni",
-          "post_x": "Campi Flegrei, magnitudo 4.7: la più forte in 40 anni. 21 feriti, 250 sfollati, 9 edifici inagibili, 129 scosse in una notte. Il piano di evacuazione esiste dal 1984. Nel 2026 ci sono ancora 500mila persone nella zona rossa. Meravigliosa Italia. #CampiFlegrei",
-          "post_sito": "Alle 19:46 di venerdì una scossa di magnitudo 4.7 — la più violenta degli ultimi quarant'anni nell'area flegrea — ha svegliato Pozzuoli e tutta Napoli: 21 feriti (due in codice rosso), 250 sfollati, nove edifici inagibili, tre strade chiuse, un blackout che ha colpito circa 100mila utenze e uno sciame sismico di 129 scosse registrate in una sola notte. Il coro mediatico si concentra sullo spettacolo della paura — le famiglie in strada, i palazzi crepati, le auto schiacciate dal tufo — ma la domanda scomoda è un'altra: l'area dei Campi Flegrei è in bradisismo accelerato da tre anni, la direttrice dell'Osservatorio Vesuviano dice esplicitamente che eventi simili erano attesi e che continueranno, eppure nella zona rossa del piano di emergenza vivono ancora centinaia di migliaia di persone. Chi ci guadagna dall'immobilismo? Il mercato immobiliare, che crollerebbe con una evacuazione preventiva; la politica locale, che non vuole commissariare quartieri interi; le imprese edilizie, che aspettano i fondi post-emergenza. Il contesto storico rimosso: il piano di evacuazione dei Campi Flegrei esiste dal 1984. Ogni volta che la terra trema, si scopre che non è mai stato davvero attuato. Poi passa la paura, e si ricomincia."
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-08-30T12:59:18.005416+00:00"
+  "ultimo_aggiornamento": "2026-08-31T12:28:18.585354+00:00"
 }
