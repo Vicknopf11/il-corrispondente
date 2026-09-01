@@ -1,6 +1,120 @@
 {
   "edizioni": [
     {
+      "data": "2026-09-01",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "USA si prendono il petrolio del Venezuela: 65 miliardi di barili e il Pentagono azionista",
+          "slug": "usa-venezuela-petrolio-65-miliardi-barili-pentagono",
+          "tag": [
+            "venezuela",
+            "petrolio",
+            "trump",
+            "geopolitica"
+          ],
+          "evidenza": true,
+          "fonte": "Il Fatto Quotidiano / Euronews / ANSA",
+          "cerca_url": "https://www.google.com/search?q=USA+Venezuela+accordo+petrolio+65+miliardi+barili+2026",
+          "post_x": "Trump si prende il petrolio venezuelano — 65 miliardi di barili, 55% della produzione, concessioni per 100 anni. Il Pentagono entra azionista. «Nessun costo per i contribuenti». Solo un piccolo affare tra amici. #Venezuela #Petrolio",
+          "post_sito": "Washington ha siglato con Caracas quello che Trump chiama «il più grande accordo petrolifero della storia del mondo»: oltre 65 miliardi di barili di riserve venezuelane accertate passano sotto controllo statunitense tramite la società privata NABEP, con il 55% della produzione effettiva garantita agli USA e concessioni della durata di 100 anni su 17 giacimenti. Il dettaglio che i comunicati trionfali omettono è che il Pentagono entrerà direttamente come azionista nella joint venture — il ministero della Difesa che diventa socio di un'impresa petrolifera in Sud America, senza che nessuno lo abbia votato per farlo. Chi ci guadagna è evidente: le major energetiche americane che hesitavano a investire da sole, ora con la garanzia militare di Washington alle spalle. Chi perde è meno discusso: Cina e Russia, che avevano posizioni dominanti nei giacimenti venezuelani e che vengono semplicemente estromesse. Il contesto rimosso è che il Venezuela ha le riserve accertate più grandi del mondo — circa 300 miliardi di barili totali — e che gli analisti avvertono già che i benefici sul prezzo della benzina americana non arriveranno nel breve periodo, rendendo l'accordo molto più utile agli investitori di lungo corso che ai «contribuenti» evocati da Trump.",
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La versione di Washington",
+              "testo": "L'amministrazione Trump presenta l'accordo come una vittoria strategica ed economica: gli Stati Uniti assicurano l'accesso a riserve enormi senza costi diretti per il bilancio pubblico, rafforzano la Riserva Strategica Nazionale e ridimensionano l'influenza di Cina e Russia in un'area considerata di interesse geopolitico primario per gli USA. Il segretario di Stato Rubio e il segretario alla Difesa Hegseth hanno coordinato i negoziati con il governo provvisorio venezuelano guidato da Delcy Rodriguez."
+            },
+            {
+              "etichetta": "La posizione del Venezuela",
+              "testo": "Le autorità provvisorie venezuelane hanno descritto l'accordo come uno strumento di «rinascita» economica per il paese. L'intesa prevede investimenti dichiarati per oltre 100 miliardi di dollari e potenziali entrate fiscali stimate in oltre 200 miliardi di dollari per lo Stato venezuelano nel corso delle concessioni centenarie. Resta aperta la questione della rappresentatività del governo che ha firmato e delle ricadute sociali interne."
+            },
+            {
+              "etichetta": "Il nodo geopolitico",
+              "testo": "L'accordo estromette formalmente Cina e Russia da giacimenti nei quali avevano costruito posizioni rilevanti negli anni precedenti, riposizionando il Venezuela nell'orbita occidentale dopo anni di isolamento. Analisti di relazioni internazionali segnalano che il Venezuela starebbe valutando l'uscita dall'OPEC, il che avrebbe conseguenze sull'organizzazione dei paesi produttori e sui meccanismi globali di fissazione dei prezzi del greggio."
+            },
+            {
+              "etichetta": "Il paradosso del Pentagono-azionista",
+              "testo": "Secondo quanto riportato dal Wall Street Journal, il Dipartimento della Difesa statunitense acquisirà una partecipazione diretta nella joint venture operativa. È una struttura inedita: un ministero militare che diventa socio commerciale in un'impresa energetica straniera. I critici, anche all'interno del sistema americano, segnalano problemi di trasparenza, conflitti di interesse istituzionali e l'assenza di un mandato legislativo esplicito per questa forma di partecipazione pubblica."
+            }
+          ],
+          "implicazioni": "L'accordo ridisegna gli equilibri energetici nell'emisfero occidentale e pone una domanda concreta di lungo periodo: se il Pentagono diventa azionista di una società petrolifera straniera, chi ne controlla le decisioni commerciali e con quali meccanismi di accountability democratica? Sul piano dei prezzi energetici, gli esperti concordano che i benefici per i consumatori americani siano, nel migliore dei casi, differiti di anni rispetto ai tempi di sviluppo dei giacimenti.",
+          "redattore": "Il Corrispondente Estero 1.0"
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Legge elettorale anti-Vannacci: il centrodestra studia il ballottaggio per neutralizzare il generale",
+          "slug": "legge-elettorale-ballottaggio-anti-vannacci-centrodestra",
+          "tag": [
+            "legge-elettorale",
+            "vannacci",
+            "ballottaggio",
+            "centrodestra"
+          ],
+          "evidenza": false,
+          "fonte": "La Presse / Il Post / Open",
+          "cerca_url": "https://www.google.com/search?q=legge+elettorale+ballottaggio+Vannacci+centrodestra+settembre+2026",
+          "post_x": "Il centrodestra vuole il ballottaggio per frenare Vannacci. Lo stesso centrodestra che da anni combatte il ballottaggio nei comuni perché li svantaggia. Doppio standard in diretta. Vannacci: «Mossa della paura». Difficile dargli torto. #LeggElettorale",
+          "post_sito": "Settembre si apre con il centrodestra impegnato in un esercizio di acrobazia costituzionale: introdurre il ballottaggio nella nuova legge elettorale nazionale proprio mentre da anni ne chiede l'abolizione nelle elezioni comunali, sostenendo che sfavorisca il centrodestra. Il meccanismo è trasparente anche ai suoi autori: il doppio turno servirebbe a permettere alla coalizione di governo di recuperare al secondo turno gli elettori di Futuro Nazionale di Roberto Vannacci, che nei sondaggi ha superato Tajani e punta al M5S, senza dover formalizzare un'alleanza strutturale con lui già al primo. Il mandante invisibile di questa operazione non è un fondo d'investimento ma la logica di sopravvivenza della coalizione: Fratelli d'Italia e Forza Italia vogliono il ballottaggio, la Lega è contraria perché teme di perdere voti propri a favore di Vannacci già al primo turno. Vannacci, dal canto suo, attacca definendo la mossa «la paura entrata nei Palazzi» — e ha quantomeno la coerenza di dire ad alta voce quello che tutti sanno: si cambia la legge elettorale non per governare meglio, ma per sopravvivere politicamente. Il paradosso finale, come nota Il Post, è geometrico: la destra che vuole a livello nazionale quello che spera di abolire a livello locale.",
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0"
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Shein debutta in borsa a Hong Kong e crolla del 10%: il fast fashion tossico cerca la rispettabilità finanziaria",
+          "slug": "shein-ipo-hong-kong-crollo-borsa-fast-fashion",
+          "tag": [
+            "shein",
+            "ipo",
+            "borsa",
+            "fast-fashion"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Affaritaliani",
+          "cerca_url": "https://www.google.com/search?q=Shein+IPO+Hong+Kong+crollo+borsa+settembre+2026",
+          "post_x": "Shein raccoglie 1,7 miliardi con l'IPO e il titolo crolla fino al -10% al debutto. Modello di business: vestiti a 3 euro prodotti da chi guadagna meno. Ora vuole la rispettabilità di Wall Street. Il mercato, almeno per un giorno, ha detto no. #Shein #IPO",
+          "post_sito": "Shein ha raccolto 1,7 miliardi di dollari con la sua IPO a Hong Kong e il titolo è crollato fino al 10% nel giorno del debutto — un benvenuto che dice più di qualsiasi analisi. Il beneficio taciuto nell'euforia pre-quotazione è che l'IPO trasforma il modello di fast fashion ultrapidato, già sotto inchiesta in Europa per pratiche lavorative nei fornitori e per il volume astronomico di rifiuti tessili generati, in un veicolo di investimento accessibile a qualsiasi fondo pensione. Chi ci guadagna sono i fondatori e i primi investitori che monetizzano, oltre alle banche d'affari che hanno strutturato l'operazione. Chi ci rimette — strutturalmente, non solo oggi in borsa — sono i lavoratori nei laboratori di subfornitura che producono a prezzi che rendono impossibile il rispetto dei minimi salariali, e i consumatori europei che si trovano di fronte a un'azienda che ha lungamente operato in un vuoto normativo sui dazi e sugli standard produttivi. La cifra da tenere a mente: 1,7 miliardi incassati in un giorno, mentre l'Unione Europea sta ancora scrivendo le regole per tassare adeguatamente le importazioni di e-commerce a basso costo. Il mercato ha esitato; i legislatori, molto meno.",
+          "editoriale": false,
+          "redattore": "L'Analista 1.0"
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Italia dominatrice ai Giochi del Mediterraneo di Taranto: oltre 164 medaglie, record storico in atletica",
+          "slug": "giochi-mediterraneo-taranto-2026-italia-medagliere-record-atletica",
+          "tag": [
+            "giochi-mediterraneo",
+            "taranto",
+            "atletica",
+            "italia"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA Puglia / Calcio e Finanza / OA Sport",
+          "cerca_url": "https://www.google.com/search?q=Giochi+Mediterraneo+Taranto+2026+Italia+medagliere+atletica+1+settembre",
+          "post_x": "Italia da record ai Giochi del Mediterraneo di Taranto: oltre 164 medaglie, già tra le 5 migliori edizioni di sempre. Oggi altri 9 titoli in atletica con Tamberi in gara. E intanto il calcio litiga sui diritti TV. #Taranto2026 #GiochiMediterraneo",
+          "post_sito": "Con oltre 164 medaglie complessive, la spedizione azzurra ai XX Giochi del Mediterraneo di Taranto 2026 è già entrata tra le cinque migliori della storia italiana nella manifestazione, superando i risultati di Spalato 1979 e Orano 2022. L'atletica è stata protagonista assoluta — ori, argenti e bronzi a pioggia da Francesco Ettore Inzoli nel salto in lungo (8.19 a soli 18 anni), Giovanni Frattini nel giavellotto, la squadra femminile di ginnastica — con Gianmarco Tamberi atteso in gara oggi sul palcoscenico di casa. L'Italia guida il medagliere davanti alla Turchia (71 medaglie) e alla Francia (67), con un margine che racconta una profondità atletica reale, costruita negli anni su discipline che i grandi media nazionali ignorano sistematicamente tranne quando arriva l'oro olimpico. Taranto ospita per la prima volta questi giochi e lo fa in una città che conosce bene il peso di essere un territorio produttivo dimenticato: il fatto che la XX edizione della manifestazione porti visibilità internazionale alla Puglia è, almeno, una notizia che merita più spazio del mercato del calcio chiuso ieri sera.",
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0"
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Roma, 16enne uccide la madre e chiama il 112: il ragazzo era noto per disagio psichico, il sistema non aveva risposto",
+          "slug": "roma-16enne-uccide-madre-centocelle-disagio-psichico",
+          "tag": [
+            "roma",
+            "cronaca",
+            "salute-mentale",
+            "minori"
+          ],
+          "evidenza": false,
+          "fonte": "Il Fatto Quotidiano / ANSA / Fanpage",
+          "cerca_url": "https://www.google.com/search?q=Roma+16enne+uccide+madre+Centocelle+settembre+2026",
+          "post_x": "Roma, 16enne uccide la madre e chiama il 112. Il ragazzo aveva problemi psichici noti. Era stato portato al Bambino Gesù la sera prima. Il sistema c'era, in teoria. In pratica, no. #Roma #SaluteMentale",
+          "post_sito": "Un ragazzo di 16 anni ha aggredito e ucciso la madre 50enne nell'appartamento in cui vivevano in zona Alessandrino, periferia est di Roma, nel pomeriggio di domenica. È stato lui stesso a chiamare il 112 dopo i fatti. La cronaca è nitida; quello che i titoli omettono quasi sempre lo è di meno. Il ragazzo era già noto per problemi psichiatrici: la sera precedente aveva chiamato lui stesso i soccorsi con una segnalazione risultata falsa, era stato portato all'ospedale Bambino Gesù, e la madre aveva già segnalato alle forze dell'ordine le difficoltà del figlio. La causa strutturale rimossa dalla narrazione del «mostro di giornata» è quella dei servizi di salute mentale per minori: un sistema che, stando a quanto emerge, aveva segnali ma non strumenti o risorse sufficienti per intervenire in modo continuativo. Non si tratta di assolvere nessuno — né il ragazzo, né eventuali responsabilità istituzionali da accertare — ma di ricordare che tragedie come questa hanno quasi sempre una storia più lunga di quella che si racconta il giorno dopo. La procura per i minorenni ha aperto un fascicolo per omicidio; il ragazzo è ricoverato in psichiatria al Policlinico Umberto I.",
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0"
+        }
+      ]
+    },
+    {
       "data": "2026-08-31",
       "post": [
         {
@@ -2524,52 +2638,7 @@
           "post_sito": "Sei persone sono morte e ventisette sono rimaste ferite nel grave incidente avvenuto domenica 2 agosto sulla strada statale Terni-Rieti: coinvolti un bus navetta, un camper e due automobili, con il pullman che trasportava turisti diretti alle Cascate delle Marmore. Sei vittime sono state ricoverate in codice rosso. Il copione è quello di sempre: una tragedia della strada su un asse viario già segnalato per problemi strutturali, una notizia che dura un giorno sui titoli e poi sparisce sotto il peso delle crisi internazionali. Chi ci guadagna dal fatto che la manutenzione delle strade italiane resti perennemente in ritardo? Le imprese di costruzione che lucrano sugli appalti emergenziali post-tragedia, le assicurazioni che incassano su un parco veicoli obsoleto, e un sistema politico che preferisce tagliare i nastri delle autostrade a pedaggio piuttosto che investire nelle statali di periferia. Il contesto rimosso: l'Italia conta mediamente oltre 3.000 morti l'anno sulle strade — un dato stabile da anni, che non genera mai la stessa indignazione di una singola notizia di cronaca nera urbana."
         }
       ]
-    },
-    {
-      "data": "2026-08-02",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Trump sospende l'attacco all'Iran: accordo in vista su Hormuz e nucleare",
-          "fonte": "ANSA / La Presse",
-          "cerca_url": "https://www.google.com/search?q=Trump+ritiro+attacco+Iran+accordo+Hormuz+2+agosto+2026",
-          "post_x": "Trump annuncia su Truth: «Sospendo l'attacco all'Iran». Tutti a festeggiare la pace. Nessuno a chiedersi chi controlla lo Stretto di Hormuz — e quanti miliardi di petrolio ci passano ogni giorno. #Iran #Trump #Hormuz",
-          "post_sito": "Donald Trump ha annunciato stamane su Truth di aver sospeso l'attacco pianificato contro l'Iran, a condizione di «un rapido accordo sulla totale apertura dello Stretto di Hormuz e sulla fine della minaccia nucleare». Il coro mediatico celebra la de-escalation. Domanda scomoda: lo Stretto di Hormuz è il corridoio attraverso cui transita circa il 20% del petrolio mondiale — circa 17-18 milioni di barili al giorno. Chi ci guadagna da questa partita non è Teheran né Washington, ma i trader di commodity, i fondi speculativi energetici e i Paesi del Golfo che da mesi premono per una normalizzazione dei flussi. Nota a margine: l'annuncio arriva su Truth, non attraverso canali diplomatici ufficiali. Il che dice molto su come si faccia la politica estera nel 2026 — e su chi, in questo teatro, recita e chi scrive il copione."
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Italia sospende Schengen con la Spagna sulla crisi di Ceuta: vertice UE convocato per martedì",
-          "fonte": "Corriere della Sera / ANSA",
-          "cerca_url": "https://www.google.com/search?q=Italia+sospende+Schengen+Spagna+Ceuta+vertice+UE+agosto+2026",
-          "post_x": "Meloni sospende Schengen con la Spagna. I giornali di destra: «Eroina». Quelli di sinistra: «Fascista». Intanto a Ceuta si muore in mare. Il dibattito italiano: impeccabile come sempre. #Ceuta #Migranti #Schengen",
-          "post_sito": "L'Italia ha sospeso l'accordo di Schengen con la Spagna in risposta alla crisi migratoria di Ceuta, mentre Meloni ottiene la convocazione di un vertice europeo per martedì. Madrid risponde con toni durissimi. Il racconto dominante è uno scontro di sovranità tra Roma e Madrid — il classico frame buono per entrambe le tifoserie. Quello che sparisce è il contesto: Ceuta è un enclave spagnola in territorio africano, retaggio coloniale che l'Europa non ha mai voluto sanare, e il Marocco usa i flussi migratori come leva negoziale da decenni — strumento già attivato nel 2021 con effetti identici. Chi ci guadagna? I contractor della sorveglianza delle frontiere — Frontex ha un bilancio di oltre 800 milioni l'anno e continua a crescere — e le imprese del settore sicurezza che prosperano ogni volta che il confine diventa notizia. La domanda che nessuno fa: perché l'Europa continua a comprare la stessa emergenza ricorrente senza mai affrontarne le cause strutturali?"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Big Tech: profitti record, ma nei conti spunta una mina da 1.650 miliardi",
-          "fonte": "Il Sole 24 Ore",
-          "cerca_url": "https://www.google.com/search?q=Big+Tech+profitti+record+mina+1650+miliardi+Sole+24+Ore+2026",
-          "post_x": "Big Tech: profitti da record. Ma nei conti c'è una «mina da 1.650 miliardi». 674 miliardi in data center e chip solo nel 2026. La domanda che nessuno fa: e quando i conti non tornano, chi paga? Spoiler: non Zuckerberg. #BigTech #AI #Bolla",
-          "post_sito": "Il Sole 24 Ore apre oggi con i profitti record delle grandi società tecnologiche, ma segnala una crescente esposizione finanziaria che il quotidiano definisce «una mina da 1.650 miliardi». Alphabet, Meta, Microsoft e Amazon hanno pianificato circa 674 miliardi di dollari di spese in data center e infrastrutture AI solo per il 2026. I profitti ci sono — 151,5 miliardi in un trimestre — ma la Borsa non festeggia, perché gli investitori si chiedono quando questa montagna di capex produrrà fatturato reale. Il racconto dominante celebra il trionfo dell'AI. Quello che si tace è più interessante: una parte consistente di quegli investimenti serve a garantire energia e potenza computazionale — il che significa che dietro ogni chatbot ci sono utility, costruttori di centrali, produttori di chip e fornitori di energia che incassano miliardi indipendentemente da chi vincerà la gara dell'IA. Come ogni bolla tecnologica della storia, il rischio non è per chi la alimenta — è per chi la finanzia indirettamente attraverso i fondi pensione e i risparmi retail."
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Europei di tuffi a Parigi: Italia d'oro nel Team Event con Pellacani, Santoro, Jodoin Di Maria e Pelligra",
-          "fonte": "Il Fatto Quotidiano / OA Sport / Federazione Italiana Nuoto",
-          "cerca_url": "https://www.google.com/search?q=Europei+tuffi+Parigi+2026+Italia+oro+team+event+Pellacani+Santoro",
-          "post_x": "L'Italia vince l'oro europeo nei tuffi a Parigi con Pellacani, Santoro, Jodoin Di Maria e Pelligra (17 anni, esordiente). 410.60 punti, Russia battuta. Mentre i giornali sportivi parlano di mercato Juve. Come sempre. #Tuffi #Europei2026 #ItaliaOro",
-          "post_sito": "Agli Europei di nuoto di Parigi 2026, il quartetto azzurro composto da Chiara Pellacani, Matteo Santoro, Sarah Jodoin Di Maria e il diciassettenne esordiente Raffaele Pelligra ha conquistato l'oro nel Mixed Team Event di tuffi con 410.60 punti, precedendo la Russia — in gara sotto bandiera neutrale — e l'Ucraina. Una vittoria costruita in rimonta, ribaltando la classifica dalle piattaforme da 10 metri. Nel frattempo, i quotidiani sportivi nazionali aprono sul mercato di Juventus e Inter. Niente di nuovo: lo sport cosiddetto minore porta medaglie all'Italia con sistematicità, viene celebrato per 48 ore e poi sparisce dagli schermi fino all'Olimpiade successiva. Pelligra (17 anni) ha eseguito tuffi in finale europea come se non avesse fatto altro in vita sua. A 17 anni, molti suoi coetanei non sanno ancora decidere cosa ordinare al bar. Questo è lo sport che il Paese merita di conoscere meglio."
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Campi Flegrei: terremoto magnitudo 4.7, 26 feriti e 300 sfollati a Pozzuoli",
-          "fonte": "Il Mattino / ANSA / Il Fatto Quotidiano",
-          "cerca_url": "https://www.google.com/search?q=Campi+Flegrei+terremoto+4.7+sfollati+Pozzuoli+agosto+2026",
-          "post_x": "Campi Flegrei: scossa 4.7, la più forte in 40 anni. 26 feriti, 300 sfollati. Tre anni di bradisismo crescente. Mezzo miliardo stanziato dal governo. Le case erano già lesionate. La domanda è: perché ci sono ancora persone che vivono in edifici non messi in sicurezza? #CampiFlegrei #Pozzuoli #Bradisismo",
-          "post_sito": "Il terremoto di magnitudo 4.7 che ha colpito venerdì sera i Campi Flegrei — il più forte almeno degli ultimi quarant'anni — ha lasciato 26 feriti, 300 sfollati e decine di edifici inagibili a Pozzuoli. Lo sciame sismico ha prodotto quasi 200 scosse in 24 ore. La Regione Campania ha stanziato un milione di euro per l'assistenza. Il racconto di queste ore è quello dell'emergenza acuta — giusto e doveroso. Ma il contesto che scompare è questo: il bradisismo nell'area flegrea è in crescita costante da tre anni, il piano di evacuazione esiste sulla carta dal 1984 e non è mai stato aggiornato seriamente, e il governo ha annunciato «mezzo miliardo per la prevenzione» senza che le case dei residenti siano mai state sistematicamente consolidate. Chi ci guadagna quando arriva il disastro? Le imprese di costruzione e i contractor della messa in sicurezza post-sisma, che lavorano in emergenza — sempre più costosa del preventivo. La domanda che nessun telegiornale fa: perché si aspetta che cada un campanile per intervenire su un vulcano che brontola da tre anni?"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-08-31T15:11:28.747648+00:00"
+  "ultimo_aggiornamento": "2026-09-01T12:37:37.193712+00:00"
 }
