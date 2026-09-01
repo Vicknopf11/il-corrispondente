@@ -1,22 +1,6 @@
 {
-  "generato": "2026-09-01T15:30:51.840250+00:00",
+  "generato": "2026-09-01T20:02:46.771763+00:00",
   "item": [
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "L'Italbaby delle bocce vola in Cina: è caccia alle medaglie ai Mondiali Under 23 e Under 18",
-      "link": "https://www.gazzetta.it/bocce/31-08-2026/l-italia-delle-bocce-ai-mondiali-u23-e-u18-a-chongli-in-cina.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-08-31"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "David lascia la Juve, è in partenza da Caselle per Madrid",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/01/david-lascia-la-juve-e-in-partenza-da-caselle-per-madrid_578e64bc-2c9b-4bbb-91ae-292d68647cf6.html",
-      "fonte": "ANSA Sport",
-      "data_evento": "2026-09-01"
-    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
@@ -41,6 +25,22 @@
       "link": "https://www.gazzetta.it/Rugby/29-08-2026/rugby-sudafrica-all-blacks-33-26-e-serie-sull-1-1.shtml",
       "fonte": "Gazzetta — Rugby",
       "data_evento": "2026-08-29"
+    },
+    {
+      "sottocategoria": "Atletica",
+      "tipo": "notizia",
+      "titolo": "Tamberi è d'oro ai Giochi del Mediterraneo! Sul podio anche Falocchi: bronzo",
+      "link": "https://www.gazzetta.it/Atletica/01-09-2026/tamberi-oro-ai-giochi-del-mediterraneo-nel-salto-in-alto-sul-podio-anche-falocchi.shtml",
+      "fonte": "Gazzetta — Atletica",
+      "data_evento": "2026-09-01"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Us Open, Cobolli avanti col brivido: sotto di due set, batte al quinto Comesana",
+      "link": "https://www.gazzetta.it/Tennis/atp/slam/us-open/01-09-2026/us-open-cobolli-batte-comesana-al-quinto-set-e-passa-il-turno.shtml",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-09-01"
     }
   ]
 }
