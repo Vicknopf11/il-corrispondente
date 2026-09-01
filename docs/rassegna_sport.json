@@ -1,30 +1,6 @@
 {
-  "generato": "2026-08-31T21:59:31.127465+00:00",
+  "generato": "2026-09-01T10:20:05.991577+00:00",
   "item": [
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Us Open: martedì è il giorno di Cobolli, affronta Comesana. Musetti con Fery, Sonego-Zverev nella notte",
-      "link": "https://www.gazzetta.it/Tennis/atp/slam/us-open/31-08-2026/us-open-programma-di-martedi-cobolli-comesana-sonego-zverev-musetti-fery.shtml",
-      "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-08-31"
-    },
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "L'Italbaby delle bocce vola in Cina: è caccia alle medaglie ai Mondiali Under 23 e Under 18",
-      "link": "https://www.gazzetta.it/bocce/31-08-2026/l-italia-delle-bocce-ai-mondiali-u23-e-u18-a-chongli-in-cina.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-08-31"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Juventus: Yildiz operato al piede ad Augsburg, sarà fuori almeno per tre mesi",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/31/juventus-yildiz-operato-al-piede-ad-augsburg-sara-fuori-almeno-per-tre_d85f8b95-78c8-4751-815b-cf928a02f129.html",
-      "fonte": "ANSA Sport",
-      "data_evento": "2026-08-31"
-    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
@@ -40,6 +16,30 @@
       "link": "https://www.gazzetta.it/Sport-Vari/30-08-2026/hrgovic-itauma-campione-pesi-massimi.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-08-30"
+    },
+    {
+      "sottocategoria": "Squadra",
+      "tipo": "notizia",
+      "titolo": "Sudafrica, che riscatto: All Blacks sconfitti 33-26 e serie sull'1-1",
+      "link": "https://www.gazzetta.it/Rugby/29-08-2026/rugby-sudafrica-all-blacks-33-26-e-serie-sull-1-1.shtml",
+      "fonte": "Gazzetta — Rugby",
+      "data_evento": "2026-08-29"
+    },
+    {
+      "sottocategoria": "Atletica",
+      "tipo": "notizia",
+      "titolo": "Battocletti, un'altra impresa! Record italiano dei 1500",
+      "link": "https://www.gazzetta.it/Atletica/30-08-2026/atletica-nadia-battocletti-fa-il-record-italiano-dei-1500.shtml",
+      "fonte": "Gazzetta — Atletica",
+      "data_evento": "2026-08-30"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Attimi di terrore durante un Challenger: giocatore sviene per il caldo, il video",
+      "link": "https://video.gazzetta.it/tennis/atp/video-giocatore-sviene-in-un-challenger-cosa-e-successo/1a23073f-3ac7-4745-a4d0-507a6d168xlk",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-09-01"
     }
   ]
 }
