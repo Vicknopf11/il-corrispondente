@@ -1,6 +1,22 @@
 {
-  "generato": "2026-09-02T09:48:59.049148+00:00",
+  "generato": "2026-09-02T15:12:48.016526+00:00",
   "item": [
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "L'Italbaby delle bocce vola in Cina: è caccia alle medaglie ai Mondiali Under 23 e Under 18",
+      "link": "https://www.gazzetta.it/bocce/31-08-2026/l-italia-delle-bocce-ai-mondiali-u23-e-u18-a-chongli-in-cina.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-08-31"
+    },
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Camminare insieme per la sicurezza: domenica l’appuntamento della Fondazione Matilde Lorenzi",
+      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/01-09-2026/camminare-insieme-per-la-sicurezza-domenica-l-appuntamento-della-fondazione-matilde-loren.shtml",
+      "fonte": "Gazzetta — Sport Invernali",
+      "data_evento": "2026-09-01"
+    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
@@ -25,22 +41,6 @@
       "link": "https://www.gazzetta.it/Rugby/29-08-2026/rugby-sudafrica-all-blacks-33-26-e-serie-sull-1-1.shtml",
       "fonte": "Gazzetta — Rugby",
       "data_evento": "2026-08-29"
-    },
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "Tamberi è d'oro ai Giochi del Mediterraneo! Sul podio anche Falocchi: bronzo",
-      "link": "https://www.gazzetta.it/Atletica/01-09-2026/tamberi-oro-ai-giochi-del-mediterraneo-nel-salto-in-alto-sul-podio-anche-falocchi.shtml",
-      "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-09-01"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Sonego sfiora l'impresa, ma è Zverev a spuntarla: highlights US Open",
-      "link": "https://video.gazzetta.it/tennis/atp/video-sonego-zverev-highlights-us-open-lorenzo-cede-solo-al-quinto-set/f49fb713-b5ad-4726-b4cc-9690c8a8dxlk",
-      "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-09-02"
     }
   ]
 }
