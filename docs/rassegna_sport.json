@@ -1,21 +1,13 @@
 {
-  "generato": "2026-09-03T15:06:00.002055+00:00",
+  "generato": "2026-09-03T20:01:41.859373+00:00",
   "item": [
     {
-      "sottocategoria": "Mente e nicchia",
+      "sottocategoria": "Squadra",
       "tipo": "notizia",
-      "titolo": "L'Italbaby delle bocce vola in Cina: è caccia alle medaglie ai Mondiali Under 23 e Under 18",
-      "link": "https://www.gazzetta.it/bocce/31-08-2026/l-italia-delle-bocce-ai-mondiali-u23-e-u18-a-chongli-in-cina.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-08-31"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Camminare insieme per la sicurezza: domenica l’appuntamento della Fondazione Matilde Lorenzi",
-      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/01-09-2026/camminare-insieme-per-la-sicurezza-domenica-l-appuntamento-della-fondazione-matilde-loren.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-09-01"
+      "titolo": "Pallamano, storico oro delle azzurre ai Giochi del Mediterraneo",
+      "link": "https://www.gazzetta.it/Sport-Vari/03-09-2026/pallamano-storico-oro-delle-azzurre-ai-giochi-del-mediterraneo.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-09-03"
     },
     {
       "sottocategoria": "Acqua",
@@ -35,12 +27,20 @@
       "data_evento": "2026-08-30"
     },
     {
-      "sottocategoria": "Squadra",
+      "sottocategoria": "Atletica",
       "tipo": "notizia",
-      "titolo": "Sudafrica, che riscatto: All Blacks sconfitti 33-26 e serie sull'1-1",
-      "link": "https://www.gazzetta.it/Rugby/29-08-2026/rugby-sudafrica-all-blacks-33-26-e-serie-sull-1-1.shtml",
-      "fonte": "Gazzetta — Rugby",
-      "data_evento": "2026-08-29"
+      "titolo": "Atletica, montepremi da record nelle finali di Diamond League. Da Tamberi a Dosso, i 5 italiani in gara",
+      "link": "https://www.gazzetta.it/Atletica/03-09-2026/diamond-league-montepremi-da-record-e-speranze-azzurre.shtml",
+      "fonte": "Gazzetta — Atletica",
+      "data_evento": "2026-09-03"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Us Open, Darderi-Svrcina 6-3 6-7 6-4 6-4: gli highlights",
+      "link": "https://video.gazzetta.it/tennis/atp/highlights/video-darderi-svrcina-us-open-6-3-6-7-6-4-6-4-gli-highlights/614ebce8-ecdd-401a-aaa8-07145f185xlk",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-09-03"
     }
   ]
 }
