@@ -1,6 +1,22 @@
 {
-  "generato": "2026-09-04T09:51:03.831708+00:00",
+  "generato": "2026-09-04T15:03:20.894597+00:00",
   "item": [
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Bocce, weekend tricolore: da Roma alla Liguria, l’Italia assegna gli scudetti",
+      "link": "https://www.gazzetta.it/bocce/04-09-2026/bocce-weekend-tricolore-da-roma-alla-liguria-l-italia-assegna-gli-scudetti.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-09-04"
+    },
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "La Fis rivoluziona lo sci: Mondiali ogni anno nelle stagioni senza Olimpiade",
+      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/04-09-2026/mondiali-di-sci-ogni-anno-2028-decisione-storica-fis.shtml",
+      "fonte": "Gazzetta — Sport Invernali",
+      "data_evento": "2026-09-04"
+    },
     {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
@@ -19,28 +35,12 @@
       "paralimpico": true
     },
     {
-      "sottocategoria": "Combattimento",
-      "tipo": "notizia",
-      "titolo": "Incassa, va a terra, resiste e alla nona ripresa si scatena: Hrgovic, da vittima sacrificale a campione dei massimi",
-      "link": "https://www.gazzetta.it/Sport-Vari/30-08-2026/hrgovic-itauma-campione-pesi-massimi.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-08-30"
-    },
-    {
       "sottocategoria": "Atletica",
       "tipo": "notizia",
       "titolo": "Atletica, montepremi da record nelle finali di Diamond League. Da Tamberi a Dosso, i 5 italiani in gara",
       "link": "https://www.gazzetta.it/Atletica/03-09-2026/diamond-league-montepremi-da-record-e-speranze-azzurre.shtml",
       "fonte": "Gazzetta — Atletica",
       "data_evento": "2026-09-03"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Cobolli firma il punto dello US Open? Il pubblico si alza in piedi per lui",
-      "link": "https://video.gazzetta.it/tennis/atp/highlights/cobolli-schoolkate-highlights-us-open-2026-tweener-spettacolare-e-standing-ovation/8150e429-a47a-485b-9dbf-9f5ff198fxlk",
-      "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-09-04"
     }
   ]
 }
