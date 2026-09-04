@@ -1,22 +1,6 @@
 {
-  "generato": "2026-09-04T15:03:20.894597+00:00",
+  "generato": "2026-09-04T19:47:07.481190+00:00",
   "item": [
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Bocce, weekend tricolore: da Roma alla Liguria, l’Italia assegna gli scudetti",
-      "link": "https://www.gazzetta.it/bocce/04-09-2026/bocce-weekend-tricolore-da-roma-alla-liguria-l-italia-assegna-gli-scudetti.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-09-04"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "La Fis rivoluziona lo sci: Mondiali ogni anno nelle stagioni senza Olimpiade",
-      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/04-09-2026/mondiali-di-sci-ogni-anno-2028-decisione-storica-fis.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-09-04"
-    },
     {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
@@ -41,6 +25,22 @@
       "link": "https://www.gazzetta.it/Atletica/03-09-2026/diamond-league-montepremi-da-record-e-speranze-azzurre.shtml",
       "fonte": "Gazzetta — Atletica",
       "data_evento": "2026-09-03"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Us Open ci risiamo: c'è puzza di marijuana. E Sabalenka ferma il gioco...",
+      "link": "https://www.gazzetta.it/Tennis/atp/slam/us-open/04-09-2026/us-open-odore-di-cannabis-mannarino-si-lamenta-e-sabalenka-ferma-il-gioco.shtml",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-09-04"
+    },
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Bocce, weekend tricolore: da Roma alla Liguria, l’Italia assegna gli scudetti",
+      "link": "https://www.gazzetta.it/bocce/04-09-2026/bocce-weekend-tricolore-da-roma-alla-liguria-l-italia-assegna-gli-scudetti.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-09-04"
     }
   ]
 }
