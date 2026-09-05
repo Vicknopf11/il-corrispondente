@@ -1,22 +1,6 @@
 {
-  "generato": "2026-09-05T13:58:08.960643+00:00",
+  "generato": "2026-09-05T19:16:06.806260+00:00",
   "item": [
-    {
-      "sottocategoria": "Calcio femminile",
-      "tipo": "notizia",
-      "titolo": "Mondiali basket: Capobianco, \"Sfidare gli Usa è un sogno per chi ama questo sport\"",
-      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/05/mondiali-basket-capobianco-sfidare-gli-usa-e-un-sogno-per-chi-ama_165a0cd0-092b-47bc-bf2d-fddbb7977093.html",
-      "fonte": "ANSA Sport",
-      "data_evento": "2026-09-05"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "La Fis rivoluziona lo sci: Mondiali ogni anno nelle stagioni senza Olimpiade",
-      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/04-09-2026/mondiali-di-sci-ogni-anno-2028-decisione-storica-fis.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-09-04"
-    },
     {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
@@ -41,6 +25,22 @@
       "link": "https://www.gazzetta.it/Atletica/05-09-2026/sydney-wooderson-la-storia-del-campione-britannico-che-sfido-guerre-e-sfortuna.shtml",
       "fonte": "Gazzetta — Atletica",
       "data_evento": "2026-09-05"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "LIVE Us Open, Cobolli-Blockx 7-6, 3-6, 0-6: l'azzurro è in grande difficoltà. In serata Darderi",
+      "link": "https://www.gazzetta.it/Tennis/atp/slam/us-open/05-09-2026/us-open-live-cobolli-blockx-e-darderi-sweeny-poi-swiatek-e-zverev-diretta-e-risultati.shtml",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-09-05"
+    },
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Bocce, weekend tricolore: da Roma alla Liguria, l’Italia assegna gli scudetti",
+      "link": "https://www.gazzetta.it/bocce/04-09-2026/bocce-weekend-tricolore-da-roma-alla-liguria-l-italia-assegna-gli-scudetti.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-09-04"
     }
   ]
 }
