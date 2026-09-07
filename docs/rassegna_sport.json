@@ -1,14 +1,6 @@
 {
-  "generato": "2026-09-06T19:24:47.114276+00:00",
+  "generato": "2026-09-07T10:36:36.770596+00:00",
   "item": [
-    {
-      "sottocategoria": "Combattimento",
-      "tipo": "notizia",
-      "titolo": "Leclerc, \"sto bene. L'incidente? Devo rivedere le immagini\"",
-      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/06/leclerc-sto-bene.-lincidente-devo-rivedere-le-immagini_5c134634-cc8c-4d5d-b9c1-080def371fc9.html",
-      "fonte": "ANSA Sport",
-      "data_evento": "2026-09-06"
-    },
     {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
@@ -36,10 +28,18 @@
     {
       "sottocategoria": "Racchette e precisione",
       "tipo": "notizia",
-      "titolo": "Sabalenka-Townsend, highlights: la campionessa in carica ai quarti degli Us Open",
-      "link": "https://video.gazzetta.it/tennis/wta/highlights/video-sabalenka-townsend-us-open-highlights-la-numero-1-al-mondo-approda-ai-quarti/4d936d0d-3ef7-4b43-8dba-179cc274cxlk",
+      "titolo": "Highlights Medvedev-Tiafoe: punto pazzesco di Frances, standing ovation per lui!",
+      "link": "https://video.gazzetta.it/tennis/atp/video-highlights-medvedev-tiafoe-us-open-punto-pazzesco-e-standing-ovation-per-frances/c8b10dbc-6cfd-4efd-be29-950c620eexlk",
       "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-09-06"
+      "data_evento": "2026-09-07"
+    },
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Bocce, weekend tricolore: da Roma alla Liguria, l’Italia assegna gli scudetti",
+      "link": "https://www.gazzetta.it/bocce/04-09-2026/bocce-weekend-tricolore-da-roma-alla-liguria-l-italia-assegna-gli-scudetti.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-09-04"
     }
   ]
 }
