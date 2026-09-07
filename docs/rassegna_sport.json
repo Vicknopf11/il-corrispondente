@@ -1,19 +1,35 @@
 {
-  "generato": "2026-09-07T10:36:36.770596+00:00",
+  "generato": "2026-09-07T16:36:01.868337+00:00",
   "item": [
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "La Fis rivoluziona lo sci: Mondiali ogni anno nelle stagioni senza Olimpiade",
+      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/04-09-2026/mondiali-di-sci-ogni-anno-2028-decisione-storica-fis.shtml",
+      "fonte": "Gazzetta — Sport Invernali",
+      "data_evento": "2026-09-04"
+    },
+    {
+      "sottocategoria": "Combattimento",
+      "tipo": "notizia",
+      "titolo": "Serie A: Amorim, 'non meritavamo di vincere, tanto lavoro da fare'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/06/serie-a-amorim-non-meritavamo-di-vincere-tanto-lavoro-da-fare_e9945b40-1a56-4430-a4d7-35133b8100ae.html",
+      "fonte": "ANSA Sport",
+      "data_evento": "2026-09-06"
+    },
+    {
+      "sottocategoria": "Acqua",
+      "tipo": "notizia",
+      "titolo": "Kitesurf, i fratelli Casati vincono ancora: doppietta in Danimarca",
+      "link": "https://www.gazzetta.it/Sport-Vari/07-09-2026/i-fratelli-casati-vincono-ancora-doppietta-in-danimarca.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-09-07"
+    },
     {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
       "titolo": "Pallamano, storico oro delle azzurre ai Giochi del Mediterraneo",
       "link": "https://www.gazzetta.it/Sport-Vari/03-09-2026/pallamano-storico-oro-delle-azzurre-ai-giochi-del-mediterraneo.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-09-03"
-    },
-    {
-      "sottocategoria": "Acqua",
-      "tipo": "notizia",
-      "titolo": "Surf, Fioravanti sfiora la finale alle Fiji: il secondo posto in classifica generale è ancora suo",
-      "link": "https://www.gazzetta.it/Sport-Vari/03-09-2026/fiji-fioravanti-sfiora-la-finale-il-secondo-posto-e-ancora-suo.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-09-03"
     },
@@ -24,22 +40,6 @@
       "link": "https://www.gazzetta.it/Atletica/05-09-2026/sydney-wooderson-la-storia-del-campione-britannico-che-sfido-guerre-e-sfortuna.shtml",
       "fonte": "Gazzetta — Atletica",
       "data_evento": "2026-09-05"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Highlights Medvedev-Tiafoe: punto pazzesco di Frances, standing ovation per lui!",
-      "link": "https://video.gazzetta.it/tennis/atp/video-highlights-medvedev-tiafoe-us-open-punto-pazzesco-e-standing-ovation-per-frances/c8b10dbc-6cfd-4efd-be29-950c620eexlk",
-      "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-09-07"
-    },
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Bocce, weekend tricolore: da Roma alla Liguria, l’Italia assegna gli scudetti",
-      "link": "https://www.gazzetta.it/bocce/04-09-2026/bocce-weekend-tricolore-da-roma-alla-liguria-l-italia-assegna-gli-scudetti.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-09-04"
     }
   ]
 }
