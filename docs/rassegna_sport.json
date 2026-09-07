@@ -1,22 +1,6 @@
 {
-  "generato": "2026-09-07T16:36:01.868337+00:00",
+  "generato": "2026-09-07T20:42:41.694826+00:00",
   "item": [
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "La Fis rivoluziona lo sci: Mondiali ogni anno nelle stagioni senza Olimpiade",
-      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/04-09-2026/mondiali-di-sci-ogni-anno-2028-decisione-storica-fis.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-09-04"
-    },
-    {
-      "sottocategoria": "Combattimento",
-      "tipo": "notizia",
-      "titolo": "Serie A: Amorim, 'non meritavamo di vincere, tanto lavoro da fare'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/06/serie-a-amorim-non-meritavamo-di-vincere-tanto-lavoro-da-fare_e9945b40-1a56-4430-a4d7-35133b8100ae.html",
-      "fonte": "ANSA Sport",
-      "data_evento": "2026-09-06"
-    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
@@ -40,6 +24,22 @@
       "link": "https://www.gazzetta.it/Atletica/05-09-2026/sydney-wooderson-la-storia-del-campione-britannico-che-sfido-guerre-e-sfortuna.shtml",
       "fonte": "Gazzetta — Atletica",
       "data_evento": "2026-09-05"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Us Open, Zheng rimonta ancora: Swiatek eliminata: gli highlights",
+      "link": "https://video.gazzetta.it/tennis/wta/highlights/video-us-open-zheng-elimina-swiatek-gli-highlights/fa87fba7-c703-446e-a526-1eb39e9aexlk",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-09-07"
+    },
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Bocce, weekend tricolore: da Roma alla Liguria, l’Italia assegna gli scudetti",
+      "link": "https://www.gazzetta.it/bocce/04-09-2026/bocce-weekend-tricolore-da-roma-alla-liguria-l-italia-assegna-gli-scudetti.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-09-04"
     }
   ]
 }
