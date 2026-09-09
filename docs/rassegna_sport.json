@@ -1,19 +1,11 @@
 {
-  "generato": "2026-09-09T15:14:02.626070+00:00",
+  "generato": "2026-09-09T19:57:23.448881+00:00",
   "item": [
     {
-      "sottocategoria": "Invernali",
+      "sottocategoria": "Calcio femminile",
       "tipo": "notizia",
-      "titolo": "La FISIP passa in FISI, il Presidente De Sanctis: \"Passaggio inevitabile per il futuro\"",
-      "link": "https://video.gazzetta.it/sport-invernali/video-fisip-passa-in-fisi-il-presidente-de-santis-un-passaggio-inevitabile/abcc2b36-baaa-40f1-b747-4ccd54dd7xlk",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-09-08"
-    },
-    {
-      "sottocategoria": "Combattimento",
-      "tipo": "notizia",
-      "titolo": "Sainz: 'Correre a Madrid un traguardo che mai avrei immaginato'",
-      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/09/sainz-correre-a-madrid-un-traguardo-che-mai-avrei-immaginato_8aad837a-0195-489b-8c6f-6cff2c6a03da.html",
+      "titolo": "Mondiale U20, le 'azzurrine\" approdano per la prima volta agli ottavi",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/09/mondiale-u20-le-azzurrine-approdano-per-la-prima-volta-agli-ottavi_3af99737-c3fc-4462-9649-3f70d20da546.html",
       "fonte": "ANSA Sport",
       "data_evento": "2026-09-09"
     },
@@ -36,9 +28,17 @@
     {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
-      "titolo": "Napoli, Italia-Svezia a piazza Plebiscito. E non è la prima volta che gli azzurri giocano all'aperto...",
-      "link": "https://www.gazzetta.it/Volley/09-09-2026/italia-svezia-volley-napoli-piazza-plebiscito.shtml",
+      "titolo": "È un volley da Sindrome di Stendhal: i campioni del Mondo in piazza a Napoli, due opere d'arte unite",
+      "link": "https://www.gazzetta.it/Volley/09-09-2026/eurovolley-italia-svezia-in-piazza-plebiscito-a-napoli-da-sindrome-di-stendhal.shtml",
       "fonte": "Gazzetta — Volley",
+      "data_evento": "2026-09-09"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Rybakina rimonta Zheng, conquista la semifinale allo Us Open e diventa numero 1 del mondo",
+      "link": "https://www.gazzetta.it/Tennis/atp/slam/us-open/09-09-2026/rybakina-e-n-1-al-mondo-batte-zheng-in-semifinale-allo-us-open.shtml",
+      "fonte": "Gazzetta — Tennis",
       "data_evento": "2026-09-09"
     }
   ]
