@@ -1,14 +1,6 @@
 {
-  "generato": "2026-09-09T19:57:23.448881+00:00",
+  "generato": "2026-09-10T09:57:35.575454+00:00",
   "item": [
-    {
-      "sottocategoria": "Calcio femminile",
-      "tipo": "notizia",
-      "titolo": "Mondiale U20, le 'azzurrine\" approdano per la prima volta agli ottavi",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/09/mondiale-u20-le-azzurrine-approdano-per-la-prima-volta-agli-ottavi_3af99737-c3fc-4462-9649-3f70d20da546.html",
-      "fonte": "ANSA Sport",
-      "data_evento": "2026-09-09"
-    },
     {
       "sottocategoria": "Atletica",
       "tipo": "notizia",
@@ -28,18 +20,26 @@
     {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
-      "titolo": "È un volley da Sindrome di Stendhal: i campioni del Mondo in piazza a Napoli, due opere d'arte unite",
-      "link": "https://www.gazzetta.it/Volley/09-09-2026/eurovolley-italia-svezia-in-piazza-plebiscito-a-napoli-da-sindrome-di-stendhal.shtml",
+      "titolo": "Italia-Svezia, parte da Napoli la corsa al titolo Europeo degli azzurri: il pronostico",
+      "link": "https://www.gazzetta.it/scommesse/pronostici/10-09-2026/pronostico-italia-svezia-quote-prima-sfida-europei-volley-79334.shtml",
       "fonte": "Gazzetta — Volley",
-      "data_evento": "2026-09-09"
+      "data_evento": "2026-09-10"
     },
     {
       "sottocategoria": "Racchette e precisione",
       "tipo": "notizia",
-      "titolo": "Rybakina rimonta Zheng, conquista la semifinale allo Us Open e diventa numero 1 del mondo",
-      "link": "https://www.gazzetta.it/Tennis/atp/slam/us-open/09-09-2026/rybakina-e-n-1-al-mondo-batte-zheng-in-semifinale-allo-us-open.shtml",
+      "titolo": "Massellani unico italiano rimasto (tra i Junior), stanotte le semifinali donne: il programma di oggi agli Us Open",
+      "link": "https://www.gazzetta.it/Tennis/atp/slam/us-open/10-09-2026/us-open-partite-e-programma-di-oggi.shtml",
       "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-09-09"
+      "data_evento": "2026-09-10"
+    },
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Tante medaglie, ma niente ori ai Mondiali U23 e U18 di volo. Il presidente Favre: \"C'è delusione\"",
+      "link": "https://www.gazzetta.it/bocce/08-09-2026/bocce-italia-chiude-i-mondiali-in-cina-con-8-medaglie-ma-nessun-oro.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-09-08"
     }
   ]
 }
