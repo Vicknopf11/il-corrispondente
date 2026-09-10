@@ -1,6 +1,30 @@
 {
-  "generato": "2026-09-10T09:57:35.575454+00:00",
+  "generato": "2026-09-10T15:05:33.527327+00:00",
   "item": [
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "La FISIP passa in FISI, il Presidente De Sanctis: \"Passaggio inevitabile per il futuro\"",
+      "link": "https://video.gazzetta.it/sport-invernali/video-fisip-passa-in-fisi-il-presidente-de-santis-un-passaggio-inevitabile/abcc2b36-baaa-40f1-b747-4ccd54dd7xlk",
+      "fonte": "Gazzetta — Sport Invernali",
+      "data_evento": "2026-09-08"
+    },
+    {
+      "sottocategoria": "Calcio femminile",
+      "tipo": "notizia",
+      "titolo": "Mondiale U20, le 'azzurrine\" approdano per la prima volta agli ottavi",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/09/mondiale-u20-le-azzurrine-approdano-per-la-prima-volta-agli-ottavi_3af99737-c3fc-4462-9649-3f70d20da546.html",
+      "fonte": "ANSA Sport",
+      "data_evento": "2026-09-09"
+    },
+    {
+      "sottocategoria": "Combattimento",
+      "tipo": "notizia",
+      "titolo": "Champions: il tecnico del Fenerbahce, \"con la Roma dovremo rischiare\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/09/champions-il-tecnico-del-fenerbahce-con-la-roma-dovremo-rischiare_995770d1-4ee4-4c25-9d05-50ca87eca2be.html",
+      "fonte": "ANSA Sport",
+      "data_evento": "2026-09-09"
+    },
     {
       "sottocategoria": "Atletica",
       "tipo": "notizia",
@@ -16,30 +40,6 @@
       "link": "https://www.gazzetta.it/Sport-Vari/07-09-2026/i-fratelli-casati-vincono-ancora-doppietta-in-danimarca.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-09-07"
-    },
-    {
-      "sottocategoria": "Squadra",
-      "tipo": "notizia",
-      "titolo": "Italia-Svezia, parte da Napoli la corsa al titolo Europeo degli azzurri: il pronostico",
-      "link": "https://www.gazzetta.it/scommesse/pronostici/10-09-2026/pronostico-italia-svezia-quote-prima-sfida-europei-volley-79334.shtml",
-      "fonte": "Gazzetta — Volley",
-      "data_evento": "2026-09-10"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Massellani unico italiano rimasto (tra i Junior), stanotte le semifinali donne: il programma di oggi agli Us Open",
-      "link": "https://www.gazzetta.it/Tennis/atp/slam/us-open/10-09-2026/us-open-partite-e-programma-di-oggi.shtml",
-      "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-09-10"
-    },
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Tante medaglie, ma niente ori ai Mondiali U23 e U18 di volo. Il presidente Favre: \"C'è delusione\"",
-      "link": "https://www.gazzetta.it/bocce/08-09-2026/bocce-italia-chiude-i-mondiali-in-cina-con-8-medaglie-ma-nessun-oro.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-09-08"
     }
   ]
 }
