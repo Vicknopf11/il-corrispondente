@@ -1,30 +1,6 @@
 {
-  "generato": "2026-09-10T15:05:33.527327+00:00",
+  "generato": "2026-09-10T19:56:51.435641+00:00",
   "item": [
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "La FISIP passa in FISI, il Presidente De Sanctis: \"Passaggio inevitabile per il futuro\"",
-      "link": "https://video.gazzetta.it/sport-invernali/video-fisip-passa-in-fisi-il-presidente-de-santis-un-passaggio-inevitabile/abcc2b36-baaa-40f1-b747-4ccd54dd7xlk",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-09-08"
-    },
-    {
-      "sottocategoria": "Calcio femminile",
-      "tipo": "notizia",
-      "titolo": "Mondiale U20, le 'azzurrine\" approdano per la prima volta agli ottavi",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/09/mondiale-u20-le-azzurrine-approdano-per-la-prima-volta-agli-ottavi_3af99737-c3fc-4462-9649-3f70d20da546.html",
-      "fonte": "ANSA Sport",
-      "data_evento": "2026-09-09"
-    },
-    {
-      "sottocategoria": "Combattimento",
-      "tipo": "notizia",
-      "titolo": "Champions: il tecnico del Fenerbahce, \"con la Roma dovremo rischiare\"",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/09/champions-il-tecnico-del-fenerbahce-con-la-roma-dovremo-rischiare_995770d1-4ee4-4c25-9d05-50ca87eca2be.html",
-      "fonte": "ANSA Sport",
-      "data_evento": "2026-09-09"
-    },
     {
       "sottocategoria": "Atletica",
       "tipo": "notizia",
@@ -40,6 +16,30 @@
       "link": "https://www.gazzetta.it/Sport-Vari/07-09-2026/i-fratelli-casati-vincono-ancora-doppietta-in-danimarca.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-09-07"
+    },
+    {
+      "sottocategoria": "Squadra",
+      "tipo": "notizia",
+      "titolo": "LIVE Eurovolley: Italia-Svezia, partita sospesa sul punteggio di 22-18 per gli azzurri",
+      "link": "https://www.gazzetta.it/Volley/10-09-2026/italia-svezia-live-europei-volley-la-diretta.shtml",
+      "fonte": "Gazzetta — Volley",
+      "data_evento": "2026-09-10"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Alcaraz e Shelton in campo alle 3 di notte mentre New York dormiva: è polemica sugli Us Open",
+      "link": "https://www.gazzetta.it/Tennis/atp/slam/us-open/10-09-2026/alcaraz-e-shelton-in-campo-alle-3-di-notte-mentre-new-york-dormiva-e-polemica-us-open.shtml",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-09-10"
+    },
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Boccia paralimpica: a Padova è caccia ai tricolori. E lo sport diventa medicina",
+      "link": "https://www.gazzetta.it/bocce/10-09-2026/boccia-paralimpica-a-padova-e-caccia-ai-tricolori-e-lo-sport-diventa-medicina.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-09-10"
     }
   ]
 }
