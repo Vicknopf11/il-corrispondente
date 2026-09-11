@@ -1,6 +1,14 @@
 {
-  "generato": "2026-09-10T19:56:51.435641+00:00",
+  "generato": "2026-09-11T09:55:08.703178+00:00",
   "item": [
+    {
+      "sottocategoria": "Squadra",
+      "tipo": "notizia",
+      "titolo": "Chi giocò, chi brindò, chi protestò: l'11 settembre 2001 cambiò anche lo sport",
+      "link": "https://www.gazzetta.it/Calcio/11-09-2026/11-settembre-2001-sport.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-09-11"
+    },
     {
       "sottocategoria": "Atletica",
       "tipo": "notizia",
@@ -18,20 +26,12 @@
       "data_evento": "2026-09-07"
     },
     {
-      "sottocategoria": "Squadra",
-      "tipo": "notizia",
-      "titolo": "LIVE Eurovolley: Italia-Svezia, partita sospesa sul punteggio di 22-18 per gli azzurri",
-      "link": "https://www.gazzetta.it/Volley/10-09-2026/italia-svezia-live-europei-volley-la-diretta.shtml",
-      "fonte": "Gazzetta — Volley",
-      "data_evento": "2026-09-10"
-    },
-    {
       "sottocategoria": "Racchette e precisione",
       "tipo": "notizia",
-      "titolo": "Alcaraz e Shelton in campo alle 3 di notte mentre New York dormiva: è polemica sugli Us Open",
-      "link": "https://www.gazzetta.it/Tennis/atp/slam/us-open/10-09-2026/alcaraz-e-shelton-in-campo-alle-3-di-notte-mentre-new-york-dormiva-e-polemica-us-open.shtml",
-      "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-09-10"
+      "titolo": "Nordqvist e Donald capitani d'Europa: \"Vince chi sa fare squadra\"",
+      "link": "https://www.gazzetta.it/Golf/07-09-2026/golf-nordqvist-e-donald-capitani-di-solheim-cup-e-ryder-cup.shtml",
+      "fonte": "Gazzetta — Golf",
+      "data_evento": "2026-09-07"
     },
     {
       "sottocategoria": "Mente e nicchia",
