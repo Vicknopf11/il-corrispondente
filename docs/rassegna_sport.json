@@ -1,6 +1,22 @@
 {
-  "generato": "2026-09-12T09:30:33.759568+00:00",
+  "generato": "2026-09-12T14:18:03.979715+00:00",
   "item": [
+    {
+      "sottocategoria": "Combattimento",
+      "tipo": "notizia",
+      "titolo": "Roma, i guantoni del riscatto: Morello e la boxe per battere il cancro",
+      "link": "https://www.gazzetta.it/fighting/pugilato/11-09-2026/dario-morello-fa-salire-la-boxe-sul-ring-per-battere-il-cancro.shtml",
+      "fonte": "Gazzetta — Fighting",
+      "data_evento": "2026-09-11"
+    },
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "La FISIP passa in FISI, il Presidente De Sanctis: \"Passaggio inevitabile per il futuro\"",
+      "link": "https://video.gazzetta.it/sport-invernali/video-fisip-passa-in-fisi-il-presidente-de-santis-un-passaggio-inevitabile/abcc2b36-baaa-40f1-b747-4ccd54dd7xlk",
+      "fonte": "Gazzetta — Sport Invernali",
+      "data_evento": "2026-09-08"
+    },
     {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
@@ -18,28 +34,12 @@
       "data_evento": "2026-09-08"
     },
     {
-      "sottocategoria": "Acqua",
-      "tipo": "notizia",
-      "titolo": "Kitesurf, i fratelli Casati vincono ancora: doppietta in Danimarca",
-      "link": "https://www.gazzetta.it/Sport-Vari/07-09-2026/i-fratelli-casati-vincono-ancora-doppietta-in-danimarca.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-09-07"
-    },
-    {
       "sottocategoria": "Racchette e precisione",
       "tipo": "notizia",
-      "titolo": "Us Open: Sabalenka-Rybakina, sfida tra regine! Stasera la finalissima",
-      "link": "https://www.gazzetta.it/Tennis/wta/slam/us-open/12-09-2026/us-open-il-programma-di-oggi-sabalenka-rybakina-orario-e-dove-vedere-la-finale-in-tv.shtml",
+      "titolo": "Sinner, gli amici e i nemici: da Draper e Sonego ad Alcaraz, chi è dentro e chi è fuori dalla sua cerchia",
+      "link": "https://www.gazzetta.it/Tennis/ATP/12-09-2026/sinner-chi-sono-amici-nemici-tennisti-draper-sonego-alcaraz.shtml",
       "fonte": "Gazzetta — Tennis",
       "data_evento": "2026-09-12"
-    },
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Boccia paralimpica: a Padova è caccia ai tricolori. E lo sport diventa medicina",
-      "link": "https://www.gazzetta.it/bocce/10-09-2026/boccia-paralimpica-a-padova-e-caccia-ai-tricolori-e-lo-sport-diventa-medicina.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-09-10"
     }
   ]
 }
