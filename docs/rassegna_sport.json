@@ -1,21 +1,13 @@
 {
-  "generato": "2026-09-12T14:18:03.979715+00:00",
+  "generato": "2026-09-12T19:33:31.394839+00:00",
   "item": [
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
-      "titolo": "Roma, i guantoni del riscatto: Morello e la boxe per battere il cancro",
-      "link": "https://www.gazzetta.it/fighting/pugilato/11-09-2026/dario-morello-fa-salire-la-boxe-sul-ring-per-battere-il-cancro.shtml",
-      "fonte": "Gazzetta — Fighting",
-      "data_evento": "2026-09-11"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "La FISIP passa in FISI, il Presidente De Sanctis: \"Passaggio inevitabile per il futuro\"",
-      "link": "https://video.gazzetta.it/sport-invernali/video-fisip-passa-in-fisi-il-presidente-de-santis-un-passaggio-inevitabile/abcc2b36-baaa-40f1-b747-4ccd54dd7xlk",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-09-08"
+      "titolo": "\"Così siete voi i quattro scemi che fanno impazzire il mondo\". E Muhammad Ali mise al tappeto i Beatles",
+      "link": "https://www.gazzetta.it/Sport-Vari/12-09-2026/muhammad-ali-beatles-miami-1964-liston.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-09-12"
     },
     {
       "sottocategoria": "Squadra",
@@ -36,10 +28,18 @@
     {
       "sottocategoria": "Racchette e precisione",
       "tipo": "notizia",
-      "titolo": "Sinner, gli amici e i nemici: da Draper e Sonego ad Alcaraz, chi è dentro e chi è fuori dalla sua cerchia",
-      "link": "https://www.gazzetta.it/Tennis/ATP/12-09-2026/sinner-chi-sono-amici-nemici-tennisti-draper-sonego-alcaraz.shtml",
+      "titolo": "Le bottigliette di Nadal, il rituale di Roddick, la danza di Svetlana... i gesti ossessivi dei big del tennis",
+      "link": "https://www.gazzetta.it/Tennis/ATP/storie/12-09-2026/tennis-tic-e-rituali-dei-grandi-tennisti-nadal-alcaraz-sinner-e/rafael-nadal.shtml",
       "fonte": "Gazzetta — Tennis",
       "data_evento": "2026-09-12"
+    },
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Boccia paralimpica: a Padova è caccia ai tricolori. E lo sport diventa medicina",
+      "link": "https://www.gazzetta.it/bocce/10-09-2026/boccia-paralimpica-a-padova-e-caccia-ai-tricolori-e-lo-sport-diventa-medicina.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-09-10"
     }
   ]
 }
