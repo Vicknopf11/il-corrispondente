@@ -1,6 +1,22 @@
 {
-  "generato": "2026-09-14T10:53:12.553609+00:00",
+  "generato": "2026-09-14T17:01:04.341506+00:00",
   "item": [
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Boccia paralimpica: a Padova è caccia ai tricolori. E lo sport diventa medicina",
+      "link": "https://www.gazzetta.it/bocce/10-09-2026/boccia-paralimpica-a-padova-e-caccia-ai-tricolori-e-lo-sport-diventa-medicina.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-09-10"
+    },
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Nonnismo e presunti abusi sessuali: ex giocatori di hockey fanno causa all'Università del Michigan",
+      "link": "https://www.gazzetta.it/Sport-Invernali/12-09-2026/ex-giocatori-di-hockey-vittime-di-abusi-sessuali-il-caso-dell-universita-del-michigan.shtml",
+      "fonte": "Gazzetta — Sport Invernali",
+      "data_evento": "2026-09-12"
+    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
@@ -20,26 +36,11 @@
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
-      "titolo": "La 36ª Maxi Yacht Rolex Cup incorona i suoi campioni a Porto Cervo",
-      "link": "https://www.gazzetta.it/vela/14-09-2026/la-36-maxi-yacht-rolex-cup-incorona-i-suoi-campioni-a-porto-cervo.shtml",
-      "fonte": "Gazzetta — Vela e Nautica",
-      "data_evento": "2026-09-14"
-    },
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "Tamberi da impazzire a Budapest: 2.37 e conquista l'Ultimate Championship. Pernici show sugli 800",
-      "link": "https://www.gazzetta.it/Atletica/13-09-2026/tamberi-show-a-budapest-salta-2-37.shtml",
-      "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-09-13"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Zverev: \"Sono il giocatore più forte del mondo? Sì, ma...\"",
-      "link": "https://video.gazzetta.it/tennis/atp/video-us-open-conferenza-zverev-sono-il-giocatore-piu-forte-ma/c4ba9d95-41a6-4bc7-97bd-656c210b7xlk",
-      "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-09-14"
+      "titolo": "Europei nuoto, super Gilli trascina l'Italia: 5 ori e un argento",
+      "link": "https://www.gazzetta.it/Paralimpici/14-09-2026/europei-nuoto-super-gilli-trascina-l-italia-5-ori-e-un-argento.shtml",
+      "fonte": "Gazzetta — Paralimpici",
+      "data_evento": "2026-09-14",
+      "paralimpico": true
     }
   ]
 }
