@@ -1,5 +1,5 @@
 {
-  "generato": "2026-09-13T19:38:52.918884+00:00",
+  "generato": "2026-09-14T10:53:12.553609+00:00",
   "item": [
     {
       "sottocategoria": "Combattimento",
@@ -18,6 +18,14 @@
       "data_evento": "2026-09-11"
     },
     {
+      "sottocategoria": "Acqua",
+      "tipo": "notizia",
+      "titolo": "La 36ª Maxi Yacht Rolex Cup incorona i suoi campioni a Porto Cervo",
+      "link": "https://www.gazzetta.it/vela/14-09-2026/la-36-maxi-yacht-rolex-cup-incorona-i-suoi-campioni-a-porto-cervo.shtml",
+      "fonte": "Gazzetta — Vela e Nautica",
+      "data_evento": "2026-09-14"
+    },
+    {
       "sottocategoria": "Atletica",
       "tipo": "notizia",
       "titolo": "Tamberi da impazzire a Budapest: 2.37 e conquista l'Ultimate Championship. Pernici show sugli 800",
@@ -28,18 +36,10 @@
     {
       "sottocategoria": "Racchette e precisione",
       "tipo": "notizia",
-      "titolo": "LIVE Us Open, la finale. Zverev-Shelton 1-0. Il tedesco non rallenta, 3-2",
-      "link": "https://www.gazzetta.it/Tennis/atp/slam/us-open/13-09-2026/live-us-open-zverev-e-shelton-in-finale-risultati-in-diretta.shtml",
+      "titolo": "Zverev: \"Sono il giocatore più forte del mondo? Sì, ma...\"",
+      "link": "https://video.gazzetta.it/tennis/atp/video-us-open-conferenza-zverev-sono-il-giocatore-piu-forte-ma/c4ba9d95-41a6-4bc7-97bd-656c210b7xlk",
       "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-09-13"
-    },
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Boccia paralimpica: a Padova è caccia ai tricolori. E lo sport diventa medicina",
-      "link": "https://www.gazzetta.it/bocce/10-09-2026/boccia-paralimpica-a-padova-e-caccia-ai-tricolori-e-lo-sport-diventa-medicina.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-09-10"
+      "data_evento": "2026-09-14"
     }
   ]
 }
