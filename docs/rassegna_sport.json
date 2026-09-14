@@ -1,22 +1,6 @@
 {
-  "generato": "2026-09-14T17:01:04.341506+00:00",
+  "generato": "2026-09-14T21:01:04.537079+00:00",
   "item": [
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Boccia paralimpica: a Padova è caccia ai tricolori. E lo sport diventa medicina",
-      "link": "https://www.gazzetta.it/bocce/10-09-2026/boccia-paralimpica-a-padova-e-caccia-ai-tricolori-e-lo-sport-diventa-medicina.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-09-10"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Nonnismo e presunti abusi sessuali: ex giocatori di hockey fanno causa all'Università del Michigan",
-      "link": "https://www.gazzetta.it/Sport-Invernali/12-09-2026/ex-giocatori-di-hockey-vittime-di-abusi-sessuali-il-caso-dell-universita-del-michigan.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-09-12"
-    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
@@ -41,6 +25,22 @@
       "fonte": "Gazzetta — Paralimpici",
       "data_evento": "2026-09-14",
       "paralimpico": true
+    },
+    {
+      "sottocategoria": "Atletica",
+      "tipo": "notizia",
+      "titolo": "Tamberi da impazzire a Budapest: 2.37 e conquista l'Ultimate Championship. Pernici show sugli 800",
+      "link": "https://www.gazzetta.it/Atletica/13-09-2026/tamberi-show-a-budapest-salta-2-37.shtml",
+      "fonte": "Gazzetta — Atletica",
+      "data_evento": "2026-09-13"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Zverev ora è primo nella Race: Sinner e Alcaraz devono temerlo davvero?",
+      "link": "https://video.gazzetta.it/pillole-sport/video-race-atp-finals-zverev-e-primo-ma-sinner-e-alcaraz-devono-temerlo/9b37c790-9c92-4ab3-95d2-d4651af14xlk",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-09-14"
     }
   ]
 }
