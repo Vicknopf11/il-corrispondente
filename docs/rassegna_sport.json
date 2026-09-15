@@ -1,6 +1,22 @@
 {
-  "generato": "2026-09-15T10:17:57.502071+00:00",
+  "generato": "2026-09-15T15:38:33.220542+00:00",
   "item": [
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Giovani e sogno olimpico: così Favre rilancia la Fib a un anno dalla presidenza",
+      "link": "https://www.gazzetta.it/bocce/15-09-2026/bocce-giovani-e-sogno-olimpico-cosi-favre-rilancia-la-fib.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-09-15"
+    },
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Un anno dopo la morte di Franzoso: cos'è cambiato nella sicurezza sugli sci",
+      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/15-09-2026/franzoso-un-anno-sicurezza-sci.shtml",
+      "fonte": "Gazzetta — Sport Invernali",
+      "data_evento": "2026-09-15"
+    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
@@ -25,22 +41,6 @@
       "link": "https://www.gazzetta.it/Calcio/11-09-2026/11-settembre-2001-sport.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-09-11"
-    },
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "Gimbo, \"animale\" da gara. Ecco tutte le sue vittorie impossibili",
-      "link": "https://www.gazzetta.it/Atletica/storie/15-09-2026/gianmarco-tamberi-vittorie-impossibili/un-animale-da-gara-nbsp.shtml",
-      "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-09-15"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "\"Grazie a te ho fatto coming out\": tennisti gay si sfidano, poi il discorso emozionante",
-      "link": "https://video.gazzetta.it/tennis/atp/video-tennisti-gay-si-sfidano-poi-il-confronto-grazie-a-te-ho-fatto-coming-out/f08e6916-353e-4e57-b60f-d44f02e68xlk",
-      "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-09-15"
     }
   ]
 }
