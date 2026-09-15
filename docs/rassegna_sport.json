@@ -1,22 +1,6 @@
 {
-  "generato": "2026-09-15T15:38:33.220542+00:00",
+  "generato": "2026-09-15T20:22:14.447730+00:00",
   "item": [
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Giovani e sogno olimpico: così Favre rilancia la Fib a un anno dalla presidenza",
-      "link": "https://www.gazzetta.it/bocce/15-09-2026/bocce-giovani-e-sogno-olimpico-cosi-favre-rilancia-la-fib.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-09-15"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Un anno dopo la morte di Franzoso: cos'è cambiato nella sicurezza sugli sci",
-      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/15-09-2026/franzoso-un-anno-sicurezza-sci.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-09-15"
-    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
@@ -41,6 +25,22 @@
       "link": "https://www.gazzetta.it/Calcio/11-09-2026/11-settembre-2001-sport.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-09-11"
+    },
+    {
+      "sottocategoria": "Atletica",
+      "tipo": "notizia",
+      "titolo": "Atletica, Roma bocciata: i Mondiali 2029 e 2031 a Nairobi e a Monaco di Baviera",
+      "link": "https://www.gazzetta.it/Atletica/15-09-2026/atletica-niente-mondiali-in-italia-scelte-nairobi-2029-e-monaco-2031.shtml",
+      "fonte": "Gazzetta — Atletica",
+      "data_evento": "2026-09-15"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Jack Draper, calvario senza fine: \"Tornerò nel circuito all’inizio del prossimo anno\"",
+      "link": "https://www.gazzetta.it/Tennis/ATP/15-09-2026/jack-draper-rientro-tornero-nel-circuito-all-inizio-del-prossimo-anno.shtml",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-09-15"
     }
   ]
 }
