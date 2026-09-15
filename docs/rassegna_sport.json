@@ -1,6 +1,15 @@
 {
-  "generato": "2026-09-14T21:01:04.537079+00:00",
+  "generato": "2026-09-15T10:17:57.502071+00:00",
   "item": [
+    {
+      "sottocategoria": "Acqua",
+      "tipo": "notizia",
+      "titolo": "Europei nuoto, super Gilli trascina l'Italia: 5 ori e un argento",
+      "link": "https://www.gazzetta.it/Paralimpici/14-09-2026/europei-nuoto-super-gilli-trascina-l-italia-5-ori-e-un-argento.shtml",
+      "fonte": "Gazzetta — Paralimpici",
+      "data_evento": "2026-09-14",
+      "paralimpico": true
+    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
@@ -18,29 +27,20 @@
       "data_evento": "2026-09-11"
     },
     {
-      "sottocategoria": "Acqua",
-      "tipo": "notizia",
-      "titolo": "Europei nuoto, super Gilli trascina l'Italia: 5 ori e un argento",
-      "link": "https://www.gazzetta.it/Paralimpici/14-09-2026/europei-nuoto-super-gilli-trascina-l-italia-5-ori-e-un-argento.shtml",
-      "fonte": "Gazzetta — Paralimpici",
-      "data_evento": "2026-09-14",
-      "paralimpico": true
-    },
-    {
       "sottocategoria": "Atletica",
       "tipo": "notizia",
-      "titolo": "Tamberi da impazzire a Budapest: 2.37 e conquista l'Ultimate Championship. Pernici show sugli 800",
-      "link": "https://www.gazzetta.it/Atletica/13-09-2026/tamberi-show-a-budapest-salta-2-37.shtml",
+      "titolo": "Gimbo, \"animale\" da gara. Ecco tutte le sue vittorie impossibili",
+      "link": "https://www.gazzetta.it/Atletica/storie/15-09-2026/gianmarco-tamberi-vittorie-impossibili/un-animale-da-gara-nbsp.shtml",
       "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-09-13"
+      "data_evento": "2026-09-15"
     },
     {
       "sottocategoria": "Racchette e precisione",
       "tipo": "notizia",
-      "titolo": "Zverev ora è primo nella Race: Sinner e Alcaraz devono temerlo davvero?",
-      "link": "https://video.gazzetta.it/pillole-sport/video-race-atp-finals-zverev-e-primo-ma-sinner-e-alcaraz-devono-temerlo/9b37c790-9c92-4ab3-95d2-d4651af14xlk",
+      "titolo": "\"Grazie a te ho fatto coming out\": tennisti gay si sfidano, poi il discorso emozionante",
+      "link": "https://video.gazzetta.it/tennis/atp/video-tennisti-gay-si-sfidano-poi-il-confronto-grazie-a-te-ho-fatto-coming-out/f08e6916-353e-4e57-b60f-d44f02e68xlk",
       "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-09-14"
+      "data_evento": "2026-09-15"
     }
   ]
 }
