@@ -1,21 +1,13 @@
 {
-  "generato": "2026-09-16T15:29:12.816650+00:00",
+  "generato": "2026-09-16T20:20:17.241056+00:00",
   "item": [
     {
-      "sottocategoria": "Mente e nicchia",
+      "sottocategoria": "Combattimento",
       "tipo": "notizia",
-      "titolo": "Giovani e sogno olimpico: così Favre rilancia la Fib a un anno dalla presidenza",
-      "link": "https://www.gazzetta.it/bocce/15-09-2026/bocce-giovani-e-sogno-olimpico-cosi-favre-rilancia-la-fib.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-09-15"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Un anno dopo la morte di Franzoso: cos'è cambiato nella sicurezza sugli sci",
-      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/15-09-2026/franzoso-un-anno-sicurezza-sci.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-09-15"
+      "titolo": "Terry McGovern, il \"Terribile\": un metro e sessanta di ostinazione che demoliva i giganti",
+      "link": "https://www.gazzetta.it/Sport-Vari/16-09-2026/terry-mcgovern-chi-era-il-campione-di-boxe-soprannominato-il-terribile.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-09-16"
     },
     {
       "sottocategoria": "Acqua",
@@ -27,20 +19,28 @@
       "paralimpico": true
     },
     {
-      "sottocategoria": "Combattimento",
-      "tipo": "notizia",
-      "titolo": "\"Così siete voi i quattro scemi che fanno impazzire il mondo\". E Muhammad Ali mise al tappeto i Beatles",
-      "link": "https://www.gazzetta.it/Sport-Vari/12-09-2026/muhammad-ali-beatles-miami-1964-liston.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-09-12"
-    },
-    {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
       "titolo": "Tris Springboks sugli All Blacks: sono i sudafricani la superpotenza del rugby",
       "link": "https://www.gazzetta.it/Rugby/15-09-2026/rugby-al-sudafrica-la-greatest-rivalry-con-gli-al-blacks.shtml",
       "fonte": "Gazzetta — Rugby",
       "data_evento": "2026-09-15"
+    },
+    {
+      "sottocategoria": "Atletica",
+      "tipo": "notizia",
+      "titolo": "\"Atleta europeo dell'anno\", svelate le nomination. Da Tamberi a Doualla: i 7 italiani in lizza",
+      "link": "https://www.gazzetta.it/Atletica/16-09-2026/atleta-europeo-dell-anno-svelate-nomination-tamberi-doualla-7-italiani.shtml",
+      "fonte": "Gazzetta — Atletica",
+      "data_evento": "2026-09-16"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "La Nadal Academy compie 10 anni: Rafa prende la racchetta e festeggia in campo a due anni dal ritiro",
+      "link": "https://www.gazzetta.it/Tennis/16-09-2026/la-nadal-academy-compie-10-anni-rafa-prende-la-racchetta-e-festeggia-in-campo.shtml",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-09-16"
     }
   ]
 }
