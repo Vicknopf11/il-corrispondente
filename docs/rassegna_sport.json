@@ -1,6 +1,22 @@
 {
-  "generato": "2026-09-16T10:10:34.823633+00:00",
+  "generato": "2026-09-16T15:29:12.816650+00:00",
   "item": [
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Giovani e sogno olimpico: così Favre rilancia la Fib a un anno dalla presidenza",
+      "link": "https://www.gazzetta.it/bocce/15-09-2026/bocce-giovani-e-sogno-olimpico-cosi-favre-rilancia-la-fib.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-09-15"
+    },
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Un anno dopo la morte di Franzoso: cos'è cambiato nella sicurezza sugli sci",
+      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/15-09-2026/franzoso-un-anno-sicurezza-sci.shtml",
+      "fonte": "Gazzetta — Sport Invernali",
+      "data_evento": "2026-09-15"
+    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
@@ -25,22 +41,6 @@
       "link": "https://www.gazzetta.it/Rugby/15-09-2026/rugby-al-sudafrica-la-greatest-rivalry-con-gli-al-blacks.shtml",
       "fonte": "Gazzetta — Rugby",
       "data_evento": "2026-09-15"
-    },
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "\"Atleta europeo dell'anno\", svelate le nomination. Da Tamberi a Doualla: i 7 italiani in lizza",
-      "link": "https://www.gazzetta.it/Atletica/16-09-2026/atleta-europeo-dell-anno-svelate-nomination-tamberi-doualla-7-italiani.shtml",
-      "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-09-16"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Riccanza, gioielli e racchette spaccate: viaggio nel patrimonio di Aryna Sabalenka",
-      "link": "https://www.gazzetta.it/Tennis/WTA/16-09-2026/sabalenka-quanto-vale-il-suo-patrimonio.shtml",
-      "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-09-16"
     }
   ]
 }
