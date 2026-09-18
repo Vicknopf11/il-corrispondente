@@ -1,6 +1,22 @@
 {
-  "generato": "2026-09-18T09:58:19.976167+00:00",
+  "generato": "2026-09-18T15:04:39.290319+00:00",
   "item": [
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Roma incorona i giovani talenti internazionali, l'Abruzzo assegna i titoli tricolori paralimpici",
+      "link": "https://www.gazzetta.it/bocce/17-09-2026/bocce-roma-incorona-i-giovani-talenti-l-abruzzo-assegna-i-tricolori-paralimpici.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-09-17"
+    },
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Un anno dopo la morte di Franzoso: cos'è cambiato nella sicurezza sugli sci",
+      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/15-09-2026/franzoso-un-anno-sicurezza-sci.shtml",
+      "fonte": "Gazzetta — Sport Invernali",
+      "data_evento": "2026-09-15"
+    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
@@ -25,22 +41,6 @@
       "link": "https://www.gazzetta.it/Rugby/15-09-2026/rugby-al-sudafrica-la-greatest-rivalry-con-gli-al-blacks.shtml",
       "fonte": "Gazzetta — Rugby",
       "data_evento": "2026-09-15"
-    },
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "La promessa di Pernici: \"Io, l'uomo dei sogni. Presto arriverò sul tetto del mondo\"",
-      "link": "https://www.gazzetta.it/Atletica/17-09-2026/francesco-pernici-intervista-record-800-atletica.shtml",
-      "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-09-17"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Risposta fenomenale al Challenger di Biella! Il compagno, incredulo, fa cadere la racchetta",
-      "link": "https://video.gazzetta.it/video-challenger-risposta-super-il-compagno-incredulo-fa-cadere-la-racchetta/2b4f74fc-67cb-469b-9f84-46264a042xlk",
-      "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-09-17"
     }
   ]
 }
