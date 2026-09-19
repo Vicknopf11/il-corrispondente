@@ -1,22 +1,6 @@
 {
-  "generato": "2026-09-19T14:39:29.214705+00:00",
+  "generato": "2026-09-19T19:28:28.942191+00:00",
   "item": [
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Roma incorona i giovani talenti internazionali, l'Abruzzo assegna i titoli tricolori paralimpici",
-      "link": "https://www.gazzetta.it/bocce/17-09-2026/bocce-roma-incorona-i-giovani-talenti-l-abruzzo-assegna-i-tricolori-paralimpici.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-09-17"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Un anno dopo la morte di Franzoso: cos'è cambiato nella sicurezza sugli sci",
-      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/15-09-2026/franzoso-un-anno-sicurezza-sci.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-09-15"
-    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
@@ -28,11 +12,10 @@
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
-      "titolo": "Europei nuoto, super Gilli trascina l'Italia: 5 ori e un argento",
-      "link": "https://www.gazzetta.it/Paralimpici/14-09-2026/europei-nuoto-super-gilli-trascina-l-italia-5-ori-e-un-argento.shtml",
-      "fonte": "Gazzetta — Paralimpici",
-      "data_evento": "2026-09-14",
-      "paralimpico": true
+      "titolo": "Mondiali, bene l’Italia juniores Grandi Monteiro e Scoppa che sfiorano i quarti",
+      "link": "https://www.gazzetta.it/Sport-Vari/15-09-2026/mondiali-bene-l-italia-juniores-grandi-monteiro-e-scoppa-che-sfiorano-i-quarti.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-09-15"
     },
     {
       "sottocategoria": "Squadra",
@@ -41,6 +24,22 @@
       "link": "https://www.gazzetta.it/Rugby/15-09-2026/rugby-al-sudafrica-la-greatest-rivalry-con-gli-al-blacks.shtml",
       "fonte": "Gazzetta — Rugby",
       "data_evento": "2026-09-15"
+    },
+    {
+      "sottocategoria": "Atletica",
+      "tipo": "notizia",
+      "titolo": "Il ranking mondiale? Fabbri domina nel peso. Ma ecco chi sono gli altri azzurri che brillano",
+      "link": "https://www.gazzetta.it/Atletica/19-09-2026/ranking-mondiale-fabbri-tamberi-diaz-e-iapichino-tra-i-migliori.shtml",
+      "fonte": "Gazzetta — Atletica",
+      "data_evento": "2026-09-19"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Fonseca vince in Davis e piange: \"Anno difficile\". A che punto è la crescita del \"futuro n.1 del mondo\"",
+      "link": "https://www.gazzetta.it/Tennis/Coppa-Davis/19-09-2026/fonseca-vince-alla-davis-e-scoppia-a-piangere.shtml",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-09-19"
     }
   ]
 }
