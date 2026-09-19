@@ -1,6 +1,120 @@
 {
   "edizioni": [
     {
+      "data": "2026-09-19",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Eurofighter italiano colpito in Arabia Saudita: l'Italia è in guerra senza dirlo",
+          "slug": "eurofighter-italiano-colpito-arabia-saudita-italia-in-guerra",
+          "tag": [
+            "difesa",
+            "medio oriente",
+            "houthi",
+            "industria bellica"
+          ],
+          "evidenza": true,
+          "fonte": "ANSA / Il Sole 24 Ore",
+          "cerca_url": "https://www.google.com/search?q=Eurofighter+italiano+colpito+base+Ta%27if+Arabia+Saudita+2026",
+          "post_x": "Un F-2000 da oltre 100 milioni distrutto in Arabia Saudita. Crosetto: «Nessun ferito». L'opposizione: «Riferisca in Parlamento». Noi: ma quando abbiamo deciso di entrare in questa guerra? #Italia #Houthi",
+          "post_sito": "Un drone degli Houthi ha centrato un Eurofighter F-2000 italiano parcheggiato nella base aerea saudita di Ta'if — aereo da oltre cento milioni di euro, come ricordano puntuali i Cinque Stelle chiedendo a Crosetto di «riferire subito in Parlamento». Il ministro rassicura: nessun militare coinvolto. Ciò che non rassicura è altro: circa 700 militari italiani sono schierati in Arabia Saudita, Bahrein e Kuwait dalla seconda metà di marzo 2026, nell'ambito di una Task Force Air Arabia di cui il Parlamento non ha mai discusso formalmente l'invio. Nel racconto dominante si parla di «operazione Inherent Resolve» e di «supporto alla difesa aerea dei Paesi partner» — eufemismo di potere che maschera la partecipazione attiva a un conflitto in corso tra Stati Uniti, Israele e Iran, con l'Italia nel mezzo. Chi ci guadagna? L'industria europea della difesa, Eurofighter Typhoon in testa — un consorzio tra Leonardo, BAE Systems, Airbus e Indra — che ogni caccia distrutto trasforma in un ordine di sostituzione. La storia insegna che l'Italia è entrata in ogni conflitto mediorientale degli ultimi trent'anni attraverso missioni «di supporto» che nessuno ha votato davvero.",
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La posizione del governo",
+              "testo": "Il ministro Crosetto ha confermato che nessun militare italiano è rimasto coinvolto nell'attacco e che il velivolo F-2000 colpito si trovava in un'area decentrata della base. La missione italiana in Arabia Saudita rientra nell'operazione Inherent Resolve, descritta dal ministero della Difesa come supporto alla difesa aerea dei Paesi partner del Medio Oriente. Crosetto ha aggiunto che l'Italia sta valutando, assieme ai partner europei, un rafforzamento della missione Aspides nel Mar Rosso per proteggere il traffico mercantile dagli attacchi Houthi nello Stretto di Bab el-Mandeb."
+            },
+            {
+              "etichetta": "La richiesta dell'opposizione",
+              "testo": "M5S, PD e Alleanza Verdi e Sinistra hanno chiesto formalmente al ministro Crosetto di riferire in Parlamento. I Cinque Stelle hanno sottolineato che il dispiegamento di personale italiano nella base saudita di Ta'if non ha ricevuto un voto parlamentare esplicito, e hanno ricordato che il valore di un singolo Eurofighter F-2000 supera i cento milioni di euro. Le opposizioni chiedono al governo di chiarire le regole d'ingaggio, l'esposizione al rischio del contingente e le eventuali misure di escalation previste."
+            },
+            {
+              "etichetta": "Il contesto regionale",
+              "testo": "L'attacco alla base di Ta'if si inserisce in un'escalation più ampia: dalla ripresa del conflitto tra Stati Uniti, Israele e Iran, i ribelli Houthi dello Yemen — sostenuti da Teheran — hanno intensificato attacchi contro basi saudite e traffico navale nel Mar Rosso e nello Stretto di Hormuz. Il 15 marzo 2026 era già stata colpita la base di Ali al Salem in Kuwait, dove erano presenti oltre 300 militari italiani. L'Arabia Saudita ha nel frattempo trasmesso agli Houthi, attraverso la mediazione dell'Oman, una proposta di cessate il fuoco di due settimane con l'avvio di negoziati diretti."
+            },
+            {
+              "etichetta": "Il nodo industriale e strategico",
+              "testo": "L'Eurofighter F-2000 è prodotto dal consorzio europeo Eurofighter GmbH, che include Leonardo (Italia), BAE Systems (Regno Unito), Airbus Defence and Space (Germania e Spagna). La perdita o il danneggiamento di un velivolo comporta procedure di sostituzione che alimentano direttamente i bilanci del consorzio. Sul piano strategico, la presenza militare italiana in Arabia Saudita si inserisce nella politica di rafforzamento del fianco sud della NATO e nella volontà italiana di avere un ruolo attivo nella sicurezza delle rotte energetiche, in particolare dello Stretto di Hormuz, da cui transitano forniture di petrolio cruciali per l'Europa."
+            }
+          ],
+          "implicazioni": "Se l'escalation nel Golfo dovesse continuare, l'Italia potrebbe trovarsi a dover scegliere tra un aumento del proprio contributo militare — con tutte le implicazioni parlamentari e diplomatiche che ne conseguono — o un ridimensionamento della presenza, con possibili ricadute sui rapporti con i partner sauditi e atlantici. La questione della copertura parlamentare delle missioni all'estero potrebbe tornare al centro del dibattito istituzionale, dopo anni in cui i dispiegamenti in zone di conflitto sono stati autorizzati con procedure semplificate o rinnovati automaticamente.",
+          "redattore": "Il Corrispondente Estero 1.0"
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "M5S vota il nuovo programma mentre la RAI litiga su chi comanda la commissione di vigilanza",
+          "slug": "m5s-voto-programma-rai-vigilanza-lottizzazione",
+          "tag": [
+            "m5s",
+            "rai",
+            "lottizzazione",
+            "parlamento"
+          ],
+          "evidenza": false,
+          "fonte": "L'Unità / Sky TG24",
+          "cerca_url": "https://www.google.com/search?q=M5S+voto+programma+iscritti+commissione+vigilanza+RAI+settembre+2026",
+          "post_x": "Il M5S vota il programma del futuro. La commissione Rai litiga su chi tiene il mazzo. Nel frattempo Palazzo Chigi illumina Palazzo Chigi di verde per la SLA. La politica italiana: sempre presente, raramente pertinente.",
+          "post_sito": "Due scene italiane in parallelo, stessa giornata. Gli iscritti del Movimento 5 Stelle sono chiamati fino a domenica a votare le venti aree tematiche del nuovo programma — salario minimo, settimana corta, voto ai sedicenni, reintroduzione dell'abuso d'ufficio — un menù che suona familiare a chi ricorda le stesse voci nei programmi del 2018, del 2022 e di ogni campagna elettorale successiva. Intanto alla commissione bicamerale di vigilanza Rai la presidente Floridia e i consiglieri d'opposizione hanno abbandonato i lavori, protestando contro il blocco imposto dalla maggioranza: un copione antico quanto la televisione pubblica italiana, dove la lottizzazione non è un'eccezione ma il metodo fondativo. Chi ci guadagna? I partiti di governo, che controllano nomine e palinsesti; le reti concorrenti, che beneficiano di una Rai indebolita dalla paralisi politica interna. Mandante invisibile: non è il politico di turno a volere il blocco dei lavori, ma il sistema di correnti e sottogoverno che nella Rai trova da settant'anni il suo terreno di coltura preferito.",
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0"
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Giorgetti avverte: lo shock energetico arriverà sulle bollette. E chiede flessibilità a Bruxelles",
+          "slug": "giorgetti-bollette-energia-flessibilita-europea-pnrr",
+          "tag": [
+            "energia",
+            "bollette",
+            "manovra",
+            "pnrr"
+          ],
+          "evidenza": false,
+          "fonte": "Il Sole 24 Ore / Sarno Notizie / Il Fatto Quotidiano",
+          "cerca_url": "https://www.google.com/search?q=Giorgetti+bollette+energia+flessibilit%C3%A0+europea+settembre+2026",
+          "post_x": "Giorgetti avverte: le bollette aumenteranno. Poi chiede a Bruxelles la clausola di flessibilità — la stessa che ha sempre criticato quando la chiedevano altri. L'eufemismo si chiama «emergenza energetica». #economia #bollette",
+          "post_sito": "Il ministro dell'Economia Giancarlo Giorgetti ha avvertito dall'Eurogruppo che gli effetti delle crisi internazionali si trasferiranno presto sulle bollette di famiglie e imprese — un annuncio il cui principale merito è la tempistica: arriva mentre si costruisce la manovra 2027, quando tornare utile come giustificazione per richiedere a Bruxelles la clausola di flessibilità europea sulle spese energetiche, con un margine indicato dallo stesso Giorgetti nello 0,6% del PIL. Sul PNRR, il ministro sostiene che le coperture ricavate dai risparmi sui prestiti siano ormai «risorse nazionali» — una riqualificazione contabile che vale 1,46 miliardi nel solo 2027 e che Bruxelles non ha ancora avallato. Il beneficio taciuto è doppio: sul piano politico, l'allarme bollette sposta la colpa dal governo alle «crisi internazionali»; sul piano industriale, i gestori energetici hanno già incorporato nei propri bilanci preventivi i nuovi rincari, mentre i fondi speculativi posizionati sul mercato del gas europeo hanno tutto l'interesse a che la narrativa dello shock si consolidi.",
+          "editoriale": false,
+          "redattore": "L'Analista 1.0"
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Italia in finale ai Mondiali di basket in carrozzina: prima volta nella storia, stasera su Rai 2",
+          "slug": "italia-australia-finale-mondiali-basket-carrozzina-ottawa-2026",
+          "tag": [
+            "basket in carrozzina",
+            "paralimpico",
+            "mondiali",
+            "italia"
+          ],
+          "evidenza": false,
+          "fonte": "OA Sport / Comitato Italiano Paralimpico / Pianeta Basket",
+          "cerca_url": "https://www.google.com/search?q=Italia+Australia+finale+Mondiali+basket+carrozzina+Ottawa+2026",
+          "post_x": "L'Italia è in finale ai Mondiali di basket in carrozzina. Prima volta nella storia. Stasera Rai 2 alle 22:45, gratis. Nel caso ve lo stiate chiedendo: sì, esistono sport che non si chiamano calcio. #basketincarrozzina #Ottawa2026",
+          "post_sito": "A Ottawa, nella tarda serata italiana di oggi, la Nazionale di basket in carrozzina gioca la finale mondiale contro l'Australia: prima volta assoluta nella storia del movimento azzurro, dopo aver battuto in semifinale la Gran Bretagna per 63-59 e aver già eliminato nel girone i campioni uscenti degli Stati Uniti. La partita sarà trasmessa in diretta su Rai 2 a partire dalle 22:45, con streaming gratuito su RaiPlay. Vale la pena sottolinearlo, perché questo genere di notizie tende a occupare meno spazio di un quarto di un trafiletto sulla panchina di una squadra di Serie A. Il coach Castellucci guida una squadra esperta — Carossino, Papi, Giaretti, De Maggi — che ha costruito questo risultato nel corso di anni, lontano dai riflettori e dagli sponsor principali. Di fronte c'è un'Australia a due ori mondiali e due ori paralimpici, tornata ai vertici grazie anche al ventunenne Jaylen Brown, che in questo torneo non è mai sceso sotto i venti punti. Il conto dietro la medaglia, in questo caso, è uno solo: anni di lavoro invisibile, finanziamenti federali che si misurano in spiccioli rispetto al calcio, e un pubblico che scopre questi atleti solo quando fanno la storia.",
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0"
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Roma, professoressa accoltellata da uno studente di 13 anni: la scuola come specchio rotto",
+          "slug": "professoressa-accoltellata-roma-studente-13-anni-scuola",
+          "tag": [
+            "scuola",
+            "violenza giovanile",
+            "cronaca",
+            "roma"
+          ],
+          "evidenza": false,
+          "fonte": "Corriere della Sera / Repubblica / Sarno Notizie",
+          "cerca_url": "https://www.google.com/search?q=professoressa+accoltellata+Roma+studente+13+anni+settembre+2026",
+          "post_x": "Un 13enne accoltella la prof a Roma. Tutti chiedono più sicurezza nelle scuole. Nessuno chiede perché un tredicenne arriva in classe con un coltello. Domande facili, risposte scomode. #scuola #cronaca",
+          "post_sito": "A Roma una professoressa è stata accoltellata da uno studente di tredici anni — l'insegnante, secondo quanto riportato, ha dichiarato di volerlo perdonare e di aver avuto paura; a Terzigno, stesso giorno, un quattordicenne è stato trovato con un coltello da cucina nello zaino. La notizia domina le prime pagine e produce il coro prevedibile: più sicurezza, metal detector, sorveglianza, tolleranza zero. La causa strutturale rimossa è quella che nessuno vuole affrontare perché non ha un colpevole singolo da esporre: un sistema di istruzione sottofinanziato, classi sovraffollate, servizi di psicologia scolastica ridotti all'osso da tagli decennali, famiglie in difficoltà economica crescente che scaricano sulla scuola un disagio che la scuola non ha gli strumenti per gestire. Il villain di comodo è lo studente — tredici anni — mentre il dibattito si esaurisce in una settimana senza toccare le cause. L'indignazione a costo zero ha già trovato i suoi protagonisti: politici di ogni schieramento che chiedono provvedimenti, sapendo che non verranno adottati quelli strutturali che costano davvero.",
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0"
+        }
+      ]
+    },
+    {
       "data": "2026-09-17",
       "post": [
         {
@@ -2952,92 +3066,7 @@
           "post_sito": "Dal 7 agosto l'aeroporto di Catania — quinto scalo italiano per traffico, oltre 12 milioni di passeggeri l'anno — è sostanzialmente fermo a causa dell'eruzione dell'Etna: 700 voli cancellati, 630 dirottati, una stima di 500mila passeggeri coinvolti e danni al turismo locale calcolati da Assoesercenti tra i 12 e i 24 milioni di euro. La riapertura, prorogata più volte, è al momento fissata per le 15 di oggi — con riserva, perché il vulcano non ha ricevuto il memo. La domanda che nessuno pone mai è semplice: l'aeroporto di Catania è stato costruito e ampliato nel tempo a 32 chilometri dall'Etna, il vulcano più attivo d'Europa, che erutta in media 200 volte l'anno. Ogni chiusura produce danni milionari, sostenuti in parte dai contribuenti. Le compagnie aeree che operano sullo scalo — Ryanair, EasyJet, Wizz Air — non rimborsano i costi indiretti ai passeggeri e in molti casi rimandano a se stessi l'organizzazione dei trasferimenti alternativi. Intanto chi guadagna davvero sono gli scali concorrenti: Palermo, Trapani e Comiso hanno assorbito traffico e introiti straordinari in questi nove giorni. Il vulcano, almeno, è onesto: avvisa sempre. Sono gli uomini che fingono di non sentire."
         }
       ]
-    },
-    {
-      "data": "2026-08-14",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Russia blocca il grano ucraino nel Mar Nero: terzo del commercio globale a rischio",
-          "slug": "russia-blocca-grano-ucraino-mar-nero-crisi-alimentare",
-          "tag": [
-            "ucraina",
-            "mar-nero",
-            "grano",
-            "sicurezza-alimentare"
-          ],
-          "evidenza": true,
-          "fonte": "Il Post / Il Foglio / Il Sole 24 Ore",
-          "cerca_url": "https://www.google.com/search?q=russia+blocca+grano+ucraino+Mar+Nero+2026",
-          "post_x": "La Russia bombarda i porti ucraini e blocca il grano. Tutti piangono per Kiev. Nessuno nomina i fondi speculativi che scommettono sui futures cerealicoli a 237€/t. La fame degli altri, borsa permettendo. #MarNero #Grano",
-          "post_sito": "La Russia sta bombardando sistematicamente i porti ucraini sul Mar Nero, con il traffico commerciale nei tre principali scali — Odessa, Chornomorsk e Yuzhne — descritto come letteralmente azzerato: Maersk ha sospeso i servizi dirottando le merci su Costanza, in Romania. L'Ucraina fornisce circa il 6% delle esportazioni globali di grano e l'11% di mais, e un blocco prolungato potrebbe causare un'impennata dei prezzi alimentari mondiali che colpirebbe soprattutto Africa, Medio Oriente e Asia. I futures europei sono già tornati a correre: Parigi ha toccato 237,25 euro a tonnellata, con rincari stimati fino al 20%. Chi ci guadagna? Non cercatelo sui fronti di guerra: cercatelo nei trading desk delle commodity, nei fondi speculativi che hanno aperto posizioni lunghe sul grano mesi fa, e nei paesi concorrenti — USA, Canada, Australia — che riempiono i vuoti di mercato con le proprie esportazioni. Il contesto rimosso: nel 2022 accadde esattamente la stessa cosa, e allora Russia e Ucraina firmarono in fretta un accordo sul grano — mediato dalla Turchia — non per spirito umanitario, ma perché entrambe dipendevano da quelle rotte commerciali. Oggi quella mediazione non esiste più, e nessuno la propone."
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Meloni annuncia manovra da 30 miliardi: meno tasse al ceto medio, ma il conto lo fa Bruxelles",
-          "slug": "manovra-2027-meloni-30-miliardi-irpef-flessibilita-ue",
-          "tag": [
-            "manovra-2027",
-            "irpef",
-            "meloni",
-            "deficit"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Il Sole 24 Ore / Gazzetta del Mezzogiorno",
-          "cerca_url": "https://www.google.com/search?q=manovra+2027+Meloni+30+miliardi+taglio+IRPEF+flessibilita+UE",
-          "post_x": "Meloni promette meno tasse prima delle elezioni. 30 miliardi? La metà arriva chiedendo flessibilità all'Europa — quella stessa Europa che demonizza nei comizi. Il ceto medio risparmia 1.000 euro. I fondi prestatori incassano gli interessi. #Manovra2027",
-          "post_sito": "Il governo Meloni ha ufficialmente aperto il cantiere della Legge di Bilancio 2027 — l'ultima di questa legislatura, con le elezioni all'orizzonte — puntando a una manovra che potrebbe superare i 30 miliardi di euro, in parte grazie alla clausola di flessibilità europea su difesa ed energia, per un totale di 35 miliardi nel triennio. L'obiettivo dichiarato è il taglio dell'IRPEF per il ceto medio: portare dal 43% al 33% l'aliquota tra 50 e 60mila euro, con un risparmio massimo stimato in circa 1.000 euro annui per il contribuente — circa 83 euro al mese. Il vero mandante di questa decisione non è la solidarietà fiscale: è il calendario elettorale. La stessa coalizione che per anni ha predicato il rigore dei conti e attaccato Bruxelles ora si presenta in Parlamento chiedendo all'Europa il permesso di fare più deficit. Chi ci guadagna davvero? Le banche e i fondi che sottoscrivono il debito pubblico aggiuntivo: ogni punto di scostamento di bilancio vale miliardi di interessi, pagati dai contribuenti futuri. Salvini intanto propone di tassare gli utili delle banche — le stesse banche che reggono il sistema. Il teatrino continua."
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Germania: prezzi all'ingrosso +5,3% annuo a luglio, PIL europeo atteso all'1%",
-          "slug": "germania-prezzi-ingrosso-pil-ue-agosto-2026",
-          "tag": [
-            "germania",
-            "inflazione",
-            "pil-ue",
-            "prezzi-ingrosso"
-          ],
-          "evidenza": false,
-          "fonte": "Il Sole 24 Ore / Borsa Italiana / Teleborsa",
-          "cerca_url": "https://www.google.com/search?q=Germania+prezzi+ingrosso+luglio+2026+PIL+UE",
-          "post_x": "Germania: prezzi all'ingrosso +5,3% annuo. PIL UE atteso all'1%. Le banche centrali festeggiano la \"stabilizzazione\". I cittadini festeggiano che il carrello della spesa non è ancora sparito. Per ora. #Inflazione #EconomiaUE",
-          "post_sito": "I dati macroeconomici di questa mattina raccontano un'Europa in bilico: la Germania registra prezzi all'ingrosso in crescita del 5,3% su base annua a luglio, mentre il PIL dell'Unione Europea è atteso in rialzo dell'1% annuo nel secondo trimestre — un rimbalzo rispetto allo zero del trimestre precedente, salutato come ripresa. Ma c'è un problema di narrazione: la crescita del PIL europeo viene presentata come segnale di salute, mentre i prezzi alla produzione che crescono del 5,3% in Germania si trasmettono inevitabilmente ai prezzi al consumo nei prossimi mesi. Il contesto rimosso: la Germania — motore economico europeo — è in affanno strutturale da quasi due anni, tra la crisi dell'automotive legata alla concorrenza cinese sull'elettrico e i costi energetici ancora elevati dopo il blocco delle forniture russe. Chi ci guadagna dalla retorica della \"ripresa\"? Le istituzioni finanziarie che vendono ottimismo agli investitori mentre il potere d'acquisto reale delle famiglie europee continua a erodersi silenziosamente. I numeri della fiducia dei consumatori americani, attesi nel pomeriggio a 54,4 punti — livelli da recessione pre-2008 — completano il quadro che i comunicati stampa preferiscono non mostrare."
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Sara Curtis: oro e doppio record mondiale nei 50 dorso agli Europei di Parigi",
-          "slug": "sara-curtis-oro-record-mondiale-50-dorso-europei-nuoto-parigi-2026",
-          "tag": [
-            "nuoto",
-            "sara-curtis",
-            "record-mondiale",
-            "europei-2026"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Eurosport / Il Post",
-          "cerca_url": "https://www.google.com/search?q=Sara+Curtis+oro+record+mondiale+50+dorso+Europei+nuoto+Parigi+2026",
-          "post_x": "Sara Curtis, 19 anni, vince l'oro e batte due volte il record mondiale dei 50 dorso in 24 ore. L'Italia dello sport esiste eccome — quando non è impegnata a parlare di calcio. #SaraCurtis #Nuoto #Europei2026",
-          "post_sito": "Sara Curtis, 19 anni, nuotatrice piemontese, ha vinto la medaglia d'oro nei 50 metri dorso agli Europei di nuoto di Parigi con il tempo di 26\"56 — abbassando il record del mondo che lei stessa aveva stabilito nella semifinale del giorno prima, in 26\"63. È la prima italiana nella storia a vincere l'oro europeo in questa specialità in vasca lunga, portando l'Italia provvisoriamente in vetta al medagliere con 10 ori e 32 medaglie complessive. La notizia è clamorosa, ed è finita sulle prime pagine — cosa che non sempre accade al nuoto. Vale la pena notare la differenza di trattamento: quando vince il calcio, anche una vittoria di pre-stagione occupa giorni di spazio mediatico; quando il nuoto produce un record mondiale, servono due record consecutivi e una foto del presidente del Consiglio in videochiamata per entrare nell'agenda. Il sistema economico dello sport italiano continua a succhiare risorse pubbliche verso il calcio — le sponsorizzazioni, i diritti televisivi, i contributi federali — mentre Curtis ha dovuto trasferirsi all'Università della Virginia per allenarsi ad alti livelli. Il paradosso perfetto: batte il mondo nuotando per l'Italia, ma per farlo si è allenata in America."
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Lavitola confessa: «Sono io il mandante dell'attentato a Ranucci, l'ho fatto per il suo bene»",
-          "slug": "lavitola-confessa-mandante-attentato-ranucci-movente-scorta",
-          "tag": [
-            "ranucci",
-            "lavitola",
-            "attentato",
-            "report-rai"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Il Fatto Quotidiano / tp24.it",
-          "cerca_url": "https://www.google.com/search?q=Lavitola+confessa+mandante+attentato+Ranucci+2026",
-          "post_x": "Lavitola confessa: «Ho fatto mettere la bomba a casa di Ranucci per il suo bene, per fargli alzare la scorta». Il legale di Ranucci: «Delirante». Noi: concordiamo. Ma i dubbi restano tutti. #Ranucci #Lavitola #Report",
-          "post_sito": "Valter Lavitola, imprenditore ed ex faccendiere, ha confessato davanti al GIP di Roma di essere il mandante dell'attentato esplosivo contro il conduttore di Report Sigfrido Ranucci, avvenuto nell'ottobre 2025 davanti alla sua abitazione di Pomezia: la bomba fu piazzata dal reparto pressatura polveri dello stabilimento, secondo le prime ricostruzioni. La versione di Lavitola è questa: avrebbe organizzato l'azione per costringere le autorità ad aumentare la scorta a Ranucci, che riteneva in pericolo. Il problema è che il movente non convince nessuno — né il legale di Ranucci, che lo definisce «delirante», né gli inquirenti, che fino a ieri avevano ricostruito un movente politico-mediatico: gonfiare la popolarità del giornalista per favorirne una candidatura. La domanda che il coro mediatico non pone con sufficiente forza è un'altra: l'avvocato di Lavitola, alla domanda se Ranucci sapesse dell'attentato, ha risposto con un eloquente «non rispondo». Ranucci resta parte offesa ma non è escluso che nelle prossime settimane venga riconvocato in Procura. Nel frattempo Fratelli d'Italia attacca e la RAI — straordinaria tempestività — accusa Ranucci di averla «danneggiata». Chi ci guadagna dall'indebolimento di Report, la trasmissione d'inchiesta di punta della Rai? La domanda vale almeno quanto la confessione."
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-09-17T12:39:07.238505+00:00"
+  "ultimo_aggiornamento": "2026-09-19T11:59:08.288115+00:00"
 }
