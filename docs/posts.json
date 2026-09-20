@@ -1,6 +1,120 @@
 {
   "edizioni": [
     {
+      "data": "2026-09-20",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Eurofighter italiano colpito in Arabia Saudita: gli Houthi avvertono Roma",
+          "slug": "eurofighter-italiano-colpito-arabia-saudita-houthi-avvertono-roma",
+          "tag": [
+            "houthi",
+            "mar-rosso",
+            "aspides",
+            "medio-oriente"
+          ],
+          "evidenza": true,
+          "fonte": "ANSA / Il Messaggero",
+          "cerca_url": "https://www.google.com/search?q=Eurofighter+italiano+colpito+Arabia+Saudita+Houthi+settembre+2026",
+          "post_x": "Un drone Houthi abbatte un Eurofighter italiano da 100 milioni in Arabia Saudita. Roma chiede più navi. Gli Houthi chiedono: «Cosa ci fanno i vostri caccia da noi?». Domanda lecita. #Aspides #MarRosso",
+          "post_sito": "Un drone ha centrato un Eurofighter F-2000 italiano fermo nella base saudita di Ta'if: danni ingenti, nessun ferito, ma oltre cento milioni di euro di contributo italiano alla causa saudita letteralmente in fumo. La narrativa dominante parla di «aggressione inaccettabile» e di missione «difensiva»; quello che si tace è che l'Italia è presente in Arabia Saudita dall'operazione Task Force Arabia, in supporto attivo alla difesa dei cieli di Riad, cioè dall'altra parte di un conflitto che dura dal 2015 e ha già causato centinaia di migliaia di morti yemeniti. Gli Houthi, con rara schiettezza diplomatica, lo hanno detto chiaro all'ANSA: «Non siamo in guerra con l'Italia, ma cosa ci fanno i vostri aerei a sostegno della guerra di Riad contro di noi?». Beneficio taciuto: il potenziamento della missione Aspides, invocato dal ministro Crosetto, significa più commesse per la difesa europea — un settore che negli ultimi due anni ha visto i bilanci militari italiani crescere verso il 2% del PIL, con l'industria bellica nazionale tra i principali beneficiari. Nel frattempo il gasolio sfiora i 2,9 euro al litro con punte a 3,1, e il rischio di uno choc petrolifero da chiusura di Hormuz non compare nei comunicati di Palazzo Chigi.",
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La posizione del governo italiano",
+              "testo": "Il ministro della Difesa Guido Crosetto ha confermato che un Eurofighter F-2000 è stato danneggiato nella base King Fahd di Ta'if, escludendo feriti tra il personale italiano. Crosetto ha chiesto all'Alta rappresentante UE Kaja Kallas il potenziamento della missione Aspides e l'invio di navi aggiuntive da altri Paesi membri. Il governo sostiene che la presenza italiana in Arabia Saudita è inquadrata nell'operazione multilaterale a tutela della libertà di navigazione e della sicurezza dei partner nella regione."
+            },
+            {
+              "etichetta": "La posizione degli Houthi",
+              "testo": "Il funzionario del ministero dell'Informazione del governo Houthi a Sanaa, Muhammad Mansur, ha dichiarato all'ANSA che la milizia yemenita non è in guerra con l'Italia e non intende coinvolgerla nel conflitto. Ha tuttavia contestato la presenza dei caccia italiani in Arabia Saudita, affermando che contribuiscono alla difesa di Riad nell'ambito del conflitto con lo Yemen. Gli Houthi inquadrano le loro azioni come resistenza armata all'aggressione saudita, che a loro dire include oltre 700 raid. L'Arabia Saudita ha proposto una tregua di due settimane."
+            },
+            {
+              "etichetta": "Il nodo legale e parlamentare",
+              "testo": "L'opposizione ha sollevato dubbi sulla presenza italiana in Arabia Saudita nell'ambito dell'operazione Task Force Arabia, distinta dalla missione UE Aspides nel Mar Rosso. I due mandati hanno basi giuridiche e obiettivi differenti. Il parlamento non ha finora discusso apertamente i dettagli dell'impegno nella base di Ta'if, e l'episodio riapre la questione del controllo democratico sulle missioni militari all'estero."
+            },
+            {
+              "etichetta": "Il contesto economico-energetico",
+              "testo": "I Pasdaran hanno annunciato di aver colpito una petroliera nello Stretto di Hormuz. L'eventuale chiusura dello stretto avrebbe conseguenze dirette sui prezzi energetici globali: il gasolio è già vicino ai 2,9 euro al litro in Italia con punte a 3,1 euro. La missione Aspides ha elevato il livello di allerta delle proprie navi. La crisi tocca interessi energetici europei diretti, dato che una quota significativa delle importazioni petrolifere dell'UE transita per le rotte del Golfo e del Mar Rosso."
+            }
+          ],
+          "implicazioni": "L'escalation nel Golfo Persico e nel Mar Rosso potrebbe spingere l'Italia a ridefinire il perimetro e il mandato delle proprie missioni militari nella regione, con possibili implicazioni sul bilancio della Difesa e sulle forniture energetiche. L'attesa revisione del deficit ISTAT del 22 settembre si svolge in un contesto in cui il costo dell'energia e quello delle missioni militari premono simultaneamente sui conti pubblici. Il confronto con Bruxelles su PNRR e procedura per disavanzo eccessivo potrebbe complicarsi ulteriormente se la spesa militare dovesse aumentare.",
+          "redattore": "Il Corrispondente Estero 1.0"
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Conte e il «mandato Nova»: il M5S punta a non diluire il programma e riaprire il cantiere del centrosinistra",
+          "slug": "conte-mandato-nova-m5s-centrosinistra-programma",
+          "tag": [
+            "m5s",
+            "conte",
+            "centrosinistra",
+            "opposizione"
+          ],
+          "evidenza": false,
+          "fonte": "Sarno Notizie / La Stampa",
+          "cerca_url": "https://www.google.com/search?q=Conte+mandato+Nova+M5S+centrosinistra+settembre+2026",
+          "post_x": "Conte dice che il programma di «Nova» non va «diluito». Bello. Peccato che Nova sia il congresso del M5S, non un governo. Il centrosinistra è ancora a discutere se fare coalizione. L'Italia aspetta. #M5S #Centrosinistra",
+          "post_sito": "Giuseppe Conte ha dichiarato di considerare il programma emerso dal percorso congressuale «Nova» come un mandato politico vincolante, da non diluire nel confronto con il Partito Democratico e le altre forze del centrosinistra. La narrativa racconta di un'opposizione che si rafforza e si compatta; quello che il racconto ufficiale rimuove è che il «mandato» in questione viene da un processo interno a un partito, non da un voto popolare, e che le differenze programmatiche — a partire dalla politica estera, con il M5S storicamente più cauto sull'invio di armi in zone di conflitto — restano irrisolte proprio mentre l'Italia si trova militarmente coinvolta nel Mar Rosso. Il copione è collaudato: l'opposizione annuncia unità, litigano sulle virgole dei programmi, e nel frattempo chi governa porta avanti i propri dossier indisturbato. Chi ci guadagna da questa discussione interna prolungata? Chi non vuole un'opposizione coesa che possa davvero mettere in discussione la missione Task Force Arabia o la copertura in deficit del bollo auto con fondi PNRR.",
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0"
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Bollo auto esente nel 2027 per le piccole cilindrate: 2,3 miliardi coperti con PNRR inutilizzato, ma Bruxelles non ci sta",
+          "slug": "bollo-auto-esenzione-2027-pnrr-bruxelles-giorgetti",
+          "tag": [
+            "bollo-auto",
+            "pnrr",
+            "giorgetti",
+            "deficit"
+          ],
+          "evidenza": false,
+          "fonte": "Il Sole 24 Ore / Adnkronos",
+          "cerca_url": "https://www.google.com/search?q=bollo+auto+esenzione+2027+PNRR+Giorgetti+Bruxelles+settembre+2026",
+          "post_x": "Il governo abolisce il bollo auto per un anno con 2,3 miliardi di PNRR «non utilizzati». Giorgetti: «Sono soldi nostri». Bruxelles: «Valuteremo». Traduzione: aspettiamo martedì quando l'ISTAT pubblica il deficit. #PNRR #BolloAuto",
+          "post_sito": "Il Consiglio dei Ministri ha approvato l'esenzione una tantum dal bollo auto per il 2027, limitata ai veicoli fino a 80 kW di potenza e alle moto: la copertura, pari a circa 2.293,5 milioni di euro, dovrebbe arrivare da risparmi maturati su prestiti PNRR non utilizzati entro il 30 giugno 2026. Il ministro Giorgetti li chiama «soldi nazionali» che l'Italia può usare «come meglio pare»; la Commissione europea ha risposto più sobriamente che «i pagamenti agli Stati membri vengono effettuati sulla base delle tappe fondamentali e degli obiettivi realizzati» — e valuterà la misura nel semestre europeo 2027. Eufemismo di potere: presentare fondi di un piano di investimento strutturale come risparmi liberamente disponibili trasforma un debito contratto per modernizzare il Paese in carburante elettorale. Il dato più atteso arriverà martedì 22 settembre, quando l'ISTAT aggiornerà il rapporto deficit/PIL 2025, attualmente al 3,1%: se scende sotto il 3%, l'Italia potrebbe uscire dalla procedura per disavanzo eccessivo — e il governo avrebbe molta più libertà di manovra in vista della legge di bilancio. Mandante invisibile: la tempistica dell'annuncio, a pochi giorni dalla rilevazione ISTAT, non è casuale.",
+          "editoriale": false,
+          "redattore": "L'Analista 1.0"
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Mondiali di ciclismo Montreal 2026: Ganna sfida Evenepoel nella cronometro élite",
+          "slug": "mondiali-ciclismo-montreal-2026-ganna-evenepoel-cronometro",
+          "tag": [
+            "ciclismo",
+            "mondiali",
+            "ganna",
+            "evenepoel"
+          ],
+          "evidenza": false,
+          "fonte": "OA Sport / Olympics.com",
+          "cerca_url": "https://www.google.com/search?q=Mondiali+ciclismo+2026+Montreal+cronometro+Ganna+Evenepoel+risultato",
+          "post_x": "Filippo Ganna contro Remco Evenepoel, cronometro mondiale a Montreal. 39,2 km contro il tempo, e contro tre anni di sconfitte consecutive con lo stesso avversario. Diretta gratis su RaiSport e RaiPlay. Stasera si fa sul serio. #CiclismoMondiali2026",
+          "post_sito": "Oggi a Montreal si assegna il primo oro dei Mondiali UCI di ciclismo su strada 2026: la cronometro individuale di 39,2 km con arrivo al Parc Jeanne-Mance. Filippo Ganna — campione italiano per la settima volta negli ultimi otto anni, vincitore alla Dwars door Vlaanderen e alla crono del Giro d'Italia 2026 — affronta Remco Evenepoel, che ha vinto le ultime tre edizioni consecutive e punta al poker iridato, che lo metterebbe accanto a Cancellara e Tony Martin. La cronometro è trasmessa gratuitamente su RaiSport e in streaming su RaiPlay dalle 18:40. Per una volta, un appuntamento sportivo di primo piano accessibile senza dover sborsare un abbonamento. Il percorso, con tratti veloci ma un finale in salita al 6,1%, potrebbe favorire Ganna rispetto alle edizioni precedenti dove il dislivello eccessivo lo aveva penalizzato. Oltre al duello principale, l'Italia schiera anche Mattia Cattaneo, puntando a occupare due posizioni di lusso su un podio che il Belgio vorrebbe tutto per sé.",
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0"
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Professoressa accoltellata a Roma da un alunno di 13 anni: si indaga su possibile istigazione via Telegram",
+          "slug": "professoressa-accoltellata-roma-13enne-telegram-istigazione",
+          "tag": [
+            "scuola",
+            "violenza-minori",
+            "social-network",
+            "sicurezza"
+          ],
+          "evidenza": false,
+          "fonte": "Il Fatto Quotidiano / ANSA",
+          "cerca_url": "https://www.google.com/search?q=professoressa+accoltellata+Roma+13enne+Telegram+istigazione+settembre+2026",
+          "post_x": "Un 13enne accoltella la prof a Roma, aveva aperto una diretta social prima di farlo. Il ministro Valditara chiede i metal detector. Nessuno chiede perché un bambino compra coltelli da sub con la carta di credito della madre senza che nessuno se ne accorga. #ScuolaItaliana",
+          "post_sito": "Isabella Marsilio, 66 anni, docente alla scuola media Giovanni Verga di Centocelle, è stata accoltellata al fianco da un alunno di 13 anni durante la prima ora di lezione: spray urticante al volto, poi tre fendenti, fermati da un compagno di classe. La professoressa è stata dimessa con sette giorni di prognosi. Le indagini si concentrano su una possibile istigazione via Telegram: il ragazzo aveva aperto una diretta social prima dell'aggressione, e i carabinieri cercano conferme su una videochiamata con cinque account. I coltelli erano stati acquistati — online, con la carta di credito della madre — senza che nessuna delle reti di controllo previste (scuola, famiglia, piattaforme di e-commerce) abbia rilevato nulla. La causa strutturale rimossa dal dibattito pubblico è questa: il coro mediatico si è diviso tra chi vuole i metal detector nelle scuole e chi denuncia i social, mentre la catena di fallimenti sistemici che ha reso possibile il gesto — dall'assenza di supporto psicologico scolastico al monitoraggio degli acquisti online da parte di minori — resta sullo sfondo. Il movente apparente sono i debiti scolastici da recuperare: un ragazzo di 13 anni che arriva a questo punto ha attraversato molti presidi istituzionali senza che nessuno intercettasse la crisi.",
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0"
+        }
+      ]
+    },
+    {
       "data": "2026-09-19",
       "post": [
         {
@@ -2981,92 +3095,7 @@
           "post_sito": "Sull'isola di Flores, in Indonesia, proseguono i soccorsi per il terremoto di magnitudo 7.7 che sabato 15 agosto ha causato la morte di almeno 47 persone e il ferimento di un centinaio, con più di 900 abitazioni gravemente danneggiate — oltre a scuole, chiese e strutture mediche — secondo i dati preliminari dell'agenzia nazionale per le emergenze BNPB. Il bilancio è ancora provvisorio e quasi certamente destinato a salire. Il racconto delle prime ore si concentra, correttamente, sul numero delle vittime. Meno correttamente, sparisce il contesto strutturale: Flores e l'intera provincia di Nusa Tenggara Orientale sono tra le aree più povere dell'Indonesia, con infrastrutture antisismiche quasi inesistenti nonostante il Paese si trovi stabilmente sulla Cintura di Fuoco del Pacifico. Chi ci guadagna dalla povertà sismica di queste isole? Le compagnie assicurative internazionali non vendono polizze a chi non può permettersele, e le agenzie di ricostruzione — spesso controllate da fondi anglosassoni e dalle stesse organizzazioni internazionali che tagliano i «fondi per le emergenze» — arriveranno nei prossimi mesi con contratti da centinaia di milioni di dollari. Anche questo è il volto del capitalismo delle catastrofi."
         }
       ]
-    },
-    {
-      "data": "2026-08-15",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Qusra, italiani espulsi dall'IDF mentre il mondo guarda",
-          "slug": "qusra-italiani-espulsi-idf-coloni-cisgiordania",
-          "tag": [
-            "cisgiordania",
-            "coloni-israeliani",
-            "politica-estera",
-            "medio-oriente"
-          ],
-          "evidenza": true,
-          "fonte": "ANSA / Il Post / Il Sole 24 Ore",
-          "cerca_url": "https://www.google.com/search?q=italiani+evacuati+Qusra+Cisgiordania+coloni+israeliani+agosto+2026",
-          "post_x": "5 italiani «evacuati» dall'IDF a Qusra. I coloni assediano case palestinesi per giorni, tagliano acqua e luce. Arriva l'esercito israeliano: e allontana gli attivisti, non i coloni. Dettaglio. #Qusra #Cisgiordania",
-          "post_sito": "Cinque cittadini italiani si trovavano nel villaggio palestinese di Qusra, in Cisgiordania, quando un gruppo di coloni israeliani ha circondato le abitazioni, tagliato acqua ed elettricità e impedito ogni accesso. L'esercito israeliano è intervenuto — ma non per rimuovere i coloni: ha dichiarato l'area «zona militare chiusa» fino a marzo 2027 e ha allontanato gli attivisti italiani. La versione ufficiale israeliana parla di «uscita tranquilla»; il sindaco di Qusra e l'agenzia palestinese Wafa parlano di espulsione con la forza. Nei primi sei mesi del 2026 gli attacchi attribuiti a coloni in Cisgiordania sono stati 660, il 63% in più rispetto allo stesso periodo dell'anno precedente: un'escalation sistematica che il racconto mediatico italiano riduce a «incidente». Chi ci guadagna? Le colonie sono un'industria immobiliare e agricola miliardaria, sostenuta da fondazioni di donatori internazionali e da un sistema politico israeliano in cui i partiti dei coloni siedono al governo. Il fatto che perfino l'ambasciatore americano Mike Huckabee abbia definito l'assedio «terrorismo» e che Londra abbia ricevuto gli attacchi del presidente israeliano la dice lunga su quanto questo governo di Tel Aviv stia tirando la corda — e su quanto i suoi alleati occidentali stiano fingendo di non vedere."
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Ranucci e Report: la vittima scomoda che imbarazza la Rai di governo",
-          "slug": "ranucci-report-rai-comitato-etico-lavitola",
-          "tag": [
-            "rai",
-            "report",
-            "ranucci",
-            "lavitola"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Adnkronos / Il Fatto Quotidiano",
-          "cerca_url": "https://www.google.com/search?q=Ranucci+Report+Rai+comitato+etico+Lavitola+agosto+2026",
-          "post_x": "Lavitola in carcere come mandante dell'attentato CONTRO Ranucci. Il gip: Ranucci è parte lesa. La Rai intanto valuta se allontanarlo. La logica del potere: quando non riesci a zittire il giornalista, aspetti che si spara da solo. #Report #Rai",
-          "post_sito": "Valter Lavitola è in carcere come presunto mandante dell'attentato dinamitardo all'abitazione di Sigfrido Ranucci, avvenuto nell'ottobre 2025 a Pomezia. Il GIP è esplicito: Ranucci è parte lesa, non complice. Eppure il Comitato Etico della Rai — convocato su impulso dell'AD Giampaolo Rossi — sta valutando se il conduttore di Report abbia violato il codice aziendale, sulla base di una mail girata e di giudizi interni. Tra le ipotesi sul tavolo: sostituirlo con Federico Ruffo. Salvini, nel frattempo, ha già chiesto la sua testa. Il copione è vecchio quanto la tv di Stato: un giornalista che dà fastidio al potere viene circondato non da difensori, ma da una corte di emuli ansiosi di prenderne il posto e di dirigenti che parlano di «danno reputazionale per l'azienda» — come se l'azienda fosse stata colpita dalla bomba e non lui. Il contesto che si tace: Report negli anni ha indagato Berlusconi, Salvini, Renzi e Meloni. Il fatto che oggi siano i vertici Rai — nominati dal governo — a decidere del suo futuro non è un dettaglio procedurale. È la storia della tv pubblica italiana, che si ripete puntuale come l'Etna."
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Manovra 2027, Salvini tassa le banche: ma Forza Italia dice no (di nuovo)",
-          "slug": "manovra-2027-salvini-tassa-banche-forza-italia",
-          "tag": [
-            "manovra-2027",
-            "banche",
-            "lega",
-            "forza-italia"
-          ],
-          "evidenza": false,
-          "fonte": "Il Sole 24 Ore / Money.it / RotoNotizie",
-          "cerca_url": "https://www.google.com/search?q=manovra+2027+Salvini+tassa+banche+Forza+Italia+agosto+2026",
-          "post_x": "Ogni estate uguale: Salvini vuole tassare le banche, Tajani dice no. Nel 2025 uguale. Nel 2024 uguale. Alla fine si trova un compromesso che non tassa davvero nessuno. E le banche chiudono l'anno con 30 miliardi di utili. Tradizione italiana. #Manovra2027",
-          "post_sito": "Come ogni agosto che si rispetti dall'insediamento del governo Meloni, Salvini torna a bussare alla porta delle banche: questa volta propone un contributo triennale del 5% sugli utili delle dieci maggiori banche italiane, per un possibile gettito fino a 4,5 miliardi. Forza Italia — che rappresenta l'ala più organicamente legata al mondo bancario e finanziario — si oppone, come sempre, definendo ogni prelievo straordinario un eccesso punitivo. Il Sole 24 Ore ricorda che questa è l'ultima manovra prima della fine della legislatura: alta tensione elettorale garantita. Il dettaglio che il racconto dominante omette: le banche italiane stanno macinando profitti record grazie ai tassi di interesse che — dopo anni di costo del denaro a zero — hanno reso i mutui e i prestiti molto più redditizi per gli istituti e molto più pesanti per le famiglie. Quegli utili record non sono frutto di particolare genio manageriale, ma di una congiuntura macroeconomica che ha scaricato il costo dell'inflazione sui debitori. Tassarli non è sovietismo, come disse Tajani: è redistribuzione. Ma nell'Italia di Ferragosto, tra un'eruzione e un caso Ranucci, questo si discuterà a settembre. O forse mai."
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Ferragosto d'oro: Tamberi, Battocletti e Quadarella, l'Italia domina l'Europa",
-          "slug": "tamberi-battocletti-quadarella-europei-atletica-nuoto-oro",
-          "tag": [
-            "europei-atletica",
-            "europei-nuoto",
-            "tamberi",
-            "battocletti"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / OA Sport / La Notiziagiornale",
-          "cerca_url": "https://www.google.com/search?q=Tamberi+Battocletti+Quadarella+oro+europei+atletica+nuoto+agosto+2026",
-          "post_x": "Tamberi 2.32 e quarto oro europeo. Battocletti: doppietta 5.000-10.000 per la seconda volta di fila. Quadarella: quarto titolo europeo nei 1500 sl. Nel frattempo l'Italia del calcio discute di Coppa Italia tra Udinese e Padova. L'atletica non esiste, finché non vince. #Europei2026",
-          "post_sito": "Nella notte di Ferragosto, mentre l'Italia si divideva tra code in autostrada e aeroporto di Catania chiuso, lo sport azzurro regalava una serata da manuale: Gianmarco Tamberi ha conquistato il quarto oro europeo nel salto in alto con 2,32 metri, Nadia Battocletti ha centrato la doppietta 5.000-10.000 per la seconda edizione continentale consecutiva — prima donna nella storia a riuscirci — e Simona Quadarella ha vinto il quarto titolo europeo consecutivo nei 1.500 stile libero. L'Italia ha raggiunto 10 medaglie agli Europei di atletica di Birmingham con 5 ori. Il dato che il racconto sportivo mainstream preferisce non sottolineare: atletica leggera e nuoto sono sport che vivono di finanziamenti pubblici, centri federali, strutture che costano. Ogni volta che un governo taglia i fondi allo sport di base, riduce esattamente il bacino da cui escono le future Battocletti. I campioni vengono celebrati come eroi individuali; il sistema che li ha prodotti — e che andrebbe mantenuto — rimane invisibile, fino alla prossima medaglia."
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Etna spegne Ferragosto: 700 voli cancellati, 500mila passeggeri nel caos",
-          "slug": "etna-aeroporto-catania-chiuso-ferragosto-voli-cancellati",
-          "tag": [
-            "etna",
-            "aeroporto-catania",
-            "emergenza",
-            "ferragosto"
-          ],
-          "evidenza": false,
-          "fonte": "Il Post / L'Espresso / Giornale di Sicilia",
-          "cerca_url": "https://www.google.com/search?q=Etna+aeroporto+Catania+chiuso+ferragosto+2026+voli+cancellati",
-          "post_x": "L'Etna erutta da 9 giorni. 700 voli cancellati, circa 500mila passeggeri coinvolti. Assoesercenti stima 12-24 milioni di danni al turismo. L'aeroporto di Catania è il quinto d'Italia e sorge a 32 km dal vulcano più attivo d'Europa. Scelta coraggiosa. #Etna #Catania",
-          "post_sito": "Dal 7 agosto l'aeroporto di Catania — quinto scalo italiano per traffico, oltre 12 milioni di passeggeri l'anno — è sostanzialmente fermo a causa dell'eruzione dell'Etna: 700 voli cancellati, 630 dirottati, una stima di 500mila passeggeri coinvolti e danni al turismo locale calcolati da Assoesercenti tra i 12 e i 24 milioni di euro. La riapertura, prorogata più volte, è al momento fissata per le 15 di oggi — con riserva, perché il vulcano non ha ricevuto il memo. La domanda che nessuno pone mai è semplice: l'aeroporto di Catania è stato costruito e ampliato nel tempo a 32 chilometri dall'Etna, il vulcano più attivo d'Europa, che erutta in media 200 volte l'anno. Ogni chiusura produce danni milionari, sostenuti in parte dai contribuenti. Le compagnie aeree che operano sullo scalo — Ryanair, EasyJet, Wizz Air — non rimborsano i costi indiretti ai passeggeri e in molti casi rimandano a se stessi l'organizzazione dei trasferimenti alternativi. Intanto chi guadagna davvero sono gli scali concorrenti: Palermo, Trapani e Comiso hanno assorbito traffico e introiti straordinari in questi nove giorni. Il vulcano, almeno, è onesto: avvisa sempre. Sono gli uomini che fingono di non sentire."
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-09-19T11:59:08.288115+00:00"
+  "ultimo_aggiornamento": "2026-09-20T12:28:49.576845+00:00"
 }
