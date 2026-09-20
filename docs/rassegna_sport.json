@@ -1,21 +1,13 @@
 {
-  "generato": "2026-09-20T14:47:09.378041+00:00",
+  "generato": "2026-09-20T19:38:57.035003+00:00",
   "item": [
     {
-      "sottocategoria": "Mente e nicchia",
+      "sottocategoria": "Calcio femminile",
       "tipo": "notizia",
-      "titolo": "Roma incorona i giovani talenti internazionali, l'Abruzzo assegna i titoli tricolori paralimpici",
-      "link": "https://www.gazzetta.it/bocce/17-09-2026/bocce-roma-incorona-i-giovani-talenti-l-abruzzo-assegna-i-tricolori-paralimpici.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-09-17"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Un anno dopo la morte di Franzoso: cos'è cambiato nella sicurezza sugli sci",
-      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/15-09-2026/franzoso-un-anno-sicurezza-sci.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-09-15"
+      "titolo": "Calcio: U.20 femminile, mercoledì la semifinale mondiale con la Spagna",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/calcio-u.20-femminile-mercoledi-la-semifinale-mondiale-con-la-spagna_e086aebc-ccac-469a-9211-0093c2928cbf.html",
+      "fonte": "ANSA Sport",
+      "data_evento": "2026-09-20"
     },
     {
       "sottocategoria": "Squadra",
@@ -40,6 +32,14 @@
       "titolo": "Dalla Nazionale a Miss Italia: Sarah Rizea porta il nuoto artistico alla finale nazionale",
       "link": "https://www.gazzetta.it/Altri-Mondi/19-09-2026/sarah-rizea-a-miss-italia.shtml",
       "fonte": "Gazzetta — Nuoto e Pallanuoto",
+      "data_evento": "2026-09-19"
+    },
+    {
+      "sottocategoria": "Atletica",
+      "tipo": "notizia",
+      "titolo": "Ranking mondiale? Fabbri domina nel peso, Iapichino prima tra pochi giorni. Ma altri azzurri brillano",
+      "link": "https://www.gazzetta.it/Atletica/19-09-2026/ranking-mondiale-fabbri-tamberi-diaz-e-iapichino-tra-i-migliori.shtml",
+      "fonte": "Gazzetta — Atletica",
       "data_evento": "2026-09-19"
     }
   ]
