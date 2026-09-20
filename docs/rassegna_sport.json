@@ -1,6 +1,31 @@
 {
-  "generato": "2026-09-20T09:58:29.162713+00:00",
+  "generato": "2026-09-20T14:47:09.378041+00:00",
   "item": [
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Roma incorona i giovani talenti internazionali, l'Abruzzo assegna i titoli tricolori paralimpici",
+      "link": "https://www.gazzetta.it/bocce/17-09-2026/bocce-roma-incorona-i-giovani-talenti-l-abruzzo-assegna-i-tricolori-paralimpici.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-09-17"
+    },
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Un anno dopo la morte di Franzoso: cos'è cambiato nella sicurezza sugli sci",
+      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/15-09-2026/franzoso-un-anno-sicurezza-sci.shtml",
+      "fonte": "Gazzetta — Sport Invernali",
+      "data_evento": "2026-09-15"
+    },
+    {
+      "sottocategoria": "Squadra",
+      "tipo": "notizia",
+      "titolo": "Basket in carrozzina, Carossino e il sogno olimpico: \"Siamo un gruppo forte, vogliamo i Giochi di Los Angeles\"",
+      "link": "https://www.gazzetta.it/Paralimpici/20-09-2026/basket-in-carrozzina-l-argento-mondiale-e-il-sogno-olimpico-carossino-un-gruppo-forte.shtml",
+      "fonte": "Gazzetta — Paralimpici",
+      "data_evento": "2026-09-20",
+      "paralimpico": true
+    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
@@ -15,30 +40,6 @@
       "titolo": "Dalla Nazionale a Miss Italia: Sarah Rizea porta il nuoto artistico alla finale nazionale",
       "link": "https://www.gazzetta.it/Altri-Mondi/19-09-2026/sarah-rizea-a-miss-italia.shtml",
       "fonte": "Gazzetta — Nuoto e Pallanuoto",
-      "data_evento": "2026-09-19"
-    },
-    {
-      "sottocategoria": "Squadra",
-      "tipo": "notizia",
-      "titolo": "Tris Springboks sugli All Blacks: sono i sudafricani la superpotenza del rugby",
-      "link": "https://www.gazzetta.it/Rugby/15-09-2026/rugby-al-sudafrica-la-greatest-rivalry-con-gli-al-blacks.shtml",
-      "fonte": "Gazzetta — Rugby",
-      "data_evento": "2026-09-15"
-    },
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "Il ranking mondiale? Fabbri domina nel peso. Ma ecco chi sono gli altri azzurri che brillano",
-      "link": "https://www.gazzetta.it/Atletica/19-09-2026/ranking-mondiale-fabbri-tamberi-diaz-e-iapichino-tra-i-migliori.shtml",
-      "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-09-19"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Coppa Davis, doppia sorpresa: la Rep. Ceca elimina gli Usa, fuori anche la Francia con il Canada",
-      "link": "https://www.gazzetta.it/Tennis/Coppa-Davis/19-09-2026/coppa-davis-la-repubblica-ceca-elimina-gli-usa-avanti-austria-e-sud-corea.shtml",
-      "fonte": "Gazzetta — Tennis",
       "data_evento": "2026-09-19"
     }
   ]
