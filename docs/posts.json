@@ -1,6 +1,120 @@
 {
   "edizioni": [
     {
+      "data": "2026-09-21",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "AfD vince in Meclemburgo al 38%, CDU fuori dal parlamento regionale: Merz non si dimette",
+          "slug": "afd-vince-meclemburgo-cdu-fuori-parlamento-merz-non-si-dimette",
+          "tag": [
+            "germania",
+            "afd",
+            "populismo",
+            "elezioni-regionali"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / AGI",
+          "cerca_url": "https://www.google.com/search?q=AfD+vince+Meclemburgo+CDU+fuori+parlamento+regionale+Merz+settembre+2026",
+          "post_x": "L'AfD al 38% in Meclemburgo, la CDU di Merz al 4,9%: fuori dal parlamento regionale per la prima volta in 81 anni. A Berlino vince la sinistra radicale. Tutti a urlare contro l'estrema destra. Nessuno che si chieda cosa ha fatto il centro per meritarselo.",
+          "post_sito": "L'AfD ha ottenuto il 38,2% in Meclemburgo-Pomerania Anteriore, mentre la CDU di Friedrich Merz è precipitata al 4,9% — sotto la soglia del 5% per entrare in parlamento — il peggior risultato nella storia del partito dall'Unione postbellica. A Berlino vince Die Linke col 24,9%. Il coro mediatico imputa tutto alla deriva populista degli elettori dell'Est, come se queste persone avessero semplicemente smesso di ragionare. Ciò che si tace è il contesto: l'Est tedesco sconta ancora oggi una riunificazione fatta a condizioni di resa economica — fabbriche chiuse, salari strutturalmente più bassi, un territorio usato come forza lavoro a basso costo per l'Ovest. Chi ci guadagna dal panico per l'AfD? I partiti di governo, che possono continuare a presentare se stessi come l'unico argine al 'mostro', evitando di rispondere alla domanda più scomoda: trent'anni di gestione del potere in Germania hanno prodotto questo risultato — e chi era al potere in questi trent'anni?",
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "Il dato elettorale",
+              "testo": "Secondo i risultati ufficiali dell'ufficio elettorale regionale, l'AfD ha ottenuto il 38,2% dei voti in Meclemburgo-Pomerania Anteriore, davanti alla SPD con il 35,5%. La CDU del cancelliere Merz si è fermata al 4,9%, restando per la prima volta nella storia del partito fuori da un parlamento regionale tedesco. A Berlino ha vinto Die Linke con il 24,9%, seguita dalla CDU al 19,2% e dall'AfD al 15,8%. Merz ha dichiarato il risultato 'un disastro' assumendosene la responsabilità, ma ha escluso le dimissioni annunciando di voler proseguire con le riforme."
+            },
+            {
+              "etichetta": "Le cause strutturali nei Land dell'Est",
+              "testo": "Il Meclemburgo-Pomerania è uno dei Land più poveri della Germania. Il tasso di disoccupazione è storicamente superiore alla media nazionale, i salari reali restano sotto quelli occidentali e lo spopolamento colpisce le aree rurali da tre decenni. Ricercatori di istituti come il DIW di Berlino hanno documentato un persistente 'divario Est-Ovest' mai completamente colmato dalla riunificazione del 1990. L'avanzata dell'AfD in questi territori — che è più che raddoppiata rispetto al 2021 — viene ricondotta dagli analisti anche al malcontento diffuso per il costo della vita e per politiche percepite come lontane dalle esigenze locali, oltre che a sentimenti anti-immigrazione."
+            },
+            {
+              "etichetta": "Le conseguenze per il governo Merz",
+              "testo": "La doppia sconfitta — in Meclemburgo e a Berlino — aumenta la pressione sul cancelliere federale, i cui indici di gradimento sono in calo da mesi. L'AfD è ora il primo partito in Germania nei sondaggi nazionali. Weidel ha chiesto pubblicamente a Merz di 'trarne le conseguenze'. Al momento la coalizione di governo federale regge, ma la sequenza di sconfitte regionali — dopo Sassonia-Anhalt quindici giorni fa — apre un dibattito interno alla CDU su leadership e strategia politica in vista delle prossime scadenze nazionali."
+            },
+            {
+              "etichetta": "L'impatto europeo",
+              "testo": "Un rafforzamento dell'AfD in Germania ha ricadute dirette sugli equilibri del Parlamento europeo, dove il partito siede nel gruppo dei Patrioti per l'Europa. La crescita di forze euroscettiche nei maggiori paesi membri complica la gestione di dossier come il sostegno all'Ucraina, la politica migratoria e la transizione energetica. Osservatori di Bruxelles segnalano che una CDU indebolita riduce la coesione del gruppo PPE, storicamente baricentro nelle negoziazioni europee."
+            }
+          ],
+          "implicazioni": "Se la CDU non invertisse la tendenza in vista delle prossime elezioni federali, l'AfD potrebbe consolidarsi come primo partito in Germania, rendendo ancora più difficile la formazione di maggioranze di governo senza accordi che coinvolgano forze radicali. Nel breve termine, la pressione su Merz potrebbe accelerare cambiamenti nella linea politica della CDU, in particolare su migrazione e politiche sociali, con effetti a cascata sulle posizioni tedesche in sede europea.",
+          "redattore": "Il Corrispondente Estero 1.0"
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Meloni annuncia tetto agli stranieri in classe e divieto di burqa a scuola",
+          "slug": "meloni-tetto-stranieri-classe-divieto-burqa-scuola",
+          "tag": [
+            "scuola",
+            "integrazione",
+            "meloni",
+            "immigrazione"
+          ],
+          "evidenza": true,
+          "fonte": "Il Post / ANSA / TGCom24",
+          "cerca_url": "https://www.google.com/search?q=Meloni+tetto+stranieri+classe+divieto+burqa+scuola+settembre+2026",
+          "post_x": "Meloni annuncia il tetto agli stranieri in classe e il divieto di burqa a scuola. La circolare Gelmini del 2010 già prevedeva un tetto del 30% — esiste da 16 anni, applicata da destra e sinistra. L'annuncio è nuovo. La sostanza, molto meno.",
+          "post_sito": "Dal palco di Fenix — la festa di Gioventù Nazionale — Giorgia Meloni ha annunciato un provvedimento in arrivo al Consiglio dei ministri che introduce per legge un numero massimo di studenti stranieri per classe, il divieto di burqa e niqab a scuola e l'obbligo di imparare l'italiano per i genitori di alunni stranieri con gravi difficoltà di inserimento. Il dettaglio che quasi nessuno ha citato: la circolare Gelmini del 2010 fissava già il tetto al 30% per classe — misura che ha attraversato indenne governi di centrodestra e centrosinistra per sedici anni, usata e dimenticata a seconda della convenienza politica del momento. Trasformarla in legge, annunciata dalla festa giovanile di FdI a poche settimane dall'apertura della campagna per le Politiche 2027, è un atto che ha più a che fare con il consenso elettorale che con l'emergenza scolastica. Chi ci guadagna è trasparente: FdI recupera terreno sulla destra leghista e vannacciana, mostrandosi muscolare sui temi identitari nel momento in cui Salvini tenta di ricompattare la Lega con un congresso straordinario. I presidi, nel frattempo, ricordano che la norma è inapplicabile senza investire in nuovi edifici scolastici, trasporti e redistribuzione degli alunni — costi strutturali che l'annuncio non menziona.",
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0"
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Cina blocca terre rare a Lafert e Garnet: la guerra commerciale UE-Russia colpisce l'industria italiana",
+          "slug": "cina-blocca-terre-rare-lafert-garnet-guerra-commerciale-ue-russia",
+          "tag": [
+            "terre-rare",
+            "cina",
+            "guerra-commerciale",
+            "industria-italiana"
+          ],
+          "evidenza": false,
+          "fonte": "Il Fatto Quotidiano / Il Gazzettino / Il Foglio",
+          "cerca_url": "https://www.google.com/search?q=Lafert+Garnet+terre+rare+Cina+sanzioni+UE+Russia+2026",
+          "post_x": "L'UE sanziona aziende cinesi per la guerra in Russia. La Cina risponde bloccando le terre rare a Lafert (780 dipendenti in Veneto) e Garnet. Le PMI italiane pagano il prezzo di un conflitto geopolitico che non hanno scelto. Beneficio taciuto: qualcuno comprerà quegli stabilimenti a prezzi stracciati.",
+          "post_sito": "Il 23 luglio 2026, l'UE ha approvato il 21° pacchetto di sanzioni contro la Russia, colpendo 14 aziende cinesi accusate di sostenere l'economia di guerra di Mosca. Pechino ha risposto inserendo 14 imprese europee in una lista nera per l'export di terre rare e magneti permanenti: prime della lista, due aziende italiane — Lafert SpA di San Donà di Piave (circa 780 dipendenti in Veneto, parte della multinazionale giapponese Sumitomo) e Garnet Srl di Concorezzo (Monza). Entrambe dipendono da quei magneti per produzioni interamente civili — motori elettrici, pale eoliche, robotica — e nessuna delle due ha legami documentati con l'industria della difesa. Il meccanismo è nitido: l'UE sanziona aziende cinesi per fermare la macchina da guerra russa; la Cina non blocca le sue forniture alla Russia, ma quelle verso l'Europa, scaricando il costo sui produttori manifatturieri del Vecchio Continente. Chi ci guadagna davvero è Pechino, che detiene un quasi-monopolio globale sulle terre rare e usa questo controllo come leva geopolitica ogni volta che l'Occidente prova a colpirla commercialmente. Il conto, come sempre, lo pagano i lavoratori di Noventa di Piave e Concorezzo.",
+          "editoriale": false,
+          "redattore": "L'Analista 1.0"
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Mondiali di ciclismo a Montreal: Evenepoel fa poker iridato a cronometro, Ganna d'argento",
+          "slug": "mondiali-ciclismo-montreal-evenepoel-poker-iridato-cronometro-ganna-argento",
+          "tag": [
+            "ciclismo",
+            "mondiali",
+            "evenepoel",
+            "ganna"
+          ],
+          "evidenza": false,
+          "fonte": "TuttoBiciWeb / Olympics.com / Sky TG24",
+          "cerca_url": "https://www.google.com/search?q=Mondiali+ciclismo+Montreal+2026+Evenepoel+cronometro+Ganna",
+          "post_x": "Evenepoel vince il suo quarto Mondiale consecutivo a cronometro a Montreal. Ganna d'argento per la settima medaglia mondiale. Oggi tocca agli Under 23. Le cronometro sono in chiaro su Rai Sport ed Eurosport. Lo sport, a volte, non costa niente — anche se quasi non lo sai.",
+          "post_sito": "I Mondiali di ciclismo su strada si stanno disputando a Montreal fino al 27 settembre — la città canadese ospita la rassegna iridata per la seconda volta nella storia, a 52 anni dalla prima edizione del 1974. Domenica Remco Evenepoel ha conquistato il suo quarto titolo mondiale consecutivo nella cronometro élite, eguagliando il record assoluto di Fabian Cancellara e Tony Martin. Filippo Ganna ha chiuso secondo, aggiungendo la settima medaglia mondiale in carriera: un palmares che in qualsiasi altro sport varrebbe copertine nazionali ogni settimana, ma il ciclismo non è il calcio. Oggi, lunedì 21 settembre, la scena è interamente riservata alle cronometro Under 23 — maschile e femminile — visibili in chiaro su Rai Sport ed Eurosport: nessun abbonamento richiesto per seguire i nuovi talenti. L'Italia si presenta a Montreal con un contingente di 47 atleti: tra gli Under 23 attesi al via, l'occasione di mettere la prima firma sulla maglia arcobaleno.",
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0"
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Cuneo, autotrasportatore spara e uccide un ladro in cascina: indagato per omicidio volontario",
+          "slug": "cuneo-autotrasportatore-spara-uccide-ladro-cascina-indagato-omicidio",
+          "tag": [
+            "legittima-difesa",
+            "cuneo",
+            "cronaca",
+            "sicurezza"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / LaPresse / TGCom24",
+          "cerca_url": "https://www.google.com/search?q=Cuneo+Baldissero+Alba+autotrasportatore+spara+ladro+cascina+omicidio+2026",
+          "post_x": "Baldissero d'Alba: proprietario spara a una banda di ladri, ne uccide uno, viene indagato per omicidio volontario. I vicini: 'Ha fatto bene'. La politica già esulta. La magistratura deve fare il suo lavoro — senza che nessuno abbia già emesso sentenza.",
+          "post_sito": "Nella notte tra sabato e domenica, Roberto Mollo, autotrasportatore 35enne, ha sparato con una pistola semiautomatica regolarmente detenuta contro un gruppo di quattro o cinque persone entrate nel cortile della sua cascina in ristrutturazione a Baldissero d'Alba, in provincia di Cuneo. Un uomo di circa 36 anni — identificato come cittadino albanese con precedenti per reati contro il patrimonio — è morto; i complici sono fuggiti e sono tuttora ricercati. Mollo è indagato a piede libero per omicidio volontario dalla Procura di Asti: è la procedura prevista dalla legge quando una persona muore per un colpo d'arma da fuoco, e non è una condanna. La vicenda merita cautela su entrambi i fronti: né il proprietario va già assolto in piazza dai vicini compiaciuti, né il ladro va trasformato in un simbolo — era una persona, con una storia, e ora è morta. La causa strutturale che si rimuove è quella che torna sempre: la risposta alla criminalità diffusa nelle aree rurali passa da investimenti in sicurezza pubblica, presidi territoriali, illuminazione, sistemi di allerta — non dall'auspicio implicito che ogni proprietario terriero diventi il proprio vigilante privato.",
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0"
+        }
+      ]
+    },
+    {
       "data": "2026-09-20",
       "post": [
         {
@@ -3010,92 +3124,7 @@
           "redattore": "Il Corrispondente Estero 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-08-16",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Russia bombarda Kiev nella notte, l'Ucraina risponde con 600 droni su Mosca",
-          "slug": "russia-bombarda-kiev-ucraina-600-droni-mosca",
-          "tag": [
-            "ucraina",
-            "russia",
-            "guerra",
-            "droni"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA",
-          "cerca_url": "https://www.google.com/search?q=attacchi+russi+Kiev+droni+Ucraina+Mosca+16+agosto+2026",
-          "post_x": "Kiev sotto missili balistici, Mosca sotto 600 droni ucraini. Il copione si ripete. Mentre Francia, Germania e UK trattano un «ruolo europeo nei negoziati», l'industria della difesa conta i contratti. Ferragosto, anche per i belligeranti. #Ucraina",
-          "post_sito": "Nella notte tra il 15 e il 16 agosto la Russia ha colpito Kiev con missili balistici — alcuni identificati come nordcoreani — uccidendo una persona e ferendone sette, mentre l'Ucraina ha risposto con un attacco massiccio su Mosca con oltre 600 droni, di cui circa 200 abbattuti nella sola regione della capitale. Il racconto dominante parla di «escalation» come se fosse una forza della natura: si tace che ogni ondata di attacchi coincide con una nuova tranche di forniture militari occidentali, e che contractor come Rheinmetall, Leonardo e il comparto missilistico europeo registrano trimestrali da record proprio mentre si discute di «pace». Francia, Germania e Regno Unito lavorano per «assicurarsi un ruolo nei negoziati»: traduzione — assicurarsi un posto al tavolo dove si ridisegneranno appalti per la ricostruzione ucraina, stimati tra i 500 e i 700 miliardi di euro. Il contesto rimosso: i missili balistici nordcoreani negli arsenali russi dimostrano che le sanzioni occidentali hanno creato un asse Mosca-Pyongyang che prima non esisteva — un effetto collaterale che nessun ministro degli Esteri cita nelle conferenze stampa."
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Caso Ranucci-Lavitola: confessione e manovre RAI, chi vuole davvero silenziare Report",
-          "slug": "caso-ranucci-lavitola-rai-report-confessione",
-          "tag": [
-            "ranucci",
-            "lavitola",
-            "rai",
-            "report"
-          ],
-          "evidenza": true,
-          "fonte": "Sky TG24 / Il Riformista",
-          "cerca_url": "https://www.google.com/search?q=Lavitola+confessa+attentato+Ranucci+RAI+Report+agosto+2026",
-          "post_x": "Lavitola confessa: «Ho fatto la bomba per fargli aumentare la scorta». La RAI ne approfitta per togliergli la trasmissione. L'attentatore come pretesto, il governo come beneficiario. Logica italianissima. #Ranucci #Report",
-          "post_sito": "Valter Lavitola — ex editore dell'Avanti!, personaggio con un curriculum giudiziario degno di un romanzo di Sciascia — ha confessato dopo cinque ore di interrogatorio a Rebibbia di essere il mandante dell'attentato dinamitardo contro Sigfrido Ranucci, avvenuto nell'ottobre 2025 a Pomezia: secondo la sua versione, voleva «fargli aumentare la scorta» e spianargli la strada verso la politica, con l'ambizione di diventarne lo spin doctor. I pm della DDA contestano l'aggravante del metodo mafioso. Fin qui, la storia ufficiale. Ma mentre l'attenzione pubblica si concentra sull'improbabile movente del «benefattore con l'esplosivo», alla RAI succede qualcosa di più silenzioso: il direttore dell'Approfondimento RAI, in quota FdI, ventila la sostituzione di Ranucci alla conduzione di Report, e il Comitato etico aziendale avvia la procedura per rimettere la questione all'amministratore delegato Giampaolo Rossi. Chi ci guadagna dalla confessione di Lavitola? Non Ranucci, non la verità — ma chiunque abbia interesse a delegittimare il giornalista più scomodo della TV pubblica, trasformandolo da vittima in protagonista di una storia torbida. La domanda che il coro mediatico non fa: Lavitola, che negli anni è comparso in numerose vicende politiche, chi rappresentava davvero in questa operazione?"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Vendite al dettaglio USA crollano del -0,6% a luglio, peggio di ogni previsione",
-          "slug": "vendite-dettaglio-usa-calo-luglio-2026",
-          "tag": [
-            "economia-usa",
-            "consumi",
-            "recessione",
-            "dazi"
-          ],
-          "evidenza": false,
-          "fonte": "Il Sole 24 Ore / Teleborsa",
-          "cerca_url": "https://www.google.com/search?q=vendite+al+dettaglio+USA+luglio+2026+calo+0.6",
-          "post_x": "USA: vendite al dettaglio -0,6% a luglio, attese erano +0,1%. Il consumatore americano smette di spendere. Nessuno dice che è lo stesso consumatore che i dazi di Trump dovevano «proteggere». #Economia #USA",
-          "post_sito": "Le vendite al dettaglio negli Stati Uniti sono crollate dello 0,6% su base mensile a luglio 2026, a fronte di previsioni degli analisti per un +0,1% — un divario di oltre mezzo punto che sui mercati si chiama sorpresa, ma che nella vita reale si chiama consumatore a corto di soldi. Il dato «core» — escluse le auto — segna -0,3%, anch'esso peggiore del mese precedente. Il racconto ufficiale parla di «rallentamento fisiologico estivo»: si tace il contesto. I dazi imposti dall'amministrazione Trump nel 2025-2026 hanno aumentato i prezzi dei beni importati, erodendo il potere d'acquisto delle famiglie a reddito medio-basso — gli stessi che i dazi «proteggevano» dalla concorrenza cinese. Chi ci guadagna dalla debolezza dei consumi? I fondi speculativi posizionati short sull'azionario americano, che nelle ultime settimane hanno moltiplicato le scommesse ribassiste, e le grandi catene della grande distribuzione, che useranno il dato per giustificare nuovi tagli al personale e pressioni sui fornitori. Il mercato aspetta ora la prossima mossa della Fed: un taglio dei tassi che arricchirebbe soprattutto chi detiene obbligazioni a lungo termine — non certo chi non riesce a comprare al supermercato."
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Italia in testa al medagliere degli Europei di atletica a Birmingham: 7 ori nell'ultima giornata",
-          "slug": "europei-atletica-2026-birmingham-italia-medagliere",
-          "tag": [
-            "atletica",
-            "europei-2026",
-            "birmingham",
-            "italia"
-          ],
-          "evidenza": false,
-          "fonte": "OA Sport / Sky Sport",
-          "cerca_url": "https://www.google.com/search?q=Europei+atletica+2026+Birmingham+Italia+medagliere+16+agosto",
-          "post_x": "L'Italia guida il medagliere degli Europei di atletica a Birmingham con 7 ori. Battocletti, Stano, Tamberi, Diaz, Fiorini. Peccato che per vederli in TV bisogna pagare tre abbonamenti diversi. Medaglie pubbliche, diritti privati. #Atletica #Birmingham2026",
-          "post_sito": "Oggi, 16 agosto, si chiude a Birmingham la 27ª edizione dei Campionati Europei di atletica, con l'Italia saldamente in testa al medagliere con 7 ori — conquistati da nomi come Nadia Battocletti (doppietta 5000 e 10.000 metri), Massimo Stano e Sofia Fiorini nella marcia, Gianmarco Tamberi nel salto in alto e Andy Diaz nel triplo. Una squadra da 130 atleti, la più grande della storia azzurra agli Europei. La notizia sportiva è straordinaria. Quella editoriale lo è meno: le gare sono trasmesse in diretta integrale solo su piattaforme a pagamento — Discovery+, Sky, NOW — mentre la Rai copre spezzoni. Gli atleti sono formati con fondi pubblici, le federazioni finanziate con denaro dei contribuenti, ma i diritti televisivi vengono venduti ai broadcaster privati che incassano i profitti degli abbonamenti. Il modello esiste da anni, ma nessuno lo chiama con il suo nome: la privatizzazione silenziosa dello sport di Stato. Nel frattempo, Marcell Jacobs — che a Tokyo 2020 aveva trascinato milioni di italiani davanti alla TV in chiaro — ha chiuso settimo in finale dei 100 metri: la parabola di un campione, e forse la metafora di un sistema che brucia i suoi eroi più in fretta di quanto li costruisca."
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Terremoto 7.7 a Flores, Indonesia: 47 morti, 900 case distrutte, soccorsi ancora in corso",
-          "slug": "terremoto-flores-indonesia-77-vittime-agosto-2026",
-          "tag": [
-            "terremoto",
-            "indonesia",
-            "flores",
-            "catastrofe"
-          ],
-          "evidenza": false,
-          "fonte": "Il Post / ANSA",
-          "cerca_url": "https://www.google.com/search?q=terremoto+Indonesia+Flores+7.7+vittime+agosto+2026",
-          "post_x": "Terremoto 7.7 a Flores, Indonesia: 47 morti, 900 case distrutte. I soccorsi proseguono. L'isola è nella cintura di fuoco del Pacifico — la stessa dove l'industria estrattiva internazionale opera indisturbata. Il disastro naturale non lo è quasi mai del tutto. #Indonesia",
-          "post_sito": "Sull'isola di Flores, in Indonesia, proseguono i soccorsi per il terremoto di magnitudo 7.7 che sabato 15 agosto ha causato la morte di almeno 47 persone e il ferimento di un centinaio, con più di 900 abitazioni gravemente danneggiate — oltre a scuole, chiese e strutture mediche — secondo i dati preliminari dell'agenzia nazionale per le emergenze BNPB. Il bilancio è ancora provvisorio e quasi certamente destinato a salire. Il racconto delle prime ore si concentra, correttamente, sul numero delle vittime. Meno correttamente, sparisce il contesto strutturale: Flores e l'intera provincia di Nusa Tenggara Orientale sono tra le aree più povere dell'Indonesia, con infrastrutture antisismiche quasi inesistenti nonostante il Paese si trovi stabilmente sulla Cintura di Fuoco del Pacifico. Chi ci guadagna dalla povertà sismica di queste isole? Le compagnie assicurative internazionali non vendono polizze a chi non può permettersele, e le agenzie di ricostruzione — spesso controllate da fondi anglosassoni e dalle stesse organizzazioni internazionali che tagliano i «fondi per le emergenze» — arriveranno nei prossimi mesi con contratti da centinaia di milioni di dollari. Anche questo è il volto del capitalismo delle catastrofi."
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-09-20T12:28:49.576845+00:00"
+  "ultimo_aggiornamento": "2026-09-21T09:05:44.877338+00:00"
 }
