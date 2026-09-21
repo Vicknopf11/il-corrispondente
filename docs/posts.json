@@ -5,110 +5,110 @@
       "post": [
         {
           "categoria": "Politica Internazionale",
-          "titolo": "AfD vince in Meclemburgo al 38%, CDU fuori dal parlamento regionale: Merz non si dimette",
-          "slug": "afd-vince-meclemburgo-cdu-fuori-parlamento-merz-non-si-dimette",
+          "titolo": "AfD vince in Meclemburgo, Linke conquista Berlino: la Germania che non vuole più il centro",
+          "slug": "afd-vince-meclemburgo-linke-berlino-germania-2026",
           "tag": [
             "germania",
             "afd",
-            "populismo",
-            "elezioni-regionali"
+            "elezioni",
+            "estremismi"
           ],
-          "evidenza": false,
-          "fonte": "ANSA / AGI",
-          "cerca_url": "https://www.google.com/search?q=AfD+vince+Meclemburgo+CDU+fuori+parlamento+regionale+Merz+settembre+2026",
-          "post_x": "L'AfD al 38% in Meclemburgo, la CDU di Merz al 4,9%: fuori dal parlamento regionale per la prima volta in 81 anni. A Berlino vince la sinistra radicale. Tutti a urlare contro l'estrema destra. Nessuno che si chieda cosa ha fatto il centro per meritarselo.",
-          "post_sito": "L'AfD ha ottenuto il 38,2% in Meclemburgo-Pomerania Anteriore, mentre la CDU di Friedrich Merz è precipitata al 4,9% — sotto la soglia del 5% per entrare in parlamento — il peggior risultato nella storia del partito dall'Unione postbellica. A Berlino vince Die Linke col 24,9%. Il coro mediatico imputa tutto alla deriva populista degli elettori dell'Est, come se queste persone avessero semplicemente smesso di ragionare. Ciò che si tace è il contesto: l'Est tedesco sconta ancora oggi una riunificazione fatta a condizioni di resa economica — fabbriche chiuse, salari strutturalmente più bassi, un territorio usato come forza lavoro a basso costo per l'Ovest. Chi ci guadagna dal panico per l'AfD? I partiti di governo, che possono continuare a presentare se stessi come l'unico argine al 'mostro', evitando di rispondere alla domanda più scomoda: trent'anni di gestione del potere in Germania hanno prodotto questo risultato — e chi era al potere in questi trent'anni?",
+          "evidenza": true,
+          "fonte": "Sky TG24 / Il Fatto Quotidiano",
+          "cerca_url": "https://www.google.com/search?q=elezioni+Germania+AfD+Meclemburgo+Berlino+Linke+settembre+2026",
+          "post_x": "Germania: estrema destra vince a est, estrema sinistra conquista Berlino. Merz chiama il risultato «disastro». Il centro scompare. Ma siete sicuri che il problema sia solo l'AfD? #Germania #Elezioni",
+          "post_sito": "L'AfD vince in Meclemburgo-Pomerania con il 38,2% e la CDU di Merz ottiene il 4,9%: per la prima volta in 81 anni, il partito del Cancelliere resta fuori dal parlamento di un Land. A Berlino trionfa Die Linke al 24,9%, con una candidata che vuole espropriare le case. Il racconto dominante si concentra sul «pericolo dell'estremismo», ma il coro mediatico che piange il centro borghese tedesco dimentica comodamente chi quel centro ha governato per vent'anni mentre i salari reali stagnavano, gli affitti esplodevano e la deindustrializzazione avanzava silenziosa. Merz definisce il risultato «un disastro» e annuncia che non si dimetterà — il che solleva una domanda che nessuno pone: chi ci guadagna da una CDU indebolita ma in piedi, abbastanza debole da essere ricattabile, abbastanza viva da non dover cedere la guida? La risposta, come sempre in Germania, si trova nei contratti di coalizione già scritti nei corridoi di Berlino.",
           "editoriale": true,
           "prospettive": [
             {
-              "etichetta": "Il dato elettorale",
-              "testo": "Secondo i risultati ufficiali dell'ufficio elettorale regionale, l'AfD ha ottenuto il 38,2% dei voti in Meclemburgo-Pomerania Anteriore, davanti alla SPD con il 35,5%. La CDU del cancelliere Merz si è fermata al 4,9%, restando per la prima volta nella storia del partito fuori da un parlamento regionale tedesco. A Berlino ha vinto Die Linke con il 24,9%, seguita dalla CDU al 19,2% e dall'AfD al 15,8%. Merz ha dichiarato il risultato 'un disastro' assumendosene la responsabilità, ma ha escluso le dimissioni annunciando di voler proseguire con le riforme."
+              "etichetta": "La lettura istituzionale",
+              "testo": "Il cancelliere Friedrich Merz ha riconosciuto la sconfitta come un «disastro» assumendosene la responsabilità, ma ha escluso le dimissioni annunciando l'intenzione di proseguire con le riforme. La CDU resta il partito di governo federale e considera i risultati regionali come un segnale di malcontento locale, non come un mandato a cambiare la direzione politica nazionale."
             },
             {
-              "etichetta": "Le cause strutturali nei Land dell'Est",
-              "testo": "Il Meclemburgo-Pomerania è uno dei Land più poveri della Germania. Il tasso di disoccupazione è storicamente superiore alla media nazionale, i salari reali restano sotto quelli occidentali e lo spopolamento colpisce le aree rurali da tre decenni. Ricercatori di istituti come il DIW di Berlino hanno documentato un persistente 'divario Est-Ovest' mai completamente colmato dalla riunificazione del 1990. L'avanzata dell'AfD in questi territori — che è più che raddoppiata rispetto al 2021 — viene ricondotta dagli analisti anche al malcontento diffuso per il costo della vita e per politiche percepite come lontane dalle esigenze locali, oltre che a sentimenti anti-immigrazione."
+              "etichetta": "Chi vota AfD e perché",
+              "testo": "Le analisi dei flussi elettorali nel Meclemburgo-Pomerania mostrano che l'AfD intercetta voti trasversali: ex elettori SPD, ex astenuti, lavoratori del settore manifatturiero colpiti dalla crisi industriale tedesca. Il malcontento per il costo della vita, la disoccupazione strutturale nell'est e la percezione di distanza delle istituzioni federali sono fattori documentati che precedono di anni l'ascesa dell'AfD."
             },
             {
-              "etichetta": "Le conseguenze per il governo Merz",
-              "testo": "La doppia sconfitta — in Meclemburgo e a Berlino — aumenta la pressione sul cancelliere federale, i cui indici di gradimento sono in calo da mesi. L'AfD è ora il primo partito in Germania nei sondaggi nazionali. Weidel ha chiesto pubblicamente a Merz di 'trarne le conseguenze'. Al momento la coalizione di governo federale regge, ma la sequenza di sconfitte regionali — dopo Sassonia-Anhalt quindici giorni fa — apre un dibattito interno alla CDU su leadership e strategia politica in vista delle prossime scadenze nazionali."
+              "etichetta": "Il nodo del cordone sanitario",
+              "testo": "Nonostante la vittoria, l'AfD è destinata a restare all'opposizione in entrambi i Land a causa dell'accordo informale degli altri partiti di non governare con il movimento di Weidel. Questo meccanismo, che ha finora contenuto l'impatto governativo dell'AfD, è sempre più sotto pressione: in Sassonia-Anhalt il leader locale ha già annunciato di voler formare il primo governo AfD entro fine anno."
             },
             {
-              "etichetta": "L'impatto europeo",
-              "testo": "Un rafforzamento dell'AfD in Germania ha ricadute dirette sugli equilibri del Parlamento europeo, dove il partito siede nel gruppo dei Patrioti per l'Europa. La crescita di forze euroscettiche nei maggiori paesi membri complica la gestione di dossier come il sostegno all'Ucraina, la politica migratoria e la transizione energetica. Osservatori di Bruxelles segnalano che una CDU indebolita riduce la coesione del gruppo PPE, storicamente baricentro nelle negoziazioni europee."
+              "etichetta": "L'effetto europeo",
+              "testo": "I risultati tedeschi arrivano mentre la Germania rimane il principale sostenitore economico dell'Unione Europea e la più grande economia del continente. Una CDU indebolita a livello interno riduce la capacità di Merz di negoziare posizioni forti a Bruxelles su temi come il sostegno all'Ucraina, la politica industriale e le regole di bilancio europee. Diversi osservatori segnalano che l'instabilità politica tedesca rischia di rallentare le decisioni comunitarie già nelle prossime settimane."
             }
           ],
-          "implicazioni": "Se la CDU non invertisse la tendenza in vista delle prossime elezioni federali, l'AfD potrebbe consolidarsi come primo partito in Germania, rendendo ancora più difficile la formazione di maggioranze di governo senza accordi che coinvolgano forze radicali. Nel breve termine, la pressione su Merz potrebbe accelerare cambiamenti nella linea politica della CDU, in particolare su migrazione e politiche sociali, con effetti a cascata sulle posizioni tedesche in sede europea.",
+          "implicazioni": "Se il cordone sanitario dovesse cedere anche in un solo Land orientale, si aprirebbe per la prima volta un precedente di governo AfD che potrebbe ridisegnare le aspettative elettorali a livello federale in vista delle prossime elezioni nazionali. Sul piano europeo, una CDU sulla difensiva interna tende storicamente a posizioni più rigide sui conti pubblici e meno flessibile sugli aiuti ai partner europei.",
           "redattore": "Il Corrispondente Estero 1.0"
         },
         {
           "categoria": "Politica Nazionale",
-          "titolo": "Meloni annuncia tetto agli stranieri in classe e divieto di burqa a scuola",
-          "slug": "meloni-tetto-stranieri-classe-divieto-burqa-scuola",
+          "titolo": "Meloni annuncia tetto agli stranieri in classe e divieto di burqa: la scuola come palco elettorale",
+          "slug": "meloni-tetto-stranieri-scuola-burqa-2026",
           "tag": [
             "scuola",
-            "integrazione",
             "meloni",
-            "immigrazione"
+            "immigrazione",
+            "populismo"
           ],
-          "evidenza": true,
-          "fonte": "Il Post / ANSA / TGCom24",
-          "cerca_url": "https://www.google.com/search?q=Meloni+tetto+stranieri+classe+divieto+burqa+scuola+settembre+2026",
-          "post_x": "Meloni annuncia il tetto agli stranieri in classe e il divieto di burqa a scuola. La circolare Gelmini del 2010 già prevedeva un tetto del 30% — esiste da 16 anni, applicata da destra e sinistra. L'annuncio è nuovo. La sostanza, molto meno.",
-          "post_sito": "Dal palco di Fenix — la festa di Gioventù Nazionale — Giorgia Meloni ha annunciato un provvedimento in arrivo al Consiglio dei ministri che introduce per legge un numero massimo di studenti stranieri per classe, il divieto di burqa e niqab a scuola e l'obbligo di imparare l'italiano per i genitori di alunni stranieri con gravi difficoltà di inserimento. Il dettaglio che quasi nessuno ha citato: la circolare Gelmini del 2010 fissava già il tetto al 30% per classe — misura che ha attraversato indenne governi di centrodestra e centrosinistra per sedici anni, usata e dimenticata a seconda della convenienza politica del momento. Trasformarla in legge, annunciata dalla festa giovanile di FdI a poche settimane dall'apertura della campagna per le Politiche 2027, è un atto che ha più a che fare con il consenso elettorale che con l'emergenza scolastica. Chi ci guadagna è trasparente: FdI recupera terreno sulla destra leghista e vannacciana, mostrandosi muscolare sui temi identitari nel momento in cui Salvini tenta di ricompattare la Lega con un congresso straordinario. I presidi, nel frattempo, ricordano che la norma è inapplicabile senza investire in nuovi edifici scolastici, trasporti e redistribuzione degli alunni — costi strutturali che l'annuncio non menziona.",
+          "evidenza": false,
+          "fonte": "Il Post / Today.it / Sky TG24",
+          "cerca_url": "https://www.google.com/search?q=Meloni+tetto+stranieri+classe+burqa+scuola+settembre+2026",
+          "post_x": "Meloni annuncia tetto agli stranieri a scuola e stop al burqa. I presidi: «Inapplicabile». L'opposizione: «Insegue Vannacci». La domanda rimasta senza risposta: quante classi italiane hanno davvero questo problema? #Scuola #Politica",
+          "post_sito": "Giorgia Meloni annuncia un pacchetto-scuola: tetto agli studenti stranieri per classe, divieto di burqa e niqab negli istituti, corsi obbligatori di italiano per i genitori di alunni con difficoltà di integrazione. I presidi rispondono che la norma è inapplicabile — non si possono cacciare bambini che abitano nel quartiere della scuola senza violare il diritto allo studio, principio costituzionale. L'opposizione grida al populismo e all'inseguimento di Vannacci. Ciò che nessuno dice ad alta voce è che l'annuncio cade il 20 settembre, con Salvini che convoca un congresso straordinario della Lega a ottobre e con i sondaggi che mostrano FdI stabilmente sopra il 26%: non si tratta di una politica scolastica, si tratta di un presidio del perimetro elettorale destrorso prima che Salvini provi a riorganizzarsi. Chi ci guadagna? FdI consolida l'elettorato identitario, la Lega si ritrova costretta a seguire o a perdere terreno. I bambini stranieri nelle classi italiane restano esattamente dove sono.",
           "editoriale": false,
           "redattore": "Il Bastian Contrario 1.0"
         },
         {
           "categoria": "Economia",
-          "titolo": "Cina blocca terre rare a Lafert e Garnet: la guerra commerciale UE-Russia colpisce l'industria italiana",
-          "slug": "cina-blocca-terre-rare-lafert-garnet-guerra-commerciale-ue-russia",
+          "titolo": "Panetta: l'AI può aumentare la produttività italiana di oltre un punto l'anno. Ma chi decide come verranno distribuiti i guadagni?",
+          "slug": "panetta-bankitalia-ai-produttivita-italia-2026",
           "tag": [
-            "terre-rare",
-            "cina",
-            "guerra-commerciale",
-            "industria-italiana"
+            "intelligenza-artificiale",
+            "banca-d-italia",
+            "produttivita",
+            "lavoro"
           ],
           "evidenza": false,
-          "fonte": "Il Fatto Quotidiano / Il Gazzettino / Il Foglio",
-          "cerca_url": "https://www.google.com/search?q=Lafert+Garnet+terre+rare+Cina+sanzioni+UE+Russia+2026",
-          "post_x": "L'UE sanziona aziende cinesi per la guerra in Russia. La Cina risponde bloccando le terre rare a Lafert (780 dipendenti in Veneto) e Garnet. Le PMI italiane pagano il prezzo di un conflitto geopolitico che non hanno scelto. Beneficio taciuto: qualcuno comprerà quegli stabilimenti a prezzi stracciati.",
-          "post_sito": "Il 23 luglio 2026, l'UE ha approvato il 21° pacchetto di sanzioni contro la Russia, colpendo 14 aziende cinesi accusate di sostenere l'economia di guerra di Mosca. Pechino ha risposto inserendo 14 imprese europee in una lista nera per l'export di terre rare e magneti permanenti: prime della lista, due aziende italiane — Lafert SpA di San Donà di Piave (circa 780 dipendenti in Veneto, parte della multinazionale giapponese Sumitomo) e Garnet Srl di Concorezzo (Monza). Entrambe dipendono da quei magneti per produzioni interamente civili — motori elettrici, pale eoliche, robotica — e nessuna delle due ha legami documentati con l'industria della difesa. Il meccanismo è nitido: l'UE sanziona aziende cinesi per fermare la macchina da guerra russa; la Cina non blocca le sue forniture alla Russia, ma quelle verso l'Europa, scaricando il costo sui produttori manifatturieri del Vecchio Continente. Chi ci guadagna davvero è Pechino, che detiene un quasi-monopolio globale sulle terre rare e usa questo controllo come leva geopolitica ogni volta che l'Occidente prova a colpirla commercialmente. Il conto, come sempre, lo pagano i lavoratori di Noventa di Piave e Concorezzo.",
+          "fonte": "ANSA / Fortune Italia / Il Sole 24 Ore",
+          "cerca_url": "https://www.google.com/search?q=Panetta+Banca+Italia+AI+produttivita+settembre+2026",
+          "post_x": "Panetta (Bankitalia): l'AI può far crescere la produttività italiana di oltre 1 punto % l'anno. Ottimo. La domanda che nessuno ha fatto: chi incasserà quel punto percentuale? #AI #Economia #Lavoro",
+          "post_sito": "Il governatore della Banca d'Italia Fabio Panetta dichiara da Kiev che una diffusa adozione dell'intelligenza artificiale potrebbe aumentare la crescita della produttività del lavoro italiano di oltre un punto percentuale all'anno. La notizia viene accolta come un annuncio di prosperità. Ciò che il comunicato istituzionale non approfondisce — e che Panetta stesso ha solo sfiorato — è la domanda chiave che lo stesso governatore ha formulato: «Molto dipenderà da come verranno distribuiti i benefici dell'AI». La storia industriale italiana degli ultimi trent'anni offre una risposta abbastanza precisa: i guadagni di produttività tendono a tradursi in profitti d'impresa e non in salari reali, come documentato dall'andamento piatto dei redditi da lavoro dipendente dal 1990 a oggi. Nel frattempo la Borsa italiana guadagnava oggi l'1,28% e i titoli bancari erano in progresso: chi compra oggi i modelli di AI che «trasformeranno l'economia» sa già dove andranno quei proventi. Il punto percentuale di produttività è reale. La domanda su chi lo incasserà è la notizia che nessuno ha scritto.",
           "editoriale": false,
           "redattore": "L'Analista 1.0"
         },
         {
           "categoria": "Sport",
-          "titolo": "Mondiali di ciclismo a Montreal: Evenepoel fa poker iridato a cronometro, Ganna d'argento",
-          "slug": "mondiali-ciclismo-montreal-evenepoel-poker-iridato-cronometro-ganna-argento",
+          "titolo": "Mondiali di ciclismo a Montreal: cronometro Under 23, Longo Borghini sfiora il podio tra le elite",
+          "slug": "mondiali-ciclismo-montreal-2026-cronometro-u23",
           "tag": [
             "ciclismo",
             "mondiali",
-            "evenepoel",
-            "ganna"
+            "montreal",
+            "under23"
           ],
           "evidenza": false,
-          "fonte": "TuttoBiciWeb / Olympics.com / Sky TG24",
-          "cerca_url": "https://www.google.com/search?q=Mondiali+ciclismo+Montreal+2026+Evenepoel+cronometro+Ganna",
-          "post_x": "Evenepoel vince il suo quarto Mondiale consecutivo a cronometro a Montreal. Ganna d'argento per la settima medaglia mondiale. Oggi tocca agli Under 23. Le cronometro sono in chiaro su Rai Sport ed Eurosport. Lo sport, a volte, non costa niente — anche se quasi non lo sai.",
-          "post_sito": "I Mondiali di ciclismo su strada si stanno disputando a Montreal fino al 27 settembre — la città canadese ospita la rassegna iridata per la seconda volta nella storia, a 52 anni dalla prima edizione del 1974. Domenica Remco Evenepoel ha conquistato il suo quarto titolo mondiale consecutivo nella cronometro élite, eguagliando il record assoluto di Fabian Cancellara e Tony Martin. Filippo Ganna ha chiuso secondo, aggiungendo la settima medaglia mondiale in carriera: un palmares che in qualsiasi altro sport varrebbe copertine nazionali ogni settimana, ma il ciclismo non è il calcio. Oggi, lunedì 21 settembre, la scena è interamente riservata alle cronometro Under 23 — maschile e femminile — visibili in chiaro su Rai Sport ed Eurosport: nessun abbonamento richiesto per seguire i nuovi talenti. L'Italia si presenta a Montreal con un contingente di 47 atleti: tra gli Under 23 attesi al via, l'occasione di mettere la prima firma sulla maglia arcobaleno.",
+          "fonte": "OA Sport / SpazioCiclismo",
+          "cerca_url": "https://www.google.com/search?q=Mondiali+ciclismo+Montreal+2026+cronometro+Under+23+risultati",
+          "post_x": "Mondiali di ciclismo a Montreal: oggi le cronometro Under 23, azzurri Milesi e Cattani in gara. Ieri Longo Borghini ha sfiorato la medaglia tra le elite e Ganna ha preso l'argento. Il ciclismo esiste anche senza Pogacar. #Ciclismo #Mondiali",
+          "post_sito": "I Mondiali di ciclismo su strada di Montreal 2026 vivono oggi la seconda giornata con le prove a cronometro Under 23, maschile e femminile. La rassegna è iniziata ieri con risultati di rilievo per l'Italia: Filippo Ganna ha conquistato l'argento nella cronometro élite maschile — vinta da Remco Evenepoel al suo ennesimo titolo iridato — mentre Elisa Longo Borghini ha sfiorato il podio tra le donne élite, fermandosi a soli cinque secondi dal bronzo. Oggi gli occhi sono puntati sul bergamasco Nicolas Milesi e sul varesino Alessandro Cattani nella prova maschile U23, mentre la gara femminile precede di tre ore. Il ciclismo è uno degli sport italiani più ricchi di talenti e di storia, ma raccoglie sistematicamente meno copertura mediatica del calcio anche nelle settimane in cui si assegnano titoli iridati: le cronometro U23 di oggi sono trasmesse in chiaro su RaiSport HD e disponibili in streaming su RaiPlay — senza costi aggiuntivi per chi vuole seguirle.",
           "editoriale": false,
           "redattore": "Il Cronista Sportivo 1.0"
         },
         {
           "categoria": "Cronaca",
-          "titolo": "Cuneo, autotrasportatore spara e uccide un ladro in cascina: indagato per omicidio volontario",
-          "slug": "cuneo-autotrasportatore-spara-uccide-ladro-cascina-indagato-omicidio",
+          "titolo": "Cuneo, spara ai ladri nella cascina e ne uccide uno: indagato per omicidio",
+          "slug": "cuneo-spara-ladri-cascina-uccide-omicidio-2026",
           "tag": [
-            "legittima-difesa",
-            "cuneo",
             "cronaca",
-            "sicurezza"
+            "cuneo",
+            "legittima-difesa",
+            "omicidio"
           ],
           "evidenza": false,
-          "fonte": "ANSA / LaPresse / TGCom24",
-          "cerca_url": "https://www.google.com/search?q=Cuneo+Baldissero+Alba+autotrasportatore+spara+ladro+cascina+omicidio+2026",
-          "post_x": "Baldissero d'Alba: proprietario spara a una banda di ladri, ne uccide uno, viene indagato per omicidio volontario. I vicini: 'Ha fatto bene'. La politica già esulta. La magistratura deve fare il suo lavoro — senza che nessuno abbia già emesso sentenza.",
-          "post_sito": "Nella notte tra sabato e domenica, Roberto Mollo, autotrasportatore 35enne, ha sparato con una pistola semiautomatica regolarmente detenuta contro un gruppo di quattro o cinque persone entrate nel cortile della sua cascina in ristrutturazione a Baldissero d'Alba, in provincia di Cuneo. Un uomo di circa 36 anni — identificato come cittadino albanese con precedenti per reati contro il patrimonio — è morto; i complici sono fuggiti e sono tuttora ricercati. Mollo è indagato a piede libero per omicidio volontario dalla Procura di Asti: è la procedura prevista dalla legge quando una persona muore per un colpo d'arma da fuoco, e non è una condanna. La vicenda merita cautela su entrambi i fronti: né il proprietario va già assolto in piazza dai vicini compiaciuti, né il ladro va trasformato in un simbolo — era una persona, con una storia, e ora è morta. La causa strutturale che si rimuove è quella che torna sempre: la risposta alla criminalità diffusa nelle aree rurali passa da investimenti in sicurezza pubblica, presidi territoriali, illuminazione, sistemi di allerta — non dall'auspicio implicito che ogni proprietario terriero diventi il proprio vigilante privato.",
+          "fonte": "ANSA / LaPresse / Adnkronos",
+          "cerca_url": "https://www.google.com/search?q=Cuneo+Baldissero+d%27Alba+spara+ladri+uccide+omicidio+2026",
+          "post_x": "Cuneo: autotrasportatore spara a ladri nella cascina in ristrutturazione, uccide un 36enne. È indagato per omicidio. I vicini: «Ha fatto bene». Lui: «Ho sbagliato, ero nel panico». Le indagini sono appena iniziate. #Cronaca #Cuneo",
+          "post_sito": "Nella notte tra sabato e domenica, a Baldissero d'Alba in provincia di Cuneo, Roberto Mollo, 35 anni, autotrasportatore, ha sparato con una pistola regolarmente detenuta a un gruppo di quattro o cinque persone che si erano introdotte nella sua cascina in ristrutturazione — un edificio attualmente non abitabile. Un uomo di 36 anni, di origine albanese ma residente da tempo a Torino, è morto. Mollo è indagato per omicidio volontario dalla Procura di Asti; i carabinieri non hanno ancora trovato tracce fisiche del passaggio della banda e l'area è priva di telecamere. Mollo stesso ha dichiarato: «Ho sbagliato, non dovevo sparare, ero nel panico». Il suo avvocato lo descrive distrutto. La vittima è una persona con precedenti per reati contro il patrimonio, ma resta una vittima: le indagini devono chiarire numero di colpi, distanza e direzione prima di qualsiasi altra valutazione. Ciò che invece si può già osservare è il meccanismo ricorrente: ogni volta che accade un fatto simile, il dibattito sulla legittima difesa si riaccende in modo strumentale — puntuale come un orologio, utile a chi vuole modificare le norme senza attendere che i fatti siano accertati. Mollo è innocente fino a prova contraria. E la sentenza che conta è quella dei giudici, non quella dei vicini di casa.",
           "editoriale": false,
           "redattore": "L'Osservatore 1.0"
         }
@@ -3126,5 +3126,5 @@
       ]
     }
   ],
-  "ultimo_aggiornamento": "2026-09-21T09:05:44.877338+00:00"
+  "ultimo_aggiornamento": "2026-09-21T14:18:18.721169+00:00"
 }
