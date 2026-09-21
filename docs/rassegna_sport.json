@@ -1,14 +1,6 @@
 {
-  "generato": "2026-09-20T19:38:57.035003+00:00",
+  "generato": "2026-09-21T10:58:25.439653+00:00",
   "item": [
-    {
-      "sottocategoria": "Calcio femminile",
-      "tipo": "notizia",
-      "titolo": "Calcio: U.20 femminile, mercoledì la semifinale mondiale con la Spagna",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/calcio-u.20-femminile-mercoledi-la-semifinale-mondiale-con-la-spagna_e086aebc-ccac-469a-9211-0093c2928cbf.html",
-      "fonte": "ANSA Sport",
-      "data_evento": "2026-09-20"
-    },
     {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
@@ -37,10 +29,18 @@
     {
       "sottocategoria": "Atletica",
       "tipo": "notizia",
-      "titolo": "Ranking mondiale? Fabbri domina nel peso, Iapichino prima tra pochi giorni. Ma altri azzurri brillano",
-      "link": "https://www.gazzetta.it/Atletica/19-09-2026/ranking-mondiale-fabbri-tamberi-diaz-e-iapichino-tra-i-migliori.shtml",
+      "titolo": "Mondiali su strada: buon 7° posto per Crippa nella mezza maratona. Record del mondo \"solo donne\" per Ngetich",
+      "link": "https://www.gazzetta.it/Atletica/21-09-2026/mondiali-su-strada-crippa-7-nella-mezza-maratona-record-del-mondo-solo.shtml",
       "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-09-19"
+      "data_evento": "2026-09-21"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "La Spagna di Alcaraz e la Germania di Zverev per l'Italia: ecco chi andrà a Bologna alle finali di Davis",
+      "link": "https://www.gazzetta.it/Tennis/Coppa-Davis/20-09-2026/chi-accede-ai-final-8-di-coppa-davis-a-bologna.shtml",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-09-20"
     }
   ]
 }
