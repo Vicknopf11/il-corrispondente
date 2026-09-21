@@ -1,6 +1,30 @@
 {
-  "generato": "2026-09-21T10:58:25.439653+00:00",
+  "generato": "2026-09-21T17:09:25.816842+00:00",
   "item": [
+    {
+      "sottocategoria": "Calcio femminile",
+      "tipo": "notizia",
+      "titolo": "A Roma il primo Congresso per far crescere il numero di donne ai vertici dello sport",
+      "link": "https://www.gazzetta.it/Sport-Vari/21-09-2026/donne-ai-vertici-dello-sport-a-roma-il-primo-congresso.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-09-21"
+    },
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Roma incorona i giovani talenti internazionali, l'Abruzzo assegna i titoli tricolori paralimpici",
+      "link": "https://www.gazzetta.it/bocce/17-09-2026/bocce-roma-incorona-i-giovani-talenti-l-abruzzo-assegna-i-tricolori-paralimpici.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-09-17"
+    },
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Calcio: Juve; Kolo Muani operato al J Medical, intervento riuscito",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/21/calcio-juve-kolo-muani-operato-al-j-medical-intervento-riuscito_7fba01f5-07f1-47c3-891c-dee52acddfbc.html",
+      "fonte": "ANSA Sport",
+      "data_evento": "2026-09-21"
+    },
     {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
@@ -17,30 +41,6 @@
       "link": "https://www.gazzetta.it/Sport-Vari/16-09-2026/terry-mcgovern-chi-era-il-campione-di-boxe-soprannominato-il-terribile.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-09-16"
-    },
-    {
-      "sottocategoria": "Acqua",
-      "tipo": "notizia",
-      "titolo": "Dalla Nazionale a Miss Italia: Sarah Rizea porta il nuoto artistico alla finale nazionale",
-      "link": "https://www.gazzetta.it/Altri-Mondi/19-09-2026/sarah-rizea-a-miss-italia.shtml",
-      "fonte": "Gazzetta — Nuoto e Pallanuoto",
-      "data_evento": "2026-09-19"
-    },
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "Mondiali su strada: buon 7° posto per Crippa nella mezza maratona. Record del mondo \"solo donne\" per Ngetich",
-      "link": "https://www.gazzetta.it/Atletica/21-09-2026/mondiali-su-strada-crippa-7-nella-mezza-maratona-record-del-mondo-solo.shtml",
-      "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-09-21"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "La Spagna di Alcaraz e la Germania di Zverev per l'Italia: ecco chi andrà a Bologna alle finali di Davis",
-      "link": "https://www.gazzetta.it/Tennis/Coppa-Davis/20-09-2026/chi-accede-ai-final-8-di-coppa-davis-a-bologna.shtml",
-      "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-09-20"
     }
   ]
 }
