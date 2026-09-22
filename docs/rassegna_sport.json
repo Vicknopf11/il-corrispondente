@@ -1,6 +1,30 @@
 {
-  "generato": "2026-09-22T10:12:56.645048+00:00",
+  "generato": "2026-09-22T15:35:40.811036+00:00",
   "item": [
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Europei giovanili di raffa a Predazzo: l'Italia a caccia del titolo continentale",
+      "link": "https://www.gazzetta.it/bocce/22-09-2026/europei-giovanili-raffa-a-predazzo-l-italia-a-caccia-del-titolo-continentale.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-09-22"
+    },
+    {
+      "sottocategoria": "Combattimento",
+      "tipo": "notizia",
+      "titolo": "Euro 2032: Abodi 'progetto stadio Maradona ha i requisiti per essere eleggibile'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/22/euro-2032-abodi-progetto-stadio-maradona-ha-i-requisiti-per-essere-eleggibile_40e76d6c-5fc0-46d3-b753-c3d50cef319f.html",
+      "fonte": "ANSA Sport",
+      "data_evento": "2026-09-22"
+    },
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Incontro Orsato-club, 'autocritica sugli errori arbitrali, ma linea Var resta quella'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/21/incontro-orsato-club-autocritica-sugli-errori-arbitrali-ma-linea-var-resta_4c7c5258-27d3-425c-b34d-2ce541d2c69e.html",
+      "fonte": "ANSA Sport",
+      "data_evento": "2026-09-21"
+    },
     {
       "sottocategoria": "Calcio femminile",
       "tipo": "notizia",
@@ -12,35 +36,10 @@
     {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
-      "titolo": "Basket in carrozzina, Carossino e il sogno olimpico: \"Siamo un gruppo forte, vogliamo i Giochi di Los Angeles\"",
-      "link": "https://www.gazzetta.it/Paralimpici/20-09-2026/basket-in-carrozzina-l-argento-mondiale-e-il-sogno-olimpico-carossino-un-gruppo-forte.shtml",
-      "fonte": "Gazzetta — Paralimpici",
-      "data_evento": "2026-09-20",
-      "paralimpico": true
-    },
-    {
-      "sottocategoria": "Acqua",
-      "tipo": "notizia",
-      "titolo": "Sarah Rizea è Miss Italia 2026: chi è la 18enne atleta delle Fiamme Oro",
-      "link": "https://www.gazzetta.it/spettacolo-tv-gossip/21-09-2026/sarah-rizea-e-miss-italia-2026-chi-e-la-18enne-atleta-delle-fiamme-oro.shtml",
-      "fonte": "Gazzetta — Nuoto e Pallanuoto",
-      "data_evento": "2026-09-21"
-    },
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "De la Quadra Salcedo, 70 anni fa lo storico record del mondo (cancellato) del giavellotto. Il motivo? Troppo pericoloso",
-      "link": "https://www.gazzetta.it/Atletica/21-09-2026/de-la-quadra-salcedo-70-anni-fa-lo-storico-record-del-mondo-cancellato-del-giavellotto.shtml",
-      "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-09-21"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Sinner felice come un bambino: il regalo lo sorprende",
-      "link": "https://video.gazzetta.it/tennis/atp/sinner-felice-come-un-bambino-il-regalo-lo-sorprende/5a518fea-3919-498d-98df-5db636fe1xlk",
-      "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-09-22"
+      "titolo": "Italbasket in carrozzina, il capitano Carossino dopo la finale: “Non è un oro perso, ma un argento vinto”",
+      "link": "https://video.gazzetta.it/sport-vari/video-italbasket-in-carrozzina-il-capitano-carossino-dopo-la-finale-non-e-un-oro-perso/9b029b7a-3613-47a9-bf3c-f70f15246xlk",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-09-20"
     }
   ]
 }
