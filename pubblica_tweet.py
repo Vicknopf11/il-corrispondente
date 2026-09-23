@@ -12,6 +12,13 @@ import sys
 
 CODA_FILE = "coda_x.json"
 OG_IMG_DIR = "docs/assets/og"
+COSTI_X_FILE = "docs/costi_x.json"
+MAX_COSTI_X_GIORNI = 180
+
+# Prezzi X verificati da Ferruccio il 23/09/2026 via il dashboard X Developer
+# (breakdown reale per voce, incollato in chat) — non stimati.
+PREZZO_POST_CON_URL_USD = 0.20    # "Content: Create with URL" — post con link
+PREZZO_POST_NORMALE_USD = 0.015   # "Post: Create" — post senza link (con o senza media)
 
 # Exit code dedicato per l'errore 402 (credito X esaurito), distinto dal
 # generico 1 usato per qualsiasi altro tipo di fallimento di pubblicazione.
@@ -113,6 +120,40 @@ def pubblica_su_x(testo: str, url: str = None, media_id: str = None) -> bool:
         return False
 
 
+def logga_costo_x(coda: dict, prossimo: dict, con_url: bool) -> None:
+    """Logga il costo di questa pubblicazione in docs/costi_x.json
+    (append-only, storico limitato a MAX_COSTI_X_GIORNI). Prezzi fissi e
+    noti (non stimati) — vedi PREZZO_POST_CON_URL_USD/PREZZO_POST_NORMALE_USD.
+    Non deve mai bloccare la pipeline: eventuali errori sono solo loggati."""
+    try:
+        costo = PREZZO_POST_CON_URL_USD if con_url else PREZZO_POST_NORMALE_USD
+
+        voce = {
+            "data": coda.get("data"),
+            "slug": prossimo.get("slug"),
+            "categoria": prossimo.get("categoria"),
+            "evidenza": prossimo.get("evidenza", False),
+            "tipo_richiesta": "ContentCreateWithUrl" if con_url else "PostCreate",
+            "costo_usd": costo,
+        }
+
+        if os.path.exists(COSTI_X_FILE):
+            with open(COSTI_X_FILE, encoding="utf-8") as f:
+                log = json.load(f)
+        else:
+            log = {"pubblicazioni": []}
+
+        log["pubblicazioni"].insert(0, voce)
+        log["pubblicazioni"] = log["pubblicazioni"][:MAX_COSTI_X_GIORNI]
+
+        with open(COSTI_X_FILE, "w", encoding="utf-8") as f:
+            json.dump(log, f, ensure_ascii=False, indent=2)
+
+        print(f"✓ Costo X loggato — {voce['tipo_richiesta']} — ${costo}")
+    except Exception as e:
+        print(f"⚠ Logging costi X fallito (non bloccante): {e}")
+
+
 def main() -> None:
     if not os.path.exists(CODA_FILE):
         print("Nessuna coda trovata — probabilmente genera.py non è ancora girato oggi.")
@@ -151,6 +192,7 @@ def main() -> None:
         prossimo["pubblicato"] = True
         with open(CODA_FILE, "w", encoding="utf-8") as f:
             json.dump(coda, f, ensure_ascii=False, indent=2)
+        logga_costo_x(coda, prossimo, con_url=bool(url_da_usare))
     else:
         sys.exit(1)
 
