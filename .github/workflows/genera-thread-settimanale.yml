@@ -1,9 +1,9 @@
 name: Thread Settimanale su X
 
 on:
-  schedule:
-    - cron: '0 7 * * 6'   # ~09:00 ora italiana di sabato (UTC+2, come gli altri workflow
-                           # del progetto non gestisce il cambio ora legale: in CET diventa ~10:00)
+  repository_dispatch:
+    types: [genera-thread-settimanale]   # trigger esterno via cron-job.org — ora gestibile
+                                          # con fuso orario Europe/Rome corretto (niente più UTC fisso)
   workflow_dispatch:         # consente esecuzione manuale
 
 jobs:

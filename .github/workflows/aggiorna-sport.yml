@@ -4,9 +4,10 @@ name: Rassegna Sportiva (fonti gratuite)
 # ANTHROPIC_API_KEY, niente pubblicazione su X. Solo raccolta da fonti
 # gratuite (RSS + TheSportsDB) e aggiornamento del sito.
 on:
-  schedule:
-    - cron: '30 5,11,17 * * *'   # 07:30, 13:30, 19:30 ora italiana (UTC+2)
-  workflow_dispatch:              # consente esecuzione manuale
+  repository_dispatch:
+    types: [aggiorna-sport]   # trigger esterno via cron-job.org, 3 job separati su cron-job.org
+                              # (uno per orario) che inviano lo stesso event_type
+  workflow_dispatch:         # consente esecuzione manuale
 
 jobs:
   raccogli:

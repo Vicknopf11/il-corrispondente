@@ -1,12 +1,9 @@
 name: Pubblica Tweet dalla Coda
 
 on:
-  schedule:
-    - cron: '35 7 * * *'    # ~09:20 ora italiana — poco dopo la generazione
-    - cron: '37 9 * * *'    # ~11:37 ora italiana
-    - cron: '7 12 * * *'    # ~14:07 ora italiana
-    - cron: '7 15 * * *'    # ~17:07 ora italiana
-    - cron: '7 18 * * *'    # ~20:07 ora italiana
+  repository_dispatch:
+    types: [pubblica-tweet]   # trigger esterno via cron-job.org, 5 job separati su cron-job.org
+                              # (uno per orario) che inviano lo stesso event_type
   workflow_dispatch:         # consente esecuzione manuale
 
 jobs:
