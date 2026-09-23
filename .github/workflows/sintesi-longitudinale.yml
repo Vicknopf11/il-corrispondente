@@ -1,0 +1,25 @@
+name: Stadio A - Sintesi Longitudinale
+
+# Rilegge docs/posts.json cercando meccanismi ricorrenti (>=4 volte in 30
+# giorni). Nessuna chiamata Anthropic: solo lettura JSON + eventuale
+# apertura di una GitHub Issue. Costo: zero.
+
+on:
+  repository_dispatch:
+    types: [sintesi-longitudinale]   # trigger esterno via cron-job.org
+  workflow_dispatch:                  # consente esecuzione manuale
+
+permissions:
+  issues: write   # necessario per aprire le issue di pattern ricorrenti
+
+jobs:
+  analizza:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Cerca pattern ricorrenti
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python sintesi_longitudinale.py
