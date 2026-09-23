@@ -21,6 +21,15 @@ CATEGORIE = [
     "Cronaca",
 ]
 MAX_ARCHIVIO_GIORNI = 30
+COSTI_FILE = "docs/costi_categoria.json"
+MAX_COSTI_GIORNI = 180  # storico più lungo di posts.json: serve per osservare trend nel tempo
+
+# Prezzi verificati il 23/09/2026 da Ferruccio via la pagina ufficiale
+# https://platform.claude.com/docs/en/about-claude/pricing — aggiorna questi
+# valori se cambiano (Anthropic può rivedere i prezzi nel tempo).
+PREZZO_INPUT_PER_MILIONE_USD = 3.0
+PREZZO_OUTPUT_PER_MILIONE_USD = 15.0
+PREZZO_WEB_SEARCH_PER_RICERCA_USD = 0.01  # $10 ogni 1.000 ricerche
 POSTS_FILE = "docs/posts.json"
 FEED_FILE = "docs/feed.xml"
 CODA_FILE = "coda_x.json"
@@ -488,6 +497,86 @@ def estrai_json(testo: str) -> str:
     )
 
 
+def logga_costo(response, edizione: dict) -> None:
+    """Logga token/uso-web-search della generazione odierna in
+    docs/costi_categoria.json (append-only, storico limitato a
+    MAX_COSTI_GIORNI). Non deve mai bloccare la pipeline: qualsiasi
+    errore qui viene segnalato ma non solleva eccezione."""
+    try:
+        usage = response.usage
+        input_tokens = usage.input_tokens
+        output_tokens = usage.output_tokens
+        web_search_richieste = (
+            usage.server_tool_use.web_search_requests
+            if usage.server_tool_use else 0
+        )
+
+        # Ripartizione per categoria: STIMATA, non misurata — proporzionale
+        # alla lunghezza del testo generato per ciascun post (post_sito +
+        # post_x + eventuali prospettive/implicazioni), perché un'unica
+        # chiamata API produce l'intera edizione in un colpo solo e
+        # l'API non riporta un costo separato per porzione di risposta.
+        lunghezze = {}
+        for p in edizione.get("post", []):
+            cat = p.get("categoria", "sconosciuta")
+            pezzi = [
+                p.get("post_sito", ""),
+                p.get("post_x", ""),
+                p.get("implicazioni", "") or "",
+                json.dumps(p.get("prospettive", []), ensure_ascii=False),
+            ]
+            lunghezze[cat] = lunghezze.get(cat, 0) + sum(len(x) for x in pezzi)
+        totale_lunghezza = sum(lunghezze.values()) or 1
+
+        breakdown = {
+            cat: {
+                "frazione_stimata": round(l / totale_lunghezza, 4),
+                "output_tokens_stimati": round(output_tokens * l / totale_lunghezza),
+            }
+            for cat, l in lunghezze.items()
+        }
+
+        costo_usd = None
+        if PREZZO_INPUT_PER_MILIONE_USD is not None and PREZZO_OUTPUT_PER_MILIONE_USD is not None:
+            costo_usd = round(
+                input_tokens / 1_000_000 * PREZZO_INPUT_PER_MILIONE_USD
+                + output_tokens / 1_000_000 * PREZZO_OUTPUT_PER_MILIONE_USD
+                + web_search_richieste * PREZZO_WEB_SEARCH_PER_RICERCA_USD,
+                4,
+            )
+
+        voce = {
+            "data": edizione.get("data"),
+            "modello": "claude-sonnet-4-6",
+            "input_tokens": input_tokens,
+            "output_tokens": output_tokens,
+            "web_search_richieste": web_search_richieste,
+            "stop_reason": response.stop_reason,
+            "costo_stimato_usd": costo_usd,  # None finché i prezzi non sono verificati
+            "breakdown_per_categoria_stimato": breakdown,
+        }
+
+        if os.path.exists(COSTI_FILE):
+            with open(COSTI_FILE, encoding="utf-8") as f:
+                log = json.load(f)
+        else:
+            log = {"generazioni": []}
+
+        log["generazioni"] = [
+            g for g in log["generazioni"] if g.get("data") != voce["data"]
+        ]
+        log["generazioni"].insert(0, voce)
+        log["generazioni"] = log["generazioni"][:MAX_COSTI_GIORNI]
+
+        with open(COSTI_FILE, "w", encoding="utf-8") as f:
+            json.dump(log, f, ensure_ascii=False, indent=2)
+
+        print(f"✓ Costi loggati — {input_tokens} input / {output_tokens} output token, "
+              f"{web_search_richieste} ricerche web")
+    except Exception as e:
+        print(f"⚠ Logging costi fallito (non bloccante): {e}")
+
+
 def genera_post() -> dict:
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
     categorie_str = "\n".join(f"- {c}" for c in CATEGORIE)
@@ -519,7 +608,9 @@ def genera_post() -> dict:
             f"JSON malformato ({e}). Candidato estratto:\n{json_testo}"
         ) from e
 
-    return valida_edizione(edizione)
+    edizione_valida = valida_edizione(edizione)
+    logga_costo(response, edizione_valida)
+    return edizione_valida
 
 def crea_coda_x(edizione: dict) -> None:
     """Crea la coda dei tweet del giorno, da pubblicare uno alla volta

@@ -28,6 +28,13 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python genera.py
 
+      - name: Riepilogo costi nel summary della run
+        run: |
+          echo "### 💰 Costo generazione di oggi" >> "$GITHUB_STEP_SUMMARY"
+          echo '```json' >> "$GITHUB_STEP_SUMMARY"
+          jq '.generazioni[0]' docs/costi_categoria.json >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+
       - name: Costruisci pagine permalink e sitemap
         run: python costruisci_sito.py
 
@@ -38,6 +45,6 @@ jobs:
         run: |
           git config user.name "Il Corrispondente Bot"
           git config user.email "bot@il-corrispondente"
-          git add docs/posts.json docs/feed.xml docs/sitemap.xml docs/prompt.html coda_x.json docs/20* docs/assets/og
+          git add docs/posts.json docs/feed.xml docs/sitemap.xml docs/prompt.html docs/costi_categoria.json coda_x.json docs/20* docs/assets/og
           git diff --staged --quiet || git commit -m "Edizione del $(date +'%Y-%m-%d')"
           git push
