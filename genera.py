@@ -542,6 +542,8 @@ def crea_coda_x(edizione: dict) -> None:
             {
                 "testo": p.get("post_x") or p.get("post_sito", "")[:280],
                 "url": permalink(p),
+                "slug": p.get("slug"),
+                "evidenza": p.get("evidenza", False),
                 "pubblicato": False,
             }
             for p in edizione.get("post", [])
