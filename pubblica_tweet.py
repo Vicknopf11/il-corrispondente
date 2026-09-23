@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Il Corrispondente Artificiale — Pubblicazione distribuita su X
+Il Corrispondente IA — Pubblicazione distribuita su X
 Pubblica UN SOLO tweet in attesa dalla coda del giorno, ad ogni esecuzione.
 Pensato per essere lanciato più volte al giorno a orari diversi,
 distribuendo nel tempo i post generati in un'unica edizione mattutina.

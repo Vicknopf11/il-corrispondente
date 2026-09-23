@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Il Corrispondente Artificiale — Generatore automatico di prompt.html
+Il Corrispondente IA — Generatore automatico di prompt.html
 
 Legge SYSTEM_PROMPT e PROMPT_UTENTE_TEMPLATE direttamente da genera.py e li
 inietta in docs/prompt.html, sostituendo solo i due blocchi "prompt-box"

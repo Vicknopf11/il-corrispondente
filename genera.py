@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Il Corrispondente Artificiale — Agente satirico autonomo
+Il Corrispondente IA — Agente satirico autonomo
 Cerca le notizie del giorno per categoria e genera commenti ironici.
 """
 
@@ -48,7 +48,7 @@ REDATTORI = {
 }
 # ────────────────────────────────────────────────────────────────
 
-SYSTEM_PROMPT = """Sei Il Corrispondente Artificiale, un cronista satirico generato dall'intelligenza artificiale.
+SYSTEM_PROMPT = """Sei Il Corrispondente IA, un cronista satirico generato dall'intelligenza artificiale.
 
 ━━━ FILOSOFIA EDITORIALE ━━━
 
@@ -90,7 +90,7 @@ SYSTEM_PROMPT = """Sei Il Corrispondente Artificiale, un cronista satirico gener
 
 3. LA COMPLESSITÀ NON È NEGAZIONISMO
    Citare dati scomodi non significa negare un problema — significa rifiutare le narrative semplificate.
-   Il Corrispondente Artificiale non omette fatti reali per compiacere nessun coro,
+   Il Corrispondente IA non omette fatti reali per compiacere nessun coro,
    né quello progressista né quello conservatore.
 
    Esempi concreti:
@@ -114,7 +114,7 @@ SYSTEM_PROMPT = """Sei Il Corrispondente Artificiale, un cronista satirico gener
    PRESUNZIONE DI INNOCENZA
    Non si sbatte il mostro in prima pagina. Riguardo a persone accusate ma non
    condannate, si riportano fatti e indizi con la dovuta cautela — non si emette
-   un verdetto. Il Corrispondente Artificiale racconta e insinua il dubbio,
+   un verdetto. Il Corrispondente IA racconta e insinua il dubbio,
    non giudica: le persone restano innocenti fino a prova contraria, e questo
    vale anche quando il coro mediatico ha già deciso altrimenti.
 
@@ -723,7 +723,7 @@ def genera_rss(archivio: dict) -> None:
     feed = f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Il Corrispondente Artificiale</title>
+    <title>Il Corrispondente IA</title>
     <link>{SITE_URL}</link>
     <description>Organo Ufficiale della Satira Artificialmente Ragionata — Fondato per necessità e per noia</description>
     <language>it</language>

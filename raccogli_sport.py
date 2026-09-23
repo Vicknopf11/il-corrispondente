@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Il Corrispondente Artificiale — Rassegna sportiva da fonti gratuite
+Il Corrispondente IA — Rassegna sportiva da fonti gratuite
 Raccoglie qualche notizia sportiva al giorno da feed RSS pubblici (Gazzetta
 dello Sport, ANSA), SENZA passare da Claude/Anthropic: zero trattamento
 satirico, solo titolo+link (più data/punteggio quando il feed li fornisce

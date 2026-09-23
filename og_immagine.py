@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Il Corrispondente Artificiale — Generatore di immagini OG per i permalink
+Il Corrispondente IA — Generatore di immagini OG per i permalink
 Per ogni articolo genera un'immagine 1200x630 (formato standard OG/Twitter
 card) con categoria, titolo ed estratto — uno "screenshot ricostruito",
 non un vero screenshot del browser: niente Chromium in CI, solo Pillow.
@@ -171,7 +171,7 @@ def genera_immagine_og(post: dict, percorso_output: str) -> None:
 
     # Firma in basso nella card
     font_firma = _font("PTSerif-Italic.ttf", 22)
-    firma = "Il Corrispondente Artificiale — corrispondente.filoclastos.it"
+    firma = "Il Corrispondente IA — corrispondente.filoclastos.it"
     draw.text((x_testo, Y_FIRMA), firma, font=font_firma, fill=GRIGIO_CHIARO)
 
     os.makedirs(os.path.dirname(percorso_output), exist_ok=True)

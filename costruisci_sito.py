@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Il Corrispondente Artificiale — Costruttore di pagine permalink
+Il Corrispondente IA — Costruttore di pagine permalink
 Legge docs/posts.json e genera una pagina statica per ogni articolo
 sotto docs/{anno}/{mese}/{giorno}/{slug}/index.html
 
@@ -131,10 +131,10 @@ def costruisci_pagina(post: dict, data_str: str, anno: str, mese: str, giorno: s
         "@type": "NewsArticle",
         "headline": titolo,
         "datePublished": f"{data_iso}T09:00:00+02:00",
-        "author": {"@type": "Organization", "name": "Il Corrispondente Artificiale"},
+        "author": {"@type": "Organization", "name": "Il Corrispondente IA"},
         "publisher": {
             "@type": "Organization",
-            "name": "Il Corrispondente Artificiale",
+            "name": "Il Corrispondente IA",
             "logo": {"@type": "ImageObject", "url": OG_IMAGE},
         },
         "mainEntityOfPage": {"@type": "WebPage", "@id": canonical},
@@ -147,7 +147,7 @@ def costruisci_pagina(post: dict, data_str: str, anno: str, mese: str, giorno: s
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{esc(titolo)} — Il Corrispondente Artificiale</title>
+  <title>{esc(titolo)} — Il Corrispondente IA</title>
   <meta name="description" content="{esc(descrizione)}">
   <link rel="canonical" href="{canonical}">
   <meta property="og:type" content="article">
@@ -408,7 +408,7 @@ def costruisci_pagina(post: dict, data_str: str, anno: str, mese: str, giorno: s
 <body>
 
 <header>
-  <h1><a href="{ROOT_REL}index.html">Il Corrispondente Artificiale</a></h1>
+  <h1><a href="{ROOT_REL}index.html">Il Corrispondente IA</a></h1>
   <p class="organo">Organo Ufficiale della Satira Artificialmente Ragionata &mdash; Fondato per necessità e per noia</p>
   <nav>
     <a href="{ROOT_REL}index.html">Edizioni</a>
@@ -437,7 +437,7 @@ def costruisci_pagina(post: dict, data_str: str, anno: str, mese: str, giorno: s
 </main>
 
 <footer>
-  Il Corrispondente Artificiale &mdash; Tutti i diritti satiricamente riservati<br>
+  Il Corrispondente IA &mdash; Tutti i diritti satiricamente riservati<br>
   Nessuna notizia è stata danneggiata durante la produzione di questo contenuto<br>
   Generato ogni mattina da Claude (Anthropic) &middot;
   <a href="{ROOT_REL}chi-siamo.html">Chi siamo &middot; Manifesto editoriale</a> &middot;

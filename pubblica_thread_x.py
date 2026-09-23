@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Il Corrispondente Artificiale — Pubblicazione del thread settimanale su X
+Il Corrispondente IA — Pubblicazione del thread settimanale su X
 A differenza di pubblica_tweet.py (un tweet a esecuzione, distribuito nella
 giornata), questo script pubblica TUTTO il thread in un'unica esecuzione:
 un thread ha bisogno dell'ID del tweet precedente per incatenarsi, quindi

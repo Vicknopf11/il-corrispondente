@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Il Corrispondente Artificiale — Thread settimanale di approfondimento su X
+Il Corrispondente IA — Thread settimanale di approfondimento su X
 Ogni sabato, il modello rilegge le edizioni degli ultimi 7 giorni, scelte
 autonomamente in base a rilevanza/impatto (non necessariamente l'ultima
 uscita), e sceglie UN SOLO articolo su cui costruire un thread breve
