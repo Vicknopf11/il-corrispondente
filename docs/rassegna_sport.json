@@ -1,45 +1,46 @@
 {
-  "generato": "2026-08-30T14:04:02.004556+00:00",
+  "generato": "2026-09-22T20:22:18.757006+00:00",
   "item": [
-    {
-      "sottocategoria": "Combattimento",
-      "tipo": "notizia",
-      "titolo": "Incassa, va a terra, resiste e alla nona ripresa si scatena: Hrgovic, da vittima sacrificale a campione dei massimi",
-      "link": "https://www.gazzetta.it/Sport-Vari/30-08-2026/hrgovic-itauma-campione-pesi-massimi.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-08-30"
-    },
-    {
-      "sottocategoria": "Acqua",
-      "tipo": "notizia",
-      "titolo": "Il quattro di coppia è oro ai Mondiali. Che trionfo per i Cavalieri delle Acque",
-      "link": "https://www.gazzetta.it/Sport-Vari/29-08-2026/italia-oro-quattro-di-coppia-mondiali-canottaggio.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-08-29"
-    },
     {
       "sottocategoria": "Calcio femminile",
       "tipo": "notizia",
-      "titolo": "Canottaggio, Mondiali di Amsterdam: tre barche azzurre volano in finale!",
-      "link": "https://www.gazzetta.it/Sport-Vari/26-08-2026/canottaggio-mondiali-di-amsterdam-italia-tre-barche-in-finale.shtml",
+      "titolo": "A Roma il primo Congresso per far crescere il numero di donne ai vertici dello sport",
+      "link": "https://www.gazzetta.it/Sport-Vari/21-09-2026/donne-ai-vertici-dello-sport-a-roma-il-primo-congresso.shtml",
       "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-08-26"
+      "data_evento": "2026-09-21"
     },
     {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
-      "titolo": "Sudafrica, che riscatto: All Blacks sconfitti 33-26 e serie sull'1-1",
-      "link": "https://www.gazzetta.it/Rugby/29-08-2026/rugby-sudafrica-all-blacks-33-26-e-serie-sull-1-1.shtml",
-      "fonte": "Gazzetta — Rugby",
-      "data_evento": "2026-08-29"
+      "titolo": "Basket in carrozzina, Carossino e il sogno olimpico: \"Siamo un gruppo forte, vogliamo i Giochi di Los Angeles\"",
+      "link": "https://www.gazzetta.it/Paralimpici/20-09-2026/basket-in-carrozzina-l-argento-mondiale-e-il-sogno-olimpico-carossino-un-gruppo-forte.shtml",
+      "fonte": "Gazzetta — Paralimpici",
+      "data_evento": "2026-09-20",
+      "paralimpico": true
+    },
+    {
+      "sottocategoria": "Acqua",
+      "tipo": "notizia",
+      "titolo": "Sarah Rizea è Miss Italia 2026: chi è la 18enne atleta delle Fiamme Oro",
+      "link": "https://www.gazzetta.it/spettacolo-tv-gossip/21-09-2026/sarah-rizea-e-miss-italia-2026-chi-e-la-18enne-atleta-delle-fiamme-oro.shtml",
+      "fonte": "Gazzetta — Nuoto e Pallanuoto",
+      "data_evento": "2026-09-21"
     },
     {
       "sottocategoria": "Atletica",
       "tipo": "notizia",
-      "titolo": "Dal riformatorio a quel salto nel futuro: gli 80 anni di Bob Beamon",
-      "link": "https://www.gazzetta.it/Atletica/29-08-2026/bob-beamon-compie-80-anni-dal-riformatorio-al-record-mondiale-di-salto-in-lungo-nel-1968.shtml",
+      "titolo": "De la Quadra Salcedo, 70 anni fa lo storico record del mondo (cancellato) del giavellotto. Il motivo? Troppo pericoloso",
+      "link": "https://www.gazzetta.it/Atletica/21-09-2026/de-la-quadra-salcedo-70-anni-fa-lo-storico-record-del-mondo-cancellato-del-giavellotto.shtml",
       "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-08-29"
+      "data_evento": "2026-09-21"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "\"Nadal è più in forma ora di due anni fa”: il video stupisce i fan",
+      "link": "https://video.gazzetta.it/tennis/atp/video-nadal-e-piu-in-forma-ora-di-due-anni-fa-il-filmato-stupisce-i-fan/ef8e6853-54a1-4858-9ee9-b66095475xlk",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-09-22"
     }
   ]
 }
