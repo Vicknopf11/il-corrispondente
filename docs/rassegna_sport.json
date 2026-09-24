@@ -1,30 +1,6 @@
 {
-  "generato": "2026-09-24T11:31:02.903110+00:00",
+  "generato": "2026-09-24T17:31:05.671210+00:00",
   "item": [
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "Iapichino, modella per un giorno: \"Meglio saltare, mi batteva il cuore. Ma non è il mio mondo, in futuro...\"",
-      "link": "https://www.gazzetta.it/Atletica/24-09-2026/larissa-iapichino-intervista-modella.shtml",
-      "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-09-24"
-    },
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Europei giovanili di raffa a Predazzo: l'Italia a caccia del titolo continentale",
-      "link": "https://www.gazzetta.it/bocce/22-09-2026/europei-giovanili-raffa-a-predazzo-l-italia-a-caccia-del-titolo-continentale.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-09-22"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "America's Cup: l'emozione di Porro, io alla guida di Luna Rossa messaggio alle donne",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/24/americas-cup-lemozione-di-porro-io-alla-guida-di-luna-rossa-messaggio-alle_ae00344b-0ca6-4338-960c-499a214268a9.html",
-      "fonte": "ANSA Sport",
-      "data_evento": "2026-09-24"
-    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
@@ -40,6 +16,31 @@
       "link": "https://www.gazzetta.it/Sport-Vari/23-09-2026/milano-sport-fun-experience-village-talent-eurosport.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-09-23"
+    },
+    {
+      "sottocategoria": "Calcio femminile",
+      "tipo": "notizia",
+      "titolo": "A Roma il primo Congresso per far crescere il numero di donne ai vertici dello sport",
+      "link": "https://www.gazzetta.it/Sport-Vari/21-09-2026/donne-ai-vertici-dello-sport-a-roma-il-primo-congresso.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-09-21"
+    },
+    {
+      "sottocategoria": "Squadra",
+      "tipo": "notizia",
+      "titolo": "Basket in carrozzina, Carossino e il sogno olimpico: \"Siamo un gruppo forte, vogliamo i Giochi di Los Angeles\"",
+      "link": "https://www.gazzetta.it/Paralimpici/20-09-2026/basket-in-carrozzina-l-argento-mondiale-e-il-sogno-olimpico-carossino-un-gruppo-forte.shtml",
+      "fonte": "Gazzetta — Paralimpici",
+      "data_evento": "2026-09-20",
+      "paralimpico": true
+    },
+    {
+      "sottocategoria": "Acqua",
+      "tipo": "notizia",
+      "titolo": "Sarah Rizea è Miss Italia 2026: chi è la 18enne atleta delle Fiamme Oro",
+      "link": "https://www.gazzetta.it/spettacolo-tv-gossip/21-09-2026/sarah-rizea-e-miss-italia-2026-chi-e-la-18enne-atleta-delle-fiamme-oro.shtml",
+      "fonte": "Gazzetta — Nuoto e Pallanuoto",
+      "data_evento": "2026-09-21"
     }
   ]
 }
