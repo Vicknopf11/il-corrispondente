@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-09-24",
+      "slug": "andrea-moretti-morto-colosseo-lavori-appalto",
+      "categoria": "Cronaca",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-09-24",
       "slug": "ciclismo-mondiali-montreal-italia-oro-staffetta-mista",
       "categoria": "Sport",
       "evidenza": false,
