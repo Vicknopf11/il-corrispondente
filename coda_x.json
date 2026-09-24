@@ -1,30 +1,45 @@
 {
-  "data": "2026-09-23",
+  "data": "2026-09-24",
   "tweet": [
     {
-      "testo": "Trump all'ONU: «O accordo o annienterò l'Iran». Mentre parla, i suoi inviati sono già seduti a un tavolo con Teheran. Il monologo del signore della guerra. E del negoziato. Stesso attore, stesso giorno.",
-      "url": "https://corrispondente.filoclastos.it/2026/09/23/trump-onu-iran-annientamento-trattativa-segreta/",
-      "pubblicato": true
+      "testo": "Un Mi-8 russo vola 300 metri in Polonia per 42 secondi. Caccia scramble, allarme NATO. Intanto Zelensky parla all'ONU e Mosca bombarda Kiev. La guerra spiegata in tre scene contemporanee. #Russia #NATO",
+      "url": "https://corrispondente.filoclastos.it/2026/09/24/elicottero-russo-spazio-aereo-polonia-nato/",
+      "slug": "elicottero-russo-spazio-aereo-polonia-nato",
+      "categoria": "Politica Internazionale",
+      "evidenza": false,
+      "pubblicato": false
     },
     {
-      "testo": "Meloni: «Mattarella da ministro firmava circolari per distribuire gli stranieri in classe». Ergo: anche lui era razzista, ergo siamo tutti d'accordo. La politica italiana ha trovato il suo genere letterario: il judo citazionale.",
-      "url": "https://corrispondente.filoclastos.it/2026/09/23/meloni-mattarella-stranieri-scuola-circolari-scontro/",
-      "pubblicato": true
+      "testo": "Il Senato vota il ritorno al nucleare. Gli italiani avevano già detto no due volte: 1987 e 2011. Ma stavolta la democrazia ha fretta. E i contractor degli SMR già brindano. #Nucleare #Italia",
+      "url": "https://corrispondente.filoclastos.it/2026/09/24/italia-nucleare-legge-delega-senato-approvazione/",
+      "slug": "italia-nucleare-legge-delega-senato-approvazione",
+      "categoria": "Politica Nazionale",
+      "evidenza": true,
+      "pubblicato": false
     },
     {
-      "testo": "Istat: deficit italiano al 3,1% del PIL. L'Italia resta in procedura d'infrazione UE per uno 0,1%. Giorgetti: «prendiamo atto con rammarico». Salvini: «surreale». Nessuno ha detto chi ha prodotto quel surplus di deficit. Si chiama Superbonus.",
-      "url": "https://corrispondente.filoclastos.it/2026/09/23/deficit-italia-3-1-pil-procedura-ue-manovra/",
-      "pubblicato": true
+      "testo": "Petrolio sopra 100$, borse in rosso. Le crisi internazionali fanno male a tutti — tranne alle compagnie energetiche, che registrano utili record. Beneficio taciuto del giorno. #Petrolio #Energia #Mercati",
+      "url": "https://corrispondente.filoclastos.it/2026/09/24/petrolio-100-dollari-borse-rosso-tensioni-onu-2026/",
+      "slug": "petrolio-100-dollari-borse-rosso-tensioni-onu-2026",
+      "categoria": "Economia",
+      "evidenza": false,
+      "pubblicato": false
     },
     {
-      "testo": "Italia oro nel Team Relay ai Mondiali di ciclismo di Montreal: Ganna, Cattaneo, Sobrero, Longo Borghini, Guazzini e Trinca Colonel in 51'32\". Primo titolo iridato nella specialità. Una notizia che sui giornali sportivi italiani occupa meno spazio della formazione della Juve.",
-      "url": "https://corrispondente.filoclastos.it/2026/09/23/ciclismo-italia-oro-staffetta-mista-mondiali-montreal-2026/",
-      "pubblicato": true
+      "testo": "Italia oro mondiale nella staffetta mista a cronometro a Montreal. Ganna, Longo Borghini e compagni: primo titolo iridato di sempre nella specialità. Bellissimo, punto. 🥇🚴 #Ciclismo #Mondiali2026",
+      "url": "https://corrispondente.filoclastos.it/2026/09/24/ciclismo-mondiali-montreal-italia-oro-staffetta-mista/",
+      "slug": "ciclismo-mondiali-montreal-italia-oro-staffetta-mista",
+      "categoria": "Sport",
+      "evidenza": false,
+      "pubblicato": false
     },
     {
-      "testo": "Torino: bambino di 7 anni travolto in bici mentre andava a scuola col papà. Indossava il casco. È morto in ospedale. Il giorno prima, in Parlamento, si discuteva del tetto agli stranieri nelle classi. Le priorità della scuola sicura.",
-      "url": "https://corrispondente.filoclastos.it/2026/09/23/torino-bambino-7-anni-morto-bici-scuola-corso-regina-margherita/",
-      "pubblicato": true
+      "testo": "Andrea Moretti, 22 anni, muore cadendo dal Colosseo durante lavori notturni. Imbracatura non agganciata. Appalto pubblico. Organico di vigilanza 'esiguo'. Le solite risposte, la solita morte. #Lavoro #Colosseo",
+      "url": "https://corrispondente.filoclastos.it/2026/09/24/andrea-moretti-morto-colosseo-lavori-appalto/",
+      "slug": "andrea-moretti-morto-colosseo-lavori-appalto",
+      "categoria": "Cronaca",
+      "evidenza": false,
+      "pubblicato": false
     }
   ]
 }

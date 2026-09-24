@@ -1,6 +1,120 @@
 {
   "edizioni": [
     {
+      "data": "2026-09-24",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Elicottero russo viola lo spazio aereo polacco: 42 secondi per testare la NATO",
+          "slug": "elicottero-russo-spazio-aereo-polonia-nato",
+          "tag": [
+            "ucraina",
+            "russia",
+            "nato",
+            "polonia"
+          ],
+          "evidenza": false,
+          "fonte": "Sky TG24 / LaPresse",
+          "cerca_url": "https://www.google.com/search?q=elicottero+russo+spazio+aereo+Polonia+settembre+2026",
+          "post_x": "Un Mi-8 russo vola 300 metri in Polonia per 42 secondi. Caccia scramble, allarme NATO. Intanto Zelensky parla all'ONU e Mosca bombarda Kiev. La guerra spiegata in tre scene contemporanee. #Russia #NATO",
+          "post_sito": "Mentre Zelensky all'Assemblea ONU recita la parte del martire e chiede di 'fermare Putin', un elicottero militare russo Mi-8 viola per 42 secondi lo spazio aereo polacco provenendo da Kaliningrad — primo caso noto di un rotante russo oltre il confine terrestre della Polonia. Coincidenza di tempistica o messaggio calibrato per disturbare il palcoscenico diplomatico? La risposta, ovviamente, è entrambe le cose. Chi ci guadagna dall'escalation narrativa è l'industria bellica occidentale, che in questi anni di guerra ha fatturato centinaia di miliardi in forniture e contratti, e la NATO stessa, che ha ritrovato una ragion d'essere che il crollo dell'URSS aveva messo in discussione. Ciò che il racconto dominante tace è che la stessa sessione ONU ospita Trump che minaccia Cuba e l'Iran, mentre a Washington il vertice tra i 'due grandi' — Trump e Xi — si svolge in parallelo e decide davvero i confini del mondo: non nel palazzo di vetro, ma in una sala privata.",
+          "editoriale": false,
+          "redattore": "Il Corrispondente Estero 1.0"
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Italia torna al nucleare: il Senato approva la legge delega Pichetto con 81 voti",
+          "slug": "italia-nucleare-legge-delega-senato-approvazione",
+          "tag": [
+            "nucleare",
+            "energia",
+            "senato",
+            "governo-meloni"
+          ],
+          "evidenza": true,
+          "fonte": "Il Post / ANSA / Euronews",
+          "cerca_url": "https://www.google.com/search?q=senato+approva+legge+delega+nucleare+Italia+2026",
+          "post_x": "Il Senato vota il ritorno al nucleare. Gli italiani avevano già detto no due volte: 1987 e 2011. Ma stavolta la democrazia ha fretta. E i contractor degli SMR già brindano. #Nucleare #Italia",
+          "post_sito": "Dopo due referendum — 1987 e 2011 — in cui gli italiani avevano detto no all'atomo, il Senato approva con 81 voti la legge delega che riapre la porta al nucleare, limitandola però agli SMR (Small Modular Reactors), una tecnologia ancora in fase di sviluppo senza impianti commerciali operativi al mondo. Il mandante invisibile di questa accelerazione non è solo Pichetto Fratin: dietro ci sono i grandi gruppi industriali europei (EDF, Rolls-Royce, Newcleo — quest'ultima con forti radici italiane) che da anni fanno lobbying sugli SMR e vedono nell'Italia un mercato vergine. Ciò che la narrazione trionfale tace: il governo avrà un anno per scrivere i decreti attuativi, le prime centrali sono stimate non prima del 2033-34, e nessuno ha ancora deciso dove collocare il deposito dei rifiuti radioattivi — questione che puntualmente si arena su NIMBY locali. Nel frattempo, l'Italia continua a importare elettricità nucleare dalla Francia pagando il prezzo di chi non la produce. La vera domanda è: quanto varrà l'appalto del secolo per costruire reattori che ancora non esistono?",
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La versione del governo",
+              "testo": "Il governo Meloni presenta la legge delega come una risposta strutturale alla crisi energetica e all'obiettivo di decarbonizzazione al 2050. Il ministro Pichetto Fratin sottolinea che l'Italia oggi importa elettricità nucleare dai paesi vicini senza poterla produrre, e che gli SMR rappresentano la tecnologia di nuova generazione su cui puntano anche Francia, Gran Bretagna e Polonia. I decreti attuativi, promessi entro fine 2026, definiranno le regole su sicurezza, autorizzazioni, gestione dei rifiuti e rapporto con i territori."
+            },
+            {
+              "etichetta": "Le critiche dell'opposizione",
+              "testo": "PD, M5S e AVS hanno votato contro, contestando sia il metodo — una legge delega che lascia al governo ampia discrezionalità attuativa — sia il merito. I critici sottolineano che gli SMR non hanno ancora impianti commerciali operativi al mondo, che i tempi stimati (2033-34) sono ottimistici e che la questione del deposito dei rifiuti radioattivi non è affrontata concretamente. Alcuni osservatori segnalano anche il rischio che la legge delega aggirata il confronto parlamentare sui dettagli più sensibili."
+            },
+            {
+              "etichetta": "Il nodo tecnico-industriale",
+              "testo": "La legge esclude esplicitamente le grandi centrali tradizionali e punta sugli SMR, reattori modulari di piccola e media taglia. Questa tecnologia è in fase di sviluppo avanzato in diversi paesi, ma nessun impianto commerciale è ancora in funzione. Aziende come Newcleo (con azionariato in parte italiano), Rolls-Royce SMR e NuScale sono tra i soggetti industriali potenzialmente interessati. La costruzione del quadro normativo italiano, attesa entro il 2027, sarà determinante per attrarre o scoraggiare investimenti nel settore."
+            },
+            {
+              "etichetta": "Il precedente referendario",
+              "testo": "L'Italia ha già espresso due volte in referendum la propria contrarietà al nucleare: nel 1987, dopo Chernobyl, e nel 2011, dopo Fukushima. La legge delega approvata non abroga il divieto referendario direttamente, ma costruisce un quadro normativo nuovo che lo aggira sul piano giuridico. Alcuni costituzionalisti ritengono che un nuovo referendum potrebbe essere necessario o comunque possibile; il governo respinge questa interpretazione, sostenendo che si tratta di una tecnologia diversa da quella bocciata in passato."
+            }
+          ],
+          "implicazioni": "Nei prossimi 12 mesi il governo dovrà scrivere i decreti attuativi che definiranno concretamente le regole del settore: siti, sicurezza, gestione delle scorie, organi di controllo. Questa fase sarà il vero banco di prova della legge, perché è lì che si deciderà chi costruisce, dove, con quali garanzie e a quali condizioni economiche. Nel frattempo resta aperta la possibilità di un referendum abrogativo, che potrebbe rimettere in discussione l'intera operazione se raccolte le firme necessarie.",
+          "redattore": "Il Bastian Contrario 1.0"
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Petrolio oltre 100 dollari, borse in rosso: l'ONU scalda i mercati energetici",
+          "slug": "petrolio-100-dollari-borse-rosso-tensioni-onu-2026",
+          "tag": [
+            "petrolio",
+            "mercati",
+            "energia",
+            "geopolitica"
+          ],
+          "evidenza": false,
+          "fonte": "Il Sole 24 Ore / Internazionale",
+          "cerca_url": "https://www.google.com/search?q=petrolio+100+dollari+borse+settembre+2026+tensioni+ONU",
+          "post_x": "Petrolio sopra 100$, borse in rosso. Le crisi internazionali fanno male a tutti — tranne alle compagnie energetiche, che registrano utili record. Beneficio taciuto del giorno. #Petrolio #Energia #Mercati",
+          "post_sito": "Le tensioni internazionali all'Assemblea ONU — dal fronte ucraino alle minacce all'Iran — hanno riportato il prezzo del greggio sopra la soglia dei 100 dollari al barile, gelando le borse europee. Milano ha limitato i danni (-0,2%) grazie al traino di ENI, che come ogni volta che il petrolio sale vede il proprio titolo apprezzarsi mentre i cittadini pagano di più alle pompe. Il beneficio taciuto è cristallino: le grandi compagnie energetiche — ENI, TotalEnergies, Shell, BP — registrano utili record ogni volta che la geopolitica si infiamma, indipendentemente da quale parte 'vinca'. Sul fronte macroeconomico, l'OCSE ha rivisto al rialzo le stime del PIL italiano per il 2026, ma avverte che le risorse si stanno esaurendo e che nel 2027 l'Italia tornerà in coda alle economie dell'Eurozona con un +0,6% previsto. Nel frattempo il governo è alle prese con gli ultimi 24 miliardi del PNRR da spendere entro scadenza, concentrati su imprese, energia e università — e con un deficit ancora sopra la soglia europea che rende la manovra autunnale un esercizio di equilibrismo.",
+          "editoriale": false,
+          "redattore": "L'Analista 1.0"
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Ciclismo, l'Italia conquista l'oro mondiale nella staffetta mista a Montreal: primo titolo iridato nella specialità",
+          "slug": "ciclismo-mondiali-montreal-italia-oro-staffetta-mista",
+          "tag": [
+            "ciclismo",
+            "mondiali",
+            "montreal",
+            "staffetta-mista"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Sky Sport / Il Fatto Quotidiano",
+          "cerca_url": "https://www.google.com/search?q=mondiali+ciclismo+Montreal+2026+Italia+oro+staffetta+mista",
+          "post_x": "Italia oro mondiale nella staffetta mista a cronometro a Montreal. Ganna, Longo Borghini e compagni: primo titolo iridato di sempre nella specialità. Bellissimo, punto. 🥇🚴 #Ciclismo #Mondiali2026",
+          "post_sito": "A Montreal l'Italia ha vinto per la prima volta nella storia il titolo mondiale nella staffetta mista a cronometro, specialità nata nel 2019 e finora sempre sfuggita agli azzurri nonostante due bronzi, un argento e due titoli europei. Il sestetto composto da Filippo Ganna, Mattia Cattaneo e Matteo Sobrero per la frazione maschile, e Elisa Longo Borghini, Vittoria Guazzini e Monica Trinca Colonel per quella femminile, ha completato i 40,6 km in 51'32'', precedendo Francia e Svizzera rispettivamente di 8 e 19 secondi. È la terza medaglia italiana ai Mondiali canadesi, dopo gli argenti di Ganna nella crono individuale élite e di Nicolas Milesi nella crono Under 23. Una vittoria collettiva, costruita sul lavoro di un gruppo che ha saputo compensare con la coesione ciò che il ciclismo italiano ancora fatica a esprimere nelle prove in linea. Mentre l'Italvolley esce ai quarti degli Europei eliminata dalla Finlandia, il ciclismo regala alla giornata sportiva italiana il sorriso più largo.",
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0"
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Andrea Moretti, 22 anni, muore al Colosseo: caduta da 10 metri durante lavori notturni in appalto",
+          "slug": "andrea-moretti-morto-colosseo-lavori-appalto",
+          "tag": [
+            "lavoro",
+            "sicurezza",
+            "colosseo",
+            "appalti-pubblici"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Il Sole 24 Ore / Fanpage",
+          "cerca_url": "https://www.google.com/search?q=operaio+morto+Colosseo+Andrea+Moretti+settembre+2026",
+          "post_x": "Andrea Moretti, 22 anni, muore cadendo dal Colosseo durante lavori notturni. Imbracatura non agganciata. Appalto pubblico. Organico di vigilanza 'esiguo'. Le solite risposte, la solita morte. #Lavoro #Colosseo",
+          "post_sito": "Andrea Moretti aveva 22 anni e lavorava come rocciatore specializzato in fune in quota. È morto intorno a mezzanotte al Colosseo, cadendo da circa 10 metri mentre installava un nuovo impianto di illuminazione dell'Anfiteatro Flavio. L'imbracatura era indossata, ma non agganciata ad alcuna fune di sicurezza. La Procura di Roma ha aperto un fascicolo per omicidio colposo e acquisito i documenti relativi all'appalto: i lavori erano in programma per essere completati entro il 9 ottobre, data di inaugurazione del nuovo impianto. La causa strutturale rimossa da quasi ogni titolo di giornale è questa: lavori così delicati in un monumento pubblico tra i più visitati al mondo venivano svolti di notte, con un numero esiguo di dipendenti del ministero a fare da supervisori — carenza di organico denunciata dai sindacati da tempo. La CGIL ha chiesto la chiusura totale del monumento ('l'umanità viene prima dei turisti') e si è costituita parte civile. Il meccanismo degli appalti al ribasso in contesti di alta specializzazione e pressione sulle tempistiche rimane il vero nodo irrisolto: non è la prima morte in un cantiere pubblico di pregio, e senza una riforma strutturale della vigilanza non sarà l'ultima.",
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0"
+        }
+      ]
+    },
+    {
       "data": "2026-09-23",
       "post": [
         {
@@ -3061,97 +3175,7 @@
           "redattore": "L'Osservatore 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-08-19",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Trump dichiara lo Stretto di Hormuz \"territorio USA\": tregua scaduta, nessun colloquio in vista",
-          "slug": "trump-hormuz-territorio-usa-tregua-scaduta",
-          "tag": [
-            "iran",
-            "usa",
-            "hormuz",
-            "guerra"
-          ],
-          "evidenza": true,
-          "fonte": "ANSA / Il Fatto Quotidiano / CNBC",
-          "cerca_url": "https://www.google.com/search?q=Trump+Stretto+Hormuz+territorio+USA+Iran+tregua+scaduta+agosto+2026",
-          "post_x": "Trump annette lo Stretto di Hormuz via tweet. L'Iran: «Non si conquista con un post». Nel mezzo: un quinto del petrolio mondiale, la tregua scaduta e Kushner smentito dal capo. Business as usual. 🛢️",
-          "post_sito": "Donald Trump ha dichiarato lo Stretto di Hormuz «nuovo territorio degli Stati Uniti», pubblicando persino una mappa a corredo — mentre la tregua di 60 giorni firmata ad Islamabad è scaduta il 17 agosto senza rinnovo e la Casa Bianca ha smentito il suo stesso inviato Jared Kushner, negando l'esistenza di colloqui in corso con Teheran. Prima della guerra, dallo Stretto transitava circa un quinto del petrolio mondiale: chi ci guadagna dal blocco prolungato sono i produttori alternativi — Arabia Saudita in testa — e le compagnie di assicurazione marittima, i cui premi sono schizzati a livelli record. Il segretario al Tesoro Scott Bessent ha promesso sanzioni «mai viste prima» contro Teheran, mentre Eurasia Group stima che un accordo limitato, che consenta solo una parziale riapertura del traffico, sia lo scenario più probabile a fine anno: non abbastanza da far crollare i prezzi, abbastanza da far sopravvivere tutti nel limbo. La domanda rimossa dal racconto ufficiale è una sola: con i midterm di novembre alle porte e la popolarità di Trump in calo, quanto conviene davvero chiudere una guerra che regge l'attenzione dell'elettorato?",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Manovra 2027 da 30 miliardi: Meloni usa flessibilità UE su energia e difesa per costruire la «finanziaria elettorale»",
-          "slug": "manovra-2027-meloni-flessibilita-ue-finanziaria-elettorale",
-          "tag": [
-            "manovra",
-            "meloni",
-            "legge-di-bilancio",
-            "elezioni"
-          ],
-          "evidenza": false,
-          "fonte": "Il Sole 24 Ore / Sky TG24 / Money.it",
-          "cerca_url": "https://www.google.com/search?q=manovra+legge+bilancio+2027+Meloni+flessibilita+UE+30+miliardi+agosto+2026",
-          "post_x": "Meloni promette meno tasse con 30 miliardi trovati grazie alla «flessibilità europea». Traduzione: si fa debito in più, ma lo chiamiamo «piano straordinario energia e difesa». La guerra a Hormuz torna utile anche in autunno. 🎩",
-          "post_sito": "Il governo Meloni apre il cantiere della legge di bilancio 2027 — l'ultima della legislatura — puntando a una dote potenziale superiore ai 30 miliardi, da costruire combinando risorse nazionali, flessibilità europea su spese per energia e difesa, e lo strumento comunitario Safe. Il ministro Giorgetti ha ottenuto dal Parlamento il via libera per trattare con Bruxelles uno scostamento che non venga contabilizzato nel fatidico rapporto deficit/Pil del 3%: in pratica, si fa più debito, ma lo si etichetta come «emergenza geopolitica». Il mandante invisibile di questa operazione è il calendario elettorale: fonti interne alla Lega hanno già dichiarato che «dovrà essere una manovra elettorale», con bonus, tagli Irpef e ritocchi alle pensioni pensati per la campagna di primavera. Il contesto rimosso dal racconto dominante è che la stessa «flessibilità» invocata oggi fu negata per anni alle opposizioni quando chiedevano margini per sanità e istruzione: il principio, evidentemente, dipende da chi governa. I mercati, intanto, non si scomporranno: lo spread è sotto controllo e i grandi fondi obbligazionari — che comprano BTP — non amano le instabilità preelettorali proprio quanto non amano le austerità eccessive.",
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Unitree debutta a Shanghai: domanda 8.000 volte l'offerta per i robot umanoidi cinesi, il mercato scommette sull'«embodied AI»",
-          "slug": "unitree-ipo-shanghai-robot-umanoidi-domanda-record",
-          "tag": [
-            "robotica",
-            "cina",
-            "ipo",
-            "intelligenza-artificiale"
-          ],
-          "evidenza": false,
-          "fonte": "Il Sole 24 Ore / Forbes / FIRSTonline",
-          "cerca_url": "https://www.google.com/search?q=Unitree+IPO+Shanghai+domanda+8000+volte+robot+umanoidi+agosto+2026",
-          "post_sito": "Unitree Robotics debutta oggi alla Borsa di Shanghai con una domanda retail che ha superato di oltre 8.000 volte le azioni disponibili — un record assoluto per lo STAR Market — con ordini complessivi per 6,1 miliardi di yuan e quasi dieci milioni di investitori coinvolti. La società di Hangzhou, già il maggior produttore mondiale di robot umanoidi per fatturato con ricavi 2025 di circa 252 milioni di dollari (più che quadruplicati rispetto all'anno precedente), viene quotata a multipli di 219 volte gli utili attesi: numeri che ricordano le bolle delle dot-com, anche se stavolta c'è un'azienda vera e redditizia sotto. Il beneficio taciuto dietro l'euforia è geopolitico: Pechino considera l'«embodied AI» — l'intelligenza artificiale incorporata in corpi fisici — un settore strategico di stato, e la quotazione di Unitree è anche un segnale alla Casa Bianca che la Cina non si ferma, nonostante Trump abbia già minacciato di vietare la vendita di robot umanoidi cinesi negli Stati Uniti. Va segnalato che oltre il 40% delle vendite di Unitree arriva dall'estero: il rischio geopolitico è reale, ma è precisamente quello che i derivati su Hyperliquid sembrano prezzare come un'opzionalità al rialzo, non come un pericolo. Mandante invisibile dell'intero ciclo: lo Stato cinese, che finanzia, orienta e ora porta in borsa i campioni tecnologici nazionali, con una regia industriale che l'Occidente si ostina a chiamare «mercato».",
-          "post_x": "Unitree sbarca a Shanghai: 8.000 investitori per ogni azione disponibile. Robot umanoidi cinesi che corrono e fanno arti marziali quotati a 219 volte gli utili. Se il futuro è questo, almeno è spettacolare. 🤖📈",
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Europei di ginnastica artistica maschile a Zagabria: l'Italia in pedana con tre esordienti e Targhetta a caccia del podio al cavallo",
-          "slug": "europei-ginnastica-artistica-maschile-2026-zagabria-italia",
-          "tag": [
-            "ginnastica-artistica",
-            "europei",
-            "zagabria",
-            "azzurri"
-          ],
-          "evidenza": false,
-          "fonte": "OA Sport / Sportface.it / Olympics.com",
-          "cerca_url": "https://www.google.com/search?q=Europei+ginnastica+artistica+maschile+2026+Zagabria+Italia+qualificazioni+19+agosto",
-          "post_x": "Mentre il calcio mercato occupa pagine intere, a Zagabria l'Italia della ginnastica artistica scende in pedana agli Europei maschili. Abbadini, Targhetta e tre esordienti. Niente telecronache in prima serata, ma forse è meglio così: si lavora. 🤸",
-          "post_sito": "Oggi, mercoledì 19 agosto, all'Arena Zagreb si aprono le qualificazioni della 37ª edizione dei Campionati Europei di ginnastica artistica maschile, con l'Italia in pedana dalle 17.45 nell'ultima suddivisione. La squadra azzurra presenta tre esordienti assoluti in campo europeo — Riccardo Villa, Simone Speranza e Ares Federici — affiancati da Yumin Abbadini ed Edoardo De Rosa, con Gabriele Targhetta come individualista al cavallo con maniglie, dove punta a ripetere il bronzo conquistato a Lipsia nel 2025. La rassegna continentale è anche appuntamento chiave di avvicinamento ai Mondiali di Rotterdam, che distribuiranno i primi pass per le Olimpiadi di Los Angeles 2028: la posta in gioco, quindi, è tutt'altro che simbolica. Il conto dietro la medaglia esiste: il sistema ginnastica italiano si regge su un modello di formazione che passa per i Gruppi Sportivi Militari — Aeronautica e Fiamme Oro tra gli atleti convocati — una struttura finanziata dallo Stato che regge l'intero edificio degli sport olimpici minori senza che quasi nessuno lo nomini nel dibattito pubblico. Nel frattempo, le pagine sportive dei quotidiani sono occupate per l'ottantesimo giorno consecutivo da calciomercato.",
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Femminicidio di Tania Terrin: 7 denunce, un ammonimento, tre ex compagne che avevano già querelato lo stesso uomo. Il sistema non ha retto.",
-          "slug": "femminicidio-tania-terrin-camponogara-sistema-fallito",
-          "tag": [
-            "femminicidio",
-            "violenza-donne",
-            "veneto",
-            "sistema-protezione"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Adnkronos / Dire.it",
-          "cerca_url": "https://www.google.com/search?q=femminicidio+Tania+Terrin+Camponogara+Venezia+agosto+2026",
-          "post_x": "Tania Terrin aveva denunciato. C'era un ammonimento del Questore. L'ex aveva già 7 denunce da tre donne diverse, tutte archiviate. Poi l'hanno trovata sul divano. Qualcuno ha detto «fallimento». Sì. Ma di cosa, esattamente? 🔇",
-          "post_sito": "Tania Terrin, 39 anni, è stata strangolata nella sua casa di Camponogara, in provincia di Venezia, dall'ex compagno Dino Keber, 43 anni, che si è poi impiccato a Dolo. Non era la prima volta che Keber aggrediva una donna: dall'ammonimento del Questore di Venezia emesso a giugno risultava che era stato già querelato da tre precedenti compagne, con denunce risalenti al 2002, al 2010 e al 2021 — tutte ritirate e archiviate. Nei confronti di Tania, erano state presentate almeno 7 denunce tra lei e i suoi genitori, e ad aprile Keber aveva già tentato di strangolarla. La causa strutturale rimossa dal racconto del dolore collettivo è questa: un sistema in cui le querele vengono ritirate — spesso per paura, per manipolazione, per mancanza di alternative concrete — e poi archiviate come se non fossero mai esistite, lasciando l'aggressore libero di ricominciare. Le dichiarazioni di «fallimento» arrivano puntuali da ogni schieramento politico, seguite da invocazioni di leggi più dure; meno puntuale è la discussione sulle risorse per i centri antiviolenza, sui tempi della magistratura, sulla formazione delle forze dell'ordine: quella rimane fuori agenda.",
-          "redattore": "L'Osservatore 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-09-23T08:34:27.158123+00:00"
+  "ultimo_aggiornamento": "2026-09-24T07:19:03.138395+00:00"
 }
