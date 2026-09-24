@@ -1,5 +1,5 @@
 {
-  "generato": "2026-09-23T17:31:01.307597+00:00",
+  "generato": "2026-09-24T05:30:52.815337+00:00",
   "item": [
     {
       "sottocategoria": "Combattimento",
@@ -7,22 +7,6 @@
       "titolo": "Zhang, il gigante cinese sospeso tra il ritiro e la chiusura di un cerchio",
       "link": "https://www.gazzetta.it/Sport-Vari/23-09-2026/guantoni-zhilei-zhang-tra-ritiro-e-ultimo-match-quando-cammarelle.shtml",
       "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-09-23"
-    },
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Europei giovanili di raffa a Predazzo: l'Italia a caccia del titolo continentale",
-      "link": "https://www.gazzetta.it/bocce/22-09-2026/europei-giovanili-raffa-a-predazzo-l-italia-a-caccia-del-titolo-continentale.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-09-22"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Germania: Eriksen rescinde il contratto con il Wolfsburg 'di comune accordo'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/23/germania-eriksen-rescinde-il-contratto-con-il-wolfsburg-di-comune-accordo_16743cbb-fd20-45b2-b9bb-36b6dc102317.html",
-      "fonte": "ANSA Sport",
       "data_evento": "2026-09-23"
     },
     {
@@ -39,6 +23,23 @@
       "titolo": "A Roma il primo Congresso per far crescere il numero di donne ai vertici dello sport",
       "link": "https://www.gazzetta.it/Sport-Vari/21-09-2026/donne-ai-vertici-dello-sport-a-roma-il-primo-congresso.shtml",
       "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-09-21"
+    },
+    {
+      "sottocategoria": "Squadra",
+      "tipo": "notizia",
+      "titolo": "Basket in carrozzina, Carossino e il sogno olimpico: \"Siamo un gruppo forte, vogliamo i Giochi di Los Angeles\"",
+      "link": "https://www.gazzetta.it/Paralimpici/20-09-2026/basket-in-carrozzina-l-argento-mondiale-e-il-sogno-olimpico-carossino-un-gruppo-forte.shtml",
+      "fonte": "Gazzetta — Paralimpici",
+      "data_evento": "2026-09-20",
+      "paralimpico": true
+    },
+    {
+      "sottocategoria": "Acqua",
+      "tipo": "notizia",
+      "titolo": "Sarah Rizea è Miss Italia 2026: chi è la 18enne atleta delle Fiamme Oro",
+      "link": "https://www.gazzetta.it/spettacolo-tv-gossip/21-09-2026/sarah-rizea-e-miss-italia-2026-chi-e-la-18enne-atleta-delle-fiamme-oro.shtml",
+      "fonte": "Gazzetta — Nuoto e Pallanuoto",
       "data_evento": "2026-09-21"
     }
   ]
