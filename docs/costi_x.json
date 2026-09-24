@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-09-24",
+      "slug": "italia-nucleare-legge-delega-senato-approvazione",
+      "categoria": "Politica Nazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
+      "data": "2026-09-24",
       "slug": "elicottero-russo-spazio-aereo-polonia-nato",
       "categoria": "Politica Internazionale",
       "evidenza": false,
