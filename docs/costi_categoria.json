@@ -1,6 +1,37 @@
 {
   "generazioni": [
     {
+      "data": "2026-09-25",
+      "modello": "claude-sonnet-4-6",
+      "input_tokens": 127827,
+      "output_tokens": 4836,
+      "web_search_richieste": 10,
+      "stop_reason": "end_turn",
+      "costo_stimato_usd": 0.556,
+      "breakdown_per_categoria_stimato": {
+        "Politica Internazionale": {
+          "frazione_stimata": 0.4084,
+          "output_tokens_stimati": 1975
+        },
+        "Politica Nazionale": {
+          "frazione_stimata": 0.1585,
+          "output_tokens_stimati": 767
+        },
+        "Economia": {
+          "frazione_stimata": 0.1277,
+          "output_tokens_stimati": 618
+        },
+        "Sport": {
+          "frazione_stimata": 0.1445,
+          "output_tokens_stimati": 699
+        },
+        "Cronaca": {
+          "frazione_stimata": 0.1608,
+          "output_tokens_stimati": 778
+        }
+      }
+    },
+    {
       "data": "2026-09-24",
       "modello": "claude-sonnet-4-6",
       "input_tokens": 120587,

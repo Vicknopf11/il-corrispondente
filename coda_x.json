@@ -1,45 +1,45 @@
 {
-  "data": "2026-09-24",
+  "data": "2026-09-25",
   "tweet": [
     {
-      "testo": "Un Mi-8 russo vola 300 metri in Polonia per 42 secondi. Caccia scramble, allarme NATO. Intanto Zelensky parla all'ONU e Mosca bombarda Kiev. La guerra spiegata in tre scene contemporanee. #Russia #NATO",
-      "url": "https://corrispondente.filoclastos.it/2026/09/24/elicottero-russo-spazio-aereo-polonia-nato/",
-      "slug": "elicottero-russo-spazio-aereo-polonia-nato",
+      "testo": "Trump accoglie Xi con bombardieri B-1 e tappeto rosso. Poi annunciano un «nuovo accordo». Dettagli? Zero. La tregua sui dazi è prorogata fino a gennaio. Wall Street festeggia. Casuale. #TrumpXi",
+      "url": "https://corrispondente.filoclastos.it/2026/09/25/trump-xi-casa-bianca-dazi-tregua-2026/",
+      "slug": "trump-xi-casa-bianca-dazi-tregua-2026",
       "categoria": "Politica Internazionale",
-      "evidenza": false,
-      "pubblicato": true
-    },
-    {
-      "testo": "Il Senato vota il ritorno al nucleare. Gli italiani avevano già detto no due volte: 1987 e 2011. Ma stavolta la democrazia ha fretta. E i contractor degli SMR già brindano. #Nucleare #Italia",
-      "url": "https://corrispondente.filoclastos.it/2026/09/24/italia-nucleare-legge-delega-senato-approvazione/",
-      "slug": "italia-nucleare-legge-delega-senato-approvazione",
-      "categoria": "Politica Nazionale",
       "evidenza": true,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Petrolio sopra 100$, borse in rosso. Le crisi internazionali fanno male a tutti — tranne alle compagnie energetiche, che registrano utili record. Beneficio taciuto del giorno. #Petrolio #Energia #Mercati",
-      "url": "https://corrispondente.filoclastos.it/2026/09/24/petrolio-100-dollari-borse-rosso-tensioni-onu-2026/",
-      "slug": "petrolio-100-dollari-borse-rosso-tensioni-onu-2026",
+      "testo": "Decreto scuola: tetto del 30% di stranieri per classe, divieto di niqab, multa fino a €1.000 per chi non impara l'italiano. Il Quirinale ha già tolto la norma che separava i figli dai genitori. Tutto a posto, niente da vedere. #DecretoScuola",
+      "url": "https://corrispondente.filoclastos.it/2026/09/25/decreto-scuola-30-percento-stranieri-niqab-quirinale/",
+      "slug": "decreto-scuola-30-percento-stranieri-niqab-quirinale",
+      "categoria": "Politica Nazionale",
+      "evidenza": false,
+      "pubblicato": false
+    },
+    {
+      "testo": "OCSE alza il PIL Italia a +0,9%. Governo esulta. Dettaglio: i salari reali italiani sono ancora del 6,1% sotto i livelli del 2021. Cresce l'economia, calano i portafogli. #PIL #OCSE",
+      "url": "https://corrispondente.filoclastos.it/2026/09/25/ocse-pil-italia-09-2026-salari-reali-sotto-2021/",
+      "slug": "ocse-pil-italia-09-2026-salari-reali-sotto-2021",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Italia oro mondiale nella staffetta mista a cronometro a Montreal. Ganna, Longo Borghini e compagni: primo titolo iridato di sempre nella specialità. Bellissimo, punto. 🥇🚴 #Ciclismo #Mondiali2026",
-      "url": "https://corrispondente.filoclastos.it/2026/09/24/ciclismo-mondiali-montreal-italia-oro-staffetta-mista/",
-      "slug": "ciclismo-mondiali-montreal-italia-oro-staffetta-mista",
+      "testo": "L'Italia campione del mondo di volley eliminata dalla Finlandia 3-2 ai quarti degli Europei. Al PalaVela di Torino. Davanti al proprio pubblico. Jokela 28 punti. Lavia irriconoscibile. Buonanotte. #EuroVolley2026",
+      "url": "https://corrispondente.filoclastos.it/2026/09/25/italvolley-eliminata-finlandia-quarti-europei-2026/",
+      "slug": "italvolley-eliminata-finlandia-quarti-europei-2026",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Andrea Moretti, 22 anni, muore cadendo dal Colosseo durante lavori notturni. Imbracatura non agganciata. Appalto pubblico. Organico di vigilanza 'esiguo'. Le solite risposte, la solita morte. #Lavoro #Colosseo",
-      "url": "https://corrispondente.filoclastos.it/2026/09/24/andrea-moretti-morto-colosseo-lavori-appalto/",
-      "slug": "andrea-moretti-morto-colosseo-lavori-appalto",
+      "testo": "Oggi in tribunale: Ranucci vs RAI. Il giornalista che ha subito un attentato con esplosivo nel 2025 viene rimosso da Report. La RAI gli contesta di aver detto che in azienda ci sono «mafia e massonerie». La RAI, non un commissariato. #Ranucci #Report",
+      "url": "https://corrispondente.filoclastos.it/2026/09/25/ranucci-rai-tribunale-udienza-reintegro-report/",
+      "slug": "ranucci-rai-tribunale-udienza-reintegro-report",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }
