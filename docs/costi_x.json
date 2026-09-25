@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-09-25",
+      "slug": "decreto-scuola-30-percento-stranieri-niqab-quirinale",
+      "categoria": "Politica Nazionale",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-09-25",
       "slug": "trump-xi-casa-bianca-dazi-tregua-2026",
       "categoria": "Politica Internazionale",
       "evidenza": true,
