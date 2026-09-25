@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-09-25",
+      "slug": "italvolley-eliminata-finlandia-quarti-europei-2026",
+      "categoria": "Sport",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-09-25",
       "slug": "ocse-pil-italia-09-2026-salari-reali-sotto-2021",
       "categoria": "Economia",
       "evidenza": false,
