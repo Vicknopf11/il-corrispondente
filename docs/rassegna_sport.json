@@ -1,6 +1,15 @@
 {
-  "generato": "2026-09-24T17:31:05.671210+00:00",
+  "generato": "2026-09-25T05:30:55.602144+00:00",
   "item": [
+    {
+      "sottocategoria": "Squadra",
+      "tipo": "notizia",
+      "titolo": "Basket in carrozzina, Carossino e il sogno olimpico: \"Siamo un gruppo forte, vogliamo i Giochi di Los Angeles\"",
+      "link": "https://www.gazzetta.it/Paralimpici/20-09-2026/basket-in-carrozzina-l-argento-mondiale-e-il-sogno-olimpico-carossino-un-gruppo-forte.shtml",
+      "fonte": "Gazzetta — Paralimpici",
+      "data_evento": "2026-09-20",
+      "paralimpico": true
+    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
@@ -24,15 +33,6 @@
       "link": "https://www.gazzetta.it/Sport-Vari/21-09-2026/donne-ai-vertici-dello-sport-a-roma-il-primo-congresso.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-09-21"
-    },
-    {
-      "sottocategoria": "Squadra",
-      "tipo": "notizia",
-      "titolo": "Basket in carrozzina, Carossino e il sogno olimpico: \"Siamo un gruppo forte, vogliamo i Giochi di Los Angeles\"",
-      "link": "https://www.gazzetta.it/Paralimpici/20-09-2026/basket-in-carrozzina-l-argento-mondiale-e-il-sogno-olimpico-carossino-un-gruppo-forte.shtml",
-      "fonte": "Gazzetta — Paralimpici",
-      "data_evento": "2026-09-20",
-      "paralimpico": true
     },
     {
       "sottocategoria": "Acqua",
