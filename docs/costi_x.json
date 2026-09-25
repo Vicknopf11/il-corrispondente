@@ -1,6 +1,14 @@
 {
   "pubblicazioni": [
     {
+      "data": "2026-09-25",
+      "slug": "trump-xi-casa-bianca-dazi-tregua-2026",
+      "categoria": "Politica Internazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
       "data": "2026-09-24",
       "slug": "andrea-moretti-morto-colosseo-lavori-appalto",
       "categoria": "Cronaca",
