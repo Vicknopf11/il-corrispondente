@@ -1,38 +1,21 @@
 {
-  "generato": "2026-09-25T11:31:01.579521+00:00",
+  "generato": "2026-09-25T17:31:04.779852+00:00",
   "item": [
     {
-      "sottocategoria": "Atletica",
+      "sottocategoria": "Acqua",
       "tipo": "notizia",
-      "titolo": "Iapichino, modella per un giorno: \"Meglio saltare, mi batteva il cuore. Ma non è il mio mondo, in futuro...\"",
-      "link": "https://www.gazzetta.it/Atletica/24-09-2026/larissa-iapichino-intervista-modella.shtml",
-      "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-09-24"
-    },
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Weekend tricolore per le bocce: riflettori su Raffa e Paralimpico",
-      "link": "https://www.gazzetta.it/bocce/24-09-2026/bocce-weekend-tricolore-per-le-bocce-riflettori-su-raffa-e-paralimpico.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-09-24"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Goggia, svelato il motivo dei malesseri in Sudamerica: ora al via il recupero",
-      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/Coppa-Mondo-Sci/25-09-2026/sofia-goggia-cos-ha-avuto-tempi-recupero-malattia.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
+      "titolo": "Europei di canoa slalom: a Ivrea 4 medaglie per l'Italia. Brilla Ferrazzi",
+      "link": "https://www.gazzetta.it/Sport-Vari/25-09-2026/europei-slalom-4-medaglie-per-l-italia-brilla-ferrazzi.shtml",
+      "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-09-25"
     },
     {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
-      "titolo": "Basket in carrozzina, Carossino e il sogno olimpico: \"Siamo un gruppo forte, vogliamo i Giochi di Los Angeles\"",
-      "link": "https://www.gazzetta.it/Paralimpici/20-09-2026/basket-in-carrozzina-l-argento-mondiale-e-il-sogno-olimpico-carossino-un-gruppo-forte.shtml",
-      "fonte": "Gazzetta — Paralimpici",
-      "data_evento": "2026-09-20",
-      "paralimpico": true
+      "titolo": "Illumina Casoria: quando lo sport accende il futuro, Nuovo spazio dedicato ai giovani",
+      "link": "https://www.gazzetta.it/Sport-Vari/24-09-2026/illumina-casoria-quando-lo-sport-accende-il-futuro.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-09-24"
     },
     {
       "sottocategoria": "Combattimento",
@@ -41,6 +24,22 @@
       "link": "https://www.gazzetta.it/Sport-Vari/23-09-2026/guantoni-zhilei-zhang-tra-ritiro-e-ultimo-match-quando-cammarelle.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-09-23"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "A Milano lo Sport&Fun Experience Village con i talent di Eurosport",
+      "link": "https://www.gazzetta.it/Sport-Vari/23-09-2026/milano-sport-fun-experience-village-talent-eurosport.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-09-23"
+    },
+    {
+      "sottocategoria": "Calcio femminile",
+      "tipo": "notizia",
+      "titolo": "A Roma il primo Congresso per far crescere il numero di donne ai vertici dello sport",
+      "link": "https://www.gazzetta.it/Sport-Vari/21-09-2026/donne-ai-vertici-dello-sport-a-roma-il-primo-congresso.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-09-21"
     }
   ]
 }
