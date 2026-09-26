@@ -1,30 +1,6 @@
 {
-  "generato": "2026-09-26T11:31:00.295273+00:00",
+  "generato": "2026-09-26T17:31:00.364482+00:00",
   "item": [
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "Da Flo-Jo a Freeman e Hodgkinson: quelle tute integrali che hanno segnato un'epoca",
-      "link": "https://www.gazzetta.it/Atletica/storie/25-09-2026/florence-griffith-freeman-hodgkinson-e-le-tute-integrali-che-hanno-segnato-un-epoca/la-divisa-standard.shtml",
-      "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-09-25"
-    },
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Weekend tricolore per le bocce: riflettori su Raffa e Paralimpico",
-      "link": "https://www.gazzetta.it/bocce/24-09-2026/bocce-weekend-tricolore-per-le-bocce-riflettori-su-raffa-e-paralimpico.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-09-24"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Goggia, svelato il motivo dei malesseri in Sudamerica: \"Sono ancora debilitata, ci vuole tanta pazienza...\"",
-      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/Coppa-Mondo-Sci/25-09-2026/sofia-goggia-cos-ha-avuto-tempi-recupero-malattia.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-09-25"
-    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
@@ -40,6 +16,30 @@
       "link": "https://www.gazzetta.it/Sport-Vari/24-09-2026/illumina-casoria-quando-lo-sport-accende-il-futuro.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-09-24"
+    },
+    {
+      "sottocategoria": "Combattimento",
+      "tipo": "notizia",
+      "titolo": "Zhang, il gigante cinese sospeso tra il ritiro e la chiusura di un cerchio",
+      "link": "https://www.gazzetta.it/Sport-Vari/23-09-2026/guantoni-zhilei-zhang-tra-ritiro-e-ultimo-match-quando-cammarelle.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-09-23"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "A Milano lo Sport&Fun Experience Village con i talent di Eurosport",
+      "link": "https://www.gazzetta.it/Sport-Vari/23-09-2026/milano-sport-fun-experience-village-talent-eurosport.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-09-23"
+    },
+    {
+      "sottocategoria": "Atletica",
+      "tipo": "notizia",
+      "titolo": "Da Flo-Jo a Freeman e Hodgkinson: quelle tute integrali che hanno segnato un'epoca",
+      "link": "https://www.gazzetta.it/Atletica/storie/25-09-2026/florence-griffith-freeman-hodgkinson-e-le-tute-integrali-che-hanno-segnato-un-epoca/la-divisa-standard.shtml",
+      "fonte": "Gazzetta — Atletica",
+      "data_evento": "2026-09-25"
     }
   ]
 }
