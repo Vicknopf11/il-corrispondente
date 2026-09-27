@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-09-27",
+      "slug": "mondiali-ciclismo-montreal-2026-prova-in-linea-elite-uomini",
+      "categoria": "Sport",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-09-27",
       "slug": "benzina-diesel-record-storico-sconto-accise-settembre-2026",
       "categoria": "Economia",
       "evidenza": true,
