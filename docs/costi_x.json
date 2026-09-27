@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-09-27",
+      "slug": "benzina-diesel-record-storico-sconto-accise-settembre-2026",
+      "categoria": "Economia",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
+      "data": "2026-09-27",
       "slug": "suppletive-reggio-calabria-roscioli-benedetto-vannacci-2026",
       "categoria": "Politica Nazionale",
       "evidenza": false,
