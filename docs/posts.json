@@ -1,6 +1,120 @@
 {
   "edizioni": [
     {
+      "data": "2026-09-27",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Netanyahu all'ONU: sala mezza vuota, lui chiama «codardi» chi se ne va",
+          "slug": "netanyahu-onu-delegazioni-lasciano-aula-codardi",
+          "tag": [
+            "israele",
+            "onu",
+            "assemblea-generale",
+            "diplomazia"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Gazzetta del Mezzogiorno",
+          "cerca_url": "https://www.google.com/search?q=Netanyahu+ONU+delegazioni+lasciano+aula+settembre+2026",
+          "post_x": "Netanyahu all'ONU: metà sala vuota, lui chiama «codardi» chi esce. In 75 anni di storia, nessuno aveva mai dovuto intimare al pubblico di andarsene. Nuova vetta della diplomazia globale. 🇺🇳",
+          "post_sito": "Decine di delegazioni hanno abbandonato l'Assemblea Generale dell'ONU non appena Netanyahu ha raggiunto il podio, lasciando la sala per metà vuota. Lui ha risposto definendo chi se ne andava «codardi morali», invitando gli eventuali rimasti a imitarli — una scena ripetuta, segnala LaPresse, anche l'anno scorso. Il coro mediatico si divide tra chi esalta la scena come prova dell'isolamento di Israele e chi la trasforma in spot per Netanyahu stesso: perché nulla consolida un leader «assediato» come un nemico visibile che volta le spalle. Intanto, la domanda che sparisce dal racconto è un'altra: chi ci guadagna dal fatto che l'attenzione resti sull'immagine teatrale e non sulle cifre — decine di migliaia di morti, miliardi in forniture militari, contratti di ricostruzione già firmati — che restano fuori dall'inquadratura del podio? Il mandante invisibile non siede all'ONU: siede nei consigli di amministrazione delle industrie della difesa e dell'energia.",
+          "editoriale": false,
+          "redattore": "Il Corrispondente Estero 1.0"
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Suppletive Reggio Calabria: Roscioli vs campo largo, debutto elettorale di Vannacci",
+          "slug": "suppletive-reggio-calabria-roscioli-benedetto-vannacci-2026",
+          "tag": [
+            "elezioni",
+            "reggio-calabria",
+            "forza-italia",
+            "vannacci"
+          ],
+          "evidenza": false,
+          "fonte": "AGI / Fanpage / Corriere della Calabria",
+          "cerca_url": "https://www.google.com/search?q=elezioni+suppletive+Reggio+Calabria+27+settembre+2026",
+          "post_x": "Reggio Calabria vota per un seggio che dura un anno. Il centrodestra manda il tesoriere di FI, il centrosinistra un cardiologo, Vannacci debutta. In Calabria, si sa, la scheda è sempre stata un affare di famiglia. 🗳️",
+          "post_sito": "Oggi si vota a Reggio Calabria per eleggere un deputato che resterà in carica fino all'autunno 2027: il seggio è rimasto vuoto perché il suo titolare, Francesco Cannizzaro di Forza Italia, è diventato sindaco con il 65,68% dei voti — incompatibilità prevista, ma non certo inattesa. Il centrodestra candida Fabio Roscioli, avvocato e tesoriere nazionale di Forza Italia: un partito che manda il proprio amministratore delle finanze in uno dei collegi più permeabili alla criminalità organizzata d'Italia merita almeno una nota a margine. Il vero test, dicono tutti, è il debutto di Futuro Nazionale di Vannacci con Domenico Giannetta, ex berlusconiano convertito: la destra che misura la destra. Quello che nessuno menziona è il contesto storico: la Calabria è terra di 'ndrangheta, e i collegi uninominali del Sud sono da decenni il termometro più fedele non del consenso popolare, ma dei rapporti di forza tra potentati locali. Il vincitore si saprà lunedì sera, ma la partita vera si gioca altrove.",
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0"
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Benzina a 2,158 euro, diesel a 2,357: nuovi record dopo il taglio dello sconto fiscale",
+          "slug": "benzina-diesel-record-storico-sconto-accise-settembre-2026",
+          "tag": [
+            "carburanti",
+            "accise",
+            "compagnie-petrolifere",
+            "inflazione"
+          ],
+          "evidenza": true,
+          "fonte": "Repubblica / Sarno Notizie / TrueNumbers / Newsauto",
+          "cerca_url": "https://www.google.com/search?q=prezzo+benzina+diesel+record+settembre+2026",
+          "post_x": "Benzina a 2,158€/l, diesel a 2,357€/l. Il governo ha dimezzato lo sconto fiscale e ora «appella» le compagnie petrolifere. Le stesse compagnie che, da marzo 2026, hanno incassato oltre 2 miliardi di sussidi pubblici. 🛢️",
+          "post_sito": "Dopo il dimezzamento dello sconto fiscale sul gasolio — da 17,1 centesimi a 6,1 centesimi al litro dal 26 settembre — il prezzo medio nazionale self è salito a 2,158 euro al litro per la benzina e 2,357 euro per il diesel, con punte in autostrada rispettivamente a 2,252 e 2,439 euro. Repubblica titola «Benzina, nuovo record», La Stampa apre con l'appello del governo alle compagnie petrolifere: un «appello» è la forma più nobile con cui un esecutivo può ammettere di non avere strumenti coercitivi su chi fissa i listini. Il beneficio taciuto è aritmetico: da marzo 2026, il costo cumulato dei sussidi pubblici ai carburanti ha superato i 2 miliardi di euro, e ogni proroga del taglio delle accise è denaro che lo Stato non incassa ma che le compagnie possono reinvestire — o distribuire agli azionisti. Il prezzo spinto al rialzo non è solo la componente fiscale: è il costo industriale del raffinato, cresciuto di tre quarti da fine febbraio 2026, mentre le tensioni geopolitiche in Medio Oriente continuano a gonfiare le quotazioni internazionali. Chi ci guadagna? I trading desk del petrolio, le major integrate e i fondi speculativi posizionati long sulle commodity energetiche — attori che non compaiono in nessun «appello» governativo.",
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La posizione del governo",
+              "testo": "L'esecutivo sostiene che il taglio progressivo delle accise era già previsto e comunicato, e che un intervento strutturale illimitato non è sostenibile per le casse pubbliche, anche alla luce del superamento dei 2 miliardi di euro di sostegni erogati da marzo 2026. Il governo ha rivolto un appello formale alle compagnie petrolifere affinché limitino i margini sui prezzi finali al consumatore, e ha annunciato l'attivazione del meccanismo delle cosiddette «accise mobili» a partire dal 5 ottobre, che lega automaticamente il livello delle accise all'andamento delle quotazioni internazionali del petrolio."
+            },
+            {
+              "etichetta": "Chi paga il conto: famiglie e autotrasportatori",
+              "testo": "Secondo stime ANSA, nell'arco di un anno la benzina è salita di circa il 19% e il diesel di oltre il 30%. Per un automobilista che percorre mediamente 15.000 km l'anno con un veicolo a diesel, l'aumento annuo stimato rispetto al 2025 supera i 300 euro. Per gli autotrasportatori professionali, con consumi dieci o venti volte superiori, l'impatto si traduce in pressione diretta sui margini operativi e, indirettamente, sui prezzi al consumo delle merci trasportate. Le associazioni di consumatori Codacons e Unione Nazionale Consumatori hanno definito insufficienti le misure adottate e chiedono un intervento strutturale anche sulla benzina, finora esclusa dai tagli."
+            },
+            {
+              "etichetta": "Il nodo delle accise e la componente fiscale",
+              "testo": "La componente fiscale — accisa più IVA — costituisce storicamente la quota più rilevante del prezzo finale al distributore. Tuttavia, come documenta l'Osservatorio prezzi del MIMIT, l'accisa sul diesel pesa oggi meno in percentuale rispetto al marzo 2022, anche per effetto del progressivo riallineamento tra le aliquote su benzina e gasolio introdotto nell'ambito della transizione ecologica. La spinta principale ai prezzi record proviene dal costo industriale del prodotto raffinato sui mercati internazionali, influenzato dalle tensioni in Medio Oriente e dalla riduzione dell'offerta saudita verso l'Europa."
+            },
+            {
+              "etichetta": "Il meccanismo delle accise mobili",
+              "testo": "Il governo ha annunciato l'introduzione delle «accise mobili» a partire dal 5 ottobre 2026: un meccanismo che lega automaticamente il livello delle accise al prezzo internazionale del petrolio grezzo, in modo che quando le quotazioni scendono le accise aumentino, e viceversa. Lo strumento esiste nell'ordinamento italiano dal 2014, ma non è mai stato attivato nella sua forma piena. I sostenitori lo presentano come una misura strutturale e trasparente; i critici osservano che stabilizza il gettito fiscale per lo Stato senza ridurre necessariamente il prezzo finale al consumatore nei periodi di prezzi elevati."
+            }
+          ],
+          "implicazioni": "Se il meccanismo delle accise mobili verrà attivato dal 5 ottobre come annunciato, il prezzo alla pompa dipenderà ancora più strettamente dall'andamento dei mercati internazionali. In caso di ulteriore rialzo delle quotazioni del petrolio, il meccanismo non prevede un tetto al prezzo finale: gli automobilisti potrebbero trovarsi a pagare oltre 2,50 euro al litro per il diesel in autostrada prima della fine di ottobre. Sul fronte macroeconomico, l'inflazione energetica — già stimata al 3,3% annuo ad agosto 2026 — rischia di trasmettersi ai prezzi dei beni di consumo attraverso i costi di trasporto, aggravando la perdita di potere d'acquisto delle famiglie a reddito fisso.",
+          "redattore": "L'Analista 1.0"
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Mondiali di ciclismo a Montréal: oggi la prova in linea élite uomini, senza Pogačar",
+          "slug": "mondiali-ciclismo-montreal-2026-prova-in-linea-elite-uomini",
+          "tag": [
+            "ciclismo",
+            "mondiali-2026",
+            "montreal",
+            "maglia-arcobaleno"
+          ],
+          "evidenza": false,
+          "fonte": "Eurosport / SpazioCiclismo / Bikeitalia",
+          "cerca_url": "https://www.google.com/search?q=mondiali+ciclismo+Montreal+2026+prova+in+linea+elite+uomini+risultato",
+          "post_x": "Oggi a Montréal si assegna la maglia arcobaleno più pesante del calendario. 273 km, 3.803 m di dislivello, niente Pogačar (infortunato alla Vuelta). Una gara aperta come non si vedeva da anni. In chiaro su Rai 2 e Rai Sport. 🌈🚴",
+          "post_sito": "Oggi, domenica 27 settembre, si conclude la 99ª edizione dei Campionati del Mondo di ciclismo su strada a Montréal con la prova in linea élite maschile: 273,7 km da Brossard al circuito del Mont-Royal, 12 giri finali, 3.803 metri di dislivello complessivo. La gara è trasmessa in chiaro su Rai 2 e Rai Sport — non serve alcun abbonamento per seguirla. L'assenza di Tadej Pogačar, bi-campione in carica fermato da una caduta alla Vuelta a España, ha aperto una lotta vera tra Remco Evenepoel (già oro a cronometro con record), Mathieu van der Poel, Mads Pedersen e il giovane messicano Isaac Del Toro, vincitore del GP de Montréal sullo stesso percorso due settimane fa. L'Italia schiera otto corridori tra cui Giulio Ciccone e il campione del mondo Under 23 in carica Lorenzo Mark Finn. Vale la pena ricordarlo: è la seconda volta nella storia che i Mondiali si corrono a Montréal — la prima fu nel 1974. Qualcuno, in mezzo a tutto il rumore mediatico del giorno, potrebbe accorgersene.",
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0"
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Auto blindata della pm antimafia Cerreti danneggiata nel Palazzo di Giustizia di Milano",
+          "slug": "pm-antimafia-cerreti-auto-blindata-danneggiata-palazzo-giustizia-milano",
+          "tag": [
+            "antimafia",
+            "intimidazione",
+            "milano",
+            "magistratura"
+          ],
+          "evidenza": false,
+          "fonte": "Il Fatto Quotidiano / Affaritaliani / Calabria7",
+          "cerca_url": "https://www.google.com/search?q=pm+Cerreti+auto+blindata+danneggiata+Palazzo+Giustizia+Milano+2026",
+          "post_x": "Tre colpi sul finestrino blindato della pm antimafia Cerreti, parcheggiata nel cortile del Tribunale di Milano. Nessun altro veicolo toccato. Gli accertamenti sono in corso. La procuratrice di Torino: «Se fosse stato al Sud, avrebbe fatto più notizia.» 🔨",
+          "post_sito": "Tre segni ben visibili sul finestrino anteriore destro dell'auto blindata di Alessandra Cerreti, sostituta procuratrice della DDA di Milano impegnata nell'inchiesta Hydra — quella sui presunti rapporti tra 'ndrangheta, Cosa nostra e camorra in Lombardia. L'auto era parcheggiata nel cortile interno del Palazzo di Giustizia: nessun altro veicolo intorno ha riportato danni, dettaglio che gli investigatori considerano significativo. Gli accertamenti sono ancora in corso e la natura del gesto — intimidatorio o casuale — non è stata accertata: vale la presunzione di innocenza, e la cautela è d'obbligo prima di qualsiasi sentenza mediatica. La magistrata è già sotto scorta da tempo, dopo che due collaboratori di giustizia avevano segnalato, in momenti separati, l'esistenza di piani ai suoi danni. La procuratrice generale di Torino Lucia Musti ha sollevato una domanda scomoda: se l'episodio fosse avvenuto a un magistrato del Sud, avrebbe avuto più risonanza? La domanda tocca una causa strutturale rimossa: le mafie al Nord esistono da decenni, ma il racconto dominante le colloca ancora geograficamente altrove — e questo consente a chi dovrebbe occuparsene di distogliere lo sguardo.",
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0"
+        }
+      ]
+    },
+    {
       "data": "2026-09-25",
       "post": [
         {
@@ -3109,97 +3223,7 @@
           "redattore": "L'Osservatore 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-08-21",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Trump annuncia il «D-Day economico» contro l'Iran",
-          "slug": "trump-d-day-economico-iran-sanzioni-2026",
-          "tag": [
-            "iran",
-            "usa",
-            "sanzioni",
-            "guerra economica"
-          ],
-          "evidenza": true,
-          "fonte": "ANSA / Washington Post",
-          "cerca_url": "https://www.google.com/search?q=Trump+D-Day+economico+Iran+sanzioni+agosto+2026",
-          "post_x": "Trump lancia il «D-Day economico» contro l'Iran. Traduzione: siamo a corto di munizioni reali, proviamo con quelle finanziarie. Intanto la Cina compra il 90% del petrolio iraniano e aspetta il 24 settembre a Casa Bianca col sorriso. #Iran #Trump",
-          "post_sito": "Trump ha annunciato «l'operazione economica più devastante mai intrapresa contro un Paese», paragonandola al D-Day: lo sbarco in Normandia contro un regime che resiste alle sanzioni occidentali da quasi cinque decenni. Il dettaglio che il coro mediatico sorvola è quello segnalato dallo stesso ministro degli Esteri iraniano Araghchi: il «D-Day economico» arriva mentre il debito federale Usa ha appena superato i 40mila miliardi di dollari e la spesa per interessi è destinata a superare i mille miliardi nel solo 2026 — cifre che farebbero impallidire qualsiasi ministro dell'Economia europeo. Beneficio taciuto: l'industria bellica americana, che dopo sei mesi di guerra convenzionale vede esaurirsi le scorte di armamenti, ha tutto l'interesse a prolungare la pressione su Teheran attraverso canali finanziari piuttosto che militari — meno costi di produzione, stesso controllo geopolitico. Il vero nodo è la Cina, che acquista il 90% del petrolio iraniano e si presenterà alla Casa Bianca il 24 settembre: Washington minaccia Pechino, Pechino incassa e aspetta. Mandante invisibile di questo «D-Day» è la necessità di Trump di mostrare muscoli prima di sedersi al tavolo con Xi Jinping, non certo di liberare il popolo iraniano.",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Rimpatri dall'Europa verso l'Italia: cinque paesi nordici e centrali si accodano",
-          "slug": "rimpatri-migranti-nord-europa-italia-agosto-2026",
-          "tag": [
-            "migranti",
-            "rimpatri",
-            "patto-ue",
-            "meloni"
-          ],
-          "evidenza": false,
-          "fonte": "Corriere della Sera / ANSA",
-          "cerca_url": "https://www.google.com/search?q=rimpatri+migranti+Nord+Europa+Italia+accordo+UE+agosto+2026",
-          "post_x": "Svezia, Finlandia, Germania, Austria e Svizzera rispediscono i migranti in Italia. Meloni esulta. Peccato che dal 2022 al 2025 l'Italia abbia accettato zero trasferimenti su 80mila richieste. Ora scopre il valore delle regole europee. Strano tempismo. #Migranti #Rimpatri",
-          "post_sito": "Cinque paesi nordici e centro-europei — Germania, Svizzera, Austria, Finlandia e Svezia — hanno annunciato o avviato i rimpatri di richiedenti asilo verso l'Italia, in applicazione del nuovo Patto Ue su migrazione e asilo entrato in vigore il 12 giugno 2026. Il governo Meloni presenta la notizia come un successo della propria politica migratoria, ma il contesto storico racconta tutt'altra storia: dal dicembre 2022 al dicembre 2025, l'Italia ha ricevuto 80mila richieste di presa in carico di «dublinanti» da altri paesi europei e ne ha accettate zero — un record di inadempienza che ora, stranamente, diventa virtù. La domanda che il coro dei titoli non pone è: chi guadagna politicamente da questa narrativa? Meloni può rivendicare di aver «piegato» l'Europa sulle regole che Roma stessa ha sistematicamente ignorato per anni, trasformando un obbligo giuridico preesistente in una vittoria personale. Il conto dietro la medaglia riguarda le persone in carne e ossa rispedite lungo rotte già percorse: il sistema di protezione che le attende in Italia è lo stesso che ha prodotto, tra l'altro, il quartiere Zen di Palermo, dove mancano servizi di base e persino i vaccini obbligatori.",
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "MPS lancia doppia OPS su Banco BPM e Banca Generali: 34 miliardi sul tavolo",
-          "slug": "mps-ops-banco-bpm-banca-generali-34-miliardi",
-          "tag": [
-            "mps",
-            "banche",
-            "risiko-bancario",
-            "finanza"
-          ],
-          "evidenza": false,
-          "fonte": "Il Sole 24 Ore / ANSA",
-          "cerca_url": "https://www.google.com/search?q=MPS+offerta+Banco+BPM+Banca+Generali+34+miliardi+agosto+2026",
-          "post_x": "MPS — la banca salvata con 8 miliardi di soldi pubblici — lancia OPS da 34 miliardi su Banco BPM e Banca Generali. Il CdA vota a favore con 4 consiglieri astenuti. Si chiama «campione nazionale». Noi lo chiameremmo «banca too big to fail, ora anche too big to question». #MPS #Banche",
-          "post_sito": "Monte dei Paschi di Siena — la banca più volte salvata dal contribuente italiano, nazionalizzata nel 2017 con un esborso pubblico di circa 8 miliardi di euro — ha lanciato due offerte pubbliche di scambio da complessivi 34 miliardi: 25,3 miliardi su Banco BPM e 8,7 miliardi su Banca Generali. Il CdA ha approvato l'operazione a maggioranza, con quattro consiglieri indipendenti astenuti — dettaglio che il comunicato stampa seppellisce in fondo. L'eufemismo di potere è già nel titolo dell'operazione: «nasce un nuovo campione nazionale», recita la nota, come se la concentrazione bancaria fosse una medaglia sportiva e non una riduzione strutturale della concorrenza nel credito italiano. Il mandante invisibile da cercare è il Ministero dell'Economia, azionista di MPS con una quota ancora rilevante: un «campione nazionale» rafforzato vale come scudo contro l'OPA di Intesa Sanpaolo su Rocca Salimbeni, lanciata a giugno. Dietro il risiko bancario c'è una guerra tra centri di potere finanziario e politico che ha poco a che fare con l'interesse dei correntisti e molto con le poltrone dei futuri board. Ai soci MPS già in portafoglio andrà un dividendo straordinario da 4 miliardi: chi ci guadagna, nell'immediato, lo sappiamo già.",
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Taranto 2026: si aprono i XX Giochi del Mediterraneo con 3.800 atleti da 26 nazioni",
-          "slug": "giochi-del-mediterraneo-taranto-2026-cerimonia-apertura",
-          "tag": [
-            "giochi-del-mediterraneo",
-            "taranto",
-            "multisport",
-            "atletica"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Sportface",
-          "cerca_url": "https://www.google.com/search?q=Giochi+del+Mediterraneo+Taranto+2026+cerimonia+apertura+21+agosto",
-          "post_x": "Stasera si aprono i Giochi del Mediterraneo a Taranto: 3.800 atleti, 26 nazioni, 33 discipline. In chiaro su Rai 2 e RaiPlay. Mentre il calcio monopolizza ogni schermo, qui si gioca a tutto il resto. Qualcuno lo chiama sport minore. Noi lo chiamiamo sport. #Taranto2026 #GiochiDelMediterraneo",
-          "post_sito": "Questa sera allo Stadio Erasmo Iacovone di Taranto si apre la ventesima edizione dei Giochi del Mediterraneo — manifestazione che torna in Italia a 29 anni dall'ultima edizione pugliese di Bari 1997 — con circa 3.800 atleti provenienti da 26 nazioni tra Europa, Asia e Africa, impegnati in 33 discipline sportive, olimpiche e non. La cerimonia inaugurale è in chiaro su Rai 2 e in streaming su RaiPlay, quindi senza nessun costo aggiuntivo per chi vuole seguirla. Il conto dietro la medaglia esiste, però, ed è quello di Taranto stessa: una città che ospita l'Ilva, il sito industriale più inquinato d'Europa, e che per questi Giochi ha ristrutturato lo stadio e candidato il proprio waterfront alla vetrina internazionale. Chi guadagna dall'immagine di una Taranto «città mediterranea dello sport» mentre la partita ambientale è ancora aperta è una domanda legittima — ma non toglie nulla ai quattromila atleti che stasera sfileranno sotto i riflettori. Nei Paesi a sud del Mediterraneo questa manifestazione vale quanto un'Olimpiade: è uno dei pochi momenti in cui la Tunisia, l'Algeria, la Grecia o la Turchia si siedono allo stesso tavolo sportivo senza gerarchie di budget. Il merito di darle visibilità è, per una volta, tutto.",
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Bambina di 4 anni muore di sospetta difterite a Palermo: non era vaccinata",
-          "slug": "bambina-morta-difterite-palermo-non-vaccinata",
-          "tag": [
-            "difterite",
-            "vaccini",
-            "palermo",
-            "sanita"
-          ],
-          "evidenza": false,
-          "fonte": "Il Post / ANSA",
-          "cerca_url": "https://www.google.com/search?q=bambina+4+anni+morta+difterite+Palermo+non+vaccinata+2026",
-          "post_x": "Una bambina di 4 anni muore di difterite a Palermo nel 2026. Non era vaccinata. Il cugino, vaccinato, è ricoverato ma non è grave. I dati fanno il loro lavoro silenzioso, come sempre. Il dolore per Anna Rosa viene prima di qualsiasi altro discorso. #Difterite #Vaccini #Palermo",
-          "post_sito": "Anna Rosa, quattro anni, è morta all'Ospedale dei Bambini di Palermo per quella che il direttore sanitario ritiene, con alta probabilità, essere difterite — malattia quasi scomparsa in Italia grazie alle coperture vaccinali, e per cui non si registrava un caso mortale da oltre trent'anni. La bambina, residente nel quartiere Zen, non era mai stata vaccinata: i genitori avevano rifiutato il vaccino per timore che potesse causare l'autismo, una convinzione senza alcuna base scientifica. Il cugino della stessa età, vaccinato, è ricoverato ma non è in pericolo di vita. Prima di qualsiasi altro discorso, c'è una bambina che non c'è più e una famiglia che vive un dolore che nessuna analisi può misurare. Detto questo, la causa strutturale rimossa dal racconto che trasforma questa tragedia in scontro tra «no vax» e «pro scienza» è il sistema di prevenzione che avrebbe dovuto intercettare la mancata vaccinazione obbligatoria per legge: la Procura indaga anche su questo. Il quartiere Zen di Palermo è uno dei contesti di marginalità urbana più documentati d'Italia — un luogo dove la diffidenza verso le istituzioni, incluso il sistema sanitario, ha radici storiche concrete che nessun tweet di indignazione rimuoverà.",
-          "redattore": "L'Osservatore 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-09-25T07:19:12.617680+00:00"
+  "ultimo_aggiornamento": "2026-09-27T07:19:20.064832+00:00"
 }

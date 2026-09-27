@@ -1,45 +1,45 @@
 {
-  "data": "2026-09-25",
+  "data": "2026-09-27",
   "tweet": [
     {
-      "testo": "Trump accoglie Xi con bombardieri B-1 e tappeto rosso. Poi annunciano un «nuovo accordo». Dettagli? Zero. La tregua sui dazi è prorogata fino a gennaio. Wall Street festeggia. Casuale. #TrumpXi",
-      "url": "https://corrispondente.filoclastos.it/2026/09/25/trump-xi-casa-bianca-dazi-tregua-2026/",
-      "slug": "trump-xi-casa-bianca-dazi-tregua-2026",
+      "testo": "Netanyahu all'ONU: metà sala vuota, lui chiama «codardi» chi esce. In 75 anni di storia, nessuno aveva mai dovuto intimare al pubblico di andarsene. Nuova vetta della diplomazia globale. 🇺🇳",
+      "url": "https://corrispondente.filoclastos.it/2026/09/27/netanyahu-onu-delegazioni-lasciano-aula-codardi/",
+      "slug": "netanyahu-onu-delegazioni-lasciano-aula-codardi",
       "categoria": "Politica Internazionale",
-      "evidenza": true,
-      "pubblicato": true
+      "evidenza": false,
+      "pubblicato": false
     },
     {
-      "testo": "Decreto scuola: tetto del 30% di stranieri per classe, divieto di niqab, multa fino a €1.000 per chi non impara l'italiano. Il Quirinale ha già tolto la norma che separava i figli dai genitori. Tutto a posto, niente da vedere. #DecretoScuola",
-      "url": "https://corrispondente.filoclastos.it/2026/09/25/decreto-scuola-30-percento-stranieri-niqab-quirinale/",
-      "slug": "decreto-scuola-30-percento-stranieri-niqab-quirinale",
+      "testo": "Reggio Calabria vota per un seggio che dura un anno. Il centrodestra manda il tesoriere di FI, il centrosinistra un cardiologo, Vannacci debutta. In Calabria, si sa, la scheda è sempre stata un affare di famiglia. 🗳️",
+      "url": "https://corrispondente.filoclastos.it/2026/09/27/suppletive-reggio-calabria-roscioli-benedetto-vannacci-2026/",
+      "slug": "suppletive-reggio-calabria-roscioli-benedetto-vannacci-2026",
       "categoria": "Politica Nazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "OCSE alza il PIL Italia a +0,9%. Governo esulta. Dettaglio: i salari reali italiani sono ancora del 6,1% sotto i livelli del 2021. Cresce l'economia, calano i portafogli. #PIL #OCSE",
-      "url": "https://corrispondente.filoclastos.it/2026/09/25/ocse-pil-italia-09-2026-salari-reali-sotto-2021/",
-      "slug": "ocse-pil-italia-09-2026-salari-reali-sotto-2021",
+      "testo": "Benzina a 2,158€/l, diesel a 2,357€/l. Il governo ha dimezzato lo sconto fiscale e ora «appella» le compagnie petrolifere. Le stesse compagnie che, da marzo 2026, hanno incassato oltre 2 miliardi di sussidi pubblici. 🛢️",
+      "url": "https://corrispondente.filoclastos.it/2026/09/27/benzina-diesel-record-storico-sconto-accise-settembre-2026/",
+      "slug": "benzina-diesel-record-storico-sconto-accise-settembre-2026",
       "categoria": "Economia",
-      "evidenza": false,
-      "pubblicato": true
+      "evidenza": true,
+      "pubblicato": false
     },
     {
-      "testo": "L'Italia campione del mondo di volley eliminata dalla Finlandia 3-2 ai quarti degli Europei. Al PalaVela di Torino. Davanti al proprio pubblico. Jokela 28 punti. Lavia irriconoscibile. Buonanotte. #EuroVolley2026",
-      "url": "https://corrispondente.filoclastos.it/2026/09/25/italvolley-eliminata-finlandia-quarti-europei-2026/",
-      "slug": "italvolley-eliminata-finlandia-quarti-europei-2026",
+      "testo": "Oggi a Montréal si assegna la maglia arcobaleno più pesante del calendario. 273 km, 3.803 m di dislivello, niente Pogačar (infortunato alla Vuelta). Una gara aperta come non si vedeva da anni. In chiaro su Rai 2 e Rai Sport. 🌈🚴",
+      "url": "https://corrispondente.filoclastos.it/2026/09/27/mondiali-ciclismo-montreal-2026-prova-in-linea-elite-uomini/",
+      "slug": "mondiali-ciclismo-montreal-2026-prova-in-linea-elite-uomini",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Oggi in tribunale: Ranucci vs RAI. Il giornalista che ha subito un attentato con esplosivo nel 2025 viene rimosso da Report. La RAI gli contesta di aver detto che in azienda ci sono «mafia e massonerie». La RAI, non un commissariato. #Ranucci #Report",
-      "url": "https://corrispondente.filoclastos.it/2026/09/25/ranucci-rai-tribunale-udienza-reintegro-report/",
-      "slug": "ranucci-rai-tribunale-udienza-reintegro-report",
+      "testo": "Tre colpi sul finestrino blindato della pm antimafia Cerreti, parcheggiata nel cortile del Tribunale di Milano. Nessun altro veicolo toccato. Gli accertamenti sono in corso. La procuratrice di Torino: «Se fosse stato al Sud, avrebbe fatto più notizia.» 🔨",
+      "url": "https://corrispondente.filoclastos.it/2026/09/27/pm-antimafia-cerreti-auto-blindata-danneggiata-palazzo-giustizia-milano/",
+      "slug": "pm-antimafia-cerreti-auto-blindata-danneggiata-palazzo-giustizia-milano",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }
