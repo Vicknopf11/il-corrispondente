@@ -1,6 +1,120 @@
 {
   "edizioni": [
     {
+      "data": "2026-09-28",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Attentato sventato alla base RAF di Fairford: cinque arresti, pista iraniana",
+          "slug": "attentato-sventato-base-raf-fairford-iran-arresti",
+          "tag": [
+            "terrorismo",
+            "iran",
+            "regno-unito",
+            "guerra"
+          ],
+          "evidenza": true,
+          "fonte": "La Notizia / Adnkronos",
+          "cerca_url": "https://www.google.com/search?q=attentato+sventato+base+RAF+Fairford+Iran+2026",
+          "post_x": "Cinque arrestati vicino alla base RAF di Fairford, usata dai bombardieri USA contro l'Iran. Trump si intestina il merito. Domanda vietata: ma chi ha deciso di usare suolo britannico per bombardare Teheran? #Fairford #Iran",
+          "post_sito": "Nella notte tra sabato e domenica, cinque uomini sono stati fermati con accuse legate agli esplosivi nei pressi della base aerea di Fairford, nel Gloucestershire, mentre si avvicinavano a bordo di tre furgoni bianchi. La base è condivisa da decenni con gli Stati Uniti ed è stata messa a disposizione dei bombardieri americani impegnati nelle operazioni contro l'Iran, su disposizione dell'ex premier Keir Starmer — una decisione che all'epoca aveva scatenato le proteste di Teheran. Il presidente Trump, in piena campagna per le Midterm, non ha perso un secondo: ha già rivendicato la «grande collaborazione» con Londra come sua vittoria personale. Quello che il racconto ufficiale tace è il contesto: l'IRGC aveva esplicitamente indicato le basi occidentali usate per i raid come possibili obiettivi, e Londra aveva comunque scelto di mettere a rischio il proprio territorio — e i propri cittadini, come quelli del villaggio di Whelford, evacuati nel mezzo della notte — per partecipare a un conflitto che ha anche robusti interessi nell'industria della difesa angloamericana. I cinque arrestati restano per ora senza nome né nazionalità accertata: nessuna sentenza, ancora, e la prudenza è d'obbligo.",
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La versione delle autorità",
+              "testo": "La polizia antiterrorismo di Scotland Yard ha arrestato cinque uomini accusati di violazione della legge sugli esplosivi e pianificazione di un attacco terroristico. L'operazione è scattata all'1.45 (ora italiana), quando tre furgoni sospetti si stavano dirigendo verso l'installazione militare. La ministra dell'Interno Shabana Mahmood ha confermato che la situazione è sotto controllo. Le indagini sono in corso per stabilire eventuali legami con gruppi iraniani o altre organizzazioni, ma nessun collegamento è stato ancora formalmente accertato."
+            },
+            {
+              "etichetta": "Il nodo geopolitico",
+              "testo": "La base di Fairford è utilizzata da decenni dagli Stati Uniti e, per decisione del governo britannico, è stata messa a disposizione dei bombardieri americani nelle operazioni contro l'Iran. Le Guardie della Rivoluzione iraniane avevano pubblicamente indicato le installazioni occidentali coinvolte nei raid come possibili obiettivi. A luglio 2026 il governo britannico aveva designato l'IRGC nell'ambito dei nuovi poteri contro le minacce statali, e aveva accusato Teheran di usare reti criminali e proxy per operazioni ostili in Europa. Il rapporto diplomatico tra Londra e Teheran è deteriorato progressivamente nel corso del 2026."
+            },
+            {
+              "etichetta": "Il rischio per i civili britannici",
+              "testo": "Gli abitanti del villaggio di Whelford, a circa tre chilometri dalla base, sono stati svegliati dalla polizia e fatti evacuare nel cuore della notte verso un centro ricreativo locale. La decisione di ospitare operazioni militari offensive su suolo britannico espone le comunità circostanti a un rischio diretto. Questo elemento è rimasto in secondo piano nel dibattito pubblico, che si è concentrato quasi interamente sul successo dell'operazione antiterrorismo."
+            },
+            {
+              "etichetta": "La dimensione elettorale americana",
+              "testo": "Donald Trump, in piena campagna per le elezioni di Midterm, ha commentato rapidamente gli arresti intestandosi parte del merito e citando la «grande collaborazione» con Londra. Il tempismo delle dichiarazioni presidenziali — emesse prima che le indagini fossero completate e le identità degli arrestati rese note — ha sollevato alcune osservazioni sulla strumentalizzazione politica di un evento di sicurezza ancora sotto indagine."
+            }
+          ],
+          "implicazioni": "Se le indagini dovessero confermare un collegamento con gruppi legati all'Iran, la pressione sul governo britannico per rivedere il proprio coinvolgimento nelle operazioni militari americane contro Teheran potrebbe aumentare. Sul piano interno, l'episodio riapre il dibattito sul costo in termini di sicurezza della scelta di ospitare basi operative offensive su territorio britannico. Sul piano legale, la presunzione di innocenza degli arrestati rimane pienamente operativa fino a eventuali condanne.",
+          "redattore": "Il Corrispondente Estero 1.0"
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "La riforma della legge elettorale torna alla Camera: proporzionale con premio al 42%",
+          "slug": "riforma-legge-elettorale-camera-proporzionale-premio-42",
+          "tag": [
+            "legge-elettorale",
+            "parlamento",
+            "centrodestra",
+            "riforma"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Sky TG24",
+          "cerca_url": "https://www.google.com/search?q=riforma+legge+elettorale+Camera+proporzionale+premio+42+settembre+2026",
+          "post_x": "La legge elettorale torna in Aula. Proporzionale con premio al 42%. I partiti che oggi non arrivano al 42% la sostengono con entusiasmo. Coincidenza. #LeggElettorale #Stabilicum",
+          "post_sito": "Giornata politica importante a Montecitorio: la riforma della legge elettorale — già approvata al Senato — approda nuovamente in Aula per l'ultimo passaggio parlamentare. Il testo introduce un sistema proporzionale corretto da un premio di maggioranza per chi supera il 42% dei voti, con un tetto massimo di 220 seggi alla Camera e 113 al Senato, soglie di sbarramento ereditate dal Rosatellum (10% per le coalizioni, 3% per le liste) e l'indicazione del premier al momento del deposito del contrassegno. La domanda che il dibattito ufficiale evita è quella del mandante invisibile di questa riforma: chi beneficia davvero di una soglia al 42% che, con i sondaggi attuali, nessuno è certo di raggiungere? Una soglia così alta può servire contemporaneamente a spaventare le opposizioni — frammentandole — e a legittimare governi di coalizione larghissima se nessuno la supera. La storia elettorale italiana insegna che ogni legge di voto è scritta da chi è al governo per i propri interessi di sopravvivenza, e questa non fa eccezione: l'aumento da 1.500 a 6.000 firme per i non parlamentari è un dettaglio piccolo piccolo che renderà la vita difficilissima a qualunque forza nuova voglia presentarsi.",
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0"
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Eni e Ip fissano il price cap sui carburanti: benzina a 1,99 e gasolio a 2,19 — ma i gestori minacciano l'Antitrust",
+          "slug": "price-cap-carburanti-eni-ip-benzina-gasolio-gestori-antitrust",
+          "tag": [
+            "carburanti",
+            "eni",
+            "price-cap",
+            "energia"
+          ],
+          "evidenza": false,
+          "fonte": "Today.it / Il Sole 24 Ore",
+          "cerca_url": "https://www.google.com/search?q=price+cap+carburanti+Eni+Ip+benzina+gasolio+28+settembre+2026",
+          "post_x": "Eni (partecipata dallo Stato) e Ip (controllata dall'Azerbaijan) \"calano\" i prezzi della benzina. Il governo esulta. I gestori minacciano l'Antitrust. Traduzione: due colossi pubblici decidono il prezzo di mercato. Il liberismo a geometria variabile. #Carburanti",
+          "post_sito": "Da oggi nei distributori Enilive è in vigore il tetto fissato da Eni: 1,99 euro al litro per la benzina e 2,19 per il diesel, per una durata iniziale di trenta giorni, con possibile proroga a fine anno. Anche Socar — il gruppo statale azero che dal maggio 2026 controlla Italiana Petroli — ha annunciato un limite analogo sulle stazioni Ip ed Esso. La premier Meloni ha salutato la misura come «segnale importante». Quello che manca dalla narrazione è il contesto: il price cap arriva dopo che il gasolio sulla rete stradale aveva già raggiunto i 2,377 euro al litro e la benzina 2,159, con il diesel in autostrada vicino ai 2,50. Il beneficio taciuto è duplice: Eni è partecipata dal Ministero dell'Economia, quindi lo Stato si autocongratula per un gesto che compie come azionista di controllo, non come regolatore. E Socar — un'azienda di Stato azera — si guadagna improvvisamente un'immagine di buon samaritano sul mercato italiano, in un momento in cui l'Azerbaijan cerca di consolidare la propria influenza energetica in Europa. I gestori indipendenti, che acquistano il carburante a prezzi di mercato e non riescono a praticare gli stessi sconti dei colossi, parlano di concorrenza sleale e minacciano ricorso all'Antitrust: una voce che rischia di perdersi nel coro degli applausi.",
+          "editoriale": false,
+          "redattore": "L'Analista 1.0"
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Luna Rossa domina le regate preliminari dell'America's Cup nel golfo di Napoli",
+          "slug": "luna-rossa-vince-regate-preliminari-americas-cup-napoli",
+          "tag": [
+            "vela",
+            "americas-cup",
+            "luna-rossa",
+            "napoli"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Il Post",
+          "cerca_url": "https://www.google.com/search?q=Luna+Rossa+vince+regate+preliminari+Americas+Cup+Napoli+settembre+2026",
+          "post_x": "Luna Rossa vince le preregate dell'America's Cup a Napoli: 4 regate su 8 in flotta, poi il match race finale contro New Zealand vinto con 17 secondi di vantaggio. Davanti a centomila persone sul lungomare. L'anno prossimo la coppa vera. Forza. 🇮🇹⛵",
+          "post_sito": "Luna Rossa ha vinto le regate preliminari della 38ª America's Cup disputate nel golfo di Napoli, conquistando quattro delle otto regate di flotta e battendo nettamente Emirates Team New Zealand nel match race finale con 17 secondi di vantaggio — davanti a centomila persone sul lungomare Caracciolo. I timonieri Peter Burling e Marco Gradoni, con i trimmer Maria Giubilei e Gianluigi Ugolini, hanno chiuso con 71 dei 80 punti disponibili, replicando il successo già ottenuto a Cagliari a maggio. È un risultato sportivo di grande sostanza: Luna Rossa ha battuto il defender neozelandese — vincitore delle ultime tre Coppe America — nelle stesse acque dove l'estate del 2027 si disputerà la competizione vera, quella sugli AC75. Il conto dietro la medaglia è reale ma non oscura la prestazione: l'evento ha portato oltre 250mila persone al Race Village nei quattro giorni, ed è lecito chiedersi quanto di quell'entusiasmo si tradurrà in investimenti strutturali per la città. Per ora, però, il fatto sportivo parla da solo: una vittoria netta, costruita sul campo, contro i migliori al mondo.",
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0"
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Sentenza Regeni: la Corte d'Assise di Roma decide dopo dieci anni sugli 007 egiziani",
+          "slug": "sentenza-regeni-corte-assise-roma-agenti-egiziani-2026",
+          "tag": [
+            "regeni",
+            "egitto",
+            "sentenza",
+            "giustizia"
+          ],
+          "evidenza": false,
+          "fonte": "Il Post / ANSA",
+          "cerca_url": "https://www.google.com/search?q=sentenza+Regeni+Corte+Assise+Roma+28+settembre+2026",
+          "post_x": "Oggi la sentenza Regeni. Dieci anni, 3890 giorni, quattro imputati assenti, un Egitto che non ha mai consegnato un indirizzo. Lo Stato italiano ha firmato accordi commerciali con Il Cairo tutto il tempo. #Regeni #Giustizia",
+          "post_sito": "Oggi, lunedì 28 settembre, la Corte d'Assise di Roma pronuncia la sentenza di primo grado nel processo sull'omicidio di Giulio Regeni, il ricercatore italiano sequestrato, torturato e ucciso al Cairo nel gennaio 2016: sono trascorsi 3.890 giorni da quando il suo corpo fu ritrovato lungo la strada tra il Cairo e Alessandria con evidenti segni di torture. Sul banco degli imputati ci sono quattro agenti della National Security egiziana — il generale Magdi Ibrahim Abdelal Sharif, per il quale la procura ha chiesto l'ergastolo, e i colonnelli Athar Kamel Mohamed Ibrahim, Uhsam Helmi e il generale Tariq Sabir, per i quali sono stati chiesti 17 anni e sei mesi. Nessuno di loro è in aula: l'Egitto ha sistematicamente rifiutato di fornire i loro indirizzi per la notifica degli atti processuali, rendendo il processo tecnicamente celebrato in assenza. La causa strutturale rimossa dal racconto dominante è quella diplomatica: per tutti questi dieci anni il governo italiano — di qualunque colore — ha continuato a coltivare rapporti economici, energetici e di sicurezza con Il Cairo, inclusa la firma di accordi bilaterali da parte del ministro Tajani appena all'inizio di settembre. La domanda «chi ci guadagna dal silenzio» ha una risposta concreta: chiunque abbia interessi nella stabilità del regime egiziano e negli approvvigionamenti energetici del Mediterraneo. La sentenza, qualunque essa sia, non potrà essere eseguita finché l'Egitto non cambierà posizione.",
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0"
+        }
+      ]
+    },
+    {
       "data": "2026-09-27",
       "post": [
         {
@@ -3133,97 +3247,7 @@
           "redattore": "L'Osservatore 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-08-22",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "USA-Canada: dazi al 50% scattano dopo il fallimento dei negoziati",
-          "slug": "dazi-usa-canada-50-percento-negoziati-falliti",
-          "tag": [
-            "dazi",
-            "usa",
-            "canada",
-            "guerra-commerciale"
-          ],
-          "evidenza": true,
-          "fonte": "ANSA / Focus America",
-          "cerca_url": "https://www.google.com/search?q=dazi+USA+Canada+50+percento+negoziati+falliti+agosto+2026",
-          "post_x": "I dazi al 50% su 20 miliardi di prodotti canadesi sono scattati. Carney li chiama «ingiusti». Trump li chiama «affari». Chi ci guadagna davvero? Indizio: non è chi compra mazze da hockey. #DaziUSACanada",
-          "post_sito": "I negoziati tra Washington e Ottawa sono naufragati nella notte tra venerdì e sabato, e i dazi statunitensi al 50% su circa 20 miliardi di dollari di prodotti canadesi sono entrati in vigore. La cosa interessante — taciuta dal coro mediatico — è che l'Amministrazione Trump ha escluso dalle nuove tariffe energia, potassio e minerali critici: esattamente le voci che interessano alle lobby estrattive americane e alle multinazionali dell'energia che da anni premono per smontare il mercato integrato nordamericano a proprio vantaggio. Il mandante invisibile non è la Casa Bianca: è l'industria americana che vuole rinegoziare l'USMCA a condizioni più favorevoli, usando i dazi come ariete. Mark Carney parla di ritorsioni «dollaro su dollaro», ma il Canada è il secondo partner commerciale degli USA: ogni guerra commerciale tra vicini fa male a entrambi — e arricchisce i mediatori finanziari che scommettono sulla volatilità. Da ricordare: i due Paesi litigano su legname e latticini da decenni, ma erano rimasti alleati stretti — fino a quando convenne smettere di esserlo.",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Caso Roggero: Meloni cavalca la sentenza in vista delle elezioni 2027",
-          "slug": "caso-roggero-meloni-grazia-campagna-elettorale-2027",
-          "tag": [
-            "roggero",
-            "legittima-difesa",
-            "meloni",
-            "elezioni-2027"
-          ],
-          "evidenza": false,
-          "fonte": "Il Fatto Quotidiano / Sfoglia Roma",
-          "cerca_url": "https://www.google.com/search?q=caso+Roggero+Meloni+grazia+campagna+elettorale+2027",
-          "post_x": "Roggero condannato a 14 anni e 9 mesi. Meloni chiede la grazia. Salvini offre la candidatura. Vannacci si inserisce. Il gioielliere non sa ancora se è una vittima o un simbolo elettorale. #CasoRoggero",
-          "post_sito": "Il caso del gioielliere Mario Roggero — condannato in via definitiva a 14 anni e 9 mesi per aver ucciso due rapinatori — è diventato il terreno di scontro più caldo della pre-campagna per le elezioni politiche del 2027. Meloni ha rivendicato di aver dato lei stessa l'indicazione politica al ministro Nordio per avviare l'istruttoria sulla grazia, salvo poi essere richiamata da Mattarella — che ha ricordato a tutti che la grazia è prerogativa presidenziale, non governativa. Il coro compatto della destra-centro difende Roggero cavalcando il tema sicurezza, ma nessuno ricorda che negli ultimi anni lo stesso centrodestra ha sistematicamente tagliato i fondi alle forze dell'ordine di quartiere e ai presidi territoriali che avrebbero potuto prevenire le rapine seriali. Il villaggio di comodo è il gioielliere-simbolo; la causa strutturale rimossa è un sistema giudiziario e di prevenzione che non funziona — e che nessuno propone concretamente di riformare. Nel frattempo Salvini offre la candidatura a Roggero e Vannacci sale nei sondaggi: il dramma di un anziano sotto stress diventa carburante elettorale per tutti, nessuno escluso.",
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Tesoro USA raddoppia i buyback del debito: oro ai massimi da tre mesi, Bitcoin vola",
-          "slug": "tesoro-usa-raddoppia-buyback-debito-oro-bitcoin",
-          "tag": [
-            "debito-usa",
-            "oro",
-            "bitcoin",
-            "buyback"
-          ],
-          "evidenza": false,
-          "fonte": "Il Sole 24 Ore / Milano Finanza",
-          "cerca_url": "https://www.google.com/search?q=Tesoro+USA+raddoppia+buyback+debito+oro+bitcoin+agosto+2026",
-          "post_x": "Il Tesoro USA raddoppia i riacquisti di debito: da 2 a 4 miliardi a operazione. Oro ai massimi, Bitcoin +8%. Traduzione: quando il pompiere appicca il fuoco, chi vende estintori guadagna. #DebitoUSA #Bitcoin",
-          "post_sito": "Il Dipartimento del Tesoro americano guidato da Scott Bessent ha annunciato che raddoppierà l'entità massima delle operazioni di riacquisto del debito pubblico, portandola da 2 a 4 miliardi di dollari per operazione a partire dal 9 settembre. La reazione dei mercati è stata immediata: oro in rialzo di oltre il 3,5%, Bitcoin schizzato sopra i 76.000 dollari. Il beneficio taciuto è quello degli operatori finanziari che gestiscono ETF sull'oro e fondi cripto — tra cui BlackRock, che da mesi posiziona Bitcoin come «asset anti-money printer» — e che incassano commissioni miliardarie su ogni ondata di volatilità. La mossa non risolve il problema strutturale: il debito USA ha ormai superato i 40.000 miliardi di dollari e gli analisti di Swissquote avvertono che comprare debito a lungo termine invece di ridurre la traiettoria fiscale non farà che accelerare la de-dollarizzazione. In sostanza: Washington cura il mal di testa con aspirine prese a credito, e chi vende aspirine brinda.",
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Giochi del Mediterraneo a Taranto: prima giornata di medaglie tra nuoto, scherma e ciclismo",
-          "slug": "giochi-mediterraneo-taranto-2026-prima-giornata-medaglie",
-          "tag": [
-            "giochi-del-mediterraneo",
-            "taranto",
-            "nuoto",
-            "scherma"
-          ],
-          "evidenza": false,
-          "fonte": "OA Sport / Tuttosport",
-          "cerca_url": "https://www.google.com/search?q=Giochi+del+Mediterraneo+Taranto+2026+prima+giornata+medaglie+22+agosto",
-          "post_x": "Prima giornata di gare a Taranto: 17 titoli tra nuoto, scherma, ciclismo e taekwondo. L'Italia c'è. Peccato che la copertura tv sia già frammentata tra Rai Sport, Sportface TV e Italia Team TV. #Taranto2026",
-          "post_sito": "Oggi sabato 22 agosto scatta ufficialmente la corsa alle medaglie dei XX Giochi del Mediterraneo di Taranto 2026, con 17 titoli in palio nella prima giornata tra nuoto (9 ori), taekwondo (4), scherma (2) e ciclismo su strada a cronometro (2). Una rassegna multidisciplinare che nei Paesi del Mediterraneo meridionale vale quanto un'Olimpiade, e che in Italia stenta ancora a trovare la dignità mediatica che merita — nonostante la trasmissione su Rai Sport HD e in streaming su Rai Play. Il conto dietro la medaglia è che Taranto ospita i Giochi in una città che per decenni ha pagato il prezzo ambientale e sanitario dell'Ilva: impianti sportivi costruiti sull'ex area portuale, operai ex-Ilva tra i volontari. Se ne parla? Raramente. Eppure è la storia più potente di questi Giochi: una città che prova a raccontarsi attraverso lo sport dopo anni in cui veniva raccontata solo attraverso le cokerie.",
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Maltempo in Lombardia: 400 evacuati, ponti crollati, la Regione chiede lo stato di emergenza",
-          "slug": "maltempo-lombardia-evacuati-ponti-crollati-stato-emergenza",
-          "tag": [
-            "maltempo",
-            "lombardia",
-            "alluvione",
-            "stato-di-emergenza"
-          ],
-          "evidenza": false,
-          "fonte": "Today.it / Varese7Press",
-          "cerca_url": "https://www.google.com/search?q=maltempo+Lombardia+400+evacuati+stato+emergenza+agosto+2026",
-          "post_x": "Lombardia: 400 evacuati, ponti crollati, 450 interventi dei pompieri. Fontana chiede lo stato di emergenza. Il ponte di Sonico era stato ricostruito nel 2014 dopo un'altra alluvione. Due volte non bastano. #MaltемpoLombardia",
-          "post_sito": "Una violenta ondata di maltempo si è abbattuta sulla Lombardia tra il 20 e il 21 agosto, con precipitazioni fino a 270 millimetri sulle Alpi Orobie e fino a 260 millimetri sull'Alto Lago di Como. Il bilancio provvisorio parla di circa 400 persone evacuate, oltre 450 interventi dei Vigili del fuoco, ponti crollati — tra cui quello di Rino a Sonico, in Valcamonica, già ricostruito dopo l'alluvione del 2014 — e comuni isolati in Val Brembana. La causa strutturale rimossa dal racconto dominante — che si concentra sui numeri degli evacuati e sulle dichiarazioni di Fontana — è il dissesto idrogeologico cronico di un territorio per cui si stanziano fondi di emergenza ogni estate, senza mai investire in prevenzione strutturale. I piani di adattamento climatico esistono sulla carta da anni; i cantieri di messa in sicurezza dei versanti alpini avanzano a passo di lumaca, anche in una delle regioni più ricche d'Europa. Lo stato di emergenza verrà concesso: arriveranno risorse. Poi tornerà il sole, e tornerà anche l'oblio — fino alla prossima estate.",
-          "redattore": "L'Osservatore 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-09-27T07:19:20.064832+00:00"
+  "ultimo_aggiornamento": "2026-09-28T07:19:09.079094+00:00"
 }
