@@ -1,6 +1,38 @@
 {
-  "generato": "2026-09-28T05:30:53.985010+00:00",
+  "generato": "2026-09-28T11:30:59.986456+00:00",
   "item": [
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Weekend tricolore per le bocce: riflettori su Raffa e Paralimpico",
+      "link": "https://www.gazzetta.it/bocce/24-09-2026/bocce-weekend-tricolore-per-le-bocce-riflettori-su-raffa-e-paralimpico.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-09-24"
+    },
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Goggia, svelato il motivo dei malesseri in Sudamerica: \"Sono ancora debilitata, ci vuole tanta pazienza...\"",
+      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/Coppa-Mondo-Sci/25-09-2026/sofia-goggia-cos-ha-avuto-tempi-recupero-malattia.shtml",
+      "fonte": "Gazzetta — Sport Invernali",
+      "data_evento": "2026-09-25"
+    },
+    {
+      "sottocategoria": "Calcio femminile",
+      "tipo": "notizia",
+      "titolo": "Red Bull Cliff Diving, Polignano a Mare premia Prygorov, a britannico Heslop il titolo",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/red-bull-cliff-diving-polignano-a-mare-premia-prygorov-a-britannico-heslop_869bd7cb-de43-462b-bdcd-d88af8b4884c.html",
+      "fonte": "ANSA Sport",
+      "data_evento": "2026-09-27"
+    },
+    {
+      "sottocategoria": "Combattimento",
+      "tipo": "notizia",
+      "titolo": "Lutto nel wrestling: è morto Pac, aveva solo 40 anni. Due giorni fa era sul ring a Chicago",
+      "link": "https://www.gazzetta.it/Sport-Vari/28-09-2026/pac-morto-wrestling.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-09-28"
+    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
@@ -8,38 +40,6 @@
       "link": "https://www.gazzetta.it/Sport-Vari/26-09-2026/gustave-eiffel-l-uomo-oltre-la-torre-sport-ponti-e-una-sfida-chiamata-garabit.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-09-26"
-    },
-    {
-      "sottocategoria": "Squadra",
-      "tipo": "notizia",
-      "titolo": "Illumina Casoria: quando lo sport accende il futuro, Nuovo spazio dedicato ai giovani",
-      "link": "https://www.gazzetta.it/Sport-Vari/24-09-2026/illumina-casoria-quando-lo-sport-accende-il-futuro.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-09-24"
-    },
-    {
-      "sottocategoria": "Combattimento",
-      "tipo": "notizia",
-      "titolo": "Zhang, il gigante cinese sospeso tra il ritiro e la chiusura di un cerchio",
-      "link": "https://www.gazzetta.it/Sport-Vari/23-09-2026/guantoni-zhilei-zhang-tra-ritiro-e-ultimo-match-quando-cammarelle.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-09-23"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "A Milano lo Sport&Fun Experience Village con i talent di Eurosport",
-      "link": "https://www.gazzetta.it/Sport-Vari/23-09-2026/milano-sport-fun-experience-village-talent-eurosport.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-09-23"
-    },
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "Maratona di Berlino: un infortunio frena Assefa, sfuma il record del mondo nel finale",
-      "link": "https://www.gazzetta.it/Atletica/27-09-2026/maratona-di-berlino-tigst-assefa-sfiora-il-record-del-mondo.shtml",
-      "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-09-27"
     }
   ]
 }
