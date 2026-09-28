@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-09-28",
+      "slug": "luna-rossa-vince-regate-preliminari-americas-cup-napoli",
+      "categoria": "Sport",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-09-28",
       "slug": "price-cap-carburanti-eni-ip-benzina-gasolio-gestori-antitrust",
       "categoria": "Economia",
       "evidenza": false,
