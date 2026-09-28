@@ -1,6 +1,14 @@
 {
   "pubblicazioni": [
     {
+      "data": "2026-09-28",
+      "slug": "attentato-sventato-base-raf-fairford-iran-arresti",
+      "categoria": "Politica Internazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
       "data": "2026-09-27",
       "slug": "pm-antimafia-cerreti-auto-blindata-danneggiata-palazzo-giustizia-milano",
       "categoria": "Cronaca",
