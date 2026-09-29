@@ -1,6 +1,22 @@
 {
-  "generato": "2026-09-29T05:30:53.482392+00:00",
+  "generato": "2026-09-29T11:31:00.218324+00:00",
   "item": [
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Lacrime sul diamante: la piccola Genevieve sostituisce il manager e chiude la carriera di papà Verlander",
+      "link": "https://www.gazzetta.it/Sport-Usa/29-09-2026/mlb-il-ritiro-di-justin-verlander-lanciatore-dei-detroit-tigers.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-09-29"
+    },
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Il grande weekend della Raffa: non solo gli scudetti, è stato Italia show agli Europei giovanili",
+      "link": "https://www.gazzetta.it/bocce/29-09-2026/raffa-assegnati-gli-scudetti-italia-show-agli-europei-giovanili.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-09-29"
+    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
@@ -24,22 +40,6 @@
       "link": "https://www.gazzetta.it/Sport-Vari/24-09-2026/illumina-casoria-quando-lo-sport-accende-il-futuro.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-09-24"
-    },
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "Il record mondiale sfiorato col tendine d'Achille rotto: chi è Assefa, la maratoneta che va più forte degli uomini",
-      "link": "https://www.gazzetta.it/Atletica/28-09-2026/chi-e-assefa-la-maratoneta-che-ha-sfiorato-il-record-mondiale-col-tendine-d-achille-rotto.shtml",
-      "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-09-28"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Alcaraz non si ferma, vuole la Davis. Carlos è una certezza, invece Sinner...",
-      "link": "https://www.gazzetta.it/Tennis/Coppa-Davis/28-09-2026/alcaraz-obiettivo-coppa-davis-a-bologna-sogna-il-duello-con-sinner.shtml",
-      "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-09-28"
     }
   ]
 }
