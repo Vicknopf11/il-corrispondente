@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-09-29",
+      "slug": "ustica-francia-documenti-difesa-procura-roma-archiviazione-2026",
+      "categoria": "Cronaca",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
+      "data": "2026-09-29",
       "slug": "olimpia-milano-virtus-bologna-eurolega-derby-italiano-2026",
       "categoria": "Sport",
       "evidenza": false,
