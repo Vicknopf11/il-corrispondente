@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-09-30",
+      "slug": "eni-sconto-bollette-30-percento-arera-aumento-vulnerabili",
+      "categoria": "Economia",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-09-30",
       "slug": "sentenza-regeni-007-egiziani-condannati-tajani-minimizza",
       "categoria": "Politica Nazionale",
       "evidenza": true,
