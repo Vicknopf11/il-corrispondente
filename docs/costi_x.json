@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-09-30",
+      "slug": "garlasco-chiusura-indagini-sempio-nuove-carte-procura",
+      "categoria": "Cronaca",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-09-30",
       "slug": "coppa-mondo-nuoto-vasca-corta-baku-razzetti-2026",
       "categoria": "Sport",
       "evidenza": false,
