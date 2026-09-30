@@ -1,14 +1,6 @@
 {
-  "generato": "2026-09-29T17:31:03.611735+00:00",
+  "generato": "2026-09-30T05:30:57.615596+00:00",
   "item": [
-    {
-      "sottocategoria": "Calcio femminile",
-      "tipo": "notizia",
-      "titolo": "Pallavolo: Cozzoli eletto presidente della Lega volley femminile",
-      "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/29/pallavolo-cozzoli-eletto-presidente-della-lega-volley-femminile_48a88012-4c46-4867-a895-42d834efdbae.html",
-      "fonte": "ANSA Sport",
-      "data_evento": "2026-09-29"
-    },
     {
       "sottocategoria": "Invernali",
       "tipo": "notizia",
@@ -36,10 +28,18 @@
     {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
-      "titolo": "Illumina Casoria: quando lo sport accende il futuro, Nuovo spazio dedicato ai giovani",
-      "link": "https://www.gazzetta.it/Sport-Vari/24-09-2026/illumina-casoria-quando-lo-sport-accende-il-futuro.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-09-24"
+      "titolo": "Difese un uomo da due razzisti e fu ucciso: 45 anni di carcere agli assassini del rugbista Aramburu",
+      "link": "https://www.gazzetta.it/Rugby/25-09-2026/rugby-assassini-di-aramburu-condannati.shtml",
+      "fonte": "Gazzetta — Rugby",
+      "data_evento": "2026-09-25"
+    },
+    {
+      "sottocategoria": "Atletica",
+      "tipo": "notizia",
+      "titolo": "Il record mondiale sfiorato col tendine d'Achille rotto: chi è Assefa, la maratoneta che va più forte degli uomini",
+      "link": "https://www.gazzetta.it/Atletica/28-09-2026/chi-e-assefa-la-maratoneta-che-ha-sfiorato-il-record-mondiale-col-tendine-d-achille-rotto.shtml",
+      "fonte": "Gazzetta — Atletica",
+      "data_evento": "2026-09-28"
     }
   ]
 }
