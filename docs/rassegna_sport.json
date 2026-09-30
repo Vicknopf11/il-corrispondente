@@ -1,6 +1,30 @@
 {
-  "generato": "2026-09-30T05:30:57.615596+00:00",
+  "generato": "2026-09-30T11:30:55.888843+00:00",
   "item": [
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Musetti salta il torneo di Tokyo: \"Ho una piccola frattura all'anulare della mano destra\"",
+      "link": "https://www.gazzetta.it/Tennis/ATP/30-09-2026/lorenzo-musetti-infortunato-salto-tokyo-per-un-dito-fratturato-obiettivo-shanghai.shtml",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-09-30"
+    },
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Il grande weekend della Raffa: non solo gli scudetti, è stato Italia show agli Europei giovanili",
+      "link": "https://www.gazzetta.it/bocce/29-09-2026/raffa-assegnati-gli-scudetti-italia-show-agli-europei-giovanili.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-09-29"
+    },
+    {
+      "sottocategoria": "Calcio femminile",
+      "tipo": "notizia",
+      "titolo": "Pallavolo: Cozzoli eletto presidente della Lega volley femminile",
+      "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/29/pallavolo-cozzoli-eletto-presidente-della-lega-volley-femminile_48a88012-4c46-4867-a895-42d834efdbae.html",
+      "fonte": "ANSA Sport",
+      "data_evento": "2026-09-29"
+    },
     {
       "sottocategoria": "Invernali",
       "tipo": "notizia",
@@ -15,30 +39,6 @@
       "titolo": "Lutto nel wrestling: è morto Pac, aveva solo 40 anni. Due giorni fa era sul ring a Chicago",
       "link": "https://www.gazzetta.it/Sport-Vari/28-09-2026/pac-morto-wrestling.shtml",
       "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-09-28"
-    },
-    {
-      "sottocategoria": "Acqua",
-      "tipo": "notizia",
-      "titolo": "Non solo la torre: nuoto, boxe, scherma... Il genio di Eiffel nello sport",
-      "link": "https://www.gazzetta.it/Sport-Vari/26-09-2026/gustave-eiffel-l-uomo-oltre-la-torre-sport-ponti-e-una-sfida-chiamata-garabit.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-09-26"
-    },
-    {
-      "sottocategoria": "Squadra",
-      "tipo": "notizia",
-      "titolo": "Difese un uomo da due razzisti e fu ucciso: 45 anni di carcere agli assassini del rugbista Aramburu",
-      "link": "https://www.gazzetta.it/Rugby/25-09-2026/rugby-assassini-di-aramburu-condannati.shtml",
-      "fonte": "Gazzetta — Rugby",
-      "data_evento": "2026-09-25"
-    },
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "Il record mondiale sfiorato col tendine d'Achille rotto: chi è Assefa, la maratoneta che va più forte degli uomini",
-      "link": "https://www.gazzetta.it/Atletica/28-09-2026/chi-e-assefa-la-maratoneta-che-ha-sfiorato-il-record-mondiale-col-tendine-d-achille-rotto.shtml",
-      "fonte": "Gazzetta — Atletica",
       "data_evento": "2026-09-28"
     }
   ]
