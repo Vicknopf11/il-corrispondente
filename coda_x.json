@@ -1,45 +1,45 @@
 {
-  "data": "2026-09-29",
+  "data": "2026-09-30",
   "tweet": [
     {
-      "testo": "Trump pronto ad allentare le sanzioni all'Iran — ma solo dopo le elezioni di novembre. La pace mondiale segue il calendario elettorale americano. Puntualità svizzera. #Iran #Trump #Midterm",
-      "url": "https://corrispondente.filoclastos.it/2026/09/29/iran-usa-trump-sanzioni-nucleare-midterm-2026/",
-      "slug": "iran-usa-trump-sanzioni-nucleare-midterm-2026",
+      "testo": "Mosca minaccia di usare «l'intero arsenale» contro la NATO per Kaliningrad. L'Alleanza risponde indignata. Intanto i contractor della difesa festeggiano: ogni lettera diplomatica vale miliardi in commesse. #Russia #NATO",
+      "url": "https://corrispondente.filoclastos.it/2026/09/30/russia-minaccia-nato-kaliningrad-arsenale/",
+      "slug": "russia-minaccia-nato-kaliningrad-arsenale",
       "categoria": "Politica Internazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Centrodestra vince a Reggio Calabria col 51%. Meloni esulta: «coalizione compatta». Vannacci al 10,94%. Seggio che fu di Ciccio Bummino — il nome dice già tutto. #ReggioCalabria #Suppletive",
-      "url": "https://corrispondente.filoclastos.it/2026/09/29/suppletive-reggio-calabria-centrodestra-vince-vannacci-sconfitto/",
-      "slug": "suppletive-reggio-calabria-centrodestra-vince-vannacci-sconfitto",
+      "testo": "Tre 007 egiziani condannati a 10 anni per il sequestro di Regeni. L'omicidio? Cade. Tajani: «Non è stato condannato l'Egitto». Traduzione: gli affari con Il Cairo non si toccano. #Regeni #Italia #Egitto",
+      "url": "https://corrispondente.filoclastos.it/2026/09/30/sentenza-regeni-007-egiziani-condannati-tajani-minimizza/",
+      "slug": "sentenza-regeni-007-egiziani-condannati-tajani-minimizza",
       "categoria": "Politica Nazionale",
-      "evidenza": false,
-      "pubblicato": true
+      "evidenza": true,
+      "pubblicato": false
     },
     {
-      "testo": "Il governo vuole estendere l'IRPEF agevolata fino a 60mila euro. Ottimo per chi guadagna tra 50 e 60mila. Per il 70% dei lavoratori italiani — sotto i 28mila — non cambia nulla. Il ceto medio siete voi, ma solo quelli giusti. #IRPEF #Fisco",
-      "url": "https://corrispondente.filoclastos.it/2026/09/29/irpef-secondo-scaglione-60mila-euro-leo-manovra-2027/",
-      "slug": "irpef-secondo-scaglione-60mila-euro-leo-manovra-2027",
+      "testo": "ENI annuncia -30% sulle bollette. ARERA annuncia +37,3% per 3 milioni di clienti vulnerabili. Stessa giornata. Il marketing si chiama sussidio, la matematica si chiama stangata. #Energia #Bollette",
+      "url": "https://corrispondente.filoclastos.it/2026/09/30/eni-sconto-bollette-30-percento-arera-aumento-vulnerabili/",
+      "slug": "eni-sconto-bollette-30-percento-arera-aumento-vulnerabili",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Stasera Olimpia Milano-Virtus Bologna in Eurolega, alla seconda giornata. Il basket italiano gioca di nuovo in Europa come si deve. Zero coppe, molta storia, un'Arena che vale la pena accendere. #Eurolega #Basket #Derby",
-      "url": "https://corrispondente.filoclastos.it/2026/09/29/olimpia-milano-virtus-bologna-eurolega-derby-italiano-2026/",
-      "slug": "olimpia-milano-virtus-bologna-eurolega-derby-italiano-2026",
+      "testo": "Domani parte la Coppa del Mondo di nuoto in vasca corta a Baku. L'Italia ci va con Razzetti, Viberti e Mora. Montepremi: 1,2 milioni di dollari. Obiettivo: Mondiali di Pechino a dicembre. Esiste uno sport oltre al calcio. #Nuoto #WorldCup",
+      "url": "https://corrispondente.filoclastos.it/2026/09/30/coppa-mondo-nuoto-vasca-corta-baku-razzetti-2026/",
+      "slug": "coppa-mondo-nuoto-vasca-corta-baku-razzetti-2026",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "La Francia apre sull'inchiesta Ustica dopo 46 anni. Documenti del ministero della Difesa in arrivo a Roma. Quarantasei anni. 81 morti. Un DC-9 caduto nel Mediterraneo. E Parigi che collabora adesso. Tempismo impeccabile. #Ustica #Verita",
-      "url": "https://corrispondente.filoclastos.it/2026/09/29/ustica-francia-documenti-difesa-procura-roma-archiviazione-2026/",
-      "slug": "ustica-francia-documenti-difesa-procura-roma-archiviazione-2026",
+      "testo": "Garlasco 2026: scadono i termini delle indagini su Sempio, la Procura di Pavia deposita le ultime carte su DNA, impronte e scarpe. Stasi ha già una condanna definitiva. Due verità in cerca di un'unica storia. #Garlasco #Sempio #Stasi",
+      "url": "https://corrispondente.filoclastos.it/2026/09/30/garlasco-chiusura-indagini-sempio-nuove-carte-procura/",
+      "slug": "garlasco-chiusura-indagini-sempio-nuove-carte-procura",
       "categoria": "Cronaca",
-      "evidenza": true,
-      "pubblicato": true
+      "evidenza": false,
+      "pubblicato": false
     }
   ]
 }
