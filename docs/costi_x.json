@@ -1,6 +1,14 @@
 {
   "pubblicazioni": [
     {
+      "data": "2026-09-30",
+      "slug": "russia-minaccia-nato-kaliningrad-arsenale",
+      "categoria": "Politica Internazionale",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
       "data": "2026-09-29",
       "slug": "ustica-francia-documenti-difesa-procura-roma-archiviazione-2026",
       "categoria": "Cronaca",
