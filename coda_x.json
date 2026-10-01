@@ -1,45 +1,45 @@
 {
-  "data": "2026-09-30",
+  "data": "2026-10-01",
   "tweet": [
     {
-      "testo": "Mosca minaccia di usare «l'intero arsenale» contro la NATO per Kaliningrad. L'Alleanza risponde indignata. Intanto i contractor della difesa festeggiano: ogni lettera diplomatica vale miliardi in commesse. #Russia #NATO",
-      "url": "https://corrispondente.filoclastos.it/2026/09/30/russia-minaccia-nato-kaliningrad-arsenale/",
-      "slug": "russia-minaccia-nato-kaliningrad-arsenale",
+      "testo": "Pilota accoltellato su volo Dubai-Tel Aviv. Netanyahu evoca subito l'attentato. Le elezioni israeliane sono il 27 ottobre. Coincidenza di calendario? No, ovviamente. È solo sicurezza nazionale. #Israele #FlyDubai",
+      "url": "https://corrispondente.filoclastos.it/2026/10/01/flydubai-tel-aviv-netanyahu-attentato-elezioni/",
+      "slug": "flydubai-tel-aviv-netanyahu-attentato-elezioni",
       "categoria": "Politica Internazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Tre 007 egiziani condannati a 10 anni per il sequestro di Regeni. L'omicidio? Cade. Tajani: «Non è stato condannato l'Egitto». Traduzione: gli affari con Il Cairo non si toccano. #Regeni #Italia #Egitto",
-      "url": "https://corrispondente.filoclastos.it/2026/09/30/sentenza-regeni-007-egiziani-condannati-tajani-minimizza/",
-      "slug": "sentenza-regeni-007-egiziani-condannati-tajani-minimizza",
+      "testo": "Il governo blinda la legge elettorale con tre fiducie. Il voto finale sarà segreto. Magi digiuna. Meloni ha già detto: se non passa, si va a casa. Una democrazia che si tutela dalle proprie maggioranze. #LeggeElettorale",
+      "url": "https://corrispondente.filoclastos.it/2026/10/01/legge-elettorale-camera-fiducia-magi-sciopero-fame/",
+      "slug": "legge-elettorale-camera-fiducia-magi-sciopero-fame",
       "categoria": "Politica Nazionale",
       "evidenza": true,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "ENI annuncia -30% sulle bollette. ARERA annuncia +37,3% per 3 milioni di clienti vulnerabili. Stessa giornata. Il marketing si chiama sussidio, la matematica si chiama stangata. #Energia #Bollette",
-      "url": "https://corrispondente.filoclastos.it/2026/09/30/eni-sconto-bollette-30-percento-arera-aumento-vulnerabili/",
-      "slug": "eni-sconto-bollette-30-percento-arera-aumento-vulnerabili",
+      "testo": "Inflazione al 4,2%, bollette elettriche +37,3% nel quarto trimestre. Eni, Q8 e IP annunciano price cap sui carburanti. ENI è anche in borsa. Fincantieri sale del 3%. Il caro energia è un problema — per chi lo paga. #Inflazione #Energia",
+      "url": "https://corrispondente.filoclastos.it/2026/10/01/inflazione-42-bollette-energia-italia-ottobre-2026/",
+      "slug": "inflazione-42-bollette-energia-italia-ottobre-2026",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Domani parte la Coppa del Mondo di nuoto in vasca corta a Baku. L'Italia ci va con Razzetti, Viberti e Mora. Montepremi: 1,2 milioni di dollari. Obiettivo: Mondiali di Pechino a dicembre. Esiste uno sport oltre al calcio. #Nuoto #WorldCup",
-      "url": "https://corrispondente.filoclastos.it/2026/09/30/coppa-mondo-nuoto-vasca-corta-baku-razzetti-2026/",
-      "slug": "coppa-mondo-nuoto-vasca-corta-baku-razzetti-2026",
+      "testo": "L'Italia vince l'oro a squadre nello skeet junior maschile agli Europei di Malakasa. Antonio La Volpe in finale. Argento nel femminile. Nessuna telecronaca in prima serata, ovviamente — ci sono i voti di fiducia sulla legge elettorale. #TiroAVolo #Europei2026",
+      "url": "https://corrispondente.filoclastos.it/2026/10/01/europei-tiro-a-volo-italia-oro-skeet-junior-malakasa-2026/",
+      "slug": "europei-tiro-a-volo-italia-oro-skeet-junior-malakasa-2026",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Garlasco 2026: scadono i termini delle indagini su Sempio, la Procura di Pavia deposita le ultime carte su DNA, impronte e scarpe. Stasi ha già una condanna definitiva. Due verità in cerca di un'unica storia. #Garlasco #Sempio #Stasi",
-      "url": "https://corrispondente.filoclastos.it/2026/09/30/garlasco-chiusura-indagini-sempio-nuove-carte-procura/",
-      "slug": "garlasco-chiusura-indagini-sempio-nuove-carte-procura",
+      "testo": "Operaio tunisino di 55 anni morto per ustioni nello stabilimento Fincantieri di Ancona. Un 27enne bengalese gravissimo a Pisa. Entrambi lavoravano per una ditta esterna. Fincantieri esprime \"profondo cordoglio\". In borsa oggi +3,16%. #SicurezzaLavoro",
+      "url": "https://corrispondente.filoclastos.it/2026/10/01/fincantieri-ancona-operaio-morto-ustioni-sciopero/",
+      "slug": "fincantieri-ancona-operaio-morto-ustioni-sciopero",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }
