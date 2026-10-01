@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-01",
+      "slug": "europei-tiro-a-volo-italia-oro-skeet-junior-malakasa-2026",
+      "categoria": "Sport",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-01",
       "slug": "inflazione-42-bollette-energia-italia-ottobre-2026",
       "categoria": "Economia",
       "evidenza": false,
