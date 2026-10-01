@@ -135,6 +135,36 @@
     .tab-btn.attivo.sport          { border-bottom-color: #2980b9; }
     .tab-btn.attivo.cronaca        { border-bottom-color: #8e44ad; }
 
+    /* ── SUB-PILLS (filtro per sottocategoria dentro un gruppo) ── */
+    .sub-pills {
+      background: #f0ebe0;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      padding: 0.6rem 1rem;
+      border-bottom: 1px solid #ddd;
+    }
+
+    .sub-pill {
+      font-family: Arial, sans-serif;
+      font-size: 0.68rem;
+      font-weight: bold;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #555;
+      background: white;
+      border: 1px solid #ccc;
+      padding: 0.25rem 0.7rem;
+      cursor: pointer;
+      transition: color 0.2s, border-color 0.2s, background 0.2s;
+    }
+
+    .sub-pill:hover { border-color: #999; }
+    .sub-pill.attivo { color: white; background: #1a1a1a; border-color: #1a1a1a; }
+    .sub-pill.rassegna { color: #2980b9; border-color: #2980b9; }
+    .sub-pill.rassegna.attivo { color: white; background: #2980b9; }
+
     /* ── ARCHIVIO SELETTORE ── */
     .archivio-bar {
       background: #f0ebe0;
@@ -243,6 +273,10 @@
     .categoria-label.economia       { background: #27ae60; }
     .categoria-label.sport          { background: #2980b9; }
     .categoria-label.cronaca        { background: #8e44ad; }
+    .categoria-label.scienza        { background: #16a085; }
+    .categoria-label.ai             { background: #34495e; }
+    .categoria-label.wellness       { background: #d35400; }
+    .categoria-label.cultura        { background: #7f8c8d; }
 
     .rassegna-header {
       font-family: Arial, sans-serif;
@@ -261,6 +295,39 @@
       display: flex;
       flex-direction: column;
       gap: 0.6rem;
+    }
+
+    .rassegna-standalone {
+      margin-top: 0.5rem;
+    }
+
+    .link-rassegna {
+      display: block;
+      margin-top: 0.9rem;
+      padding-top: 0.7rem;
+      border-top: 1px dashed #ddd;
+      background: none;
+      border-left: none;
+      border-right: none;
+      border-bottom: none;
+      font-family: Arial, sans-serif;
+      font-size: 0.72rem;
+      font-weight: bold;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #2980b9;
+      cursor: pointer;
+      text-align: left;
+      width: 100%;
+    }
+
+    .link-rassegna:hover { color: #c0392b; }
+
+    .nessun-risultato {
+      color: #888;
+      font-style: italic;
+      padding: 2rem 0;
+      text-align: center;
     }
 
     .rassegna-card {
@@ -451,13 +518,13 @@
 </header>
 
 <div class="tab-bar">
-  <button class="tab-btn attivo" data-cat="tutte">Tutte</button>
-  <button class="tab-btn internazionale" data-cat="internazionale">Internazionale</button>
-  <button class="tab-btn nazionale" data-cat="nazionale">Nazionale</button>
-  <button class="tab-btn economia" data-cat="economia">Economia</button>
-  <button class="tab-btn sport" data-cat="sport">Sport</button>
-  <button class="tab-btn cronaca" data-cat="cronaca">Cronaca</button>
+  <button class="tab-btn attivo" data-vista="tutte">Tutte</button>
+  <button class="tab-btn" data-vista="attualita">Attualità ▾</button>
+  <button class="tab-btn" data-vista="economia-tech">Economia &amp; Tech ▾</button>
+  <button class="tab-btn" data-vista="vita-cultura">Vita &amp; Cultura ▾</button>
+  <button class="tab-btn" data-vista="sport">Sport ▾</button>
 </div>
+<div class="sub-pills" id="sub-pills" style="display:none;"></div>
 
 <div class="archivio-bar">
   <span class="archivio-label">Edizione:</span>
@@ -511,8 +578,35 @@ function slugCategoria(cat) {
   if (c.includes('econ'))   return 'economia';
   if (c.includes('sport'))  return 'sport';
   if (c.includes('cron'))   return 'cronaca';
+  if (c.includes('scien'))  return 'scienza';
+  if (c === 'ai' || c.includes('intelligenza artificiale')) return 'ai';
+  if (c.includes('wellness')) return 'wellness';
+  if (c.includes('cultura'))  return 'cultura';
   return '';
 }
+
+// Struttura "da edicola" dei gruppi di navigazione (deciso 23/09/2026):
+// un lettore pensa per argomento quotidiano, non per tipo di meccanismo di
+// potere — la lente "chi ci guadagna" resta dentro ogni articolo, non deve
+// strutturare anche la navigazione.
+const GRUPPI = {
+  'attualita':     { membri: ['internazionale', 'nazionale', 'cronaca'] },
+  'economia-tech': { membri: ['economia', 'ai'] },
+  'vita-cultura':  { membri: ['scienza', 'wellness', 'cultura'] },
+  'sport':         { membri: ['sport'] },
+};
+
+const LABEL_CATEGORIA = {
+  internazionale: 'Internazionale',
+  nazionale: 'Nazionale',
+  cronaca: 'Cronaca',
+  economia: 'Economia',
+  ai: 'AI',
+  scienza: 'Scienza',
+  wellness: 'Wellness',
+  cultura: 'Cultura',
+  sport: 'Sport',
+};
 
 function buildPermalink(data, slug) {
   if (!data || !slug) return null;
@@ -534,26 +628,79 @@ function buildPermalink(data, slug) {
 // ── Stato ────────────────────────────────────────────────────────
 let archivioGlobale = [];
 let indiceAttivo = 0;
-let categoriaAttiva = 'tutte';
+let vistaAttuale = 'tutte';       // 'tutte' oppure una chiave di GRUPPI
+let subFiltroAttivo = null;       // null = tutto il gruppo, altrimenti uno slug membro, o 'rassegna'
 let rassegnaSportivaItems = [];
 
-// ── Tab ──────────────────────────────────────────────────────────
+// ── Tab di gruppo ──────────────────────────────────────────────────
 document.querySelectorAll('.tab-btn').forEach(btn => {
   btn.addEventListener('click', function() {
     document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('attivo'));
     this.classList.add('attivo');
-    categoriaAttiva = this.dataset.cat;
+    vistaAttuale = this.dataset.vista;
+    subFiltroAttivo = null;
+    renderSubPills();
     filtraPost();
   });
 });
 
-function filtraPost() {
-  document.querySelectorAll('.post-card').forEach(card => {
-    card.style.display =
-      (categoriaAttiva === 'tutte' || card.dataset.slug === categoriaAttiva) ? '' : 'none';
+function renderSubPills() {
+  const container = document.getElementById('sub-pills');
+  if (vistaAttuale === 'tutte' || !GRUPPI[vistaAttuale]) {
+    container.innerHTML = '';
+    container.style.display = 'none';
+    return;
+  }
+  const membri = GRUPPI[vistaAttuale].membri;
+  let html = membri.map(slug => {
+    const attivo = (subFiltroAttivo === slug) ? 'attivo' : '';
+    return `<button class="sub-pill ${slug} ${attivo}" data-sub="${slug}">${esc(LABEL_CATEGORIA[slug] || slug)}</button>`;
+  }).join('');
+  if (vistaAttuale === 'sport') {
+    const attivoR = (subFiltroAttivo === 'rassegna') ? 'attivo' : '';
+    html += `<button class="sub-pill rassegna ${attivoR}" data-sub="rassegna">Rassegna</button>`;
+  }
+  container.innerHTML = html;
+  container.style.display = 'flex';
+  container.querySelectorAll('.sub-pill').forEach(btn => {
+    btn.addEventListener('click', function() {
+      const sub = this.dataset.sub;
+      subFiltroAttivo = (subFiltroAttivo === sub) ? null : sub; // click di nuovo = torna al gruppo intero
+      renderSubPills();
+      filtraPost();
+    });
   });
+}
+
+function filtraPost() {
+  const vistaRassegna = (vistaAttuale === 'sport' && subFiltroAttivo === 'rassegna');
+
+  document.querySelectorAll('.post-card').forEach(card => {
+    if (vistaRassegna) { card.style.display = 'none'; return; }
+    let visibile;
+    if (vistaAttuale === 'tutte') {
+      visibile = true;
+    } else if (subFiltroAttivo) {
+      visibile = (card.dataset.slug === subFiltroAttivo);
+    } else {
+      visibile = GRUPPI[vistaAttuale].membri.includes(card.dataset.slug);
+    }
+    card.style.display = visibile ? '' : 'none';
+  });
+
   const hero = document.getElementById('hero-wrapper');
-  if (hero) hero.style.display = (categoriaAttiva === 'tutte') ? '' : 'none';
+  if (hero) hero.style.display = (vistaAttuale === 'tutte') ? '' : 'none';
+
+  const rassegnaDiv = document.getElementById('rassegna-standalone');
+  if (rassegnaDiv) {
+    rassegnaDiv.style.display = vistaRassegna ? '' : 'none';
+    if (vistaRassegna) {
+      rassegnaDiv.innerHTML = rassegnaSportivaItems.length > 0
+        ? `<div class="rassegna-header">Rassegna sportiva — notizie di oggi</div>
+           <div class="rassegna-lista">${rassegnaSportivaItems.map(renderItemRassegna).join('')}</div>`
+        : `<p class="nessun-risultato">Nessuna rassegna sportiva disponibile per questa edizione.</p>`;
+    }
+  }
 }
 
 // ── Selettore data ───────────────────────────────────────────────
@@ -597,9 +744,8 @@ function renderPost(p, data) {
   const linkArticolo = permalink
     ? `<a class="post-link" href="${esc(permalink)}">Leggi articolo →</a>`
     : '';
-  const rassegnaHtml = (slug === 'sport' && rassegnaSportivaItems.length > 0)
-    ? `<div class="rassegna-header">Rassegna sportiva — altre notizie di oggi</div>
-       <div class="rassegna-lista">${rassegnaSportivaItems.map(renderItemRassegna).join('')}</div>`
+  const rimandoRassegna = (slug === 'sport')
+    ? `<button class="link-rassegna" data-vai-rassegna="1">Rassegna sportiva di oggi →</button>`
     : '';
   return `
     <div class="post-card ${slug}" data-slug="${slug}">
@@ -611,7 +757,7 @@ function renderPost(p, data) {
         ${linkArticolo}
         <button class="btn-copia" data-testo="${esc(p.post_x || p.post_sito || p.post || '')}">Copia per X</button>
       </div>
-      ${rassegnaHtml}
+      ${rimandoRassegna}
     </div>`;
 }
 
@@ -655,6 +801,7 @@ function renderEdizione() {
       </div>
       ${hero ? renderHero(hero, ed.data) : ''}
       ${(ed.post || []).map(p => renderPost(p, ed.data)).join('')}
+      <div class="rassegna-standalone" id="rassegna-standalone" style="display:none;"></div>
     </div>`;
 
   document.querySelectorAll('.btn-copia').forEach(btn => {
@@ -665,6 +812,18 @@ function renderEdizione() {
         this.classList.add('copiato');
         setTimeout(() => { this.textContent = orig; this.classList.remove('copiato'); }, 2000);
       });
+    });
+  });
+
+  document.querySelectorAll('[data-vai-rassegna]').forEach(btn => {
+    btn.addEventListener('click', function() {
+      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('attivo'));
+      document.querySelector('.tab-btn[data-vista="sport"]').classList.add('attivo');
+      vistaAttuale = 'sport';
+      subFiltroAttivo = 'rassegna';
+      renderSubPills();
+      filtraPost();
+      window.scrollTo({ top: document.querySelector('.tab-bar').offsetTop, behavior: 'smooth' });
     });
   });
 

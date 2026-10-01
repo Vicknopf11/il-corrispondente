@@ -26,6 +26,10 @@ COLORI_CATEGORIA = {
     "economia": "#27ae60",
     "sport": "#2980b9",
     "cronaca": "#8e44ad",
+    "scienza": "#16a085",
+    "ai": "#34495e",
+    "wellness": "#d35400",
+    "cultura": "#7f8c8d",
 }
 COLORE_DEFAULT = "#c0392b"
 
@@ -90,6 +94,14 @@ def slug_categoria(cat: str) -> str:
         return "sport"
     if "cron" in c:
         return "cronaca"
+    if "scien" in c:
+        return "scienza"
+    if c == "ai" or "intelligenza artificiale" in c:
+        return "ai"
+    if "wellness" in c:
+        return "wellness"
+    if "cultura" in c:
+        return "cultura"
     return ""
 
 

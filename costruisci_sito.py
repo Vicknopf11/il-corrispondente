@@ -48,6 +48,14 @@ def slug_categoria(cat: str) -> str:
         return "sport"
     if "cron" in c:
         return "cronaca"
+    if "scien" in c:
+        return "scienza"
+    if c == "ai" or "intelligenza artificiale" in c:
+        return "ai"
+    if "wellness" in c:
+        return "wellness"
+    if "cultura" in c:
+        return "cultura"
     return ""
 
 

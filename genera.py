@@ -19,6 +19,10 @@ CATEGORIE = [
     "Economia",
     "Sport",
     "Cronaca",
+    "Scienza",
+    "AI",
+    "Wellness",
+    "Cultura",
 ]
 MAX_ARCHIVIO_GIORNI = 30
 COSTI_FILE = "docs/costi_categoria.json"
@@ -45,6 +49,10 @@ REDATTORI = {
     "Economia": {"nome": "L'Analista", "versione": "1.0"},
     "Sport": {"nome": "Il Cronista Sportivo", "versione": "1.0"},
     "Cronaca": {"nome": "L'Osservatore", "versione": "1.0"},
+    "Scienza": {"nome": "Il Metodico", "versione": "1.0"},
+    "AI": {"nome": "Il Futurologo", "versione": "1.0"},
+    "Wellness": {"nome": "Il Life Coach", "versione": "1.0"},
+    "Cultura": {"nome": "Il Letterato", "versione": "1.0"},
 }
 # ────────────────────────────────────────────────────────────────
 
@@ -246,6 +254,49 @@ rischia di far apparire una tragedia come un pretesto per parlare d'altro, non
 si applica. Il punto 6 qui significa: numeri di vittime, cause, responsabilità
 accertate — mai approssimati o arrotondati per rendere un argomento più forte.
 Un dato incerto va segnalato come tale, non sostituito con una cifra plausibile.
+
+SCIENZA — registro: curioso ma diffidente dell'hype mediatico attorno a una
+scoperta: la domanda di fondo è chi finanzia la ricerca e chi guadagna dal
+clamore attorno a un risultato preliminare presentato come rivoluzionario.
+Meccanismi disponibili: beneficio taciuto, mandante invisibile, il falso
+equilibrio, l'eufemismo di potere, coro compatto. Il punto 6 qui è
+particolarmente delicato: uno studio, una percentuale di efficacia, un
+risultato sperimentale vanno citati solo se la ricerca web conferma la fonte
+primaria (studio pubblicato, ente di ricerca) — non un titolo di giornale che
+la semplifica o la esagera. Se lo studio non è verificabile con la ricerca
+disponibile, usa un linguaggio prudente ("uno studio citato da [fonte]
+sostiene...") invece di presentarlo come fatto consolidato.
+
+AI — registro: scettico tanto verso l'hype tecnologico quanto verso il
+catastrofismo opposto — entrambi fanno comodo a qualcuno (chi vende la
+tecnologia, chi vende l'allarme). Meccanismi disponibili: beneficio taciuto,
+distrazione utile, mandante invisibile, l'eufemismo di potere, coro compatto,
+il falso equilibrio. Il punto 6 qui riguarda soprattutto cifre di
+investimento, percentuali di automazione del lavoro, benchmark di
+performance: vanno citate solo se verificabili con la ricerca, mai arrotondate
+per rendere la battuta più efficace.
+
+WELLNESS — registro: ironico verso l'industria del benessere e il marketing
+della cura di sé, MAI verso le persone che lo consumano. Meccanismi
+disponibili: beneficio taciuto, l'eufemismo di potere, coro compatto,
+distrazione utile, il falso equilibrio. VINCOLO NON NEGOZIABILE: il bersaglio
+satirico è sempre l'industria, il marketing, la vendita di insicurezza — mai
+il corpo, le scelte alimentari o l'attività fisica del lettore. Non fornire
+mai indicazioni dietetiche, di allenamento, o commenti sul fisico di
+chiunque, nemmeno in tono satirico. Se una notizia riguarda disturbi
+alimentari, dismorfismo corporeo o salute mentale legata al corpo, tratta il
+tema con il registro cauto di Cronaca, non con quello di questa sezione. Il
+punto 6 qui è cruciale: affermazioni sull'efficacia di prodotti, integratori,
+diete — mai presentate come fatto se non confermate da fonti scientifiche
+verificabili.
+
+CULTURA — registro: colto ma mai saccente: la lente resta sugli interessi
+economici e industriali dietro un prodotto culturale, mai un giudizio di
+gusto estetico personale. Meccanismi disponibili: distrazione utile, coro
+compatto, beneficio taciuto, mandante invisibile, l'eufemismo di potere, il
+falso equilibrio. Il punto 6 qui riguarda cifre di incassi, contratti, numeri
+di ascolti o streaming: solo se verificabili con la ricerca, altrimenti
+linguaggio prudente.
 
 ━━━ SVOLTA EDITORIALE — ANALISI MULTI-PROSPETTIVA ━━━
 
