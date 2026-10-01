@@ -1,0 +1,221 @@
+{
+  "generazioni": [
+    {
+      "data": "2026-10-01",
+      "modello": "claude-sonnet-4-6",
+      "input_tokens": 119041,
+      "output_tokens": 4320,
+      "web_search_richieste": 8,
+      "stop_reason": "end_turn",
+      "costo_stimato_usd": 0.5019,
+      "breakdown_per_categoria_stimato": {
+        "Politica Internazionale": {
+          "frazione_stimata": 0.1184,
+          "output_tokens_stimati": 511
+        },
+        "Politica Nazionale": {
+          "frazione_stimata": 0.438,
+          "output_tokens_stimati": 1892
+        },
+        "Economia": {
+          "frazione_stimata": 0.1429,
+          "output_tokens_stimati": 617
+        },
+        "Sport": {
+          "frazione_stimata": 0.146,
+          "output_tokens_stimati": 631
+        },
+        "Cronaca": {
+          "frazione_stimata": 0.1548,
+          "output_tokens_stimati": 669
+        }
+      }
+    },
+    {
+      "data": "2026-09-30",
+      "modello": "claude-sonnet-4-6",
+      "input_tokens": 118406,
+      "output_tokens": 4692,
+      "web_search_richieste": 9,
+      "stop_reason": "end_turn",
+      "costo_stimato_usd": 0.5156,
+      "breakdown_per_categoria_stimato": {
+        "Politica Internazionale": {
+          "frazione_stimata": 0.1179,
+          "output_tokens_stimati": 553
+        },
+        "Politica Nazionale": {
+          "frazione_stimata": 0.4422,
+          "output_tokens_stimati": 2075
+        },
+        "Economia": {
+          "frazione_stimata": 0.1645,
+          "output_tokens_stimati": 772
+        },
+        "Sport": {
+          "frazione_stimata": 0.1228,
+          "output_tokens_stimati": 576
+        },
+        "Cronaca": {
+          "frazione_stimata": 0.1527,
+          "output_tokens_stimati": 717
+        }
+      }
+    },
+    {
+      "data": "2026-09-29",
+      "modello": "claude-sonnet-4-6",
+      "input_tokens": 221006,
+      "output_tokens": 4832,
+      "web_search_richieste": 12,
+      "stop_reason": "end_turn",
+      "costo_stimato_usd": 0.8555,
+      "breakdown_per_categoria_stimato": {
+        "Politica Internazionale": {
+          "frazione_stimata": 0.1311,
+          "output_tokens_stimati": 634
+        },
+        "Politica Nazionale": {
+          "frazione_stimata": 0.1349,
+          "output_tokens_stimati": 652
+        },
+        "Economia": {
+          "frazione_stimata": 0.1498,
+          "output_tokens_stimati": 724
+        },
+        "Sport": {
+          "frazione_stimata": 0.1122,
+          "output_tokens_stimati": 542
+        },
+        "Cronaca": {
+          "frazione_stimata": 0.4721,
+          "output_tokens_stimati": 2281
+        }
+      }
+    },
+    {
+      "data": "2026-09-28",
+      "modello": "claude-sonnet-4-6",
+      "input_tokens": 205202,
+      "output_tokens": 4820,
+      "web_search_richieste": 11,
+      "stop_reason": "end_turn",
+      "costo_stimato_usd": 0.7979,
+      "breakdown_per_categoria_stimato": {
+        "Politica Internazionale": {
+          "frazione_stimata": 0.4156,
+          "output_tokens_stimati": 2003
+        },
+        "Politica Nazionale": {
+          "frazione_stimata": 0.1351,
+          "output_tokens_stimati": 651
+        },
+        "Economia": {
+          "frazione_stimata": 0.1522,
+          "output_tokens_stimati": 733
+        },
+        "Sport": {
+          "frazione_stimata": 0.1313,
+          "output_tokens_stimati": 633
+        },
+        "Cronaca": {
+          "frazione_stimata": 0.1658,
+          "output_tokens_stimati": 799
+        }
+      }
+    },
+    {
+      "data": "2026-09-27",
+      "modello": "claude-sonnet-4-6",
+      "input_tokens": 203951,
+      "output_tokens": 5346,
+      "web_search_richieste": 12,
+      "stop_reason": "end_turn",
+      "costo_stimato_usd": 0.812,
+      "breakdown_per_categoria_stimato": {
+        "Politica Internazionale": {
+          "frazione_stimata": 0.1161,
+          "output_tokens_stimati": 621
+        },
+        "Politica Nazionale": {
+          "frazione_stimata": 0.1224,
+          "output_tokens_stimati": 654
+        },
+        "Economia": {
+          "frazione_stimata": 0.4942,
+          "output_tokens_stimati": 2642
+        },
+        "Sport": {
+          "frazione_stimata": 0.122,
+          "output_tokens_stimati": 652
+        },
+        "Cronaca": {
+          "frazione_stimata": 0.1453,
+          "output_tokens_stimati": 777
+        }
+      }
+    },
+    {
+      "data": "2026-09-25",
+      "modello": "claude-sonnet-4-6",
+      "input_tokens": 127827,
+      "output_tokens": 4836,
+      "web_search_richieste": 10,
+      "stop_reason": "end_turn",
+      "costo_stimato_usd": 0.556,
+      "breakdown_per_categoria_stimato": {
+        "Politica Internazionale": {
+          "frazione_stimata": 0.4084,
+          "output_tokens_stimati": 1975
+        },
+        "Politica Nazionale": {
+          "frazione_stimata": 0.1585,
+          "output_tokens_stimati": 767
+        },
+        "Economia": {
+          "frazione_stimata": 0.1277,
+          "output_tokens_stimati": 618
+        },
+        "Sport": {
+          "frazione_stimata": 0.1445,
+          "output_tokens_stimati": 699
+        },
+        "Cronaca": {
+          "frazione_stimata": 0.1608,
+          "output_tokens_stimati": 778
+        }
+      }
+    },
+    {
+      "data": "2026-09-24",
+      "modello": "claude-sonnet-4-6",
+      "input_tokens": 120587,
+      "output_tokens": 4802,
+      "web_search_richieste": 9,
+      "stop_reason": "end_turn",
+      "costo_stimato_usd": 0.5238,
+      "breakdown_per_categoria_stimato": {
+        "Politica Internazionale": {
+          "frazione_stimata": 0.1277,
+          "output_tokens_stimati": 613
+        },
+        "Politica Nazionale": {
+          "frazione_stimata": 0.4468,
+          "output_tokens_stimati": 2145
+        },
+        "Economia": {
+          "frazione_stimata": 0.14,
+          "output_tokens_stimati": 672
+        },
+        "Sport": {
+          "frazione_stimata": 0.1303,
+          "output_tokens_stimati": 625
+        },
+        "Cronaca": {
+          "frazione_stimata": 0.1553,
+          "output_tokens_stimati": 746
+        }
+      }
+    }
+  ]
+}

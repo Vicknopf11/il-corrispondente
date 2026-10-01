@@ -1,0 +1,292 @@
+{
+  "pubblicazioni": [
+    {
+      "data": "2026-10-01",
+      "slug": "europei-tiro-a-volo-italia-oro-skeet-junior-malakasa-2026",
+      "categoria": "Sport",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-01",
+      "slug": "inflazione-42-bollette-energia-italia-ottobre-2026",
+      "categoria": "Economia",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-01",
+      "slug": "legge-elettorale-camera-fiducia-magi-sciopero-fame",
+      "categoria": "Politica Nazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
+      "data": "2026-10-01",
+      "slug": "flydubai-tel-aviv-netanyahu-attentato-elezioni",
+      "categoria": "Politica Internazionale",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-09-30",
+      "slug": "garlasco-chiusura-indagini-sempio-nuove-carte-procura",
+      "categoria": "Cronaca",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-09-30",
+      "slug": "coppa-mondo-nuoto-vasca-corta-baku-razzetti-2026",
+      "categoria": "Sport",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-09-30",
+      "slug": "eni-sconto-bollette-30-percento-arera-aumento-vulnerabili",
+      "categoria": "Economia",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-09-30",
+      "slug": "sentenza-regeni-007-egiziani-condannati-tajani-minimizza",
+      "categoria": "Politica Nazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
+      "data": "2026-09-30",
+      "slug": "russia-minaccia-nato-kaliningrad-arsenale",
+      "categoria": "Politica Internazionale",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-09-29",
+      "slug": "ustica-francia-documenti-difesa-procura-roma-archiviazione-2026",
+      "categoria": "Cronaca",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
+      "data": "2026-09-29",
+      "slug": "olimpia-milano-virtus-bologna-eurolega-derby-italiano-2026",
+      "categoria": "Sport",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-09-29",
+      "slug": "irpef-secondo-scaglione-60mila-euro-leo-manovra-2027",
+      "categoria": "Economia",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-09-29",
+      "slug": "suppletive-reggio-calabria-centrodestra-vince-vannacci-sconfitto",
+      "categoria": "Politica Nazionale",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-09-29",
+      "slug": "iran-usa-trump-sanzioni-nucleare-midterm-2026",
+      "categoria": "Politica Internazionale",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-09-28",
+      "slug": "sentenza-regeni-corte-assise-roma-agenti-egiziani-2026",
+      "categoria": "Cronaca",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-09-28",
+      "slug": "luna-rossa-vince-regate-preliminari-americas-cup-napoli",
+      "categoria": "Sport",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-09-28",
+      "slug": "price-cap-carburanti-eni-ip-benzina-gasolio-gestori-antitrust",
+      "categoria": "Economia",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-09-28",
+      "slug": "riforma-legge-elettorale-camera-proporzionale-premio-42",
+      "categoria": "Politica Nazionale",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-09-28",
+      "slug": "attentato-sventato-base-raf-fairford-iran-arresti",
+      "categoria": "Politica Internazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
+      "data": "2026-09-27",
+      "slug": "pm-antimafia-cerreti-auto-blindata-danneggiata-palazzo-giustizia-milano",
+      "categoria": "Cronaca",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-09-27",
+      "slug": "mondiali-ciclismo-montreal-2026-prova-in-linea-elite-uomini",
+      "categoria": "Sport",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-09-27",
+      "slug": "benzina-diesel-record-storico-sconto-accise-settembre-2026",
+      "categoria": "Economia",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
+      "data": "2026-09-27",
+      "slug": "suppletive-reggio-calabria-roscioli-benedetto-vannacci-2026",
+      "categoria": "Politica Nazionale",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-09-27",
+      "slug": "netanyahu-onu-delegazioni-lasciano-aula-codardi",
+      "categoria": "Politica Internazionale",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-09-25",
+      "slug": "ranucci-rai-tribunale-udienza-reintegro-report",
+      "categoria": "Cronaca",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-09-25",
+      "slug": "italvolley-eliminata-finlandia-quarti-europei-2026",
+      "categoria": "Sport",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-09-25",
+      "slug": "ocse-pil-italia-09-2026-salari-reali-sotto-2021",
+      "categoria": "Economia",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-09-25",
+      "slug": "decreto-scuola-30-percento-stranieri-niqab-quirinale",
+      "categoria": "Politica Nazionale",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-09-25",
+      "slug": "trump-xi-casa-bianca-dazi-tregua-2026",
+      "categoria": "Politica Internazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
+      "data": "2026-09-24",
+      "slug": "andrea-moretti-morto-colosseo-lavori-appalto",
+      "categoria": "Cronaca",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-09-24",
+      "slug": "ciclismo-mondiali-montreal-italia-oro-staffetta-mista",
+      "categoria": "Sport",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-09-24",
+      "slug": "petrolio-100-dollari-borse-rosso-tensioni-onu-2026",
+      "categoria": "Economia",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-09-24",
+      "slug": "italia-nucleare-legge-delega-senato-approvazione",
+      "categoria": "Politica Nazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
+      "data": "2026-09-24",
+      "slug": "elicottero-russo-spazio-aereo-polonia-nato",
+      "categoria": "Politica Internazionale",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-09-23",
+      "slug": null,
+      "categoria": null,
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-09-23",
+      "slug": null,
+      "categoria": null,
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    }
+  ]
+}

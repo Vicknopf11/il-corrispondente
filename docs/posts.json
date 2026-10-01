@@ -1,6 +1,804 @@
 {
   "edizioni": [
     {
+      "data": "2026-10-01",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Volo FlyDubai Dubai-Tel Aviv: Netanyahu evoca l'attentato a 26 giorni dalle elezioni",
+          "slug": "flydubai-tel-aviv-netanyahu-attentato-elezioni",
+          "tag": [
+            "israele",
+            "elezioni",
+            "sicurezza-aerea",
+            "medio-oriente"
+          ],
+          "evidenza": false,
+          "fonte": "Il Fatto Quotidiano / ANSA",
+          "cerca_url": "https://www.google.com/search?q=FlyDubai+Tel+Aviv+Netanyahu+attentato+1+ottobre+2026",
+          "post_x": "Pilota accoltellato su volo Dubai-Tel Aviv. Netanyahu evoca subito l'attentato. Le elezioni israeliane sono il 27 ottobre. Coincidenza di calendario? No, ovviamente. È solo sicurezza nazionale. #Israele #FlyDubai",
+          "post_sito": "Un pilota aggredito a bordo di un volo FlyDubai diretto a Tel Aviv: le autorità israeliane parlano di tentato attentato, FlyDubai invita a non anticipare conclusioni. Netanyahu, che affronta le elezioni del 27 ottobre con il dibattito sul 7 ottobre pronto a travolgerlo, ha trovato nell'episodio l'occasione per evocare gli \"eroi israeliani\" e fare politica della sicurezza. L'opposizione ha già risposto: \"Come il 7 ottobre, fa politica spicciola a spese della sicurezza\". Quel che il racconto dominante tace è che il premier israeliano è sotto pressione non solo per le elezioni, ma per le rivelazioni su incontri segreti con leader arabi e per le cause intentate ai giornali che li hanno riportati. In questo contesto, ogni episodio che sposta l'attenzione sulla minaccia esterna vale oro — elettorale, s'intende.",
+          "editoriale": false,
+          "redattore": "Il Corrispondente Estero 1.0"
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Legge elettorale alla Camera: tre fiducie, voto segreto finale e uno sciopero della fame",
+          "slug": "legge-elettorale-camera-fiducia-magi-sciopero-fame",
+          "tag": [
+            "legge-elettorale",
+            "meloni",
+            "riforma-voto",
+            "parlamento"
+          ],
+          "evidenza": true,
+          "fonte": "AGI / La Voce d'Italia / L'Opinione",
+          "cerca_url": "https://www.google.com/search?q=legge+elettorale+Camera+fiducia+voto+segreto+ottobre+2026",
+          "post_x": "Il governo blinda la legge elettorale con tre fiducie. Il voto finale sarà segreto. Magi digiuna. Meloni ha già detto: se non passa, si va a casa. Una democrazia che si tutela dalle proprie maggioranze. #LeggeElettorale",
+          "post_sito": "La nuova legge elettorale torna alla Camera in terza lettura e il governo si prepara a porre tre voti di fiducia sugli articoli modificati dal Senato, mentre il voto finale — atteso tra il 7 e l'8 ottobre — si svolgerà a scrutinio segreto: la stessa maggioranza non si fida di se stessa. Riccardo Magi di +Europa ha annunciato uno sciopero della fame contro quello che definisce un «colpo di stato elettorale» che richiederebbe fino a 450.000 firme a una nuova forza politica per presentarsi alle elezioni. Il sistema introduce un proporzionale con premio di maggioranza fisso per chi supera il 42% e capilista bloccati scelti dai partiti: in sintesi, i cittadini potranno esprimere preferenze, ma i partiti avranno già occupato i posti migliori. Chi ci guadagna è facile dirlo: chi governa oggi e chi ha già la macchina organizzativa per raccogliere le firme necessarie. La riforma taglierà fuori i movimenti nuovi molto prima che si presentino agli elettori, consolidando il mercato oligopolistico della rappresentanza politica italiana.",
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La posizione del governo",
+              "testo": "Il governo considera la legge elettorale una riforma necessaria per garantire ai cittadini la possibilità di scegliere i propri parlamentari attraverso le preferenze, eliminando le liste bloccate. La premier Meloni ha legato la propria permanenza a Palazzo Chigi all'approvazione del testo, definendola una questione di chiarezza istituzionale. La maggioranza sostiene che il premio di maggioranza al 42% garantisce stabilità governativa senza distorcere la rappresentanza proporzionale."
+            },
+            {
+              "etichetta": "Le critiche delle opposizioni",
+              "testo": "Le opposizioni contestano il testo su più fronti: l'innalzamento delle firme necessarie per i nuovi movimenti politici (stime variabili tra 294.000 e 450.000 sottoscrizioni secondo le diverse interpretazioni del testo), il superamento dell'equilibrio di genere nelle candidature e il ricorso alla fiducia su una legge costituzionalmente sensibile come quella elettorale. Magi di +Europa ha avviato uno sciopero della fame definendo la norma «sicuramente incostituzionale» per la parte sulle firme."
+            },
+            {
+              "etichetta": "Il nodo tecnico-procedurale",
+              "testo": "La terza lettura è resa necessaria dalle modifiche introdotte dal Senato, in particolare l'emendamento sulle preferenze che era stato bocciato alla Camera a luglio con il voto segreto. Il governo ha scelto di blindare gli articoli modificati con la fiducia — che si vota per appello nominale — ma il voto finale sul testo resta a scrutinio segreto, lasciando aperta la possibilità di defezioni interne alla maggioranza."
+            },
+            {
+              "etichetta": "Le implicazioni per il sistema partitico",
+              "testo": "La soglia elevata di firme per i nuovi movimenti e il meccanismo dei capilista bloccati sono visti da osservatori ed esperti di diritto elettorale come fattori che tendono a cristallizzare l'offerta politica esistente, rendendo più difficile l'emergere di nuovi soggetti politici. Il confronto con il Rosatellum, la legge attualmente in vigore, evidenzia continuità nelle soglie di sbarramento (10% per le coalizioni, 3% per i singoli partiti) ma discontinuità nei meccanismi di accesso alla competizione."
+            }
+          ],
+          "implicazioni": "Se approvata, la legge definirà le regole del voto per le elezioni politiche del 2027. Il voto finale a scrutinio segreto previsto tra il 7 e l'8 ottobre potrebbe ancora riservare sorprese, come già accaduto a luglio. Un'eventuale bocciatura aprirebbe una crisi politica di entità difficile da valutare, dato che la premier ha pubblicamente legato la propria permanenza all'approvazione del testo.",
+          "redattore": "Il Bastian Contrario 1.0"
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Inflazione al 4,2% in Italia, bollette elettriche +37,3%: famiglie nel caro energia",
+          "slug": "inflazione-42-bollette-energia-italia-ottobre-2026",
+          "tag": [
+            "inflazione",
+            "energia",
+            "bollette",
+            "caro-vita"
+          ],
+          "evidenza": false,
+          "fonte": "ISTAT / Il Fatto Quotidiano / Sarno Notizie",
+          "cerca_url": "https://www.google.com/search?q=inflazione+4,2+percento+Italia+settembre+2026+bollette+energia",
+          "post_x": "Inflazione al 4,2%, bollette elettriche +37,3% nel quarto trimestre. Eni, Q8 e IP annunciano price cap sui carburanti. ENI è anche in borsa. Fincantieri sale del 3%. Il caro energia è un problema — per chi lo paga. #Inflazione #Energia",
+          "post_sito": "L'Istat certifica che a settembre 2026 l'inflazione ha raggiunto il 4,2% su base annua, contro il 3,3% di agosto, con gli energetici regolamentati passati dal +18,6% al +25,9% e quelli non regolamentati dal +17% al +22,2%. In parallelo, per i clienti vulnerabili ancora nel regime di maggior tutela, l'aggiornamento del quarto trimestre comporta un incremento delle bollette elettriche stimato al 37,3%, pari a circa 236 euro in più all'anno. Il racconto dominante si concentra sul gesto di Eni, Q8 e IP che annunciano price cap sui carburanti per 30 giorni — un beneficio taciuto: le stesse compagnie hanno incassato margini record negli anni scorsi mentre i prezzi salivano. In borsa, intanto, Piazza Affari apre in rosso ma Fincantieri guadagna il 3,16% — il giorno dopo un operaio morto nel suo cantiere di Ancona. Meloni chiede a Bruxelles flessibilità sul deficit per il caro energia: chi guadagna da questa richiesta sono i governi che hanno già sforato, e chi ci rimette sono i contribuenti futuri.",
+          "editoriale": false,
+          "redattore": "L'Analista 1.0"
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Europei di tiro a volo: Italia d'oro a squadre nello skeet junior maschile a Malakasa",
+          "slug": "europei-tiro-a-volo-italia-oro-skeet-junior-malakasa-2026",
+          "tag": [
+            "tiro-a-volo",
+            "europei",
+            "skeet",
+            "italia"
+          ],
+          "evidenza": false,
+          "fonte": "OA Sport",
+          "cerca_url": "https://www.google.com/search?q=europei+tiro+a+volo+skeet+junior+Italia+oro+Malakasa+2026",
+          "post_x": "L'Italia vince l'oro a squadre nello skeet junior maschile agli Europei di Malakasa. Antonio La Volpe in finale. Argento nel femminile. Nessuna telecronaca in prima serata, ovviamente — ci sono i voti di fiducia sulla legge elettorale. #TiroAVolo #Europei2026",
+          "post_sito": "Ai Campionati Europei 2026 di tiro a volo in corso a Malakasa, in Grecia, l'Italia ha conquistato la medaglia d'oro a squadre nello skeet junior maschile, con Antonio La Volpe che ha chiuso le qualificazioni individuali al primo posto con 122/125 piattelli e si è qualificato per la finale. Nel femminile, argento a squadre per le azzurrine con Arianna Nember e Dalia Buselli in finale. La delegazione senior, con Gabriele Rossetti, Tammaro Cassandro ed Erik Pittini, guida la classifica a squadre anche nel maschile senior. Una filiera di eccellenza — quella del tiro a volo italiano, medagliata olimpica per decenni — che esiste e vince lontano dai riflettori, senza prime pagine, senza dirette in chiaro in prima serata e senza sponsor nazionali comparabili a quelli del calcio. Il conto dietro la medaglia è semplice: questi atleti arrivano quasi sempre da società locali, con budget ridotti, e portano all'Italia titoli europei e mondiali che l'opinione pubblica scoprirà, forse, alle prossime Olimpiadi.",
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0"
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Fincantieri Ancona: operaio tunisino morto per ustioni, bengalese gravissimo. Sciopero in tutti i cantieri",
+          "slug": "fincantieri-ancona-operaio-morto-ustioni-sciopero",
+          "tag": [
+            "lavoro",
+            "sicurezza",
+            "fincantieri",
+            "morti-sul-lavoro"
+          ],
+          "evidenza": false,
+          "fonte": "Il Fatto Quotidiano / Corriere Adriatico / ANSA",
+          "cerca_url": "https://www.google.com/search?q=Fincantieri+Ancona+operaio+morto+ustioni+sciopero+1+ottobre+2026",
+          "post_x": "Operaio tunisino di 55 anni morto per ustioni nello stabilimento Fincantieri di Ancona. Un 27enne bengalese gravissimo a Pisa. Entrambi lavoravano per una ditta esterna. Fincantieri esprime \"profondo cordoglio\". In borsa oggi +3,16%. #SicurezzaLavoro",
+          "post_sito": "Nella tarda serata di martedì 29 settembre, nello stabilimento Fincantieri di Ancona, una fiammata — forse innescata da una fuga di acetilene durante lavori con un cannello da taglio — ha avvolto Sofiane Boutraa, 55 anni, tunisino, padre di famiglia, e un collega di 27 anni di origine bengalese. Il primo è morto per le ustioni; il secondo, con ustioni di secondo e terzo grado sull'80% del corpo, è stato trasferito in eliambulanza al Centro Grandi Ustionati di Pisa in prognosi riservata. Entrambi lavoravano per la ditta pugliese Global Naval, appaltatrice esterna: Fincantieri ha prontamente precisato che «l'incidente ha riguardato due lavoratori di una ditta esterna». La causa strutturale rimossa è quella che accompagna ogni tragedia nei grandi cantieri italiani: il sistema degli appalti e subappalti scarica sul gradino più basso della catena i rischi più alti — e le tutele più scarse. Fim, Fiom e Uilm hanno proclamato uno sciopero di otto ore in tutti i cantieri italiani. La Procura di Ancona ha aperto un fascicolo per omicidio colposo e violazioni delle norme antifortunistiche.",
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0"
+        }
+      ]
+    },
+    {
+      "data": "2026-09-30",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Russia minaccia la NATO su Kaliningrad: \"Useremo tutto l'arsenale\"",
+          "slug": "russia-minaccia-nato-kaliningrad-arsenale",
+          "tag": [
+            "russia",
+            "nato",
+            "kaliningrad",
+            "ucraina"
+          ],
+          "evidenza": false,
+          "fonte": "Today.it / La Stampa",
+          "cerca_url": "https://www.google.com/search?q=Russia+NATO+Kaliningrad+minacce+arsenale+settembre+2026",
+          "post_x": "Mosca minaccia di usare «l'intero arsenale» contro la NATO per Kaliningrad. L'Alleanza risponde indignata. Intanto i contractor della difesa festeggiano: ogni lettera diplomatica vale miliardi in commesse. #Russia #NATO",
+          "post_sito": "L'ambasciata russa in Belgio ha inviato una lettera alla NATO accusandola di condurre esercitazioni volte a simulare «l'isolamento» dell'exclave di Kaliningrad, ribadendo che Mosca ricorrerà «all'intero arsenale di armi a sua disposizione» per difendere il suo territorio. L'Alleanza ha replicato condannando le minacce e chiedendo al Cremlino di fermare la guerra in Ucraina. Il coro mediatico inquadra tutto come provocazione russa — e non si sbaglia — ma dimentica il contesto: Kaliningrad è un'exclave militarmente sensibile sin dall'era sovietica, circondata da paesi NATO dal 2004, e ogni sua menzione spinge in automatico i budget della difesa europea verso l'alto. Chi ci guadagna? L'industria bellica transatlantica, che nel 2026 può già contare su anni di record storici di ordini. La lettera diplomatica fa più danno di un missile: un missile si vede, la paura si monetizza in silenzio per decenni.",
+          "editoriale": false,
+          "redattore": "Il Corrispondente Estero 1.0"
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Sentenza Regeni: tre 007 egiziani condannati a 10 anni, cade l'accusa di omicidio. Tajani minimizza",
+          "slug": "sentenza-regeni-007-egiziani-condannati-tajani-minimizza",
+          "tag": [
+            "regeni",
+            "egitto",
+            "processo",
+            "politica-estera"
+          ],
+          "evidenza": true,
+          "fonte": "Il Post / ANSA / Il Fatto Quotidiano",
+          "cerca_url": "https://www.google.com/search?q=sentenza+Regeni+condanna+007+egiziani+Tajani+2026",
+          "post_x": "Tre 007 egiziani condannati a 10 anni per il sequestro di Regeni. L'omicidio? Cade. Tajani: «Non è stato condannato l'Egitto». Traduzione: gli affari con Il Cairo non si toccano. #Regeni #Italia #Egitto",
+          "post_sito": "La Corte d'Assise di Roma ha condannato in primo grado a dieci anni tre agenti dei servizi segreti egiziani — il maggiore Sharif e i colonnelli Helmi e Mohamed — per il sequestro di Giulio Regeni avvenuto al Cairo il 25 gennaio 2016. Il quarto imputato, il generale Tariq Sabir, è stato assolto. L'accusa di omicidio — contestata al solo Sharif, per cui la procura aveva chiesto l'ergastolo — è caduta. Il processo si è svolto senza gli imputati in aula, mai comparsi e tuttora irreperibili in Egitto. Il ministro degli Esteri Tajani ha subito chiarito che «non è stato condannato l'Egitto, sono state condannate tre persone» — eludendo il fatto elementare che i servizi segreti di uno Stato rispondono allo Stato. Beneficio taciuto: l'Italia intrattiene con l'Egitto rapporti energetici e commerciali di primario rilievo — ENI opera in Egitto come primo produttore estero di gas — e la ragion di Stato pesa da anni su questa vicenda, come documentato in sede processuale dalle deposizioni degli stessi ex vertici del governo italiano. La condanna rischia la prescrizione in appello se i tempi si allungano oltre il 2030: un dettaglio tecnico che potrebbe rivelarsi la vera sentenza.",
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La versione del governo",
+              "testo": "Il ministro degli Esteri Antonio Tajani ha definito la sentenza «limitata», sottolineando che la condanna riguarda tre individui e non lo Stato egiziano nella sua interezza. Il governo ha ribadito di non aver mai smesso di cercare la verità sull'omicidio di Regeni, anche attraverso i canali diplomatici con Il Cairo. La posizione ufficiale è di soddisfazione parziale per un risultato giudiziario comunque storico, pur nell'impossibilità concreta di eseguire la condanna senza cooperazione egiziana."
+            },
+            {
+              "etichetta": "La famiglia e la difesa civile",
+              "testo": "I genitori di Giulio Regeni, Paola e Claudio, hanno accolto la sentenza come un risultato importante dopo un percorso giudiziario durato un decennio, pur sottolineando che resta aperto il nodo dell'accertamento completo delle responsabilità per l'omicidio. L'avvocato della famiglia ha già dichiarato l'intenzione di valutare il ricorso. La procura di Roma ha sottolineato che «l'impianto accusatorio sostanzialmente ha retto» riguardo al sequestro, riservandosi di leggere le motivazioni prima di decidere sulle impugnazioni."
+            },
+            {
+              "etichetta": "Il nodo dell'esecuzione",
+              "testo": "La condanna è in concreto ineseguibile senza la cooperazione dell'Egitto, che non ha mai estradato i propri funzionari né collaborato attivamente alle indagini. L'Avvocatura dello Stato potrebbe richiedere il pagamento delle provisionali — 200.000 euro a ciascun genitore, 100.000 alla sorella Irene, 150.000 alla Presidenza del Consiglio — ma anche questo passaggio richiede un'interlocuzione con Il Cairo. Il reato di sequestro ha un termine di prescrizione spostato intorno al 2030 per effetto delle interruzioni processuali: la velocità dell'appello sarà decisiva."
+            },
+            {
+              "etichetta": "Il contesto diplomatico-economico",
+              "testo": "L'Italia mantiene con l'Egitto relazioni strategiche di primo piano, con ENI presente nel Paese come principale produttore estero di gas. Deposizioni processuali di ex presidenti del Consiglio e vertici dei servizi segreti italiani hanno documentato le resistenze egiziane alla cooperazione giudiziaria e le pressioni che la ragion di Stato ha esercitato sulla gestione diplomatica del caso. Le opposizioni italiane chiedono al governo una linea più ferma nei confronti del Cairo, ma non hanno specificato quali strumenti concreti di pressione intendano proporre."
+            }
+          ],
+          "implicazioni": "La sentenza apre una fase politica delicata: il governo italiano dovrà decidere se e come condizionare le relazioni bilaterali con l'Egitto all'esecuzione della condanna o almeno a una rinnovata cooperazione giudiziaria. In assenza di cooperazione egiziana, la condanna rischia di rimanere un atto simbolico. In sede di appello, la questione della prescrizione — con scadenza stimata intorno al 2030 — sarà il vero banco di prova della tenuta del procedimento.",
+          "redattore": "Il Bastian Contrario 1.0"
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Eni sconta le bollette del 30%, ma ARERA annuncia +37,3% per i clienti vulnerabili",
+          "slug": "eni-sconto-bollette-30-percento-arera-aumento-vulnerabili",
+          "tag": [
+            "energia",
+            "bollette",
+            "eni",
+            "arera"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Open / Gazzetta del Sud",
+          "cerca_url": "https://www.google.com/search?q=Eni+sconto+bollette+30+percento+ARERA+aumento+vulnerabili+2026",
+          "post_x": "ENI annuncia -30% sulle bollette. ARERA annuncia +37,3% per 3 milioni di clienti vulnerabili. Stessa giornata. Il marketing si chiama sussidio, la matematica si chiama stangata. #Energia #Bollette",
+          "post_sito": "Eni ha annunciato, a partire dal 1° ottobre, uno sconto del 30% su luce e gas rispetto alla principale offerta a prezzo fisso, per circa 200 euro annui di risparmio per la famiglia media — ma solo per chi sottoscrive la nuova offerta Plenitude entro il 24 ottobre. Quasi in contemporanea, ARERA ha comunicato che nel quarto trimestre 2026 la bolletta elettrica per i circa 3 milioni di clienti in Maggior Tutela aumenterà del 37,3% rispetto al trimestre precedente, a causa dell'incremento del prezzo all'ingrosso legato all'instabilità geopolitica. Il meccanismo è trasparente nella sua architettura: l'offerta commerciale di Eni — presentata come atto di solidarietà nell'ambito dell'iniziativa «Eni per l'Italia» — è riservata ai clienti che cambiano prodotto attivamente, mentre l'aumento colpisce automaticamente chi non ha la forza contrattuale o le competenze per navigare il mercato libero: anziani, famiglie fragili, redditi bassi. Enel ha risposto con un'offerta a -50% rispetto al prezzo all'ingrosso, presente sul sito già da aprile 2026. La gara degli sconti si svolge sul mercato libero; la stangata avviene sul mercato tutelato. Beneficio taciuto: le grandi utility, con margini garantiti dalla volatilità strutturale dei prezzi, vedono aumentare la propria base clienti nei momenti di crisi proprio grazie a offerte promozionali che attirano chi lascia la tutela.",
+          "editoriale": false,
+          "redattore": "L'Analista 1.0"
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Coppa del Mondo di nuoto in vasca corta: Razzetti, Viberti e Mora pronti per Baku",
+          "slug": "coppa-mondo-nuoto-vasca-corta-baku-razzetti-2026",
+          "tag": [
+            "nuoto",
+            "coppa-del-mondo",
+            "razzetti",
+            "vasca-corta"
+          ],
+          "evidenza": false,
+          "fonte": "OA Sport / Federnuoto",
+          "cerca_url": "https://www.google.com/search?q=Coppa+Mondo+nuoto+vasca+corta+Baku+2026+Razzetti",
+          "post_x": "Domani parte la Coppa del Mondo di nuoto in vasca corta a Baku. L'Italia ci va con Razzetti, Viberti e Mora. Montepremi: 1,2 milioni di dollari. Obiettivo: Mondiali di Pechino a dicembre. Esiste uno sport oltre al calcio. #Nuoto #WorldCup",
+          "post_sito": "Da domani 1° ottobre il Baku Aquatic Palace ospita la prima tappa della Coppa del Mondo di nuoto in vasca corta 2026, circuito World Aquatics soprannominato «Silk Road Tour» per le sue tre tappe lungo la Via della Seta — Baku (1-3 ottobre), Tashkent (8-10 ottobre) e Astana (15-17 ottobre) — con oltre 750 atleti da più di cinquanta nazioni. Per l'Italia ci sono Alberto Razzetti, Ludovico Blu Art Viberti e Lorenzo Mora, con l'obiettivo dichiarato di prepararsi ai Mondiali in vasca corta di Pechino (1-6 dicembre). Il montepremi complessivo è di 1,2 milioni di dollari, con bonus aggiuntivi da 10.000 dollari per i record del mondo e per chi vince la stessa gara in tutte e tre le tappe. In un Paese dove il calcio occupa il 90% dello spazio sportivo disponibile, tre azzurri attraversano l'Eurasia per gareggiare in una disciplina che alle Olimpiadi produce medaglie storiche e nei giorni ordinari non esiste. Vale la pena ricordarlo.",
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0"
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Garlasco: scadono i termini delle indagini su Sempio, la Procura deposita le ultime carte",
+          "slug": "garlasco-chiusura-indagini-sempio-nuove-carte-procura",
+          "tag": [
+            "garlasco",
+            "sempio",
+            "chiara-poggi",
+            "indagini"
+          ],
+          "evidenza": false,
+          "fonte": "Il Giorno / Il Mattino / Leggo",
+          "cerca_url": "https://www.google.com/search?q=Garlasco+chiusura+indagini+Sempio+nuove+carte+settembre+2026",
+          "post_x": "Garlasco 2026: scadono i termini delle indagini su Sempio, la Procura di Pavia deposita le ultime carte su DNA, impronte e scarpe. Stasi ha già una condanna definitiva. Due verità in cerca di un'unica storia. #Garlasco #Sempio #Stasi",
+          "post_sito": "Il 28 settembre 2026 sono scaduti i termini delle indagini preliminari a carico di Andrea Sempio, indagato dalla Procura di Pavia per l'omicidio aggravato di Chiara Poggi, uccisa il 13 agosto 2007 nella sua villetta di Garlasco. La Procura ha depositato le ultime consulenze tecniche — DNA sulle unghie della vittima, impronte di scarpe, misurazioni antropometriche e analisi del segnale cellulare — cui la difesa di Sempio ora avrà accesso integrale prima di decidere sulle proprie memorie. La particolarità processuale è estrema: per lo stesso omicidio esiste già una condanna definitiva a 16 anni a carico di Alberto Stasi, che si è sempre dichiarato innocente. Se le nuove prove dovessero sostenere l'accusa contro Sempio, si aprirebbe inevitabilmente la questione della revisione del processo a Stasi. La causa strutturale rimossa dal racconto dominante — che ruota attorno al giallo DNA e alle perizie in contraddittorio — è l'inadeguatezza dei rilievi originali del 2007: analisi eseguite in un'epoca in cui gli standard forensi erano diversi, e che oggi vengono rilette con tecnologie più precise, con tutto il rischio di incertezza che questo comporta. Sempio è indagato, non condannato: vale la presunzione d'innocenza.",
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0"
+        }
+      ]
+    },
+    {
+      "data": "2026-09-29",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Iran-USA: Trump offre allentamento sanzioni, ma solo dopo le midterm",
+          "slug": "iran-usa-trump-sanzioni-nucleare-midterm-2026",
+          "tag": [
+            "iran",
+            "trump",
+            "nucleare",
+            "geopolitica"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Il Tempo",
+          "cerca_url": "https://www.google.com/search?q=Trump+Iran+sanzioni+nucleare+accordo+settembre+2026",
+          "post_x": "Trump pronto ad allentare le sanzioni all'Iran — ma solo dopo le elezioni di novembre. La pace mondiale segue il calendario elettorale americano. Puntualità svizzera. #Iran #Trump #Midterm",
+          "post_sito": "Donald Trump sarebbe disponibile ad allentare le sanzioni contro l'Iran e a sbloccare fondi congelati, ma solo a fronte di «progressi concreti» sul nucleare — e, soprattutto, solo dopo le elezioni di metà mandato di novembre. La tempistica è rivelatrice: lo Stretto di Hormuz è chiuso, il petrolio iraniano non passa, e i prezzi dell'energia stanno alimentando i malumori degli americani proprio mentre si avvicina il voto. Chi ci guadagna dall'escalation controllata? L'industria energetica americana, i contractor della difesa, e ogni fondo speculativo posizionato sul greggio. Ciò che il racconto dominante tace è il contesto: gli USA hanno bombardato siti nucleari iraniani a giugno 2025, poi firmato un cessate il fuoco, poi ripreso le ostilità a febbraio 2026 — un ciclo di guerre brevi che serve a tenere alta la pressione senza arrivare alla resa dei conti definitiva. Qatar e Pakistan mediano nell'ombra. Teheran temporeggia, l'economia iraniana è in ginocchio, e Washington gioca sull'orologio elettorale. La «trattativa» è uno strumento di politica interna americana, non una genuina ricerca di pace.",
+          "editoriale": false,
+          "redattore": "Il Corrispondente Estero 1.0"
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Suppletive Reggio Calabria: centrodestra vince con il 51%, Vannacci fuori dai giochi",
+          "slug": "suppletive-reggio-calabria-centrodestra-vince-vannacci-sconfitto",
+          "tag": [
+            "elezioni",
+            "reggio calabria",
+            "centrodestra",
+            "vannacci"
+          ],
+          "evidenza": false,
+          "fonte": "Today.it / Wikipedia",
+          "cerca_url": "https://www.google.com/search?q=elezioni+suppletive+Reggio+Calabria+risultati+settembre+2026",
+          "post_x": "Centrodestra vince a Reggio Calabria col 51%. Meloni esulta: «coalizione compatta». Vannacci al 10,94%. Seggio che fu di Ciccio Bummino — il nome dice già tutto. #ReggioCalabria #Suppletive",
+          "post_sito": "Roscioli, candidato di Forza Italia sostenuto da Fratelli d'Italia e Lega, ha incassato il 51,02% dei voti alle suppletive di Reggio Calabria, contro il 36,59% del Campo largo unito e il 10,94% del candidato di Futuro Nazionale Giannetta — il partito di Vannacci, che aveva promesso di sfondare il muro del 10% e ci è riuscito, pagando però il prezzo di non vincere nulla. Il racconto dominante celebra la «coalizione compatta» di Meloni, ma tace su cosa significhi vincere in un collegio calabrese che porta il nome simbolico del seggio «che fu di Ciccio Bummino»: la Calabria è la regione con la più alta incidenza di infiltrazioni mafiose nella politica locale, e ogni vittoria elettorale in quel territorio va letta anche attraverso questa lente storica, senza sbattere mostri in prima pagina ma senza neppure fingere che il contesto non esista. Il vero nodo politico è un altro: la sconfitta di Vannacci dimostra che il voto di destra radicale, fuori dai listini proporzionali, torna compatto sotto il centrodestra tradizionale — e questo rafforza Meloni, che può tenere l'alleato scomodo dentro la coalizione senza dovergli concedere troppo.",
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0"
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Riforma IRPEF, il governo rilancia: secondo scaglione verso i 60mila euro. Ma il 70% dei lavoratori resta escluso",
+          "slug": "irpef-secondo-scaglione-60mila-euro-leo-manovra-2027",
+          "tag": [
+            "irpef",
+            "fisco",
+            "manovra",
+            "ceto-medio"
+          ],
+          "evidenza": false,
+          "fonte": "Corriere della Sera / Il Sole 24 Ore",
+          "cerca_url": "https://www.google.com/search?q=IRPEF+secondo+scaglione+60mila+Leo+manovra+2027",
+          "post_x": "Il governo vuole estendere l'IRPEF agevolata fino a 60mila euro. Ottimo per chi guadagna tra 50 e 60mila. Per il 70% dei lavoratori italiani — sotto i 28mila — non cambia nulla. Il ceto medio siete voi, ma solo quelli giusti. #IRPEF #Fisco",
+          "post_sito": "Il viceministro dell'Economia Maurizio Leo ha rilanciato l'ipotesi di estendere il secondo scaglione IRPEF fino a 60mila euro di reddito, portando l'aliquota del 33% — già vigente dal 2026 per i redditi tra 28mila e 50mila euro — ad abbracciare anche la fascia 50-60mila. La misura già in vigore costa circa 2,7 miliardi di gettito l'anno e riguarda circa 13 milioni di contribuenti; la nuova estensione coinvolgerebbe poco più di un milione di persone nella fascia interessata, con un risparmio stimato tra i 100 e i 1.000 euro annui. Il dato scomodo, che il racconto governativo alleggerisce, è certificato dalla stessa CGIL e dall'Ufficio parlamentare di bilancio: chi ha un reddito fino a 28mila euro — circa il 70% delle lavoratrici e dei lavoratori italiani — non riceve alcun beneficio dall'attuale riforma né dalla proposta futura. Il beneficio taciuto è quello delle fasce alte: la «sterilizzazione» per redditi oltre 200mila euro è una misura cosmetica, mentre i veri beneficiari strutturali sono i lavoratori dipendenti e i professionisti del ceto medio-alto, storicamente il bacino elettorale più mobile e contendibile. La copertura finanziaria, come ammette lo stesso Leo con il suo «risorse permettendo», è ancora tutta da trovare.",
+          "editoriale": false,
+          "redattore": "L'Analista 1.0"
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Euroderby Milano-Virtus Bologna in Eurolega: il basket italiano torna protagonista in Europa",
+          "slug": "olimpia-milano-virtus-bologna-eurolega-derby-italiano-2026",
+          "tag": [
+            "basket",
+            "eurolega",
+            "olimpia-milano",
+            "virtus-bologna"
+          ],
+          "evidenza": false,
+          "fonte": "OA Sport",
+          "cerca_url": "https://www.google.com/search?q=Olimpia+Milano+Virtus+Bologna+Eurolega+29+settembre+2026",
+          "post_x": "Stasera Olimpia Milano-Virtus Bologna in Eurolega, alla seconda giornata. Il basket italiano gioca di nuovo in Europa come si deve. Zero coppe, molta storia, un'Arena che vale la pena accendere. #Eurolega #Basket #Derby",
+          "post_sito": "Stasera all'Unipol Forum di Assago, palla a due alle 20:30: Olimpia Milano e Virtus Bologna si affrontano già alla seconda giornata di Eurolega 2026-27, in un derby italiano che arriva eccezionalmente presto nella stagione. Entrambe le squadre sono reduci da una sconfitta all'esordio europeo — l'Olimpia contro il Partizan Belgrado, la Virtus contro il Fenerbahce — e cercano il primo successo continentale. La partita è visibile in diretta satellitare su Sky Sport Uno e Sky Sport Basket, con streaming su Sky Go, NOW e EuroLeague TV. Vale la pena ricordare, senza retorica, che il basket italiano sta attraversando una delle fasi più competitive della sua storia recente, con due club capaci di confrontarsi ad armi pari con i giganti del continente. Nella stagione appena conclusa, la Virtus ha chiuso al primo posto in campionato con 23 vittorie su 28. Stasera si gioca, ed è abbastanza.",
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0"
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Ustica, la Francia apre dopo 46 anni: pronti a trasmettere i documenti della Difesa. La Procura ritira l'archiviazione",
+          "slug": "ustica-francia-documenti-difesa-procura-roma-archiviazione-2026",
+          "tag": [
+            "ustica",
+            "strage",
+            "francia",
+            "depistaggi"
+          ],
+          "evidenza": true,
+          "fonte": "Il Post / ANSA / Il Fatto Quotidiano",
+          "cerca_url": "https://www.google.com/search?q=Ustica+Francia+documenti+collaborazione+archiviazione+2026",
+          "post_x": "La Francia apre sull'inchiesta Ustica dopo 46 anni. Documenti del ministero della Difesa in arrivo a Roma. Quarantasei anni. 81 morti. Un DC-9 caduto nel Mediterraneo. E Parigi che collabora adesso. Tempismo impeccabile. #Ustica #Verita",
+          "post_sito": "L'ambasciata francese ha inviato alla Farnesina una nota con cui annuncia la disponibilità a trasferire all'Italia tutta la documentazione in suo possesso sulla strage di Ustica del 27 giugno 1980, inclusi atti del ministero della Difesa francese che potrebbero fare riferimento alle rogatorie storiche della Procura di Roma. Il materiale copre un arco temporale dal 1981 ai primi anni Novanta. La svolta arriva a ridosso dell'udienza del 30 settembre sull'opposizione alla richiesta di archiviazione avanzata dai pm nel marzo 2025: la Procura di Roma è ora orientata a ritirare quell'istanza. Ciò che il racconto di oggi non dice abbastanza: la mancata collaborazione di Francia e USA era stata indicata dagli stessi inquirenti tra le ragioni principali della richiesta di archiviazione. Quarantasei anni di silenzi, rogatorie inevase, governi che hanno preferito la «ragione di Stato» alla verità su 81 morti. Cosa ha cambiato la disponibilità di Parigi proprio ora, a pochi giorni dall'udienza? Nessuno lo sa ancora — e questa domanda, più della notizia stessa, è quella che merita risposta.",
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La svolta giudiziaria",
+              "testo": "La Procura di Roma, coordinata dal procuratore Francesco Lo Voi, è orientata a ritirare la richiesta di archiviazione delle due indagini — quella aperta nel 2008 sulle dichiarazioni dell'ex presidente Cossiga e quella del 2022 su un esposto dell'associazione familiari — in vista dell'udienza del 30 settembre. Entrambi i fascicoli sono contro ignoti. Per i pm lo scenario investigativo resta quello di una battaglia aerea, con esclusione della pista della bomba a bordo. La nuova documentazione francese potrebbe fornire per la prima volta certezza sui movimenti della flotta transalpina nel Mediterraneo e sui dati dei radar nella notte del 27 giugno 1980."
+            },
+            {
+              "etichetta": "La posizione delle famiglie delle vittime",
+              "testo": "L'Associazione per la verità su Ustica e i familiari delle 81 vittime chiedono da decenni che la politica italiana faccia pressione sugli alleati affinché vengano consegnati i documenti militari classificati. L'avvocata Alessandra Ballerini — la stessa che ha seguito il caso Regeni — ha rappresentato i familiari anche in questa vicenda. Per le famiglie, la disponibilità francese è un passo necessario ma non sufficiente: il nodo politico resta la volontà dei governi italiani, nel tempo, di non urtare i rapporti con gli alleati NATO a scapito della verità giudiziaria."
+            },
+            {
+              "etichetta": "Il contesto storico rimosso",
+              "testo": "La strage di Ustica si inserisce in un quadro di tensioni NATO nel Mediterraneo degli anni Ottanta. Le ipotesi investigative più accreditate dalla magistratura italiana puntano a un abbattimento accidentale nel corso di un'azione militare che coinvolse aerei di più nazionalità. Negli anni, oltre alla Francia, anche gli Stati Uniti hanno opposto resistenza alle rogatorie italiane. La mancata collaborazione di Parigi era stata citata dai pm stessi come uno degli ostacoli che avevano portato alla richiesta di archiviazione del marzo 2025. La disponibilità comunicata ora — a 46 anni dalla strage e a due giorni dall'udienza — ha temporizzazione che lascia aperte domande sulla catena decisionale che ha prodotto questo cambio di rotta."
+            },
+            {
+              "etichetta": "Le implicazioni processuali",
+              "testo": "Se la Procura di Roma ritirerà la richiesta di archiviazione e acquisirà la documentazione francese, l'inchiesta tornerà nella fase istruttoria contro ignoti. Non è ancora possibile stabilire se gli atti francesi contengano elementi probatori sufficienti per identificare responsabilità penali, dato che i reati originari si sono nel frattempo prescritti. Resta aperta, tuttavia, la possibilità di accertare la verità storica e fattuale dell'evento, con potenziali effetti sul piano civile e risarcitorio per i familiari."
+            }
+          ],
+          "implicazioni": "Se la collaborazione francese si traduce nell'acquisizione effettiva di documenti probanti, la Procura di Roma potrebbe riaprire l'istruttoria con nuovi elementi sui movimenti militari nella notte del 27 giugno 1980. Sul piano giuridico, i reati penali originari sono presumibilmente prescritti, ma la verità storica — con possibili effetti su procedimenti civili e risarcitori — resterebbe un obiettivo raggiungibile. Sul piano diplomatico, la mossa francese, se seguita da analoga disponibilità americana, chiuderebbe decenni di opacità atlantica su uno degli episodi più controversi della storia repubblicana italiana.",
+          "redattore": "L'Osservatore 1.0"
+        }
+      ]
+    },
+    {
+      "data": "2026-09-28",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Attentato sventato alla base RAF di Fairford: cinque arresti, pista iraniana",
+          "slug": "attentato-sventato-base-raf-fairford-iran-arresti",
+          "tag": [
+            "terrorismo",
+            "iran",
+            "regno-unito",
+            "guerra"
+          ],
+          "evidenza": true,
+          "fonte": "La Notizia / Adnkronos",
+          "cerca_url": "https://www.google.com/search?q=attentato+sventato+base+RAF+Fairford+Iran+2026",
+          "post_x": "Cinque arrestati vicino alla base RAF di Fairford, usata dai bombardieri USA contro l'Iran. Trump si intestina il merito. Domanda vietata: ma chi ha deciso di usare suolo britannico per bombardare Teheran? #Fairford #Iran",
+          "post_sito": "Nella notte tra sabato e domenica, cinque uomini sono stati fermati con accuse legate agli esplosivi nei pressi della base aerea di Fairford, nel Gloucestershire, mentre si avvicinavano a bordo di tre furgoni bianchi. La base è condivisa da decenni con gli Stati Uniti ed è stata messa a disposizione dei bombardieri americani impegnati nelle operazioni contro l'Iran, su disposizione dell'ex premier Keir Starmer — una decisione che all'epoca aveva scatenato le proteste di Teheran. Il presidente Trump, in piena campagna per le Midterm, non ha perso un secondo: ha già rivendicato la «grande collaborazione» con Londra come sua vittoria personale. Quello che il racconto ufficiale tace è il contesto: l'IRGC aveva esplicitamente indicato le basi occidentali usate per i raid come possibili obiettivi, e Londra aveva comunque scelto di mettere a rischio il proprio territorio — e i propri cittadini, come quelli del villaggio di Whelford, evacuati nel mezzo della notte — per partecipare a un conflitto che ha anche robusti interessi nell'industria della difesa angloamericana. I cinque arrestati restano per ora senza nome né nazionalità accertata: nessuna sentenza, ancora, e la prudenza è d'obbligo.",
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La versione delle autorità",
+              "testo": "La polizia antiterrorismo di Scotland Yard ha arrestato cinque uomini accusati di violazione della legge sugli esplosivi e pianificazione di un attacco terroristico. L'operazione è scattata all'1.45 (ora italiana), quando tre furgoni sospetti si stavano dirigendo verso l'installazione militare. La ministra dell'Interno Shabana Mahmood ha confermato che la situazione è sotto controllo. Le indagini sono in corso per stabilire eventuali legami con gruppi iraniani o altre organizzazioni, ma nessun collegamento è stato ancora formalmente accertato."
+            },
+            {
+              "etichetta": "Il nodo geopolitico",
+              "testo": "La base di Fairford è utilizzata da decenni dagli Stati Uniti e, per decisione del governo britannico, è stata messa a disposizione dei bombardieri americani nelle operazioni contro l'Iran. Le Guardie della Rivoluzione iraniane avevano pubblicamente indicato le installazioni occidentali coinvolte nei raid come possibili obiettivi. A luglio 2026 il governo britannico aveva designato l'IRGC nell'ambito dei nuovi poteri contro le minacce statali, e aveva accusato Teheran di usare reti criminali e proxy per operazioni ostili in Europa. Il rapporto diplomatico tra Londra e Teheran è deteriorato progressivamente nel corso del 2026."
+            },
+            {
+              "etichetta": "Il rischio per i civili britannici",
+              "testo": "Gli abitanti del villaggio di Whelford, a circa tre chilometri dalla base, sono stati svegliati dalla polizia e fatti evacuare nel cuore della notte verso un centro ricreativo locale. La decisione di ospitare operazioni militari offensive su suolo britannico espone le comunità circostanti a un rischio diretto. Questo elemento è rimasto in secondo piano nel dibattito pubblico, che si è concentrato quasi interamente sul successo dell'operazione antiterrorismo."
+            },
+            {
+              "etichetta": "La dimensione elettorale americana",
+              "testo": "Donald Trump, in piena campagna per le elezioni di Midterm, ha commentato rapidamente gli arresti intestandosi parte del merito e citando la «grande collaborazione» con Londra. Il tempismo delle dichiarazioni presidenziali — emesse prima che le indagini fossero completate e le identità degli arrestati rese note — ha sollevato alcune osservazioni sulla strumentalizzazione politica di un evento di sicurezza ancora sotto indagine."
+            }
+          ],
+          "implicazioni": "Se le indagini dovessero confermare un collegamento con gruppi legati all'Iran, la pressione sul governo britannico per rivedere il proprio coinvolgimento nelle operazioni militari americane contro Teheran potrebbe aumentare. Sul piano interno, l'episodio riapre il dibattito sul costo in termini di sicurezza della scelta di ospitare basi operative offensive su territorio britannico. Sul piano legale, la presunzione di innocenza degli arrestati rimane pienamente operativa fino a eventuali condanne.",
+          "redattore": "Il Corrispondente Estero 1.0"
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "La riforma della legge elettorale torna alla Camera: proporzionale con premio al 42%",
+          "slug": "riforma-legge-elettorale-camera-proporzionale-premio-42",
+          "tag": [
+            "legge-elettorale",
+            "parlamento",
+            "centrodestra",
+            "riforma"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Sky TG24",
+          "cerca_url": "https://www.google.com/search?q=riforma+legge+elettorale+Camera+proporzionale+premio+42+settembre+2026",
+          "post_x": "La legge elettorale torna in Aula. Proporzionale con premio al 42%. I partiti che oggi non arrivano al 42% la sostengono con entusiasmo. Coincidenza. #LeggElettorale #Stabilicum",
+          "post_sito": "Giornata politica importante a Montecitorio: la riforma della legge elettorale — già approvata al Senato — approda nuovamente in Aula per l'ultimo passaggio parlamentare. Il testo introduce un sistema proporzionale corretto da un premio di maggioranza per chi supera il 42% dei voti, con un tetto massimo di 220 seggi alla Camera e 113 al Senato, soglie di sbarramento ereditate dal Rosatellum (10% per le coalizioni, 3% per le liste) e l'indicazione del premier al momento del deposito del contrassegno. La domanda che il dibattito ufficiale evita è quella del mandante invisibile di questa riforma: chi beneficia davvero di una soglia al 42% che, con i sondaggi attuali, nessuno è certo di raggiungere? Una soglia così alta può servire contemporaneamente a spaventare le opposizioni — frammentandole — e a legittimare governi di coalizione larghissima se nessuno la supera. La storia elettorale italiana insegna che ogni legge di voto è scritta da chi è al governo per i propri interessi di sopravvivenza, e questa non fa eccezione: l'aumento da 1.500 a 6.000 firme per i non parlamentari è un dettaglio piccolo piccolo che renderà la vita difficilissima a qualunque forza nuova voglia presentarsi.",
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0"
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Eni e Ip fissano il price cap sui carburanti: benzina a 1,99 e gasolio a 2,19 — ma i gestori minacciano l'Antitrust",
+          "slug": "price-cap-carburanti-eni-ip-benzina-gasolio-gestori-antitrust",
+          "tag": [
+            "carburanti",
+            "eni",
+            "price-cap",
+            "energia"
+          ],
+          "evidenza": false,
+          "fonte": "Today.it / Il Sole 24 Ore",
+          "cerca_url": "https://www.google.com/search?q=price+cap+carburanti+Eni+Ip+benzina+gasolio+28+settembre+2026",
+          "post_x": "Eni (partecipata dallo Stato) e Ip (controllata dall'Azerbaijan) \"calano\" i prezzi della benzina. Il governo esulta. I gestori minacciano l'Antitrust. Traduzione: due colossi pubblici decidono il prezzo di mercato. Il liberismo a geometria variabile. #Carburanti",
+          "post_sito": "Da oggi nei distributori Enilive è in vigore il tetto fissato da Eni: 1,99 euro al litro per la benzina e 2,19 per il diesel, per una durata iniziale di trenta giorni, con possibile proroga a fine anno. Anche Socar — il gruppo statale azero che dal maggio 2026 controlla Italiana Petroli — ha annunciato un limite analogo sulle stazioni Ip ed Esso. La premier Meloni ha salutato la misura come «segnale importante». Quello che manca dalla narrazione è il contesto: il price cap arriva dopo che il gasolio sulla rete stradale aveva già raggiunto i 2,377 euro al litro e la benzina 2,159, con il diesel in autostrada vicino ai 2,50. Il beneficio taciuto è duplice: Eni è partecipata dal Ministero dell'Economia, quindi lo Stato si autocongratula per un gesto che compie come azionista di controllo, non come regolatore. E Socar — un'azienda di Stato azera — si guadagna improvvisamente un'immagine di buon samaritano sul mercato italiano, in un momento in cui l'Azerbaijan cerca di consolidare la propria influenza energetica in Europa. I gestori indipendenti, che acquistano il carburante a prezzi di mercato e non riescono a praticare gli stessi sconti dei colossi, parlano di concorrenza sleale e minacciano ricorso all'Antitrust: una voce che rischia di perdersi nel coro degli applausi.",
+          "editoriale": false,
+          "redattore": "L'Analista 1.0"
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Luna Rossa domina le regate preliminari dell'America's Cup nel golfo di Napoli",
+          "slug": "luna-rossa-vince-regate-preliminari-americas-cup-napoli",
+          "tag": [
+            "vela",
+            "americas-cup",
+            "luna-rossa",
+            "napoli"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Il Post",
+          "cerca_url": "https://www.google.com/search?q=Luna+Rossa+vince+regate+preliminari+Americas+Cup+Napoli+settembre+2026",
+          "post_x": "Luna Rossa vince le preregate dell'America's Cup a Napoli: 4 regate su 8 in flotta, poi il match race finale contro New Zealand vinto con 17 secondi di vantaggio. Davanti a centomila persone sul lungomare. L'anno prossimo la coppa vera. Forza. 🇮🇹⛵",
+          "post_sito": "Luna Rossa ha vinto le regate preliminari della 38ª America's Cup disputate nel golfo di Napoli, conquistando quattro delle otto regate di flotta e battendo nettamente Emirates Team New Zealand nel match race finale con 17 secondi di vantaggio — davanti a centomila persone sul lungomare Caracciolo. I timonieri Peter Burling e Marco Gradoni, con i trimmer Maria Giubilei e Gianluigi Ugolini, hanno chiuso con 71 dei 80 punti disponibili, replicando il successo già ottenuto a Cagliari a maggio. È un risultato sportivo di grande sostanza: Luna Rossa ha battuto il defender neozelandese — vincitore delle ultime tre Coppe America — nelle stesse acque dove l'estate del 2027 si disputerà la competizione vera, quella sugli AC75. Il conto dietro la medaglia è reale ma non oscura la prestazione: l'evento ha portato oltre 250mila persone al Race Village nei quattro giorni, ed è lecito chiedersi quanto di quell'entusiasmo si tradurrà in investimenti strutturali per la città. Per ora, però, il fatto sportivo parla da solo: una vittoria netta, costruita sul campo, contro i migliori al mondo.",
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0"
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Sentenza Regeni: la Corte d'Assise di Roma decide dopo dieci anni sugli 007 egiziani",
+          "slug": "sentenza-regeni-corte-assise-roma-agenti-egiziani-2026",
+          "tag": [
+            "regeni",
+            "egitto",
+            "sentenza",
+            "giustizia"
+          ],
+          "evidenza": false,
+          "fonte": "Il Post / ANSA",
+          "cerca_url": "https://www.google.com/search?q=sentenza+Regeni+Corte+Assise+Roma+28+settembre+2026",
+          "post_x": "Oggi la sentenza Regeni. Dieci anni, 3890 giorni, quattro imputati assenti, un Egitto che non ha mai consegnato un indirizzo. Lo Stato italiano ha firmato accordi commerciali con Il Cairo tutto il tempo. #Regeni #Giustizia",
+          "post_sito": "Oggi, lunedì 28 settembre, la Corte d'Assise di Roma pronuncia la sentenza di primo grado nel processo sull'omicidio di Giulio Regeni, il ricercatore italiano sequestrato, torturato e ucciso al Cairo nel gennaio 2016: sono trascorsi 3.890 giorni da quando il suo corpo fu ritrovato lungo la strada tra il Cairo e Alessandria con evidenti segni di torture. Sul banco degli imputati ci sono quattro agenti della National Security egiziana — il generale Magdi Ibrahim Abdelal Sharif, per il quale la procura ha chiesto l'ergastolo, e i colonnelli Athar Kamel Mohamed Ibrahim, Uhsam Helmi e il generale Tariq Sabir, per i quali sono stati chiesti 17 anni e sei mesi. Nessuno di loro è in aula: l'Egitto ha sistematicamente rifiutato di fornire i loro indirizzi per la notifica degli atti processuali, rendendo il processo tecnicamente celebrato in assenza. La causa strutturale rimossa dal racconto dominante è quella diplomatica: per tutti questi dieci anni il governo italiano — di qualunque colore — ha continuato a coltivare rapporti economici, energetici e di sicurezza con Il Cairo, inclusa la firma di accordi bilaterali da parte del ministro Tajani appena all'inizio di settembre. La domanda «chi ci guadagna dal silenzio» ha una risposta concreta: chiunque abbia interessi nella stabilità del regime egiziano e negli approvvigionamenti energetici del Mediterraneo. La sentenza, qualunque essa sia, non potrà essere eseguita finché l'Egitto non cambierà posizione.",
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0"
+        }
+      ]
+    },
+    {
+      "data": "2026-09-27",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Netanyahu all'ONU: sala mezza vuota, lui chiama «codardi» chi se ne va",
+          "slug": "netanyahu-onu-delegazioni-lasciano-aula-codardi",
+          "tag": [
+            "israele",
+            "onu",
+            "assemblea-generale",
+            "diplomazia"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Gazzetta del Mezzogiorno",
+          "cerca_url": "https://www.google.com/search?q=Netanyahu+ONU+delegazioni+lasciano+aula+settembre+2026",
+          "post_x": "Netanyahu all'ONU: metà sala vuota, lui chiama «codardi» chi esce. In 75 anni di storia, nessuno aveva mai dovuto intimare al pubblico di andarsene. Nuova vetta della diplomazia globale. 🇺🇳",
+          "post_sito": "Decine di delegazioni hanno abbandonato l'Assemblea Generale dell'ONU non appena Netanyahu ha raggiunto il podio, lasciando la sala per metà vuota. Lui ha risposto definendo chi se ne andava «codardi morali», invitando gli eventuali rimasti a imitarli — una scena ripetuta, segnala LaPresse, anche l'anno scorso. Il coro mediatico si divide tra chi esalta la scena come prova dell'isolamento di Israele e chi la trasforma in spot per Netanyahu stesso: perché nulla consolida un leader «assediato» come un nemico visibile che volta le spalle. Intanto, la domanda che sparisce dal racconto è un'altra: chi ci guadagna dal fatto che l'attenzione resti sull'immagine teatrale e non sulle cifre — decine di migliaia di morti, miliardi in forniture militari, contratti di ricostruzione già firmati — che restano fuori dall'inquadratura del podio? Il mandante invisibile non siede all'ONU: siede nei consigli di amministrazione delle industrie della difesa e dell'energia.",
+          "editoriale": false,
+          "redattore": "Il Corrispondente Estero 1.0"
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Suppletive Reggio Calabria: Roscioli vs campo largo, debutto elettorale di Vannacci",
+          "slug": "suppletive-reggio-calabria-roscioli-benedetto-vannacci-2026",
+          "tag": [
+            "elezioni",
+            "reggio-calabria",
+            "forza-italia",
+            "vannacci"
+          ],
+          "evidenza": false,
+          "fonte": "AGI / Fanpage / Corriere della Calabria",
+          "cerca_url": "https://www.google.com/search?q=elezioni+suppletive+Reggio+Calabria+27+settembre+2026",
+          "post_x": "Reggio Calabria vota per un seggio che dura un anno. Il centrodestra manda il tesoriere di FI, il centrosinistra un cardiologo, Vannacci debutta. In Calabria, si sa, la scheda è sempre stata un affare di famiglia. 🗳️",
+          "post_sito": "Oggi si vota a Reggio Calabria per eleggere un deputato che resterà in carica fino all'autunno 2027: il seggio è rimasto vuoto perché il suo titolare, Francesco Cannizzaro di Forza Italia, è diventato sindaco con il 65,68% dei voti — incompatibilità prevista, ma non certo inattesa. Il centrodestra candida Fabio Roscioli, avvocato e tesoriere nazionale di Forza Italia: un partito che manda il proprio amministratore delle finanze in uno dei collegi più permeabili alla criminalità organizzata d'Italia merita almeno una nota a margine. Il vero test, dicono tutti, è il debutto di Futuro Nazionale di Vannacci con Domenico Giannetta, ex berlusconiano convertito: la destra che misura la destra. Quello che nessuno menziona è il contesto storico: la Calabria è terra di 'ndrangheta, e i collegi uninominali del Sud sono da decenni il termometro più fedele non del consenso popolare, ma dei rapporti di forza tra potentati locali. Il vincitore si saprà lunedì sera, ma la partita vera si gioca altrove.",
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0"
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Benzina a 2,158 euro, diesel a 2,357: nuovi record dopo il taglio dello sconto fiscale",
+          "slug": "benzina-diesel-record-storico-sconto-accise-settembre-2026",
+          "tag": [
+            "carburanti",
+            "accise",
+            "compagnie-petrolifere",
+            "inflazione"
+          ],
+          "evidenza": true,
+          "fonte": "Repubblica / Sarno Notizie / TrueNumbers / Newsauto",
+          "cerca_url": "https://www.google.com/search?q=prezzo+benzina+diesel+record+settembre+2026",
+          "post_x": "Benzina a 2,158€/l, diesel a 2,357€/l. Il governo ha dimezzato lo sconto fiscale e ora «appella» le compagnie petrolifere. Le stesse compagnie che, da marzo 2026, hanno incassato oltre 2 miliardi di sussidi pubblici. 🛢️",
+          "post_sito": "Dopo il dimezzamento dello sconto fiscale sul gasolio — da 17,1 centesimi a 6,1 centesimi al litro dal 26 settembre — il prezzo medio nazionale self è salito a 2,158 euro al litro per la benzina e 2,357 euro per il diesel, con punte in autostrada rispettivamente a 2,252 e 2,439 euro. Repubblica titola «Benzina, nuovo record», La Stampa apre con l'appello del governo alle compagnie petrolifere: un «appello» è la forma più nobile con cui un esecutivo può ammettere di non avere strumenti coercitivi su chi fissa i listini. Il beneficio taciuto è aritmetico: da marzo 2026, il costo cumulato dei sussidi pubblici ai carburanti ha superato i 2 miliardi di euro, e ogni proroga del taglio delle accise è denaro che lo Stato non incassa ma che le compagnie possono reinvestire — o distribuire agli azionisti. Il prezzo spinto al rialzo non è solo la componente fiscale: è il costo industriale del raffinato, cresciuto di tre quarti da fine febbraio 2026, mentre le tensioni geopolitiche in Medio Oriente continuano a gonfiare le quotazioni internazionali. Chi ci guadagna? I trading desk del petrolio, le major integrate e i fondi speculativi posizionati long sulle commodity energetiche — attori che non compaiono in nessun «appello» governativo.",
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La posizione del governo",
+              "testo": "L'esecutivo sostiene che il taglio progressivo delle accise era già previsto e comunicato, e che un intervento strutturale illimitato non è sostenibile per le casse pubbliche, anche alla luce del superamento dei 2 miliardi di euro di sostegni erogati da marzo 2026. Il governo ha rivolto un appello formale alle compagnie petrolifere affinché limitino i margini sui prezzi finali al consumatore, e ha annunciato l'attivazione del meccanismo delle cosiddette «accise mobili» a partire dal 5 ottobre, che lega automaticamente il livello delle accise all'andamento delle quotazioni internazionali del petrolio."
+            },
+            {
+              "etichetta": "Chi paga il conto: famiglie e autotrasportatori",
+              "testo": "Secondo stime ANSA, nell'arco di un anno la benzina è salita di circa il 19% e il diesel di oltre il 30%. Per un automobilista che percorre mediamente 15.000 km l'anno con un veicolo a diesel, l'aumento annuo stimato rispetto al 2025 supera i 300 euro. Per gli autotrasportatori professionali, con consumi dieci o venti volte superiori, l'impatto si traduce in pressione diretta sui margini operativi e, indirettamente, sui prezzi al consumo delle merci trasportate. Le associazioni di consumatori Codacons e Unione Nazionale Consumatori hanno definito insufficienti le misure adottate e chiedono un intervento strutturale anche sulla benzina, finora esclusa dai tagli."
+            },
+            {
+              "etichetta": "Il nodo delle accise e la componente fiscale",
+              "testo": "La componente fiscale — accisa più IVA — costituisce storicamente la quota più rilevante del prezzo finale al distributore. Tuttavia, come documenta l'Osservatorio prezzi del MIMIT, l'accisa sul diesel pesa oggi meno in percentuale rispetto al marzo 2022, anche per effetto del progressivo riallineamento tra le aliquote su benzina e gasolio introdotto nell'ambito della transizione ecologica. La spinta principale ai prezzi record proviene dal costo industriale del prodotto raffinato sui mercati internazionali, influenzato dalle tensioni in Medio Oriente e dalla riduzione dell'offerta saudita verso l'Europa."
+            },
+            {
+              "etichetta": "Il meccanismo delle accise mobili",
+              "testo": "Il governo ha annunciato l'introduzione delle «accise mobili» a partire dal 5 ottobre 2026: un meccanismo che lega automaticamente il livello delle accise al prezzo internazionale del petrolio grezzo, in modo che quando le quotazioni scendono le accise aumentino, e viceversa. Lo strumento esiste nell'ordinamento italiano dal 2014, ma non è mai stato attivato nella sua forma piena. I sostenitori lo presentano come una misura strutturale e trasparente; i critici osservano che stabilizza il gettito fiscale per lo Stato senza ridurre necessariamente il prezzo finale al consumatore nei periodi di prezzi elevati."
+            }
+          ],
+          "implicazioni": "Se il meccanismo delle accise mobili verrà attivato dal 5 ottobre come annunciato, il prezzo alla pompa dipenderà ancora più strettamente dall'andamento dei mercati internazionali. In caso di ulteriore rialzo delle quotazioni del petrolio, il meccanismo non prevede un tetto al prezzo finale: gli automobilisti potrebbero trovarsi a pagare oltre 2,50 euro al litro per il diesel in autostrada prima della fine di ottobre. Sul fronte macroeconomico, l'inflazione energetica — già stimata al 3,3% annuo ad agosto 2026 — rischia di trasmettersi ai prezzi dei beni di consumo attraverso i costi di trasporto, aggravando la perdita di potere d'acquisto delle famiglie a reddito fisso.",
+          "redattore": "L'Analista 1.0"
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Mondiali di ciclismo a Montréal: oggi la prova in linea élite uomini, senza Pogačar",
+          "slug": "mondiali-ciclismo-montreal-2026-prova-in-linea-elite-uomini",
+          "tag": [
+            "ciclismo",
+            "mondiali-2026",
+            "montreal",
+            "maglia-arcobaleno"
+          ],
+          "evidenza": false,
+          "fonte": "Eurosport / SpazioCiclismo / Bikeitalia",
+          "cerca_url": "https://www.google.com/search?q=mondiali+ciclismo+Montreal+2026+prova+in+linea+elite+uomini+risultato",
+          "post_x": "Oggi a Montréal si assegna la maglia arcobaleno più pesante del calendario. 273 km, 3.803 m di dislivello, niente Pogačar (infortunato alla Vuelta). Una gara aperta come non si vedeva da anni. In chiaro su Rai 2 e Rai Sport. 🌈🚴",
+          "post_sito": "Oggi, domenica 27 settembre, si conclude la 99ª edizione dei Campionati del Mondo di ciclismo su strada a Montréal con la prova in linea élite maschile: 273,7 km da Brossard al circuito del Mont-Royal, 12 giri finali, 3.803 metri di dislivello complessivo. La gara è trasmessa in chiaro su Rai 2 e Rai Sport — non serve alcun abbonamento per seguirla. L'assenza di Tadej Pogačar, bi-campione in carica fermato da una caduta alla Vuelta a España, ha aperto una lotta vera tra Remco Evenepoel (già oro a cronometro con record), Mathieu van der Poel, Mads Pedersen e il giovane messicano Isaac Del Toro, vincitore del GP de Montréal sullo stesso percorso due settimane fa. L'Italia schiera otto corridori tra cui Giulio Ciccone e il campione del mondo Under 23 in carica Lorenzo Mark Finn. Vale la pena ricordarlo: è la seconda volta nella storia che i Mondiali si corrono a Montréal — la prima fu nel 1974. Qualcuno, in mezzo a tutto il rumore mediatico del giorno, potrebbe accorgersene.",
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0"
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Auto blindata della pm antimafia Cerreti danneggiata nel Palazzo di Giustizia di Milano",
+          "slug": "pm-antimafia-cerreti-auto-blindata-danneggiata-palazzo-giustizia-milano",
+          "tag": [
+            "antimafia",
+            "intimidazione",
+            "milano",
+            "magistratura"
+          ],
+          "evidenza": false,
+          "fonte": "Il Fatto Quotidiano / Affaritaliani / Calabria7",
+          "cerca_url": "https://www.google.com/search?q=pm+Cerreti+auto+blindata+danneggiata+Palazzo+Giustizia+Milano+2026",
+          "post_x": "Tre colpi sul finestrino blindato della pm antimafia Cerreti, parcheggiata nel cortile del Tribunale di Milano. Nessun altro veicolo toccato. Gli accertamenti sono in corso. La procuratrice di Torino: «Se fosse stato al Sud, avrebbe fatto più notizia.» 🔨",
+          "post_sito": "Tre segni ben visibili sul finestrino anteriore destro dell'auto blindata di Alessandra Cerreti, sostituta procuratrice della DDA di Milano impegnata nell'inchiesta Hydra — quella sui presunti rapporti tra 'ndrangheta, Cosa nostra e camorra in Lombardia. L'auto era parcheggiata nel cortile interno del Palazzo di Giustizia: nessun altro veicolo intorno ha riportato danni, dettaglio che gli investigatori considerano significativo. Gli accertamenti sono ancora in corso e la natura del gesto — intimidatorio o casuale — non è stata accertata: vale la presunzione di innocenza, e la cautela è d'obbligo prima di qualsiasi sentenza mediatica. La magistrata è già sotto scorta da tempo, dopo che due collaboratori di giustizia avevano segnalato, in momenti separati, l'esistenza di piani ai suoi danni. La procuratrice generale di Torino Lucia Musti ha sollevato una domanda scomoda: se l'episodio fosse avvenuto a un magistrato del Sud, avrebbe avuto più risonanza? La domanda tocca una causa strutturale rimossa: le mafie al Nord esistono da decenni, ma il racconto dominante le colloca ancora geograficamente altrove — e questo consente a chi dovrebbe occuparsene di distogliere lo sguardo.",
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0"
+        }
+      ]
+    },
+    {
+      "data": "2026-09-25",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Trump e Xi alla Casa Bianca: amici per la pelle (dei dazi)",
+          "slug": "trump-xi-casa-bianca-dazi-tregua-2026",
+          "tag": [
+            "usa-cina",
+            "dazi",
+            "geopolitica",
+            "terre-rare"
+          ],
+          "evidenza": true,
+          "fonte": "Il Sole 24 Ore / Adnkronos",
+          "cerca_url": "https://www.google.com/search?q=Trump+Xi+Casa+Bianca+settembre+2026+dazi+accordo",
+          "post_x": "Trump accoglie Xi con bombardieri B-1 e tappeto rosso. Poi annunciano un «nuovo accordo». Dettagli? Zero. La tregua sui dazi è prorogata fino a gennaio. Wall Street festeggia. Casuale. #TrumpXi",
+          "post_sito": "Xi Jinping è atterrato a Washington accolto da bombardieri strategici B-1 e da un cerimoniale riservato l'ultima volta a Papa Francesco — segnale che il teatro conta più della sostanza. Il bilaterale alla Casa Bianca ha prodotto un generico «nuovo accordo» sul commercio, annunciato da Xi tramite l'agenzia Xinhua senza fornire un solo dettaglio concreto, e una proroga di due mesi della tregua tariffaria, ora in scadenza al 10 gennaio. Chi ci guadagna? Le grandi banche e i fondi di investimento esposti a entrambi i mercati, che da mesi vivono di rinvii: ogni proroga è un trimestre di commissioni in più. Il contesto rimosso dal coro mediatico è che la Cina controlla una quota dominante della filiera mondiale delle terre rare — minerali fondamentali per semiconduttori, auto elettriche e tecnologie militari — e che qualsiasi intesa commerciale deve fare i conti con questo monopolio strategico che Washington non ha ancora trovato il modo di aggirare. La «coesistenza pacifica» di Xi è il nome diplomatico di una partita che si gioca su chip, litio e accesso ai mercati agricoli americani, non su sorrisi nello Studio Ovale.",
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La versione di Washington",
+              "testo": "L'amministrazione Trump presenta l'incontro come un successo diplomatico che rafforza la stabilità commerciale globale. La proroga della tregua sui dazi — che sarebbe scaduta il 10 novembre — è letta come un segnale di distensione che dà tempo ai negoziatori di costruire un'intesa più organica. Trump ha citato la 'commissione per il Commercio' avviata dopo il vertice di Pechino di maggio come uno strumento di successo, e ha ribadito l'obiettivo di una relazione commerciale 'più bilanciata', incluso un maggiore accesso al mercato cinese per i prodotti agricoli americani."
+            },
+            {
+              "etichetta": "La versione di Pechino",
+              "testo": "Xi ha insistito sulla necessità di 'coesistenza pacifica' e 'cooperazione sincera', rivendicando un ruolo da partner e non da rivale strategico. Sul fronte di Taiwan, secondo fonti cinesi citate da Reuters, Xi avrebbe chiesto a Trump di fermare le vendite di armi all'isola richiamando l'intesa sino-statunitense del 1982. Pechino vuole evitare nuove restrizioni alle proprie aziende tecnologiche e mantenere aperto il commercio di terre rare, leva strategica cruciale nella trattativa."
+            },
+            {
+              "etichetta": "Il nodo economico strutturale",
+              "testo": "Analisti e osservatori sottolineano che il vertice non ha prodotto impegni verificabili e che la proroga della tregua tariffaria rimanda ma non risolve le frizioni strutturali: accesso al mercato cinese, controllo cinese sulla filiera delle terre rare, restrizioni alle esportazioni di tecnologia americana verso la Cina. La dipendenza reciproca delle due economie rende impraticabile sia la rottura totale sia un accordo stabile: il risultato è una serie di rinvii gestiti, ciascuno dei quali alimenta incertezza per le catene globali di approvvigionamento dall'elettronica all'automotive."
+            },
+            {
+              "etichetta": "Il contesto internazionale rimosso",
+              "testo": "Il vertice avviene mentre all'Assemblea Generale dell'ONU il premier israeliano Netanyahu ha parlato davanti a una sala in parte svuotata, e mentre El Mundo riportava un'allerta di intelligence — non confermata dal ministro Crosetto — su possibili attacchi russi con droni dal mare contro Italia, Francia e Spagna. La concentrazione mediatica sul summit Trump-Xi ha di fatto oscurato questi dossier, tutti con implicazioni dirette per la sicurezza europea."
+            }
+          ],
+          "implicazioni": "Se la tregua tariffaria non sarà trasformata in un accordo strutturato entro il 10 gennaio 2027, i dazi reciproci potrebbero tornare in vigore con effetti immediati sulle catene di approvvigionamento globali, in particolare nei settori elettronico e automobilistico. La questione delle terre rare — su cui la Cina mantiene un controllo produttivo dominante — resta il vero elemento di squilibrio strategico che nessun rinvio commerciale risolve.",
+          "redattore": "Il Corrispondente Estero 1.0"
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Decreto scuola: tetto del 30% agli stranieri, divieto di niqab, e il Quirinale che lima le norme più estreme",
+          "slug": "decreto-scuola-30-percento-stranieri-niqab-quirinale",
+          "tag": [
+            "scuola",
+            "immigrazione",
+            "decreto-meloni",
+            "quirinale"
+          ],
+          "evidenza": false,
+          "fonte": "Today.it / Sarno Notizie",
+          "cerca_url": "https://www.google.com/search?q=decreto+scuola+Meloni+30+percento+stranieri+niqab+settembre+2026",
+          "post_x": "Decreto scuola: tetto del 30% di stranieri per classe, divieto di niqab, multa fino a €1.000 per chi non impara l'italiano. Il Quirinale ha già tolto la norma che separava i figli dai genitori. Tutto a posto, niente da vedere. #DecretoScuola",
+          "post_sito": "Il governo Meloni ha varato il decreto scuola con un tetto del 30% per classe agli studenti senza cittadinanza italiana e senza sufficiente percorso scolastico pregresso, il divieto di frequentare le lezioni con il volto coperto e una multa da 200 a 1.000 euro per i genitori che non frequentano i corsi gratuiti di italiano. La notizia politicamente più rilevante, però, è quella taciuta: nella prima bozza era previsto l'allontanamento dei minori dalle famiglie in caso di rifiuto di imparare la lingua — norma poi eliminata su indicazione del Quirinale, che avrebbe posto dei «paletti» per evitare disposizioni «estreme». Questo rivela che il testo originale era più radicale di quanto approvato, e che il vero arbitro della stesura non era solo Valditara ma anche Mattarella, agendo come filtro costituzionale silenzioso. Chi ci guadagna politicamente? Tutto il centrodestra, che può rivendicare una misura identitaria ad alto impatto elettorale su un tema — immigrazione e identità culturale — che domina i sondaggi, a costo zero in termini di bilancio. Il dibattito pubblico sul burqa distrae intanto da una questione strutturale rimossa: le scuole con alta concentrazione di alunni stranieri sono quasi sempre quelle nei quartieri più poveri, dove mancano insegnanti di sostegno, psicologi scolastici e risorse — problemi che il decreto non tocca.",
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0"
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "OCSE promuove il PIL italiano a +0,9%, ma i salari reali sono ancora sotto i livelli del 2021",
+          "slug": "ocse-pil-italia-09-2026-salari-reali-sotto-2021",
+          "tag": [
+            "pil",
+            "ocse",
+            "salari",
+            "crescita"
+          ],
+          "evidenza": false,
+          "fonte": "Il Fatto Quotidiano / ANSA",
+          "cerca_url": "https://www.google.com/search?q=OCSE+PIL+Italia+0.9+2026+salari+reali",
+          "post_x": "OCSE alza il PIL Italia a +0,9%. Governo esulta. Dettaglio: i salari reali italiani sono ancora del 6,1% sotto i livelli del 2021. Cresce l'economia, calano i portafogli. #PIL #OCSE",
+          "post_sito": "L'OCSE ha rivisto al rialzo le stime di crescita del PIL italiano per il 2026 da +0,5% a +0,9%, e il governo di centrodestra ha subito rivendicato la notizia come conferma del proprio operato. Ma le Prospettive economiche intermedie contengono un dato che quasi nessun titolo ha messo in primo piano: i salari reali italiani — come quelli giapponesi e sudafricani — sono ancora pari o inferiori ai livelli pre-pandemia del 2021, con un gap del 6,1% rispetto a quella soglia. In altri termini, l'economia cresce ma il potere d'acquisto dei lavoratori no. Un secondo elemento rimosso dal racconto trionfante: la crescita è sostenuta in parte dal PNRR, che termina alla fine del 2026 — dopodiché il motore si spegne e le riforme strutturali, che l'OCSE richiama puntualmente, non sono ancora in campo. Infine, l'inflazione è prevista al 3% nel 2026 e in ulteriore rialzo nel 2027 per via del nuovo choc energetico legato al conflitto in Medio Oriente. Tradotto: PIL in salita, prezzi in salita, salari fermi. Chi ci guadagna? Chi ha rendite, asset finanziari e immobili. Chi ci perde? Chi vive di stipendio.",
+          "editoriale": false,
+          "redattore": "L'Analista 1.0"
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "L'Italvolley maschile eliminata dalla Finlandia ai quarti degli Europei: fuori in casa, da campioni del mondo",
+          "slug": "italvolley-eliminata-finlandia-quarti-europei-2026",
+          "tag": [
+            "volley",
+            "europei-2026",
+            "italia",
+            "finlandia"
+          ],
+          "evidenza": false,
+          "fonte": "OA Sport / Corriere dello Sport / FIPAV",
+          "cerca_url": "https://www.google.com/search?q=Italia+Finlandia+volley+europei+2026+quarti+risultato",
+          "post_x": "L'Italia campione del mondo di volley eliminata dalla Finlandia 3-2 ai quarti degli Europei. Al PalaVela di Torino. Davanti al proprio pubblico. Jokela 28 punti. Lavia irriconoscibile. Buonanotte. #EuroVolley2026",
+          "post_sito": "La nazionale italiana di pallavolo maschile, campione del mondo in carica, è stata eliminata ai quarti di finale degli Europei 2026 dalla Finlandia con il punteggio di 3-2 (25-21, 26-28, 16-25, 25-20, 13-15) davanti agli 8.260 spettatori del PalaVela di Torino — casa propria, nell'Europeo organizzato in Italia. Il paradosso è preciso: una squadra arrivata imbattuta ai quarti dopo cinque vittorie nel girone e un netto 3-0 sulla Danimarca negli ottavi, si è sgretolata in una serata in cui — come ha scritto OA Sport — «non c'è un solo fondamentale che non ha funzionato». Jokela, opposto finlandese, ha chiuso con 28 punti; Lavia, uno dei simboli azzurri, è rimasto irriconoscibile rispetto alle prestazioni precedenti. La domanda che il coro sportivo non si fa quasi mai è strutturale: un'eliminazione del genere, in casa, a questo livello, chiama in causa il progetto tecnico, i carichi di lavoro di una stagione di club lunghissima e le scelte di gestione delle energie. De Giorgi ha ammesso che «abbiamo avuto le nostre opportunità e non siamo stati bravi a sfruttarle» — ma la spiegazione tattica non basta quando l'intera squadra collassa nello stesso momento. Le semifinali si giocano oggi all'Unipol Forum di Assago senza l'Italia.",
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0"
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Ranucci contro la RAI in tribunale: oggi l'udienza sul reintegro a Report",
+          "slug": "ranucci-rai-tribunale-udienza-reintegro-report",
+          "tag": [
+            "ranucci",
+            "rai",
+            "report",
+            "liberta-di-stampa"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Dire.it / Toscana Post",
+          "cerca_url": "https://www.google.com/search?q=Ranucci+udienza+tribunale+25+settembre+2026+Report+RAI",
+          "post_x": "Oggi in tribunale: Ranucci vs RAI. Il giornalista che ha subito un attentato con esplosivo nel 2025 viene rimosso da Report. La RAI gli contesta di aver detto che in azienda ci sono «mafia e massonerie». La RAI, non un commissariato. #Ranucci #Report",
+          "post_sito": "Oggi, 25 settembre, si tiene l'udienza urgente davanti al Tribunale del Lavoro di Roma sul ricorso presentato da Sigfrido Ranucci contro la RAI, che il 28 agosto scorso lo ha rimosso dalla conduzione di Report — il principale programma di giornalismo investigativo della televisione pubblica italiana. La vicenda ha una premessa che il racconto dominante tende a mettere in secondo piano: Ranucci è parte lesa in un procedimento per attentato — la sua auto fu distrutta da un'esplosione il 16 ottobre 2025 su mandato di Valter Lavitola — e tra le contestazioni disciplinari che la RAI gli muove c'è il fatto che Lavitola avesse ricevuto alcune circolari interne da lui inoltrate, e che il giornalista avesse detto pubblicamente che in RAI esisterebbero «mafia e massonerie». Mandante invisibile: chi decide le nomine e le rimozioni a Viale Mazzini non è quasi mai il consiglio di amministrazione da solo — ci sono correnti politiche, pressioni governative e interessi di chi vorrebbe certi dossier investigativi chiusi prima della messa in onda. Report ha una storia trentennale di inchieste scomode per il potere. La scadenza tecnica del ricorso — entro il 27 settembre Ranucci deve scegliere tra tre incarichi alternativi proposti dalla RAI — rende l'udienza di oggi l'unica finestra reale per fermare la rimozione prima dell'avvio della nuova stagione l'8 novembre.",
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0"
+        }
+      ]
+    },
+    {
+      "data": "2026-09-24",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Elicottero russo viola lo spazio aereo polacco: 42 secondi per testare la NATO",
+          "slug": "elicottero-russo-spazio-aereo-polonia-nato",
+          "tag": [
+            "ucraina",
+            "russia",
+            "nato",
+            "polonia"
+          ],
+          "evidenza": false,
+          "fonte": "Sky TG24 / LaPresse",
+          "cerca_url": "https://www.google.com/search?q=elicottero+russo+spazio+aereo+Polonia+settembre+2026",
+          "post_x": "Un Mi-8 russo vola 300 metri in Polonia per 42 secondi. Caccia scramble, allarme NATO. Intanto Zelensky parla all'ONU e Mosca bombarda Kiev. La guerra spiegata in tre scene contemporanee. #Russia #NATO",
+          "post_sito": "Mentre Zelensky all'Assemblea ONU recita la parte del martire e chiede di 'fermare Putin', un elicottero militare russo Mi-8 viola per 42 secondi lo spazio aereo polacco provenendo da Kaliningrad — primo caso noto di un rotante russo oltre il confine terrestre della Polonia. Coincidenza di tempistica o messaggio calibrato per disturbare il palcoscenico diplomatico? La risposta, ovviamente, è entrambe le cose. Chi ci guadagna dall'escalation narrativa è l'industria bellica occidentale, che in questi anni di guerra ha fatturato centinaia di miliardi in forniture e contratti, e la NATO stessa, che ha ritrovato una ragion d'essere che il crollo dell'URSS aveva messo in discussione. Ciò che il racconto dominante tace è che la stessa sessione ONU ospita Trump che minaccia Cuba e l'Iran, mentre a Washington il vertice tra i 'due grandi' — Trump e Xi — si svolge in parallelo e decide davvero i confini del mondo: non nel palazzo di vetro, ma in una sala privata.",
+          "editoriale": false,
+          "redattore": "Il Corrispondente Estero 1.0"
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Italia torna al nucleare: il Senato approva la legge delega Pichetto con 81 voti",
+          "slug": "italia-nucleare-legge-delega-senato-approvazione",
+          "tag": [
+            "nucleare",
+            "energia",
+            "senato",
+            "governo-meloni"
+          ],
+          "evidenza": true,
+          "fonte": "Il Post / ANSA / Euronews",
+          "cerca_url": "https://www.google.com/search?q=senato+approva+legge+delega+nucleare+Italia+2026",
+          "post_x": "Il Senato vota il ritorno al nucleare. Gli italiani avevano già detto no due volte: 1987 e 2011. Ma stavolta la democrazia ha fretta. E i contractor degli SMR già brindano. #Nucleare #Italia",
+          "post_sito": "Dopo due referendum — 1987 e 2011 — in cui gli italiani avevano detto no all'atomo, il Senato approva con 81 voti la legge delega che riapre la porta al nucleare, limitandola però agli SMR (Small Modular Reactors), una tecnologia ancora in fase di sviluppo senza impianti commerciali operativi al mondo. Il mandante invisibile di questa accelerazione non è solo Pichetto Fratin: dietro ci sono i grandi gruppi industriali europei (EDF, Rolls-Royce, Newcleo — quest'ultima con forti radici italiane) che da anni fanno lobbying sugli SMR e vedono nell'Italia un mercato vergine. Ciò che la narrazione trionfale tace: il governo avrà un anno per scrivere i decreti attuativi, le prime centrali sono stimate non prima del 2033-34, e nessuno ha ancora deciso dove collocare il deposito dei rifiuti radioattivi — questione che puntualmente si arena su NIMBY locali. Nel frattempo, l'Italia continua a importare elettricità nucleare dalla Francia pagando il prezzo di chi non la produce. La vera domanda è: quanto varrà l'appalto del secolo per costruire reattori che ancora non esistono?",
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La versione del governo",
+              "testo": "Il governo Meloni presenta la legge delega come una risposta strutturale alla crisi energetica e all'obiettivo di decarbonizzazione al 2050. Il ministro Pichetto Fratin sottolinea che l'Italia oggi importa elettricità nucleare dai paesi vicini senza poterla produrre, e che gli SMR rappresentano la tecnologia di nuova generazione su cui puntano anche Francia, Gran Bretagna e Polonia. I decreti attuativi, promessi entro fine 2026, definiranno le regole su sicurezza, autorizzazioni, gestione dei rifiuti e rapporto con i territori."
+            },
+            {
+              "etichetta": "Le critiche dell'opposizione",
+              "testo": "PD, M5S e AVS hanno votato contro, contestando sia il metodo — una legge delega che lascia al governo ampia discrezionalità attuativa — sia il merito. I critici sottolineano che gli SMR non hanno ancora impianti commerciali operativi al mondo, che i tempi stimati (2033-34) sono ottimistici e che la questione del deposito dei rifiuti radioattivi non è affrontata concretamente. Alcuni osservatori segnalano anche il rischio che la legge delega aggirata il confronto parlamentare sui dettagli più sensibili."
+            },
+            {
+              "etichetta": "Il nodo tecnico-industriale",
+              "testo": "La legge esclude esplicitamente le grandi centrali tradizionali e punta sugli SMR, reattori modulari di piccola e media taglia. Questa tecnologia è in fase di sviluppo avanzato in diversi paesi, ma nessun impianto commerciale è ancora in funzione. Aziende come Newcleo (con azionariato in parte italiano), Rolls-Royce SMR e NuScale sono tra i soggetti industriali potenzialmente interessati. La costruzione del quadro normativo italiano, attesa entro il 2027, sarà determinante per attrarre o scoraggiare investimenti nel settore."
+            },
+            {
+              "etichetta": "Il precedente referendario",
+              "testo": "L'Italia ha già espresso due volte in referendum la propria contrarietà al nucleare: nel 1987, dopo Chernobyl, e nel 2011, dopo Fukushima. La legge delega approvata non abroga il divieto referendario direttamente, ma costruisce un quadro normativo nuovo che lo aggira sul piano giuridico. Alcuni costituzionalisti ritengono che un nuovo referendum potrebbe essere necessario o comunque possibile; il governo respinge questa interpretazione, sostenendo che si tratta di una tecnologia diversa da quella bocciata in passato."
+            }
+          ],
+          "implicazioni": "Nei prossimi 12 mesi il governo dovrà scrivere i decreti attuativi che definiranno concretamente le regole del settore: siti, sicurezza, gestione delle scorie, organi di controllo. Questa fase sarà il vero banco di prova della legge, perché è lì che si deciderà chi costruisce, dove, con quali garanzie e a quali condizioni economiche. Nel frattempo resta aperta la possibilità di un referendum abrogativo, che potrebbe rimettere in discussione l'intera operazione se raccolte le firme necessarie.",
+          "redattore": "Il Bastian Contrario 1.0"
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Petrolio oltre 100 dollari, borse in rosso: l'ONU scalda i mercati energetici",
+          "slug": "petrolio-100-dollari-borse-rosso-tensioni-onu-2026",
+          "tag": [
+            "petrolio",
+            "mercati",
+            "energia",
+            "geopolitica"
+          ],
+          "evidenza": false,
+          "fonte": "Il Sole 24 Ore / Internazionale",
+          "cerca_url": "https://www.google.com/search?q=petrolio+100+dollari+borse+settembre+2026+tensioni+ONU",
+          "post_x": "Petrolio sopra 100$, borse in rosso. Le crisi internazionali fanno male a tutti — tranne alle compagnie energetiche, che registrano utili record. Beneficio taciuto del giorno. #Petrolio #Energia #Mercati",
+          "post_sito": "Le tensioni internazionali all'Assemblea ONU — dal fronte ucraino alle minacce all'Iran — hanno riportato il prezzo del greggio sopra la soglia dei 100 dollari al barile, gelando le borse europee. Milano ha limitato i danni (-0,2%) grazie al traino di ENI, che come ogni volta che il petrolio sale vede il proprio titolo apprezzarsi mentre i cittadini pagano di più alle pompe. Il beneficio taciuto è cristallino: le grandi compagnie energetiche — ENI, TotalEnergies, Shell, BP — registrano utili record ogni volta che la geopolitica si infiamma, indipendentemente da quale parte 'vinca'. Sul fronte macroeconomico, l'OCSE ha rivisto al rialzo le stime del PIL italiano per il 2026, ma avverte che le risorse si stanno esaurendo e che nel 2027 l'Italia tornerà in coda alle economie dell'Eurozona con un +0,6% previsto. Nel frattempo il governo è alle prese con gli ultimi 24 miliardi del PNRR da spendere entro scadenza, concentrati su imprese, energia e università — e con un deficit ancora sopra la soglia europea che rende la manovra autunnale un esercizio di equilibrismo.",
+          "editoriale": false,
+          "redattore": "L'Analista 1.0"
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Ciclismo, l'Italia conquista l'oro mondiale nella staffetta mista a Montreal: primo titolo iridato nella specialità",
+          "slug": "ciclismo-mondiali-montreal-italia-oro-staffetta-mista",
+          "tag": [
+            "ciclismo",
+            "mondiali",
+            "montreal",
+            "staffetta-mista"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Sky Sport / Il Fatto Quotidiano",
+          "cerca_url": "https://www.google.com/search?q=mondiali+ciclismo+Montreal+2026+Italia+oro+staffetta+mista",
+          "post_x": "Italia oro mondiale nella staffetta mista a cronometro a Montreal. Ganna, Longo Borghini e compagni: primo titolo iridato di sempre nella specialità. Bellissimo, punto. 🥇🚴 #Ciclismo #Mondiali2026",
+          "post_sito": "A Montreal l'Italia ha vinto per la prima volta nella storia il titolo mondiale nella staffetta mista a cronometro, specialità nata nel 2019 e finora sempre sfuggita agli azzurri nonostante due bronzi, un argento e due titoli europei. Il sestetto composto da Filippo Ganna, Mattia Cattaneo e Matteo Sobrero per la frazione maschile, e Elisa Longo Borghini, Vittoria Guazzini e Monica Trinca Colonel per quella femminile, ha completato i 40,6 km in 51'32'', precedendo Francia e Svizzera rispettivamente di 8 e 19 secondi. È la terza medaglia italiana ai Mondiali canadesi, dopo gli argenti di Ganna nella crono individuale élite e di Nicolas Milesi nella crono Under 23. Una vittoria collettiva, costruita sul lavoro di un gruppo che ha saputo compensare con la coesione ciò che il ciclismo italiano ancora fatica a esprimere nelle prove in linea. Mentre l'Italvolley esce ai quarti degli Europei eliminata dalla Finlandia, il ciclismo regala alla giornata sportiva italiana il sorriso più largo.",
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0"
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Andrea Moretti, 22 anni, muore al Colosseo: caduta da 10 metri durante lavori notturni in appalto",
+          "slug": "andrea-moretti-morto-colosseo-lavori-appalto",
+          "tag": [
+            "lavoro",
+            "sicurezza",
+            "colosseo",
+            "appalti-pubblici"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Il Sole 24 Ore / Fanpage",
+          "cerca_url": "https://www.google.com/search?q=operaio+morto+Colosseo+Andrea+Moretti+settembre+2026",
+          "post_x": "Andrea Moretti, 22 anni, muore cadendo dal Colosseo durante lavori notturni. Imbracatura non agganciata. Appalto pubblico. Organico di vigilanza 'esiguo'. Le solite risposte, la solita morte. #Lavoro #Colosseo",
+          "post_sito": "Andrea Moretti aveva 22 anni e lavorava come rocciatore specializzato in fune in quota. È morto intorno a mezzanotte al Colosseo, cadendo da circa 10 metri mentre installava un nuovo impianto di illuminazione dell'Anfiteatro Flavio. L'imbracatura era indossata, ma non agganciata ad alcuna fune di sicurezza. La Procura di Roma ha aperto un fascicolo per omicidio colposo e acquisito i documenti relativi all'appalto: i lavori erano in programma per essere completati entro il 9 ottobre, data di inaugurazione del nuovo impianto. La causa strutturale rimossa da quasi ogni titolo di giornale è questa: lavori così delicati in un monumento pubblico tra i più visitati al mondo venivano svolti di notte, con un numero esiguo di dipendenti del ministero a fare da supervisori — carenza di organico denunciata dai sindacati da tempo. La CGIL ha chiesto la chiusura totale del monumento ('l'umanità viene prima dei turisti') e si è costituita parte civile. Il meccanismo degli appalti al ribasso in contesti di alta specializzazione e pressione sulle tempistiche rimane il vero nodo irrisolto: non è la prima morte in un cantiere pubblico di pregio, e senza una riforma strutturale della vigilanza non sarà l'ultima.",
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0"
+        }
+      ]
+    },
+    {
       "data": "2026-09-23",
       "post": [
         {
@@ -2521,637 +3319,7 @@
           "redattore": "L'Osservatore 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-08-25",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Trump minaccia dazi al 50% sulle auto canadesi: guerra commerciale senza freni",
-          "slug": "trump-dazi-50-auto-canada-guerra-commerciale",
-          "tag": [
-            "dazi",
-            "usa-canada",
-            "guerra-commerciale",
-            "industria-auto"
-          ],
-          "evidenza": true,
-          "fonte": "CNBC / NBC News / CNN",
-          "cerca_url": "https://www.google.com/search?q=Trump+dazi+50%25+auto+Canada+guerra+commerciale+agosto+2026",
-          "post_x": "Trump minaccia il 50% di dazi sulle auto canadesi dal 2027. Detroit applaude. Peccato che le auto canadesi siano piene di componenti americani e mezzo milione di operai USA lavorino proprio per quelle filiere. Ma i tweet non hanno sezione Note a piè di pagina.",
-          "post_sito": "Trump ha annunciato dazi al 50% su auto, camion e componenti importati dal Canada a partire dal 1° gennaio 2027, dopo il fallimento dei negoziati bilaterali. Il copione è noto: villain di comodo (Ottawa), folla che applaude, industria che trema in silenzio. Chi ci guadagna davvero? L'industria della difesa commerciale americana — avvocati, lobbisti, consulenti di trade policy — prospera ad ogni nuovo fronte aperto. Chi paga sono anche i consumatori e i lavoratori USA: le auto assemblate in Canada dipendono da componenti prodotti da oltre mezzo milione di operai americani, e i dazi su quei pezzi si ripercuotono sulle catene di montaggio di Detroit quanto su quelle di Windsor. Il contesto rimosso dal coro mediatico: questa guerra commerciale è cominciata nel febbraio 2025, con dazi al 25% sui prodotti canadesi; da allora i prezzi per i consumatori americani sono saliti, e il Canada ha risposto con contromisure per 155 miliardi di dollari. Ogni nuova escalation serve anche a distrarre dall'inflazione interna che quelle stesse tariffe hanno contribuito ad alimentare. Il mandante invisibile non è Trump: è il blocco di interessi — acciaio, alluminio, automotive lobbies — che da decenni chiede protezione tariffaria e oggi trova un megafono disponibile alla Casa Bianca.",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Accise sul gasolio: sconto da 17 centesimi scade oggi, governo già al prossimo rattoppo",
-          "slug": "accise-gasolio-scadenza-25-agosto-governo-meloni",
-          "tag": [
-            "carburanti",
-            "accise",
-            "governo-meloni",
-            "petrolio"
-          ],
-          "evidenza": false,
-          "fonte": "Sky TG24 / Fanpage / Quifinanza",
-          "cerca_url": "https://www.google.com/search?q=accise+gasolio+scadenza+25+agosto+2026+governo+Meloni",
-          "post_x": "Oggi scade lo sconto di 17 cent/litro sul diesel. Il governo lo ha prorogato tre volte in tre settimane, per un totale di circa 245 milioni di euro. Curiosità: quei soldi vengono dall'extragettito IVA sui carburanti. Cioè: lo Stato tassa di più, poi si vanta di tassare di meno.",
-          "post_sito": "Oggi, 25 agosto, scade formalmente il taglio delle accise sul gasolio da 17 centesimi al litro, prorogato più volte dal governo Meloni per coprire almeno l'esodo estivo — con un costo complessivo quantificato dal ministro Giorgetti in circa 245 milioni di euro. Il meccanismo scelto è le cosiddette 'accise mobili': la riduzione della tassa sui carburanti viene finanziata con l'aumento dell'IVA sugli stessi carburanti — in altri termini, lo Stato incassa di più perché i prezzi salgono, poi usa quell'extragettito per abbassare leggermente la tassa e annunciarlo come beneficio agli automobilisti. Beneficio taciuto: le compagnie petrolifere, con i prezzi già attestati oltre 2 euro al litro sulla rete ordinaria e sopra 2,20 in autostrada, non hanno restituito nulla dello sconto alla pompa — l'aumento delle quotazioni internazionali, alimentato anche dalla crisi Iran-USA, ha assorbito quasi per intero il taglio fiscale. Chi ci guadagna economicamente? Le compagnie petrolifere, che incassano margini più ampi mentre il governo si intestava il merito dello sconto. Il mandante invisibile della politica dei carburanti italiana ha sempre avuto il logo di ENI e della raffinazione, un settore che storicamente sa come trasformare ogni crisi in profitto.",
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Agosto da un miliardo in più: italiani dissanguati alla pompa mentre il governo festeggia i rattoppi",
-          "slug": "caro-carburante-agosto-2026-miliardo-rincari",
-          "tag": [
-            "carburanti",
-            "rincari",
-            "compagnie-petrolifere",
-            "inflazione"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Today.it / Facile.it",
-          "cerca_url": "https://www.google.com/search?q=italiani+spendono+miliardo+piu+carburante+agosto+2026",
-          "post_x": "Ad agosto 2026 gli italiani spenderanno oltre 1 miliardo in più di carburante rispetto allo scorso anno, rincari fino al 41%. Il governo ha stanziato 245 milioni per lo sconto. Matematica brutale, annuncio trionfante.",
-          "post_sito": "Secondo i dati di Facile.it, ad agosto 2026 gli italiani spenderanno oltre un miliardo di euro in più rispetto allo stesso mese del 2025 per benzina e diesel, con rincari che in alcuni casi raggiungono il 41%. Il governo ha risposto con proroghe ripetute di uno sconto da 17 centesimi al litro sul solo gasolio — 245 milioni di euro totali — mentre la benzina, già sopra i 2 euro al litro sulla rete ordinaria, non ha beneficiato di alcuna misura. La cifra spiega da sola il meccanismo: 245 milioni contro oltre un miliardo di extra-spesa delle famiglie. Eufemismo di potere: il governo chiama questa operazione 'contrasto al caro carburanti'. Beneficio taciuto: le compagnie petrolifere e le raffinerie, che operano su margini amplificati da prezzi alti e domanda anelastica durante il periodo estivo, non compaiono mai nel dibattito pubblico come destinatarie di un extra-profitto strutturale. La proposta di una tassa sugli extraprofitti a livello europeo, sostenuta da sei Paesi tra cui l'Italia, resta bloccata — e non è casuale che nessun grande media abbia dedicato la copertina a chi siano gli azionisti delle principali compagnie energetiche quotate in Borsa.",
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Giochi del Mediterraneo Taranto 2026: l'Italia domina nel nuoto con 35 medaglie, ma Taranto resta città avvelenata",
-          "slug": "giochi-mediterraneo-taranto-2026-italia-nuoto-medaglie",
-          "tag": [
-            "giochi-del-mediterraneo",
-            "taranto",
-            "nuoto",
-            "sport-multidisciplinare"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / CONI / OA Sport",
-          "cerca_url": "https://www.google.com/search?q=Giochi+del+Mediterraneo+Taranto+2026+Italia+risultati+nuoto+medaglie",
-          "post_x": "L'Italia domina ai Giochi del Mediterraneo di Taranto: 35 medaglie nel solo nuoto in tre giornate, ori in ciclismo, scherma, tiro a volo. L'Italnuoto esiste, si vince, e non serve il calcio per saperlo. Prendiamo nota.",
-          "post_sito": "Taranto 2026 sta regalando all'Italia risultati di rilievo in discipline che la macchina mediatica sportiva ignora per undici mesi l'anno: dopo tre giornate di nuoto, gli azzurri contano già 35 medaglie nel solo nuoto (13 ori, 16 argenti, 6 bronzi), a cui si aggiungono ori nel ciclismo su strada — con Tommaso Dati e una tripletta femminile firmata da Barbieri, Fidanza e Guarischi — oltre a ori nella scherma, nel tiro a volo e nella canoa. La delegazione azzurra è la più numerosa tra tutte le 26 nazioni partecipanti, con 497 atleti. Il conto dietro la medaglia: Taranto è una delle città più inquinate d'Europa, con l'ILVA — oggi Acciaierie d'Italia — che per decenni ha avvelenato suolo, aria e mare. Ospitare i Giochi del Mediterraneo è anche un'operazione di rebranding territoriale e istituzionale, utile a spostare l'attenzione da una crisi ambientale e industriale irrisolta. Vale la pena festeggiare gli ori degli atleti — e lo facciamo — senza dimenticare che la stessa città che oggi tifa nuoto convive da anni con tassi di patologie oncologiche superiori alla media nazionale, e che i fondi per la bonifica procedono a rilento.",
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Sadam Houssain trovato morto nel bagagliaio a Borgo Mezzanone: un bracciante, un ghetto, un sistema",
-          "slug": "sadam-houssain-morto-bagagliaio-borgo-mezzanone-foggia",
-          "tag": [
-            "caporalato",
-            "foggia",
-            "braccianti-migranti",
-            "omicidio"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Il Post / Il Fatto Quotidiano",
-          "cerca_url": "https://www.google.com/search?q=Sadam+Houssain+bracciante+morto+bagagliaio+Borgo+Mezzanone+Foggia+2026",
-          "post_x": "Sadam Houssain, 32 anni, pakistano, bracciante a Borgo Mezzanone: trovato nel bagagliaio della sua auto, probabilmente ucciso il giorno stesso della scomparsa, il 4 agosto. Il ghetto dove viveva ospita ogni estate 5.000 persone. Nessun titolo di apertura.",
-          "post_sito": "Il cadavere di Sadam Houssain, bracciante pakistano di 32 anni, è stato trovato nel bagagliaio della sua auto a pochi chilometri dal ghetto di Borgo Mezzanone, nel Foggiano, dove ogni estate circa 5.000 braccianti vivono in baracche in condizioni definite 'infernali', per raccogliere pomodori destinati alle tavole di tutta Europa. Sadam era scomparso il 4 agosto; il corpo, in avanzato stato di decomposizione, è stato ritrovato il 22 agosto. Si indaga per omicidio. Il sindaco di Manfredonia ha ricordato che l'uomo era ancora indebitato per il viaggio che lo aveva portato in Italia — un dettaglio che racconta l'intero sistema: persone che arrivano già in debito, costrette ad accettare qualsiasi condizione per ripagarlo. La causa strutturale rimossa: la notizia viene trattata come caso di cronaca nera, mentre il sistema del caporalato nel Foggiano è documentato da decenni, con filiere agroindustriali che beneficiano di manodopera a costo zero e senza tutele. Le aziende che acquistano quei pomodori — e i consumatori che comprano quei prodotti — sono parte di una catena economica che questa morte rende visibile per un giorno, prima di tornare invisibile. L'autopsia stabilirà le cause della morte; le indagini sono in corso e nessun responsabile è stato identificato.",
-          "redattore": "L'Osservatore 1.0"
-        }
-      ]
-    },
-    {
-      "data": "2026-08-24",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Guerra dei dazi USA-Canada: Trump alza i muri, l'industria bellica ringrazia",
-          "slug": "guerra-dazi-usa-canada-trump-agosto-2026",
-          "tag": [
-            "dazi",
-            "usa-canada",
-            "trump",
-            "commercio-internazionale"
-          ],
-          "evidenza": true,
-          "fonte": "Il Sole 24 Ore / ANSA",
-          "cerca_url": "https://www.google.com/search?q=dazi+USA+Canada+50+percento+agosto+2026+guerra+commerciale",
-          "post_x": "USA-Canada: dazi al 50% su 20 miliardi di merci, formaggi e mazze da hockey in prima linea. Pechino applaude. Qualcuno, da qualche parte, sta già contando i profitti. #dazi #Trump #Canada",
-          "post_sito": "Il negoziato commerciale tra Washington e Ottawa è saltato nella notte di venerdì, e da lunedì 24 agosto i dazi americani al 50% colpiscono circa 20 miliardi di dollari di beni canadesi: acciaio, alluminio, latticini, alcolici, mobili e — dettaglio da antologia — perfino le mazze da hockey. Il Canada ha risposto annunciando ritorsioni speculari dall'8 settembre, 'dollaro per dollaro', secondo le parole del premier Mark Carney. Il coro mediatico racconta una storia di orgoglio nazionale contrapposto al bullismo di Trump; nessuno nomina chi ci guadagna davvero: la siderurgia americana protetta dalla concorrenza, i contractor della difesa ai quali sfuggono persino i componenti dei caccia F-35 prodotti in Canada, e la stampa nazionalista cinese che esulta presentando il caos nordamericano come conferma delle proprie tesi anti-protezioniste. Beneficio taciuto: ogni guerra commerciale produce vincitori silenziosi, e stavolta sono i produttori americani di acciaio e alluminio — già destinatari di protezioni tariffarie dal primo mandato Trump — che vedono la concorrenza canadese decimata senza dover versare un centesimo in lobbying visibile.",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Caso Report: FdI vuole rimuovere Ranucci e la battaglia arriva a Bruxelles",
-          "slug": "caso-ranucci-report-fdi-rimozione-bruxelles-2026",
-          "tag": [
-            "rai",
-            "report",
-            "ranucci",
-            "fratelli-ditalia"
-          ],
-          "evidenza": false,
-          "fonte": "Il Fatto Quotidiano / Open",
-          "cerca_url": "https://www.google.com/search?q=Ranucci+Report+FdI+rimozione+Rai+agosto+2026",
-          "post_x": "FdI vuole togliere Ranucci da Report e scrive pure alla Commissione Ue per spiegare che non è censura, è «faziosità». La libertà di stampa è sacra — tranne quando indaga su di noi. #Report #Rai #FdI",
-          "post_sito": "La rimozione di Sigfrido Ranucci dalla conduzione di Report sembra ormai cosa fatta: secondo Il Fatto Quotidiano, Fratelli d'Italia avrebbe già individuato il successore nel volto di 'Mi manda Rai Tre', Federico Ruffo. La vicenda si è nel frattempo complicata con denunce incrociate, un'interrogazione parlamentare sui costi del programma — lievitati, secondo FdI, da 2,2 a 2,9 milioni in tre stagioni — e, ciliegina sulla torta, una lettera alla Commissione europea firmata dall'intera delegazione FdI per spiegare che non si tratta di attacco alla libertà di stampa bensì di correzione alla 'faziosità' di Ranucci. Il mandante invisibile di questa operazione non è difficile da individuare: un programma di inchiesta che per vent'anni ha indagato corruzione, malaffare e connivenze politiche è un fastidio istituzionale che prescinde dal singolo governo — e la sequenza di accuse (costi, comportamenti personali, presunte interferenze nelle indagini sull'attentato a Ranucci stesso) ha tutti i tratti di una campagna a geometria variabile, dove ogni settimana emerge un nuovo fronte. Doppio standard: ci si chiede se la stessa Commissione di Vigilanza Rai avrebbe convocato audizioni e interrogazioni parlamentari nel caso in cui un programma di inchiesta avesse puntato i riflettori su politici dell'opposizione.",
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "MPS lancia doppia OPS da 34 miliardi su Banco BPM e Banca Generali: risiko bancario all'italiana",
-          "slug": "mps-ops-banco-bpm-banca-generali-34-miliardi-2026",
-          "tag": [
-            "mps",
-            "banche",
-            "risiko-bancario",
-            "finanza"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Forbes Italia",
-          "cerca_url": "https://www.google.com/search?q=MPS+OPS+Banco+BPM+Banca+Generali+34+miliardi+agosto+2026",
-          "post_x": "MPS — la banca salvata con 5 miliardi di soldi pubblici — lancia due OPS da 34 miliardi su BPM e Banca Generali. Quattro consiglieri indipendenti su cinque si astengono. Nessuno ha detto «aspetta». #MPS #banche #risiko",
-          "post_sito": "Monte dei Paschi di Siena — istituto che ha assorbito oltre cinque miliardi di denaro pubblico nei salvataggi degli ultimi dieci anni — ha approvato il lancio di due offerte pubbliche di scambio da complessivi 34 miliardi di euro: 25,3 miliardi su Banco BPM e 8,7 miliardi su Banca Generali, con l'obiettivo dichiarato di creare un gruppo con total financial assets da 810 miliardi, terzo polo bancario italiano. La riunione del consiglio di amministrazione è durata sette ore e si è chiusa con quattro astensioni su cinque consiglieri indipendenti, che hanno lamentato di non aver avuto tempo sufficiente per valutare rischi ed effetti dell'operazione. L'eufemismo di potere è già in campo: l'AD Lovaglio definisce la mossa 'non ostile' e 'industrialmente coerente', mentre l'operazione nasce dichiaratamente come risposta all'OPA lanciata da Intesa Sanpaolo su Rocca Salimbeni a giugno. Chi ci guadagna concretamente: advisor finanziari UBS Europe e BofA Securities, che assistono MPS nell'operazione, e gli azionisti dell'istituto senese ai quali è stato deliberato un dividendo straordinario da 4 miliardi. Chi rischia in silenzio: i correntisti delle tre banche, davanti a un'integrazione da 2,5 miliardi di 'oneri una tantum' previsti tra il 2027 e il 2029.",
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Italia domina ai Giochi del Mediterraneo di Taranto: 35 medaglie, il nuoto fa il vuoto",
-          "slug": "giochi-mediterraneo-taranto-2026-italia-medagliere-nuoto",
-          "tag": [
-            "giochi-del-mediterraneo",
-            "taranto",
-            "nuoto",
-            "azzurri"
-          ],
-          "evidenza": false,
-          "fonte": "AGI / Il Sole 24 Ore",
-          "cerca_url": "https://www.google.com/search?q=Giochi+Mediterraneo+Taranto+2026+Italia+medagliere+nuoto",
-          "post_x": "Italia prima nel medagliere dei Giochi del Mediterraneo con 35 medaglie. Il nuoto fa il vuoto, Benedetta Pilato vince a casa sua a Taranto. Su Rai Sport HD e RaiPlay, gratis, se qualcuno lo sapeva. #TarantO2026 #Nuoto",
-          "post_sito": "Alla ventesima edizione dei Giochi del Mediterraneo, in corso a Taranto dal 21 agosto al 3 settembre, l'Italia guida il medagliere con 35 podi dopo appena due giorni di gare — 13 ori, 16 argenti e 6 bronzi — con un distacco già consistente sulla Turchia, seconda con 19 medaglie. Il nuoto ha fatto la parte del leone: sei ori nella seconda giornata, firmati tra gli altri da Costanza Cocconcelli, Alberto Razzetti, Jacopo Barbotti, Lisa Angiolini, Luca De Tullio e la staffetta 4x100 misti. Simbolo della kermesse è Benedetta Pilato, ventunenne tarantina che ha vinto i 100 rana davanti al pubblico di casa, migliorando il record dei Giochi. Le gare sono trasmesse in diretta gratuita su Rai Sport HD e RaiPlay — dato da segnalare, visto che troppo spesso si dà per scontato che lo sport 'minore' sia invisibile o nascosto dietro un paywall. Il conto dietro la medaglia vale la pena di nominarlo: Taranto, città ospitante, convive da decenni con la crisi ambientale dell'ex Ilva, e l'immagine di una città sorridente e vincente che il medagliere proietta verso l'esterno è anche, inevitabilmente, una narrazione che fa comodo a chi preferisce non parlare di bonifica e futuro industriale.",
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Dieci anni dal terremoto di Amatrice: 239 rintocchi, Meloni alla cerimonia, la ricostruzione ancora incompiuta",
-          "slug": "amatrice-dieci-anni-terremoto-commemorazione-meloni-2026",
-          "tag": [
-            "amatrice",
-            "terremoto",
-            "ricostruzione",
-            "anniversario"
-          ],
-          "evidenza": false,
-          "fonte": "TGCom24 / LaPresse",
-          "cerca_url": "https://www.google.com/search?q=Amatrice+dieci+anni+terremoto+24+agosto+2026+commemorazione+Meloni",
-          "post_x": "10 anni dal terremoto di Amatrice. 299 morti, 4 miliardi di danni, 41mila sfollati. Oggi 239 rintocchi di campana e la premier in prima fila. La ricostruzione? «Accelera». Come sempre, dal 2016 in poi. #Amatrice #24agosto",
-          "post_sito": "Alle 3.36 del 24 agosto 2016, una scossa di magnitudo 6.0 rase al suolo Amatrice, Accumoli e Arquata del Tronto: 299 morti, 388 feriti, oltre 41mila sfollati e quattro miliardi di euro di danni accertati. Dieci anni dopo, Amatrice ha commemorato le vittime con 239 rintocchi di campana — uno per ciascuno dei suoi morti — e una fiaccolata silenziosa alle 3.36. Nel pomeriggio è arrivata la presidente del Consiglio Giorgia Meloni, che ha parlato di 'decisa accelerazione nella ricostruzione' e di un '98% delle opere sbloccato e avviato', dati confermati dal commissario Castelli con 4,3 miliardi stanziati. La causa strutturale rimossa dal racconto ufficiale è quella che si ripete ad ogni anniversario sismico italiano: l'Italia è uno dei paesi europei a più alto rischio sismico, eppure la prevenzione e la messa in sicurezza del patrimonio edilizio restano sistematicamente ai margini delle priorità di bilancio, mentre la macchina dell'emergenza — più visibile, più celebrabile — continua ad assorbire risorse e attenzione politica. Chi ci guadagna dalla commemorazione? Nessuno, nel senso stretto del termine — ma vale la pena chiedersi perché ogni anniversario produce annunci di accelerazione che assomigliano ai precedenti.",
-          "redattore": "L'Osservatore 1.0"
-        }
-      ]
-    },
-    {
-      "data": "2026-08-23",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Trump rivendica lo Stretto di Hormuz: «Nuovo territorio americano»",
-          "slug": "trump-rivendica-stretto-hormuz-nuovo-territorio-americano",
-          "tag": [
-            "iran",
-            "usa",
-            "hormuz",
-            "petrolio"
-          ],
-          "evidenza": true,
-          "fonte": "ANSA / Il Sole 24 Ore",
-          "cerca_url": "https://www.google.com/search?q=Trump+Stretto+Hormuz+nuovo+territorio+americano+agosto+2026",
-          "post_x": "Trump posta una mappa e scrive «Nuovo territorio USA» sullo Stretto di Hormuz. Nel Golfo passano circa il 20% del petrolio mondiale. Chi ci guadagna? Chiedetelo alle major petrolifere. #Hormuz #Iran #Trump",
-          "post_sito": "Donald Trump ha pubblicato su Truth una mappa dello Stretto di Hormuz con la scritta «New US Territory», rivendicando il controllo americano su uno dei principali snodi energetici del pianeta — quello attraverso cui transita circa un quinto del petrolio mondiale. Teheran ha risposto che l'«illusione» di Trump «sarà presto corretta». Il meccanismo è trasparente come un bilancio di Exxon: beneficio taciuto. Mentre i media discutono di provocazioni e di diritto internazionale, le major petrolifere registrano extraprofitti stimati fino a 67 miliardi di euro a livello UE entro fine 2026 dalla crisi iraniana — di cui quasi 9 miliardi legati ai soli consumi italiani, secondo Transport & Environment. Il contesto rimosso è che lo stesso Trump aveva firmato a giugno un memorandum d'intesa con Teheran che prevedeva la riapertura dello Stretto: scaduto senza esito dopo 60 giorni, il conflitto — e la rendita petrolifera — continuano indisturbati. Chi controlla Hormuz controlla il prezzo alla pompa. E chi controlla il prezzo alla pompa, in questo momento, ringrazia.",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Papa Leone XIV al Meeting di CL: «Smascherare i poteri ingiusti»",
-          "slug": "papa-leone-xiv-meeting-rimini-comunione-liberazione-2026",
-          "tag": [
-            "papa",
-            "meeting rimini",
-            "comunione e liberazione",
-            "chiesa"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Sky TG24",
-          "cerca_url": "https://www.google.com/search?q=Papa+Leone+XIV+Meeting+Rimini+2026+discorso",
-          "post_x": "Papa Leone XIV al Meeting di CL: «Smascherare i poteri ingiusti». Sessantamila persone in delirio. Chi sono i poteri ingiusti? Il Papa non ha fatto nomi. Peccato. #Meeting2026 #LeoneXIV",
-          "post_sito": "Papa Leone XIV ha attraversato quasi un chilometro a piedi in mezzo a sessantamila persone alla Fiera di Rimini, ospite d'onore del Meeting di Comunione e Liberazione — la prima visita pontificia alla kermesse dopo quella di Giovanni Paolo II, 44 anni fa. Dal palco ha invitato a «smascherare i poteri ingiusti» e ha chiesto di mettere «le persone prima dei confini». Nobile il messaggio. Meno nobile, forse, il contesto: il Meeting di CL è da decenni uno dei principali appuntamenti di posizionamento politico della destra italiana e cattolica — un luogo dove ministri, imprenditori e prelati stringono mani che contano. La domanda che il racconto celebrativo rimuove è semplice: i «poteri ingiusti» da smascherare includono anche quelli che siedono in prima fila ad applaudire? Il mandante invisibile di questa visita non è la fede — è la politica dei rapporti, e CL lo sa fare meglio di chiunque.",
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Italia e 5 Paesi UE chiedono tassa sugli extraprofitti petroliferi",
-          "slug": "italia-ue-tassa-extraprofitti-petroliferi-caro-benzina-2026",
-          "tag": [
-            "carburanti",
-            "extraprofitti",
-            "petrolio",
-            "unione europea"
-          ],
-          "evidenza": false,
-          "fonte": "Il Fatto Quotidiano / Sky TG24",
-          "cerca_url": "https://www.google.com/search?q=Italia+tassa+extraprofitti+petroliferi+UE+2026",
-          "post_x": "L'Italia chiede all'UE di tassare gli extraprofitti dei petrolieri. Le stesse compagnie che in Italia incassano 46 centesimi extra su ogni litro di gasolio. Nel frattempo il taglio delle accise — pagato dai contribuenti — è costato già quasi 2 miliardi. #Benzina #Extraprofitti",
-          "post_sito": "I ministri dell'Economia di Italia, Germania, Portogallo, Spagna, Austria e Polonia hanno inviato una lettera congiunta chiedendo di mettere all'ordine del giorno dell'Ecofin di settembre a Dublino una tassa comunitaria sugli extraprofitti delle compagnie petrolifere. Fin qui, tutto ragionevole. Il dettaglio scomodo è quello che la notizia non dice: secondo Transport & Environment, dall'inizio del conflitto in Iran le compagnie Oil&Gas potrebbero incassare fino a 4 miliardi di euro di extraprofitti solo in Italia nel 2026, con margini extra di 46 centesimi al litro sul gasolio e 24 centesimi sulla benzina. Beneficio taciuto: nel frattempo il governo Meloni ha già speso quasi 2 miliardi di risorse pubbliche in proroghe del taglio delle accise — cioè ha sussidiato il caro-benzina con soldi dei contribuenti invece di tassare chi ci guadagna. La proposta europea è un eufemismo di potere: presentare come iniziativa coraggiosa ciò che è semplicemente il minimo sindacale, mentre i profitti scorrono indisturbati verso i bilanci delle major. Un precedente esiste già: l'UE lo fece nel 2022 durante la crisi energetica da guerra in Ucraina. Quattro anni dopo, lo stesso film — stessa musica, stesso finale.",
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Europei volley femminile: Italia-Svezia, primo snodo della rassegna",
-          "slug": "europei-volley-femminile-2026-italia-svezia-goteborg",
-          "tag": [
-            "pallavolo",
-            "europei 2026",
-            "italvolley",
-            "egonu"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / OA Sport / FIPAV",
-          "cerca_url": "https://www.google.com/search?q=Europei+volley+femminile+2026+Italia+Svezia+23+agosto",
-          "post_x": "Le azzurre del volley a punteggio pieno agli Europei, oggi sfidano la Svezia di Isabelle Haak a Göteborg. In chiaro su Rai 2 alle 18. Le campionesse del mondo ci sono. Il calcio aspetti il suo turno. #EuroVolley2026 #Italvolley",
-          "post_sito": "Dopo il 3-0 al Montenegro — secondo successo consecutivo con Antropova protagonista assoluta (13 punti e 6 ace), Egonu e Nervini sugli scudi — le azzurre di Julio Velasco tornano in campo oggi a Göteborg (ore 18, diretta su Rai 2, Sky Sport Arena e DAZN) per affrontare la Svezia padrona di casa nel match che potrebbe già definire gli equilibri del Gruppo D. Le campionesse del mondo hanno mostrato solidità, gestione dei rotazioni e la coesistenza ancora da rodare tra Egonu e Antropova nello stesso sestetto — esperimento rischioso ma potenzialmente devastante. Il conto dietro la medaglia che nessuno racconta: l'Italvolley femminile è un progetto costruito in anni di lavoro di club come Conegliano e Scandicci, che formano e trattengono talenti stranieri naturalizzati (Antropova, in primis) con investimenti privati enormi. La gloria nazionale si nutre di un sistema di club tra i più competitivi al mondo, finanziato però quasi esclusivamente da sponsor privati e con scarso sostegno pubblico strutturale. Il pallone rotondo aspetti: oggi a Göteborg si gioca il futuro europeo di chi lo sport lo pratica davvero.",
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Bimba morta di difterite a Palermo, indagati i genitori no-vax",
-          "slug": "bimba-morta-difterite-palermo-genitori-indagati-novax",
-          "tag": [
-            "difterite",
-            "vaccini",
-            "palermo",
-            "sanità"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Il Fatto Quotidiano / Giornale di Sicilia",
-          "cerca_url": "https://www.google.com/search?q=bimba+morta+difterite+Palermo+genitori+indagati+2026",
-          "post_x": "Anna Rosa, 4 anni, morta di difterite a Palermo. Non era vaccinata. Il cugino, vaccinato, è ricoverato ma sta meglio. I media urlano contro i genitori. Il quartiere Zen e le cause strutturali possono aspettare. #Difterite #Vaccini",
-          "post_sito": "Anna Rosa Bartolotta, 4 anni, è morta tra il 19 e il 20 agosto all'Ospedale dei Bambini di Palermo per difterite — malattia per cui esiste un vaccino obbligatorio da anni. I genitori, che non avevano vaccinato nessuno dei cinque figli convinti che i vaccini causassero l'autismo, sono indagati per omicidio colposo per omissione. Il cugino della bambina, quattro anni come lei, è risultato positivo alla stessa malattia ma, essendo vaccinato, presenta una forma lieve ed è in miglioramento. La notizia è tragica e i fatti parlano con brutale chiarezza sul valore della vaccinazione. Tuttavia la causa strutturale rimossa merita di essere nominata: Anna Rosa viveva nel quartiere Zen di Palermo, dove — secondo quanto riferito ai magistrati dalla pediatra — la sfiducia nei vaccini è una credenza diffusa, radicata in condizioni di marginalità, analfabetismo funzionale e assenza cronica di presidi sanitari di prossimità. Indagare i genitori è giusto; ma ogni indignazione a costo zero che si ferma ai genitori senza chiedersi perché nel 2026 esista ancora un quartiere in cui la scienza non riesce ad arrivare è un'indignazione che serve solo a chi la esprime.",
-          "redattore": "L'Osservatore 1.0"
-        }
-      ]
-    },
-    {
-      "data": "2026-08-22",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "USA-Canada: dazi al 50% scattano dopo il fallimento dei negoziati",
-          "slug": "dazi-usa-canada-50-percento-negoziati-falliti",
-          "tag": [
-            "dazi",
-            "usa",
-            "canada",
-            "guerra-commerciale"
-          ],
-          "evidenza": true,
-          "fonte": "ANSA / Focus America",
-          "cerca_url": "https://www.google.com/search?q=dazi+USA+Canada+50+percento+negoziati+falliti+agosto+2026",
-          "post_x": "I dazi al 50% su 20 miliardi di prodotti canadesi sono scattati. Carney li chiama «ingiusti». Trump li chiama «affari». Chi ci guadagna davvero? Indizio: non è chi compra mazze da hockey. #DaziUSACanada",
-          "post_sito": "I negoziati tra Washington e Ottawa sono naufragati nella notte tra venerdì e sabato, e i dazi statunitensi al 50% su circa 20 miliardi di dollari di prodotti canadesi sono entrati in vigore. La cosa interessante — taciuta dal coro mediatico — è che l'Amministrazione Trump ha escluso dalle nuove tariffe energia, potassio e minerali critici: esattamente le voci che interessano alle lobby estrattive americane e alle multinazionali dell'energia che da anni premono per smontare il mercato integrato nordamericano a proprio vantaggio. Il mandante invisibile non è la Casa Bianca: è l'industria americana che vuole rinegoziare l'USMCA a condizioni più favorevoli, usando i dazi come ariete. Mark Carney parla di ritorsioni «dollaro su dollaro», ma il Canada è il secondo partner commerciale degli USA: ogni guerra commerciale tra vicini fa male a entrambi — e arricchisce i mediatori finanziari che scommettono sulla volatilità. Da ricordare: i due Paesi litigano su legname e latticini da decenni, ma erano rimasti alleati stretti — fino a quando convenne smettere di esserlo.",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Caso Roggero: Meloni cavalca la sentenza in vista delle elezioni 2027",
-          "slug": "caso-roggero-meloni-grazia-campagna-elettorale-2027",
-          "tag": [
-            "roggero",
-            "legittima-difesa",
-            "meloni",
-            "elezioni-2027"
-          ],
-          "evidenza": false,
-          "fonte": "Il Fatto Quotidiano / Sfoglia Roma",
-          "cerca_url": "https://www.google.com/search?q=caso+Roggero+Meloni+grazia+campagna+elettorale+2027",
-          "post_x": "Roggero condannato a 14 anni e 9 mesi. Meloni chiede la grazia. Salvini offre la candidatura. Vannacci si inserisce. Il gioielliere non sa ancora se è una vittima o un simbolo elettorale. #CasoRoggero",
-          "post_sito": "Il caso del gioielliere Mario Roggero — condannato in via definitiva a 14 anni e 9 mesi per aver ucciso due rapinatori — è diventato il terreno di scontro più caldo della pre-campagna per le elezioni politiche del 2027. Meloni ha rivendicato di aver dato lei stessa l'indicazione politica al ministro Nordio per avviare l'istruttoria sulla grazia, salvo poi essere richiamata da Mattarella — che ha ricordato a tutti che la grazia è prerogativa presidenziale, non governativa. Il coro compatto della destra-centro difende Roggero cavalcando il tema sicurezza, ma nessuno ricorda che negli ultimi anni lo stesso centrodestra ha sistematicamente tagliato i fondi alle forze dell'ordine di quartiere e ai presidi territoriali che avrebbero potuto prevenire le rapine seriali. Il villaggio di comodo è il gioielliere-simbolo; la causa strutturale rimossa è un sistema giudiziario e di prevenzione che non funziona — e che nessuno propone concretamente di riformare. Nel frattempo Salvini offre la candidatura a Roggero e Vannacci sale nei sondaggi: il dramma di un anziano sotto stress diventa carburante elettorale per tutti, nessuno escluso.",
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Tesoro USA raddoppia i buyback del debito: oro ai massimi da tre mesi, Bitcoin vola",
-          "slug": "tesoro-usa-raddoppia-buyback-debito-oro-bitcoin",
-          "tag": [
-            "debito-usa",
-            "oro",
-            "bitcoin",
-            "buyback"
-          ],
-          "evidenza": false,
-          "fonte": "Il Sole 24 Ore / Milano Finanza",
-          "cerca_url": "https://www.google.com/search?q=Tesoro+USA+raddoppia+buyback+debito+oro+bitcoin+agosto+2026",
-          "post_x": "Il Tesoro USA raddoppia i riacquisti di debito: da 2 a 4 miliardi a operazione. Oro ai massimi, Bitcoin +8%. Traduzione: quando il pompiere appicca il fuoco, chi vende estintori guadagna. #DebitoUSA #Bitcoin",
-          "post_sito": "Il Dipartimento del Tesoro americano guidato da Scott Bessent ha annunciato che raddoppierà l'entità massima delle operazioni di riacquisto del debito pubblico, portandola da 2 a 4 miliardi di dollari per operazione a partire dal 9 settembre. La reazione dei mercati è stata immediata: oro in rialzo di oltre il 3,5%, Bitcoin schizzato sopra i 76.000 dollari. Il beneficio taciuto è quello degli operatori finanziari che gestiscono ETF sull'oro e fondi cripto — tra cui BlackRock, che da mesi posiziona Bitcoin come «asset anti-money printer» — e che incassano commissioni miliardarie su ogni ondata di volatilità. La mossa non risolve il problema strutturale: il debito USA ha ormai superato i 40.000 miliardi di dollari e gli analisti di Swissquote avvertono che comprare debito a lungo termine invece di ridurre la traiettoria fiscale non farà che accelerare la de-dollarizzazione. In sostanza: Washington cura il mal di testa con aspirine prese a credito, e chi vende aspirine brinda.",
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Giochi del Mediterraneo a Taranto: prima giornata di medaglie tra nuoto, scherma e ciclismo",
-          "slug": "giochi-mediterraneo-taranto-2026-prima-giornata-medaglie",
-          "tag": [
-            "giochi-del-mediterraneo",
-            "taranto",
-            "nuoto",
-            "scherma"
-          ],
-          "evidenza": false,
-          "fonte": "OA Sport / Tuttosport",
-          "cerca_url": "https://www.google.com/search?q=Giochi+del+Mediterraneo+Taranto+2026+prima+giornata+medaglie+22+agosto",
-          "post_x": "Prima giornata di gare a Taranto: 17 titoli tra nuoto, scherma, ciclismo e taekwondo. L'Italia c'è. Peccato che la copertura tv sia già frammentata tra Rai Sport, Sportface TV e Italia Team TV. #Taranto2026",
-          "post_sito": "Oggi sabato 22 agosto scatta ufficialmente la corsa alle medaglie dei XX Giochi del Mediterraneo di Taranto 2026, con 17 titoli in palio nella prima giornata tra nuoto (9 ori), taekwondo (4), scherma (2) e ciclismo su strada a cronometro (2). Una rassegna multidisciplinare che nei Paesi del Mediterraneo meridionale vale quanto un'Olimpiade, e che in Italia stenta ancora a trovare la dignità mediatica che merita — nonostante la trasmissione su Rai Sport HD e in streaming su Rai Play. Il conto dietro la medaglia è che Taranto ospita i Giochi in una città che per decenni ha pagato il prezzo ambientale e sanitario dell'Ilva: impianti sportivi costruiti sull'ex area portuale, operai ex-Ilva tra i volontari. Se ne parla? Raramente. Eppure è la storia più potente di questi Giochi: una città che prova a raccontarsi attraverso lo sport dopo anni in cui veniva raccontata solo attraverso le cokerie.",
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Maltempo in Lombardia: 400 evacuati, ponti crollati, la Regione chiede lo stato di emergenza",
-          "slug": "maltempo-lombardia-evacuati-ponti-crollati-stato-emergenza",
-          "tag": [
-            "maltempo",
-            "lombardia",
-            "alluvione",
-            "stato-di-emergenza"
-          ],
-          "evidenza": false,
-          "fonte": "Today.it / Varese7Press",
-          "cerca_url": "https://www.google.com/search?q=maltempo+Lombardia+400+evacuati+stato+emergenza+agosto+2026",
-          "post_x": "Lombardia: 400 evacuati, ponti crollati, 450 interventi dei pompieri. Fontana chiede lo stato di emergenza. Il ponte di Sonico era stato ricostruito nel 2014 dopo un'altra alluvione. Due volte non bastano. #MaltемpoLombardia",
-          "post_sito": "Una violenta ondata di maltempo si è abbattuta sulla Lombardia tra il 20 e il 21 agosto, con precipitazioni fino a 270 millimetri sulle Alpi Orobie e fino a 260 millimetri sull'Alto Lago di Como. Il bilancio provvisorio parla di circa 400 persone evacuate, oltre 450 interventi dei Vigili del fuoco, ponti crollati — tra cui quello di Rino a Sonico, in Valcamonica, già ricostruito dopo l'alluvione del 2014 — e comuni isolati in Val Brembana. La causa strutturale rimossa dal racconto dominante — che si concentra sui numeri degli evacuati e sulle dichiarazioni di Fontana — è il dissesto idrogeologico cronico di un territorio per cui si stanziano fondi di emergenza ogni estate, senza mai investire in prevenzione strutturale. I piani di adattamento climatico esistono sulla carta da anni; i cantieri di messa in sicurezza dei versanti alpini avanzano a passo di lumaca, anche in una delle regioni più ricche d'Europa. Lo stato di emergenza verrà concesso: arriveranno risorse. Poi tornerà il sole, e tornerà anche l'oblio — fino alla prossima estate.",
-          "redattore": "L'Osservatore 1.0"
-        }
-      ]
-    },
-    {
-      "data": "2026-08-21",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Trump annuncia il «D-Day economico» contro l'Iran",
-          "slug": "trump-d-day-economico-iran-sanzioni-2026",
-          "tag": [
-            "iran",
-            "usa",
-            "sanzioni",
-            "guerra economica"
-          ],
-          "evidenza": true,
-          "fonte": "ANSA / Washington Post",
-          "cerca_url": "https://www.google.com/search?q=Trump+D-Day+economico+Iran+sanzioni+agosto+2026",
-          "post_x": "Trump lancia il «D-Day economico» contro l'Iran. Traduzione: siamo a corto di munizioni reali, proviamo con quelle finanziarie. Intanto la Cina compra il 90% del petrolio iraniano e aspetta il 24 settembre a Casa Bianca col sorriso. #Iran #Trump",
-          "post_sito": "Trump ha annunciato «l'operazione economica più devastante mai intrapresa contro un Paese», paragonandola al D-Day: lo sbarco in Normandia contro un regime che resiste alle sanzioni occidentali da quasi cinque decenni. Il dettaglio che il coro mediatico sorvola è quello segnalato dallo stesso ministro degli Esteri iraniano Araghchi: il «D-Day economico» arriva mentre il debito federale Usa ha appena superato i 40mila miliardi di dollari e la spesa per interessi è destinata a superare i mille miliardi nel solo 2026 — cifre che farebbero impallidire qualsiasi ministro dell'Economia europeo. Beneficio taciuto: l'industria bellica americana, che dopo sei mesi di guerra convenzionale vede esaurirsi le scorte di armamenti, ha tutto l'interesse a prolungare la pressione su Teheran attraverso canali finanziari piuttosto che militari — meno costi di produzione, stesso controllo geopolitico. Il vero nodo è la Cina, che acquista il 90% del petrolio iraniano e si presenterà alla Casa Bianca il 24 settembre: Washington minaccia Pechino, Pechino incassa e aspetta. Mandante invisibile di questo «D-Day» è la necessità di Trump di mostrare muscoli prima di sedersi al tavolo con Xi Jinping, non certo di liberare il popolo iraniano.",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Rimpatri dall'Europa verso l'Italia: cinque paesi nordici e centrali si accodano",
-          "slug": "rimpatri-migranti-nord-europa-italia-agosto-2026",
-          "tag": [
-            "migranti",
-            "rimpatri",
-            "patto-ue",
-            "meloni"
-          ],
-          "evidenza": false,
-          "fonte": "Corriere della Sera / ANSA",
-          "cerca_url": "https://www.google.com/search?q=rimpatri+migranti+Nord+Europa+Italia+accordo+UE+agosto+2026",
-          "post_x": "Svezia, Finlandia, Germania, Austria e Svizzera rispediscono i migranti in Italia. Meloni esulta. Peccato che dal 2022 al 2025 l'Italia abbia accettato zero trasferimenti su 80mila richieste. Ora scopre il valore delle regole europee. Strano tempismo. #Migranti #Rimpatri",
-          "post_sito": "Cinque paesi nordici e centro-europei — Germania, Svizzera, Austria, Finlandia e Svezia — hanno annunciato o avviato i rimpatri di richiedenti asilo verso l'Italia, in applicazione del nuovo Patto Ue su migrazione e asilo entrato in vigore il 12 giugno 2026. Il governo Meloni presenta la notizia come un successo della propria politica migratoria, ma il contesto storico racconta tutt'altra storia: dal dicembre 2022 al dicembre 2025, l'Italia ha ricevuto 80mila richieste di presa in carico di «dublinanti» da altri paesi europei e ne ha accettate zero — un record di inadempienza che ora, stranamente, diventa virtù. La domanda che il coro dei titoli non pone è: chi guadagna politicamente da questa narrativa? Meloni può rivendicare di aver «piegato» l'Europa sulle regole che Roma stessa ha sistematicamente ignorato per anni, trasformando un obbligo giuridico preesistente in una vittoria personale. Il conto dietro la medaglia riguarda le persone in carne e ossa rispedite lungo rotte già percorse: il sistema di protezione che le attende in Italia è lo stesso che ha prodotto, tra l'altro, il quartiere Zen di Palermo, dove mancano servizi di base e persino i vaccini obbligatori.",
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "MPS lancia doppia OPS su Banco BPM e Banca Generali: 34 miliardi sul tavolo",
-          "slug": "mps-ops-banco-bpm-banca-generali-34-miliardi",
-          "tag": [
-            "mps",
-            "banche",
-            "risiko-bancario",
-            "finanza"
-          ],
-          "evidenza": false,
-          "fonte": "Il Sole 24 Ore / ANSA",
-          "cerca_url": "https://www.google.com/search?q=MPS+offerta+Banco+BPM+Banca+Generali+34+miliardi+agosto+2026",
-          "post_x": "MPS — la banca salvata con 8 miliardi di soldi pubblici — lancia OPS da 34 miliardi su Banco BPM e Banca Generali. Il CdA vota a favore con 4 consiglieri astenuti. Si chiama «campione nazionale». Noi lo chiameremmo «banca too big to fail, ora anche too big to question». #MPS #Banche",
-          "post_sito": "Monte dei Paschi di Siena — la banca più volte salvata dal contribuente italiano, nazionalizzata nel 2017 con un esborso pubblico di circa 8 miliardi di euro — ha lanciato due offerte pubbliche di scambio da complessivi 34 miliardi: 25,3 miliardi su Banco BPM e 8,7 miliardi su Banca Generali. Il CdA ha approvato l'operazione a maggioranza, con quattro consiglieri indipendenti astenuti — dettaglio che il comunicato stampa seppellisce in fondo. L'eufemismo di potere è già nel titolo dell'operazione: «nasce un nuovo campione nazionale», recita la nota, come se la concentrazione bancaria fosse una medaglia sportiva e non una riduzione strutturale della concorrenza nel credito italiano. Il mandante invisibile da cercare è il Ministero dell'Economia, azionista di MPS con una quota ancora rilevante: un «campione nazionale» rafforzato vale come scudo contro l'OPA di Intesa Sanpaolo su Rocca Salimbeni, lanciata a giugno. Dietro il risiko bancario c'è una guerra tra centri di potere finanziario e politico che ha poco a che fare con l'interesse dei correntisti e molto con le poltrone dei futuri board. Ai soci MPS già in portafoglio andrà un dividendo straordinario da 4 miliardi: chi ci guadagna, nell'immediato, lo sappiamo già.",
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Taranto 2026: si aprono i XX Giochi del Mediterraneo con 3.800 atleti da 26 nazioni",
-          "slug": "giochi-del-mediterraneo-taranto-2026-cerimonia-apertura",
-          "tag": [
-            "giochi-del-mediterraneo",
-            "taranto",
-            "multisport",
-            "atletica"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Sportface",
-          "cerca_url": "https://www.google.com/search?q=Giochi+del+Mediterraneo+Taranto+2026+cerimonia+apertura+21+agosto",
-          "post_x": "Stasera si aprono i Giochi del Mediterraneo a Taranto: 3.800 atleti, 26 nazioni, 33 discipline. In chiaro su Rai 2 e RaiPlay. Mentre il calcio monopolizza ogni schermo, qui si gioca a tutto il resto. Qualcuno lo chiama sport minore. Noi lo chiamiamo sport. #Taranto2026 #GiochiDelMediterraneo",
-          "post_sito": "Questa sera allo Stadio Erasmo Iacovone di Taranto si apre la ventesima edizione dei Giochi del Mediterraneo — manifestazione che torna in Italia a 29 anni dall'ultima edizione pugliese di Bari 1997 — con circa 3.800 atleti provenienti da 26 nazioni tra Europa, Asia e Africa, impegnati in 33 discipline sportive, olimpiche e non. La cerimonia inaugurale è in chiaro su Rai 2 e in streaming su RaiPlay, quindi senza nessun costo aggiuntivo per chi vuole seguirla. Il conto dietro la medaglia esiste, però, ed è quello di Taranto stessa: una città che ospita l'Ilva, il sito industriale più inquinato d'Europa, e che per questi Giochi ha ristrutturato lo stadio e candidato il proprio waterfront alla vetrina internazionale. Chi guadagna dall'immagine di una Taranto «città mediterranea dello sport» mentre la partita ambientale è ancora aperta è una domanda legittima — ma non toglie nulla ai quattromila atleti che stasera sfileranno sotto i riflettori. Nei Paesi a sud del Mediterraneo questa manifestazione vale quanto un'Olimpiade: è uno dei pochi momenti in cui la Tunisia, l'Algeria, la Grecia o la Turchia si siedono allo stesso tavolo sportivo senza gerarchie di budget. Il merito di darle visibilità è, per una volta, tutto.",
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Bambina di 4 anni muore di sospetta difterite a Palermo: non era vaccinata",
-          "slug": "bambina-morta-difterite-palermo-non-vaccinata",
-          "tag": [
-            "difterite",
-            "vaccini",
-            "palermo",
-            "sanita"
-          ],
-          "evidenza": false,
-          "fonte": "Il Post / ANSA",
-          "cerca_url": "https://www.google.com/search?q=bambina+4+anni+morta+difterite+Palermo+non+vaccinata+2026",
-          "post_x": "Una bambina di 4 anni muore di difterite a Palermo nel 2026. Non era vaccinata. Il cugino, vaccinato, è ricoverato ma non è grave. I dati fanno il loro lavoro silenzioso, come sempre. Il dolore per Anna Rosa viene prima di qualsiasi altro discorso. #Difterite #Vaccini #Palermo",
-          "post_sito": "Anna Rosa, quattro anni, è morta all'Ospedale dei Bambini di Palermo per quella che il direttore sanitario ritiene, con alta probabilità, essere difterite — malattia quasi scomparsa in Italia grazie alle coperture vaccinali, e per cui non si registrava un caso mortale da oltre trent'anni. La bambina, residente nel quartiere Zen, non era mai stata vaccinata: i genitori avevano rifiutato il vaccino per timore che potesse causare l'autismo, una convinzione senza alcuna base scientifica. Il cugino della stessa età, vaccinato, è ricoverato ma non è in pericolo di vita. Prima di qualsiasi altro discorso, c'è una bambina che non c'è più e una famiglia che vive un dolore che nessuna analisi può misurare. Detto questo, la causa strutturale rimossa dal racconto che trasforma questa tragedia in scontro tra «no vax» e «pro scienza» è il sistema di prevenzione che avrebbe dovuto intercettare la mancata vaccinazione obbligatoria per legge: la Procura indaga anche su questo. Il quartiere Zen di Palermo è uno dei contesti di marginalità urbana più documentati d'Italia — un luogo dove la diffidenza verso le istituzioni, incluso il sistema sanitario, ha radici storiche concrete che nessun tweet di indignazione rimuoverà.",
-          "redattore": "L'Osservatore 1.0"
-        }
-      ]
-    },
-    {
-      "data": "2026-08-20",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Iran minaccia le basi USA in Europa, Trump annuncia guerra economica «stile D-Day»",
-          "slug": "iran-minaccia-basi-usa-europa-trump-guerra-economica",
-          "tag": [
-            "iran",
-            "usa",
-            "nato",
-            "guerra"
-          ],
-          "evidenza": true,
-          "fonte": "ANSA / Il Fatto Quotidiano / Financial Times",
-          "cerca_url": "https://www.google.com/search?q=Iran+minaccia+basi+USA+Europa+Trump+guerra+economica+agosto+2026",
-          "post_x": "L'Iran minaccia le basi USA in Europa. Trump risponde con sanzioni \"stile D-Day\". La NATO dice che è pronta. Nel mezzo: le azioni di Lockheed Martin, Boeing e RTX che ringraziano in silenzio. #Iran #NATO",
-          "post_sito": "Scaduto il cessate il fuoco del memorandum di giugno, l'Iran valuta attacchi alle basi militari americane nel sudest europeo — Bulgaria e Cipro nel mirino, secondo il Financial Times — mentre studia anche come tagliare i cavi in fibra ottica nello Stretto di Hormuz. Trump risponde annunciando sanzioni «draconiane» che paragona al D-Day, trasformando una crisi militare in un format da campagna elettorale in vista dei midterm. Il coro mediatico è tutto sullo scontro Iran-Occidente: quello che si tace è che nell'agosto 2026 il Pentagono ha siglato nuovi accordi con Boeing e RTX per accelerare la produzione di componenti antimissile, e che il debito federale USA ha appena sfondato i 40.000 miliardi mentre le spese per la difesa continuano a crescere. beneficio taciuto: l'industria bellica — Lockheed, Northrop Grumman, RTX, Boeing — incassa ad ogni escalation. Il contesto storico rimosso: il cessate il fuoco di giugno, che la stampa aveva celebrato, è naufragato in poche settimane senza che nessuno chiedesse perché.",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "La Rai stringe il cerchio su Ranucci: il comitato etico decide il destino di Report",
-          "slug": "rai-ranucci-report-comitato-etico-sospensione",
-          "tag": [
-            "rai",
-            "report",
-            "ranucci",
-            "informazione"
-          ],
-          "evidenza": false,
-          "fonte": "Il Fatto Quotidiano / Domani / Il Messaggero",
-          "cerca_url": "https://www.google.com/search?q=Ranucci+Report+Rai+comitato+etico+sospensione+agosto+2026",
-          "post_x": "La Rai vuole cacciare Ranucci da Report. Vittima di un attentato, indagato chi glielo ha ordinato. L'azienda pubblica — controllata dal governo — «nessuna fretta». Ma la fretta c'è, eccome. #Ranucci #Report #Rai",
-          "post_sito": "Il comitato etico di viale Mazzini è atteso a breve con il proprio parere sul futuro di Sigfrido Ranucci, conduttore di Report e vittima di un attentato — l'uomo considerato il mandante, Valter Lavitola, è in carcere a Rebibbia, e la magistratura ha chiarito l'inconsapevolezza del giornalista. Eppure la macchina Rai, gentilmente lubrificata dalla destra di governo secondo Domani, lavora alla sua sostituzione. mandante invisibile: non è l'azienda a volere lo scalpo di Ranucci, ma la maggioranza politica che controlla il CdA Rai, che trasforma una vicenda giudiziaria in cui Ranucci è la vittima in un'arma disciplinare. doppio standard evidentissimo: nessun dirigente Rai è mai stato «valutato eticamente» per inchieste scomode archiviate o per la gestione editoriale di altri programmi. Il dato economico che il racconto dominante tende a dimenticare: Report vale oro per Rai Pubblicità grazie ai suoi contenuti ad alto engagement — il che rende l'intera operazione non solo un atto politico, ma anche autolesionista sul piano del business.",
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Il debito federale USA sfonda i 40.000 miliardi: raddoppiato in dieci anni",
-          "slug": "debito-usa-40000-miliardi-record-agosto-2026",
-          "tag": [
-            "debito-usa",
-            "fed",
-            "inflazione",
-            "finanza"
-          ],
-          "evidenza": false,
-          "fonte": "AP / Focus America / Il Sole 24 Ore",
-          "cerca_url": "https://www.google.com/search?q=debito+federale+USA+40+trilioni+record+agosto+2026",
-          "post_x": "Il debito USA ha sfondato i 40.000 miliardi — raddoppiato in dieci anni. La Fed teme l'inflazione e pensa a rialzare i tassi. Trump parla di D-Day contro l'Iran. Chi paga il conto? I soliti. #DebitoUSA #Fed",
-          "post_sito": "Il debito federale degli Stati Uniti ha superato per la prima volta la soglia dei 40.000 miliardi di dollari, raddoppiando in poco più di dieci anni, mentre il rendimento dei titoli a trent'anni ha toccato il livello più alto da quasi vent'anni. I verbali della Federal Reserve mostrano che diversi membri temono un'inflazione ancora elevata e non escludono un rialzo dei tassi entro fine anno. Il dato arriva nel pieno della guerra in Iran: secondo AP, la cifra record riflette anche il peso delle spese per la difesa che Trump utilizza per sostenere il conflitto da oltre cinque mesi — beneficio taciuto per i grandi fondi obbligazionari che acquistano i Treasury bond con rendimenti ai massimi storici. eufemismo di potere: la Casa Bianca parla di «lotta a sprechi e frodi» mentre il deficit corre a una velocità inedita. Il Tesoro, secondo Il Sole 24 Ore, sta aumentando gli acquisti di bond propri per tenere il mercato — un segnale che raramente accompagna le stagioni di prosperità.",
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Kyrgios sospeso per cocaina: l'accusatore di Sinner fermato dall'antidoping",
-          "slug": "kyrgios-sospeso-cocaina-antidoping-tennis-2026",
-          "tag": [
-            "tennis",
-            "kyrgios",
-            "doping",
-            "antidoping"
-          ],
-          "evidenza": false,
-          "fonte": "ITIA / Napoli Magazine / ESPN",
-          "cerca_url": "https://www.google.com/search?q=Kyrgios+positivo+cocaina+sospeso+ITIA+2026",
-          "post_x": "Kyrgios positivo alla cocaina a Maiorca, sospeso dal 4 agosto. Nel 2024 aveva definito «ridicolo» il caso Sinner. Il karma lavora, ma lavora lento. #Kyrgios #Tennis #Doping",
-          "post_sito": "Nick Kyrgios, 31 anni, è stato sospeso dall'ITIA dopo essere risultato positivo alla cocaina durante il torneo ATP 250 di Maiorca il 22 giugno: il laboratorio accreditato dalla WADA ha confermato il 17 luglio la presenza di benzoilecgonina, metabolita della sostanza. La sospensione è in vigore dal 4 agosto e Kyrgios non ha presentato ricorso. Il punto satiricamente inevitabile: nel 2024 fu proprio lui a definire «ridicolo» il caso Sinner — riferendosi alla sospensione mancata dell'italiano dopo la positività al clostebol. doppio standard: l'antidoping è uguale per tutti, ma il coro che al tempo attaccò Sinner ora dovrà decidere se applicare la stessa ferocia a Kyrgios, personaggio ben più amato dal pubblico anglosassone. Musetti intanto avanza ai quarti di Cincinnati — ma questa notizia occupa meno spazio della caduta del suo connazionale-per-polemica.",
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Tania Terrin uccisa dopo sette denunce: il sistema che non ha funzionato",
-          "slug": "tania-terrin-femminicidio-sette-denunce-sistema",
-          "tag": [
-            "femminicidio",
-            "violenza-donne",
-            "codice-rosso",
-            "cronaca"
-          ],
-          "evidenza": false,
-          "fonte": "Quotidiano Nazionale / Il Giornale / Catania Oggi",
-          "cerca_url": "https://www.google.com/search?q=Tania+Terrin+femminicidio+Camponogara+denunce+agosto+2026",
-          "post_x": "Tania Terrin, 39 anni, uccisa dall'ex dopo 7-8 denunce. Dino Keber aveva già querelato da altre tre donne dal 2002. Il sistema sapeva. Il sistema non ha protetto. #TaniaTerrin #Femminicidio #CodiceRosso",
-          "post_sito": "Tania Terrin, 39 anni, è stata soffocata dall'ex compagno Dino Keber la sera del 15 agosto nella sua casa di Camponogara, in provincia di Venezia: Keber aveva precedenti risalenti al 2002, altre querele nel 2010 e nel 2021 — archiviate dopo il ritiro delle denunce — e contro di lui Tania stessa aveva sporto denuncia sette o otto volte, riportando anche un episodio di strangolamento nell'aprile precedente. causa strutturale rimossa: il racconto dominante si concentra sul caso singolo e sul dibattito politico tra chi chiede pene più severe e chi punta il dito sulla protezione mancata — ma il nodo è il meccanismo che non ha trasformato le denunce in protezione concreta. Nelle stesse ore altre due donne venivano uccise in Italia — a Colleferro e a Corigliano Rossano — mentre il Ministero dell'Interno presentava il 15 agosto un dossier con dati in calo sui femminicidi: un documento che rischia di diventare una coperta troppo corta sopra una realtà che continua a smentirlo.",
-          "redattore": "L'Osservatore 1.0"
-        }
-      ]
-    },
-    {
-      "data": "2026-08-19",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Trump dichiara lo Stretto di Hormuz \"territorio USA\": tregua scaduta, nessun colloquio in vista",
-          "slug": "trump-hormuz-territorio-usa-tregua-scaduta",
-          "tag": [
-            "iran",
-            "usa",
-            "hormuz",
-            "guerra"
-          ],
-          "evidenza": true,
-          "fonte": "ANSA / Il Fatto Quotidiano / CNBC",
-          "cerca_url": "https://www.google.com/search?q=Trump+Stretto+Hormuz+territorio+USA+Iran+tregua+scaduta+agosto+2026",
-          "post_x": "Trump annette lo Stretto di Hormuz via tweet. L'Iran: «Non si conquista con un post». Nel mezzo: un quinto del petrolio mondiale, la tregua scaduta e Kushner smentito dal capo. Business as usual. 🛢️",
-          "post_sito": "Donald Trump ha dichiarato lo Stretto di Hormuz «nuovo territorio degli Stati Uniti», pubblicando persino una mappa a corredo — mentre la tregua di 60 giorni firmata ad Islamabad è scaduta il 17 agosto senza rinnovo e la Casa Bianca ha smentito il suo stesso inviato Jared Kushner, negando l'esistenza di colloqui in corso con Teheran. Prima della guerra, dallo Stretto transitava circa un quinto del petrolio mondiale: chi ci guadagna dal blocco prolungato sono i produttori alternativi — Arabia Saudita in testa — e le compagnie di assicurazione marittima, i cui premi sono schizzati a livelli record. Il segretario al Tesoro Scott Bessent ha promesso sanzioni «mai viste prima» contro Teheran, mentre Eurasia Group stima che un accordo limitato, che consenta solo una parziale riapertura del traffico, sia lo scenario più probabile a fine anno: non abbastanza da far crollare i prezzi, abbastanza da far sopravvivere tutti nel limbo. La domanda rimossa dal racconto ufficiale è una sola: con i midterm di novembre alle porte e la popolarità di Trump in calo, quanto conviene davvero chiudere una guerra che regge l'attenzione dell'elettorato?",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Manovra 2027 da 30 miliardi: Meloni usa flessibilità UE su energia e difesa per costruire la «finanziaria elettorale»",
-          "slug": "manovra-2027-meloni-flessibilita-ue-finanziaria-elettorale",
-          "tag": [
-            "manovra",
-            "meloni",
-            "legge-di-bilancio",
-            "elezioni"
-          ],
-          "evidenza": false,
-          "fonte": "Il Sole 24 Ore / Sky TG24 / Money.it",
-          "cerca_url": "https://www.google.com/search?q=manovra+legge+bilancio+2027+Meloni+flessibilita+UE+30+miliardi+agosto+2026",
-          "post_x": "Meloni promette meno tasse con 30 miliardi trovati grazie alla «flessibilità europea». Traduzione: si fa debito in più, ma lo chiamiamo «piano straordinario energia e difesa». La guerra a Hormuz torna utile anche in autunno. 🎩",
-          "post_sito": "Il governo Meloni apre il cantiere della legge di bilancio 2027 — l'ultima della legislatura — puntando a una dote potenziale superiore ai 30 miliardi, da costruire combinando risorse nazionali, flessibilità europea su spese per energia e difesa, e lo strumento comunitario Safe. Il ministro Giorgetti ha ottenuto dal Parlamento il via libera per trattare con Bruxelles uno scostamento che non venga contabilizzato nel fatidico rapporto deficit/Pil del 3%: in pratica, si fa più debito, ma lo si etichetta come «emergenza geopolitica». Il mandante invisibile di questa operazione è il calendario elettorale: fonti interne alla Lega hanno già dichiarato che «dovrà essere una manovra elettorale», con bonus, tagli Irpef e ritocchi alle pensioni pensati per la campagna di primavera. Il contesto rimosso dal racconto dominante è che la stessa «flessibilità» invocata oggi fu negata per anni alle opposizioni quando chiedevano margini per sanità e istruzione: il principio, evidentemente, dipende da chi governa. I mercati, intanto, non si scomporranno: lo spread è sotto controllo e i grandi fondi obbligazionari — che comprano BTP — non amano le instabilità preelettorali proprio quanto non amano le austerità eccessive.",
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Unitree debutta a Shanghai: domanda 8.000 volte l'offerta per i robot umanoidi cinesi, il mercato scommette sull'«embodied AI»",
-          "slug": "unitree-ipo-shanghai-robot-umanoidi-domanda-record",
-          "tag": [
-            "robotica",
-            "cina",
-            "ipo",
-            "intelligenza-artificiale"
-          ],
-          "evidenza": false,
-          "fonte": "Il Sole 24 Ore / Forbes / FIRSTonline",
-          "cerca_url": "https://www.google.com/search?q=Unitree+IPO+Shanghai+domanda+8000+volte+robot+umanoidi+agosto+2026",
-          "post_sito": "Unitree Robotics debutta oggi alla Borsa di Shanghai con una domanda retail che ha superato di oltre 8.000 volte le azioni disponibili — un record assoluto per lo STAR Market — con ordini complessivi per 6,1 miliardi di yuan e quasi dieci milioni di investitori coinvolti. La società di Hangzhou, già il maggior produttore mondiale di robot umanoidi per fatturato con ricavi 2025 di circa 252 milioni di dollari (più che quadruplicati rispetto all'anno precedente), viene quotata a multipli di 219 volte gli utili attesi: numeri che ricordano le bolle delle dot-com, anche se stavolta c'è un'azienda vera e redditizia sotto. Il beneficio taciuto dietro l'euforia è geopolitico: Pechino considera l'«embodied AI» — l'intelligenza artificiale incorporata in corpi fisici — un settore strategico di stato, e la quotazione di Unitree è anche un segnale alla Casa Bianca che la Cina non si ferma, nonostante Trump abbia già minacciato di vietare la vendita di robot umanoidi cinesi negli Stati Uniti. Va segnalato che oltre il 40% delle vendite di Unitree arriva dall'estero: il rischio geopolitico è reale, ma è precisamente quello che i derivati su Hyperliquid sembrano prezzare come un'opzionalità al rialzo, non come un pericolo. Mandante invisibile dell'intero ciclo: lo Stato cinese, che finanzia, orienta e ora porta in borsa i campioni tecnologici nazionali, con una regia industriale che l'Occidente si ostina a chiamare «mercato».",
-          "post_x": "Unitree sbarca a Shanghai: 8.000 investitori per ogni azione disponibile. Robot umanoidi cinesi che corrono e fanno arti marziali quotati a 219 volte gli utili. Se il futuro è questo, almeno è spettacolare. 🤖📈",
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Europei di ginnastica artistica maschile a Zagabria: l'Italia in pedana con tre esordienti e Targhetta a caccia del podio al cavallo",
-          "slug": "europei-ginnastica-artistica-maschile-2026-zagabria-italia",
-          "tag": [
-            "ginnastica-artistica",
-            "europei",
-            "zagabria",
-            "azzurri"
-          ],
-          "evidenza": false,
-          "fonte": "OA Sport / Sportface.it / Olympics.com",
-          "cerca_url": "https://www.google.com/search?q=Europei+ginnastica+artistica+maschile+2026+Zagabria+Italia+qualificazioni+19+agosto",
-          "post_x": "Mentre il calcio mercato occupa pagine intere, a Zagabria l'Italia della ginnastica artistica scende in pedana agli Europei maschili. Abbadini, Targhetta e tre esordienti. Niente telecronache in prima serata, ma forse è meglio così: si lavora. 🤸",
-          "post_sito": "Oggi, mercoledì 19 agosto, all'Arena Zagreb si aprono le qualificazioni della 37ª edizione dei Campionati Europei di ginnastica artistica maschile, con l'Italia in pedana dalle 17.45 nell'ultima suddivisione. La squadra azzurra presenta tre esordienti assoluti in campo europeo — Riccardo Villa, Simone Speranza e Ares Federici — affiancati da Yumin Abbadini ed Edoardo De Rosa, con Gabriele Targhetta come individualista al cavallo con maniglie, dove punta a ripetere il bronzo conquistato a Lipsia nel 2025. La rassegna continentale è anche appuntamento chiave di avvicinamento ai Mondiali di Rotterdam, che distribuiranno i primi pass per le Olimpiadi di Los Angeles 2028: la posta in gioco, quindi, è tutt'altro che simbolica. Il conto dietro la medaglia esiste: il sistema ginnastica italiano si regge su un modello di formazione che passa per i Gruppi Sportivi Militari — Aeronautica e Fiamme Oro tra gli atleti convocati — una struttura finanziata dallo Stato che regge l'intero edificio degli sport olimpici minori senza che quasi nessuno lo nomini nel dibattito pubblico. Nel frattempo, le pagine sportive dei quotidiani sono occupate per l'ottantesimo giorno consecutivo da calciomercato.",
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Femminicidio di Tania Terrin: 7 denunce, un ammonimento, tre ex compagne che avevano già querelato lo stesso uomo. Il sistema non ha retto.",
-          "slug": "femminicidio-tania-terrin-camponogara-sistema-fallito",
-          "tag": [
-            "femminicidio",
-            "violenza-donne",
-            "veneto",
-            "sistema-protezione"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Adnkronos / Dire.it",
-          "cerca_url": "https://www.google.com/search?q=femminicidio+Tania+Terrin+Camponogara+Venezia+agosto+2026",
-          "post_x": "Tania Terrin aveva denunciato. C'era un ammonimento del Questore. L'ex aveva già 7 denunce da tre donne diverse, tutte archiviate. Poi l'hanno trovata sul divano. Qualcuno ha detto «fallimento». Sì. Ma di cosa, esattamente? 🔇",
-          "post_sito": "Tania Terrin, 39 anni, è stata strangolata nella sua casa di Camponogara, in provincia di Venezia, dall'ex compagno Dino Keber, 43 anni, che si è poi impiccato a Dolo. Non era la prima volta che Keber aggrediva una donna: dall'ammonimento del Questore di Venezia emesso a giugno risultava che era stato già querelato da tre precedenti compagne, con denunce risalenti al 2002, al 2010 e al 2021 — tutte ritirate e archiviate. Nei confronti di Tania, erano state presentate almeno 7 denunce tra lei e i suoi genitori, e ad aprile Keber aveva già tentato di strangolarla. La causa strutturale rimossa dal racconto del dolore collettivo è questa: un sistema in cui le querele vengono ritirate — spesso per paura, per manipolazione, per mancanza di alternative concrete — e poi archiviate come se non fossero mai esistite, lasciando l'aggressore libero di ricominciare. Le dichiarazioni di «fallimento» arrivano puntuali da ogni schieramento politico, seguite da invocazioni di leggi più dure; meno puntuale è la discussione sulle risorse per i centri antiviolenza, sui tempi della magistratura, sulla formazione delle forze dell'ordine: quella rimane fuori agenda.",
-          "redattore": "L'Osservatore 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-09-23T08:34:27.158123+00:00"
+  "ultimo_aggiornamento": "2026-10-01T07:18:50.366038+00:00"
 }

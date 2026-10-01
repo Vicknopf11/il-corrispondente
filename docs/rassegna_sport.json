@@ -1,46 +1,45 @@
 {
-  "generato": "2026-09-23T11:30:53.838183+00:00",
+  "generato": "2026-10-01T11:31:04.203956+00:00",
   "item": [
     {
-      "sottocategoria": "Calcio femminile",
+      "sottocategoria": "Racchette e precisione",
       "tipo": "notizia",
-      "titolo": "A Roma il primo Congresso per far crescere il numero di donne ai vertici dello sport",
-      "link": "https://www.gazzetta.it/Sport-Vari/21-09-2026/donne-ai-vertici-dello-sport-a-roma-il-primo-congresso.shtml",
+      "titolo": "Malati di sport: da Lomu a Zverev, quando il corpo è il tuo primo avversario",
+      "link": "https://www.gazzetta.it/Sport-Vari/01-10-2026/malati-sport-corpo-primo-avversario-lomu-zverev.shtml",
       "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-09-21"
+      "data_evento": "2026-10-01"
     },
     {
-      "sottocategoria": "Squadra",
+      "sottocategoria": "Mente e nicchia",
       "tipo": "notizia",
-      "titolo": "Basket in carrozzina, Carossino e il sogno olimpico: \"Siamo un gruppo forte, vogliamo i Giochi di Los Angeles\"",
-      "link": "https://www.gazzetta.it/Paralimpici/20-09-2026/basket-in-carrozzina-l-argento-mondiale-e-il-sogno-olimpico-carossino-un-gruppo-forte.shtml",
-      "fonte": "Gazzetta — Paralimpici",
-      "data_evento": "2026-09-20",
-      "paralimpico": true
+      "titolo": "Il grande weekend della Raffa: non solo gli scudetti, è stato Italia show agli Europei giovanili",
+      "link": "https://www.gazzetta.it/bocce/29-09-2026/raffa-assegnati-gli-scudetti-italia-show-agli-europei-giovanili.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-09-29"
+    },
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Lacrime sul diamante: la piccola Genevieve sostituisce il manager e chiude la carriera di papà Verlander",
+      "link": "https://www.gazzetta.it/Sport-Usa/29-09-2026/mlb-il-ritiro-di-justin-verlander-lanciatore-dei-detroit-tigers.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-09-29"
+    },
+    {
+      "sottocategoria": "Combattimento",
+      "tipo": "notizia",
+      "titolo": "Lutto nel wrestling: è morto Pac, aveva solo 40 anni. Due giorni fa era sul ring a Chicago",
+      "link": "https://www.gazzetta.it/Sport-Vari/28-09-2026/pac-morto-wrestling.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-09-28"
     },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
-      "titolo": "Sarah Rizea è Miss Italia 2026: chi è la 18enne atleta delle Fiamme Oro",
-      "link": "https://www.gazzetta.it/spettacolo-tv-gossip/21-09-2026/sarah-rizea-e-miss-italia-2026-chi-e-la-18enne-atleta-delle-fiamme-oro.shtml",
-      "fonte": "Gazzetta — Nuoto e Pallanuoto",
-      "data_evento": "2026-09-21"
-    },
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "De la Quadra Salcedo, 70 anni fa lo storico record del mondo (cancellato) del giavellotto. Il motivo? Troppo pericoloso",
-      "link": "https://www.gazzetta.it/Atletica/21-09-2026/de-la-quadra-salcedo-70-anni-fa-lo-storico-record-del-mondo-cancellato-del-giavellotto.shtml",
-      "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-09-21"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Chi è Zheng, l'avversaria di Jasmine Paolini che guadagna quanto Djokovic (in Cina)",
-      "link": "https://www.gazzetta.it/Tennis/Fed-Cup/23-09-2026/zheng-qinwen-avversaria-paolini-billie-jean-king-cup.shtml",
-      "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-09-23"
+      "titolo": "Effetto Luna Rossa a Napoli: l'America's Cup fa volare la vela. Record di tesserati tra i giovanissimi",
+      "link": "https://www.gazzetta.it/vela/29-09-2026/boom-di-tesserati-dopo-l-america-s-cup-di-napoli-molti-giovani-interessati-alla-vela.shtml",
+      "fonte": "Gazzetta — Vela e Nautica",
+      "data_evento": "2026-09-29"
     }
   ]
 }
