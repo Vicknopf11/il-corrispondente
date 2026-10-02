@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-02",
+      "slug": "lea-aggiornamento-800-prestazioni-gazzetta-ufficiale-2026",
+      "categoria": "Wellness",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-02",
       "slug": "musk-pentagono-project-meridian-guerra-futuro-ai",
       "categoria": "AI",
       "evidenza": false,
