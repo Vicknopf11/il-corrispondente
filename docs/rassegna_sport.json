@@ -1,6 +1,14 @@
 {
-  "generato": "2026-10-01T11:31:04.203956+00:00",
+  "generato": "2026-10-02T05:30:59.561065+00:00",
   "item": [
+    {
+      "sottocategoria": "Acqua",
+      "tipo": "notizia",
+      "titolo": "Campionato al via e note azzurre: Pro Recco senza rivali. Donne: ancora sfida Orizzonte Catania-Roma",
+      "link": "https://www.gazzetta.it/Nuoto/01-10-2026/pallanuoto-campionato-al-via-e-note-azzurre-pro-recco-senza-rivali.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-10-01"
+    },
     {
       "sottocategoria": "Racchette e precisione",
       "tipo": "notizia",
@@ -8,14 +16,6 @@
       "link": "https://www.gazzetta.it/Sport-Vari/01-10-2026/malati-sport-corpo-primo-avversario-lomu-zverev.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-10-01"
-    },
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Il grande weekend della Raffa: non solo gli scudetti, è stato Italia show agli Europei giovanili",
-      "link": "https://www.gazzetta.it/bocce/29-09-2026/raffa-assegnati-gli-scudetti-italia-show-agli-europei-giovanili.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-09-29"
     },
     {
       "sottocategoria": "Invernali",
@@ -34,12 +34,12 @@
       "data_evento": "2026-09-28"
     },
     {
-      "sottocategoria": "Acqua",
+      "sottocategoria": "Squadra",
       "tipo": "notizia",
-      "titolo": "Effetto Luna Rossa a Napoli: l'America's Cup fa volare la vela. Record di tesserati tra i giovanissimi",
-      "link": "https://www.gazzetta.it/vela/29-09-2026/boom-di-tesserati-dopo-l-america-s-cup-di-napoli-molti-giovani-interessati-alla-vela.shtml",
-      "fonte": "Gazzetta — Vela e Nautica",
-      "data_evento": "2026-09-29"
+      "titolo": "Torna \"Un campione per amico\": 500 bambini a Mantova con Panatta e altri big",
+      "link": "https://www.gazzetta.it/Tennis/30-09-2026/panatta-e-soci-tornano-a-mantova-con-un-campione-per-amico.shtml",
+      "fonte": "Gazzetta — Volley",
+      "data_evento": "2026-09-30"
     }
   ]
 }
