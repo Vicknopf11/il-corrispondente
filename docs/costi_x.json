@@ -1,6 +1,14 @@
 {
   "pubblicazioni": [
     {
+      "data": "2026-10-02",
+      "slug": "trump-ultimatum-iran-guerra-golfo-2026",
+      "categoria": "Politica Internazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
       "data": "2026-10-01",
       "slug": "fincantieri-ancona-operaio-morto-ustioni-sciopero",
       "categoria": "Cronaca",
