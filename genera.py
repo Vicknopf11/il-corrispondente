@@ -635,7 +635,7 @@ def genera_post() -> dict:
 
     response = client.messages.create(
         model="claude-sonnet-4-6",
-        max_tokens=6000,
+        max_tokens=14000,
         system=SYSTEM_PROMPT,
         messages=[{"role": "user", "content": prompt}],
         tools=[{"type": "web_search_20250305", "name": "web_search"}],
