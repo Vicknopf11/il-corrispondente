@@ -1,45 +1,77 @@
 {
-  "data": "2026-10-01",
+  "data": "2026-10-02",
   "tweet": [
     {
-      "testo": "Pilota accoltellato su volo Dubai-Tel Aviv. Netanyahu evoca subito l'attentato. Le elezioni israeliane sono il 27 ottobre. Coincidenza di calendario? No, ovviamente. È solo sicurezza nazionale. #Israele #FlyDubai",
-      "url": "https://corrispondente.filoclastos.it/2026/10/01/flydubai-tel-aviv-netanyahu-attentato-elezioni/",
-      "slug": "flydubai-tel-aviv-netanyahu-attentato-elezioni",
+      "testo": "Trump minaccia l'Iran di morte e manda navi nel Golfo. Intanto i contractor della difesa brindano. Coincidenze della storia. #Iran #Trump #Pentagono",
+      "url": "https://corrispondente.filoclastos.it/2026/10/02/trump-ultimatum-iran-guerra-golfo-2026/",
+      "slug": "trump-ultimatum-iran-guerra-golfo-2026",
       "categoria": "Politica Internazionale",
-      "evidenza": false,
-      "pubblicato": true
-    },
-    {
-      "testo": "Il governo blinda la legge elettorale con tre fiducie. Il voto finale sarà segreto. Magi digiuna. Meloni ha già detto: se non passa, si va a casa. Una democrazia che si tutela dalle proprie maggioranze. #LeggeElettorale",
-      "url": "https://corrispondente.filoclastos.it/2026/10/01/legge-elettorale-camera-fiducia-magi-sciopero-fame/",
-      "slug": "legge-elettorale-camera-fiducia-magi-sciopero-fame",
-      "categoria": "Politica Nazionale",
       "evidenza": true,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Inflazione al 4,2%, bollette elettriche +37,3% nel quarto trimestre. Eni, Q8 e IP annunciano price cap sui carburanti. ENI è anche in borsa. Fincantieri sale del 3%. Il caro energia è un problema — per chi lo paga. #Inflazione #Energia",
-      "url": "https://corrispondente.filoclastos.it/2026/10/01/inflazione-42-bollette-energia-italia-ottobre-2026/",
-      "slug": "inflazione-42-bollette-energia-italia-ottobre-2026",
+      "testo": "Il governo cambia le regole del gioco mentre il campionato è in corso. Riforma RAI + nuova legge elettorale a un anno dal voto. Coincidenza? No, tradizione. #Rai #LeggeElettorale",
+      "url": "https://corrispondente.filoclastos.it/2026/10/02/riforma-rai-legge-elettorale-governo-meloni-2026/",
+      "slug": "riforma-rai-legge-elettorale-governo-meloni-2026",
+      "categoria": "Politica Nazionale",
+      "evidenza": false,
+      "pubblicato": false
+    },
+    {
+      "testo": "Meloni chiede flessibilità all'UE. L'UE dice: abbiamo già dato. Lo spread sale a 118,5. Il conto lo paga chi ha il mutuo. #Spread #Manovra #UE",
+      "url": "https://corrispondente.filoclastos.it/2026/10/02/meloni-flessibilita-ue-spread-manovra-2026/",
+      "slug": "meloni-flessibilita-ue-spread-manovra-2026",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "L'Italia vince l'oro a squadre nello skeet junior maschile agli Europei di Malakasa. Antonio La Volpe in finale. Argento nel femminile. Nessuna telecronaca in prima serata, ovviamente — ci sono i voti di fiducia sulla legge elettorale. #TiroAVolo #Europei2026",
-      "url": "https://corrispondente.filoclastos.it/2026/10/01/europei-tiro-a-volo-italia-oro-skeet-junior-malakasa-2026/",
-      "slug": "europei-tiro-a-volo-italia-oro-skeet-junior-malakasa-2026",
+      "testo": "Bulega campione del mondo Superbike 2026. 26 vittorie in stagione, il titolo conquistato in casa a Cremona. L'Italia motoristica che nessuno racconta. Bravi. #Bulega #WSBK #Superbike",
+      "url": "https://corrispondente.filoclastos.it/2026/10/02/bulega-campione-mondo-superbike-2026-ducati/",
+      "slug": "bulega-campione-mondo-superbike-2026-ducati",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Operaio tunisino di 55 anni morto per ustioni nello stabilimento Fincantieri di Ancona. Un 27enne bengalese gravissimo a Pisa. Entrambi lavoravano per una ditta esterna. Fincantieri esprime \"profondo cordoglio\". In borsa oggi +3,16%. #SicurezzaLavoro",
-      "url": "https://corrispondente.filoclastos.it/2026/10/01/fincantieri-ancona-operaio-morto-ustioni-sciopero/",
-      "slug": "fincantieri-ancona-operaio-morto-ustioni-sciopero",
+      "testo": "La famiglia Poggi non si costituirà parte civile contro Sempio: 'Lo riteniamo innocente'. I consulenti della pm dicono il contrario. Un processo già celebrato nei talk show. #Garlasco #Giustizia",
+      "url": "https://corrispondente.filoclastos.it/2026/10/02/garlasco-dna-sempio-famiglia-poggi-parte-civile/",
+      "slug": "garlasco-dna-sempio-famiglia-poggi-parte-civile",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
+    },
+    {
+      "testo": "Il Gaslini contribuisce a trovare un farmaco contro la FOP, malattia che trasforma i muscoli in osso. Studio su The Lancet. Notizia piccola, impatto enorme. #Gaslini #MalattieRare #FOP",
+      "url": "https://corrispondente.filoclastos.it/2026/10/02/gaslini-cura-fop-fibrodisplasia-garetosmab-lancet/",
+      "slug": "gaslini-cura-fop-fibrodisplasia-garetosmab-lancet",
+      "categoria": "Scienza",
+      "evidenza": false,
+      "pubblicato": false
+    },
+    {
+      "testo": "Musk torna al Pentagono per 'immaginare la guerra del futuro'. SpaceX è già fornitrice miliardaria della Difesa USA. Nessuna norma di incompatibilità annunciata. Domande? #Musk #Pentagono #AI",
+      "url": "https://corrispondente.filoclastos.it/2026/10/02/musk-pentagono-project-meridian-guerra-futuro-ai/",
+      "slug": "musk-pentagono-project-meridian-guerra-futuro-ai",
+      "categoria": "AI",
+      "evidenza": false,
+      "pubblicato": false
+    },
+    {
+      "testo": "800 nuove prestazioni nei LEA: sulla carta, un passo avanti. Nella realtà, dipende da dove abiti e quanto aspetti. Il diritto alla salute è ancora geografico. #LEA #SanitaPubblica",
+      "url": "https://corrispondente.filoclastos.it/2026/10/02/lea-aggiornamento-800-prestazioni-gazzetta-ufficiale-2026/",
+      "slug": "lea-aggiornamento-800-prestazioni-gazzetta-ufficiale-2026",
+      "categoria": "Wellness",
+      "evidenza": false,
+      "pubblicato": false
+    },
+    {
+      "testo": "Jovanotti porta il suo docufilm alla Festa del Cinema di Roma. Un artista che racconta sé stesso, distribuito da chi ci guadagna. Il confine tra arte e marketing è diventato un'autostrada. #Jovanotti #FestaCinema",
+      "url": "https://corrispondente.filoclastos.it/2026/10/02/jovanotti-docufilm-festa-cinema-roma-2026/",
+      "slug": "jovanotti-docufilm-festa-cinema-roma-2026",
+      "categoria": "Cultura",
+      "evidenza": false,
+      "pubblicato": false
     }
   ]
 }

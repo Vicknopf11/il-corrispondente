@@ -1,6 +1,192 @@
 {
   "edizioni": [
     {
+      "data": "2026-10-02",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Trump dà l'ultimatum all'Iran: o l'accordo o la fine",
+          "slug": "trump-ultimatum-iran-guerra-golfo-2026",
+          "tag": [
+            "iran",
+            "usa",
+            "medio-oriente",
+            "industria-bellica"
+          ],
+          "evidenza": true,
+          "fonte": "focusamerica.it / Sky TG24",
+          "cerca_url": "https://www.google.com/search?q=Trump+ultimatum+Iran+ottobre+2026+Pentagono+Golfo",
+          "post_x": "Trump minaccia l'Iran di morte e manda navi nel Golfo. Intanto i contractor della difesa brindano. Coincidenze della storia. #Iran #Trump #Pentagono",
+          "post_sito": "Il Pentagono invia migliaia di Marine, navi da guerra e batterie Patriot nel Golfo Persico, mentre Trump lancia un ultimatum a Teheran: accordo o annientamento. Il coro mediatico si divide tra falchi e colombe, ma nessuno nomina con precisione chi ci guadagna: le azioni dei contractor della difesa americana — Lockheed, Raytheon, Northrop Grumman — volano ogni volta che la tensione sale nel Golfo. Il contesto rimosso è che Washington ha destabilizzato sistematicamente la regione dagli anni '50 in poi, dalla caduta di Mossadegh al supporto a Saddam contro l'Iran, fino alle sanzioni che hanno distrutto la classe media iraniana senza toccare il regime. Il villain di comodo è Teheran; il mandante invisibile è un sistema di interessi militari-industriali che ha bisogno di un nemico per giustificare bilanci della difesa da record. La portaerei USS Theodore Roosevelt è attesa nella regione entro fine novembre: tempismo perfetto, a un mese dalle elezioni di metà mandato americane.",
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La posizione di Washington",
+              "testo": "L'amministrazione Trump sostiene che l'ultimatum all'Iran risponde a minacce concrete alle infrastrutture energetiche di Arabia Saudita e Qatar e alla sicurezza delle basi americane nella regione. Il dispiegamento militare nel Golfo è presentato come misura deterrente, non come preludio a un'operazione offensiva. Trump ha condizionato qualsiasi azione militare alla conferma del coinvolgimento iraniano nell'attacco a un volo Flydubai."
+            },
+            {
+              "etichetta": "La prospettiva iraniana e dei suoi alleati",
+              "testo": "Teheran nega responsabilità negli attacchi citati e legge il dispiegamento americano come una provocazione finalizzata a ottenere concessioni negoziali, o come pretesto per un'azione militare pianificata. Russia e Cina hanno invitato alla de-escalation, avvertendo che un conflitto nel Golfo avrebbe effetti destabilizzanti globali sui mercati energetici."
+            },
+            {
+              "etichetta": "Il nodo energetico europeo",
+              "testo": "Washington ha contestualmente chiesto alle capitali europee di rilasciare le proprie scorte strategiche di diesel per calmierare i prezzi, minacciando altrimenti un blocco alle esportazioni americane di gasolio. L'Italia, che dipende ancora in misura significativa dal gas mediorientale, si trova stretta tra la fedeltà atlantica e la necessità di contenere i prezzi interni dell'energia, già oggetto di proteste sindacali."
+            },
+            {
+              "etichetta": "Chi ci guadagna economicamente",
+              "testo": "Ogni escalation nel Golfo produce effetti immediati sui mercati: rialzo del petrolio, aumento dei titoli della difesa, pressione sulle valute dei paesi importatori di energia. SpaceX, già fornitore strategico del Pentagono, e aziende come Anduril — il cui fondatore Palmer Luckey è stato appena nominato co-direttore del Project Meridian — sono posizionate per ricevere commesse miliardarie in caso di operazioni militari prolungate."
+            }
+          ],
+          "implicazioni": "Un conflitto aperto con l'Iran avrebbe conseguenze immediate sui prezzi dell'energia in Europa, già sotto pressione. L'Italia rischierebbe una nuova impennata delle bollette in un momento in cui il governo è già in difficoltà con Bruxelles sulla flessibilità di bilancio. Sul piano geopolitico, un'escalation militare americana a un mese dalle elezioni di metà mandato potrebbe consolidare il consenso interno a Trump nel breve termine, ma isolare ulteriormente gli Stati Uniti dai partner europei già insofferenti per le pressioni sui dazi e sulle riserve energetiche.",
+          "redattore": "Il Corrispondente Estero 1.0"
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Riforma RAI e legge elettorale: il governo cambia le regole a un anno dal voto",
+          "slug": "riforma-rai-legge-elettorale-governo-meloni-2026",
+          "tag": [
+            "rai",
+            "legge-elettorale",
+            "meloni",
+            "informazione"
+          ],
+          "evidenza": false,
+          "fonte": "Il Fatto Quotidiano / TGCom24",
+          "cerca_url": "https://www.google.com/search?q=riforma+RAI+legge+elettorale+Camera+ottobre+2026",
+          "post_x": "Il governo cambia le regole del gioco mentre il campionato è in corso. Riforma RAI + nuova legge elettorale a un anno dal voto. Coincidenza? No, tradizione. #Rai #LeggeElettorale",
+          "post_sito": "La maggioranza di governo ha approvato la propria riforma della RAI e avviato l'iter della nuova legge elettorale alla Camera, con tre voti di fiducia già previsti. Le opposizioni sono unite nell'accusa: si cambiano le regole del gioco a pochi mesi dalle elezioni del 2027. Il contesto rimosso è che questa è esattamente la sesta legge elettorale della Repubblica italiana — nessun paese europeo, forse ad eccezione di Atene, ha cambiato sistema di voto con più frequenza. Ogni riforma elettorale nella storia italiana ha avuto un mandante preciso: chi governa taglia il vestito su misura dei propri rapporti di forza interni. Il controllo della RAI è il beneficio taciuto più antico della politica italiana: chi nomina i vertici televisivi controlla l'agenda informativa durante la campagna elettorale. Il deputato di +Europa Magi ha iniziato uno sciopero della fame in segno di protesta — un gesto nobile, a costo simbolico zero per chi lo ignora: manuale dell'indignazione a costo zero.",
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0"
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Meloni chiede flessibilità a Bruxelles: l'UE dice no, lo spread sale a 118,5",
+          "slug": "meloni-flessibilita-ue-spread-manovra-2026",
+          "tag": [
+            "manovra",
+            "ue",
+            "spread",
+            "conti-pubblici"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Il Messaggero / Radio Pavia",
+          "cerca_url": "https://www.google.com/search?q=Meloni+flessibilita+UE+spread+manovra+ottobre+2026",
+          "post_x": "Meloni chiede flessibilità all'UE. L'UE dice: abbiamo già dato. Lo spread sale a 118,5. Il conto lo paga chi ha il mutuo. #Spread #Manovra #UE",
+          "post_sito": "La premier Meloni ha inviato una lettera a von der Leyen chiedendo flessibilità aggiuntiva sui conti pubblici, avvertendo che senza margini di spesa il governo non potrà aiutare famiglie e imprese senza misure restrittive. Bruxelles ha risposto con un secco 'abbiamo già dato'. Lo spread BTP-Bund ha chiuso la giornata a 118,5 punti, in aumento. Il meccanismo è classico: il governo usa il conflitto con Bruxelles come schermo narrativo — il nemico esterno che impedisce le promesse — mentre il mandante invisibile è il debito pubblico italiano, il terzo più grande dell'Eurozona in termini assoluti, che ogni rialzo dei tassi rende più costoso da rifinanziare. Chi ci guadagna dall'incertezza? I mercati obbligazionari, i fondi speculativi che shortano i BTP in fasi di tensione, e le banche che comprano titoli di Stato a rendimenti crescenti. Il conto finale arriva ai contribuenti attraverso interessi sul debito che sottraggono risorse alla spesa pubblica reale.",
+          "editoriale": false,
+          "redattore": "L'Analista 1.0"
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Nicolò Bulega campione del mondo Superbike 2026: primo italiano con Ducati",
+          "slug": "bulega-campione-mondo-superbike-2026-ducati",
+          "tag": [
+            "superbike",
+            "bulega",
+            "ducati",
+            "motociclismo"
+          ],
+          "evidenza": false,
+          "fonte": "Sky Sport / Sportface.it",
+          "cerca_url": "https://www.google.com/search?q=Bulega+campione+mondo+Superbike+2026+Cremona+Ducati",
+          "post_x": "Bulega campione del mondo Superbike 2026. 26 vittorie in stagione, il titolo conquistato in casa a Cremona. L'Italia motoristica che nessuno racconta. Bravi. #Bulega #WSBK #Superbike",
+          "post_sito": "Nicolò Bulega ha conquistato il titolo mondiale Superbike 2026 con il secondo posto in Gara 2 a Cremona, su Ducati Panigale V4R del team Aruba.it Racing. È il primo italiano a vincere il titolo Superbike con un costruttore italiano, 14 anni dopo Max Biaggi. La stagione è stata una delle più dominate della storia della categoria: 26 vittorie nelle prime 30 gare. Il conto dietro la medaglia vale la pena di essere letto: la Ducati chiude così una 'Triple Crown' — titolo piloti, costruttori e squadre — in una categoria che nel 2027 cambierà fornitore di pneumatici da Pirelli a Michelin, con tutto ciò che questo comporta in termini di redistribuzione dei vantaggi tecnici. Bulega nel 2027 salirà in MotoGP sempre su Ducati: la macchina industriale bolognese ha costruito un campione interno, lo ha laureato in Superbike e ora lo porta nel circus maggiore. Un modello di filiera sportiva che l'industria motorsport italiana farebbe bene a studiare — invece di piangere i talenti ceduti alle scuderie straniere.",
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0"
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Caso Garlasco: DNA sulle unghie di Chiara Poggi, la famiglia non si costituisce parte civile contro Sempio",
+          "slug": "garlasco-dna-sempio-famiglia-poggi-parte-civile",
+          "tag": [
+            "garlasco",
+            "sempio",
+            "omicidio",
+            "giustizia"
+          ],
+          "evidenza": false,
+          "fonte": "Il Giorno / Il Fatto Quotidiano",
+          "cerca_url": "https://www.google.com/search?q=Garlasco+Sempio+DNA+unghie+famiglia+Poggi+parte+civile+ottobre+2026",
+          "post_x": "La famiglia Poggi non si costituirà parte civile contro Sempio: 'Lo riteniamo innocente'. I consulenti della pm dicono il contrario. Un processo già celebrato nei talk show. #Garlasco #Giustizia",
+          "post_sito": "I consulenti genetici della Procura di Pavia ritengono 'ragionevole' che il DNA trovato sotto le unghie di Chiara Poggi sia di Andrea Sempio, indagato nell'inchiesta bis sul delitto del 2007. Dall'altra parte, la difesa di Sempio deposita una consulenza che definisce il profilo genetico 'debole, misto e incompleto', privo di valore individualizzante. Nel mezzo, un dato che i media hanno trattato quasi come dettaglio: la famiglia Poggi — la parte offesa — ha dichiarato che non si costituirà parte civile, perché ritiene Sempio innocente. Va sottolineato con chiarezza: Sempio non è stato condannato, e la presunzione di innocenza è un principio non negoziabile, qualunque cosa abbiano deciso talk show e prime pagine. La causa strutturale rimossa da questo racconto è l'esistenza di una condanna definitiva — quella di Alberto Stasi a 16 anni — che nessuno ha ancora formalmente chiesto di revisionare, nonostante le nuove prove. Due verità giudiziarie incompatibili possono coesistere solo in un sistema che ha più paura di ammettere l'errore che di perpetuarlo.",
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0"
+        },
+        {
+          "categoria": "Scienza",
+          "titolo": "Scoperta al Gaslini una cura per la FOP, malattia che trasforma i muscoli in osso",
+          "slug": "gaslini-cura-fop-fibrodisplasia-garetosmab-lancet",
+          "tag": [
+            "malattie-rare",
+            "fop",
+            "gaslini",
+            "farmaci"
+          ],
+          "evidenza": false,
+          "fonte": "Mondosanità / Istituto Gaslini",
+          "cerca_url": "https://www.google.com/search?q=Gaslini+FOP+fibrodisplasia+ossificante+garetosmab+Lancet+2026",
+          "post_x": "Il Gaslini contribuisce a trovare un farmaco contro la FOP, malattia che trasforma i muscoli in osso. Studio su The Lancet. Notizia piccola, impatto enorme. #Gaslini #MalattieRare #FOP",
+          "post_sito": "Lo studio clinico di fase 3 OPTIMA, pubblicato su The Lancet e condotto con la partecipazione dell'Istituto Gaslini di Genova, ha dimostrato che il garetosmab — un farmaco diretto contro l'activina A — è in grado di bloccare la progressione della fibrodisplasia ossificante progressiva, una malattia genetica ultra-rara che causa la formazione di osso nei tessuti molli, rendendo progressivamente immobile chi ne è affetto. La domanda che il beneficio taciuto impone: chi produce il garetosmab e quanto costerà ai sistemi sanitari nazionali? La storia delle malattie rare è piena di farmaci 'salvavita' approvati a prezzi inaccessibili, protetti da brevetti che trasformano la disperazione in rendita. Il coro compatto dell'entusiasmo mediatico attorno a ogni 'svolta' farmacologica raramente include il prezzo di listino né i tempi di rimborsabilità. Il merito della ricerca è reale; il sistema che la monetizza merita uno sguardo separato.",
+          "editoriale": false,
+          "redattore": "Il Metodico 1.0"
+        },
+        {
+          "categoria": "AI",
+          "titolo": "Musk torna al Pentagono: co-guida il Project Meridian sulla 'guerra del futuro'",
+          "slug": "musk-pentagono-project-meridian-guerra-futuro-ai",
+          "tag": [
+            "musk",
+            "pentagono",
+            "intelligenza-artificiale",
+            "industria-bellica"
+          ],
+          "evidenza": false,
+          "fonte": "Rivista AI / ANSA / Notiziegeopolitiche.net",
+          "cerca_url": "https://www.google.com/search?q=Musk+Project+Meridian+Pentagono+guerra+futuro+AI+2026",
+          "post_x": "Musk torna al Pentagono per 'immaginare la guerra del futuro'. SpaceX è già fornitrice miliardaria della Difesa USA. Nessuna norma di incompatibilità annunciata. Domande? #Musk #Pentagono #AI",
+          "post_sito": "Il segretario alla Difesa Pete Hegseth ha annunciato il Project Meridian: Elon Musk co-guiderà, insieme a Palmer Luckey (fondatore di Anduril) e all'ex speaker repubblicano Newt Gingrich, uno studio di 120 giorni sul futuro della guerra — droni, AI, sistemi autonomi, robotica, fino alla Luna come possibile teatro operativo. Il mandante invisibile è già nella lista degli invitati: SpaceX ha contratti miliardari con il Pentagono per lanci e comunicazioni militari; Anduril sviluppa droni e sistemi autonomi per le forze armate americane. Entrambi i co-direttori del progetto che 'studierà' quali tecnologie acquistare sono anche i principali fornitori di quelle stesse tecnologie. Nessuna norma di astensione è stata annunciata. Nel frattempo Hegseth crea l'Autonomous Warfare Command, nuovo comando a quattro stelle per droni e sistemi senza pilota. L'eufemismo di potere è perfetto: non si chiama 'commissione di acquisto', si chiama 'immaginare il futuro'.",
+          "editoriale": false,
+          "redattore": "Il Futurologo 1.0"
+        },
+        {
+          "categoria": "Wellness",
+          "titolo": "Aggiornamento dei LEA: 800 nuove prestazioni in Gazzetta Ufficiale, ma chi le otterrà davvero?",
+          "slug": "lea-aggiornamento-800-prestazioni-gazzetta-ufficiale-2026",
+          "tag": [
+            "lea",
+            "sanita-pubblica",
+            "liste-attesa",
+            "welfare"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA Salute",
+          "cerca_url": "https://www.google.com/search?q=LEA+aggiornamento+800+prestazioni+Gazzetta+Ufficiale+ottobre+2026",
+          "post_x": "800 nuove prestazioni nei LEA: sulla carta, un passo avanti. Nella realtà, dipende da dove abiti e quanto aspetti. Il diritto alla salute è ancora geografico. #LEA #SanitaPubblica",
+          "post_sito": "Il governo ha pubblicato sulla Gazzetta Ufficiale l'aggiornamento dei Livelli Essenziali di Assistenza: circa 800 tra nuovi servizi, prestazioni e terapie, con interventi su screening neonatale, oncologia e malattie croniche. L'industria farmaceutica e i produttori di dispositivi medici applaudono: ogni nuova prestazione inserita nei LEA è un mercato garantito, rimborsato dal Sistema Sanitario Nazionale. Il beneficio taciuto è strutturale: i LEA definiscono ciò che lo Stato deve erogare, ma non il tempo in cui deve farlo né le risorse per farlo. In un sistema con liste d'attesa che in alcune regioni superano i due anni per una risonanza magnetica, aggiungere prestazioni sulla carta senza finanziare le strutture per erogarle è un atto simbolico dal costo politico zero e dall'effetto pratico incerto. Il doppio standard è geografico: un residente lombardo e uno calabrese hanno gli stessi LEA sulla carta; il divario nell'accesso reale è documentato da ogni rapporto Gimbe degli ultimi dieci anni.",
+          "editoriale": false,
+          "redattore": "Il Life Coach 1.0"
+        },
+        {
+          "categoria": "Cultura",
+          "titolo": "Jovanotti porta il suo docufilm alla Festa del Cinema di Roma: l'industria del racconto di sé",
+          "slug": "jovanotti-docufilm-festa-cinema-roma-2026",
+          "tag": [
+            "jovanotti",
+            "festa-del-cinema",
+            "docufilm",
+            "industria-musicale"
+          ],
+          "evidenza": false,
+          "fonte": "All Music Italia / Il Messaggero",
+          "cerca_url": "https://www.google.com/search?q=Jovanotti+docufilm+Lorenzo+Festa+Cinema+Roma+2026",
+          "post_x": "Jovanotti porta il suo docufilm alla Festa del Cinema di Roma. Un artista che racconta sé stesso, distribuito da chi ci guadagna. Il confine tra arte e marketing è diventato un'autostrada. #Jovanotti #FestaCinema",
+          "post_sito": "Lorenzo Cherubini, in arte Jovanotti, porta alla Festa del Cinema di Roma il docufilm su sé stesso — o meglio, su 'Lorenzo', come da titolo — prodotto e distribuito nell'orbita del suo ecosistema artistico-commerciale. Il mandante invisibile è l'industria del racconto di sé: il docufilm sulla rock star è ormai un formato consolidato che serve contemporaneamente tre funzioni — promozione discografica, costruzione del mito personale e monetizzazione della nostalgia del pubblico. Chi finanzia, chi distribuisce, chi incassa: domande che la critica cinematografica raramente pone ai documentari 'autoriali' sugli artisti amatissimi. Il coro compatto dell'entusiasmo attorno a Jovanotti — artista genuino, per carità — rende difficile notare che il docufilm sulla propria vita è anche, inevitabilmente, un prodotto confezionato per rafforzare un brand. La differenza tra arte e pubblicità di sé stessi si misura in chi decide il taglio del racconto: solitamente, lo stesso che ne detiene i diritti.",
+          "editoriale": false,
+          "redattore": "Il Letterato 1.0"
+        }
+      ]
+    },
+    {
       "data": "2026-10-01",
       "post": [
         {
@@ -3229,97 +3415,7 @@
           "redattore": "L'Osservatore 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-08-26",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Il capo della CIA Ratcliffe vola a Mosca: visita segreta, nessuna spiegazione",
-          "slug": "ratcliffe-cia-mosca-visita-segreta-agosto-2026",
-          "tag": [
-            "cia",
-            "russia",
-            "ucraina",
-            "trump-putin"
-          ],
-          "evidenza": true,
-          "fonte": "Il Post / ANSA / Axios",
-          "cerca_url": "https://www.google.com/search?q=Ratcliffe+CIA+Mosca+visita+segreta+agosto+2026",
-          "post_x": "Il capo della CIA vola a Mosca su aereo militare. Nessuno spiega perché. Né Washington né Mosca confermano niente. Ma l'Ucraina, nel frattempo, ha gentilmente smesso di sparare. Trattativa? Quale trattativa?",
-          "post_sito": "John Ratcliffe, direttore della CIA, è atterrato a Mosca il 25 agosto a bordo di un C-17 dell'aeronautica militare USA, partito dalla base di Andrews nel Maryland e transitato per Riga. Né il governo americano né quello russo hanno confermato ufficialmente la visita, né chi abbia incontrato, né perché — Peskov ha parlato di «contatti tra i servizi di sicurezza», salvo aver negato poche ore prima che fossero previsti incontri. Il mandante invisibile opera in piena luce: secondo Axios, l'amministrazione Trump aveva chiesto a Kiev di sospendere gli attacchi su Mosca, San Pietroburgo e le regioni settentrionali proprio nei giorni della visita — e l'Ucraina ha acconsentito. La domanda che i giornali evitano è quella più ovvia: chi beneficia di una trattativa segreta che esclude l'Ucraina dal tavolo? L'ultimo direttore CIA noto ad aver visitato Mosca era William Burns, nel novembre 2021 — pochi mesi prima dell'invasione. La storia non si ripete, ma fa rima.",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Diesel oltre 3 euro, governo convoca il CdM: proroga accise di «qualche giorno»",
-          "slug": "caro-diesel-proroga-accise-cdm-26-agosto-2026",
-          "tag": [
-            "carburanti",
-            "accise",
-            "governo-meloni",
-            "caro-vita"
-          ],
-          "evidenza": false,
-          "fonte": "Il Sole 24 Ore / ANSA / Today.it",
-          "cerca_url": "https://www.google.com/search?q=proroga+accise+diesel+Consiglio+ministri+26+agosto+2026",
-          "post_x": "Il diesel supera i 3 euro in autostrada. Il governo proroga lo sconto di 17 centesimi «per qualche giorno». Salvini vuole «qualcosa di più continuativo». Servono soldi. Nel frattempo, l'IVA incassata sui prezzi alti finanzia lo sconto sui prezzi alti. Geniale.",
-          "post_sito": "Il Consiglio dei ministri del 26 agosto è convocato per un solo scopo: prorogare di «qualche giorno» il taglio di 17 centesimi sulle accise del gasolio, già prorogato il 24 agosto con 20,8 milioni ricavati dall'extragettito IVA — cioè finanziato con i soldi incassati in più dallo Stato grazie ai prezzi alti degli stessi carburanti. Il meccanismo è un capolavoro dell'eufemismo di potere: si chiama «accisa mobile» e consiste nel usare il frutto dell'inflazione per tamponare l'inflazione. Il Supreme Diesel in autostrada ha già sfondato i 3 euro al litro, mentre agosto 2026 costa agli italiani oltre un miliardo in più rispetto all'anno scorso per benzina e gasolio. Chi ci guadagna concretamente? Le compagnie petrolifere, che in un contesto di tensioni sullo Stretto di Hormuz hanno visto i margini di raffinazione restare sostenuti. Il governo, dal canto suo, incassa più IVA quanto più il prezzo sale — e usa quella stessa IVA per ridurre il prezzo di qualche centesimo. La misura «più mirata sulle fasce di reddito più deboli» promessa da Palazzo Chigi è ancora da definire, finanziare e approvare. Nel frattempo, si prende tempo.",
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "OPA Poste su TIM: adesioni ferme al 2,5% a tre settimane dalla chiusura",
-          "slug": "opa-poste-tim-adesioni-basse-settembre-2026",
-          "tag": [
-            "poste-italiane",
-            "telecom",
-            "opa",
-            "telecomunicazioni"
-          ],
-          "evidenza": false,
-          "fonte": "SoldiOnline / MilanoFinanza / Borsa Italiana",
-          "cerca_url": "https://www.google.com/search?q=OPAS+Poste+TIM+adesioni+agosto+2026",
-          "post_sito": "L'offerta pubblica di acquisto e scambio con cui Poste Italiane punta a rilevare le azioni ordinarie di Telecom Italia — operazione da 10,8 miliardi di euro che punta a creare un gruppo da circa 27 miliardi di fatturato e 150.000 dipendenti — è in corso fino all'11 settembre, ma al 24 agosto le adesioni si attestano intorno al 2,5% delle azioni oggetto dell'offerta. La soglia minima fissata da Poste per il perfezionamento è il 66,67% del capitale TIM: tradotto, mancano oltre 60 punti percentuali a tre settimane dalla chiusura. Il beneficio taciuto è che Poste già detiene il 20,1% di TIM e, anche senza raggiungere la soglia, uscirebbe dall'operazione con una quota rafforzata — e con PosteMobile già migrata sulla rete TIM dal primo trimestre 2026. Chi tira i fili? Matteo Del Fante, AD di Poste — che è società controllata dal Ministero dell'Economia con il 35% — ha costruito negli anni un colosso da 35 milioni di clienti in servizi finanziari, assicurativi, postali ed energetici; aggiungere le telecomunicazioni significherebbe creare un'infrastruttura strategica nazionale interamente sotto l'ombrello statale. Il mercato, però, guarda ai numeri: serve che i grandi fondi istituzionali si muovano nelle ultime sedute utili, come da tradizione. L'esito resta aperto.",
-          "post_x": "OPA Poste su TIM da 10,8 mld: adesioni al 2,5%, soglia minima al 66,67%, chiusura l'11 settembre. Tutto dipende dai grandi fondi che scelgono nell'ultima settimana. Nel frattempo lo Stato, già azionista di Poste, aspetta di diventare anche padrone di TIM.",
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Al via i Mondiali di Mountain Bike in Val di Sole: oggi le prime maglie iridate",
-          "slug": "mondiali-mountain-bike-val-di-sole-26-agosto-2026",
-          "tag": [
-            "mountain-bike",
-            "mondiali",
-            "val-di-sole",
-            "ciclismo"
-          ],
-          "evidenza": false,
-          "fonte": "Eurosport / Olympics.com / Pianeta Mountain Bike",
-          "cerca_url": "https://www.google.com/search?q=Mondiali+Mountain+Bike+Val+di+Sole+26+agosto+2026",
-          "post_x": "Oggi a Daolasa di Commezzadura (TN) si assegnano le prime maglie iridate MTB 2026: e-MTB ed il Team Relay aprono una settimana con 17 titoli mondiali in palio. Van der Poel, Pidcock, Berta, Avondetto. C'è anche la Rai, gratis. Per una volta.",
-          "post_sito": "Mercoledì 26 agosto si alza il sipario sui Campionati del Mondo UCI di Mountain Bike 2026, che fino al 30 agosto porteranno in Val di Sole — per la quarta volta nella sua storia, dopo il 2008, il 2016 e il 2021 — i migliori rider del pianeta a contendersi 17 titoli iridati in cinque discipline. Oggi si parte con l'e-MTB femminile (ore 10:00) e maschile (ore 11:30) e il Team Relay (ore 17:00). L'Italia schiera 30 atleti, tra cui Simone Avondetto (argento mondiale XCO 2025), Luca Braidot (quarto a Parigi 2024) e Martina Berta, prima italiana a vincere una tappa UCI Mountain Bike World Series dopo 13 anni. Sul fronte tv, le gare élite di Short Track (giovedì 27), Downhill (sabato 29) e Cross Country (domenica 30) saranno trasmesse in chiaro sulle reti Rai — con RaiPlay Sport 2 per lo streaming del Cross Country élite — oltre che su Eurosport a pagamento. Il conto dietro la medaglia esiste: la macchina organizzativa dell'evento coinvolge decine di sponsor e brand activation che trasformano la settimana iridata in un festival commerciale parallelo alle gare. Ma la pista Black Snake rimane una delle più spettacolari al mondo, e gli azzurri ci credono davvero.",
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Difterite a Palermo: autopsia sulla bimba morta, i genitori denunciano tre ospedali",
-          "slug": "difterite-palermo-bambina-morta-autopsia-genitori-denuncia",
-          "tag": [
-            "difterite",
-            "palermo",
-            "vaccinazioni",
-            "sanita"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Sky TG24 / Giornale di Sicilia",
-          "cerca_url": "https://www.google.com/search?q=bimba+morta+difterite+Palermo+autopsia+agosto+2026",
-          "post_x": "Palermo 2026: una bimba di 4 anni muore di difterite, malattia che il vaccino obbligatorio elimina quasi per intero. Oggi l'autopsia. I genitori, indagati per omicidio colposo, denunciano gli ospedali. La causa strutturale rimossa si chiama copertura vaccinale sotto soglia.",
-          "post_sito": "Anna Rosa, 4 anni, è morta a Palermo nella notte tra il 20 e il 21 agosto per difterite, malattia che il vaccino esavalente — obbligatorio in Italia — rende sostanzialmente non letale per chi è immunizzato. I genitori, residenti nel quartiere Zen, avevano scelto di non vaccinare nessuno dei loro cinque figli; oggi, indagati dalla Procura di Palermo per omicidio colposo, hanno presentato denuncia querela contro i tre ospedali che hanno avuto in cura la piccola (Cervello, Civico e Ospedale dei bambini), sostenendo diagnosi errate e cure inadeguate. L'autopsia è in programma nella giornata del 26 agosto. La causa strutturale rimossa dal racconto dominante — che si è rapidamente cristallizzato attorno alla coppia no-vax come villain di comodo — è la progressiva erosione della copertura vaccinale in alcune aree urbane del Sud: i dati mostrano che tra il 2025 e il 2026 le vaccinazioni esavalenti sono raddoppiate a Palermo dopo la morte della bambina, il che documenta quanto fosse bassa la soglia prima. Dieci familiari sono risultati positivi alla difterite, nessuno in forma grave perché vaccinati. La presunzione di innocenza impone cautela sul versante processuale: i fatti accertati — la mancata vaccinazione, la morte, il focolaio — non aspettano il verdetto per parlare da soli.",
-          "redattore": "L'Osservatore 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-10-01T07:18:50.366038+00:00"
+  "ultimo_aggiornamento": "2026-10-02T07:26:48.205449+00:00"
 }
