@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-02",
+      "slug": "gaslini-cura-fop-fibrodisplasia-garetosmab-lancet",
+      "categoria": "Scienza",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-02",
       "slug": "garlasco-dna-sempio-famiglia-poggi-parte-civile",
       "categoria": "Cronaca",
       "evidenza": false,
