@@ -1,6 +1,30 @@
 {
-  "generato": "2026-10-02T05:30:59.561065+00:00",
+  "generato": "2026-10-02T11:30:54.631302+00:00",
   "item": [
+    {
+      "sottocategoria": "Atletica",
+      "tipo": "notizia",
+      "titolo": "Doping, Schwazer cambia linea: chiede le controanalisi e rinuncia alla \"terza provetta\"",
+      "link": "https://www.gazzetta.it/Atletica/01-10-2026/schwazer-niente-terza-provetta-svolta-caso-doping-controanalisi.shtml",
+      "fonte": "Gazzetta — Atletica",
+      "data_evento": "2026-10-01"
+    },
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Gli azzurrini di Pétanque in Grecia per stupire l'Europa: tanti volti nuovi per l'Italia",
+      "link": "https://www.gazzetta.it/bocce/01-10-2026/gli-azzurrini-di-petanque-in-grecia-per-stupire-l-europa-tanti-volti-nuovi-per-l-italia.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-10-01"
+    },
+    {
+      "sottocategoria": "Combattimento",
+      "tipo": "notizia",
+      "titolo": "Bellandi: \"Nessuno ti prepara a quello che viene dopo la vittoria. Ho sconfitto i mostri e ho trovato l'amore\"",
+      "link": "https://www.gazzetta.it/festival-sport-trento/02-10-2026/bellandi-al-festival-dello-sport-gli-ori-l-amore-e.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-10-02"
+    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
@@ -16,30 +40,6 @@
       "link": "https://www.gazzetta.it/Sport-Vari/01-10-2026/malati-sport-corpo-primo-avversario-lomu-zverev.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-10-01"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Lacrime sul diamante: la piccola Genevieve sostituisce il manager e chiude la carriera di papà Verlander",
-      "link": "https://www.gazzetta.it/Sport-Usa/29-09-2026/mlb-il-ritiro-di-justin-verlander-lanciatore-dei-detroit-tigers.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-09-29"
-    },
-    {
-      "sottocategoria": "Combattimento",
-      "tipo": "notizia",
-      "titolo": "Lutto nel wrestling: è morto Pac, aveva solo 40 anni. Due giorni fa era sul ring a Chicago",
-      "link": "https://www.gazzetta.it/Sport-Vari/28-09-2026/pac-morto-wrestling.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-09-28"
-    },
-    {
-      "sottocategoria": "Squadra",
-      "tipo": "notizia",
-      "titolo": "Torna \"Un campione per amico\": 500 bambini a Mantova con Panatta e altri big",
-      "link": "https://www.gazzetta.it/Tennis/30-09-2026/panatta-e-soci-tornano-a-mantova-con-un-campione-per-amico.shtml",
-      "fonte": "Gazzetta — Volley",
-      "data_evento": "2026-09-30"
     }
   ]
 }
