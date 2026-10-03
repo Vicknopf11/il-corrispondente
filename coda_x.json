@@ -1,77 +1,77 @@
 {
-  "data": "2026-10-02",
+  "data": "2026-10-03",
   "tweet": [
     {
-      "testo": "Trump minaccia l'Iran di morte e manda navi nel Golfo. Intanto i contractor della difesa brindano. Coincidenze della storia. #Iran #Trump #Pentagono",
-      "url": "https://corrispondente.filoclastos.it/2026/10/02/trump-ultimatum-iran-guerra-golfo-2026/",
-      "slug": "trump-ultimatum-iran-guerra-golfo-2026",
+      "testo": "Trump promette: «L'Iran cederà subito dopo le midterm». Sette mesi di guerra, il Brent sopra i 100 dollari, e la pace ha un calendario elettorale. Coincidenza. #Iran #Trump #Petrolio",
+      "url": "https://corrispondente.filoclastos.it/2026/10/03/trump-iran-cede-dopo-midterm/",
+      "slug": "trump-iran-cede-dopo-midterm",
       "categoria": "Politica Internazionale",
       "evidenza": true,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Il governo cambia le regole del gioco mentre il campionato è in corso. Riforma RAI + nuova legge elettorale a un anno dal voto. Coincidenza? No, tradizione. #Rai #LeggeElettorale",
-      "url": "https://corrispondente.filoclastos.it/2026/10/02/riforma-rai-legge-elettorale-governo-meloni-2026/",
-      "slug": "riforma-rai-legge-elettorale-governo-meloni-2026",
+      "testo": "Il governo vara il DPFP chiedendo 14 mld per difesa e 14 per energia. Giorgetti dice «prudenza». Lo spread tocca 126 punti. La prudenza, evidentemente, è per gli altri. #Manovra #Spread #Meloni",
+      "url": "https://corrispondente.filoclastos.it/2026/10/03/governo-dpfp-difesa-spread-meloni-bruxelles/",
+      "slug": "governo-dpfp-difesa-spread-meloni-bruxelles",
       "categoria": "Politica Nazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Meloni chiede flessibilità all'UE. L'UE dice: abbiamo già dato. Lo spread sale a 118,5. Il conto lo paga chi ha il mutuo. #Spread #Manovra #UE",
-      "url": "https://corrispondente.filoclastos.it/2026/10/02/meloni-flessibilita-ue-spread-manovra-2026/",
-      "slug": "meloni-flessibilita-ue-spread-manovra-2026",
+      "testo": "VW valuta di vendere Ducati (stimata 1,25 mld). Aveva già provato nel 2017, poi si era fermata. Crosetto promette un tavolo. Nel 2012 la comprarono per ridurla a ornamento. Ora non basta più. #Ducati #Volkswagen #MotorValley",
+      "url": "https://corrispondente.filoclastos.it/2026/10/03/volkswagen-cessione-ducati-1-miliardo/",
+      "slug": "volkswagen-cessione-ducati-1-miliardo",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Bulega campione del mondo Superbike 2026. 26 vittorie in stagione, il titolo conquistato in casa a Cremona. L'Italia motoristica che nessuno racconta. Bravi. #Bulega #WSBK #Superbike",
-      "url": "https://corrispondente.filoclastos.it/2026/10/02/bulega-campione-mondo-superbike-2026-ducati/",
-      "slug": "bulega-campione-mondo-superbike-2026-ducati",
+      "testo": "Oggi a Lubiana 130 km di corsa in linea e Elisa Longo Borghini ci riprova: bronzo ai Mondiali di Montreal, ora vuole l'oro europeo. Vollering è la favorita, ma Elisa ha il coraggio. #Ciclismo #Europei2026",
+      "url": "https://corrispondente.filoclastos.it/2026/10/03/europei-ciclismo-femminile-longo-borghini-vollering-slovenia/",
+      "slug": "europei-ciclismo-femminile-longo-borghini-vollering-slovenia",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "La famiglia Poggi non si costituirà parte civile contro Sempio: 'Lo riteniamo innocente'. I consulenti della pm dicono il contrario. Un processo già celebrato nei talk show. #Garlasco #Giustizia",
-      "url": "https://corrispondente.filoclastos.it/2026/10/02/garlasco-dna-sempio-famiglia-poggi-parte-civile/",
-      "slug": "garlasco-dna-sempio-famiglia-poggi-parte-civile",
+      "testo": "Sempio: «Non ci sono prove per processarmi». La Procura di Pavia preme, Stasi è ancora condannato in via definitiva. L'impronta 33 al centro di tutto. In mezzo: 19 anni di storia processuale. #Garlasco #Sempio",
+      "url": "https://corrispondente.filoclastos.it/2026/10/03/garlasco-sempio-impronta-33-coro-mediatico/",
+      "slug": "garlasco-sempio-impronta-33-coro-mediatico",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Il Gaslini contribuisce a trovare un farmaco contro la FOP, malattia che trasforma i muscoli in osso. Studio su The Lancet. Notizia piccola, impatto enorme. #Gaslini #MalattieRare #FOP",
-      "url": "https://corrispondente.filoclastos.it/2026/10/02/gaslini-cura-fop-fibrodisplasia-garetosmab-lancet/",
-      "slug": "gaslini-cura-fop-fibrodisplasia-garetosmab-lancet",
+      "testo": "Studio Mayo Clinic su Cell: 341 specie batteriche legate a 5 tipi di tumore. Rivoluzionario? Forse. Chi finanzia e chi brevetta i test diagnostici che ne deriveranno è già nella stanza. #Microbioma #Tumori #Scienza",
+      "url": "https://corrispondente.filoclastos.it/2026/10/03/microbioma-341-batteri-tumori-mayo-clinic-cell/",
+      "slug": "microbioma-341-batteri-tumori-mayo-clinic-cell",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Musk torna al Pentagono per 'immaginare la guerra del futuro'. SpaceX è già fornitrice miliardaria della Difesa USA. Nessuna norma di incompatibilità annunciata. Domande? #Musk #Pentagono #AI",
-      "url": "https://corrispondente.filoclastos.it/2026/10/02/musk-pentagono-project-meridian-guerra-futuro-ai/",
-      "slug": "musk-pentagono-project-meridian-guerra-futuro-ai",
+      "testo": "OpenAI licenzia 3 ricercatori di sicurezza che avevano condiviso dati con un ente esterno di valutazione AI. L'azienda dice: «violazione della fiducia». I ricercatori dicevano: «allarme». Chi aveva ragione? #OpenAI #SafetyAI",
+      "url": "https://corrispondente.filoclastos.it/2026/10/03/openai-licenzia-ricercatori-sicurezza-dati-esterni/",
+      "slug": "openai-licenzia-ricercatori-sicurezza-dati-esterni",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "800 nuove prestazioni nei LEA: sulla carta, un passo avanti. Nella realtà, dipende da dove abiti e quanto aspetti. Il diritto alla salute è ancora geografico. #LEA #SanitaPubblica",
-      "url": "https://corrispondente.filoclastos.it/2026/10/02/lea-aggiornamento-800-prestazioni-gazzetta-ufficiale-2026/",
-      "slug": "lea-aggiornamento-800-prestazioni-gazzetta-ufficiale-2026",
+      "testo": "Milano4MentalHealth: 100+ eventi per la salute mentale, co-finanziati da Lundbeck Italia — azienda farmaceutica specializzata in farmaci per il cervello. Il tema è giusto. Chi lo finanzia fa domande. #SaluteMentale #Milano",
+      "url": "https://corrispondente.filoclastos.it/2026/10/03/milano4mentalhealth-2026-lundbeck-sponsor/",
+      "slug": "milano4mentalhealth-2026-lundbeck-sponsor",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Jovanotti porta il suo docufilm alla Festa del Cinema di Roma. Un artista che racconta sé stesso, distribuito da chi ci guadagna. Il confine tra arte e marketing è diventato un'autostrada. #Jovanotti #FestaCinema",
-      "url": "https://corrispondente.filoclastos.it/2026/10/02/jovanotti-docufilm-festa-cinema-roma-2026/",
-      "slug": "jovanotti-docufilm-festa-cinema-roma-2026",
+      "testo": "Il Pentagono affida a Musk, Luckey (Anduril) e Gingrich il Project Meridian: pianificare la guerra del futuro, «fino alla Luna». SpaceX già riceve miliardi dalla Difesa USA. Conflitto di interessi? Mai sentito. #ProjectMeridian #Musk",
+      "url": "https://corrispondente.filoclastos.it/2026/10/03/musk-project-meridian-pentagono-guerra-futuro/",
+      "slug": "musk-project-meridian-pentagono-guerra-futuro",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }
