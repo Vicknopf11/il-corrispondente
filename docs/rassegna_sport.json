@@ -1,6 +1,22 @@
 {
-  "generato": "2026-10-03T05:30:55.843077+00:00",
+  "generato": "2026-10-03T11:30:58.729322+00:00",
   "item": [
+    {
+      "sottocategoria": "Atletica",
+      "tipo": "notizia",
+      "titolo": "Schwazer, l'allenatore rock di Gianna Nannini: \"Bisogna vivere lo sport come fa lei\"",
+      "link": "https://www.gazzetta.it/festival-sport-trento/02-10-2026/alex-schwazer-e-gianna-nannini-al-festival-di-trento.shtml",
+      "fonte": "Gazzetta — Atletica",
+      "data_evento": "2026-10-02"
+    },
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Gli azzurrini di Pétanque in Grecia per stupire l'Europa: tanti volti nuovi per l'Italia",
+      "link": "https://www.gazzetta.it/bocce/01-10-2026/gli-azzurrini-di-petanque-in-grecia-per-stupire-l-europa-tanti-volti-nuovi-per-l-italia.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-10-01"
+    },
     {
       "sottocategoria": "Racchette e precisione",
       "tipo": "notizia",
@@ -24,22 +40,6 @@
       "link": "https://www.gazzetta.it/Nuoto/01-10-2026/pallanuoto-campionato-al-via-e-note-azzurre-pro-recco-senza-rivali.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-10-01"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Lacrime sul diamante: la piccola Genevieve sostituisce il manager e chiude la carriera di papà Verlander",
-      "link": "https://www.gazzetta.it/Sport-Usa/29-09-2026/mlb-il-ritiro-di-justin-verlander-lanciatore-dei-detroit-tigers.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-09-29"
-    },
-    {
-      "sottocategoria": "Squadra",
-      "tipo": "notizia",
-      "titolo": "Parte l'A1 donne, Milano dà il via in casa. Conegliano caccia al decimo tricolore",
-      "link": "https://www.gazzetta.it/Volley/storie/02-10-2026/a1-donne-al-via-il-3-ottobre-le-squadre-del-campionato/al-via-sabato.shtml",
-      "fonte": "Gazzetta — Volley",
-      "data_evento": "2026-10-02"
     }
   ]
 }
