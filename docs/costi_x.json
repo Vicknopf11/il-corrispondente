@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-03",
+      "slug": "musk-project-meridian-pentagono-guerra-futuro",
+      "categoria": "Cultura",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-03",
       "slug": "milano4mentalhealth-2026-lundbeck-sponsor",
       "categoria": "Wellness",
       "evidenza": false,
