@@ -1,6 +1,14 @@
 {
-  "generato": "2026-10-02T17:30:57.321580+00:00",
+  "generato": "2026-10-03T05:30:55.843077+00:00",
   "item": [
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Danza sportiva, a Ostia il GrandSlam: in gara 1.100 atleti da 51 Paesi",
+      "link": "https://www.gazzetta.it/Sport-Vari/02-10-2026/danza-sportiva-a-ostia-il-grandslam-in-gara-1-100-atleti-da-51-paesi.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-10-02"
+    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
@@ -14,14 +22,6 @@
       "tipo": "notizia",
       "titolo": "Campionato al via e note azzurre: Pro Recco senza rivali. Donne: ancora sfida Orizzonte Catania-Roma",
       "link": "https://www.gazzetta.it/Nuoto/01-10-2026/pallanuoto-campionato-al-via-e-note-azzurre-pro-recco-senza-rivali.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-10-01"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Malati di sport: da Lomu a Zverev, quando il corpo è il tuo primo avversario",
-      "link": "https://www.gazzetta.it/Sport-Vari/01-10-2026/malati-sport-corpo-primo-avversario-lomu-zverev.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-10-01"
     },
