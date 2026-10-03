@@ -1,6 +1,14 @@
 {
   "pubblicazioni": [
     {
+      "data": "2026-10-03",
+      "slug": "trump-iran-cede-dopo-midterm",
+      "categoria": "Politica Internazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
       "data": "2026-10-02",
       "slug": "jovanotti-docufilm-festa-cinema-roma-2026",
       "categoria": "Cultura",
