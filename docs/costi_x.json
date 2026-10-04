@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-04",
+      "slug": "stragi-92-archiviato-filone-mafia-appalti-pignatone-natoli-prescritti",
+      "categoria": "Cronaca",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
+      "data": "2026-10-04",
       "slug": "europei-ciclismo-lubiana-prova-elite-maschile-evenepoel",
       "categoria": "Sport",
       "evidenza": false,
