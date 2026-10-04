@@ -1,22 +1,6 @@
 {
-  "generato": "2026-10-04T11:31:00.747056+00:00",
+  "generato": "2026-10-04T17:30:56.625316+00:00",
   "item": [
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "Battocletti: “Non facile ripetermi a Birmingham. Cross a Belgrado? Essere favorita aiuta”",
-      "link": "https://video.gazzetta.it/festival-dello-sport/video-battocletti-non-facile-ripetermi-a-birmingham-belgrado-essere-favorita-aiuta/5c3b79b7-715a-4902-b91e-cb018d9d6xlk",
-      "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-10-04"
-    },
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Gli azzurrini di Pétanque in Grecia per stupire l'Europa: tanti volti nuovi per l'Italia",
-      "link": "https://www.gazzetta.it/bocce/01-10-2026/gli-azzurrini-di-petanque-in-grecia-per-stupire-l-europa-tanti-volti-nuovi-per-l-italia.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-10-01"
-    },
     {
       "sottocategoria": "Racchette e precisione",
       "tipo": "notizia",
@@ -40,6 +24,22 @@
       "link": "https://www.gazzetta.it/Nuoto/01-10-2026/pallanuoto-campionato-al-via-e-note-azzurre-pro-recco-senza-rivali.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-10-01"
+    },
+    {
+      "sottocategoria": "Squadra",
+      "tipo": "notizia",
+      "titolo": "Marzari: “Il volley femminile deve pensare al futuro. Spero l’OMES sia un collettore”",
+      "link": "https://video.gazzetta.it/festival-dello-sport/video-marzari-volley-femminile-deve-pensare-al-futuro-spero-l-omes-sia-un-collettore/9a8cccbf-c3cb-41de-bacd-b17b625afxlk",
+      "fonte": "Gazzetta — Volley",
+      "data_evento": "2026-10-04"
+    },
+    {
+      "sottocategoria": "Atletica",
+      "tipo": "notizia",
+      "titolo": "Urbano Cairo e Gianmarco Tamberi: \"Sempre Più In Alto\". Guarda l'evento completo",
+      "link": "https://video.gazzetta.it/festival-dello-sport/video-urbano-cairo-e-gianmarco-tamberi-sempre-piu-in-alto-guarda-l-evento-completo/d8e7e13a-6e4d-493e-a7c6-63a97b41fxlk",
+      "fonte": "Gazzetta — Atletica",
+      "data_evento": "2026-10-04"
     }
   ]
 }
