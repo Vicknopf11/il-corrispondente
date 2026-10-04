@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-04",
+      "slug": "inflazione-42-energia-famiglie-tagliano-consumi",
+      "categoria": "Economia",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-04",
       "slug": "manovra-14-miliardi-armi-sanita-a-secco",
       "categoria": "Politica Nazionale",
       "evidenza": false,
