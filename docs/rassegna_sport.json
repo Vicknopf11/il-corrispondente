@@ -1,6 +1,22 @@
 {
-  "generato": "2026-10-04T05:30:58.012956+00:00",
+  "generato": "2026-10-04T11:31:00.747056+00:00",
   "item": [
+    {
+      "sottocategoria": "Atletica",
+      "tipo": "notizia",
+      "titolo": "Battocletti: “Non facile ripetermi a Birmingham. Cross a Belgrado? Essere favorita aiuta”",
+      "link": "https://video.gazzetta.it/festival-dello-sport/video-battocletti-non-facile-ripetermi-a-birmingham-belgrado-essere-favorita-aiuta/5c3b79b7-715a-4902-b91e-cb018d9d6xlk",
+      "fonte": "Gazzetta — Atletica",
+      "data_evento": "2026-10-04"
+    },
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Gli azzurrini di Pétanque in Grecia per stupire l'Europa: tanti volti nuovi per l'Italia",
+      "link": "https://www.gazzetta.it/bocce/01-10-2026/gli-azzurrini-di-petanque-in-grecia-per-stupire-l-europa-tanti-volti-nuovi-per-l-italia.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-10-01"
+    },
     {
       "sottocategoria": "Racchette e precisione",
       "tipo": "notizia",
@@ -24,22 +40,6 @@
       "link": "https://www.gazzetta.it/Nuoto/01-10-2026/pallanuoto-campionato-al-via-e-note-azzurre-pro-recco-senza-rivali.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-10-01"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Lacrime sul diamante: la piccola Genevieve sostituisce il manager e chiude la carriera di papà Verlander",
-      "link": "https://www.gazzetta.it/Sport-Usa/29-09-2026/mlb-il-ritiro-di-justin-verlander-lanciatore-dei-detroit-tigers.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-09-29"
-    },
-    {
-      "sottocategoria": "Squadra",
-      "tipo": "notizia",
-      "titolo": "A1 donne, Milano parte forte con Egonu: 3-0 a Firenze per l'esordio in campionato",
-      "link": "https://www.gazzetta.it/Volley/03-10-2026/a1-donne-milano-parte-forte-con-egonu-3-0-a-firenze-per-l-esordio-in-campionato.shtml",
-      "fonte": "Gazzetta — Volley",
-      "data_evento": "2026-10-03"
     }
   ]
 }
