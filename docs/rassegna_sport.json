@@ -1,6 +1,22 @@
 {
-  "generato": "2026-10-05T05:30:54.494655+00:00",
+  "generato": "2026-10-05T11:31:02.359488+00:00",
   "item": [
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Gli azzurrini di Pétanque in Grecia per stupire l'Europa: tanti volti nuovi per l'Italia",
+      "link": "https://www.gazzetta.it/bocce/01-10-2026/gli-azzurrini-di-petanque-in-grecia-per-stupire-l-europa-tanti-volti-nuovi-per-l-italia.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-10-01"
+    },
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Chikungunya e Parvovirus B19: cosa sono i due virus che hanno fermato Sofia Goggia",
+      "link": "https://www.gazzetta.it/salute/storie/04-10-2026/sofia-goggia-virus-cosa-sono-chikungunya-e-parvovirus-b19-il-contagio/un-brusco-stop.shtml",
+      "fonte": "Gazzetta — Sport Invernali",
+      "data_evento": "2026-10-04"
+    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
@@ -24,22 +40,6 @@
       "link": "https://www.gazzetta.it/festival-sport-trento/02-10-2026/bellandi-al-festival-dello-sport-gli-ori-l-amore-e.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-10-02"
-    },
-    {
-      "sottocategoria": "Squadra",
-      "tipo": "notizia",
-      "titolo": "Volley A1 donne, Chieri batte Scandicci al tie-break. Debutto vincente per Conegliano",
-      "link": "https://www.gazzetta.it/Volley/04-10-2026/volley-a1-donne-chieri-batte-scandicci-conegliano-vince-in-tre-set-all-esordio.shtml",
-      "fonte": "Gazzetta — Volley",
-      "data_evento": "2026-10-04"
-    },
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "Urbano Cairo e Gianmarco Tamberi: \"Sempre Più In Alto\". Guarda l'evento completo",
-      "link": "https://video.gazzetta.it/festival-dello-sport/video-urbano-cairo-e-gianmarco-tamberi-sempre-piu-in-alto-guarda-l-evento-completo/d8e7e13a-6e4d-493e-a7c6-63a97b41fxlk",
-      "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-10-04"
     }
   ]
 }
