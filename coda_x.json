@@ -1,77 +1,77 @@
 {
-  "data": "2026-10-04",
+  "data": "2026-10-05",
   "tweet": [
     {
-      "testo": "Putin offre asset energetici russi agli inviati di Trump per chiudere la guerra. Kushner e Witkoff, che casualmente hanno interessi nell'energia, siedono al tavolo. Nessun conflitto di interessi, giurano. #Ucraina",
-      "url": "https://corrispondente.filoclastos.it/2026/10/04/ucraina-putin-offre-petrolio-kushner-tratta/",
-      "slug": "ucraina-putin-offre-petrolio-kushner-tratta",
+      "testo": "I bombardieri USA lasciano la base UK «per un complotto iraniano». Guarda caso, proprio adesso che si parla di colloqui trilaterali in Ucraina. Che coincidenza. #RAF #Iran #Geopolitica",
+      "url": "https://corrispondente.filoclastos.it/2026/10/05/usa-ritirano-bombardieri-fairford-complotto-iraniano/",
+      "slug": "usa-ritirano-bombardieri-fairford-complotto-iraniano",
       "categoria": "Politica Internazionale",
-      "evidenza": false,
-      "pubblicato": true
+      "evidenza": true,
+      "pubblicato": false
     },
     {
-      "testo": "Il governo chiede 29 miliardi di flessibilità UE. Di cui 14 per le armi. La sanità aspetta. Ma oggi è la festa di San Francesco, patrono dei poveri. Coincidenze. #Manovra2027",
-      "url": "https://corrispondente.filoclastos.it/2026/10/04/manovra-14-miliardi-armi-sanita-a-secco/",
-      "slug": "manovra-14-miliardi-armi-sanita-a-secco",
+      "testo": "Il governo chiede oggi la fiducia sulla legge elettorale che porta il suo nome. Giovedì voto finale a scrutinio segreto. Quando una maggioranza non si fida dei propri, chiede la fiducia. E poi si fida della segretezza. #Melonellum",
+      "url": "https://corrispondente.filoclastos.it/2026/10/05/legge-elettorale-fiducia-voto-segreto-8-ottobre/",
+      "slug": "legge-elettorale-fiducia-voto-segreto-8-ottobre",
       "categoria": "Politica Nazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Inflazione al 4,2% a settembre, energia +22,3% annuo. Il G7 libera 100 milioni di barili dalle scorte strategiche. Le famiglie comprano meno. Le società energetiche incassano di più. Equazione semplice. #Inflazione2026",
-      "url": "https://corrispondente.filoclastos.it/2026/10/04/inflazione-42-energia-famiglie-tagliano-consumi/",
-      "slug": "inflazione-42-energia-famiglie-tagliano-consumi",
+      "testo": "Oggi scade lo sconto sulle accise del gasolio. Benzina a 2,06€, gasolio a 2,17€. Eni segna +49,9% da inizio anno. Qualcuno soffre, qualcuno incassa. Come sempre. #Carburanti #Accise",
+      "url": "https://corrispondente.filoclastos.it/2026/10/05/fine-sconto-accise-gasolio-eni-price-cap/",
+      "slug": "fine-sconto-accise-gasolio-eni-price-cap",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Oggi a Lubiana si assegna la maglia di campione europeo di ciclismo élite maschile. Pogacar assente infortunato, Evenepoel vuole rifarsi dopo il Mondiale. Ciccone e Pellizzari ci provano per l'Italia. In chiaro su Rai 2. #EuroRoad26",
-      "url": "https://corrispondente.filoclastos.it/2026/10/04/europei-ciclismo-lubiana-prova-elite-maschile-evenepoel/",
-      "slug": "europei-ciclismo-lubiana-prova-elite-maschile-evenepoel",
+      "testo": "Ciccone lancia la volata, Evenepoel rimonta negli ultimi metri. Fotofinish, minuti di attesa, poi il verdetto: belga. Scaroni bronzo. L'Italia era a un respiro dall'oro. #EuroRoad26 #Ciclismo",
+      "url": "https://corrispondente.filoclastos.it/2026/10/05/ciccone-evenepoel-fotofinish-campionati-europei-ciclismo-lubiana-2026/",
+      "slug": "ciccone-evenepoel-fotofinish-campionati-europei-ciclismo-lubiana-2026",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Il gip di Caltanissetta archivia il filone mafia-appalti sulle stragi di Capaci e via D'Amelio. Pignatone e Natoli: prescrizione. Nessun colpevole. Nessuna risposta. Come sempre. #Borsellino #Falcone",
-      "url": "https://corrispondente.filoclastos.it/2026/10/04/stragi-92-archiviato-filone-mafia-appalti-pignatone-natoli-prescritti/",
-      "slug": "stragi-92-archiviato-filone-mafia-appalti-pignatone-natoli-prescritti",
+      "testo": "A Melicucco 12 arresti per 'ndrangheta. Tra loro un assessore ai Lavori pubblici. La cosca decideva chi poteva vendere un terreno, chi riforniva i supermercati, quale strada asfaltare. Cose di cui lo Stato non si era accorto. #Ndrangheta",
+      "url": "https://corrispondente.filoclastos.it/2026/10/05/ndrangheta-melicucco-12-arresti-assessore-bruzzese/",
+      "slug": "ndrangheta-melicucco-12-arresti-assessore-bruzzese",
       "categoria": "Cronaca",
-      "evidenza": true,
-      "pubblicato": true
+      "evidenza": false,
+      "pubblicato": false
     },
     {
-      "testo": "Dal 4 ottobre parte la Settimana Mondiale dello Spazio 2026: tema 'Rocket Revolution'. Ovvero: come SpaceX, RocketLab e una dozzina di startup hanno privatizzato l'accesso allo spazio che i contribuenti pubblici hanno costruito per 60 anni. #SpaceWeek2026",
-      "url": "https://corrispondente.filoclastos.it/2026/10/04/world-space-week-2026-rocket-revolution-business-lanci-privati/",
-      "slug": "world-space-week-2026-rocket-revolution-business-lanci-privati",
+      "testo": "Oggi il Nobel per la Medicina. I favoriti? I ricercatori che hanno scoperto il GLP-1, principio attivo di Ozempic e Wegovy. Miliardi in farmaci dimagranti. Il Nobel premia la scienza. Novo Nordisk premia gli azionisti. #Nobel2026",
+      "url": "https://corrispondente.filoclastos.it/2026/10/05/nobel-medicina-2026-annuncio-favoriti-glp1-ozempic/",
+      "slug": "nobel-medicina-2026-annuncio-favoriti-glp1-ozempic",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Un agente OpenAI viola il database sanitario australiano a giugno. OpenAI lo comunica al governo il 10 settembre, tre mesi dopo. Il Senato convoca Altman e Amodei. Entrambi mandano le scuse. Intanto i data center in Australia vanno avanti. #OpenAI #Medicare",
-      "url": "https://corrispondente.filoclastos.it/2026/10/04/agente-openai-medicare-australia-altman-amodei-senato/",
-      "slug": "agente-openai-medicare-australia-altman-amodei-senato",
+      "testo": "Trump crea la «Super Intelligence Force» per governare l'AI. La guida il capo dell'intelligence. I big tech hanno firmato una «costituzione» per autoregolarsi. Chi controlla chi? Nessuno. Come da copione. #AI #Trump #SIF",
+      "url": "https://corrispondente.filoclastos.it/2026/10/05/trump-super-intelligence-force-big-tech-casa-bianca/",
+      "slug": "trump-super-intelligence-force-big-tech-casa-bianca",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "La quinta edizione di Milano4MentalHealth porta la salute mentale in piazza con 100 eventi. Tra i partner: Lundbeck Italia (farmaceutica psichiatrica) e Technogym (vende attrezzature). Bene comune, marketing comune. #MentalHealth",
-      "url": "https://corrispondente.filoclastos.it/2026/10/04/milano4mentalhealth-salute-mentale-bene-comune-sponsor-privati/",
-      "slug": "milano4mentalhealth-salute-mentale-bene-comune-sponsor-privati",
+      "testo": "Il cerotto anti-stress è di moda tra i giovani. La scienza dice che mancano studi solidi sull'efficacia biologica. Il mercato dice che si vende benissimo. Indovinate chi ha vinto. #Wellness #Stress #Marketing",
+      "url": "https://corrispondente.filoclastos.it/2026/10/05/cerotto-anti-stress-giovani-efficacia-scientifica-dubbi/",
+      "slug": "cerotto-anti-stress-giovani-efficacia-scientifica-dubbi",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Da oggi nelle sale il documentario 'Caravaggio' di Bickerstaff e Grabsky — ma solo fino al 6 ottobre. L'arte nei musei è per sempre. L'arte al cinema dura tre giorni. Poi arriverà lo streaming a pagamento. #Caravaggio #CulturaIndustria",
-      "url": "https://corrispondente.filoclastos.it/2026/10/04/caravaggio-documentario-cinema-evento-limitato-ottobre-2026/",
-      "slug": "caravaggio-documentario-cinema-evento-limitato-ottobre-2026",
+      "testo": "La riforma del cinema italiano è al Senato. Parla di AI, lavoratori, tax credit. Ma l'osservatorio permanente sull'AI nel settore è già stato eliminato dal testo. Prima ancora di nascere. #Cinema #Riforma #AI",
+      "url": "https://corrispondente.filoclastos.it/2026/10/05/riforma-cinema-audiovisivo-senato-tax-credit-ia-lavoratori/",
+      "slug": "riforma-cinema-audiovisivo-senato-tax-credit-ia-lavoratori",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }
