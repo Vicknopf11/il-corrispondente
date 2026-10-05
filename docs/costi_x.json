@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-05",
+      "slug": "nobel-medicina-2026-annuncio-favoriti-glp1-ozempic",
+      "categoria": "Scienza",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-05",
       "slug": "ndrangheta-melicucco-12-arresti-assessore-bruzzese",
       "categoria": "Cronaca",
       "evidenza": false,
