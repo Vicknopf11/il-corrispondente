@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-05",
+      "slug": "riforma-cinema-audiovisivo-senato-tax-credit-ia-lavoratori",
+      "categoria": "Cultura",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-05",
       "slug": "cerotto-anti-stress-giovani-efficacia-scientifica-dubbi",
       "categoria": "Wellness",
       "evidenza": false,
