@@ -1,6 +1,14 @@
 {
-  "generato": "2026-10-04T17:30:56.625316+00:00",
+  "generato": "2026-10-05T05:30:54.494655+00:00",
   "item": [
+    {
+      "sottocategoria": "Acqua",
+      "tipo": "notizia",
+      "titolo": "Surf, continua il momento positivo per l’Italia: argento e bronzo agli Europei junior",
+      "link": "https://www.gazzetta.it/Sport-Vari/05-10-2026/surf-continua-il-momento-positivo-per-l-italia-un-argento-e-un-bronzo-agli-europei-junio.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-10-05"
+    },
     {
       "sottocategoria": "Racchette e precisione",
       "tipo": "notizia",
@@ -18,18 +26,10 @@
       "data_evento": "2026-10-02"
     },
     {
-      "sottocategoria": "Acqua",
-      "tipo": "notizia",
-      "titolo": "Campionato al via e note azzurre: Pro Recco senza rivali. Donne: ancora sfida Orizzonte Catania-Roma",
-      "link": "https://www.gazzetta.it/Nuoto/01-10-2026/pallanuoto-campionato-al-via-e-note-azzurre-pro-recco-senza-rivali.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-10-01"
-    },
-    {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
-      "titolo": "Marzari: “Il volley femminile deve pensare al futuro. Spero l’OMES sia un collettore”",
-      "link": "https://video.gazzetta.it/festival-dello-sport/video-marzari-volley-femminile-deve-pensare-al-futuro-spero-l-omes-sia-un-collettore/9a8cccbf-c3cb-41de-bacd-b17b625afxlk",
+      "titolo": "Volley A1 donne, Chieri batte Scandicci al tie-break. Debutto vincente per Conegliano",
+      "link": "https://www.gazzetta.it/Volley/04-10-2026/volley-a1-donne-chieri-batte-scandicci-conegliano-vince-in-tre-set-all-esordio.shtml",
       "fonte": "Gazzetta — Volley",
       "data_evento": "2026-10-04"
     },
