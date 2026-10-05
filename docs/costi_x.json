@@ -1,6 +1,14 @@
 {
   "pubblicazioni": [
     {
+      "data": "2026-10-05",
+      "slug": "usa-ritirano-bombardieri-fairford-complotto-iraniano",
+      "categoria": "Politica Internazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
       "data": "2026-10-04",
       "slug": "caravaggio-documentario-cinema-evento-limitato-ottobre-2026",
       "categoria": "Cultura",
