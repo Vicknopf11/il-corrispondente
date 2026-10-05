@@ -1,45 +1,77 @@
 {
-  "data": "2026-10-01",
+  "data": "2026-10-05",
   "tweet": [
     {
-      "testo": "Pilota accoltellato su volo Dubai-Tel Aviv. Netanyahu evoca subito l'attentato. Le elezioni israeliane sono il 27 ottobre. Coincidenza di calendario? No, ovviamente. È solo sicurezza nazionale. #Israele #FlyDubai",
-      "url": "https://corrispondente.filoclastos.it/2026/10/01/flydubai-tel-aviv-netanyahu-attentato-elezioni/",
-      "slug": "flydubai-tel-aviv-netanyahu-attentato-elezioni",
+      "testo": "I bombardieri USA lasciano la base UK «per un complotto iraniano». Guarda caso, proprio adesso che si parla di colloqui trilaterali in Ucraina. Che coincidenza. #RAF #Iran #Geopolitica",
+      "url": "https://corrispondente.filoclastos.it/2026/10/05/usa-ritirano-bombardieri-fairford-complotto-iraniano/",
+      "slug": "usa-ritirano-bombardieri-fairford-complotto-iraniano",
       "categoria": "Politica Internazionale",
-      "evidenza": false,
-      "pubblicato": true
-    },
-    {
-      "testo": "Il governo blinda la legge elettorale con tre fiducie. Il voto finale sarà segreto. Magi digiuna. Meloni ha già detto: se non passa, si va a casa. Una democrazia che si tutela dalle proprie maggioranze. #LeggeElettorale",
-      "url": "https://corrispondente.filoclastos.it/2026/10/01/legge-elettorale-camera-fiducia-magi-sciopero-fame/",
-      "slug": "legge-elettorale-camera-fiducia-magi-sciopero-fame",
-      "categoria": "Politica Nazionale",
       "evidenza": true,
       "pubblicato": true
     },
     {
-      "testo": "Inflazione al 4,2%, bollette elettriche +37,3% nel quarto trimestre. Eni, Q8 e IP annunciano price cap sui carburanti. ENI è anche in borsa. Fincantieri sale del 3%. Il caro energia è un problema — per chi lo paga. #Inflazione #Energia",
-      "url": "https://corrispondente.filoclastos.it/2026/10/01/inflazione-42-bollette-energia-italia-ottobre-2026/",
-      "slug": "inflazione-42-bollette-energia-italia-ottobre-2026",
+      "testo": "Il governo chiede oggi la fiducia sulla legge elettorale che porta il suo nome. Giovedì voto finale a scrutinio segreto. Quando una maggioranza non si fida dei propri, chiede la fiducia. E poi si fida della segretezza. #Melonellum",
+      "url": "https://corrispondente.filoclastos.it/2026/10/05/legge-elettorale-fiducia-voto-segreto-8-ottobre/",
+      "slug": "legge-elettorale-fiducia-voto-segreto-8-ottobre",
+      "categoria": "Politica Nazionale",
+      "evidenza": false,
+      "pubblicato": true
+    },
+    {
+      "testo": "Oggi scade lo sconto sulle accise del gasolio. Benzina a 2,06€, gasolio a 2,17€. Eni segna +49,9% da inizio anno. Qualcuno soffre, qualcuno incassa. Come sempre. #Carburanti #Accise",
+      "url": "https://corrispondente.filoclastos.it/2026/10/05/fine-sconto-accise-gasolio-eni-price-cap/",
+      "slug": "fine-sconto-accise-gasolio-eni-price-cap",
       "categoria": "Economia",
       "evidenza": false,
       "pubblicato": true
     },
     {
-      "testo": "L'Italia vince l'oro a squadre nello skeet junior maschile agli Europei di Malakasa. Antonio La Volpe in finale. Argento nel femminile. Nessuna telecronaca in prima serata, ovviamente — ci sono i voti di fiducia sulla legge elettorale. #TiroAVolo #Europei2026",
-      "url": "https://corrispondente.filoclastos.it/2026/10/01/europei-tiro-a-volo-italia-oro-skeet-junior-malakasa-2026/",
-      "slug": "europei-tiro-a-volo-italia-oro-skeet-junior-malakasa-2026",
+      "testo": "Ciccone lancia la volata, Evenepoel rimonta negli ultimi metri. Fotofinish, minuti di attesa, poi il verdetto: belga. Scaroni bronzo. L'Italia era a un respiro dall'oro. #EuroRoad26 #Ciclismo",
+      "url": "https://corrispondente.filoclastos.it/2026/10/05/ciccone-evenepoel-fotofinish-campionati-europei-ciclismo-lubiana-2026/",
+      "slug": "ciccone-evenepoel-fotofinish-campionati-europei-ciclismo-lubiana-2026",
       "categoria": "Sport",
       "evidenza": false,
       "pubblicato": true
     },
     {
-      "testo": "Operaio tunisino di 55 anni morto per ustioni nello stabilimento Fincantieri di Ancona. Un 27enne bengalese gravissimo a Pisa. Entrambi lavoravano per una ditta esterna. Fincantieri esprime \"profondo cordoglio\". In borsa oggi +3,16%. #SicurezzaLavoro",
-      "url": "https://corrispondente.filoclastos.it/2026/10/01/fincantieri-ancona-operaio-morto-ustioni-sciopero/",
-      "slug": "fincantieri-ancona-operaio-morto-ustioni-sciopero",
+      "testo": "A Melicucco 12 arresti per 'ndrangheta. Tra loro un assessore ai Lavori pubblici. La cosca decideva chi poteva vendere un terreno, chi riforniva i supermercati, quale strada asfaltare. Cose di cui lo Stato non si era accorto. #Ndrangheta",
+      "url": "https://corrispondente.filoclastos.it/2026/10/05/ndrangheta-melicucco-12-arresti-assessore-bruzzese/",
+      "slug": "ndrangheta-melicucco-12-arresti-assessore-bruzzese",
       "categoria": "Cronaca",
       "evidenza": false,
       "pubblicato": true
+    },
+    {
+      "testo": "Oggi il Nobel per la Medicina. I favoriti? I ricercatori che hanno scoperto il GLP-1, principio attivo di Ozempic e Wegovy. Miliardi in farmaci dimagranti. Il Nobel premia la scienza. Novo Nordisk premia gli azionisti. #Nobel2026",
+      "url": "https://corrispondente.filoclastos.it/2026/10/05/nobel-medicina-2026-annuncio-favoriti-glp1-ozempic/",
+      "slug": "nobel-medicina-2026-annuncio-favoriti-glp1-ozempic",
+      "categoria": "Scienza",
+      "evidenza": false,
+      "pubblicato": true
+    },
+    {
+      "testo": "Trump crea la «Super Intelligence Force» per governare l'AI. La guida il capo dell'intelligence. I big tech hanno firmato una «costituzione» per autoregolarsi. Chi controlla chi? Nessuno. Come da copione. #AI #Trump #SIF",
+      "url": "https://corrispondente.filoclastos.it/2026/10/05/trump-super-intelligence-force-big-tech-casa-bianca/",
+      "slug": "trump-super-intelligence-force-big-tech-casa-bianca",
+      "categoria": "AI",
+      "evidenza": false,
+      "pubblicato": false
+    },
+    {
+      "testo": "Il cerotto anti-stress è di moda tra i giovani. La scienza dice che mancano studi solidi sull'efficacia biologica. Il mercato dice che si vende benissimo. Indovinate chi ha vinto. #Wellness #Stress #Marketing",
+      "url": "https://corrispondente.filoclastos.it/2026/10/05/cerotto-anti-stress-giovani-efficacia-scientifica-dubbi/",
+      "slug": "cerotto-anti-stress-giovani-efficacia-scientifica-dubbi",
+      "categoria": "Wellness",
+      "evidenza": false,
+      "pubblicato": false
+    },
+    {
+      "testo": "La riforma del cinema italiano è al Senato. Parla di AI, lavoratori, tax credit. Ma l'osservatorio permanente sull'AI nel settore è già stato eliminato dal testo. Prima ancora di nascere. #Cinema #Riforma #AI",
+      "url": "https://corrispondente.filoclastos.it/2026/10/05/riforma-cinema-audiovisivo-senato-tax-credit-ia-lavoratori/",
+      "slug": "riforma-cinema-audiovisivo-senato-tax-credit-ia-lavoratori",
+      "categoria": "Cultura",
+      "evidenza": false,
+      "pubblicato": false
     }
   ]
 }

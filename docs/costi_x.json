@@ -1,6 +1,270 @@
 {
   "pubblicazioni": [
     {
+      "data": "2026-10-05",
+      "slug": "nobel-medicina-2026-annuncio-favoriti-glp1-ozempic",
+      "categoria": "Scienza",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-05",
+      "slug": "ndrangheta-melicucco-12-arresti-assessore-bruzzese",
+      "categoria": "Cronaca",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-05",
+      "slug": "ciccone-evenepoel-fotofinish-campionati-europei-ciclismo-lubiana-2026",
+      "categoria": "Sport",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-05",
+      "slug": "fine-sconto-accise-gasolio-eni-price-cap",
+      "categoria": "Economia",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-05",
+      "slug": "legge-elettorale-fiducia-voto-segreto-8-ottobre",
+      "categoria": "Politica Nazionale",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-05",
+      "slug": "usa-ritirano-bombardieri-fairford-complotto-iraniano",
+      "categoria": "Politica Internazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
+      "data": "2026-10-04",
+      "slug": "caravaggio-documentario-cinema-evento-limitato-ottobre-2026",
+      "categoria": "Cultura",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-04",
+      "slug": "milano4mentalhealth-salute-mentale-bene-comune-sponsor-privati",
+      "categoria": "Wellness",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-04",
+      "slug": "agente-openai-medicare-australia-altman-amodei-senato",
+      "categoria": "AI",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-04",
+      "slug": "world-space-week-2026-rocket-revolution-business-lanci-privati",
+      "categoria": "Scienza",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-04",
+      "slug": "stragi-92-archiviato-filone-mafia-appalti-pignatone-natoli-prescritti",
+      "categoria": "Cronaca",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
+      "data": "2026-10-04",
+      "slug": "europei-ciclismo-lubiana-prova-elite-maschile-evenepoel",
+      "categoria": "Sport",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-04",
+      "slug": "inflazione-42-energia-famiglie-tagliano-consumi",
+      "categoria": "Economia",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-04",
+      "slug": "manovra-14-miliardi-armi-sanita-a-secco",
+      "categoria": "Politica Nazionale",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-04",
+      "slug": "ucraina-putin-offre-petrolio-kushner-tratta",
+      "categoria": "Politica Internazionale",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-03",
+      "slug": "musk-project-meridian-pentagono-guerra-futuro",
+      "categoria": "Cultura",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-03",
+      "slug": "milano4mentalhealth-2026-lundbeck-sponsor",
+      "categoria": "Wellness",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-03",
+      "slug": "openai-licenzia-ricercatori-sicurezza-dati-esterni",
+      "categoria": "AI",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-03",
+      "slug": "microbioma-341-batteri-tumori-mayo-clinic-cell",
+      "categoria": "Scienza",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-03",
+      "slug": "garlasco-sempio-impronta-33-coro-mediatico",
+      "categoria": "Cronaca",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-03",
+      "slug": "europei-ciclismo-femminile-longo-borghini-vollering-slovenia",
+      "categoria": "Sport",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-03",
+      "slug": "volkswagen-cessione-ducati-1-miliardo",
+      "categoria": "Economia",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-03",
+      "slug": "governo-dpfp-difesa-spread-meloni-bruxelles",
+      "categoria": "Politica Nazionale",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-03",
+      "slug": "trump-iran-cede-dopo-midterm",
+      "categoria": "Politica Internazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
+      "data": "2026-10-02",
+      "slug": "jovanotti-docufilm-festa-cinema-roma-2026",
+      "categoria": "Cultura",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-02",
+      "slug": "lea-aggiornamento-800-prestazioni-gazzetta-ufficiale-2026",
+      "categoria": "Wellness",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-02",
+      "slug": "musk-pentagono-project-meridian-guerra-futuro-ai",
+      "categoria": "AI",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-02",
+      "slug": "gaslini-cura-fop-fibrodisplasia-garetosmab-lancet",
+      "categoria": "Scienza",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-02",
+      "slug": "garlasco-dna-sempio-famiglia-poggi-parte-civile",
+      "categoria": "Cronaca",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-02",
+      "slug": "bulega-campione-mondo-superbike-2026-ducati",
+      "categoria": "Sport",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-02",
+      "slug": "meloni-flessibilita-ue-spread-manovra-2026",
+      "categoria": "Economia",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-02",
+      "slug": "riforma-rai-legge-elettorale-governo-meloni-2026",
+      "categoria": "Politica Nazionale",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-02",
+      "slug": "trump-ultimatum-iran-guerra-golfo-2026",
+      "categoria": "Politica Internazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
       "data": "2026-10-01",
       "slug": "fincantieri-ancona-operaio-morto-ustioni-sciopero",
       "categoria": "Cronaca",
