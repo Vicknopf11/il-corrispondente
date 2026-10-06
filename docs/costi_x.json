@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-06",
+      "slug": "ranucci-sospeso-rai-dieci-giorni-report-2026",
+      "categoria": "Cronaca",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-06",
       "slug": "scutto-argento-mondiali-judo-baku-2026-record",
       "categoria": "Sport",
       "evidenza": false,
