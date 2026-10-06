@@ -1,77 +1,77 @@
 {
-  "data": "2026-10-05",
+  "data": "2026-10-06",
   "tweet": [
     {
-      "testo": "I bombardieri USA lasciano la base UK «per un complotto iraniano». Guarda caso, proprio adesso che si parla di colloqui trilaterali in Ucraina. Che coincidenza. #RAF #Iran #Geopolitica",
-      "url": "https://corrispondente.filoclastos.it/2026/10/05/usa-ritirano-bombardieri-fairford-complotto-iraniano/",
-      "slug": "usa-ritirano-bombardieri-fairford-complotto-iraniano",
+      "testo": "650 droni su Mosca in una notte. Impianti petroliferi, due morti. Il coro chiama questa «difesa». Qualcuno ha calcolato cosa succede se la prossima notte riesce meglio? #Ucraina #Guerra",
+      "url": "https://corrispondente.filoclastos.it/2026/10/06/650-droni-ucraini-mosca-escalation-ottobre-2026/",
+      "slug": "650-droni-ucraini-mosca-escalation-ottobre-2026",
       "categoria": "Politica Internazionale",
-      "evidenza": true,
-      "pubblicato": true
-    },
-    {
-      "testo": "Il governo chiede oggi la fiducia sulla legge elettorale che porta il suo nome. Giovedì voto finale a scrutinio segreto. Quando una maggioranza non si fida dei propri, chiede la fiducia. E poi si fida della segretezza. #Melonellum",
-      "url": "https://corrispondente.filoclastos.it/2026/10/05/legge-elettorale-fiducia-voto-segreto-8-ottobre/",
-      "slug": "legge-elettorale-fiducia-voto-segreto-8-ottobre",
-      "categoria": "Politica Nazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Oggi scade lo sconto sulle accise del gasolio. Benzina a 2,06€, gasolio a 2,17€. Eni segna +49,9% da inizio anno. Qualcuno soffre, qualcuno incassa. Come sempre. #Carburanti #Accise",
-      "url": "https://corrispondente.filoclastos.it/2026/10/05/fine-sconto-accise-gasolio-eni-price-cap/",
-      "slug": "fine-sconto-accise-gasolio-eni-price-cap",
+      "testo": "Il governo pone la fiducia sulla legge elettorale che ridisegna come si vince. 53 emendamenti dell'opposizione nel cestino. Il voto finale a scrutinio segreto: chi ha paura di chi, esattamente? #Stabilicum",
+      "url": "https://corrispondente.filoclastos.it/2026/10/06/stabilicum-fiducia-camera-legge-elettorale-ottobre-2026/",
+      "slug": "stabilicum-fiducia-camera-legge-elettorale-ottobre-2026",
+      "categoria": "Politica Nazionale",
+      "evidenza": true,
+      "pubblicato": false
+    },
+    {
+      "testo": "Pressione fiscale al 43,5% nel Q2 2026. Redditi +0,4%, consumi +1,7%. Potere d'acquisto -0,9% in un trimestre. Il governo festeggia la crescita. Le famiglie fanno i conti. #economia #tasse",
+      "url": "https://corrispondente.filoclastos.it/2026/10/06/pressione-fiscale-43-percento-potere-acquisto-2026/",
+      "slug": "pressione-fiscale-43-percento-potere-acquisto-2026",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Ciccone lancia la volata, Evenepoel rimonta negli ultimi metri. Fotofinish, minuti di attesa, poi il verdetto: belga. Scaroni bronzo. L'Italia era a un respiro dall'oro. #EuroRoad26 #Ciclismo",
-      "url": "https://corrispondente.filoclastos.it/2026/10/05/ciccone-evenepoel-fotofinish-campionati-europei-ciclismo-lubiana-2026/",
-      "slug": "ciccone-evenepoel-fotofinish-campionati-europei-ciclismo-lubiana-2026",
+      "testo": "Assunta Scutto, 24 anni, 5 medaglie mondiali consecutive. Record assoluto nella storia del judo italiano. La notizia: è in tendenza? No. Il calcio ne parla? Ovvio che no. #judo #Scutto #mondiali",
+      "url": "https://corrispondente.filoclastos.it/2026/10/06/scutto-argento-mondiali-judo-baku-2026-record/",
+      "slug": "scutto-argento-mondiali-judo-baku-2026-record",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "A Melicucco 12 arresti per 'ndrangheta. Tra loro un assessore ai Lavori pubblici. La cosca decideva chi poteva vendere un terreno, chi riforniva i supermercati, quale strada asfaltare. Cose di cui lo Stato non si era accorto. #Ndrangheta",
-      "url": "https://corrispondente.filoclastos.it/2026/10/05/ndrangheta-melicucco-12-arresti-assessore-bruzzese/",
-      "slug": "ndrangheta-melicucco-12-arresti-assessore-bruzzese",
+      "testo": "Ranucci sospeso 10 giorni dalla Rai. Coincidenza: mentre il tribunale decide sul suo reintegro a Report. L'azienda non specifica nemmeno i giorni effettivi. Trasparenza, quella sì. #Rai #Report #Ranucci",
+      "url": "https://corrispondente.filoclastos.it/2026/10/06/ranucci-sospeso-rai-dieci-giorni-report-2026/",
+      "slug": "ranucci-sospeso-rai-dieci-giorni-report-2026",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Oggi il Nobel per la Medicina. I favoriti? I ricercatori che hanno scoperto il GLP-1, principio attivo di Ozempic e Wegovy. Miliardi in farmaci dimagranti. Il Nobel premia la scienza. Novo Nordisk premia gli azionisti. #Nobel2026",
-      "url": "https://corrispondente.filoclastos.it/2026/10/05/nobel-medicina-2026-annuncio-favoriti-glp1-ozempic/",
-      "slug": "nobel-medicina-2026-annuncio-favoriti-glp1-ozempic",
+      "testo": "Nobel Medicina a tre scienziati che hanno studiato come un'alga percepisce la luce. Nessun fondo privato li finanziava. Nessuna Big Pharma aveva già il brevetto pronto. Succede. #Nobel2026 #optogenetica",
+      "url": "https://corrispondente.filoclastos.it/2026/10/06/nobel-medicina-2026-optogenetica-deisseroth-hegemann-nagel/",
+      "slug": "nobel-medicina-2026-optogenetica-deisseroth-hegemann-nagel",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Trump crea la «Super Intelligence Force» per governare l'AI. La guida il capo dell'intelligence. I big tech hanno firmato una «costituzione» per autoregolarsi. Chi controlla chi? Nessuno. Come da copione. #AI #Trump #SIF",
-      "url": "https://corrispondente.filoclastos.it/2026/10/05/trump-super-intelligence-force-big-tech-casa-bianca/",
-      "slug": "trump-super-intelligence-force-big-tech-casa-bianca",
+      "testo": "Hacker con agenti AI violano 6 banche sudcoreane, 25.000 clienti esposti. Nessuna attribuzione a uno Stato né a un gruppo. L'AI fa le domande da sola. E nessuno dice da quale modello. #cybersecurity #AI",
+      "url": "https://corrispondente.filoclastos.it/2026/10/06/hacker-ai-agenti-banche-corea-del-sud-2026/",
+      "slug": "hacker-ai-agenti-banche-corea-del-sud-2026",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Il cerotto anti-stress è di moda tra i giovani. La scienza dice che mancano studi solidi sull'efficacia biologica. Il mercato dice che si vende benissimo. Indovinate chi ha vinto. #Wellness #Stress #Marketing",
-      "url": "https://corrispondente.filoclastos.it/2026/10/05/cerotto-anti-stress-giovani-efficacia-scientifica-dubbi/",
-      "slug": "cerotto-anti-stress-giovani-efficacia-scientifica-dubbi",
+      "testo": "Cerotti alla dopamina: virali su TikTok, bocciati dall'autorità britannica. Kind Patches ha ammesso di non avere prove che funzionino. Il prodotto esiste ancora. Il profitto pure. #wellness #dopaminepatch",
+      "url": "https://corrispondente.filoclastos.it/2026/10/06/cerotti-dopamina-asa-kind-patches-bocciati-2026/",
+      "slug": "cerotti-dopamina-asa-kind-patches-bocciati-2026",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "La riforma del cinema italiano è al Senato. Parla di AI, lavoratori, tax credit. Ma l'osservatorio permanente sull'AI nel settore è già stato eliminato dal testo. Prima ancora di nascere. #Cinema #Riforma #AI",
-      "url": "https://corrispondente.filoclastos.it/2026/10/05/riforma-cinema-audiovisivo-senato-tax-credit-ia-lavoratori/",
-      "slug": "riforma-cinema-audiovisivo-senato-tax-credit-ia-lavoratori",
+      "testo": "Keith Haring a Roma con 140 opere. Un artista che disegnava gratis nei tunnel della metro per sfuggire al mercato dell'arte. Ora il mercato dell'arte espone le sue opere. La storia ha un senso del humor. #KeithHaring #Roma",
+      "url": "https://corrispondente.filoclastos.it/2026/10/06/keith-haring-mostra-palazzo-braschi-roma-2026/",
+      "slug": "keith-haring-mostra-palazzo-braschi-roma-2026",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }
