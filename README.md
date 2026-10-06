@@ -63,7 +63,10 @@ inaffidabilità sugli orari).
    $0,20/post con link contro $0,015 senza — differenza scoperta e
    corretta il 23/09/2026); gli altri post restano senza link ma
    mantengono l'immagine, caricata come media allegato. Logga il costo
-   esatto di ogni pubblicazione in `docs/costi_x.json`.
+   esatto di ogni pubblicazione in `docs/costi_x.json`. Se sono configurati
+   i secret Telegram, dopo ogni post riuscito su X lo stesso post esce
+   anche sul canale Telegram, con il permalink su ogni post (lì i link
+   non costano); un errore Telegram non blocca mai X.
 
 6. **`genera_thread_settimanale.py`** / **`pubblica_thread_x.py`** —
    ogni sabato, un thread di 2-3 tweet che approfondisce l'articolo più
@@ -182,6 +185,9 @@ giorno in `costi_categoria.json` (campi `cambio_usd_per_eur` e
   OAuth 1.0a per `pubblica_tweet.py`/`pubblica_thread_x.py` (Consumer
   Key/Secret + Access Token/Secret del developer portal X, non le
   credenziali OAuth 2.0)
+- `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID` — opzionali: token del bot
+  creato con @BotFather e identificativo del canale (`@nomecanale`);
+  se mancano, la pubblicazione su Telegram viene semplicemente saltata
 - `GITHUB_TOKEN` — automatico, fornito da Actions per
   `sintesi_longitudinale.py` (nessuna configurazione richiesta)
 

@@ -120,6 +120,45 @@ def pubblica_su_x(testo: str, url: str = None, media_id: str = None) -> bool:
         return False
 
 
+def pubblica_su_telegram(testo: str, url: str = None):
+    """Pubblica lo stesso post sul canale Telegram, se configurato.
+
+    Ritorna None se Telegram non è configurato, True se il post è uscito,
+    False in caso di errore. Non solleva mai eccezioni e non blocca mai la
+    pubblicazione su X: un problema qui viene solo segnalato nei log.
+
+    Su Telegram i link non costano nulla, quindi OGNI post esce con il
+    permalink (a differenza di X, dove solo l'evidenza lo porta): Telegram
+    ne ricava da solo l'anteprima con l'immagine della card OG.
+    """
+    import requests
+
+    token = os.environ.get("TELEGRAM_BOT_TOKEN")
+    chat_id = os.environ.get("TELEGRAM_CHAT_ID")
+    if not token or not chat_id:
+        return None
+
+    messaggio = f"{testo}\n\n{url}" if url else testo
+    try:
+        r = requests.post(
+            f"https://api.telegram.org/bot{token}/sendMessage",
+            json={"chat_id": chat_id, "text": messaggio},
+            timeout=10,
+        )
+    except Exception as e:
+        # Si stampa solo il tipo di errore: il testo dell'eccezione può
+        # contenere l'indirizzo della richiesta, e quindi il token.
+        print(f"⚠ Telegram: richiesta fallita ({type(e).__name__})")
+        return False
+
+    if r.status_code == 200 and r.json().get("ok"):
+        print(f"✓ Telegram: pubblicato — {testo[:60]}...")
+        return True
+
+    print(f"⚠ Telegram: errore {r.status_code} — {r.text[:200]}")
+    return False
+
+
 def logga_costo_x(coda: dict, prossimo: dict, con_url: bool) -> None:
     """Logga il costo di questa pubblicazione in docs/costi_x.json
     (append-only, storico limitato a MAX_COSTI_X_GIORNI). Prezzi fissi e
@@ -193,6 +232,7 @@ def main() -> None:
         with open(CODA_FILE, "w", encoding="utf-8") as f:
             json.dump(coda, f, ensure_ascii=False, indent=2)
         logga_costo_x(coda, prossimo, con_url=bool(url_da_usare))
+        pubblica_su_telegram(prossimo["testo"], prossimo.get("url"))
     else:
         sys.exit(1)
 
