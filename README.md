@@ -27,7 +27,7 @@ disclaimer AI fisso.
 
 ## Architettura della pipeline
 
-Nove script Python, orchestrati da cinque workflow GitHub Actions, tutti
+Script Python (più un modulo per il cambio e uno strumento di recupero), orchestrati da cinque workflow GitHub Actions, tutti
 triggerati esternamente da **cron-job.org** via `repository_dispatch`
 (lo scheduler nativo di GitHub Actions è stato abbandonato per
 inaffidabilità sugli orari).
@@ -86,6 +86,14 @@ inaffidabilità sugli orari).
    Stadio B (dataset aperti, mai automatico, sempre con approvazione
    umana via PR) non è ancora implementato.
 
+9. **`cambio_bce.py`** — scarica i tassi di riferimento BCE (file ufficiale
+   degli ultimi 90 giorni) e ritorna il cambio dollari-per-euro da usare
+   per una data: l'ultimo tasso pubblicato prima di quel giorno. Serve alla
+   pagina `/costi`; non blocca mai la pipeline (se il download fallisce, la
+   voce di log resta senza cambio). `backfill_cambio.py` è lo strumento
+   una tantum, da lanciare in locale, per aggiungere cambio e dettaglio dei
+   costi alle voci registrate prima dell'introduzione di questi campi.
+
 ## Workflow GitHub Actions
 
 Tutti triggerati via `repository_dispatch` da job schedulati su
@@ -128,12 +136,15 @@ il-corrispondente/
 ├── pubblica_thread_x.py          # pubblica il thread atomicamente
 ├── raccogli_sport.py             # rassegna sportiva da fonti gratuite
 ├── sintesi_longitudinale.py      # Stadio A: pattern ricorrenti → GitHub Issue
+├── cambio_bce.py                 # cambio EUR/USD dai tassi BCE (per /costi)
+├── backfill_cambio.py            # recupero una tantum del cambio nei log passati
 ├── coda_x.json                   # coda tweet del giorno (rigenerata ogni mattina)
 ├── coda_thread_x.json            # stato del thread settimanale
 └── docs/                         # servito da GitHub Pages sul dominio custom
     ├── index.html                # homepage (SPA client-side, legge posts.json)
     ├── chi-siamo.html            # manifesto editoriale
     ├── prompt.html               # trasparenza: SYSTEM_PROMPT reale (auto-sincronizzato)
+    ├── costi.html                # trasparenza: costi giornalieri in euro (legge i due log)
     ├── posts.json                # archivio rolling ultimi 30 giorni
     ├── feed.xml / sitemap.xml
     ├── costi_categoria.json      # log costi Anthropic per-generazione (pubblico)
@@ -157,6 +168,12 @@ Coerente con la filosofia di trasparenza radicale del progetto
   fissi e noti: $0,20/post con link, $0,015/post senza link).
 
 Storico: 180 giorni per entrambi.
+
+La pagina `docs/costi.html` legge i due file a ogni visita e mostra gli
+ultimi 11 giorni conclusi in euro, al cambio BCE registrato per ciascun
+giorno in `costi_categoria.json` (campi `cambio_usd_per_eur` e
+`cambio_data`), con la scomposizione del costo di generazione
+(`costo_dettaglio_usd`: lettura, scrittura, ricerche web).
 
 ## Secrets richiesti (GitHub Actions)
 

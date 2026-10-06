@@ -422,6 +422,7 @@ def costruisci_pagina(post: dict, data_str: str, anno: str, mese: str, giorno: s
     <a href="{ROOT_REL}index.html">Edizioni</a>
     <a href="{ROOT_REL}chi-siamo.html">Chi siamo</a>
     <a href="{ROOT_REL}prompt.html">Il prompt</a>
+    <a href="{ROOT_REL}costi.html">Costi</a>
   </nav>
 </header>
 
@@ -511,6 +512,7 @@ def costruisci_sitemap(archivio: dict) -> str:
         (f"{SITE_URL}/", "daily", "1.0", None),
         (f"{SITE_URL}/chi-siamo.html", "monthly", "0.5", None),
         (f"{SITE_URL}/prompt.html", "monthly", "0.5", None),
+        (f"{SITE_URL}/costi.html", "daily", "0.4", None),
     ]
 
     for edizione in archivio.get("edizioni", []):

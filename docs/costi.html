@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Costi — Il Corrispondente IA</title>
+  <meta name="description" content="Quanto costa far funzionare Il Corrispondente IA: generazione delle edizioni e pubblicazione su X, in euro, aggiornati ogni giorno, con i dati grezzi.">
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Georgia', serif;
+      background: #f5f0e8;
+      color: #1a1a1a;
+      min-height: 100vh;
+    }
+
+    header {
+      background: #1a1a1a;
+      color: #f5f0e8;
+      text-align: center;
+      padding: 2rem 1rem 1.5rem;
+      border-bottom: 4px solid #c0392b;
+    }
+
+    header h1 {
+      font-size: 2.8rem;
+      letter-spacing: 0.05em;
+      font-variant: small-caps;
+    }
+
+    .organo {
+      font-size: 0.85rem;
+      color: #bbb;
+      font-style: italic;
+      margin-top: 0.3rem;
+    }
+
+    .citazione {
+      font-size: 0.95rem;
+      color: #ccc;
+      font-style: italic;
+      margin-top: 0.8rem;
+      border-top: 1px solid #333;
+      border-bottom: 1px solid #333;
+      padding: 0.5rem 2rem;
+      display: inline-block;
+    }
+
+    .nessuna-notizia {
+      font-size: 0.75rem;
+      color: #666;
+      margin-top: 0.5rem;
+      font-family: Arial, sans-serif;
+      letter-spacing: 0.05em;
+    }
+
+    nav { margin-top: 1rem; }
+
+    nav a {
+      color: #aaa;
+      text-decoration: none;
+      font-size: 0.8rem;
+      margin: 0 0.8rem;
+      font-family: Arial, sans-serif;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+
+    nav a:hover { color: white; }
+    nav a.attivo { color: white; border-bottom: 1px solid #c0392b; }
+
+    main {
+      max-width: 820px;
+      margin: 0 auto;
+      padding: 3rem 1rem;
+    }
+
+    h2 {
+      font-size: 1.4rem;
+      font-variant: small-caps;
+      letter-spacing: 0.05em;
+      margin-bottom: 1rem;
+      padding-bottom: 0.4rem;
+      border-bottom: 2px solid #1a1a1a;
+    }
+
+    section { margin-bottom: 2.8rem; }
+
+    p {
+      font-size: 1rem;
+      line-height: 1.8;
+      margin-bottom: 1rem;
+      color: #333;
+    }
+
+    .lead { font-size: 1.15rem; max-width: 640px; }
+    .nota { font-size: 0.9rem; color: #666; margin-bottom: 1.2rem; }
+
+    /* ── Cifre ── */
+    .cifre {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+
+    .cifra {
+      flex: 1 1 220px;
+      background: white;
+      padding: 1.2rem 1.3rem;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    }
+
+    .cifra.scura { background: #1a1a1a; color: #f5f0e8; }
+
+    .cifra-label {
+      font-family: Arial, sans-serif;
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: #666;
+    }
+
+    .cifra.scura .cifra-label { color: #bbb; }
+
+    .cifra-valore {
+      font-size: 2.4rem;
+      font-weight: bold;
+      line-height: 1.1;
+      margin: 0.5rem 0;
+    }
+
+    .cifra-sub {
+      font-size: 0.85rem;
+      line-height: 1.5;
+      color: #555;
+    }
+
+    .cifra.scura .cifra-sub { color: #ddd; }
+
+    /* ── Grafico ── */
+    .legenda {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem 1.4rem;
+      margin-bottom: 0.8rem;
+      font-family: Arial, sans-serif;
+      font-size: 0.75rem;
+      color: #333;
+    }
+
+    .legenda span { display: inline-flex; align-items: center; gap: 0.45rem; }
+    .legenda i { display: inline-block; width: 12px; height: 12px; }
+
+    .grafico {
+      display: flex;
+      align-items: flex-end;
+      gap: 6px;
+      padding: 1.1rem 0.8rem 0.8rem;
+      background: white;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    }
+
+    .colonna {
+      flex: 1 1 0;
+      min-width: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .pila {
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      align-items: center;
+      width: 100%;
+      height: 190px;
+    }
+
+    .valore {
+      font-family: Arial, sans-serif;
+      font-size: 0.72rem;
+      color: #333;
+      margin-bottom: 4px;
+    }
+
+    .barra { width: 100%; max-width: 44px; }
+    .barra.gen { background: #1a1a1a; }
+    .barra.x { background: #c0392b; }
+    .barra.nd { height: 40px; border: 2px dashed #a79f88; background: transparent; }
+
+    .giorno {
+      font-family: Arial, sans-serif;
+      font-size: 0.72rem;
+      color: #555;
+    }
+
+    /* ── Scomposizione ── */
+    .scomposizione {
+      display: flex;
+      height: 40px;
+      border: 1px solid #1a1a1a;
+    }
+
+    .voci {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+
+    .voce { flex: 1 1 200px; }
+
+    .voce-label {
+      font-family: Arial, sans-serif;
+      font-size: 0.72rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #666;
+    }
+
+    .voce-valore { font-size: 1.3rem; font-weight: bold; margin-top: 0.2rem; }
+
+    .dati-grezzi a { color: #c0392b; }
+    .dati-grezzi a:hover { color: #1a1a1a; }
+
+    #errore { color: #c0392b; font-style: italic; }
+
+    footer {
+      text-align: center;
+      padding: 2rem;
+      font-size: 0.75rem;
+      color: #aaa;
+      border-top: 1px solid #ddd;
+      line-height: 1.8;
+    }
+
+    footer a { color: #aaa; }
+
+    @media (max-width: 480px) {
+      header h1 { font-size: 2rem; }
+      .grafico { gap: 3px; padding: 1rem 0.4rem 0.6rem; }
+      .valore, .giorno { font-size: 0.6rem; }
+    }
+  </style>
+<script data-goatcounter="https://il-corrispondente.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</head>
+<body>
+
+<header>
+  <h1>Il Corrispondente IA</h1>
+  <p class="organo">Organo Ufficiale della Satira Artificialmente Ragionata &mdash; Fondato per necessità e per noia</p>
+  <p class="citazione">&laquo;La realtà è già satira. Noi aggiungiamo solo la punteggiatura.&raquo;</p>
+  <p class="nessuna-notizia">Nessuna notizia è stata danneggiata durante la redazione</p>
+  <nav>
+    <a href="index.html">Edizioni</a>
+    <a href="chi-siamo.html">Chi siamo</a>
+    <a href="prompt.html">Il prompt</a>
+    <a href="costi.html" class="attivo">Costi</a>
+  </nav>
+</header>
+
+<main>
+
+  <section>
+    <h2>Quanto costa</h2>
+    <p class="lead">Una redazione senza giornalisti non è una redazione senza costi. Ogni giorno spendiamo denaro vero per leggere le fonti, scrivere l'edizione e pubblicarla su X. Qui trovi le cifre, aggiornate al giorno precedente, e i dati grezzi per rifare i conti da solo.</p>
+    <p id="errore" hidden>Dati non disponibili al momento.</p>
+    <div class="cifre" id="cifre"></div>
+  </section>
+
+  <section id="sezione-grafico" hidden>
+    <h2>Giorno per giorno</h2>
+    <p class="nota" id="nota-grafico"></p>
+    <div class="legenda">
+      <span><i style="background:#1a1a1a"></i>Generazione (Anthropic)</span>
+      <span><i style="background:#c0392b"></i>Pubblicazione su X</span>
+    </div>
+    <div class="grafico" id="grafico" role="img"></div>
+    <p class="nota" id="nota-nd" style="margin-top:0.8rem" hidden></p>
+  </section>
+
+  <section id="sezione-scomposizione" hidden>
+    <h2>Da cosa è fatto il costo di generazione</h2>
+    <p class="nota" id="nota-scomposizione"></p>
+    <div class="scomposizione" id="barra-scomposizione" role="img"></div>
+    <div class="voci" id="voci-scomposizione"></div>
+    <p id="frase-scomposizione" style="margin-top:1rem" hidden>La voce più cara è leggere, non scrivere: la parte maggiore del denaro serve a consultare le fonti, non a produrre i testi.</p>
+  </section>
+
+  <section class="dati-grezzi">
+    <h2>Dati grezzi</h2>
+    <p><a href="costi_categoria.json">costi_categoria.json</a> · <a href="costi_x.json">costi_x.json</a></p>
+  </section>
+
+</main>
+
+<footer>
+  Il Corrispondente IA &mdash; Tutti i diritti satiricamente riservati<br>
+  Nessuna notizia è stata danneggiata durante la produzione di questo contenuto<br>
+  Generato ogni mattina da Claude (Anthropic) &middot; <a href="index.html">← Torna alle edizioni</a> &middot;
+  <a href="https://filoclastos.it/licenze-copyright/">Licenze e copyright</a> &middot;
+  <a href="https://filoclastos.it/dichiarazione-bias/">Dichiarazione di bias</a>
+</footer>
+
+<script>
+const GIORNI_MOSTRATI = 11;   // solo giorni conclusi, finestra mobile
+const ALTEZZA_MAX = 150;      // px della barra più alta
+
+const fmt = (n) => n.toLocaleString('it-IT', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+const euro = (n) => '€ ' + fmt(n);
+const migliaia = (n) => String(n).replace(/\B(?=(\d{3})+(?!\d))/g, '.');
+
+function oggiRoma() {
+  return new Intl.DateTimeFormat('en-CA', { timeZone: 'Europe/Rome' }).format(new Date());
+}
+
+function isoMenoGiorni(iso, n) {
+  const [y, m, d] = iso.split('-').map(Number);
+  return new Date(Date.UTC(y, m - 1, d - n)).toISOString().slice(0, 10);
+}
+
+const etichetta = (iso) => iso.slice(8, 10) + '/' + iso.slice(5, 7);
+
+// Cambio (dollari per un euro) valido per una data: quello registrato nella
+// voce del giorno; se manca, l'ultimo registrato prima; in mancanza, il primo dopo.
+function trovaCambio(iso, voci) {
+  const conTasso = voci.filter(v => v.cambio_usd_per_eur).sort((a, b) => a.data.localeCompare(b.data));
+  const esatto = conTasso.find(v => v.data === iso);
+  if (esatto) return esatto.cambio_usd_per_eur;
+  const prima = conTasso.filter(v => v.data < iso);
+  if (prima.length) return prima[prima.length - 1].cambio_usd_per_eur;
+  return conTasso.length ? conTasso[0].cambio_usd_per_eur : null;
+}
+
+async function carica() {
+  const [rg, rx] = await Promise.all([
+    fetch('costi_categoria.json?t=' + Date.now()),
+    fetch('costi_x.json?t=' + Date.now())
+  ]);
+  if (!rg.ok || !rx.ok) throw new Error('fetch');
+  const gen = (await rg.json()).generazioni || [];
+  const x = (await rx.json()).pubblicazioni || [];
+
+  const oggi = oggiRoma();
+  const xPerGiorno = {};
+  x.forEach(p => { xPerGiorno[p.data] = (xPerGiorno[p.data] || 0) + (p.costo_usd || 0); });
+
+  const giorni = [];
+  for (let i = GIORNI_MOSTRATI; i >= 1; i--) {
+    const iso = isoMenoGiorni(oggi, i);
+    const voce = gen.find(g => g.data === iso);
+    const cambio = trovaCambio(iso, gen);
+    if (!voce || voce.costo_stimato_usd == null || !cambio) {
+      giorni.push({ iso, nd: true });
+      continue;
+    }
+    giorni.push({
+      iso, nd: false, voce, cambio,
+      gen: voce.costo_stimato_usd / cambio,
+      x: (xPerGiorno[iso] || 0) / cambio
+    });
+  }
+  disegna(giorni);
+}
+
+function disegna(giorni) {
+  const conDati = giorni.filter(g => !g.nd);
+  if (!conDati.length) { document.getElementById('errore').hidden = false; return; }
+
+  // cifre
+  const mediaGen = conDati.reduce((s, g) => s + g.gen, 0) / conDati.length;
+  const mediaX = conDati.reduce((s, g) => s + g.x, 0) / conDati.length;
+  const mese = Math.round((mediaGen + mediaX) * 30);
+  document.getElementById('cifre').innerHTML = `
+    <div class="cifra">
+      <div class="cifra-label">Generazione delle edizioni</div>
+      <div class="cifra-valore">${euro(mediaGen)}</div>
+      <div class="cifra-sub">al giorno, media degli ultimi ${conDati.length} giorni</div>
+    </div>
+    <div class="cifra">
+      <div class="cifra-label">Pubblicazione su X</div>
+      <div class="cifra-valore">${euro(mediaX)}</div>
+      <div class="cifra-sub">al giorno, media degli ultimi ${conDati.length} giorni</div>
+    </div>
+    <div class="cifra scura">
+      <div class="cifra-label">Totale stimato</div>
+      <div class="cifra-valore">≈ € ${mese}</div>
+      <div class="cifra-sub">al mese, proiezione su 30 giorni</div>
+    </div>`;
+
+  // grafico
+  const maxTot = Math.max(...conDati.map(g => g.gen + g.x));
+  const scala = ALTEZZA_MAX / maxTot;
+  document.getElementById('grafico').innerHTML = giorni.map(g => {
+    if (g.nd) {
+      return `<div class="colonna"><div class="pila"><div class="valore">n/d</div><div class="barra nd"></div></div><div class="giorno">${etichetta(g.iso)}</div></div>`;
+    }
+    return `<div class="colonna"><div class="pila">
+      <div class="valore">${fmt(g.gen + g.x)}</div>
+      <div class="barra x" style="height:${Math.max(1, Math.round(g.x * scala))}px"></div>
+      <div class="barra gen" style="height:${Math.max(1, Math.round(g.gen * scala))}px"></div>
+    </div><div class="giorno">${etichetta(g.iso)}</div></div>`;
+  }).join('');
+  const primo = giorni[0].iso, ultimo = giorni[giorni.length - 1].iso;
+  document.getElementById('nota-grafico').textContent =
+    `Costo giornaliero in euro, dal ${etichetta(primo)} al ${etichetta(ultimo)}, al cambio BCE. Solo giorni conclusi.`;
+  document.getElementById('grafico').setAttribute('aria-label',
+    `Grafico a barre impilate del costo giornaliero in euro dal ${etichetta(primo)} al ${etichetta(ultimo)}`);
+  const nd = giorni.filter(g => g.nd).map(g => etichetta(g.iso));
+  const ndEl = document.getElementById('nota-nd');
+  if (nd.length) { ndEl.textContent = `${nd.join(', ')}: nessun dato registrato.`; ndEl.hidden = false; }
+  document.getElementById('sezione-grafico').hidden = false;
+
+  // scomposizione dell'ultimo giorno concluso con dati
+  const ultimoGiorno = conDati[conDati.length - 1];
+  const d = ultimoGiorno.voce.costo_dettaglio_usd;
+  if (d) {
+    const cambio = ultimoGiorno.cambio;
+    const tot = d.lettura + d.scrittura + d.ricerche;
+    const pct = (v) => Math.round(v / tot * 100);
+    const [pl, ps] = [pct(d.lettura), pct(d.scrittura)];
+    const pr = 100 - pl - ps;
+    const v = ultimoGiorno.voce;
+    document.getElementById('nota-scomposizione').textContent =
+      `Esempio: l'edizione del ${etichetta(ultimoGiorno.iso)}, ${migliaia(v.input_tokens)} token letti, ` +
+      `${migliaia(v.output_tokens)} scritti e ${v.web_search_richieste} ricerche web.`;
+    document.getElementById('barra-scomposizione').innerHTML =
+      `<div style="width:${pl}%;background:#1a1a1a"></div><div style="width:${ps}%;background:#8a8472"></div><div style="width:${pr}%;background:#c0392b"></div>`;
+    document.getElementById('barra-scomposizione').setAttribute('aria-label',
+      `Barra divisa in tre parti: lettura ${pl} per cento, scrittura ${ps} per cento, ricerche web ${pr} per cento`);
+    const eur = (usd) => euro(usd / cambio);
+    document.getElementById('voci-scomposizione').innerHTML = `
+      <div class="voce"><div class="voce-label">Lettura delle fonti</div><div class="voce-valore">${pl}% · ${eur(d.lettura)}</div></div>
+      <div class="voce"><div class="voce-label">Scrittura dei testi</div><div class="voce-valore">${ps}% · ${eur(d.scrittura)}</div></div>
+      <div class="voce"><div class="voce-label">Ricerche web</div><div class="voce-valore">${pr}% · ${eur(d.ricerche)}</div></div>`;
+    document.getElementById('frase-scomposizione').hidden = !(d.lettura >= d.scrittura && d.lettura >= d.ricerche);
+    document.getElementById('sezione-scomposizione').hidden = false;
+  }
+}
+
+carica().catch(() => { document.getElementById('errore').hidden = false; });
+</script>
+
+</body>
+</html>

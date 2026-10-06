@@ -11,6 +11,7 @@ import unicodedata
 from datetime import datetime, timezone
 from email.utils import format_datetime
 import anthropic
+from cambio_bce import cambio_per_data
 
 # ── Configurazione ──────────────────────────────────────────────
 CATEGORIE = [
@@ -607,6 +608,16 @@ def logga_costo(response, edizione: dict) -> None:
                 4,
             )
 
+        dettaglio = {
+            "lettura": round(input_tokens / 1_000_000 * PREZZO_INPUT_PER_MILIONE_USD, 4),
+            "scrittura": round(output_tokens / 1_000_000 * PREZZO_OUTPUT_PER_MILIONE_USD, 4),
+            "ricerche": round(web_search_richieste * PREZZO_WEB_SEARCH_PER_RICERCA_USD, 4),
+        }
+
+        # Cambio BCE (dollari per un euro) usato dalla pagina /costi per
+        # mostrare gli importi in euro; se non disponibile resta None.
+        cambio, cambio_data = cambio_per_data(edizione.get("data"))
+
         voce = {
             "data": edizione.get("data"),
             "modello": "claude-sonnet-4-6",
@@ -614,7 +625,10 @@ def logga_costo(response, edizione: dict) -> None:
             "output_tokens": output_tokens,
             "web_search_richieste": web_search_richieste,
             "stop_reason": response.stop_reason,
-            "costo_stimato_usd": costo_usd,  # None finché i prezzi non sono verificati
+            "costo_stimato_usd": costo_usd,
+            "costo_dettaglio_usd": dettaglio,
+            "cambio_usd_per_eur": cambio,
+            "cambio_data": cambio_data,
             "breakdown_per_categoria_stimato": breakdown,
         }
 

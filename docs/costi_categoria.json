@@ -45,6 +45,13 @@
           "frazione_stimata": 0.0953,
           "output_tokens_stimati": 656
         }
+      },
+      "cambio_usd_per_eur": 1.1204,
+      "cambio_data": "2026-10-05",
+      "costo_dettaglio_usd": {
+        "lettura": 0.5229,
+        "scrittura": 0.1032,
+        "ricerche": 0.13
       }
     },
     {
@@ -92,6 +99,13 @@
           "frazione_stimata": 0.1002,
           "output_tokens_stimati": 822
         }
+      },
+      "cambio_usd_per_eur": 1.1225,
+      "cambio_data": "2026-10-02",
+      "costo_dettaglio_usd": {
+        "lettura": 0.5916,
+        "scrittura": 0.1231,
+        "ricerche": 0.16
       }
     },
     {
@@ -139,6 +153,13 @@
           "frazione_stimata": 0.0983,
           "output_tokens_stimati": 677
         }
+      },
+      "cambio_usd_per_eur": 1.1225,
+      "cambio_data": "2026-10-02",
+      "costo_dettaglio_usd": {
+        "lettura": 0.5056,
+        "scrittura": 0.1033,
+        "ricerche": 0.12
       }
     },
     {
@@ -186,6 +207,13 @@
           "frazione_stimata": 0.0987,
           "output_tokens_stimati": 731
         }
+      },
+      "cambio_usd_per_eur": 1.1225,
+      "cambio_data": "2026-10-02",
+      "costo_dettaglio_usd": {
+        "lettura": 0.6049,
+        "scrittura": 0.1111,
+        "ricerche": 0.17
       }
     },
     {
@@ -233,6 +261,13 @@
           "frazione_stimata": 0.0931,
           "output_tokens_stimati": 614
         }
+      },
+      "cambio_usd_per_eur": 1.1298,
+      "cambio_data": "2026-10-01",
+      "costo_dettaglio_usd": {
+        "lettura": 0.4959,
+        "scrittura": 0.099,
+        "ricerche": 0.12
       }
     },
     {
@@ -264,6 +299,13 @@
           "frazione_stimata": 0.1548,
           "output_tokens_stimati": 669
         }
+      },
+      "cambio_usd_per_eur": 1.1355,
+      "cambio_data": "2026-09-30",
+      "costo_dettaglio_usd": {
+        "lettura": 0.3571,
+        "scrittura": 0.0648,
+        "ricerche": 0.08
       }
     },
     {
@@ -295,6 +337,13 @@
           "frazione_stimata": 0.1527,
           "output_tokens_stimati": 717
         }
+      },
+      "cambio_usd_per_eur": 1.1355,
+      "cambio_data": "2026-09-29",
+      "costo_dettaglio_usd": {
+        "lettura": 0.3552,
+        "scrittura": 0.0704,
+        "ricerche": 0.09
       }
     },
     {
@@ -326,6 +375,13 @@
           "frazione_stimata": 0.4721,
           "output_tokens_stimati": 2281
         }
+      },
+      "cambio_usd_per_eur": 1.1378,
+      "cambio_data": "2026-09-28",
+      "costo_dettaglio_usd": {
+        "lettura": 0.663,
+        "scrittura": 0.0725,
+        "ricerche": 0.12
       }
     },
     {
@@ -357,6 +413,13 @@
           "frazione_stimata": 0.1658,
           "output_tokens_stimati": 799
         }
+      },
+      "cambio_usd_per_eur": 1.1403,
+      "cambio_data": "2026-09-25",
+      "costo_dettaglio_usd": {
+        "lettura": 0.6156,
+        "scrittura": 0.0723,
+        "ricerche": 0.11
       }
     },
     {
@@ -388,6 +451,13 @@
           "frazione_stimata": 0.1453,
           "output_tokens_stimati": 777
         }
+      },
+      "cambio_usd_per_eur": 1.1403,
+      "cambio_data": "2026-09-25",
+      "costo_dettaglio_usd": {
+        "lettura": 0.6119,
+        "scrittura": 0.0802,
+        "ricerche": 0.12
       }
     },
     {
@@ -419,6 +489,13 @@
           "frazione_stimata": 0.1608,
           "output_tokens_stimati": 778
         }
+      },
+      "cambio_usd_per_eur": 1.1367,
+      "cambio_data": "2026-09-24",
+      "costo_dettaglio_usd": {
+        "lettura": 0.3835,
+        "scrittura": 0.0725,
+        "ricerche": 0.1
       }
     },
     {
@@ -450,6 +527,13 @@
           "frazione_stimata": 0.1553,
           "output_tokens_stimati": 746
         }
+      },
+      "cambio_usd_per_eur": 1.1411,
+      "cambio_data": "2026-09-23",
+      "costo_dettaglio_usd": {
+        "lettura": 0.3618,
+        "scrittura": 0.072,
+        "ricerche": 0.09
       }
     }
   ]
