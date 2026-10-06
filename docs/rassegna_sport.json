@@ -1,14 +1,6 @@
 {
-  "generato": "2026-10-05T17:31:01.693697+00:00",
+  "generato": "2026-10-06T05:30:52.676186+00:00",
   "item": [
-    {
-      "sottocategoria": "Calcio femminile",
-      "tipo": "notizia",
-      "titolo": "Azzurre a Coverciano per spareggi Mondiali, Soncin: 'Il momento della verità'",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/05/azzurre-a-coverciano-per-spareggi-mondiali-soncin-il-momento-della-verita_c5aaa643-38bb-4eba-9a52-0a0d3205ae34.html",
-      "fonte": "ANSA Sport",
-      "data_evento": "2026-10-05"
-    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
@@ -39,6 +31,14 @@
       "titolo": "Volley A1 donne, Chieri batte Scandicci al tie-break. Debutto vincente per Conegliano",
       "link": "https://www.gazzetta.it/Volley/04-10-2026/volley-a1-donne-chieri-batte-scandicci-conegliano-vince-in-tre-set-all-esordio.shtml",
       "fonte": "Gazzetta — Volley",
+      "data_evento": "2026-10-04"
+    },
+    {
+      "sottocategoria": "Atletica",
+      "tipo": "notizia",
+      "titolo": "Urbano Cairo e Gianmarco Tamberi: \"Sempre Più In Alto\". Guarda l'evento completo",
+      "link": "https://video.gazzetta.it/festival-dello-sport/video-urbano-cairo-e-gianmarco-tamberi-sempre-piu-in-alto-guarda-l-evento-completo/d8e7e13a-6e4d-493e-a7c6-63a97b41fxlk",
+      "fonte": "Gazzetta — Atletica",
       "data_evento": "2026-10-04"
     }
   ]
