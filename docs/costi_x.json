@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-06",
+      "slug": "keith-haring-mostra-palazzo-braschi-roma-2026",
+      "categoria": "Cultura",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-06",
       "slug": "cerotti-dopamina-asa-kind-patches-bocciati-2026",
       "categoria": "Wellness",
       "evidenza": false,
