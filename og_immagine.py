@@ -129,7 +129,7 @@ def genera_immagine_og(post: dict, percorso_output: str) -> None:
     draw.rectangle([0, ALTEZZA_HEADER, LARGHEZZA, ALTEZZA_HEADER + 6], fill=COLORE_DEFAULT)
 
     font_masthead = _font("PTSans-Bold.ttf", 30)
-    masthead = "IL CORRISPONDENTE ARTIFICIALE"
+    masthead = "IL CORRISPONDENTE IA"
     bbox = draw.textbbox((0, 0), masthead, font=font_masthead)
     larghezza_testo = bbox[2] - bbox[0]
     draw.text(((LARGHEZZA - larghezza_testo) / 2, 24), masthead, font=font_masthead, fill=CREMA)
