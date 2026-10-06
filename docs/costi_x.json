@@ -1,6 +1,14 @@
 {
   "pubblicazioni": [
     {
+      "data": "2026-10-06",
+      "slug": "650-droni-ucraini-mosca-escalation-ottobre-2026",
+      "categoria": "Politica Internazionale",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
       "data": "2026-10-05",
       "slug": "riforma-cinema-audiovisivo-senato-tax-credit-ia-lavoratori",
       "categoria": "Cultura",
