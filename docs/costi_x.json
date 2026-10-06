@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-06",
+      "slug": "hacker-ai-agenti-banche-corea-del-sud-2026",
+      "categoria": "AI",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-06",
       "slug": "nobel-medicina-2026-optogenetica-deisseroth-hegemann-nagel",
       "categoria": "Scienza",
       "evidenza": false,
