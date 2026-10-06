@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-06",
+      "slug": "pressione-fiscale-43-percento-potere-acquisto-2026",
+      "categoria": "Economia",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-06",
       "slug": "stabilicum-fiducia-camera-legge-elettorale-ottobre-2026",
       "categoria": "Politica Nazionale",
       "evidenza": true,
