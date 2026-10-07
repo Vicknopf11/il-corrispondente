@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-07",
+      "slug": "legge-elettorale-fiducia-camera-melonellum-voto-segreto",
+      "categoria": "Politica Nazionale",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-07",
       "slug": "anniversario-7-ottobre-tre-anni-guerra-gaza-commemorazioni",
       "categoria": "Politica Internazionale",
       "evidenza": true,
