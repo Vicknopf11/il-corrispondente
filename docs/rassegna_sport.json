@@ -1,6 +1,22 @@
 {
-  "generato": "2026-10-07T05:30:55.989043+00:00",
+  "generato": "2026-10-07T11:31:02.128276+00:00",
   "item": [
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Bocce paralimpiche, a Olbia il World Challenger verso Los Angeles 2028",
+      "link": "https://www.gazzetta.it/bocce/06-10-2026/boccia-a-olbia-il-world-challenger-verso-los-angeles-2028.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-10-06"
+    },
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Chikungunya e Parvovirus B19: cosa sono i due virus che hanno fermato Sofia Goggia",
+      "link": "https://www.gazzetta.it/salute/storie/04-10-2026/sofia-goggia-virus-cosa-sono-chikungunya-e-parvovirus-b19-il-contagio/un-brusco-stop.shtml",
+      "fonte": "Gazzetta — Sport Invernali",
+      "data_evento": "2026-10-04"
+    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
@@ -24,22 +40,6 @@
       "link": "https://www.gazzetta.it/Sport-Vari/02-10-2026/danza-sportiva-a-ostia-il-grandslam-in-gara-1-100-atleti-da-51-paesi.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-10-02"
-    },
-    {
-      "sottocategoria": "Squadra",
-      "tipo": "notizia",
-      "titolo": "Volley A1 donne, Chieri batte Scandicci al tie-break. Debutto vincente per Conegliano",
-      "link": "https://www.gazzetta.it/Volley/04-10-2026/volley-a1-donne-chieri-batte-scandicci-conegliano-vince-in-tre-set-all-esordio.shtml",
-      "fonte": "Gazzetta — Volley",
-      "data_evento": "2026-10-04"
-    },
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "Urbano Cairo e Gianmarco Tamberi: \"Sempre Più In Alto\". Guarda l'evento completo",
-      "link": "https://video.gazzetta.it/festival-dello-sport/video-urbano-cairo-e-gianmarco-tamberi-sempre-piu-in-alto-guarda-l-evento-completo/d8e7e13a-6e4d-493e-a7c6-63a97b41fxlk",
-      "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-10-04"
     }
   ]
 }
