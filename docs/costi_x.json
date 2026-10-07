@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-07",
+      "slug": "inflazione-42-settembre-2026-energia-bollette-rincari",
+      "categoria": "Economia",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-07",
       "slug": "legge-elettorale-fiducia-camera-melonellum-voto-segreto",
       "categoria": "Politica Nazionale",
       "evidenza": false,
