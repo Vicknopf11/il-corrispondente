@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-07",
+      "slug": "garlasco-valutazione-psicologica-stasi-ris-parma-mai-depositata",
+      "categoria": "Cronaca",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-07",
       "slug": "sinner-stagione-finita-2026-ginocchio-atp-finals-torino",
       "categoria": "Sport",
       "evidenza": false,
