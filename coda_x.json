@@ -1,77 +1,77 @@
 {
-  "data": "2026-10-06",
+  "data": "2026-10-07",
   "tweet": [
     {
-      "testo": "650 droni su Mosca in una notte. Impianti petroliferi, due morti. Il coro chiama questa «difesa». Qualcuno ha calcolato cosa succede se la prossima notte riesce meglio? #Ucraina #Guerra",
-      "url": "https://corrispondente.filoclastos.it/2026/10/06/650-droni-ucraini-mosca-escalation-ottobre-2026/",
-      "slug": "650-droni-ucraini-mosca-escalation-ottobre-2026",
+      "testo": "Tre anni. Ancora bombe su Gaza, ancora ostaggi, ancora nessun colpevole istituzionale. Netanyahu «risponderà con forza schiacciante». A chi, esattamente? Il racconto ufficiale preferisce non rispondere. #7ottobre",
+      "url": "https://corrispondente.filoclastos.it/2026/10/07/anniversario-7-ottobre-tre-anni-guerra-gaza-commemorazioni/",
+      "slug": "anniversario-7-ottobre-tre-anni-guerra-gaza-commemorazioni",
       "categoria": "Politica Internazionale",
-      "evidenza": false,
-      "pubblicato": true
-    },
-    {
-      "testo": "Il governo pone la fiducia sulla legge elettorale che ridisegna come si vince. 53 emendamenti dell'opposizione nel cestino. Il voto finale a scrutinio segreto: chi ha paura di chi, esattamente? #Stabilicum",
-      "url": "https://corrispondente.filoclastos.it/2026/10/06/stabilicum-fiducia-camera-legge-elettorale-ottobre-2026/",
-      "slug": "stabilicum-fiducia-camera-legge-elettorale-ottobre-2026",
-      "categoria": "Politica Nazionale",
       "evidenza": true,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Pressione fiscale al 43,5% nel Q2 2026. Redditi +0,4%, consumi +1,7%. Potere d'acquisto -0,9% in un trimestre. Il governo festeggia la crescita. Le famiglie fanno i conti. #economia #tasse",
-      "url": "https://corrispondente.filoclastos.it/2026/10/06/pressione-fiscale-43-percento-potere-acquisto-2026/",
-      "slug": "pressione-fiscale-43-percento-potere-acquisto-2026",
+      "testo": "Il governo mette la fiducia sulla legge elettorale — quella che decide come si vota — e blinda 53 emendamenti dell'opposizione. La chiamano democrazia. Il voto finale sarà segreto: per paura di cosa, esattamente? #Melonellum",
+      "url": "https://corrispondente.filoclastos.it/2026/10/07/legge-elettorale-fiducia-camera-melonellum-voto-segreto/",
+      "slug": "legge-elettorale-fiducia-camera-melonellum-voto-segreto",
+      "categoria": "Politica Nazionale",
+      "evidenza": false,
+      "pubblicato": false
+    },
+    {
+      "testo": "Inflazione al 4,2% a settembre, massimo da tre anni. Energia +22,3%, gas di città +47,2%, gasolio riscaldamento +38,5%. Il governo parla di taglio dell'Irpef. Intanto Eni ed Enel registrano utili record. Casualità. #inflazione",
+      "url": "https://corrispondente.filoclastos.it/2026/10/07/inflazione-42-settembre-2026-energia-bollette-rincari/",
+      "slug": "inflazione-42-settembre-2026-energia-bollette-rincari",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Assunta Scutto, 24 anni, 5 medaglie mondiali consecutive. Record assoluto nella storia del judo italiano. La notizia: è in tendenza? No. Il calcio ne parla? Ovvio che no. #judo #Scutto #mondiali",
-      "url": "https://corrispondente.filoclastos.it/2026/10/06/scutto-argento-mondiali-judo-baku-2026-record/",
-      "slug": "scutto-argento-mondiali-judo-baku-2026-record",
+      "testo": "Sinner chiude il 2026: ginocchio fermo, salta le ATP Finals di Torino. Ha vinto Wimbledon, cinque Masters 1000 di fila, e perderà il n°1. Chi paga il prezzo del sistema che trasforma un 25enne in una macchina da milioni? #Sinner",
+      "url": "https://corrispondente.filoclastos.it/2026/10/07/sinner-stagione-finita-2026-ginocchio-atp-finals-torino/",
+      "slug": "sinner-stagione-finita-2026-ginocchio-atp-finals-torino",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Ranucci sospeso 10 giorni dalla Rai. Coincidenza: mentre il tribunale decide sul suo reintegro a Report. L'azienda non specifica nemmeno i giorni effettivi. Trasparenza, quella sì. #Rai #Report #Ranucci",
-      "url": "https://corrispondente.filoclastos.it/2026/10/06/ranucci-sospeso-rai-dieci-giorni-report-2026/",
-      "slug": "ranucci-sospeso-rai-dieci-giorni-report-2026",
+      "testo": "Dal Ris di Parma salta fuori un profilo psicologico su Stasi del 2007, senza data né firma, mai depositato in 19 anni di processi. Chi lo ha commissionato? La psicologa indicata nell'intestazione nega. La Procura vuole sapere. #Garlasco",
+      "url": "https://corrispondente.filoclastos.it/2026/10/07/garlasco-valutazione-psicologica-stasi-ris-parma-mai-depositata/",
+      "slug": "garlasco-valutazione-psicologica-stasi-ris-parma-mai-depositata",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Nobel Medicina a tre scienziati che hanno studiato come un'alga percepisce la luce. Nessun fondo privato li finanziava. Nessuna Big Pharma aveva già il brevetto pronto. Succede. #Nobel2026 #optogenetica",
-      "url": "https://corrispondente.filoclastos.it/2026/10/06/nobel-medicina-2026-optogenetica-deisseroth-hegemann-nagel/",
-      "slug": "nobel-medicina-2026-optogenetica-deisseroth-hegemann-nagel",
+      "testo": "Nobel Fisica 2026 a Halzen per IceCube: un km cubo di ghiaccio antartico come telescopio per neutrini. L'idea era del 1988, ha atteso il Nobel 38 anni. Chi ha finanziato nel frattempo? Università del Wisconsin. Cioè contribuenti americani. Grazie a loro. #Nobel2026",
+      "url": "https://corrispondente.filoclastos.it/2026/10/07/nobel-fisica-2026-halzen-neutrini-icecube-polo-sud/",
+      "slug": "nobel-fisica-2026-halzen-neutrini-icecube-polo-sud",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Hacker con agenti AI violano 6 banche sudcoreane, 25.000 clienti esposti. Nessuna attribuzione a uno Stato né a un gruppo. L'AI fa le domande da sola. E nessuno dice da quale modello. #cybersecurity #AI",
-      "url": "https://corrispondente.filoclastos.it/2026/10/06/hacker-ai-agenti-banche-corea-del-sud-2026/",
-      "slug": "hacker-ai-agenti-banche-corea-del-sud-2026",
+      "testo": "Il capo della sicurezza di OpenAI si dimette: «La cultura è rotta, corriamo troppo». Stessa settimana: Nvidia vola verso i 6.000 miliardi di capitalizzazione. Il mercato ha già deciso da che parte stare. #AI #OpenAI #Nvidia",
+      "url": "https://corrispondente.filoclastos.it/2026/10/07/openai-dimissioni-sicurezza-robinson-nvidia-6000-miliardi/",
+      "slug": "openai-dimissioni-sicurezza-robinson-nvidia-6000-miliardi",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Cerotti alla dopamina: virali su TikTok, bocciati dall'autorità britannica. Kind Patches ha ammesso di non avere prove che funzionino. Il prodotto esiste ancora. Il profitto pure. #wellness #dopaminepatch",
-      "url": "https://corrispondente.filoclastos.it/2026/10/06/cerotti-dopamina-asa-kind-patches-bocciati-2026/",
-      "slug": "cerotti-dopamina-asa-kind-patches-bocciati-2026",
+      "testo": "La Festa delle Offerte Prime Amazon: due giorni di sconti su bilance, massaggiatori cervicali e gel anticellulite. L'industria del benessere non cura le insicurezze — le vende, scontate, due volte l'anno. #Wellness #PrimeDay",
+      "url": "https://corrispondente.filoclastos.it/2026/10/07/amazon-prime-day-wellness-benessere-ottobre-2026-offerte/",
+      "slug": "amazon-prime-day-wellness-benessere-ottobre-2026-offerte",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Keith Haring a Roma con 140 opere. Un artista che disegnava gratis nei tunnel della metro per sfuggire al mercato dell'arte. Ora il mercato dell'arte espone le sue opere. La storia ha un senso del humor. #KeithHaring #Roma",
-      "url": "https://corrispondente.filoclastos.it/2026/10/06/keith-haring-mostra-palazzo-braschi-roma-2026/",
-      "slug": "keith-haring-mostra-palazzo-braschi-roma-2026",
+      "testo": "Dal 7 ottobre nei cinema italiani: Freddie Mercury a Budapest 1986 in 4K, e Jeremy Strong come Zuckerberg nel sequel di The Social Network. Un fantasma del rock e un fantasma del capitalismo digitale. Entrambi tornano su grande schermo. Sony ringrazia. #Cinema",
+      "url": "https://corrispondente.filoclastos.it/2026/10/07/queen-budapest-4k-cinema-sorkin-social-reckoning-ottobre-2026/",
+      "slug": "queen-budapest-4k-cinema-sorkin-social-reckoning-ottobre-2026",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }

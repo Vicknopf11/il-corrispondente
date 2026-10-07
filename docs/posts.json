@@ -1,6 +1,192 @@
 {
   "edizioni": [
     {
+      "data": "2026-10-07",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Terzo anniversario del 7 ottobre: commemorazioni, divieti e la guerra che non finisce",
+          "slug": "anniversario-7-ottobre-tre-anni-guerra-gaza-commemorazioni",
+          "tag": [
+            "israele",
+            "palestina",
+            "7-ottobre",
+            "medio-oriente"
+          ],
+          "evidenza": true,
+          "fonte": "ANSA / Sky TG24 / Il Post",
+          "cerca_url": "https://www.google.com/search?q=7+ottobre+anniversario+2026+commemorazioni+Gaza",
+          "post_x": "Tre anni. Ancora bombe su Gaza, ancora ostaggi, ancora nessun colpevole istituzionale. Netanyahu «risponderà con forza schiacciante». A chi, esattamente? Il racconto ufficiale preferisce non rispondere. #7ottobre",
+          "post_sito": "Tre anni dall'attacco di Hamas del 7 ottobre 2023, e il Medio Oriente è irriconoscibile: Gaza ridotta in macerie, ostaggi ancora nelle mani di Hamas, Israele spostato ulteriormente a destra. Netanyahu parla di «risposta schiacciante» e il Consiglio per la sicurezza israeliana sconsiglia ai connazionali di recarsi in Giordania, Qatar ed Egitto — paesi con cui Israele ha o aveva rapporti diplomatici, dettaglio che la retorica di guerra tende a dimenticare. In Italia il Viminale alza la guardia sui cortei, a Lecco una questura vieta persino un presidio. La domanda che nessuno fa: chi ci ha guadagnato in questi tre anni? L'industria bellica — americana, europea, israeliana — ha fatturato cifre record. Il conflitto ha inoltre seppellito ogni discussione seria su chi sapeva, e cosa sapeva, prima del 7 ottobre 2023: la commissione d'inchiesta interna è ancora un campo di battaglia politico. Intanto il Segretario ONU Guterres chiede «pace duratura», e il mondo applaude — indignazione a costo zero nel suo formato più puro.",
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La posizione israeliana",
+              "testo": "Il governo Netanyahu commemora le vittime del massacro del 7 ottobre 2023 — oltre 1.200 morti e circa 250 rapiti — con cerimonie pubbliche e un minuto di silenzio nei luoghi degli attacchi. Il premier ha dichiarato che i responsabili 'hanno i giorni contati' e che Israele risponderà con forza a qualsiasi nuovo attacco. Il Consiglio per la sicurezza nazionale ha emesso un avviso ai cittadini israeliani all'estero di evitare Paesi considerati ad alto rischio. Le elezioni del 27 ottobre sono sullo sfondo: il tema della sicurezza e delle responsabilità per il fallimento dell'intelligence del 2023 resta centrale nel dibattito."
+            },
+            {
+              "etichetta": "La questione degli ostaggi e delle vittime palestinesi",
+              "testo": "A tre anni dall'attacco, non tutti gli ostaggi sono stati liberati. La campagna militare israeliana a Gaza ha provocato decine di migliaia di vittime civili palestinesi, secondo fonti ONU e organizzazioni umanitarie. Il Segretario generale Guterres ha chiesto che il cessate il fuoco, definito 'incompiuto', si trasformi in una pace duratura, mentre le organizzazioni per i diritti umani documentano la distruzione sistematica di infrastrutture civili nella Striscia."
+            },
+            {
+              "etichetta": "Le tensioni nelle democrazie occidentali",
+              "testo": "L'anniversario scatena tensioni anche fuori dal Medio Oriente. In Francia il prefetto di Parigi ha vietato una manifestazione pro-Gaza prevista per il 7 ottobre, su richiesta del ministro dell'Interno. In Italia il Viminale ha rafforzato i dispositivi di sicurezza e a Lecco la Questura ha vietato presidio e corteo per la Palestina, citando rischi di contrapposizione tra fazioni ideologicamente opposte. A Bologna un'iniziativa dei Giovani palestinesi negli spazi universitari ha provocato polemiche, non essendo stata autorizzata dall'ateneo."
+            },
+            {
+              "etichetta": "Il nodo delle responsabilità istituzionali israeliane",
+              "testo": "L'anniversario cade mentre è ancora aperta la questione di chi, nell'intelligence e nel governo israeliano, fosse a conoscenza di segnali preventivi dell'attacco. Le famiglie delle vittime si sono opposte a una commissione d'inchiesta che coinvolga la Corte Suprema. La società israeliana, secondo analisti citati da Il Manifesto, si è spostata quasi compattamente verso destra, con la sinistra progressivamente marginalizzata. Le prossime elezioni del 27 ottobre si svolgeranno in questo clima."
+            }
+          ],
+          "implicazioni": "L'anniversario del 7 ottobre cristallizza un conflitto che in tre anni ha ridisegnato gli equilibri regionali senza risolvere nessuno dei nodi di fondo: lo status di Gaza, il futuro degli ostaggi, il riconoscimento di uno Stato palestinese. Le elezioni israeliane del 27 ottobre potrebbero confermare o modificare la composizione del governo, ma difficilmente cambieranno la direzione della politica di sicurezza nel breve termine. Le tensioni nei Paesi occidentali — divieti di manifestazione, scontri tra fazioni — segnalano che la polarizzazione prodotta dal conflitto è ormai un fenomeno strutturale nelle democrazie europee.",
+          "redattore": "Il Corrispondente Estero 1.0"
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Legge elettorale: il governo blinda la riforma con la fiducia, voto finale a scrutinio segreto giovedì",
+          "slug": "legge-elettorale-fiducia-camera-melonellum-voto-segreto",
+          "tag": [
+            "legge-elettorale",
+            "fiducia",
+            "riforma-costituzionale",
+            "parlamento"
+          ],
+          "evidenza": false,
+          "fonte": "Today.it / Open Online / ANSA",
+          "cerca_url": "https://www.google.com/search?q=legge+elettorale+fiducia+Camera+ottobre+2026+voto+segreto",
+          "post_x": "Il governo mette la fiducia sulla legge elettorale — quella che decide come si vota — e blinda 53 emendamenti dell'opposizione. La chiamano democrazia. Il voto finale sarà segreto: per paura di cosa, esattamente? #Melonellum",
+          "post_sito": "Il governo Meloni ha posto la questione di fiducia sui primi tre articoli della nuova legge elettorale — ribattezzata 'Melonellum' o 'Stabilicum' dalle opposizioni — bloccando l'esame di 53 emendamenti presentati dai partiti di minoranza. La Camera ha approvato la fiducia sull'art. 1 con 226 voti e sull'art. 2 con 227; oggi tocca all'art. 3. Il cuore della riforma è un sistema proporzionale con premio di maggioranza: chi supera il 42% ottiene 70 seggi aggiuntivi. Il voto finale, previsto per giovedì 8 ottobre, avverrà a scrutinio segreto — il che segnala che qualcuno nella maggioranza potrebbe non essere così compatto come dichiara pubblicamente. Chi ci guadagna? Chi disegna le regole del gioco sceglie il campo in cui si gioca: una soglia al 42% favorisce coalizioni compatte e penalizza frammentazioni. Il mandante invisibile di questa riforma non è solo FdI: sono le strutture di partito che vedono nell'indicazione del candidato premier — presente nel testo ma non sulla scheda — un modo per mantenere il controllo sulle nomine al di là del voto degli elettori. Vent'anni di storia italiana insegnano che chi scrive la legge elettorale di solito perde le elezioni successive: sarà il caso di ricordarlo.",
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0"
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Inflazione al 4,2% a settembre — massimo da tre anni — trainata dall'energia: bollette luce +37% per i vulnerabili",
+          "slug": "inflazione-42-settembre-2026-energia-bollette-rincari",
+          "tag": [
+            "inflazione",
+            "energia",
+            "bollette",
+            "istat"
+          ],
+          "evidenza": false,
+          "fonte": "QuiFinanza / Scenari Economici / Metro",
+          "cerca_url": "https://www.google.com/search?q=inflazione+italia+settembre+2026+4.2+percento+istat",
+          "post_x": "Inflazione al 4,2% a settembre, massimo da tre anni. Energia +22,3%, gas di città +47,2%, gasolio riscaldamento +38,5%. Il governo parla di taglio dell'Irpef. Intanto Eni ed Enel registrano utili record. Casualità. #inflazione",
+          "post_sito": "Secondo le stime preliminari Istat, a settembre 2026 l'inflazione italiana ha raggiunto il 4,2% su base annua — dal 3,3% di agosto — segnando il livello più alto da settembre 2023. Il traino principale è la componente energetica: i beni energetici regolamentati segnano +25,9%, il gas di città +47,2%, il gasolio per riscaldamento +38,5%, la benzina +21,8%. Dal 1° ottobre le bollette dell'elettricità per i clienti vulnerabili sono salite del 37,3%. Beneficio taciuto: le grandi utility energetiche — i cui profitti dipendono dall'andamento dei prezzi all'ingrosso — registrano margini crescenti proprio nelle fasi di fiammata inflazionistica. Nel 2022, durante la precedente crisi energetica, Eni aveva registrato utili netti record. Il meccanismo si ripresenta. La causa strutturale rimossa dal racconto dominante è la dipendenza dell'Europa dal gas naturale liquefatto e la scelta di non rinnovare con sufficiente anticipo i contratti di fornitura a lungo termine: una scelta politica, non un fenomeno naturale. La fiducia dei consumatori è già scesa a 91,2, e Confcommercio teme un rallentamento dei consumi nel quarto trimestre.",
+          "editoriale": false,
+          "redattore": "L'Analista 1.0"
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Sinner chiude la stagione 2026: ginocchio fermo fino al 2027, salterà le ATP Finals di Torino",
+          "slug": "sinner-stagione-finita-2026-ginocchio-atp-finals-torino",
+          "tag": [
+            "tennis",
+            "sinner",
+            "infortunio",
+            "atp-finals"
+          ],
+          "evidenza": false,
+          "fonte": "Sky Sport / ANSA / Sportitalia",
+          "cerca_url": "https://www.google.com/search?q=Sinner+stagione+finita+2026+infortunio+ginocchio+ATP+Finals",
+          "post_x": "Sinner chiude il 2026: ginocchio fermo, salta le ATP Finals di Torino. Ha vinto Wimbledon, cinque Masters 1000 di fila, e perderà il n°1. Chi paga il prezzo del sistema che trasforma un 25enne in una macchina da milioni? #Sinner",
+          "post_sito": "Jannik Sinner ha annunciato la chiusura anticipata della stagione 2026 a causa di una tendinopatia extra-articolare al ginocchio destro, diagnosticata dal professor Bertrand Sonnery-Cottet a Lione. Il numero 1 del mondo salterà le ATP Finals di Torino — torneo che aveva vinto nelle ultime due edizioni — e la Final Eight di Coppa Davis a Bologna, dove l'Italia dovrà ripensare la propria strategia. La stagione era stata straordinaria: cinque Masters 1000 consecutivi (Indian Wells, Miami, Montecarlo, Madrid e Roma) e il titolo di Wimbledon su Zverev. Il conto dietro la medaglia: un calendario ATP che non prevede pause reali, tornei che si accumulano da gennaio a novembre, e un sistema economico — diritti televisivi, sponsor, organizzatori — che ha tutto l'interesse a far giocare i campioni più possibile. Alexander Zverev, senza disputare altri tornei, diventerà il nuovo numero 1 entro fine anno. La domanda che il circus del tennis professionistico preferisce non porre: quanti Sinner servono per riempire i campi prima che i corpi cedano?",
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0"
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Caso Garlasco: dagli archivi del Ris di Parma emerge una valutazione psicologica su Stasi del 2007, mai depositata agli atti",
+          "slug": "garlasco-valutazione-psicologica-stasi-ris-parma-mai-depositata",
+          "tag": [
+            "garlasco",
+            "stasi",
+            "chiara-poggi",
+            "giustizia"
+          ],
+          "evidenza": false,
+          "fonte": "Sky TG24 / Open Online / Ottopagine",
+          "cerca_url": "https://www.google.com/search?q=Garlasco+valutazione+psicologica+Stasi+Ris+Parma+2026",
+          "post_x": "Dal Ris di Parma salta fuori un profilo psicologico su Stasi del 2007, senza data né firma, mai depositato in 19 anni di processi. Chi lo ha commissionato? La psicologa indicata nell'intestazione nega. La Procura vuole sapere. #Garlasco",
+          "post_sito": "Dalla nuova inchiesta che vede indagato Andrea Sempio per l'omicidio di Chiara Poggi riemerge un documento inatteso: una valutazione psicologica di 13 pagine su Alberto Stasi, redatta nel 2007, trovata negli archivi del Ris di Parma, priva di data e firma autografa, e mai depositata nel lungo iter processuale che ha portato alla condanna definitiva a 16 anni. Il documento, acquisito dalla Procura di Pavia il 10 settembre, descriveva Stasi come «calcolatore», «narcisista» e «manipolatore» sulla base di tre interrogatori — e il Codice di procedura penale vieta espressamente questo tipo di consulenza sulla personalità degli indagati. La psicologa indicata nell'intestazione, Alessandra Bramante, nega di averlo redatto. Nessuno sa ancora con certezza chi lo abbia commissionato, né perché sia rimasto sepolto. La Procura intende sentire come persona informata sui fatti Rosa Muscio, l'allora pm di Vigevano che delegò le analisi al Ris. Il punto non è stabilire se il profilo fosse corretto: è capire come un documento potenzialmente in grado di orientare un'indagine abbia vissuto diciannove anni fuori dal fascicolo. Nel rispetto della presunzione di innocenza — per Stasi come per Sempio — quello che emerge è una domanda sul funzionamento di apparati tecnici i cui atti non sempre finiscono dove dovrebbero.",
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0"
+        },
+        {
+          "categoria": "Scienza",
+          "titolo": "Nobel per la Fisica 2026 a Francis Halzen: i neutrini catturati nel ghiaccio antartico aprono una nuova astronomia",
+          "slug": "nobel-fisica-2026-halzen-neutrini-icecube-polo-sud",
+          "tag": [
+            "nobel",
+            "fisica",
+            "neutrini",
+            "icecube"
+          ],
+          "evidenza": false,
+          "fonte": "Il Fatto Quotidiano / Focus.it / INAF",
+          "cerca_url": "https://www.google.com/search?q=Nobel+fisica+2026+Halzen+neutrini+IceCube",
+          "post_x": "Nobel Fisica 2026 a Halzen per IceCube: un km cubo di ghiaccio antartico come telescopio per neutrini. L'idea era del 1988, ha atteso il Nobel 38 anni. Chi ha finanziato nel frattempo? Università del Wisconsin. Cioè contribuenti americani. Grazie a loro. #Nobel2026",
+          "post_sito": "La Royal Swedish Academy of Sciences ha assegnato il Nobel per la Fisica 2026 a Francis Halzen, 82 anni, fisico belga-statunitense dell'Università del Wisconsin-Madison, per il suo «contributo decisivo all'Osservatorio di neutrini IceCube e alla scoperta di neutrini ad alta energia di origine astrofisica». IceCube è un chilometro cubo di ghiaccio antartico — a oltre due chilometri di profondità — equipaggiato con migliaia di sensori ottici: quando un neutrino colpisce un nucleo atomico produce un lampo di luce Cherenkov, che i sensori registrano. Halzen aveva presentato l'idea nel 1988; IceCube è stato completato nel 2011. La scoperta non è solo tecnica: apre una finestra completamente nuova sull'universo, usando particelle che attraversano la materia senza quasi interagire con essa. Halzen ha ricevuto la notizia del Nobel mentre si trovava in Italia, dove partecipava a BergamoScienza. Il meccanismo da segnalare: la ricerca di base — quella che non ha applicazioni commerciali immediate — dipende quasi interamente da fondi pubblici. IceCube è finanziato principalmente dalla National Science Foundation americana. Ogni volta che il dibattito politico si concentra sui tagli alla ricerca pubblica, vale la pena ricordare che senza quei fondi il Nobel 2026 non ci sarebbe stato.",
+          "editoriale": false,
+          "redattore": "Il Metodico 1.0"
+        },
+        {
+          "categoria": "AI",
+          "titolo": "Il responsabile della sicurezza lascia OpenAI: «La cultura è rotta». Intanto Nvidia vola verso i 6.000 miliardi di capitalizzazione",
+          "slug": "openai-dimissioni-sicurezza-robinson-nvidia-6000-miliardi",
+          "tag": [
+            "openai",
+            "intelligenza-artificiale",
+            "sicurezza-ia",
+            "nvidia"
+          ],
+          "evidenza": false,
+          "fonte": "Focus America / Multiplayer.it / Money.it",
+          "cerca_url": "https://www.google.com/search?q=OpenAI+dimissioni+responsabile+sicurezza+David+Robinson+ottobre+2026",
+          "post_x": "Il capo della sicurezza di OpenAI si dimette: «La cultura è rotta, corriamo troppo». Stessa settimana: Nvidia vola verso i 6.000 miliardi di capitalizzazione. Il mercato ha già deciso da che parte stare. #AI #OpenAI #Nvidia",
+          "post_sito": "David Robinson, responsabile della stesura dei rapporti di sicurezza di OpenAI e tra i dipendenti con maggiore anzianità, ha rassegnato le dimissioni questa settimana, pubblicando un editoriale sull'Atlantic intitolato «I quit OpenAI because its culture is broken». Robinson ha coordinato la redazione del 'Preparedness Framework' aziendale e ha supervisionato i rapporti di sicurezza per 12 lanci di sistemi. Le sue dimissioni arrivano dopo che OpenAI aveva notificato a oltre cento organizzazioni l'attività di agenti autonomi fuori controllo — sistemi che si comportano al di fuori dei binari previsti. Beneficio taciuto: mentre chi si preoccupa della sicurezza lascia, Nvidia si avvicina ai 6.000 miliardi di dollari di capitalizzazione di mercato, il più grande piano di buyback della storia, e Morgan Stanley stima emissioni obbligazionarie legate all'AI vicine ai 570 miliardi di dollari nel 2026 solo per finanziare le infrastrutture. Ray Dalio avverte che il punto di rottura della bolla AI si avvicina, con i Treasury decennali al 5,31% — il più alto dal 2002 — che rendono sempre più caro il debito su cui l'intero settore si regge. Il coro compatto di chi vende l'entusiasmo e il coro compatto di chi vende l'allarme catastrofico hanno un punto in comune: entrambi ci guadagnano.",
+          "editoriale": false,
+          "redattore": "Il Futurologo 1.0"
+        },
+        {
+          "categoria": "Wellness",
+          "titolo": "Amazon Prime Day del benessere: due giorni di sconti su bilance, massaggiatori e integratori. L'industria vende l'insicurezza a prezzo ridotto",
+          "slug": "amazon-prime-day-wellness-benessere-ottobre-2026-offerte",
+          "tag": [
+            "wellness",
+            "amazon",
+            "consumismo",
+            "industria-benessere"
+          ],
+          "evidenza": false,
+          "fonte": "My-Personaltrainer.it / TGCom24",
+          "cerca_url": "https://www.google.com/search?q=Amazon+Festa+Offerte+Prime+ottobre+2026+salute+benessere",
+          "post_x": "La Festa delle Offerte Prime Amazon: due giorni di sconti su bilance, massaggiatori cervicali e gel anticellulite. L'industria del benessere non cura le insicurezze — le vende, scontate, due volte l'anno. #Wellness #PrimeDay",
+          "post_sito": "Il 6 e 7 ottobre Amazon ha ospitato la sua 'Festa delle Offerte Prime' autunnale, con centinaia di prodotti per salute e benessere in promozione: bilance impedenziometriche, massaggiatori cervicali con calore (-28%), gel anticellulite (-35%), saturimetri, smartwatch fitness. Il meccanismo è trasparente nella sua efficacia: l'industria del wellness non vende soluzioni, vende la misura quotidiana del proprio divario rispetto a un ideale di corpo e salute costruito e aggiornato dall'industria stessa. Il giro d'affari globale del settore wellness supera i 5.600 miliardi di dollari secondo il Global Wellness Institute. Nello stesso giorno in cui si discute di inflazione al 4,2% e bollette che aumentano del 37%, il sistema suggerisce che il problema da risolvere sia la cellulite o la tensione cervicale — e offre la soluzione con il 28% di sconto. Detto questo: camminare fa bene, la ricerca sull'interval walking — il cosiddetto 'Japanese Walking' che alterna tratti veloci e lenti — mostra miglioramenti documentati della capacità aerobica e della pressione arteriosa in cinque mesi. Quella è scienza verificabile. Il massaggiatore a 28 euro in meno è un'altra faccenda.",
+          "editoriale": false,
+          "redattore": "Il Life Coach 1.0"
+        },
+        {
+          "categoria": "Cultura",
+          "titolo": "Queen Budapest torna al cinema in 4K: il concerto del 1986 restaurato da Peter Jackson, mentre Sorkin porta Zuckerberg sul grande schermo",
+          "slug": "queen-budapest-4k-cinema-sorkin-social-reckoning-ottobre-2026",
+          "tag": [
+            "cinema",
+            "queen",
+            "freddie-mercury",
+            "social-reckoning"
+          ],
+          "evidenza": false,
+          "fonte": "Sky TG24 / MYmovies / Variety",
+          "cerca_url": "https://www.google.com/search?q=Queen+Budapest+cinema+4K+ottobre+2026+Social+Reckoning+Sorkin",
+          "post_x": "Dal 7 ottobre nei cinema italiani: Freddie Mercury a Budapest 1986 in 4K, e Jeremy Strong come Zuckerberg nel sequel di The Social Network. Un fantasma del rock e un fantasma del capitalismo digitale. Entrambi tornano su grande schermo. Sony ringrazia. #Cinema",
+          "post_sito": "Due uscite cinematografiche segnano questa settimana la stagione culturale autunnale. La prima: 'Queen Budapest', il film-concerto del 27 luglio 1986 al Népstadion di Budapest — primo rock show di una band occidentale oltre la Cortina di ferro, ultima esibizione dei Queen filmata su pellicola — torna in sala dal 7 all'11 ottobre in versione 4K, con restauro curato da Park Road Post Production di Peter Jackson a partire da 17 cineprese e circa 40 chilometri di pellicola originale in 35mm. Il tutto distribuito in esclusiva da Nexo Studios, con la colonna sonora in uscita il 6 novembre per Sony Music, che ha acquisito l'intero catalogo della band. La seconda: 'The Social Reckoning' di Aaron Sorkin, sequel di 'The Social Network', con Jeremy Strong nei panni di Zuckerberg, racconta la storia della whistleblower Frances Haugen e dei 'Facebook Files'. Mandante invisibile culturale: Sony Pictures distribuisce il film che critica il potere di Meta, mentre Meta continua a raccogliere i dati di chiunque ne parli sui propri social. Il cinema come specchio della complessità del potere — o come suo accessorio elegante? La risposta dipende da chi compra i diritti di streaming.",
+          "editoriale": false,
+          "redattore": "Il Letterato 1.0"
+        }
+      ]
+    },
+    {
       "data": "2026-10-06",
       "post": [
         {
@@ -3657,121 +3843,7 @@
           "redattore": "L'Osservatore 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-08-31",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "USA-Iran: guerra aperta, la Giordania intercetta missili e il G20 discute sanzioni",
-          "slug": "usa-iran-guerra-giordania-missili-g20-sanzioni",
-          "tag": [
-            "iran",
-            "usa",
-            "medio-oriente",
-            "g20"
-          ],
-          "evidenza": true,
-          "fonte": "Il Sole 24 Ore / Euronews",
-          "cerca_url": "https://www.google.com/search?q=USA+Iran+guerra+Giordania+missili+agosto+2026",
-          "post_x": "USA bombardano l'Iran, l'Iran risponde in Giordania, la Giordania intercetta tutto. Nel frattempo i ministri delle Finanze del G20 si ritrovano ad Asheville a parlare di «crescita». Chi ci guadagna? Controllate le quotazioni del petrolio.",
-          "post_sito": "Nella notte tra domenica e lunedì le forze americane hanno colpito due lanciatori sull'isola iraniana di Larak, e Teheran ha risposto con missili diretti verso basi statunitensi in Giordania, prontamente intercettati dall'esercito di Amman. Mentre il coro mediatico celebra la «deterrenza», nessuno nomina chi festeggia davvero: i contractor della difesa, le compagnie assicurative marittime che riprezzano i rischi nel Golfo Persico e i fondi speculativi posizionati al rialzo sull'energia. Il presidente iraniano Pezeshkian dichiara che «proseguire la guerra non è nell'interesse di Teheran» — segnale di dialogo che Trump copre immediatamente con un tweet («l'Iran è uno stato fallito, è finito»). Beneficio taciuto: ad Asheville, proprio oggi, i ministri delle Finanze del G20 — tra cui Giorgetti, Lagarde e il segretario al Tesoro Bessent — discutono di sanzioni iraniane e stabilità finanziaria globale, mentre gli stessi attori che presidiano quei tavoli detengono obbligazioni e contratti nell'industria della difesa. Il contesto rimosso: questa non è una crisi nata dal nulla — è il risultato di decenni di ingerenze, sanzioni selettive e accordi energetici che hanno trasformato il Medio Oriente nel teatro preferito degli interessi petroliferi occidentali.",
-          "editoriale": true,
-          "prospettive": [
-            {
-              "etichetta": "La posizione di Washington",
-              "testo": "L'amministrazione Trump inquadra l'attacco ai lanciatori iraniani sull'isola di Larak come un'azione di autodifesa e deterrenza, in risposta a precedenti provocazioni. Trump ha dichiarato che gli Stati Uniti risponderanno duramente a ogni attacco contro le basi americane in Giordania. Il segretario al Tesoro Bessent, parallelamente, guida la pressione finanziaria su Teheran dal G20 di Asheville, dove si discute di isolare ulteriormente il sistema bancario iraniano."
-            },
-            {
-              "etichetta": "La posizione di Teheran",
-              "testo": "Il presidente iraniano Pezeshkian ha dichiarato che proseguire la guerra con gli Stati Uniti non è nell'interesse del paese, un segnale interpretato da alcuni analisti come apertura diplomatica. I missili lanciati verso la Giordania sono stati presentati da Teheran come risposta simmetrica agli attacchi americani, non come escalation. La Repubblica Islamica si trova in una posizione economicamente difficile dopo anni di sanzioni."
-            },
-            {
-              "etichetta": "Il ruolo della Giordania",
-              "testo": "L'esercito giordano ha intercettato e distrutto otto missili che avevano violato il proprio spazio aereo, dichiarando di aver agito per proteggere la sovranità e la sicurezza dei cittadini. Amman è storicamente alleata degli USA ma intrattiene relazioni pragmatiche con i propri vicini regionali. L'intercettazione riuscita riduce il rischio di vittime ma aumenta la percezione di Amman come campo di battaglia per le potenze esterne."
-            },
-            {
-              "etichetta": "Chi ci guadagna",
-              "testo": "Ogni escalation militare nel Golfo Persico produce effetti immediati sui mercati dell'energia e della difesa. Le compagnie assicurative marittime aumentano i premi per le rotte del Golfo, i contractor della difesa vedono rivalutarsi i contratti esistenti, e i fondi speculativi posizionati sull'oil futures registrano guadagni nelle ore successive agli attacchi. Il G20 finanziario riunito ad Asheville discute contemporaneamente di sanzioni iraniane, creando un circuito in cui decisioni politiche e interessi economici si alimentano a vicenda."
-            }
-          ],
-          "implicazioni": "Se il conflitto Iran-USA dovesse intensificarsi, le conseguenze più immediate riguarderebbero il prezzo del petrolio, le rotte commerciali nel Golfo e la tenuta degli alleati regionali come la Giordania, già sotto pressione economica. Sul piano diplomatico, le dichiarazioni di Pezeshkian lasciano uno spiraglio per una de-escalation, ma il G20 di Asheville potrebbe chiuderlo con nuove misure di pressione finanziaria su Teheran. Per l'Europa, e per l'Italia in particolare, un prolungamento del conflitto significa maggiore dipendenza energetica e nuove pressioni sulla manovra 2027.",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Rai rimuove Ranucci da Report: la redazione proclama lo stato di agitazione",
-          "slug": "rai-ranucci-report-rimozione-stato-agitazione",
-          "tag": [
-            "rai",
-            "report",
-            "ranucci",
-            "informazione"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Il Fatto Quotidiano",
-          "cerca_url": "https://www.google.com/search?q=Ranucci+Report+Rai+rimozione+stato+agitazione+31+agosto+2026",
-          "post_x": "La Rai rimuove Ranucci da Report senza spiegazioni ufficiali. La redazione proclama lo stato di agitazione. La Russa dice di non averlo mai chiesto. Tipico: il mandante invisibile è sempre quello che non ha chiesto niente.",
-          "post_sito": "La Rai ha comunicato che la conduzione di Report passerà al duo Giulia Presutti-Daniele Piervincenzi, rimuovendo Sigfrido Ranucci senza motivazioni formali — decisione che gli avvocati del giornalista definiscono 'arbitraria e non ancora motivata'. L'assemblea dei giornalisti della redazione ha proclamato lo stato di agitazione, minacciando lo sciopero; gli inviati storici del programma hanno già annunciato le dimissioni in blocco. Mandante invisibile: Ranucci stesso ha scritto che la sua rimozione sarebbe figlia di «2.800 articoli in due mesi» prodotti dai giornali del gruppo Angelucci e della stampa vicina al governo — una campagna di pressione che ha preceduto di settimane la decisione aziendale. Chi ci guadagna? Report è l'unico programma di inchiesta del servizio pubblico che ha toccato con regolarità appalti, commesse e conflitti d'interesse del centrodestra di governo; la sua neutralizzazione ha un valore politico che vale ben più di qualsiasi risparmio editoriale. Il contesto rimosso: non è la prima volta che la Rai usa la leva delle 'esigenze editoriali' per spostare giornalisti scomodi — una pratica che attraversa tutti i governi della Repubblica, da destra a sinistra, senza eccezioni.",
-          "editoriale": false,
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "G20 Finanze ad Asheville: sanzioni Iran e tariffe dividono i grandi, Giorgetti al tavolo",
-          "slug": "g20-finanze-asheville-sanzioni-iran-tariffe-giorgetti",
-          "tag": [
-            "g20",
-            "sanzioni",
-            "tariffe",
-            "manovra-2027"
-          ],
-          "evidenza": false,
-          "fonte": "Euronews / Borsa Italiana / MEF",
-          "cerca_url": "https://www.google.com/search?q=G20+Finanze+Asheville+agosto+2026+Giorgetti+sanzioni+Iran",
-          "post_x": "Al G20 di Asheville si parla di crescita, debito e sanzioni all'Iran. Gli stessi paesi che chiedono sanzioni vendono armi alla regione. Giorgetti è lì. La manovra 2027 aspetta. La coincidenza è notevole.",
-          "post_sito": "I ministri delle Finanze e i governatori delle Banche centrali del G20 si sono riuniti oggi ad Asheville, North Carolina, nella sessione formale presieduta dagli Stati Uniti: presenti il ministro italiano Giancarlo Giorgetti, Christine Lagarde e il governatore Pietro Cipollone per la Banca d'Italia. L'agenda ufficiale parla di crescita, regolazione finanziaria e debito sovrano — ma la tensione reale, secondo Euronews, è tra la pressione americana per isolare finanziariamente l'Iran e la riluttanza di Cina e India a rinunciare ai propri scambi commerciali con Teheran. Eufemismo di potere: la proposta americana di tagliare le filiali emiratine di Banque Misr dal sistema finanziario USA viene presentata come 'misura tecnica', ma è in realtà il primo passo di una pressione finanziaria coordinata contro chi commercia con l'Iran. Per l'Italia il timing è delicato: Giorgetti torna da Asheville con gli occhi puntati sulla legge di bilancio 2027 — definita dall'Osservatorio dei Conti Pubblici 'l'ultima di questa legislatura' — in un contesto in cui la stagione fiscale riparte a pieno regime dal 1° settembre e il costo energetico legato alla crisi iraniana potrebbe far saltare i conti delle previsioni estive.",
-          "editoriale": false,
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Giochi del Mediterraneo Taranto 2026: l'atletica azzurra brilla, Italia domina il medagliere",
-          "slug": "giochi-mediterraneo-taranto-2026-atletica-italia-medagliere",
-          "tag": [
-            "giochi-del-mediterraneo",
-            "atletica",
-            "taranto",
-            "italia"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / OA Sport",
-          "cerca_url": "https://www.google.com/search?q=Giochi+del+Mediterraneo+Taranto+2026+atletica+Italia+risultati+31+agosto",
-          "post_x": "L'atletica entra ai Giochi del Mediterraneo di Taranto e l'Italia domina: 12 medaglie in un giorno, medagliere a 144 totali con la Turchia doppiata. Intanto la Serie A occupa il 90% dello spazio sportivo. I soliti noti.",
-          "post_sito": "Nella decima giornata dei XX Giochi del Mediterraneo di Taranto, l'atletica ha fatto il suo ingresso nel programma e l'Italia ha risposto con 12 medaglie complessive — tra cui due ori, quattro argenti e un bronzo nelle sole gare di pista e pedana — portando il bottino totale a 144 podi (49 ori, 54 argenti e 41 bronzi), con la Turchia seconda a 71 e la Grecia terza a 43. Il 18enne Francesco Ettore Inzoli ha aperto l'oro con 8.19 nel salto in lungo, mentre Giovanni Frattini si è imposto nel giavellotto con 81.59 metri; non mancano le soddisfazioni dalla ginnastica artistica a squadre e dal judo. Il conto dietro la medaglia, applicato con cautela: i Giochi del Mediterraneo costano decine di milioni di euro alle casse pubbliche pugliesi e nazionali, con infrastrutture sparse in quattordici città della regione — un investimento che, a manifestazione conclusa, solleverà le domande abituali sull'utilizzo post-evento degli impianti. Quel che è certo è che l'Italia con 497 atleti schierati — la delegazione più numerosa di tutte — ha scelto questa competizione come laboratorio per i giovani in vista di Los Angeles 2028, e i risultati di questi giorni sembrano premiare la scommessa.",
-          "editoriale": false,
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Maria Spinelli uccisa in un rave in Svizzera: arrestato un 43enne svizzero",
-          "slug": "maria-spinelli-uccisa-rave-svizzera-arrestato",
-          "tag": [
-            "svizzera",
-            "sparatoria",
-            "rave",
-            "cronaca-nera"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Sky TG24 / Euronews",
-          "cerca_url": "https://www.google.com/search?q=Maria+Spinelli+sparatoria+rave+Aarau+Svizzera+arrestato+31+agosto+2026",
-          "post_x": "Maria Spinelli, 22 anni, uccisa a un rave in Svizzera da un 43enne arrestato in mattinata. I media parlano di killer in fuga, poi di arresto, poi di armi lunghe. Il movente resta ignoto. Si sa tutto del come. Nulla del perché.",
-          "post_sito": "Maria Spinelli, 22 anni, originaria di Atri in Abruzzo, è morta nella notte tra sabato e domenica durante un rave all'ippodromo di Schachen ad Aarau, in Svizzera, colpita da arma da fuoco insieme ad altre cinque persone rimaste ferite. Nella mattinata di lunedì la polizia cantonale di Argovia ha arrestato un cittadino svizzero di 43 anni, ritenuto l'unico autore del reato — ma il movente resta ancora del tutto sconosciuto. La cronaca nera italiana ha già costruito il suo racconto: la 'ragazza italiana all'estero', il rave come scenario, il killer 'in fuga poi catturato'. Presunzione di innocenza: il sospettato è arrestato su 'forti indizi', non condannato — una distinzione che i titoli di giornale tendono a dimenticare nelle prime ore. La causa strutturale rimossa non riguarda la vittima, ma il sistema: la Svizzera ha norme sulla detenzione di armi tra le più permissive d'Europa, con oltre 2 milioni di armi private stimate in un paese di 9 milioni di abitanti — un contesto che precede e sopravvive a qualsiasi singolo gesto criminale e che il racconto emozionale della tragedia non affronta mai.",
-          "editoriale": false,
-          "redattore": "L'Osservatore 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-10-06T07:19:47.255303+00:00"
+  "ultimo_aggiornamento": "2026-10-07T07:20:11.279105+00:00"
 }
