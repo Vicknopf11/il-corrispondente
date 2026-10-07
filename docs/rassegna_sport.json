@@ -1,22 +1,6 @@
 {
-  "generato": "2026-10-07T11:31:02.128276+00:00",
+  "generato": "2026-10-07T17:30:58.630555+00:00",
   "item": [
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Bocce paralimpiche, a Olbia il World Challenger verso Los Angeles 2028",
-      "link": "https://www.gazzetta.it/bocce/06-10-2026/boccia-a-olbia-il-world-challenger-verso-los-angeles-2028.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-10-06"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Chikungunya e Parvovirus B19: cosa sono i due virus che hanno fermato Sofia Goggia",
-      "link": "https://www.gazzetta.it/salute/storie/04-10-2026/sofia-goggia-virus-cosa-sono-chikungunya-e-parvovirus-b19-il-contagio/un-brusco-stop.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-10-04"
-    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
@@ -40,6 +24,22 @@
       "link": "https://www.gazzetta.it/Sport-Vari/02-10-2026/danza-sportiva-a-ostia-il-grandslam-in-gara-1-100-atleti-da-51-paesi.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-10-02"
+    },
+    {
+      "sottocategoria": "Squadra",
+      "tipo": "notizia",
+      "titolo": "Morta a 35 anni Stefania Corna: cresciuta nel vivaio di Bergamo, aveva giocato in A-1 e in nazionale",
+      "link": "https://www.gazzetta.it/Volley/07-10-2026/stefania-corna-morta-a-35-anni-la-pallavolsta-ex-bergamo-e-nazionale.shtml",
+      "fonte": "Gazzetta — Volley",
+      "data_evento": "2026-10-07"
+    },
+    {
+      "sottocategoria": "Atletica",
+      "tipo": "notizia",
+      "titolo": "Onorato: \"La mezza maratona di Roma è un mezzo perfetto per promuovere la capitale\"",
+      "link": "https://video.gazzetta.it/atletica/video-onorato-la-mezza-maratona-di-roma-e-un-mezzo-perfetto-per-promuovere-la-capitale/ac2709f3-b33a-4489-9e8e-230162dffxlk",
+      "fonte": "Gazzetta — Atletica",
+      "data_evento": "2026-10-07"
     }
   ]
 }
