@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-07",
+      "slug": "amazon-prime-day-wellness-benessere-ottobre-2026-offerte",
+      "categoria": "Wellness",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-07",
       "slug": "openai-dimissioni-sicurezza-robinson-nvidia-6000-miliardi",
       "categoria": "AI",
       "evidenza": false,
