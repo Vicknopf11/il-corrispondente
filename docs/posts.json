@@ -1,6 +1,188 @@
 {
   "edizioni": [
     {
+      "data": "2026-10-08",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Il Pentagono prepara attacchi all'Iran: Trump aspetta le elezioni di metà mandato",
+          "slug": "pentagono-attacchi-iran-trump-elezioni-meta-mandato",
+          "tag": [
+            "iran",
+            "usa",
+            "guerra",
+            "petrolio"
+          ],
+          "evidenza": false,
+          "fonte": "The Atlantic / Axios",
+          "cerca_url": "https://www.google.com/search?q=Pentagono+attacchi+Iran+Trump+elezioni+meta+mandato+ottobre+2026",
+          "post_x": "Il Pentagono prepara piani d'attacco all'Iran. Trump non ha ancora deciso i tempi. Coincidenza: le elezioni di metà mandato si avvicinano. Il prezzo del petrolio ringrazierà. #Iran #Trump",
+          "post_sito": "Il Pentagono ha ordinato al Comando centrale di completare i preparativi per operazioni di combattimento su vasta scala in Iran, anche se Trump non ha ancora fissato i tempi. Fonti americane e israeliane non escludono un intervento prima delle elezioni di metà mandato — dettaglio che il racconto ufficiale tende a sistemare in fondo al comunicato, come fosse un'appendice. Chi ci guadagna? L'industria della difesa, prima di tutto, ma anche i produttori di petrolio: ogni escalation nel Golfo fa salire i prezzi, e i fondi che scommettono sul greggio sanno già come posizionarsi. Il contesto rimosso è che gli Stati Uniti e l'Iran trattano da mesi su un nuovo accordo nucleare, con Teheran che difende il suo diritto all'arricchimento come linea rossa invalicabile. Un attacco militare prima di un accordo — mentre i diplomatici sono ancora al tavolo — ha un nome preciso nel diritto internazionale. Ma le elezioni di novembre non aspettano.",
+          "editoriale": false,
+          "redattore": "Il Corrispondente Estero 1.0"
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Voto segreto sulla legge elettorale: il \"Melonellum\" alla prova dei franchi tiratori",
+          "slug": "voto-segreto-legge-elettorale-melonellum-franchi-tiratori",
+          "tag": [
+            "legge-elettorale",
+            "meloni",
+            "camera",
+            "riforma"
+          ],
+          "evidenza": true,
+          "fonte": "Today.it / Il Sole 24 Ore",
+          "cerca_url": "https://www.google.com/search?q=voto+finale+legge+elettorale+Camera+scrutinio+segreto+8+ottobre+2026",
+          "post_x": "Oggi voto segreto alla Camera sulla nuova legge elettorale. Meloni: \"Se non passa cado\". Traduzione: chi non vota sì è un traditore. La democrazia rappresentativa, un sistema curioso. #Melonellum",
+          "post_sito": "Alla Camera è il giorno del voto finale a scrutinio segreto sulla riforma elettorale, battezzata \"Stabilicum\" o — con più ironia — \"Melonellum\". Il sistema prevede un proporzionale con premio di maggioranza di 70 seggi alla Camera e 35 al Senato, fino a un tetto di 220 deputati e 113 senatori. Meloni ha chiarito che una sconfitta equivarrebbe alla caduta del governo: tecnica antica quanto la Repubblica, quella di trasformare ogni voto in questione di sopravvivenza per scoraggiare la dissidenza. Il vero mandante di questa riforma non è solo il palazzo: una legge elettorale disegnata sul perimetro dell'attuale maggioranza serve soprattutto a stabilizzare il potere di chi governa oggi, rendendo più difficile qualsiasi riallineamento futuro. Il contesto rimosso è che la storia repubblicana è piena di leggi elettorali cucite addosso a chi governava al momento — dal Porcellum al Mattarellum al Rosatellum — e che ogni volta chi le ha votate ha finito per subirle in condizioni avverse. La vera domanda non è se passerà, ma chi ci guadagna davvero nel medio periodo.",
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La versione del governo",
+              "testo": "Il governo sostiene che la riforma garantisce maggiore stabilità agli esecutivi e una rappresentanza più diretta tra voti e seggi. Il sistema proporzionale con premio di maggioranza, nelle intenzioni dichiarate, dovrebbe evitare sia la frammentazione parlamentare sia le distorsioni dei sistemi maggioritari puri. Meloni ha più volte ribadito che si tratta di una riforma necessaria per dare all'Italia governi più duraturi e meno dipendenti da equilibri post-elettorali imprevedibili."
+            },
+            {
+              "etichetta": "La posizione dell'opposizione",
+              "testo": "I partiti di opposizione — Pd, M5S, Avs e altri — contestano sia il merito sia il metodo: la riforma è stata approvata con tre voti di fiducia, bypassando il dibattito parlamentare approfondito. L'opposizione denuncia che il premio di maggioranza è calibrato per avvantaggiare la coalizione attualmente al governo e che lo scrutinio segreto sul voto finale è stato richiesto proprio per limitare la pressione sui dissidenti interni alla maggioranza, non per tutelare la libertà di coscienza dei parlamentari."
+            },
+            {
+              "etichetta": "Il nodo istituzionale",
+              "testo": "Costituzionalisti e osservatori istituzionali sottolineano che il meccanismo del premio di maggioranza è già stato oggetto di scrutinio della Corte Costituzionale in passato, e che l'applicazione concreta della nuova legge dipenderà molto dalle soglie di accesso e dalle modalità di formazione delle coalizioni, dettagli che restano oggetto di interpretazione. Il tema del voto segreto su riforme di questa portata riapre un dibattito antico sui limiti della disciplina di partito e sull'autonomia del mandato parlamentare."
+            }
+          ],
+          "implicazioni": "Se la legge passa, ridisegna le regole del gioco per le prossime elezioni politiche, rendendo le coalizioni pre-elettorali più determinanti e penalizzando le liste che non raggiungono le soglie di sbarramento. Se venisse respinta — ipotesi al momento considerata marginale — aprirebbe una crisi di governo in un momento di forte pressione economica e finanziaria.",
+          "redattore": "Il Bastian Contrario 1.0"
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Borse europee in caduta, spread BTP a 115 punti: Milano la peggiore con -2,51%",
+          "slug": "borse-europee-crollo-spread-btp-115-milano-meno-251",
+          "tag": [
+            "borse",
+            "spread",
+            "debito-pubblico",
+            "mercati"
+          ],
+          "evidenza": false,
+          "fonte": "Il Sole 24 Ore / Corriere della Sera",
+          "cerca_url": "https://www.google.com/search?q=borsa+Milano+calo+spread+BTP+115+punti+8+ottobre+2026",
+          "post_x": "Milano -2,51%. Spread BTP a 115 punti. BTP decennale al 4,63%. Mentre il governo chiede flessibilità a Bruxelles per 29 miliardi, i mercati votano già. E il voto è segreto quanto quello di stamattina alla Camera. #spread #borsa",
+          "post_sito": "Piazza Affari ha chiuso con un calo del 2,51%, la peggiore tra le Borse europee, mentre il BTP decennale è salito al 4,63% e lo spread con il Bund tedesco si è assestato intorno a 115 punti. Le vendite hanno colpito con particolare violenza le banche: UniCredit e Intesa Sanpaolo hanno perso oltre il 4%. Il tutto mentre il governo è a Lussemburgo con Giorgetti all'Eurogruppo a chiedere flessibilità per 29 miliardi tra energia e difesa. Il beneficio taciuto di questa tempesta finanziaria è che i fondi speculativi che shortano i titoli di Stato europei incassano precisamente in queste giornate. La Corte dei Conti europea ha già avvertito che il debito dell'Unione potrebbe avvicinarsi ai mille miliardi nel 2027, e il debito italiano resta stabilmente sopra il 138% del PIL. Il coro mediatico racconta una crisi come se fosse un fenomeno atmosferico imprevedibile; il contesto rimosso è che le tensioni sui rendimenti vengono amplificate da algoritmi di trading che reagiscono a segnali politici — come un voto incerto sulla legge elettorale — prima ancora che l'economia reale si muova.",
+          "editoriale": false,
+          "redattore": "L'Analista 1.0"
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Gran Piemonte 2026: la 110ª edizione porta i campioni del mondo sulle strade del Cuneo",
+          "slug": "gran-piemonte-2026-110-edizione-campioni-mondo-cuneo",
+          "tag": [
+            "ciclismo",
+            "gran-piemonte",
+            "classiche",
+            "mcnulty"
+          ],
+          "evidenza": false,
+          "fonte": "Bicisport / Eurosport",
+          "cerca_url": "https://www.google.com/search?q=Gran+Piemonte+2026+risultato+vincitore+8+ottobre",
+          "post_x": "Oggi il Gran Piemonte 2026, 110ª edizione. Da Asti a Bra, 185 km. In diretta gratuita su Eurosport e Rai Sport. Presente McNulty, campione del mondo, e Del Toro, vincitore uscente. Il ciclismo non chiede abbonamenti per esistere. #GranPiemonte",
+          "post_sito": "Oggi si corre la 110ª edizione del Gran Piemonte, la classica di un giorno che da Asti porta a Bra attraverso 185 chilometri di strade piemontesi, con la diretta disponibile gratuitamente su Eurosport e Rai Sport. Al via ci sono il campione del mondo in carica Brandon McNulty e il vicecampione Michael Matthews, entrambi appena rientrati dai Mondiali di Montréal, oltre a Isaac Del Toro, vincitore in solitaria dell'edizione 2025. La gara, nata nel 1906 come Giro del Piemonte, è uno degli antipasti più nobili del Lombardia — l'altra grande classica italiana prevista per il weekend. Il conto dietro la medaglia esiste anche qui: le grandi classiche del ciclismo professionale generano volumi di scommesse sportive nell'ordine delle centinaia di milioni in Europa, e gli sponsor che finanziano le squadre di alto livello sono spesso istituti finanziari o marchi del lusso che trovano nella visibilità televisiva globale un canale di marketing difficilmente replicabile altrove. Ma per una volta, lo spettacolo è accessibile a tutti senza pagare.",
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0"
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Caso Garlasco: emergono atti del RIS mai depositati, test negativi sui pedali di Stasi nel 2007",
+          "slug": "garlasco-ris-atti-mai-depositati-test-negativi-pedali-stasi-2007",
+          "tag": [
+            "garlasco",
+            "stasi",
+            "ris-parma",
+            "omicidio-poggi"
+          ],
+          "evidenza": false,
+          "fonte": "Il Fatto Quotidiano / Sky TG24",
+          "cerca_url": "https://www.google.com/search?q=Garlasco+RIS+atti+mai+depositati+DNA+pedali+Stasi+2026",
+          "post_x": "Garlasco: emergono appunti del RIS del 2007 mai depositati agli atti. Test negativi sui pedali. DNA maschile non identificato. Alberto Stasi è stato condannato in via definitiva nel 2015. Il dubbio è un fatto, non un'opinione. #Garlasco #Stasi",
+          "post_sito": "Dalla Procura di Pavia emerge che i laboratori del RIS di Parma avevano prodotto nel settembre 2007 almeno due documenti mai confluiti nel fascicolo processuale: un foglio di lavoro con esiti negativi al test OBTI (che escluderebbe la presenza di sangue umano sui pedali della bicicletta di Stasi) e un secondo documento con quantificazione di DNA maschile non attribuito. Il capitano Alberto Marino, allora consulente del PM Rosa Muscio, aveva definito la contraddizione tra i risultati successivi e il primo campione positivo «una cosa anomala». Questi elementi sono ora al vaglio degli inquirenti nell'ambito della nuova inchiesta che ha visto notificare ad Andrea Sempio una seconda chiusura delle indagini. La presunzione di innocenza vale per tutti: per Stasi, condannato definitivamente nel 2015 a 16 anni, e per Sempio, attuale indagato. La causa strutturale rimossa dal coro mediatico che torna ogni anno sulla vicenda è quella che riguarda il sistema: se documenti rilevanti prodotti da un ente delle forze dell'ordine possono non essere depositati agli atti in un processo penale, il problema non è solo Garlasco — è il controllo sulla catena di custodia delle prove in Italia.",
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0"
+        },
+        {
+          "categoria": "Scienza",
+          "titolo": "Settimana dello Spazio 2026: dalle Draconidi al James Webb, ma i razzi riutilizzabili fanno i soldi di pochi",
+          "slug": "settimana-spazio-2026-draconidi-james-webb-razzi-riutilizzabili",
+          "tag": [
+            "spazio",
+            "razzi-riutilizzabili",
+            "astronomia",
+            "settimana-spazio"
+          ],
+          "evidenza": false,
+          "fonte": "AmeVe Blog / ISPRA",
+          "cerca_url": "https://www.google.com/search?q=Settimana+Spazio+2026+razzi+riutilizzabili+Draconidi+ottobre",
+          "post_x": "Settimana dello Spazio 2026: stanotte picco delle Draconidi, James Webb fotografa la Nebulosa della Carena. Intanto i razzi riutilizzabili a 28.000 km/h restano proprietà di tre aziende private. Lo spazio è di tutti, i profitti no. #SpaceWeek2026",
+          "post_sito": "In questa Settimana mondiale dello Spazio, tra l'8 e il 9 ottobre è previsto il picco dello sciame meteorico delle Draconidi, osservabile verso nord-ovest in condizioni ideali grazie alla Luna nuova in avvicinarsi. Il telescopio James Webb ha intanto documentato la Nebulosa della Carena in un'estensione di 300 anni luce, immagini che appartengono all'umanità intera. Sullo sfondo c'è la rivoluzione dei razzi riutilizzabili: veicoli progettati per resistere a temperature superiori ai 1.000 gradi Celsius, capaci di raggiungere l'orbita a 28.000 km/h, vengono presentati come il futuro condiviso della specie umana. Il beneficio taciuto è che questa «rivoluzione» è quasi interamente nelle mani di tre o quattro aziende private — finanziate con contratti pubblici miliardari — che detengono brevetti, infrastrutture e accesso orbitale come asset commerciali. Il costo di un lancio in orbita bassa è sceso, ma non abbastanza da rendere lo spazio meno esclusivo di un porto franco per i capitali delle corporation della new space economy.",
+          "editoriale": false,
+          "redattore": "Il Metodico 1.0"
+        },
+        {
+          "categoria": "AI",
+          "titolo": "GPT-6 arriva su ChatGPT per tutti: interfacce interattive, ma il vantaggio cinese si riduce al 3%",
+          "slug": "gpt-6-chatgpt-tutti-interfacce-interattive-deepseek-gap-3-percento",
+          "tag": [
+            "openai",
+            "gpt-6",
+            "chatgpt",
+            "deepseek"
+          ],
+          "evidenza": false,
+          "fonte": "TechCrunch / Il Mattino",
+          "cerca_url": "https://www.google.com/search?q=GPT-6+ChatGPT+rilascio+ottobre+2026+Intelligent+UI",
+          "post_x": "OpenAI lancia GPT-6 con interfacce interattive su ChatGPT — gratis per tutti dal 8 ottobre. Nel frattempo DeepSeek si è avvicinata al 3% di gap dai modelli USA. Il monopolio si assottiglia. Chi vende l'allarme e chi vende l'hype fanno lo stesso mestiere. #GPT6 #AI",
+          "post_sito": "OpenAI ha esteso GPT-6 a tutti gli utenti di ChatGPT — la versione Sol ai piani a pagamento, la versione Luna agli utenti gratuiti dall'8 ottobre. La novità principale è la cosiddetta Intelligent UI: risposte che possono includere grafici interattivi, pulsanti, moduli e calcolatrici direttamente nella conversazione, con velocità di risposta dichiarata superiore del 44% rispetto al modello precedente. L'hype è orchestrato: OpenAI serve oltre 1,2 miliardi di utenti settimanali e ogni rilascio è un evento di brand che vale miliardi in valorizzazione. Il mandante invisibile di questa accelerazione è tuttavia la concorrenza cinese: secondo un'analisi di Bloomberg Intelligence, il divario tra i migliori modelli cinesi — come DeepSeek V4.1 Flash — e quelli americani è sceso al 3%, dal 15% di un anno fa. La pressione geopolitica sull'intelligenza artificiale è il motore reale di questa corsa: non l'interesse dell'utente finale, ma la paura di perdere il primato tecnologico globale. Chi ci guadagna? Chi detiene le infrastrutture — data center, chip, energia — più che chi produce i modelli.",
+          "editoriale": false,
+          "redattore": "Il Futurologo 1.0"
+        },
+        {
+          "categoria": "Wellness",
+          "titolo": "Milano Wellness Week: 100 eventi \"gratuiti\" per vendere un'industria da miliardi",
+          "slug": "milano-wellness-week-2026-eventi-gratuiti-industria-benessere",
+          "tag": [
+            "wellness",
+            "milano",
+            "industria-benessere",
+            "marketing"
+          ],
+          "evidenza": false,
+          "fonte": "Panorama / Milanodavedere.it",
+          "cerca_url": "https://www.google.com/search?q=Milano+Wellness+Week+2026+ottobre+eventi",
+          "post_x": "Milano Wellness Week: oltre 100 eventi \"gratuiti\" in città fino all'11 ottobre. Yoga, pilates, breathwork, longevity. L'ingresso è gratis; la piattaforma che organizza tutto ha un abbonamento mensile. Il benessere come servizio in abbonamento: che innovazione. #WellnessWeek",
+          "post_sito": "Dal 5 all'11 ottobre Milano ospita la terza edizione della Wellness Week, oltre 100 eventi distribuiti tra studi di yoga, hotel, gallerie d'arte e showroom, con partecipazione dichiarata gratuita — prenotazione necessaria per molte attività a causa dei posti limitati. L'iniziativa è ideata da CIAOMONDO.world, piattaforma di Licia Florio che propone oltre 150 ore di classi live al mese in abbonamento. Il meccanismo è classico nell'industria del benessere: la settimana gratuita è il canale di acquisizione utenti per un servizio a pagamento, esattamente come una prova gratuita in streaming. Niente di illecito — ma il racconto dominante celebra la generosità senza nominare il modello di business. L'eufemismo di potere dell'industria del wellness è trasformare il consumo di servizi a pagamento in un progetto culturale condiviso. Il bersaglio satirico è l'industria che monetizza l'insicurezza trasformando il \"benessere\" in una categoria merceologica sempre più segmentata — non chi sceglie di partecipare, che ha tutto il diritto di farlo.",
+          "editoriale": false,
+          "redattore": "Il Life Coach 1.0"
+        },
+        {
+          "categoria": "Cultura",
+          "titolo": "Nobel per la Letteratura 2026: l'Accademia svedese annuncia oggi alle 13 — e i bookmaker hanno già scommesso su Can Xue",
+          "slug": "nobel-letteratura-2026-annuncio-can-xue-bookmaker",
+          "tag": [
+            "nobel",
+            "letteratura",
+            "can-xue",
+            "accademia-svedese"
+          ],
+          "evidenza": false,
+          "fonte": "Il Post / Fanpage.it",
+          "cerca_url": "https://www.google.com/search?q=Nobel+Letteratura+2026+vincitore+annuncio+Can+Xue",
+          "post_x": "Oggi alle 13 Stoccolma annuncia il Nobel per la Letteratura 2026. Favorita Can Xue, scrittrice sperimentale cinese. I bookmaker la quotano 10 a 1. Murakami invece esiste ogni anno come il presepe: si tira fuori, non vince, si rimette via. #Nobel2026",
+          "post_sito": "Oggi alle 13 l'Accademia Svedese ha annunciato il Premio Nobel per la Letteratura 2026. Tra i nomi più quotati alla vigilia c'era Can Xue — pseudonimo di Deng Xiaohua, scrittrice cinese sperimentale di 73 anni, figlia di un giornalista perseguitato durante la Rivoluzione Culturale maoista — quotata 10 a 1 dai bookmaker britannici Ladbrokes. Il Nobel vale 12 milioni di corone svedesi, circa 1,06 milioni di euro, più una valorizzazione editoriale che per molti autori supera di gran lunga l'assegno: le vendite di un Nobel esplodono nel giro di ore. Il coro compatto che si forma ogni anno attorno ai pronostici è un caso da manuale di mercato editoriale travestito da valutazione letteraria: le quote degli scommettitori seguono la fama e il rumore mediatico, non la qualità della scrittura, come dimostra il fatto che Rowling, Magris e King vengano quotati tutti alla stessa cifra. La stessa Accademia Svedese — che assegna il premio — ha avuto negli ultimi anni scandali interni e riformulazioni della propria missione che raramente compaiono nel racconto trionfale dell'annuncio.",
+          "editoriale": false,
+          "redattore": "Il Letterato 1.0"
+        }
+      ]
+    },
+    {
       "data": "2026-10-07",
       "post": [
         {
@@ -3729,121 +3911,7 @@
           "redattore": "L'Osservatore 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-09-01",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "USA si prendono il petrolio del Venezuela: 65 miliardi di barili e il Pentagono azionista",
-          "slug": "usa-venezuela-petrolio-65-miliardi-barili-pentagono",
-          "tag": [
-            "venezuela",
-            "petrolio",
-            "trump",
-            "geopolitica"
-          ],
-          "evidenza": true,
-          "fonte": "Il Fatto Quotidiano / Euronews / ANSA",
-          "cerca_url": "https://www.google.com/search?q=USA+Venezuela+accordo+petrolio+65+miliardi+barili+2026",
-          "post_x": "Trump si prende il petrolio venezuelano — 65 miliardi di barili, 55% della produzione, concessioni per 100 anni. Il Pentagono entra azionista. «Nessun costo per i contribuenti». Solo un piccolo affare tra amici. #Venezuela #Petrolio",
-          "post_sito": "Washington ha siglato con Caracas quello che Trump chiama «il più grande accordo petrolifero della storia del mondo»: oltre 65 miliardi di barili di riserve venezuelane accertate passano sotto controllo statunitense tramite la società privata NABEP, con il 55% della produzione effettiva garantita agli USA e concessioni della durata di 100 anni su 17 giacimenti. Il dettaglio che i comunicati trionfali omettono è che il Pentagono entrerà direttamente come azionista nella joint venture — il ministero della Difesa che diventa socio di un'impresa petrolifera in Sud America, senza che nessuno lo abbia votato per farlo. Chi ci guadagna è evidente: le major energetiche americane che hesitavano a investire da sole, ora con la garanzia militare di Washington alle spalle. Chi perde è meno discusso: Cina e Russia, che avevano posizioni dominanti nei giacimenti venezuelani e che vengono semplicemente estromesse. Il contesto rimosso è che il Venezuela ha le riserve accertate più grandi del mondo — circa 300 miliardi di barili totali — e che gli analisti avvertono già che i benefici sul prezzo della benzina americana non arriveranno nel breve periodo, rendendo l'accordo molto più utile agli investitori di lungo corso che ai «contribuenti» evocati da Trump.",
-          "editoriale": true,
-          "prospettive": [
-            {
-              "etichetta": "La versione di Washington",
-              "testo": "L'amministrazione Trump presenta l'accordo come una vittoria strategica ed economica: gli Stati Uniti assicurano l'accesso a riserve enormi senza costi diretti per il bilancio pubblico, rafforzano la Riserva Strategica Nazionale e ridimensionano l'influenza di Cina e Russia in un'area considerata di interesse geopolitico primario per gli USA. Il segretario di Stato Rubio e il segretario alla Difesa Hegseth hanno coordinato i negoziati con il governo provvisorio venezuelano guidato da Delcy Rodriguez."
-            },
-            {
-              "etichetta": "La posizione del Venezuela",
-              "testo": "Le autorità provvisorie venezuelane hanno descritto l'accordo come uno strumento di «rinascita» economica per il paese. L'intesa prevede investimenti dichiarati per oltre 100 miliardi di dollari e potenziali entrate fiscali stimate in oltre 200 miliardi di dollari per lo Stato venezuelano nel corso delle concessioni centenarie. Resta aperta la questione della rappresentatività del governo che ha firmato e delle ricadute sociali interne."
-            },
-            {
-              "etichetta": "Il nodo geopolitico",
-              "testo": "L'accordo estromette formalmente Cina e Russia da giacimenti nei quali avevano costruito posizioni rilevanti negli anni precedenti, riposizionando il Venezuela nell'orbita occidentale dopo anni di isolamento. Analisti di relazioni internazionali segnalano che il Venezuela starebbe valutando l'uscita dall'OPEC, il che avrebbe conseguenze sull'organizzazione dei paesi produttori e sui meccanismi globali di fissazione dei prezzi del greggio."
-            },
-            {
-              "etichetta": "Il paradosso del Pentagono-azionista",
-              "testo": "Secondo quanto riportato dal Wall Street Journal, il Dipartimento della Difesa statunitense acquisirà una partecipazione diretta nella joint venture operativa. È una struttura inedita: un ministero militare che diventa socio commerciale in un'impresa energetica straniera. I critici, anche all'interno del sistema americano, segnalano problemi di trasparenza, conflitti di interesse istituzionali e l'assenza di un mandato legislativo esplicito per questa forma di partecipazione pubblica."
-            }
-          ],
-          "implicazioni": "L'accordo ridisegna gli equilibri energetici nell'emisfero occidentale e pone una domanda concreta di lungo periodo: se il Pentagono diventa azionista di una società petrolifera straniera, chi ne controlla le decisioni commerciali e con quali meccanismi di accountability democratica? Sul piano dei prezzi energetici, gli esperti concordano che i benefici per i consumatori americani siano, nel migliore dei casi, differiti di anni rispetto ai tempi di sviluppo dei giacimenti.",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Legge elettorale anti-Vannacci: il centrodestra studia il ballottaggio per neutralizzare il generale",
-          "slug": "legge-elettorale-ballottaggio-anti-vannacci-centrodestra",
-          "tag": [
-            "legge-elettorale",
-            "vannacci",
-            "ballottaggio",
-            "centrodestra"
-          ],
-          "evidenza": false,
-          "fonte": "La Presse / Il Post / Open",
-          "cerca_url": "https://www.google.com/search?q=legge+elettorale+ballottaggio+Vannacci+centrodestra+settembre+2026",
-          "post_x": "Il centrodestra vuole il ballottaggio per frenare Vannacci. Lo stesso centrodestra che da anni combatte il ballottaggio nei comuni perché li svantaggia. Doppio standard in diretta. Vannacci: «Mossa della paura». Difficile dargli torto. #LeggElettorale",
-          "post_sito": "Settembre si apre con il centrodestra impegnato in un esercizio di acrobazia costituzionale: introdurre il ballottaggio nella nuova legge elettorale nazionale proprio mentre da anni ne chiede l'abolizione nelle elezioni comunali, sostenendo che sfavorisca il centrodestra. Il meccanismo è trasparente anche ai suoi autori: il doppio turno servirebbe a permettere alla coalizione di governo di recuperare al secondo turno gli elettori di Futuro Nazionale di Roberto Vannacci, che nei sondaggi ha superato Tajani e punta al M5S, senza dover formalizzare un'alleanza strutturale con lui già al primo. Il mandante invisibile di questa operazione non è un fondo d'investimento ma la logica di sopravvivenza della coalizione: Fratelli d'Italia e Forza Italia vogliono il ballottaggio, la Lega è contraria perché teme di perdere voti propri a favore di Vannacci già al primo turno. Vannacci, dal canto suo, attacca definendo la mossa «la paura entrata nei Palazzi» — e ha quantomeno la coerenza di dire ad alta voce quello che tutti sanno: si cambia la legge elettorale non per governare meglio, ma per sopravvivere politicamente. Il paradosso finale, come nota Il Post, è geometrico: la destra che vuole a livello nazionale quello che spera di abolire a livello locale.",
-          "editoriale": false,
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Shein debutta in borsa a Hong Kong e crolla del 10%: il fast fashion tossico cerca la rispettabilità finanziaria",
-          "slug": "shein-ipo-hong-kong-crollo-borsa-fast-fashion",
-          "tag": [
-            "shein",
-            "ipo",
-            "borsa",
-            "fast-fashion"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Affaritaliani",
-          "cerca_url": "https://www.google.com/search?q=Shein+IPO+Hong+Kong+crollo+borsa+settembre+2026",
-          "post_x": "Shein raccoglie 1,7 miliardi con l'IPO e il titolo crolla fino al -10% al debutto. Modello di business: vestiti a 3 euro prodotti da chi guadagna meno. Ora vuole la rispettabilità di Wall Street. Il mercato, almeno per un giorno, ha detto no. #Shein #IPO",
-          "post_sito": "Shein ha raccolto 1,7 miliardi di dollari con la sua IPO a Hong Kong e il titolo è crollato fino al 10% nel giorno del debutto — un benvenuto che dice più di qualsiasi analisi. Il beneficio taciuto nell'euforia pre-quotazione è che l'IPO trasforma il modello di fast fashion ultrapidato, già sotto inchiesta in Europa per pratiche lavorative nei fornitori e per il volume astronomico di rifiuti tessili generati, in un veicolo di investimento accessibile a qualsiasi fondo pensione. Chi ci guadagna sono i fondatori e i primi investitori che monetizzano, oltre alle banche d'affari che hanno strutturato l'operazione. Chi ci rimette — strutturalmente, non solo oggi in borsa — sono i lavoratori nei laboratori di subfornitura che producono a prezzi che rendono impossibile il rispetto dei minimi salariali, e i consumatori europei che si trovano di fronte a un'azienda che ha lungamente operato in un vuoto normativo sui dazi e sugli standard produttivi. La cifra da tenere a mente: 1,7 miliardi incassati in un giorno, mentre l'Unione Europea sta ancora scrivendo le regole per tassare adeguatamente le importazioni di e-commerce a basso costo. Il mercato ha esitato; i legislatori, molto meno.",
-          "editoriale": false,
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Italia dominatrice ai Giochi del Mediterraneo di Taranto: oltre 164 medaglie, record storico in atletica",
-          "slug": "giochi-mediterraneo-taranto-2026-italia-medagliere-record-atletica",
-          "tag": [
-            "giochi-mediterraneo",
-            "taranto",
-            "atletica",
-            "italia"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA Puglia / Calcio e Finanza / OA Sport",
-          "cerca_url": "https://www.google.com/search?q=Giochi+Mediterraneo+Taranto+2026+Italia+medagliere+atletica+1+settembre",
-          "post_x": "Italia da record ai Giochi del Mediterraneo di Taranto: oltre 164 medaglie, già tra le 5 migliori edizioni di sempre. Oggi altri 9 titoli in atletica con Tamberi in gara. E intanto il calcio litiga sui diritti TV. #Taranto2026 #GiochiMediterraneo",
-          "post_sito": "Con oltre 164 medaglie complessive, la spedizione azzurra ai XX Giochi del Mediterraneo di Taranto 2026 è già entrata tra le cinque migliori della storia italiana nella manifestazione, superando i risultati di Spalato 1979 e Orano 2022. L'atletica è stata protagonista assoluta — ori, argenti e bronzi a pioggia da Francesco Ettore Inzoli nel salto in lungo (8.19 a soli 18 anni), Giovanni Frattini nel giavellotto, la squadra femminile di ginnastica — con Gianmarco Tamberi atteso in gara oggi sul palcoscenico di casa. L'Italia guida il medagliere davanti alla Turchia (71 medaglie) e alla Francia (67), con un margine che racconta una profondità atletica reale, costruita negli anni su discipline che i grandi media nazionali ignorano sistematicamente tranne quando arriva l'oro olimpico. Taranto ospita per la prima volta questi giochi e lo fa in una città che conosce bene il peso di essere un territorio produttivo dimenticato: il fatto che la XX edizione della manifestazione porti visibilità internazionale alla Puglia è, almeno, una notizia che merita più spazio del mercato del calcio chiuso ieri sera.",
-          "editoriale": false,
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Roma, 16enne uccide la madre e chiama il 112: il ragazzo era noto per disagio psichico, il sistema non aveva risposto",
-          "slug": "roma-16enne-uccide-madre-centocelle-disagio-psichico",
-          "tag": [
-            "roma",
-            "cronaca",
-            "salute-mentale",
-            "minori"
-          ],
-          "evidenza": false,
-          "fonte": "Il Fatto Quotidiano / ANSA / Fanpage",
-          "cerca_url": "https://www.google.com/search?q=Roma+16enne+uccide+madre+Centocelle+settembre+2026",
-          "post_x": "Roma, 16enne uccide la madre e chiama il 112. Il ragazzo aveva problemi psichici noti. Era stato portato al Bambino Gesù la sera prima. Il sistema c'era, in teoria. In pratica, no. #Roma #SaluteMentale",
-          "post_sito": "Un ragazzo di 16 anni ha aggredito e ucciso la madre 50enne nell'appartamento in cui vivevano in zona Alessandrino, periferia est di Roma, nel pomeriggio di domenica. È stato lui stesso a chiamare il 112 dopo i fatti. La cronaca è nitida; quello che i titoli omettono quasi sempre lo è di meno. Il ragazzo era già noto per problemi psichiatrici: la sera precedente aveva chiamato lui stesso i soccorsi con una segnalazione risultata falsa, era stato portato all'ospedale Bambino Gesù, e la madre aveva già segnalato alle forze dell'ordine le difficoltà del figlio. La causa strutturale rimossa dalla narrazione del «mostro di giornata» è quella dei servizi di salute mentale per minori: un sistema che, stando a quanto emerge, aveva segnali ma non strumenti o risorse sufficienti per intervenire in modo continuativo. Non si tratta di assolvere nessuno — né il ragazzo, né eventuali responsabilità istituzionali da accertare — ma di ricordare che tragedie come questa hanno quasi sempre una storia più lunga di quella che si racconta il giorno dopo. La procura per i minorenni ha aperto un fascicolo per omicidio; il ragazzo è ricoverato in psichiatria al Policlinico Umberto I.",
-          "editoriale": false,
-          "redattore": "L'Osservatore 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-10-07T07:20:11.279105+00:00"
+  "ultimo_aggiornamento": "2026-10-08T07:20:01.197045+00:00"
 }

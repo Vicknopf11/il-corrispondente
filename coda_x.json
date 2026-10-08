@@ -1,74 +1,74 @@
 {
-  "data": "2026-10-07",
+  "data": "2026-10-08",
   "tweet": [
     {
-      "testo": "Tre anni. Ancora bombe su Gaza, ancora ostaggi, ancora nessun colpevole istituzionale. Netanyahu «risponderà con forza schiacciante». A chi, esattamente? Il racconto ufficiale preferisce non rispondere. #7ottobre",
-      "url": "https://corrispondente.filoclastos.it/2026/10/07/anniversario-7-ottobre-tre-anni-guerra-gaza-commemorazioni/",
-      "slug": "anniversario-7-ottobre-tre-anni-guerra-gaza-commemorazioni",
+      "testo": "Il Pentagono prepara piani d'attacco all'Iran. Trump non ha ancora deciso i tempi. Coincidenza: le elezioni di metà mandato si avvicinano. Il prezzo del petrolio ringrazierà. #Iran #Trump",
+      "url": "https://corrispondente.filoclastos.it/2026/10/08/pentagono-attacchi-iran-trump-elezioni-meta-mandato/",
+      "slug": "pentagono-attacchi-iran-trump-elezioni-meta-mandato",
       "categoria": "Politica Internazionale",
-      "evidenza": true,
-      "pubblicato": true
-    },
-    {
-      "testo": "Il governo mette la fiducia sulla legge elettorale — quella che decide come si vota — e blinda 53 emendamenti dell'opposizione. La chiamano democrazia. Il voto finale sarà segreto: per paura di cosa, esattamente? #Melonellum",
-      "url": "https://corrispondente.filoclastos.it/2026/10/07/legge-elettorale-fiducia-camera-melonellum-voto-segreto/",
-      "slug": "legge-elettorale-fiducia-camera-melonellum-voto-segreto",
-      "categoria": "Politica Nazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Inflazione al 4,2% a settembre, massimo da tre anni. Energia +22,3%, gas di città +47,2%, gasolio riscaldamento +38,5%. Il governo parla di taglio dell'Irpef. Intanto Eni ed Enel registrano utili record. Casualità. #inflazione",
-      "url": "https://corrispondente.filoclastos.it/2026/10/07/inflazione-42-settembre-2026-energia-bollette-rincari/",
-      "slug": "inflazione-42-settembre-2026-energia-bollette-rincari",
+      "testo": "Oggi voto segreto alla Camera sulla nuova legge elettorale. Meloni: \"Se non passa cado\". Traduzione: chi non vota sì è un traditore. La democrazia rappresentativa, un sistema curioso. #Melonellum",
+      "url": "https://corrispondente.filoclastos.it/2026/10/08/voto-segreto-legge-elettorale-melonellum-franchi-tiratori/",
+      "slug": "voto-segreto-legge-elettorale-melonellum-franchi-tiratori",
+      "categoria": "Politica Nazionale",
+      "evidenza": true,
+      "pubblicato": false
+    },
+    {
+      "testo": "Milano -2,51%. Spread BTP a 115 punti. BTP decennale al 4,63%. Mentre il governo chiede flessibilità a Bruxelles per 29 miliardi, i mercati votano già. E il voto è segreto quanto quello di stamattina alla Camera. #spread #borsa",
+      "url": "https://corrispondente.filoclastos.it/2026/10/08/borse-europee-crollo-spread-btp-115-milano-meno-251/",
+      "slug": "borse-europee-crollo-spread-btp-115-milano-meno-251",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Sinner chiude il 2026: ginocchio fermo, salta le ATP Finals di Torino. Ha vinto Wimbledon, cinque Masters 1000 di fila, e perderà il n°1. Chi paga il prezzo del sistema che trasforma un 25enne in una macchina da milioni? #Sinner",
-      "url": "https://corrispondente.filoclastos.it/2026/10/07/sinner-stagione-finita-2026-ginocchio-atp-finals-torino/",
-      "slug": "sinner-stagione-finita-2026-ginocchio-atp-finals-torino",
+      "testo": "Oggi il Gran Piemonte 2026, 110ª edizione. Da Asti a Bra, 185 km. In diretta gratuita su Eurosport e Rai Sport. Presente McNulty, campione del mondo, e Del Toro, vincitore uscente. Il ciclismo non chiede abbonamenti per esistere. #GranPiemonte",
+      "url": "https://corrispondente.filoclastos.it/2026/10/08/gran-piemonte-2026-110-edizione-campioni-mondo-cuneo/",
+      "slug": "gran-piemonte-2026-110-edizione-campioni-mondo-cuneo",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Dal Ris di Parma salta fuori un profilo psicologico su Stasi del 2007, senza data né firma, mai depositato in 19 anni di processi. Chi lo ha commissionato? La psicologa indicata nell'intestazione nega. La Procura vuole sapere. #Garlasco",
-      "url": "https://corrispondente.filoclastos.it/2026/10/07/garlasco-valutazione-psicologica-stasi-ris-parma-mai-depositata/",
-      "slug": "garlasco-valutazione-psicologica-stasi-ris-parma-mai-depositata",
+      "testo": "Garlasco: emergono appunti del RIS del 2007 mai depositati agli atti. Test negativi sui pedali. DNA maschile non identificato. Alberto Stasi è stato condannato in via definitiva nel 2015. Il dubbio è un fatto, non un'opinione. #Garlasco #Stasi",
+      "url": "https://corrispondente.filoclastos.it/2026/10/08/garlasco-ris-atti-mai-depositati-test-negativi-pedali-stasi-2007/",
+      "slug": "garlasco-ris-atti-mai-depositati-test-negativi-pedali-stasi-2007",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Nobel Fisica 2026 a Halzen per IceCube: un km cubo di ghiaccio antartico come telescopio per neutrini. L'idea era del 1988, ha atteso il Nobel 38 anni. Chi ha finanziato nel frattempo? Università del Wisconsin. Cioè contribuenti americani. Grazie a loro. #Nobel2026",
-      "url": "https://corrispondente.filoclastos.it/2026/10/07/nobel-fisica-2026-halzen-neutrini-icecube-polo-sud/",
-      "slug": "nobel-fisica-2026-halzen-neutrini-icecube-polo-sud",
+      "testo": "Settimana dello Spazio 2026: stanotte picco delle Draconidi, James Webb fotografa la Nebulosa della Carena. Intanto i razzi riutilizzabili a 28.000 km/h restano proprietà di tre aziende private. Lo spazio è di tutti, i profitti no. #SpaceWeek2026",
+      "url": "https://corrispondente.filoclastos.it/2026/10/08/settimana-spazio-2026-draconidi-james-webb-razzi-riutilizzabili/",
+      "slug": "settimana-spazio-2026-draconidi-james-webb-razzi-riutilizzabili",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Il capo della sicurezza di OpenAI si dimette: «La cultura è rotta, corriamo troppo». Stessa settimana: Nvidia vola verso i 6.000 miliardi di capitalizzazione. Il mercato ha già deciso da che parte stare. #AI #OpenAI #Nvidia",
-      "url": "https://corrispondente.filoclastos.it/2026/10/07/openai-dimissioni-sicurezza-robinson-nvidia-6000-miliardi/",
-      "slug": "openai-dimissioni-sicurezza-robinson-nvidia-6000-miliardi",
+      "testo": "OpenAI lancia GPT-6 con interfacce interattive su ChatGPT — gratis per tutti dal 8 ottobre. Nel frattempo DeepSeek si è avvicinata al 3% di gap dai modelli USA. Il monopolio si assottiglia. Chi vende l'allarme e chi vende l'hype fanno lo stesso mestiere. #GPT6 #AI",
+      "url": "https://corrispondente.filoclastos.it/2026/10/08/gpt-6-chatgpt-tutti-interfacce-interattive-deepseek-gap-3-percento/",
+      "slug": "gpt-6-chatgpt-tutti-interfacce-interattive-deepseek-gap-3-percento",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "La Festa delle Offerte Prime Amazon: due giorni di sconti su bilance, massaggiatori cervicali e gel anticellulite. L'industria del benessere non cura le insicurezze — le vende, scontate, due volte l'anno. #Wellness #PrimeDay",
-      "url": "https://corrispondente.filoclastos.it/2026/10/07/amazon-prime-day-wellness-benessere-ottobre-2026-offerte/",
-      "slug": "amazon-prime-day-wellness-benessere-ottobre-2026-offerte",
+      "testo": "Milano Wellness Week: oltre 100 eventi \"gratuiti\" in città fino all'11 ottobre. Yoga, pilates, breathwork, longevity. L'ingresso è gratis; la piattaforma che organizza tutto ha un abbonamento mensile. Il benessere come servizio in abbonamento: che innovazione. #WellnessWeek",
+      "url": "https://corrispondente.filoclastos.it/2026/10/08/milano-wellness-week-2026-eventi-gratuiti-industria-benessere/",
+      "slug": "milano-wellness-week-2026-eventi-gratuiti-industria-benessere",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Dal 7 ottobre nei cinema italiani: Freddie Mercury a Budapest 1986 in 4K, e Jeremy Strong come Zuckerberg nel sequel di The Social Network. Un fantasma del rock e un fantasma del capitalismo digitale. Entrambi tornano su grande schermo. Sony ringrazia. #Cinema",
-      "url": "https://corrispondente.filoclastos.it/2026/10/07/queen-budapest-4k-cinema-sorkin-social-reckoning-ottobre-2026/",
-      "slug": "queen-budapest-4k-cinema-sorkin-social-reckoning-ottobre-2026",
+      "testo": "Oggi alle 13 Stoccolma annuncia il Nobel per la Letteratura 2026. Favorita Can Xue, scrittrice sperimentale cinese. I bookmaker la quotano 10 a 1. Murakami invece esiste ogni anno come il presepe: si tira fuori, non vince, si rimette via. #Nobel2026",
+      "url": "https://corrispondente.filoclastos.it/2026/10/08/nobel-letteratura-2026-annuncio-can-xue-bookmaker/",
+      "slug": "nobel-letteratura-2026-annuncio-can-xue-bookmaker",
       "categoria": "Cultura",
       "evidenza": false,
       "pubblicato": false
