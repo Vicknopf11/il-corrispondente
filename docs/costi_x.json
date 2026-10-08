@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-08",
+      "slug": "gran-piemonte-2026-110-edizione-campioni-mondo-cuneo",
+      "categoria": "Sport",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-08",
       "slug": "borse-europee-crollo-spread-btp-115-milano-meno-251",
       "categoria": "Economia",
       "evidenza": false,
