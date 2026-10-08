@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-08",
+      "slug": "garlasco-ris-atti-mai-depositati-test-negativi-pedali-stasi-2007",
+      "categoria": "Cronaca",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-08",
       "slug": "gran-piemonte-2026-110-edizione-campioni-mondo-cuneo",
       "categoria": "Sport",
       "evidenza": false,
