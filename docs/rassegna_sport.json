@@ -1,22 +1,6 @@
 {
-  "generato": "2026-10-08T11:31:01.870800+00:00",
+  "generato": "2026-10-08T17:31:02.790004+00:00",
   "item": [
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Bocce paralimpiche, a Olbia il World Challenger verso Los Angeles 2028",
-      "link": "https://www.gazzetta.it/bocce/06-10-2026/boccia-a-olbia-il-world-challenger-verso-los-angeles-2028.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-10-06"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Chikungunya e Parvovirus B19: cosa sono i due virus che hanno fermato Sofia Goggia",
-      "link": "https://www.gazzetta.it/salute/storie/04-10-2026/sofia-goggia-virus-cosa-sono-chikungunya-e-parvovirus-b19-il-contagio/un-brusco-stop.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-10-04"
-    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
@@ -36,9 +20,25 @@
     {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
-      "titolo": "Il volley, l'altruismo, l'inglese: le due vite di Stefania Corna nei ricordi di chi l'ha conosciuta",
-      "link": "https://www.gazzetta.it/Volley/08-10-2026/stefania-corna-e-morta-l-ex-pallavolista-scomparsa-a-35-anni.shtml",
-      "fonte": "Gazzetta — Volley",
+      "titolo": "Il Livorno Rugby conferma la sua presenza in A1. Il punto di forza del gruppo? Il legame con la città",
+      "link": "https://www.gazzetta.it/Rugby/08-10-2026/il-livorno-rugby-presenta-la-prima-squadra-il-punto-di-forza-la-livornesita.shtml",
+      "fonte": "Gazzetta — Rugby",
+      "data_evento": "2026-10-08"
+    },
+    {
+      "sottocategoria": "Atletica",
+      "tipo": "notizia",
+      "titolo": "Onorato: \"La mezza maratona di Roma è un mezzo perfetto per promuovere la capitale\"",
+      "link": "https://video.gazzetta.it/atletica/video-onorato-la-mezza-maratona-di-roma-e-un-mezzo-perfetto-per-promuovere-la-capitale/ac2709f3-b33a-4489-9e8e-230162dffxlk",
+      "fonte": "Gazzetta — Atletica",
+      "data_evento": "2026-10-07"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Infortunio Sinner, Djokovic: “Dovrà gestire più problemi del solito al rientro”",
+      "link": "https://video.gazzetta.it/tennis/atp/video-infortunio-sinner-djokovic-dovra-gestire-piu-problemi-del-solito-al-rientro/7a43480c-c793-42f5-a42d-51a3e2a1axlk",
+      "fonte": "Gazzetta — Tennis",
       "data_evento": "2026-10-08"
     }
   ]
