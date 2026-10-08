@@ -1,5 +1,5 @@
 {
-  "generato": "2026-10-07T17:30:58.630555+00:00",
+  "generato": "2026-10-08T05:30:58.263581+00:00",
   "item": [
     {
       "sottocategoria": "Combattimento",
@@ -18,14 +18,6 @@
       "data_evento": "2026-10-05"
     },
     {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Danza sportiva, a Ostia il GrandSlam: in gara 1.100 atleti da 51 Paesi",
-      "link": "https://www.gazzetta.it/Sport-Vari/02-10-2026/danza-sportiva-a-ostia-il-grandslam-in-gara-1-100-atleti-da-51-paesi.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-10-02"
-    },
-    {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
       "titolo": "Morta a 35 anni Stefania Corna: cresciuta nel vivaio di Bergamo, aveva giocato in A-1 e in nazionale",
@@ -39,6 +31,14 @@
       "titolo": "Onorato: \"La mezza maratona di Roma è un mezzo perfetto per promuovere la capitale\"",
       "link": "https://video.gazzetta.it/atletica/video-onorato-la-mezza-maratona-di-roma-e-un-mezzo-perfetto-per-promuovere-la-capitale/ac2709f3-b33a-4489-9e8e-230162dffxlk",
       "fonte": "Gazzetta — Atletica",
+      "data_evento": "2026-10-07"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Cosa ha scritto Berrettini a Sinner dopo lo stop? Matteo racconta tutto",
+      "link": "https://video.gazzetta.it/tennis/atp/video-berrettini-su-sinner-dopo-l-infortunio-tornera-piu-forte/256d1901-1135-4f4b-90e7-1a1d79616xlk",
+      "fonte": "Gazzetta — Tennis",
       "data_evento": "2026-10-07"
     }
   ]
