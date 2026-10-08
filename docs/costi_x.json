@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-08",
+      "slug": "voto-segreto-legge-elettorale-melonellum-franchi-tiratori",
+      "categoria": "Politica Nazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
+      "data": "2026-10-08",
       "slug": "pentagono-attacchi-iran-trump-elezioni-meta-mandato",
       "categoria": "Politica Internazionale",
       "evidenza": false,
