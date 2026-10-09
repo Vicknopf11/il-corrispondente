@@ -1,6 +1,192 @@
 {
   "edizioni": [
     {
+      "data": "2026-10-09",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Negoziatori ucraini a Miami con Witkoff e Kushner: la pace passa dal genero",
+          "slug": "ucraina-negoziati-miami-witkoff-kushner-pace",
+          "tag": [
+            "ucraina",
+            "usa",
+            "negoziati",
+            "guerra"
+          ],
+          "evidenza": false,
+          "fonte": "Today.it / Axios",
+          "cerca_url": "https://www.google.com/search?q=negoziatori+ucraini+Miami+Witkoff+Kushner+ottobre+2026",
+          "post_x": "La pace in Ucraina si negozia a Miami tra Witkoff e Kushner. Intanto a Kramatorsk 33 civili morti su un autobus. Ma il villino di Trump non è mai così distante dalla guerra.",
+          "post_sito": "Mentre a Kramatorsk un missile russo centrava due autobus uccidendo almeno 33 persone, i negoziatori ucraini volavano a Miami per incontrare Steve Witkoff e Jared Kushner — genero, immobiliarista, già mediatore in Medio Oriente, evidentemente l'uomo giusto per chiudere la più grande guerra europea dal 1945. La domanda che nessuno pone: chi ci guadagna da un cessate il fuoco negoziato dagli Usa? L'industria della ricostruzione ucraina — stimata in centinaia di miliardi — ha già i suoi candidati, e non sono ucraini. Rubio dichiara lo stallo, Peskov annuisce: quando i due fronti concordano sulla definizione del problema, di solito è perché entrambi preferiscono rimandare la soluzione. Il contesto rimosso: sono quasi cinque anni di guerra, con l'Europa che ha speso decine di miliardi in armamenti senza mai chiedere agli elettori se fosse questa la direzione. La narrativa della pace imminente fa comodo a tutti tranne che ai 33 di Kramatorsk.",
+          "editoriale": false,
+          "redattore": "Il Corrispondente Estero 1.0"
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Il Melonellum è legge: 227 sì a scrutinio segreto, l'opposizione urla «truffa»",
+          "slug": "melonellum-legge-elettorale-approvata-stabilicum",
+          "tag": [
+            "legge-elettorale",
+            "meloni",
+            "parlamento",
+            "riforma"
+          ],
+          "evidenza": true,
+          "fonte": "ANSA / Il Fatto Quotidiano",
+          "cerca_url": "https://www.google.com/search?q=Melonellum+Stabilicum+legge+elettorale+approvata+ottobre+2026",
+          "post_x": "Lo Stabilicum passa con 227 sì a scrutinio segreto. Nessun franco tiratore. O forse semplicemente nessuno che voleva metterci la faccia. La democrazia del voto nascosto ha un fascino tutto suo.",
+          "post_sito": "Il Melonellum — ufficialmente Stabilicum — è legge con 227 voti favorevoli, guadagnati con lo scudo del scrutinio segreto: nessuno ha dovuto difendere pubblicamente il proprio voto. Il meccanismo assegna un premio fisso di 105 parlamentari alla lista o coalizione che supera il 42% in entrambe le Camere; sotto quella soglia tutto resta proporzionale. Le opposizioni gridano «legge truffa» e preparano il ricorso alla Consulta. La domanda controcorrente: chi ci guadagna davvero? Secondo la simulazione di Youtrend, il centrodestra vincerebbe solo se corresse unito con Vannacci — quindi la legge non è un'assicurazione sulla vittoria, è un'assicurazione sulla coesione della coalizione, che fa comodo soprattutto a Meloni per tenere in riga i soci. Il contesto rimosso: l'Italia ha cambiato legge elettorale sei volte dal 1993, ogni volta cucita addosso a chi governava in quel momento. La vera truffa è strutturale, bipartisan, e dura da trent'anni.",
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La versione della maggioranza",
+              "testo": "Il governo sostiene che lo Stabilicum garantisca maggiore stabilità agli esecutivi, introducendo un premio di governabilità e l'indicazione esplicita del candidato premier sulla scheda. Meloni ha rivendicato la compattezza del centrodestra come segnale di coesione politica e ha presentato la legge come una risposta alla frammentazione che ha caratterizzato la Seconda Repubblica."
+            },
+            {
+              "etichetta": "Le critiche dell'opposizione",
+              "testo": "Le forze di opposizione denunciano la legge come strumento di consolidamento del potere della coalizione di governo. Schlein ha definito il ricorso al scrutinio segreto un atto di paura verso il voto degli italiani. Sono già state annunciate iniziative legali per ottenere una pronuncia della Corte Costituzionale prima di eventuali elezioni anticipate."
+            },
+            {
+              "etichetta": "Il nodo tecnico-elettorale",
+              "testo": "La soglia del 42% per accedere al premio di maggioranza è considerata da alcuni analisti molto elevata: secondo le proiezioni di Youtrend, il centrodestra riuscirebbe a raggiungerla solo in caso di alleanza con il Movimento di Vannacci. Questo significa che la legge, paradossalmente, potrebbe avvantaggiare meno chi l'ha promossa rispetto a quanto si immagina."
+            },
+            {
+              "etichetta": "Il fronte costituzionale",
+              "testo": "I giuristi sono divisi sull'eventuale incostituzionalità della norma. Il precedente del Porcellum, bocciato dalla Consulta nel 2014, e quello dell'Italicum, parzialmente annullato nel 2017, mostrano che i meccanismi premiali a soglia fissa sono stati già oggetto di scrutinio. Tuttavia, la struttura dello Stabilicum presenta differenze rispetto a quei precedenti che rendono il giudizio tutt'altro che scontato."
+            }
+          ],
+          "implicazioni": "L'entrata in vigore della legge potrebbe accelerare la prospettiva di elezioni anticipate, su cui il governo ha già evocato la minaccia durante l'iter parlamentare. Sul piano istituzionale, un'eventuale pronuncia della Corte Costituzionale prima del voto ridefinirà i margini di applicazione della norma. Per i partiti minori, la soglia proporzionale sotto il 42% preserva la rappresentanza, ma li espone al rischio di irrilevanza in caso di voto maggioritario.",
+          "redattore": "Il Bastian Contrario 1.0"
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Ex Ilva: oggi si spengono i forni di Taranto, sciopero da lunedì in tutti gli stabilimenti",
+          "slug": "ex-ilva-taranto-spegnimento-forni-sciopero",
+          "tag": [
+            "ex-ilva",
+            "taranto",
+            "acciaio",
+            "lavoro"
+          ],
+          "evidenza": false,
+          "fonte": "Collettiva / Gazzetta del Mezzogiorno / Sky TG24",
+          "cerca_url": "https://www.google.com/search?q=ex+Ilva+Taranto+spegnimento+forni+9+ottobre+2026+sciopero",
+          "post_x": "Oggi si spengono i forni dell'ex Ilva di Taranto. Trent'anni di veleni, commissari, promesse e miliardi pubblici. Il conto lo pagano gli operai. I profitti li hanno già incassati altri.",
+          "post_sito": "Da oggi 9 ottobre Acciaierie d'Italia sospende tutte le attività dell'area a caldo di Taranto, con la prospettiva di spegnimento definitivo entro il 25 ottobre salvo un provvedimento favorevole della Cassazione — udienza fissata il 20 ottobre. Anche gli stabilimenti di Genova, Novi Ligure e Racconigi si fermeranno entro il 15 novembre. Da lunedì sciopero nazionale di 24 ore per turno in tutti gli stabilimenti. Il meccanismo è di quelli classici: un beneficio taciuto. Chi ci guadagna dall'agonia infinita dell'Ilva? I commissari straordinari incassano compensi; gli studi legali fatturano sui ricorsi seriali; i concorrenti europei dell'acciaio vedono sparire un competitor sovvenzionato. Il conto lo pagano i dodicimila lavoratori diretti e l'indotto di Taranto. Il contesto rimosso: lo Stato italiano ha versato miliardi nell'acciaieria dal 2012, prima con Ilva, poi con ArcelorMittal, poi con Acciaierie d'Italia — ogni volta con la promessa che il prossimo piano industriale avrebbe funzionato. Nessuno ha mai risposto pubblicamente della spesa.",
+          "editoriale": false,
+          "redattore": "L'Analista 1.0"
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "MotoGP a Mandalika: Bezzecchi vola nelle FP1, Marquez sorprende, Bagnaia in affanno",
+          "slug": "motogp-indonesia-2026-fp1-bezzecchi-marquez-martin",
+          "tag": [
+            "motogp",
+            "indonesia",
+            "bezzecchi",
+            "mandalika"
+          ],
+          "evidenza": false,
+          "fonte": "OA Sport / Sky Sport MotoGP",
+          "cerca_url": "https://www.google.com/search?q=MotoGP+GP+Indonesia+2026+FP1+Bezzecchi+Mandalika",
+          "post_x": "Bezzecchi primo nelle FP1 a Mandalika, Marquez 2°, Martin 3°, Bagnaia 13°. Il Mondiale è una corsa a tre. Quello che nessuno dice: il circuito indonesiano lo finanzia Pertamina, la petrolifera di Stato. #MotoGP",
+          "post_sito": "Marco Bezzecchi apre il Gran Premio d'Indonesia con il miglior tempo nelle prove libere a Mandalika in 1:30.132, precedendo Marc Marquez su Ducati di 237 millesimi e il leader del Mondiale Jorge Martin di 266 — entrambi sfidanti al titolo, entrambi alle sue spalle. Bagnaia fatica ed è tredicesimo. Il Mondiale è una corsa a tre che tiene viva la stagione fino a novembre — utile per gli ascolti, per gli sponsor, per Dorna Sports che vende i diritti televisivi globali. Il circuito di Mandalika prende il nome ufficiale dal suo title sponsor: Pertamina, la compagnia petrolifera di Stato indonesiana. Un Grand Prix del Motomondiale ospitato da una società fossil fuel nel mezzo del dibattito sulla transizione energetica dello sport globale — nessuno lo fa notare perché il GP d'Indonesia porta pubblico, fatturato e immagini spettacolari. La gara vera si corre domenica: la narrativa si è già scritta da sola.",
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0"
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Kramatorsk, missile russo su due autobus: almeno 33 morti tra i civili",
+          "slug": "kramatorsk-missile-russo-autobus-morti-civili",
+          "tag": [
+            "ucraina",
+            "kramatorsk",
+            "civili",
+            "guerra"
+          ],
+          "evidenza": false,
+          "fonte": "Sarno Notizie / Italpress",
+          "cerca_url": "https://www.google.com/search?q=Kramatorsk+missile+russo+autobus+33+morti+ottobre+2026",
+          "post_x": "Missile russo su due autobus a Kramatorsk: 33 morti. Stessa ora in cui i negoziatori ucraini erano a Miami a «discutere di pace». Il timing è tutto, in questa guerra.",
+          "post_sito": "Un missile russo ha centrato due autobus a Kramatorsk, nella regione di Donetsk, causando almeno 33 morti e 18 feriti tra i civili. L'attacco è avvenuto mentre i negoziatori ucraini erano in viaggio verso Miami per i colloqui con gli inviati americani — una coincidenza che il racconto dominante non collega, ma che testimonia quanto il fronte diplomatico e quello militare vivano in universi separati. Nessuna norma di cronaca impone di fare morale su chi spara e chi muore: i dati parlano da soli. Quello che il coro mediatico tende a silenziare è la causa strutturale rimossa: cinque anni di guerra hanno prodotto un'industria della difesa europea in piena espansione, con ordini plurimiliardari a Leonardo, Rheinmetall, BAE Systems. Il dolore di Kramatorsk e i bilanci di queste aziende occupano pagine diverse dei giornali, ma appartengono alla stessa storia.",
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0"
+        },
+        {
+          "categoria": "Scienza",
+          "titolo": "Nobel per la Fisica 2026 a Francis Halzen per i neutrini di IceCube: un telescopio di ghiaccio al Polo Sud",
+          "slug": "nobel-fisica-2026-francis-halzen-icecube-neutrini",
+          "tag": [
+            "nobel",
+            "fisica",
+            "neutrini",
+            "icecube"
+          ],
+          "evidenza": false,
+          "fonte": "Focus.it / Nobel Prize / CNN",
+          "cerca_url": "https://www.google.com/search?q=Nobel+Fisica+2026+Francis+Halzen+IceCube+neutrini",
+          "post_x": "Nobel Fisica 2026 a Halzen per IceCube: un km cubo di ghiaccio antartico per catturare neutrini cosmici. Idea del 1988, costruita dal 2004. La scienza lenta vince ancora. Per stavolta.",
+          "post_sito": "La Royal Swedish Academy of Sciences ha assegnato il Nobel per la Fisica 2026 a Francis Halzen, fisico belga-americano dell'Università del Wisconsin-Madison, per il contributo decisivo all'Osservatorio IceCube e alla scoperta di neutrini ad alta energia di origine astrofisica. IceCube è un chilometro cubo di ghiaccio antartico dotato di oltre 5.000 sensori ottici installati a più di due chilometri di profondità — un'idea che Halzen ebbe nel 1988, che nessuno era sicuro avrebbe funzionato, e che ha aperto una nuova branca dell'astronomia. L'82enne fisico ha saputo della vittoria mentre era in Italia per una conferenza — e ha detto che spera che il Nobel lo aiuti a finanziare la prossima proposta di ricerca. Qui sta il dettaglio scomodo: IceCube è costato centinaia di milioni di dollari finanziati principalmente dalla National Science Foundation americana, e il dibattito su chi controlla l'agenda della grande scienza — Stati, agenzie governative, fondi privati come la Chan Zuckerberg Initiative — è raramente separato dai risultati che quella scienza produce.",
+          "editoriale": false,
+          "redattore": "Il Metodico 1.0"
+        },
+        {
+          "categoria": "AI",
+          "titolo": "Google chiude lo spam update dopo due settimane: nel mirino i contenuti AI generati in serie",
+          "slug": "google-spam-update-settembre-2026-ai-contenuti",
+          "tag": [
+            "google",
+            "spam-update",
+            "intelligenza-artificiale",
+            "seo"
+          ],
+          "evidenza": false,
+          "fonte": "Search Engine Watch / Roberto Serra / Search Engine Roundtable",
+          "cerca_url": "https://www.google.com/search?q=Google+spam+update+settembre+2026+chiusura+AI+contenuti",
+          "post_x": "Google chiude il suo spam update dopo 14 giorni invece dei soliti 2. Bersaglio: i contenuti AI generati in massa. Il custode del web colpisce ciò che ha reso possibile. Poesia industriale.",
+          "post_sito": "Google ha chiuso l'8 ottobre l'aggiornamento spam di settembre 2026, avviato il 24 settembre: quattordici giorni di rollout contro i due giorni dei tre aggiornamenti precedenti. La durata insolita segnala un cambio di bersaglio: non lo spam classico, ma i contenuti prodotti in serie con l'intelligenza artificiale — pagine programmatiche, farm di contenuti, siti creati per intercettare keyword senza produrre valore. Il paradosso è perfetto: Google ha contribuito a democratizzare gli strumenti di generazione AI e ora usa il suo algoritmo per penalizzare chi li usa per scalare le sue stesse classifiche. Chi ci guadagna? Le grandi testate e i brand con contenuti verificati e autorevoli, che recuperano posizioni rispetto alle farm. Chi perde: migliaia di piccoli editori digitali e agenzie che hanno costruito modelli di business sulla produzione scalabile di testo. L'ironia finale: Google paga circa 100 publisher per l'uso dei loro contenuti nei suoi sistemi AI — una cifra che, secondo i report, corrisponde a circa lo 0,1% del suo fatturato pubblicitario.",
+          "editoriale": false,
+          "redattore": "Il Futurologo 1.0"
+        },
+        {
+          "categoria": "Wellness",
+          "titolo": "Senza glutine: mercato da 400 milioni che punta a 1,6 miliardi, ma un italiano su cinque lo compra senza diagnosi",
+          "slug": "senza-glutine-mercato-400-milioni-non-celiaci-prezzi",
+          "tag": [
+            "gluten-free",
+            "celiaci",
+            "industria-alimentare",
+            "prezzi"
+          ],
+          "evidenza": false,
+          "fonte": "Frosinone News / Il Sole 24 Ore / Fortune Italia",
+          "cerca_url": "https://www.google.com/search?q=senza+glutine+mercato+400+milioni+non+celiaci+Italia+2026",
+          "post_x": "Il senza glutine vale 400 milioni in Italia e potrebbe arrivare a 1,6 miliardi nel 2030. I celiaci sono 250mila. Il resto del mercato lo fanno persone convinte che togliere il glutine faccia dimagrire. L'industria ringrazia.",
+          "post_sito": "Il mercato italiano del senza glutine vale circa 400 milioni di euro e cresce a un ritmo del 6% annuo, con proiezioni fino a 1,6 miliardi entro il 2030 — dati dell'Associazione Italiana Celiachia. I celiaci diagnosticati sono circa 250.000, con stime di altri 600.000 casi non ancora accertati. Eppure secondo le rilevazioni di Assoutenti, circa un italiano su cinque compra prodotti gluten free pur non avendo alcuna diagnosi, convinto che si tratti di una scelta più leggera o salutare. L'industria ha trasformato una necessità medica in un'aspirazione di stile di vita: il pane senza glutine può costare oltre il 70% in più rispetto al tradizionale, e un pasto al ristorante porta un sovrapprezzo medio del 17-18%. Il bersaglio satirico è l'industria alimentare che vende salute percepita a chi non ne ha bisogno, scaricando il costo del premio di mercato anche sui 250.000 che davvero non possono mangiare altrimenti. Per loro, i prezzi alti non sono una scelta: sono l'unica opzione.",
+          "editoriale": false,
+          "redattore": "Il Life Coach 1.0"
+        },
+        {
+          "categoria": "Cultura",
+          "titolo": "The Social Reckoning di Sorkin: Facebook torna al cinema, stavolta come imputato",
+          "slug": "the-social-reckoning-sorkin-facebook-film-2026",
+          "tag": [
+            "cinema",
+            "sorkin",
+            "facebook",
+            "social-network"
+          ],
+          "evidenza": false,
+          "fonte": "MyMovies / Corriere dello Sport / Sky TG24",
+          "cerca_url": "https://www.google.com/search?q=The+Social+Reckoning+Sorkin+film+ottobre+2026+cinema",
+          "post_x": "Sorkin torna su Facebook 16 anni dopo. Stavolta racconta i Facebook Files, le piattaforme progettate per creare dipendenza e lo scandalo che nessuno ha fermato. In 308 sale. Meta non ha commentato.",
+          "post_sito": "Dal 9 ottobre è nelle sale italiane The Social Reckoning (distribuito come The Social: Il prezzo della verità da Eagle Pictures/Sony), scritto e diretto da Aaron Sorkin — sedici anni dopo The Social Network di Fincher. Il film racconta i Facebook Files e la storia della whistleblower Frances Haugen, interpretata da Mikey Madison, con Jeremy Strong nei panni di Mark Zuckerberg e Jeremy Allen White come giornalista del Wall Street Journal. Il mandante invisibile da guardare non è Zuckerberg sullo schermo, ma Columbia Pictures e Sony che distribuiscono un film che mette alla berlina Meta — la stessa Meta che compra spazi pubblicitari sulle piattaforme di distribuzione digitale Sony. Hollywood che critica Silicon Valley mentre le due industrie dividono gli stessi mercati pubblicitari e gli stessi investitori istituzionali: è questa la circolarità che il film, per quanto lucido sul contenuto, non può raccontare su sé stesso. Il coro della critica è compatto nell'elogio: forse val la pena chiedersi se il successo critico di un film su Facebook non stia distraendo dall'assenza di qualsiasi conseguenza reale per chi ha progettato quegli algoritmi.",
+          "editoriale": false,
+          "redattore": "Il Letterato 1.0"
+        }
+      ]
+    },
+    {
       "data": "2026-10-08",
       "post": [
         {
@@ -3797,121 +3983,7 @@
           "redattore": "L'Osservatore 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-09-02",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "USA-Iran: nuova escalation a Hormuz, petrolio a 95 dollari",
-          "slug": "usa-iran-escalation-hormuz-petrolio-95-dollari",
-          "tag": [
-            "usa",
-            "iran",
-            "hormuz",
-            "petrolio"
-          ],
-          "evidenza": true,
-          "fonte": "focusamerica.it / Il Fatto Quotidiano",
-          "cerca_url": "https://www.google.com/search?q=USA+Iran+attacchi+Stretto+Hormuz+settembre+2026",
-          "post_x": "Gli USA bombardano l'Iran e il petrolio schizza a 95$/barile. Sette mesi di conflitto, vittime civili, basi colpite. Ma chi incassa davvero? Le compagnie petrolifere ringraziano. #Hormuz #Iran",
-          "post_sito": "Settimo mese di conflitto e il copione non cambia: gli Stati Uniti colpiscono circa cento obiettivi iraniani nello Stretto di Hormuz — difese aeree, radar, persino due petroliere governative con la nuova dottrina «nave per nave» — e il Brent vola verso i 95 dollari al barile, il gas TTF supera i 74 euro al megawattora. Beneficio taciuto: ogni punto percentuale di rialzo del greggio vale miliardi di dollari di ricavi extra per le major petrolifere occidentali e per i fondi sovrani del Golfo che non partecipano al conflitto ma ne incassano i dividendi. Il racconto dominante parla di «difesa del traffico commerciale»: tace che attraverso Hormuz transita il 25% del petrolio mondiale e il 20% del GNL, e che la frammentazione delle rotte alternative avvantaggia chi controlla i nuovi corridoi energetici. L'Iran risponde con missili balistici su basi USA in Giordania, quattro civili morti (tra cui un bambino) secondo la Mezzaluna Rossa; Washington non conferma né commenta. Nel frattempo al Pentagono si dimette il segretario dell'Esercito Driscoll in uno scontro con Hegseth, mentre le promozioni di circa il 10% dei vertici militari sono state bloccate: la macchina da guerra più costosa della storia non è mai stata così disordinata ai vertici.",
-          "editoriale": true,
-          "prospettive": [
-            {
-              "etichetta": "La posizione di Washington",
-              "testo": "Il Comando centrale statunitense afferma che i bombardamenti sull'isola di Larak e su altri siti della Guardia rivoluzionaria sono una risposta diretta ai tentativi iraniani di posare mine navali nello Stretto di Hormuz e alle minacce al traffico commerciale e al personale militare americano nella regione. La nuova politica «nave per nave» — che autorizza la Marina a colpire petroliere governative iraniane — è presentata come misura di deterrenza per riaprire e mantenere aperto uno dei corridoi marittimi più critici del pianeta."
-            },
-            {
-              "etichetta": "La posizione di Teheran",
-              "testo": "L'Iran sostiene che gli attacchi americani colpiscono infrastrutture civili e che tra le vittime ci sono civili, tra cui un bambino, in un contesto in cui una cerimonia nuziale sarebbe stata colpita secondo i media iraniani. La Guardia rivoluzionaria rivendica di aver risposto con missili balistici contro basi statunitensi in Giordania e negli Emirati, affermando di aver causato vittime americane — circostanza smentita da fonti USA. Teheran inquadra l'intera crisi come conseguenza di un blocco economico e di sanzioni che soffocano la popolazione iraniana."
-            },
-            {
-              "etichetta": "Chi guadagna economicamente",
-              "testo": "L'escalation ha spinto il prezzo del Brent verso i 95 dollari al barile e il gas TTF oltre i 74 euro al MWh. A beneficiarne direttamente sono le compagnie petrolifere non esposte al conflitto, i Paesi del Golfo non coinvolti nei combattimenti e i fondi speculativi posizionati lunghi sul greggio. Le compagnie assicurative marittime hanno già aumentato i premi sul rischio guerra nelle settimane precedenti. Le economie importatrici nette di energia — tra cui l'Italia — subiscono invece un impatto diretto sull'inflazione, già al 3,3% ad agosto."
-            },
-            {
-              "etichetta": "Il nodo geopolitico regionale",
-              "testo": "Giordania, Bahrain e altri Paesi del Golfo si trovano involontariamente trascinati nel conflitto: le loro basi ospitano forze statunitensi e sono diventate obiettivi delle rappresaglie iraniane. La Cina, principale acquirente del petrolio iraniano, osserva con cautela: ha interessi contraddittori, poiché un Hormuz chiuso penalizza anche le sue importazioni energetiche. Al G20 i ministri delle finanze hanno chiesto formalmente l'apertura dello Stretto, con la sola astensione cinese."
-            }
-          ],
-          "implicazioni": "Se l'escalation prosegue senza una tregua negoziata, i prezzi dell'energia potrebbero mantenersi strutturalmente alti per i prossimi mesi, aggravando l'inflazione nei Paesi importatori e rendendo più probabile un rialzo dei tassi da parte della BCE — ipotesi già prezzata al 95% dai mercati secondo la Bundesbank. Una chiusura prolungata o intermittente di Hormuz potrebbe accelerare la ridefinizione dei corridoi energetici globali, con conseguenze di lungo periodo sugli equilibri tra produttori e consumatori.",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Riforma elettorale: il ballottaggio anti-Vannacci spacca la maggioranza",
-          "slug": "legge-elettorale-ballottaggio-anti-vannacci-maggioranza-caos",
-          "tag": [
-            "legge-elettorale",
-            "vannacci",
-            "meloni",
-            "ballottaggio"
-          ],
-          "evidenza": false,
-          "fonte": "Il Post / L'Indipendente / Open",
-          "cerca_url": "https://www.google.com/search?q=legge+elettorale+ballottaggio+Vannacci+Meloni+settembre+2026",
-          "post_x": "Meloni vuole il ballottaggio. Non per amore della democrazia: Vannacci è all'8% e sale. La legge elettorale si riscrive a misura di chi ha paura di perdere. Lo fanno tutti. Solo lei lo chiama «riforma». #Melonellum",
-          "post_sito": "Trecentonovantasette emendamenti dell'opposizione e 659 tra PD, M5S, AVS e Italia Viva depositati entro il 1° settembre: la riforma elettorale soprannominata «Stabilicum» dalla maggioranza — «Melonellum» dal resto — arriva in aula al Senato il 9 settembre con voto finale previsto al 15, e la maggioranza non ha ancora deciso cosa vuole davvero. Il mandante invisibile della svolta pro-ballottaggio non è una convinzione costituzionale: è Roberto Vannacci, che sondaggi danno al 7,5%, già sopra Forza Italia (7,1%) e Lega (5,7%), con proiezioni fino al 15% alle prossime politiche. Il ballottaggio, nelle intenzioni di FdI, fungerebbe da pistola sul tavolo per costringere Futuro Nazionale a trattare prima del voto anziché fare il bello e il cattivo tempo come terzo incomodo. Doppio standard documentato: quando nel 2023 erano all'opposizione, gli stessi partiti di centrodestra definivano il doppio turno uno strumento «antipopolare». Ora lo presentano come garanzia di governabilità. La storia insegna che in Italia le leggi elettorali si scrivono sempre contro qualcuno, mai per qualcuno: e quel qualcuno, stavolta, ha le stellette.",
-          "editoriale": false,
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Inflazione italiana al 3,3%: il caro energia paga i dividendi della guerra",
-          "slug": "inflazione-italia-33-energia-hormuz-bce-tassi",
-          "tag": [
-            "inflazione",
-            "energia",
-            "bce",
-            "tassi"
-          ],
-          "evidenza": false,
-          "fonte": "Il Sole 24 Ore / SoldiOnline / Pavia Uno TV",
-          "cerca_url": "https://www.google.com/search?q=inflazione+Italia+3.3+agosto+2026+energia+BTP",
-          "post_x": "Inflazione al 3,3%, il più alto dal 2023. Energia e carburanti tirano. La BCE studia un rialzo dei tassi. Chi paga? Le famiglie. Chi incassa? Le stesse compagnie che vendono il gas che sale perché c'è la guerra che nessuno ferma. Cerchio chiuso.",
-          "post_sito": "Ad agosto l'inflazione italiana è salita al 3,3%, dal 2,9% di luglio: il livello più alto dal 2023, trainato da energia e carburanti che si trasferiscono progressivamente sull'intera catena dei prezzi. Il collegamento con Hormuz è diretto e quasi meccanico: il gas TTF supera i 74 euro al MWh e il Brent punta i 95 dollari al barile, e ogni rialzo del greggio si traduce in bollette più alte per famiglie e imprese italiane nel giro di settimane. Beneficio taciuto: la Bundesbank, per bocca del suo presidente Nagel, vede «altamente probabile» un rialzo dei tassi BCE a settembre — probabilità prezzata al 95% dai mercati — il che significa mutui più cari, credito più costoso, un ulteriore freno alla crescita già anemica (PIL italiano +0,2% nel secondo trimestre, +1% annuo). Il BTP decennale rende il 4,24%, spread Btp-Bund a 85 punti base: chi guadagna dalla volatilità sui titoli di Stato sono i fondi speculativi che shortano il debito sovrano dei Paesi periferici. Sul fronte borsistico, Lottomatica crolla del 9,65% dopo l'annuncio a sorpresa della fusione con la spagnola Cirsa — un matrimonio da 2 miliardi di EBITDA e 115 milioni di sinergie dichiarate che il mercato non si aspettava.",
-          "editoriale": false,
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Italia-Svezia ai quarti degli Europei di volley femminile: le azzurre cercano la semifinale",
-          "slug": "italia-svezia-quarti-europei-volley-femminile-2026",
-          "tag": [
-            "pallavolo",
-            "europei",
-            "italvolley",
-            "velasco"
-          ],
-          "evidenza": false,
-          "fonte": "OA Sport / Sky Sport",
-          "cerca_url": "https://www.google.com/search?q=Italia+Svezia+quarti+Europei+volley+femminile+2026",
-          "post_x": "Stasera ore 19: Italia-Svezia, quarti degli Europei di volley femminile. Gratis su Rai 2. Sì, gratis. Su Rai 2. Potete dirlo agli amici che pensano che lo sport vero sia solo quello con il pallone da calcio. #Italvolley #EuroVolley2026",
-          "post_sito": "Stasera alle 19:00 all'Exhibition Centre di Brno, la Nazionale italiana femminile di pallavolo di Julio Velasco affronta la Svezia nei quarti di finale degli Europei 2026: in palio la semifinale e la zona medaglie. Le azzurre arrivano all'appuntamento dopo aver chiuso al primo posto il girone D e aver travolto 3-0 la Bulgaria negli ottavi. La partita è visibile gratuitamente su Rai 2 e RaiPlay, nonché su Sky Sport Arena (204) e in streaming su DAZN, Sky Go e EuroVolley TV per gli abbonati. L'avversaria principale è Isabelle Haak, top scorer svedese con 34 punti di media nel torneo: nell'unico precedente agli stessi gironi le azzurre l'avevano contenuta, ma la Svezia si è confermata nella fase a eliminazione diretta. I Giochi del Mediterraneo di Taranto 2026, nella loro penultima giornata, assegnano intanto altri 14 titoli di atletica — con l'Italia già sul podio storico della manifestazione a quota 187 medaglie — a ricordare che lo sport italiano non esiste solo quando c'è il calciomercato.",
-          "editoriale": false,
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Torino, violenta una 13enne: scarcerato dopo 48 ore perché «dispiaciuto»",
-          "slug": "torino-violenza-13enne-scarcerato-dispiaciuto-nordio-ispettori",
-          "tag": [
-            "violenza-sessuale",
-            "torino",
-            "giustizia",
-            "misure-cautelari"
-          ],
-          "evidenza": false,
-          "fonte": "Sky TG24 / Il Fatto Quotidiano / Today.it",
-          "cerca_url": "https://www.google.com/search?q=Torino+violenza+sessuale+13enne+minimarket+scarcerato+2026",
-          "post_x": "Un uomo viola una 13enne, viene arrestato, dopo 48 ore è libero perché «dispiaciuto». Il ministro manda gli ispettori. Salvini rilancia la castrazione chimica. Nessuno parla di finanziare i centri antiviolenza. Priorità. #Torino",
-          "post_sito": "Un commerciante di 42 anni è accusato di aver abusato sessualmente di una ragazzina di 13 anni entrata in un minimarket di Madonna di Campagna, periferia nord di Torino, per comprare dei succhi di frutta: le telecamere hanno registrato un episodio analogo ai danni di una donna adulta appena quaranta minuti prima. Il pubblico ministero aveva chiesto la custodia cautelare in carcere, ritenendo «concreto il pericolo che, se libero, commetta reati della stessa specie». Il GIP ha invece convalidato l'arresto senza disporre il carcere, rimettendo l'uomo in libertà — compresa la possibilità di tornare a lavorare — con il solo obbligo di firma, motivando la scelta con l'incensuratezza, la collaborazione e la «resipiscenza» dell'indagato. L'indagato non è stato assolto né dichiarato innocente. La causa strutturale rimossa nel coro dell'indignazione politica bipartisan — da Meloni a Salvini, che rilancia la castrazione chimica — è il nodo reale delle misure cautelari nei reati di violenza di genere: un dibattito giuridico serio, che esiste da anni, sistematicamente sacrificato sull'altare dello sdegno elettorale e mai tradotto in riforma organica. Nordio ha inviato ispettori al Tribunale di Torino, precisando di non poter interferire con l'autonomia della magistratura: indignazione a costo zero, nella forma più pura.",
-          "editoriale": false,
-          "redattore": "L'Osservatore 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-10-08T07:20:01.197045+00:00"
+  "ultimo_aggiornamento": "2026-10-09T07:19:59.197129+00:00"
 }
