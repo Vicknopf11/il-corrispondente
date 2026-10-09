@@ -1,22 +1,6 @@
 {
-  "generato": "2026-10-09T11:31:01.956840+00:00",
+  "generato": "2026-10-09T17:31:00.711035+00:00",
   "item": [
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Pétanque, Dagati re d’Europa! L’Italia fa festa con tre medaglie",
-      "link": "https://www.gazzetta.it/bocce/08-10-2026/bocce-petanque-dagati-re-d-europa-l-italia-fa-festa-con-tre-medaglie.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-10-08"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Barcolana Ski: Ghedina torna con un doppio appuntamento sullo slalom \"vista mare\" a Trieste",
-      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/08-10-2026/barcolana-ski-ghedina-torna-sullo-slalom-vista-mare-di-trieste.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-10-08"
-    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
@@ -40,6 +24,22 @@
       "link": "https://www.gazzetta.it/Rugby/08-10-2026/il-livorno-rugby-presenta-la-prima-squadra-il-punto-di-forza-la-livornesita.shtml",
       "fonte": "Gazzetta — Rugby",
       "data_evento": "2026-10-08"
+    },
+    {
+      "sottocategoria": "Atletica",
+      "tipo": "notizia",
+      "titolo": "Andy Diaz: \"Il record? Nel 2027 ci riuscirò. Ora voglio vincere Ballando con le Stelle\"",
+      "link": "https://video.gazzetta.it/atletica/video-andy-diaz-il-record-entro-il-2027-ora-voglio-vincere-ballando-con-le-stelle/cf3d0b68-d6ca-4a2c-9c78-cc536d691xlk",
+      "fonte": "Gazzetta — Atletica",
+      "data_evento": "2026-10-08"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Alcaraz lancia l'allarme infortuni: \"Troppe partite, siamo oltre il limite\"",
+      "link": "https://www.gazzetta.it/Tennis/ATP/09-10-2026/alcaraz-lancia-l-allarme-infortuni-troppe-partite-siamo-oltre-il-limite.shtml",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-10-09"
     }
   ]
 }
