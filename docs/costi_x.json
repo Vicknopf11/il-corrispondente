@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-09",
+      "slug": "nobel-fisica-2026-francis-halzen-icecube-neutrini",
+      "categoria": "Scienza",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-09",
       "slug": "kramatorsk-missile-russo-autobus-morti-civili",
       "categoria": "Cronaca",
       "evidenza": false,
