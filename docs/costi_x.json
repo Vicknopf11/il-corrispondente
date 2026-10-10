@@ -1,6 +1,14 @@
 {
   "pubblicazioni": [
     {
+      "data": "2026-10-10",
+      "slug": "nobel-pace-pillay-trump-sanzioni-cpi",
+      "categoria": "Politica Internazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
       "data": "2026-10-09",
       "slug": "the-social-reckoning-sorkin-facebook-film-2026",
       "categoria": "Cultura",
