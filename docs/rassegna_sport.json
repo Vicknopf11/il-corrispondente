@@ -1,6 +1,22 @@
 {
-  "generato": "2026-10-10T05:30:59.239318+00:00",
+  "generato": "2026-10-10T11:31:03.393622+00:00",
   "item": [
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Pétanque, Dagati re d’Europa! L’Italia fa festa con tre medaglie",
+      "link": "https://www.gazzetta.it/bocce/08-10-2026/bocce-petanque-dagati-re-d-europa-l-italia-fa-festa-con-tre-medaglie.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-10-08"
+    },
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Pirovano: \"Io metà gattino e metà pantera. Bella la Sardegna con Brignone, ma ora sotto col Mondiale\"",
+      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/Coppa-Mondo-Sci/10-10-2026/intervista-a-laura-pirovano-mondiale-voglio-riprovarci-sono-nata-gigantista.shtml",
+      "fonte": "Gazzetta — Sport Invernali",
+      "data_evento": "2026-10-10"
+    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
@@ -20,26 +36,10 @@
     {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
-      "titolo": "Il Livorno Rugby conferma la sua presenza in A1. Il punto di forza del gruppo? Il legame con la città",
-      "link": "https://www.gazzetta.it/Rugby/08-10-2026/il-livorno-rugby-presenta-la-prima-squadra-il-punto-di-forza-la-livornesita.shtml",
+      "titolo": "Giochi una partitella amatoriale di rugby, ti trovi contro una stella Nfl: è successo a Londra con Kelce",
+      "link": "https://www.gazzetta.it/Sport-Usa/10-10-2026/nfl-jason-kelce-gioca-a-rugby-a-londra.shtml",
       "fonte": "Gazzetta — Rugby",
-      "data_evento": "2026-10-08"
-    },
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "Andy Diaz: \"Il record? Nel 2027 ci riuscirò. Ora voglio vincere Ballando con le Stelle\"",
-      "link": "https://video.gazzetta.it/atletica/video-andy-diaz-il-record-entro-il-2027-ora-voglio-vincere-ballando-con-le-stelle/cf3d0b68-d6ca-4a2c-9c78-cc536d691xlk",
-      "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-10-08"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Cobolli perde, ma le Finals sono ancora possibili: al momento Flavio è quinto ma...",
-      "link": "https://www.gazzetta.it/Tennis/ATP/09-10-2026/tennis-cobolli-e-la-corsa-alle-finals.shtml",
-      "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-10-09"
+      "data_evento": "2026-10-10"
     }
   ]
 }
