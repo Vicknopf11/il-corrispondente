@@ -1,30 +1,6 @@
 {
-  "generato": "2026-10-10T11:31:03.393622+00:00",
+  "generato": "2026-10-10T17:31:04.504324+00:00",
   "item": [
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Pétanque, Dagati re d’Europa! L’Italia fa festa con tre medaglie",
-      "link": "https://www.gazzetta.it/bocce/08-10-2026/bocce-petanque-dagati-re-d-europa-l-italia-fa-festa-con-tre-medaglie.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-10-08"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Pirovano: \"Io metà gattino e metà pantera. Bella la Sardegna con Brignone, ma ora sotto col Mondiale\"",
-      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/Coppa-Mondo-Sci/10-10-2026/intervista-a-laura-pirovano-mondiale-voglio-riprovarci-sono-nata-gigantista.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-10-10"
-    },
-    {
-      "sottocategoria": "Combattimento",
-      "tipo": "notizia",
-      "titolo": "Bove, Brignone, la \"mano de Dios\" e non solo: lo sport è protagonista alla Festa del cinema di Roma",
-      "link": "https://www.gazzetta.it/Sport-Vari/storie/05-10-2026/il-documentario-su-bove-le-imprese-della-brignone-i-film-sportivi-al-roma-film-fest-2026/un-programma-ricco.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-10-05"
-    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
@@ -36,10 +12,34 @@
     {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
-      "titolo": "Giochi una partitella amatoriale di rugby, ti trovi contro una stella Nfl: è successo a Londra con Kelce",
-      "link": "https://www.gazzetta.it/Sport-Usa/10-10-2026/nfl-jason-kelce-gioca-a-rugby-a-londra.shtml",
+      "titolo": "Bledisloe Cup: agli All Blacks il primo round, Wallabies travolti 50-19",
+      "link": "https://www.gazzetta.it/Rugby/10-10-2026/rugby-bledisloe-cup-agli-all-blacks-il-primo-round-wallabies-travolti-50-19.shtml",
       "fonte": "Gazzetta — Rugby",
       "data_evento": "2026-10-10"
+    },
+    {
+      "sottocategoria": "Atletica",
+      "tipo": "notizia",
+      "titolo": "Maratona di Chicago 2026: da Kiplimo a Linden, i 5 big con le storie più curiose",
+      "link": "https://www.gazzetta.it/Atletica/storie/10-10-2026/maratona-di-chicago-gli-atleti-al-via-le-curiosita/la-maratona-nella-windy-city.shtml",
+      "fonte": "Gazzetta — Atletica",
+      "data_evento": "2026-10-10"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Zhou, bestia nera degli italiani: \"Iniziai col badminton... Da Zverev consigli per il mio diabete\"",
+      "link": "https://www.gazzetta.it/Tennis/ATP/10-10-2026/zhou-bestia-nera-degli-italiani-iniziai-col-badminton-da-zverev-consigli-per-il-diabete.shtml",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-10-10"
+    },
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Pétanque, Dagati re d’Europa! L’Italia fa festa con tre medaglie",
+      "link": "https://www.gazzetta.it/bocce/08-10-2026/bocce-petanque-dagati-re-d-europa-l-italia-fa-festa-con-tre-medaglie.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-10-08"
     }
   ]
 }
