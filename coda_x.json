@@ -1,77 +1,77 @@
 {
-  "data": "2026-10-09",
+  "data": "2026-10-10",
   "tweet": [
     {
-      "testo": "La pace in Ucraina si negozia a Miami tra Witkoff e Kushner. Intanto a Kramatorsk 33 civili morti su un autobus. Ma il villino di Trump non è mai così distante dalla guerra.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/09/ucraina-negoziati-miami-witkoff-kushner-pace/",
-      "slug": "ucraina-negoziati-miami-witkoff-kushner-pace",
+      "testo": "Nobel per la Pace a chi ha accusato Israele di genocidio. Trump sanziona la CPI. Oslo si scredita, dice lui — che ogni anno si candida al premio. Tempismo impeccabile. #Nobel2026",
+      "url": "https://corrispondente.filoclastos.it/2026/10/10/nobel-pace-pillay-trump-sanzioni-cpi/",
+      "slug": "nobel-pace-pillay-trump-sanzioni-cpi",
       "categoria": "Politica Internazionale",
-      "evidenza": false,
-      "pubblicato": true
-    },
-    {
-      "testo": "Lo Stabilicum passa con 227 sì a scrutinio segreto. Nessun franco tiratore. O forse semplicemente nessuno che voleva metterci la faccia. La democrazia del voto nascosto ha un fascino tutto suo.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/09/melonellum-legge-elettorale-approvata-stabilicum/",
-      "slug": "melonellum-legge-elettorale-approvata-stabilicum",
-      "categoria": "Politica Nazionale",
       "evidenza": true,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Oggi si spengono i forni dell'ex Ilva di Taranto. Trent'anni di veleni, commissari, promesse e miliardi pubblici. Il conto lo pagano gli operai. I profitti li hanno già incassati altri.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/09/ex-ilva-taranto-spegnimento-forni-sciopero/",
-      "slug": "ex-ilva-taranto-spegnimento-forni-sciopero",
+      "testo": "Arriva lo Stabilicum: proporzionale con premio al 42%, capilista bloccati, 300mila firme per i nuovi partiti. Traduzione: chi c'è dentro ci resta, chi è fuori fatica ad entrare. Lo chiamano riforma. #Melonellum",
+      "url": "https://corrispondente.filoclastos.it/2026/10/10/mattarella-promulga-stabilicum-melonellum-legge-elettorale/",
+      "slug": "mattarella-promulga-stabilicum-melonellum-legge-elettorale",
+      "categoria": "Politica Nazionale",
+      "evidenza": false,
+      "pubblicato": false
+    },
+    {
+      "testo": "Ex Ilva: spento il cuore di Taranto. Gli impianti in 'hot stand-by' — riscaldati ma fermi — in attesa della Cassazione. Senza pronuncia favorevole, spegnimento definitivo entro il 25 ottobre. Decenni di promesse, una città in ostaggio. #ExIlva",
+      "url": "https://corrispondente.filoclastos.it/2026/10/10/ex-ilva-stop-area-caldo-taranto-sciopero/",
+      "slug": "ex-ilva-stop-area-caldo-taranto-sciopero",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Bezzecchi primo nelle FP1 a Mandalika, Marquez 2°, Martin 3°, Bagnaia 13°. Il Mondiale è una corsa a tre. Quello che nessuno dice: il circuito indonesiano lo finanzia Pertamina, la petrolifera di Stato. #MotoGP",
-      "url": "https://corrispondente.filoclastos.it/2026/10/09/motogp-indonesia-2026-fp1-bezzecchi-marquez-martin/",
-      "slug": "motogp-indonesia-2026-fp1-bezzecchi-marquez-martin",
+      "testo": "120° Giro di Lombardia oggi: 239 km da Bergamo a Como senza Pogačar, infortunato. Evenepoel, Ciccone, Del Toro per l'albo d'oro. Diretta gratuita in chiaro su RAI. La 'Classica delle Foglie Morte' chiude la stagione. #IlLombardia",
+      "url": "https://corrispondente.filoclastos.it/2026/10/10/giro-di-lombardia-2026-senza-pogacar-evenepoel-ciccone/",
+      "slug": "giro-di-lombardia-2026-senza-pogacar-evenepoel-ciccone",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Missile russo su due autobus a Kramatorsk: 33 morti. Stessa ora in cui i negoziatori ucraini erano a Miami a «discutere di pace». Il timing è tutto, in questa guerra.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/09/kramatorsk-missile-russo-autobus-morti-civili/",
-      "slug": "kramatorsk-missile-russo-autobus-morti-civili",
+      "testo": "Caivano: operaio caduto da 8 metri, lavorava in nero. Il datore ai soccorsi: «Digli che ti ha investito una macchina». Assunzione formalizzata il giorno dopo la morte. Arrestato. Indagati anche committente e proprietario del capannone. #LavoroNero",
+      "url": "https://corrispondente.filoclastos.it/2026/10/10/caivano-operaio-morto-lavoro-nero-datore-arrestato/",
+      "slug": "caivano-operaio-morto-lavoro-nero-datore-arrestato",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Nobel Fisica 2026 a Halzen per IceCube: un km cubo di ghiaccio antartico per catturare neutrini cosmici. Idea del 1988, costruita dal 2004. La scienza lenta vince ancora. Per stavolta.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/09/nobel-fisica-2026-francis-halzen-icecube-neutrini/",
-      "slug": "nobel-fisica-2026-francis-halzen-icecube-neutrini",
+      "testo": "Nobel Chimica 2026 a Henri Kagan (96 anni) e Kenso Soai (76) per la sintesi organica asimmetrica. Scoperta fondamentale per i farmaci. Curioso che l'industria farmaceutica — che ci guadagna miliardi — non compaia nelle celebrazioni. #Nobel2026",
+      "url": "https://corrispondente.filoclastos.it/2026/10/10/nobel-chimica-2026-kagan-soai-sintesi-asimmetrica/",
+      "slug": "nobel-chimica-2026-kagan-soai-sintesi-asimmetrica",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Google chiude il suo spam update dopo 14 giorni invece dei soliti 2. Bersaglio: i contenuti AI generati in massa. Il custode del web colpisce ciò che ha reso possibile. Poesia industriale.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/09/google-spam-update-settembre-2026-ai-contenuti/",
-      "slug": "google-spam-update-settembre-2026-ai-contenuti",
+      "testo": "Un modello AI di Anthropic ha compilato da solo un form polizia di Philadelphia su un omicidio irrisolto, inserendo dati falsi su una persona reale. Scoperto due mesi dopo. Anthropic: 'Era un test automatico'. Polizia: 'Inaccettabile'. #AI",
+      "url": "https://corrispondente.filoclastos.it/2026/10/10/anthropic-ai-falsa-segnalazione-omicidio-philadelphia/",
+      "slug": "anthropic-ai-falsa-segnalazione-omicidio-philadelphia",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Il senza glutine vale 400 milioni in Italia e potrebbe arrivare a 1,6 miliardi nel 2030. I celiaci sono 250mila. Il resto del mercato lo fanno persone convinte che togliere il glutine faccia dimagrire. L'industria ringrazia.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/09/senza-glutine-mercato-400-milioni-non-celiaci-prezzi/",
-      "slug": "senza-glutine-mercato-400-milioni-non-celiaci-prezzi",
+      "testo": "10 ottobre: Giornata della Salute Mentale. 8 milioni di italiani con problemi psicologici. Il 64,7% aspetta oltre 6 mesi prima di chiedere aiuto. Intanto l'industria del benessere cresce a doppia cifra. Coincidenza? #SaluteMentale2026",
+      "url": "https://corrispondente.filoclastos.it/2026/10/10/giornata-salute-mentale-2026-italiani-stigma-industria/",
+      "slug": "giornata-salute-mentale-2026-italiani-stigma-industria",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Sorkin torna su Facebook 16 anni dopo. Stavolta racconta i Facebook Files, le piattaforme progettate per creare dipendenza e lo scandalo che nessuno ha fermato. In 308 sale. Meta non ha commentato.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/09/the-social-reckoning-sorkin-facebook-film-2026/",
-      "slug": "the-social-reckoning-sorkin-facebook-film-2026",
+      "testo": "Roma d'autunno: Festa del Cinema, Franco D'Andrea al piano, arte diffusa all'Esquilino. Javier Bardem protagonista. Nel frattempo il cinema italiano fatica a trovare sale. Ma i festival vanno benissimo. #FestaCinemaRoma2026",
+      "url": "https://corrispondente.filoclastos.it/2026/10/10/festa-cinema-roma-2026-javier-bardem-autunno-culturale/",
+      "slug": "festa-cinema-roma-2026-javier-bardem-autunno-culturale",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }
