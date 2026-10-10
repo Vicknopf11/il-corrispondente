@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-10",
+      "slug": "mattarella-promulga-stabilicum-melonellum-legge-elettorale",
+      "categoria": "Politica Nazionale",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-10",
       "slug": "nobel-pace-pillay-trump-sanzioni-cpi",
       "categoria": "Politica Internazionale",
       "evidenza": true,
