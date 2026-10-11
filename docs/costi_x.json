@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-11",
+      "slug": "castellammare-greta-astarita-morta-incinta-dimissioni-ospedale",
+      "categoria": "Cronaca",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-11",
       "slug": "mondiali-judo-baku-2026-italia-medaglie-squadre-miste",
       "categoria": "Sport",
       "evidenza": false,
