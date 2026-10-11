@@ -1,13 +1,29 @@
 {
-  "generato": "2026-10-11T05:31:02.029943+00:00",
+  "generato": "2026-10-11T11:31:00.236671+00:00",
   "item": [
+    {
+      "sottocategoria": "Combattimento",
+      "tipo": "notizia",
+      "titolo": "Sfidò Tyson, Moorer, Holyfield, Klitschko: Botha, il bisonte bianco che non temeva le leggende",
+      "link": "https://www.gazzetta.it/fighting/pugilato/07-10-2026/francois-botha-il-bisonte-bianco-che-mise-alla-prova-i-grandi-campioni.shtml",
+      "fonte": "Gazzetta — Fighting",
+      "data_evento": "2026-10-07"
+    },
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Torna la grande classica: è Milano-Bolzano 14 anni dopo. Viaggio nella sfida più calda d'Italia",
+      "link": "https://www.gazzetta.it/Sport-Invernali/10-10-2026/hockey-milano-bolzano-tornano-a-sfidarsi-14-anni-dopo-4mila-alla-fiera-ice-arena-di-rho.shtml",
+      "fonte": "Gazzetta — Sport Invernali",
+      "data_evento": "2026-10-10"
+    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
-      "titolo": "Thorpe: “Non vedo un altro come me al momento. Io o Phelps? Ecco chi era più forte…”",
-      "link": "https://video.gazzetta.it/video-thorpe-non-vedo-un-altro-come-me-al-momento-io-o-phelps-ecco-chi-era-piu-forte/533151b8-6df8-4e16-b9e0-8d772ca71xlk",
+      "titolo": "Serena Williams diventa una Barbie: Bebe Vio, Gama, Andrade e tutte le campionesse-bambola prima di lei",
+      "link": "https://www.gazzetta.it/Tennis/storie/11-10-2026/serena-williams-barbie-campionesse-bambola/serena-williams-diventa-barbie-ma-non-e-la-sola.shtml",
       "fonte": "Gazzetta — Nuoto e Pallanuoto",
-      "data_evento": "2026-10-06"
+      "data_evento": "2026-10-11"
     },
     {
       "sottocategoria": "Squadra",
@@ -24,22 +40,6 @@
       "link": "https://www.gazzetta.it/Atletica/10-10-2026/stano-raccoglie-20-000-euro-per-beneficenza.shtml",
       "fonte": "Gazzetta — Atletica",
       "data_evento": "2026-10-10"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Zhou, bestia nera degli italiani: \"Iniziai col badminton... Da Zverev consigli per il mio diabete\"",
-      "link": "https://www.gazzetta.it/Tennis/ATP/10-10-2026/zhou-bestia-nera-degli-italiani-iniziai-col-badminton-da-zverev-consigli-per-il-diabete.shtml",
-      "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-10-10"
-    },
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Pétanque, Dagati re d’Europa! L’Italia fa festa con tre medaglie",
-      "link": "https://www.gazzetta.it/bocce/08-10-2026/bocce-petanque-dagati-re-d-europa-l-italia-fa-festa-con-tre-medaglie.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-10-08"
     }
   ]
 }
