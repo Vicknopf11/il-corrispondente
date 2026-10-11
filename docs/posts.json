@@ -1,6 +1,188 @@
 {
   "edizioni": [
     {
+      "data": "2026-10-11",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Trump scarica Zelensky: «L'Ucraina trovi un nuovo presidente» dopo il patto del diesel con Putin",
+          "slug": "trump-scarica-zelensky-nuovo-presidente-patto-diesel-putin",
+          "tag": [
+            "ucraina",
+            "trump",
+            "russia",
+            "geopolitica"
+          ],
+          "evidenza": true,
+          "fonte": "La Repubblica / Sky TG24",
+          "cerca_url": "https://www.google.com/search?q=Trump+Zelensky+nuovo+presidente+accordo+diesel+Putin+ottobre+2026",
+          "post_x": "Trump vuole un nuovo Zelensky. Non perché ama l'Ucraina — ma perché ha appena comprato il diesel di Putin. Il vero accordo di pace non è tra Russia e Ucraina: è tra Washington e le raffinerie di Mosca. #TrumpPutin",
+          "post_sito": "Tutti indignati per Trump che scarica Zelensky. Nessuno che si chieda chi ci guadagna dall'accordo sul diesel russo — e sono 300.000 tonnellate di carburante a prezzi calmierati, in un'America che va alle urne di midterm nel 2026. Beneficio taciuto: le compagnie petrolifere americane che temevano la concorrenza russa protestano in silenzio, mentre i consumatori alla pompa applaudono. Il coro mediatico si concentra sul dramma di Kiev, ma dimentica che Washington chiedeva agli ucraini già da settimane di smettere di colpire le raffinerie russe — minacciando di tagliare la condivisione dell'intelligence. L'ultimatum a Zelensky non è nato stanotte: era già scritto nelle pipeline diplomatiche da mesi. Nel frattempo, a Zaporizhzhia continuano a morire civili — venti, compresi tre bambini — e quella notizia occupa tre righe in fondo alla pagina.",
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La posizione di Washington",
+              "testo": "L'amministrazione Trump ha annunciato un accordo per l'acquisto di oltre 300.000 tonnellate di diesel russo, presentato come misura per calmierare i prezzi dei carburanti sul mercato interno americano. Trump ha contestualmente invitato l'Ucraina a trovare una leadership capace di negoziare con Mosca, accusando Zelensky di contribuire alle tensioni energetiche globali attraverso gli attacchi alle infrastrutture petrolifere russe. La Casa Bianca ha già prospettato conseguenze sulla condivisione delle informazioni di intelligence con Kiev nel caso in cui gli attacchi continuino."
+            },
+            {
+              "etichetta": "La posizione di Kiev e dell'Europa",
+              "testo": "Zelensky ha definito l'accordo sul diesel un regalo diretto a Vladimir Putin, sostenendo che l'allentamento delle sanzioni garantirà nuove entrate a Mosca rendendo più difficile spingere il Cremlino verso un negoziato credibile. Unione Europea e Gran Bretagna hanno preso le distanze dall'intesa, ribadendo il sostegno a Kiev e avvertendo che finanziare le esportazioni energetiche russe equivale a finanziare lo sforzo bellico. Diversi esponenti repubblicani, tra cui il deputato Brian Fitzpatrick, hanno annunciato proposte bipartisan per bloccare gli acquisti di petrolio russo."
+            },
+            {
+              "etichetta": "Il nodo energetico e gli interessi economici",
+              "testo": "L'accordo si inserisce in un contesto di pressioni crescenti sui prezzi dei carburanti negli Stati Uniti. L'intesa solleva interrogativi sugli attori economici che traggono vantaggio dalla riapertura dei canali commerciali con la Russia: da un lato le aziende di trading che intermediano le forniture, dall'altro le raffinerie americane che potrebbero beneficiare di materia prima più economica. Il Cremlino ha intanto escluso una ripresa immediata dei negoziati di pace, segnale che Mosca non considera l'accordo commerciale come preludio a concessioni politiche."
+            }
+          ],
+          "implicazioni": "Se l'accordo sul diesel diventasse un modello, potrebbe segnare un progressivo allentamento del regime sanzionatorio occidentale nei confronti della Russia, riducendo la pressione economica su Mosca e complicando le prospettive di un negoziato che preveda garanzie per l'integrità territoriale ucraina. Sul piano interno americano, l'intesa potrebbe rafforzare il consenso di Trump in vista delle elezioni di midterm, ma rischia di approfondire la frattura con gli alleati europei sulla gestione del conflitto.",
+          "redattore": "Il Corrispondente Estero 1.0"
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Lo Stabilicum è legge: la quarta riforma elettorale in vent'anni, con premio al 42%",
+          "slug": "stabilicum-legge-elettorale-premio-maggioranza-42-percento",
+          "tag": [
+            "legge-elettorale",
+            "stabilicum",
+            "meloni",
+            "centrodestra"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Pagella Politica",
+          "cerca_url": "https://www.google.com/search?q=Stabilicum+legge+elettorale+approvata+Camera+ottobre+2026",
+          "post_x": "Quattro leggi elettorali in vent'anni. Porcellum, Italicum, Rosatellum, ora Stabilicum. Cambiano i nomi, cambia chi governa, resta invariato il principio: la legge elettorale la scrive chi vuole vincere con essa. Democrazia, in senso lato.",
+          "post_sito": "Il centrodestra esulta per lo Stabilicum — la quarta legge elettorale in vent'anni, approvata con 227 sì e 164 no dopo tre voti di fiducia, blindata come un fortino. Il premio di maggioranza scatta al 42% dei voti: 70 seggi in più alla Camera e 35 al Senato per chi supera la soglia. Dettaglio utile: con i sondaggi attuali, quel 42% è quasi irraggiungibile senza Fratelli di Nazione di Vannacci — il che significa che la legge che «stabilizza» in realtà lega il centrodestra a una dipendenza strutturale dall'estrema destra. Mandante invisibile: gli spin doctor di palazzo Chigi che hanno costruito una legge su misura per lo scenario elettorale del 2027, non per il bene dell'architettura democratica. L'opposizione grida alla truffa, ma dimentica di aver fatto la stessa cosa con l'Italicum nel 2015. Il doppio standard è il vero filo rosso della storia costituzionale italiana.",
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0"
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Nvidia punta ai 6.000 miliardi di capitalizzazione: mai nessuna azienda nella storia aveva raggiunto questa soglia",
+          "slug": "nvidia-6000-miliardi-capitalizzazione-record-storico",
+          "tag": [
+            "nvidia",
+            "borsa",
+            "intelligenza-artificiale",
+            "wall-street"
+          ],
+          "evidenza": false,
+          "fonte": "Il Messaggero / Borsa Italiana",
+          "cerca_url": "https://www.google.com/search?q=Nvidia+6000+miliardi+capitalizzazione+record+ottobre+2026",
+          "post_x": "Nvidia si avvicina a 6.000 miliardi di dollari di capitalizzazione. Pil italiano: circa 2.100 miliardi. Tre volte l'Italia per vendere chip che servono ad addestrare IA che sostituiranno lavoratori italiani. Il ciclo è elegante.",
+          "post_sito": "Nvidia vola verso i 6.000 miliardi di dollari di capitalizzazione di borsa — una cifra mai raggiunta nella storia da nessuna azienda al mondo. Il titolo ha guadagnato oltre il 30% da inizio anno, aggiungendo circa 1.300 miliardi di capitalizzazione. Chi ci guadagna, concretamente: Jensen Huang e i grandi fondi istituzionali americani che pesano pesantemente sul Nasdaq 100 — Nvidia vale l'8% dell'S&P 500, quindi ogni fondo pensione americano (e molti europei) è esposto. Beneficio taciuto: Nvidia non si limita più a vendere processori — ha comprato Hugging Face per 13 miliardi, sta trattando l'acquisto di Reflection AI (già valutata 25 miliardi a marzo), e ha autorizzato un buyback azionario da 150 miliardi. In altre parole: usa il denaro che guadagna per comprare o finanziare le aziende che quei processori li usano. Un'integrazione verticale da monopolio, costruita sotto gli occhi di un'antitrust americana che guarda da un'altra parte. Il rapporto prezzo-utili è circa 46, quasi il doppio della media S&P, ma nessuno vuole essere il primo a uscire dalla festa.",
+          "editoriale": false,
+          "redattore": "L'Analista 1.0"
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Mondiali di judo a Baku: l'Italia chiude con quattro medaglie, oggi la prova a squadre miste contro la Georgia",
+          "slug": "mondiali-judo-baku-2026-italia-medaglie-squadre-miste",
+          "tag": [
+            "judo",
+            "mondiali",
+            "baku",
+            "azzurri"
+          ],
+          "evidenza": false,
+          "fonte": "OA Sport / Eurosport",
+          "cerca_url": "https://www.google.com/search?q=Mondiali+judo+Baku+2026+Italia+medaglie+squadre+miste",
+          "post_x": "L'Italia del judo chiude i Mondiali di Baku con 4 medaglie — Scutto, Giuffrida, Pirelli e la finale per il bronzo di Tavano. Oggi la prova a squadre. I giornali sportivi aprono su Como-Roma. Nulla di strano.",
+          "post_sito": "Mentre i quotidiani sportivi italiani aprivano sull'ennesima giornata di Serie A, la squadra azzurra di judo stava scrivendo una delle pagine più belle della propria storia recente ai Mondiali di Baku. Assunta Scutto ha conquistato l'argento, Odette Giuffrida il bronzo nei -52 kg (nonostante un grave infortunio a una spalla di soli tre mesi fa), Gennaro Pirelli il bronzo nei -100 kg, e Asya Tavano ha raggiunto la finale per il terzo posto tra i pesi massimi. Oggi, giornata conclusiva, l'Italia affronta subito la Georgia campione del mondo in carica nella prova a squadre miste. Il conto dietro la medaglia: il judo italiano produce risultati con risorse sistematicamente inferiori a quelle di federazioni finanziate da stati petroliferi o da strutture professionistiche. Non è un caso che i campioni vengano spesso da famiglie che hanno sacrificato anni di stipendi per portare i figli agli allenamenti. Visibilità zero, risultati eccellenti: il meccanismo funziona nonostante il sistema, non grazie a esso.",
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0"
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Castellammare di Stabia: muore a 33 anni dopo le dimissioni, muore anche la bambina che aspettava",
+          "slug": "castellammare-greta-astarita-morta-incinta-dimissioni-ospedale",
+          "tag": [
+            "sanita",
+            "campania",
+            "maternita",
+            "cronaca"
+          ],
+          "evidenza": false,
+          "fonte": "Cronache della Campania / Il Messaggero",
+          "cerca_url": "https://www.google.com/search?q=Greta+Astarita+Castellammare+morta+incinta+ospedale+San+Leonardo+2026",
+          "post_x": "Greta Astarita, 33 anni, al settimo mese di gravidanza. Dimessa con un dolore all'inguine. Morta due ore dopo, insieme alla sua bambina. La Procura indaga. Qualcuno spiegherà ai familiari cos'è il commissariamento ospedaliero.",
+          "post_sito": "Greta Astarita aveva 33 anni, era al settimo mese di gravidanza con la sua seconda figlia, e si era presentata al pronto soccorso dell'ospedale San Leonardo di Castellammare di Stabia con un dolore all'inguine. Era stata visitata, rassicurata e dimessa. Due ore dopo era in coma. Poi è morta lei, e prima ancora la sua bambina. La Procura di Torre Annunziata ha aperto un'inchiesta e sequestrato le cartelle cliniche — al momento non risultano accertate responsabilità, e gli accertamenti dovranno chiarire le cause. Quello che si sa già — e che il racconto dominante tende a lasciare sullo sfondo — è il contesto strutturale: la tragedia avviene a soli tre giorni dall'arresto dell'ex primaria di ginecologia dello stesso ospedale per il decesso di un neonato avvenuto due anni fa in sala parto. La causa strutturale rimossa è quella di un sistema sanitario campano che porta i segni di anni di commissariamento, di carenze di personale, di ospedali sotto pressione cronica. Senza questo contesto, ogni indagine rischia di diventare la ricerca di un singolo colpevole invece che di una responsabilità collettiva e politica. I familiari chiedono verità: è il minimo che meritano.",
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0"
+        },
+        {
+          "categoria": "Scienza",
+          "titolo": "Nobel per la Chimica 2026 a Kagan e Soai: come una molecola impara a scegliere la propria forma",
+          "slug": "nobel-chimica-2026-kagan-soai-sintesi-asimmetrica-autocatalisi",
+          "tag": [
+            "nobel",
+            "chimica",
+            "farmaci",
+            "ricerca"
+          ],
+          "evidenza": false,
+          "fonte": "Il Fatto Quotidiano / Il Post",
+          "cerca_url": "https://www.google.com/search?q=Nobel+Chimica+2026+Kagan+Soai+sintesi+asimmetrica",
+          "post_x": "Nobel Chimica 2026 a Kagan e Soai per l'autocatalisi asimmetrica. Le loro scoperte sono «decisive per chi progetta farmaci». Chi produce quei farmaci e quanto li fa pagare resta, ovviamente, un dettaglio.",
+          "post_sito": "Il Nobel per la Chimica 2026 premia Henri B. Kagan e Kenso Soai per aver risolto uno dei misteri più antichi della biochimica: come mai gli organismi viventi utilizzano solo una delle due forme speculari delle molecole organiche, e come questa asimmetria possa nascere e amplificarsi spontaneamente. La «reazione di Soai» — secondo dati pubblicati da fonti scientifiche — è in grado di amplificare un eccesso enantiomerico iniziale di appena lo 0,00005% fino a oltre il 99,5% in tre cicli. Sul piano pratico, la motivazione dell'Accademia svedese è esplicita: le scoperte sono decisive per chi progetta reazioni nella produzione di farmaci, aromi e nuovi materiali. Beneficio taciuto: l'industria farmaceutica globale vale migliaia di miliardi di dollari e la sintesi asimmetrica è alla base di moltissimi principi attivi brevettati. Il Nobel incorona decenni di ricerca accademica — spesso finanziata con fondi pubblici — i cui frutti commerciali sono stati monopolizzati da grandi gruppi privati. La domanda su chi guadagna quando una scoperta premiata a Stoccolma diventa una molecola sul mercato non è retorica: è la domanda che il coro mediatico non fa mai.",
+          "editoriale": false,
+          "redattore": "Il Metodico 1.0"
+        },
+        {
+          "categoria": "AI",
+          "titolo": "Editori e musicisti all'assalto dell'Europa: «L'AI usa i nostri contenuti senza pagare»",
+          "slug": "editori-musicisti-europa-ai-copyright-contenuti-gratuiti",
+          "tag": [
+            "intelligenza-artificiale",
+            "copyright",
+            "editori",
+            "europa"
+          ],
+          "evidenza": false,
+          "fonte": "Editoria.tv",
+          "cerca_url": "https://www.google.com/search?q=editori+musicisti+Europa+AI+copyright+contenuti+ottobre+2026",
+          "post_x": "Editori e case musicali chiedono all'Europa di fermare l'AI che usa i loro contenuti gratis. Dimenticano di aver fatto la stessa cosa con Google per vent'anni. Ma questa volta i ricavi vanno ad altri, e cambia tutto.",
+          "post_sito": "La battaglia tra industria editoriale e intelligenza artificiale si sposta in Europa: associazioni di editori e case discografiche chiedono regole più efficaci per impedire l'utilizzo non autorizzato dei propri contenuti da parte dei modelli AI, rivendicando trasparenza e remunerazione adeguata. Il problema è reale: le redazioni sostengono i costi di produzione giornalistica mentre i sistemi AI possono usare quei contenuti per costruire risposte direttamente agli utenti, erodendo il traffico che trasforma le notizie in ricavi pubblicitari. Mandante invisibile: la stessa Commissione europea ha avviato il 29 settembre 2026 una consultazione per capire se le norme attuali siano sufficienti — consultazione che avviene mentre l'AI Act è già in vigore e impone obblighi di trasparenza ai fornitori di modelli. Il coro compatto degli editori merita però una domanda scomoda: questi stessi editori hanno firmato accordi di licenza con alcune big tech e non con altre, scegliendo i propri alleati commerciali prima ancora che arrivasse il regolatore. La difesa del copyright è legittima; va verificato quando diventa anche difesa di rendite di posizione.",
+          "editoriale": false,
+          "redattore": "Il Futurologo 1.0"
+        },
+        {
+          "categoria": "Wellness",
+          "titolo": "Milano Wellness Week: una settimana di yoga e pilates gratuiti. L'industria del benessere ringrazia",
+          "slug": "milano-wellness-week-yoga-pilates-gratuiti-industria-benessere",
+          "tag": [
+            "wellness",
+            "milano",
+            "benessere",
+            "marketing"
+          ],
+          "evidenza": false,
+          "fonte": "Panorama",
+          "cerca_url": "https://www.google.com/search?q=Wellness+Week+Milano+ottobre+2026+attivita+gratuite",
+          "post_x": "Milano Wellness Week: una settimana di attività gratuite su yoga, pilates e longevità. Gratis, finché non compri il corso, l'abbonamento, l'integratore o la membership alla community. Il benessere è gratuito. L'accesso al benessere no.",
+          "post_sito": "Si conclude oggi a Milano la terza edizione della Wellness Week, una settimana di attività gratuite — yoga, pilates, walking, pratiche olistiche — ideata dalla community di Licia Florio e distribuita in tutta la città. L'iniziativa ha un valore genuino di accessibilità, e va riconosciuto. Ma il bastian contrario fa notare che ogni «settimana gratuita» del benessere funziona come un campione omaggio: abbassa la soglia di ingresso per poi rialzarla con abbonamenti, prodotti e sessioni a pagamento. Il mercato globale del wellness vale centinaia di miliardi di dollari e cresce ogni anno, mentre i servizi pubblici di salute mentale sono in crisi strutturale in tutta Italia. Ottobre è anche il mese dedicato alla prevenzione del tumore al seno — e qui l'industria beauty si affianca ad AIRC con campagne solidali che generano visibilità e vendite insieme. Nulla di scandaloso, ma utile sapere che «fare del bene» e «fare affari» non si escludono mai, nel wellness come altrove.",
+          "editoriale": false,
+          "redattore": "Il Life Coach 1.0"
+        },
+        {
+          "categoria": "Cultura",
+          "titolo": "Rai 1 in prima serata con Biagio Conte, il Middle East Now a Firenze si chiude con l'Afghanistan: la cultura che non fa rumore",
+          "slug": "biagio-conte-rai-middle-east-now-firenze-cultura-invisibile",
+          "tag": [
+            "cultura",
+            "cinema",
+            "rai",
+            "medio-oriente"
+          ],
+          "evidenza": false,
+          "fonte": "L'Opinionista / Firenze Today",
+          "cerca_url": "https://www.google.com/search?q=Middle+East+Now+Firenze+2026+Writing+Hawa+Biagio+Conte+Rai+1",
+          "post_x": "Rai 1 manda in onda la vita di Biagio Conte mentre a Firenze il Middle East Now chiude con un documentario sull'Afghanistan di una regista che non può più girare film. La cultura che conta va in prima serata. Quella scomoda va nei festival.",
+          "post_sito": "Domenica 11 ottobre il palinsesto culturale italiano si divide in due mondi paralleli che non si toccano. Su Rai 1, in prima serata, il film tv dedicato a Biagio Conte, missionario laico palermitano — storia edificante, nessun rischio, pubblico garantito. A Firenze, al Cinema La Compagnia, il Middle East Now chiude la sua 17ª edizione con la prima di «Writing Hawa», documentario dell'afgana Najiba Noori che racconta il coraggio di una donna in un paese dove le donne non possono più fare cinema né andare a scuola. Trentasei film e documentari, mostre, performance — e pochissima attenzione mediatica nazionale. Beneficio taciuto: il sistema televisivo pubblico finanzia con soldi di tutti i contenuti che non disturbano nessuno, mentre la cultura che interroga — quella mediorientale, quella scomoda, quella che parla di guerra vera e non di eroismi consolatori — sopravvive grazie a festival finanziati a fatica da fondazioni e contributi locali. La distribuzione dell'attenzione culturale non è neutrale: riflette esattamente quali storie un sistema vuole raccontare e quali preferisce tenere in circuiti dove fanno meno rumore.",
+          "editoriale": false,
+          "redattore": "Il Letterato 1.0"
+        }
+      ]
+    },
+    {
       "data": "2026-10-10",
       "post": [
         {
@@ -3941,121 +4123,7 @@
           "redattore": "L'Osservatore 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-09-04",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Witkoff e Kushner da Mosca a Kiev: la pace in Ucraina si negozia nei corridoi di Trump",
-          "slug": "witkoff-kushner-mosca-kiev-negoziati-ucraina-trump",
-          "tag": [
-            "ucraina",
-            "russia",
-            "trump",
-            "negoziati"
-          ],
-          "evidenza": true,
-          "fonte": "ANSA / Formiche",
-          "cerca_url": "https://www.google.com/search?q=Witkoff+Kushner+Mosca+Kiev+negoziati+Ucraina+settembre+2026",
-          "post_x": "Prima Mosca, poi Kiev. Witkoff e Kushner fanno il giro delle capitali in guerra — nell'ordine giusto, cioè quello che fa capire chi comanda davvero il tavolo. #Ucraina #Trump",
-          "post_sito": "Gli inviati di Trump, Steve Witkoff e Jared Kushner, visiteranno prima Mosca e poi Kiev il 5 e 6 settembre: l'ordine delle tappe non è casuale. Per Zelensky sarà la prima visita degli americani in Ucraina, dopo che Witkoff ha già accumulato otto missioni a Mosca — dettaglio che il racconto dominante sulla 'mediazione equilibrata' tende a glissare. Il mandante invisibile di questa diplomazia non è il Dipartimento di Stato, ma un genero di presidente e un promotore immobiliare, entrambi privi di incarichi diplomatici formali eppure capaci di muoversi tra Putin e Zelensky come agenti di un accordo di cui ancora non si conoscono le clausole. Nel frattempo la guerra continua: attacchi russi su Odessa, droni ucraini su Sochi, una nave russa in fiamme nel Mar Nero. Chi ci guadagna da un negoziato gestito fuori dai canali istituzionali? Le industrie della difesa — che fatturano ogni giorno di conflitto — e chi, a guerra finita, si troverà in pole position per la ricostruzione dell'Ucraina, stimata in centinaia di miliardi.",
-          "editoriale": true,
-          "prospettive": [
-            {
-              "etichetta": "La versione ucraina",
-              "testo": "Zelensky ha annunciato con cauto ottimismo le date provvisorie degli incontri, sottolineando che l'Ucraina si sta preparando a 'discussioni sostanziali'. Per Kiev, la presenza americana attiva al tavolo è considerata una condizione imprescindibile per qualsiasi accordo: il capo di staff dell'ufficio presidenziale Budanov ha dichiarato che senza Washington la ripresa dei negoziati diretti è impraticabile. La diffidenza verso le intenzioni del Cremlino resta alta, nonostante le aperture verbali di Putin."
-            },
-            {
-              "etichetta": "La posizione russa",
-              "testo": "Il Cremlino ha definito Witkoff e Kushner 'sempre ospiti graditi a Mosca'. Putin ha evocato la possibilità di trattative costruttive, accusando però Zelensky di ostacolare il negoziato con le minacce ai voli civili russi. Mosca continua a condurre attacchi militari in parallelo alla diplomazia, segnale che non considera le conversazioni come una sospensione delle operazioni belliche."
-            },
-            {
-              "etichetta": "Il nodo diplomatico",
-              "testo": "Witkoff e Kushner non sono diplomatici di carriera: il primo è un investitore immobiliare, il secondo è il genero del presidente. La loro centralità nel processo negoziale bypassa i canali tradizionali del Dipartimento di Stato e della NATO, sollevando interrogativi sulla trasparenza degli impegni che potrebbero essere presi. L'Europa, nel frattempo, rimane ai margini di un tavolo che riguarda direttamente la sua sicurezza."
-            },
-            {
-              "etichetta": "Gli interessi economici sullo sfondo",
-              "testo": "Un eventuale accordo di pace aprirebbe immediatamente la questione della ricostruzione ucraina, stimata da più fonti in centinaia di miliardi di euro. I soggetti coinvolti nei negoziati informali potrebbero trovarsi in una posizione privilegiata nella distribuzione di questi contratti. Parallelamente, la crisi Iran-USA tiene il prezzo del petrolio su livelli elevati, e ogni de-escalation — o escalation — in un teatro di guerra influenza direttamente i mercati energetici globali."
-            }
-          ],
-          "implicazioni": "Se le visite di Witkoff e Kushner producono un'intesa preliminare, si aprirebbe una fase di negoziato formale che potrebbe ridefinire i confini e le garanzie di sicurezza dell'Ucraina. Un accordo gestito fuori dai canali NATO e UE rischierebbe di essere percepito come imposto, con effetti destabilizzanti sulla coesione dell'alleanza occidentale. In caso di fallimento, la guerra proseguirebbe con un'escalation militare già in corso e un'ulteriore pressione sui mercati energetici.",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Governo Meloni: 1.413 giorni, record di longevità e opuscolo celebrativo a Bari",
-          "slug": "governo-meloni-record-longevita-1413-giorni-bari",
-          "tag": [
-            "meloni",
-            "governo",
-            "record",
-            "fratelli-d-italia"
-          ],
-          "evidenza": false,
-          "fonte": "Today.it / Il Sole 24 Ore",
-          "cerca_url": "https://www.google.com/search?q=governo+Meloni+record+longevita+1413+giorni+Bari+settembre+2026",
-          "post_x": "1.413 giorni di governo. FdI festeggia a Bari con un opuscolo di 28 pagine di risultati. Berlusconi II è battuto. Mancano solo le riforme, la crescita, i salari e la sanità, ma quelle probabilmente sono nelle pagine 29 e oltre. #Meloni #record",
-          "post_sito": "Oggi il governo Meloni diventa il più longevo della storia repubblicana, superando il Berlusconi II fermo a 1.412 giorni: Fratelli d'Italia celebra il traguardo a Bari con una manifestazione e un opuscolo di ventotto pagine di 'record e risultati'. Lo slogan scelto è 'Il Governo più stabile, l'Italia più forte' — la stabilità come argomento politico in sé, slegata dai risultati concreti. Il coro compatto dei media d'area inneggia alla longevità come sinonimo di efficacia: ma la storia della Repubblica è piena di governi brevi che hanno lasciato tracce profonde, e di governi lunghi che hanno lasciato solo debito. Le opposizioni — Schlein parla di 'quattro anni buttati', Conte di grandi riforme mancate — offrono la contro-narrazione speculare, altrettanto inutile. La domanda che nessuno pone è più scomoda: chi ha davvero beneficiato di questa stabilità? Quali interessi economici e di potere — dalle grandi utility ai fondi di investimento presenti al Forum Ambrosetti di Cernobbio, inaugurato oggi con la presenza di quattro ministri — trovano nella continuità di governo la garanzia migliore per i propri affari?",
-          "editoriale": false,
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "BCE dà il via libera: MPS assorbe Mediobanca, il risiko bancario italiano entra nella fase decisiva",
-          "slug": "bce-via-libera-mps-mediobanca-fusione-risiko-bancario",
-          "tag": [
-            "mps",
-            "mediobanca",
-            "banche",
-            "risiko-bancario"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Il Sole 24 Ore / Teleborsa",
-          "cerca_url": "https://www.google.com/search?q=BCE+via+libera+MPS+Mediobanca+fusione+settembre+2026",
-          "post_x": "La BCE benedice l'incorporazione di Mediobanca in MPS. Un'operazione da quasi 14 miliardi che nessuno ha sollecitato né concordato preventivamente — stando alle dichiarazioni ufficiali. Curioso come funziona la finanza spontanea. #MPS #Mediobanca #banche",
-          "post_sito": "La Banca Centrale Europea ha autorizzato la fusione per incorporazione di Mediobanca in Monte dei Paschi di Siena: Rocca Salimbeni, che già controlla l'86,3% di Mediobanca dopo un'OPA da quasi 14 miliardi di euro, potrà ora portare l'operazione all'assemblea del 29 ottobre. Il beneficio taciuto è nella geometria di potere che si sta costruendo: l'ingresso nel CdA di Alessandro Caltagirone — uno dei grandi azionisti della finanza italiana, con interessi che spaziano dalle costruzioni all'editoria — è stato autorizzato contestualmente dalla BCE. MPS punta anche a lanciare OPS su Banco BPM e Banca Generali, disegnando un polo bancario-assicurativo di dimensioni inedite. Il mandante invisibile di questa partita non è il management senese, ma una rete di azionisti, correnti politiche e interessi industriali che si intreccia da decenni attorno alla banca più antica del mondo — quella stessa banca che lo Stato italiano ha salvato con miliardi di denaro pubblico tra il 2017 e il 2022, e che ora diventa la leva di una grande concentrazione di potere finanziario privato.",
-          "editoriale": false,
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "L'Italia torna ai Mondiali di basket femminile dopo 32 anni: esordio contro la Cechia a Berlino",
-          "slug": "italia-mondiali-basket-femminile-2026-berlino-32-anni",
-          "tag": [
-            "basket-femminile",
-            "mondiali",
-            "azzurre",
-            "berlino"
-          ],
-          "evidenza": false,
-          "fonte": "Il Post / OA Sport",
-          "cerca_url": "https://www.google.com/search?q=Italia+Mondiali+basket+femminile+2026+Berlino+Cechia+esordio",
-          "post_x": "32 anni. Tanti ne sono passati dall'ultima volta che l'Italia ha giocato un Mondiale di basket femminile. Stasera a Berlino si ricomincia. In chiaro su Rai 2 alle 20:15 — sì, gratis, niente abbonamenti. Qualcuno avvisi i responsabili dei palinsesti che esistono altri sport. #Azzurre #FIBAWWC2026",
-          "post_sito": "Questa sera a Berlino, alla Max-Schmeling-Halle, la nazionale italiana di basket femminile torna a giocare una partita in un Mondiale di categoria: l'ultima volta era il 1994, trentadue anni fa. Le azzurre del coach Andrea Capobianco affrontano la Cechia nel Girone D — lo stesso girone di USA e Cina, due delle squadre più forti del pianeta. La partita è trasmessa in chiaro su Rai 2 e in streaming su RaiPlay, oltre che su Sky Sport Basket per gli abbonati. Il ritorno alle finali mondiali arriva dopo il bronzo agli Europei 2025 e una qualificazione conquistata battendo Porto Rico, Nuova Zelanda, Spagna e Senegal: un percorso che merita attenzione molto al di là del singolo risultato. Il conto dietro la medaglia, in questo caso, è positivo: generazioni di giocatrici che hanno lavorato nell'ombra del calcio maschile, con strutture spesso precarie e visibilità quasi nulla, hanno costruito un'eccellenza silenziosa. Stasera l'occasione di farla vedere a chi non sapeva nemmeno che esistesse.",
-          "editoriale": false,
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Femminicidio sull'A1 a Barberino del Mugello: Lorena Isceri gettata da un viadotto dall'ex compagno",
-          "slug": "femminicidio-a1-barberino-mugello-lorena-isceri-viadotto",
-          "tag": [
-            "femminicidio",
-            "violenza-sulle-donne",
-            "toscana",
-            "cronaca"
-          ],
-          "evidenza": false,
-          "fonte": "La Nazione / Sky TG24",
-          "cerca_url": "https://www.google.com/search?q=femminicidio+Barberino+Mugello+A1+Lorena+Isceri+viadotto+settembre+2026",
-          "post_x": "Lorena Isceri, 45 anni, rapita nel garage di casa, chiusa nel bagagliaio, lanciata da un viadotto dell'A1. Ha chiamato il 112 dal bagagliaio. È ancora cronaca nera, non ancora una politica strutturale di prevenzione. #femminicidio",
-          "post_sito": "Lorena Isceri, 45 anni, è stata aggredita nel garage della sua abitazione a Firenze, chiusa nel bagagliaio di un'auto e trasportata sull'autostrada A1, dove è stata lanciata dal viadotto Alteta nei pressi di Barberino del Mugello dall'ex compagno Federico Vella, 36 anni, che si è poi tolto la vita gettandosi nel vuoto. Negli ultimi istanti di vita, Lorena era riuscita a chiamare il 112 dal bagagliaio: la polizia stradale l'ha trovata già senza vita. La causa strutturale rimossa da ogni ciclo di indignazione è sempre la stessa: in Italia non esiste ancora un sistema organico di prevenzione della violenza di genere, con centri antiviolenza cronicamente sottofinanziati, ordini di allontanamento spesso privi di controllo effettivo e formazione insufficiente per chi riceve le denunce. Ogni femminicidio viene trattato come episodio individuale — il mostro, il raptus, il caso isolato — mentre i dati mostrano un pattern sistematico che attraversa tutte le classi sociali e geografiche. La risposta istituzionale che si rinnova puntualmente è quella dell'indignazione a costo zero.",
-          "editoriale": false,
-          "redattore": "L'Osservatore 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-10-10T07:19:56.061113+00:00"
+  "ultimo_aggiornamento": "2026-10-11T07:20:08.817232+00:00"
 }

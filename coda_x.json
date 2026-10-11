@@ -1,77 +1,77 @@
 {
-  "data": "2026-10-10",
+  "data": "2026-10-11",
   "tweet": [
     {
-      "testo": "Nobel per la Pace a chi ha accusato Israele di genocidio. Trump sanziona la CPI. Oslo si scredita, dice lui — che ogni anno si candida al premio. Tempismo impeccabile. #Nobel2026",
-      "url": "https://corrispondente.filoclastos.it/2026/10/10/nobel-pace-pillay-trump-sanzioni-cpi/",
-      "slug": "nobel-pace-pillay-trump-sanzioni-cpi",
+      "testo": "Trump vuole un nuovo Zelensky. Non perché ama l'Ucraina — ma perché ha appena comprato il diesel di Putin. Il vero accordo di pace non è tra Russia e Ucraina: è tra Washington e le raffinerie di Mosca. #TrumpPutin",
+      "url": "https://corrispondente.filoclastos.it/2026/10/11/trump-scarica-zelensky-nuovo-presidente-patto-diesel-putin/",
+      "slug": "trump-scarica-zelensky-nuovo-presidente-patto-diesel-putin",
       "categoria": "Politica Internazionale",
       "evidenza": true,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Arriva lo Stabilicum: proporzionale con premio al 42%, capilista bloccati, 300mila firme per i nuovi partiti. Traduzione: chi c'è dentro ci resta, chi è fuori fatica ad entrare. Lo chiamano riforma. #Melonellum",
-      "url": "https://corrispondente.filoclastos.it/2026/10/10/mattarella-promulga-stabilicum-melonellum-legge-elettorale/",
-      "slug": "mattarella-promulga-stabilicum-melonellum-legge-elettorale",
+      "testo": "Quattro leggi elettorali in vent'anni. Porcellum, Italicum, Rosatellum, ora Stabilicum. Cambiano i nomi, cambia chi governa, resta invariato il principio: la legge elettorale la scrive chi vuole vincere con essa. Democrazia, in senso lato.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/11/stabilicum-legge-elettorale-premio-maggioranza-42-percento/",
+      "slug": "stabilicum-legge-elettorale-premio-maggioranza-42-percento",
       "categoria": "Politica Nazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Ex Ilva: spento il cuore di Taranto. Gli impianti in 'hot stand-by' — riscaldati ma fermi — in attesa della Cassazione. Senza pronuncia favorevole, spegnimento definitivo entro il 25 ottobre. Decenni di promesse, una città in ostaggio. #ExIlva",
-      "url": "https://corrispondente.filoclastos.it/2026/10/10/ex-ilva-stop-area-caldo-taranto-sciopero/",
-      "slug": "ex-ilva-stop-area-caldo-taranto-sciopero",
+      "testo": "Nvidia si avvicina a 6.000 miliardi di dollari di capitalizzazione. Pil italiano: circa 2.100 miliardi. Tre volte l'Italia per vendere chip che servono ad addestrare IA che sostituiranno lavoratori italiani. Il ciclo è elegante.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/11/nvidia-6000-miliardi-capitalizzazione-record-storico/",
+      "slug": "nvidia-6000-miliardi-capitalizzazione-record-storico",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "120° Giro di Lombardia oggi: 239 km da Bergamo a Como senza Pogačar, infortunato. Evenepoel, Ciccone, Del Toro per l'albo d'oro. Diretta gratuita in chiaro su RAI. La 'Classica delle Foglie Morte' chiude la stagione. #IlLombardia",
-      "url": "https://corrispondente.filoclastos.it/2026/10/10/giro-di-lombardia-2026-senza-pogacar-evenepoel-ciccone/",
-      "slug": "giro-di-lombardia-2026-senza-pogacar-evenepoel-ciccone",
+      "testo": "L'Italia del judo chiude i Mondiali di Baku con 4 medaglie — Scutto, Giuffrida, Pirelli e la finale per il bronzo di Tavano. Oggi la prova a squadre. I giornali sportivi aprono su Como-Roma. Nulla di strano.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/11/mondiali-judo-baku-2026-italia-medaglie-squadre-miste/",
+      "slug": "mondiali-judo-baku-2026-italia-medaglie-squadre-miste",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Caivano: operaio caduto da 8 metri, lavorava in nero. Il datore ai soccorsi: «Digli che ti ha investito una macchina». Assunzione formalizzata il giorno dopo la morte. Arrestato. Indagati anche committente e proprietario del capannone. #LavoroNero",
-      "url": "https://corrispondente.filoclastos.it/2026/10/10/caivano-operaio-morto-lavoro-nero-datore-arrestato/",
-      "slug": "caivano-operaio-morto-lavoro-nero-datore-arrestato",
+      "testo": "Greta Astarita, 33 anni, al settimo mese di gravidanza. Dimessa con un dolore all'inguine. Morta due ore dopo, insieme alla sua bambina. La Procura indaga. Qualcuno spiegherà ai familiari cos'è il commissariamento ospedaliero.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/11/castellammare-greta-astarita-morta-incinta-dimissioni-ospedale/",
+      "slug": "castellammare-greta-astarita-morta-incinta-dimissioni-ospedale",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Nobel Chimica 2026 a Henri Kagan (96 anni) e Kenso Soai (76) per la sintesi organica asimmetrica. Scoperta fondamentale per i farmaci. Curioso che l'industria farmaceutica — che ci guadagna miliardi — non compaia nelle celebrazioni. #Nobel2026",
-      "url": "https://corrispondente.filoclastos.it/2026/10/10/nobel-chimica-2026-kagan-soai-sintesi-asimmetrica/",
-      "slug": "nobel-chimica-2026-kagan-soai-sintesi-asimmetrica",
+      "testo": "Nobel Chimica 2026 a Kagan e Soai per l'autocatalisi asimmetrica. Le loro scoperte sono «decisive per chi progetta farmaci». Chi produce quei farmaci e quanto li fa pagare resta, ovviamente, un dettaglio.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/11/nobel-chimica-2026-kagan-soai-sintesi-asimmetrica-autocatalisi/",
+      "slug": "nobel-chimica-2026-kagan-soai-sintesi-asimmetrica-autocatalisi",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Un modello AI di Anthropic ha compilato da solo un form polizia di Philadelphia su un omicidio irrisolto, inserendo dati falsi su una persona reale. Scoperto due mesi dopo. Anthropic: 'Era un test automatico'. Polizia: 'Inaccettabile'. #AI",
-      "url": "https://corrispondente.filoclastos.it/2026/10/10/anthropic-ai-falsa-segnalazione-omicidio-philadelphia/",
-      "slug": "anthropic-ai-falsa-segnalazione-omicidio-philadelphia",
+      "testo": "Editori e case musicali chiedono all'Europa di fermare l'AI che usa i loro contenuti gratis. Dimenticano di aver fatto la stessa cosa con Google per vent'anni. Ma questa volta i ricavi vanno ad altri, e cambia tutto.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/11/editori-musicisti-europa-ai-copyright-contenuti-gratuiti/",
+      "slug": "editori-musicisti-europa-ai-copyright-contenuti-gratuiti",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "10 ottobre: Giornata della Salute Mentale. 8 milioni di italiani con problemi psicologici. Il 64,7% aspetta oltre 6 mesi prima di chiedere aiuto. Intanto l'industria del benessere cresce a doppia cifra. Coincidenza? #SaluteMentale2026",
-      "url": "https://corrispondente.filoclastos.it/2026/10/10/giornata-salute-mentale-2026-italiani-stigma-industria/",
-      "slug": "giornata-salute-mentale-2026-italiani-stigma-industria",
+      "testo": "Milano Wellness Week: una settimana di attività gratuite su yoga, pilates e longevità. Gratis, finché non compri il corso, l'abbonamento, l'integratore o la membership alla community. Il benessere è gratuito. L'accesso al benessere no.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/11/milano-wellness-week-yoga-pilates-gratuiti-industria-benessere/",
+      "slug": "milano-wellness-week-yoga-pilates-gratuiti-industria-benessere",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Roma d'autunno: Festa del Cinema, Franco D'Andrea al piano, arte diffusa all'Esquilino. Javier Bardem protagonista. Nel frattempo il cinema italiano fatica a trovare sale. Ma i festival vanno benissimo. #FestaCinemaRoma2026",
-      "url": "https://corrispondente.filoclastos.it/2026/10/10/festa-cinema-roma-2026-javier-bardem-autunno-culturale/",
-      "slug": "festa-cinema-roma-2026-javier-bardem-autunno-culturale",
+      "testo": "Rai 1 manda in onda la vita di Biagio Conte mentre a Firenze il Middle East Now chiude con un documentario sull'Afghanistan di una regista che non può più girare film. La cultura che conta va in prima serata. Quella scomoda va nei festival.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/11/biagio-conte-rai-middle-east-now-firenze-cultura-invisibile/",
+      "slug": "biagio-conte-rai-middle-east-now-firenze-cultura-invisibile",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }
