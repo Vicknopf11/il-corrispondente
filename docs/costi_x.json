@@ -1,6 +1,14 @@
 {
   "pubblicazioni": [
     {
+      "data": "2026-10-11",
+      "slug": "trump-scarica-zelensky-nuovo-presidente-patto-diesel-putin",
+      "categoria": "Politica Internazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
       "data": "2026-10-10",
       "slug": "festa-cinema-roma-2026-javier-bardem-autunno-culturale",
       "categoria": "Cultura",
