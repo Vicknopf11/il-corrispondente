@@ -1,22 +1,6 @@
 {
-  "generato": "2026-10-11T11:31:00.236671+00:00",
+  "generato": "2026-10-11T17:30:57.398386+00:00",
   "item": [
-    {
-      "sottocategoria": "Combattimento",
-      "tipo": "notizia",
-      "titolo": "Sfidò Tyson, Moorer, Holyfield, Klitschko: Botha, il bisonte bianco che non temeva le leggende",
-      "link": "https://www.gazzetta.it/fighting/pugilato/07-10-2026/francois-botha-il-bisonte-bianco-che-mise-alla-prova-i-grandi-campioni.shtml",
-      "fonte": "Gazzetta — Fighting",
-      "data_evento": "2026-10-07"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Torna la grande classica: è Milano-Bolzano 14 anni dopo. Viaggio nella sfida più calda d'Italia",
-      "link": "https://www.gazzetta.it/Sport-Invernali/10-10-2026/hockey-milano-bolzano-tornano-a-sfidarsi-14-anni-dopo-4mila-alla-fiera-ice-arena-di-rho.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-10-10"
-    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
@@ -40,6 +24,22 @@
       "link": "https://www.gazzetta.it/Atletica/10-10-2026/stano-raccoglie-20-000-euro-per-beneficenza.shtml",
       "fonte": "Gazzetta — Atletica",
       "data_evento": "2026-10-10"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Sinner si affida a Schoenhuber, il medico del miracolo di Goggia: obiettivo rientro nel 2027",
+      "link": "https://www.gazzetta.it/Tennis/ATP/11-10-2026/sinner-si-affida-a-schoenhuber-il-medico-del-miracolo-di-goggia-obiettivo-rientro-2027.shtml",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-10-11"
+    },
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Pétanque, Dagati re d’Europa! L’Italia fa festa con tre medaglie",
+      "link": "https://www.gazzetta.it/bocce/08-10-2026/bocce-petanque-dagati-re-d-europa-l-italia-fa-festa-con-tre-medaglie.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-10-08"
     }
   ]
 }
