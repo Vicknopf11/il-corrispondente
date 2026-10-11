@@ -97,6 +97,12 @@ inaffidabilità sugli orari).
    una tantum, da lanciare in locale, per aggiungere cambio e dettaglio dei
    costi alle voci registrate prima dell'introduzione di questi campi.
 
+10. **`report_x_settimanale.py`** — legge le visualizzazioni degli ultimi 7
+    giorni dei post su X (API, a pagamento per post: circa 30 centesimi al
+    massimo per lancio), le abbina agli articoli del sito e riassume per
+    categoria, con e senza link, e i post migliori. Scrive solo nel Summary
+    della run di Actions; non tocca il repo.
+
 ## Workflow GitHub Actions
 
 Tutti triggerati via `repository_dispatch` da job schedulati su
@@ -111,6 +117,8 @@ cron-job.org (non più dallo scheduler nativo GitHub):
   settimanale.
 - **`aggiorna-sport.yml`** — 3 volte al giorno: rassegna sportiva, nessun
   secret Anthropic richiesto.
+- **`report-x.yml`** — a richiesta (o settimanale da cron-job.org): il report
+  delle visualizzazioni su X, nel Summary della run.
 - **`sintesi-longitudinale.yml`** — settimanale: Stadio A, usa il token
   automatico `GITHUB_TOKEN` di Actions (permesso `issues: write`),
   nessun secret aggiuntivo.
