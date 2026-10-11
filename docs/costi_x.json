@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-11",
+      "slug": "milano-wellness-week-yoga-pilates-gratuiti-industria-benessere",
+      "categoria": "Wellness",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-11",
       "slug": "editori-musicisti-europa-ai-copyright-contenuti-gratuiti",
       "categoria": "AI",
       "evidenza": false,
