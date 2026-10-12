@@ -1,77 +1,77 @@
 {
-  "data": "2026-10-11",
+  "data": "2026-10-12",
   "tweet": [
     {
-      "testo": "Trump vuole un nuovo Zelensky. Non perché ama l'Ucraina — ma perché ha appena comprato il diesel di Putin. Il vero accordo di pace non è tra Russia e Ucraina: è tra Washington e le raffinerie di Mosca. #TrumpPutin",
-      "url": "https://corrispondente.filoclastos.it/2026/10/11/trump-scarica-zelensky-nuovo-presidente-patto-diesel-putin/",
-      "slug": "trump-scarica-zelensky-nuovo-presidente-patto-diesel-putin",
+      "testo": "Trump annuncia la tregua energetica tra Russia e Ucraina. Zelensky: «Non ne sapevo nulla». Mosca: stessa cosa. Nel frattempo le raffinerie bruciano. La pace fai-da-te. #Ucraina #Trump",
+      "url": "https://corrispondente.filoclastos.it/2026/10/12/trump-tregua-energetica-ucraina-zelensky-non-informato/",
+      "slug": "trump-tregua-energetica-ucraina-zelensky-non-informato",
       "categoria": "Politica Internazionale",
       "evidenza": true,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Quattro leggi elettorali in vent'anni. Porcellum, Italicum, Rosatellum, ora Stabilicum. Cambiano i nomi, cambia chi governa, resta invariato il principio: la legge elettorale la scrive chi vuole vincere con essa. Democrazia, in senso lato.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/11/stabilicum-legge-elettorale-premio-maggioranza-42-percento/",
-      "slug": "stabilicum-legge-elettorale-premio-maggioranza-42-percento",
+      "testo": "Lo Stabilicum è legge. Meloni lo chiama riforma, l'opposizione la chiama Melonellum. L'unica certezza: anche il Porcellum e l'Italicum erano legge, fino a quando la Consulta li ha fatti a pezzi. Déjà vu. #Stabilicum #leggeelettorale",
+      "url": "https://corrispondente.filoclastos.it/2026/10/12/stabilicum-legge-elettorale-mattarella-firma-consulta/",
+      "slug": "stabilicum-legge-elettorale-mattarella-firma-consulta",
       "categoria": "Politica Nazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Nvidia si avvicina a 6.000 miliardi di dollari di capitalizzazione. Pil italiano: circa 2.100 miliardi. Tre volte l'Italia per vendere chip che servono ad addestrare IA che sostituiranno lavoratori italiani. Il ciclo è elegante.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/11/nvidia-6000-miliardi-capitalizzazione-record-storico/",
-      "slug": "nvidia-6000-miliardi-capitalizzazione-record-storico",
+      "testo": "Ex Ilva: area a caldo di Taranto spenta. Sciopero in tutti gli stabilimenti. Il governo promette ammortizzatori sociali. Stessa scena vista nel 2019, nel 2020, nel 2021, nel 2022, nel 2023, nel 2024, nel 2025. #Ilva #Taranto",
+      "url": "https://corrispondente.filoclastos.it/2026/10/12/ex-ilva-sciopero-12-ottobre-taranto-area-caldo/",
+      "slug": "ex-ilva-sciopero-12-ottobre-taranto-area-caldo",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "L'Italia del judo chiude i Mondiali di Baku con 4 medaglie — Scutto, Giuffrida, Pirelli e la finale per il bronzo di Tavano. Oggi la prova a squadre. I giornali sportivi aprono su Como-Roma. Nulla di strano.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/11/mondiali-judo-baku-2026-italia-medaglie-squadre-miste/",
-      "slug": "mondiali-judo-baku-2026-italia-medaglie-squadre-miste",
+      "testo": "L'Italia del baseball si qualifica al Premier12: prima volta dal 2015. Vittoria 5-0 sulla Germania a Barcellona. Sogno olimpico Los Angeles 2028 ancora vivo. Notizia per cui non servono rating da calcio per esistere. #baseball #azzurri",
+      "url": "https://corrispondente.filoclastos.it/2026/10/12/italia-baseball-premier12-qualificata-2026/",
+      "slug": "italia-baseball-premier12-qualificata-2026",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Greta Astarita, 33 anni, al settimo mese di gravidanza. Dimessa con un dolore all'inguine. Morta due ore dopo, insieme alla sua bambina. La Procura indaga. Qualcuno spiegherà ai familiari cos'è il commissariamento ospedaliero.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/11/castellammare-greta-astarita-morta-incinta-dimissioni-ospedale/",
-      "slug": "castellammare-greta-astarita-morta-incinta-dimissioni-ospedale",
+      "testo": "Greta Astarita, 33 anni, di Piano di Sorrento, muore all'ospedale San Leonardo di Castellammare insieme alla bambina che portava in grembo. La Procura apre un'inchiesta. Tutto il resto è silenzio. #cronaca #Campania",
+      "url": "https://corrispondente.filoclastos.it/2026/10/12/greta-astarita-morte-castellammare-inchiesta/",
+      "slug": "greta-astarita-morte-castellammare-inchiesta",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Nobel Chimica 2026 a Kagan e Soai per l'autocatalisi asimmetrica. Le loro scoperte sono «decisive per chi progetta farmaci». Chi produce quei farmaci e quanto li fa pagare resta, ovviamente, un dettaglio.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/11/nobel-chimica-2026-kagan-soai-sintesi-asimmetrica-autocatalisi/",
-      "slug": "nobel-chimica-2026-kagan-soai-sintesi-asimmetrica-autocatalisi",
+      "testo": "Nobel per la Medicina 2026 a Deisseroth, Hegemann e Nagel per l'optogenetica: la tecnica che usa la luce per accendere e spegnere singoli neuroni. Premio 12 milioni di corone svedesi. Già in lista per trattamenti su depressione, Parkinson, cecità. Chi brevetta? #Nobel",
+      "url": "https://corrispondente.filoclastos.it/2026/10/12/nobel-medicina-2026-optogenetica-deisseroth/",
+      "slug": "nobel-medicina-2026-optogenetica-deisseroth",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Editori e case musicali chiedono all'Europa di fermare l'AI che usa i loro contenuti gratis. Dimenticano di aver fatto la stessa cosa con Google per vent'anni. Ma questa volta i ricavi vanno ad altri, e cambia tutto.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/11/editori-musicisti-europa-ai-copyright-contenuti-gratuiti/",
-      "slug": "editori-musicisti-europa-ai-copyright-contenuti-gratuiti",
+      "testo": "Amazon tratta Decart a 7 miliardi. Cinque mesi fa ne valeva 4. Anthropic si era ritirata a settembre. Il mercato AI: dove le startup diventano unicorni tra un trimestre e il successivo, e chi compra tardi paga il 75% in più. #AI #Amazon #startup",
+      "url": "https://corrispondente.filoclastos.it/2026/10/12/amazon-acquisto-decart-7-miliardi-ai-startup-israeliana/",
+      "slug": "amazon-acquisto-decart-7-miliardi-ai-startup-israeliana",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Milano Wellness Week: una settimana di attività gratuite su yoga, pilates e longevità. Gratis, finché non compri il corso, l'abbonamento, l'integratore o la membership alla community. Il benessere è gratuito. L'accesso al benessere no.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/11/milano-wellness-week-yoga-pilates-gratuiti-industria-benessere/",
-      "slug": "milano-wellness-week-yoga-pilates-gratuiti-industria-benessere",
+      "testo": "L'Italia è prima al mondo per strutture partecipanti al World Wellness Weekend: 272 sedi. Notizia vera. Domanda non posta: di quante di quelle strutture è il benessere il prodotto, e di quante il marketing del benessere? #wellness #benessere",
+      "url": "https://corrispondente.filoclastos.it/2026/10/12/world-wellness-weekend-italia-prima-strutture-2026/",
+      "slug": "world-wellness-weekend-italia-prima-strutture-2026",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Rai 1 manda in onda la vita di Biagio Conte mentre a Firenze il Middle East Now chiude con un documentario sull'Afghanistan di una regista che non può più girare film. La cultura che conta va in prima serata. Quella scomoda va nei festival.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/11/biagio-conte-rai-middle-east-now-firenze-cultura-invisibile/",
-      "slug": "biagio-conte-rai-middle-east-now-firenze-cultura-invisibile",
+      "testo": "È morta Wilma De Angelis, 96 anni. Cinque Sanremo, diciotto anni di cucina in tv su Telemontecarlo. Una vita intera davanti alle telecamere quando non esistevano i talent, i follower e i coach. Bastava saper fare le cose. Ciao, zia Wilma. #WilmaDeAngelis",
+      "url": "https://corrispondente.filoclastos.it/2026/10/12/wilma-de-angelis-morta-96-anni-sanremo-telemenu/",
+      "slug": "wilma-de-angelis-morta-96-anni-sanremo-telemenu",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }
