@@ -1,29 +1,21 @@
 {
-  "generato": "2026-10-12T11:31:03.977434+00:00",
+  "generato": "2026-10-12T17:31:00.082351+00:00",
   "item": [
     {
-      "sottocategoria": "Invernali",
+      "sottocategoria": "Acqua",
       "tipo": "notizia",
-      "titolo": "Torna la grande classica: è Milano-Bolzano 14 anni dopo. Viaggio nella sfida più calda d'Italia",
-      "link": "https://www.gazzetta.it/Sport-Invernali/10-10-2026/hockey-milano-bolzano-tornano-a-sfidarsi-14-anni-dopo-4mila-alla-fiera-ice-arena-di-rho.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-10-10"
+      "titolo": "Surf, Marta Begalli e Michael Jorge Monteiro sono i nuovi campioni italiani",
+      "link": "https://www.gazzetta.it/Sport-Vari/12-10-2026/surf-marta-begalli-e-michael-jorge-monteiro-sono-i-nuovi-campioni-italiani.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-10-12"
     },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
-      "titolo": "Champions League: il programma della seconda giornata. Le clsassifiche",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/12/champions-league-il-programma-della-seconda-giornata.-le-clsassifiche_99d1a661-a152-411a-8a4b-62ef7509077e.html",
-      "fonte": "ANSA Sport",
+      "titolo": "Ha vinto 3 ori olimpici, doveva sfidare Tyson, ora fruga tra i rifiuti per vivere: la triste parabola di Savon",
+      "link": "https://www.gazzetta.it/Sport-Vari/12-10-2026/felix-savon-campione-boxe-spazzatura-cuba.shtml",
+      "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-10-12"
-    },
-    {
-      "sottocategoria": "Acqua",
-      "tipo": "notizia",
-      "titolo": "Serena Williams diventa una Barbie: Bebe Vio, Gama, Andrade e tutte le campionesse-bambola prima di lei",
-      "link": "https://www.gazzetta.it/Tennis/storie/11-10-2026/serena-williams-barbie-campionesse-bambola/serena-williams-diventa-barbie-ma-non-e-la-sola.shtml",
-      "fonte": "Gazzetta — Nuoto e Pallanuoto",
-      "data_evento": "2026-10-11"
     },
     {
       "sottocategoria": "Squadra",
@@ -39,6 +31,14 @@
       "titolo": "Kipchoge is back! L’icona della maratona vince a Melbourne (con il record del tracciato) a quasi 42 anni",
       "link": "https://www.gazzetta.it/Atletica/12-10-2026/kipchoge-vince-melbourne-record-tracciato-42-anni.shtml",
       "fonte": "Gazzetta — Atletica",
+      "data_evento": "2026-10-12"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Alcaraz nervosissimo: \"Non posso giocare così!\". Lo sfogo dello spagnolo a Shanghai",
+      "link": "https://video.gazzetta.it/tennis/atp/video-sfogo-alcaraz-a-shanghai-non-posso-giocare-cosi/14e2ec36-def7-44b0-9d73-0f0eb8195xlk",
+      "fonte": "Gazzetta — Tennis",
       "data_evento": "2026-10-12"
     }
   ]
