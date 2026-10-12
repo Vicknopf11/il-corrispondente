@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-12",
+      "slug": "wilma-de-angelis-morta-96-anni-sanremo-telemenu",
+      "categoria": "Cultura",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-12",
       "slug": "world-wellness-weekend-italia-prima-strutture-2026",
       "categoria": "Wellness",
       "evidenza": false,
