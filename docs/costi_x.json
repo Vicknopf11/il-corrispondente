@@ -1,6 +1,14 @@
 {
   "pubblicazioni": [
     {
+      "data": "2026-10-12",
+      "slug": "trump-tregua-energetica-ucraina-zelensky-non-informato",
+      "categoria": "Politica Internazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
       "data": "2026-10-11",
       "slug": "biagio-conte-rai-middle-east-now-firenze-cultura-invisibile",
       "categoria": "Cultura",
