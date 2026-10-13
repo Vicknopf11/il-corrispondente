@@ -1,77 +1,77 @@
 {
-  "data": "2026-10-12",
+  "data": "2026-10-13",
   "tweet": [
     {
-      "testo": "Trump annuncia la tregua energetica tra Russia e Ucraina. Zelensky: «Non ne sapevo nulla». Mosca: stessa cosa. Nel frattempo le raffinerie bruciano. La pace fai-da-te. #Ucraina #Trump",
-      "url": "https://corrispondente.filoclastos.it/2026/10/12/trump-tregua-energetica-ucraina-zelensky-non-informato/",
-      "slug": "trump-tregua-energetica-ucraina-zelensky-non-informato",
+      "testo": "Trump «tregua energetica» con Mosca. Zelensky protesta, gli europei si strappano i capelli. Intanto chi vende diesel russo brinda. Soluzioni creative. #geopolitica",
+      "url": "https://corrispondente.filoclastos.it/2026/10/13/trump-sospende-sanzioni-diesel-russo-tregua-energetica/",
+      "slug": "trump-sospende-sanzioni-diesel-russo-tregua-energetica",
       "categoria": "Politica Internazionale",
-      "evidenza": true,
-      "pubblicato": true
+      "evidenza": false,
+      "pubblicato": false
     },
     {
-      "testo": "Lo Stabilicum è legge. Meloni lo chiama riforma, l'opposizione la chiama Melonellum. L'unica certezza: anche il Porcellum e l'Italicum erano legge, fino a quando la Consulta li ha fatti a pezzi. Déjà vu. #Stabilicum #leggeelettorale",
-      "url": "https://corrispondente.filoclastos.it/2026/10/12/stabilicum-legge-elettorale-mattarella-firma-consulta/",
-      "slug": "stabilicum-legge-elettorale-mattarella-firma-consulta",
+      "testo": "Salvini si dimette da segretario della Lega per potersi ricandidare segretario della Lega. È l'unico candidato. Il mondo cambia, dicono. #Lega #Salvini",
+      "url": "https://corrispondente.filoclastos.it/2026/10/13/salvini-dimissioni-segretario-lega-congresso-ottobre-2026/",
+      "slug": "salvini-dimissioni-segretario-lega-congresso-ottobre-2026",
       "categoria": "Politica Nazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Ex Ilva: area a caldo di Taranto spenta. Sciopero in tutti gli stabilimenti. Il governo promette ammortizzatori sociali. Stessa scena vista nel 2019, nel 2020, nel 2021, nel 2022, nel 2023, nel 2024, nel 2025. #Ilva #Taranto",
-      "url": "https://corrispondente.filoclastos.it/2026/10/12/ex-ilva-sciopero-12-ottobre-taranto-area-caldo/",
-      "slug": "ex-ilva-sciopero-12-ottobre-taranto-area-caldo",
+      "testo": "FMI: PIL italiano rivisto al +0,8%. Applausi. Inflazione al 3,3%. Silenzio. Il potere d'acquisto scende, i titoli di Stato salgono. Chi ha BTP brinda. #economia",
+      "url": "https://corrispondente.filoclastos.it/2026/10/13/fmi-pil-italia-rialzo-inflazione-2026/",
+      "slug": "fmi-pil-italia-rialzo-inflazione-2026",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "L'Italia del baseball si qualifica al Premier12: prima volta dal 2015. Vittoria 5-0 sulla Germania a Barcellona. Sogno olimpico Los Angeles 2028 ancora vivo. Notizia per cui non servono rating da calcio per esistere. #baseball #azzurri",
-      "url": "https://corrispondente.filoclastos.it/2026/10/12/italia-baseball-premier12-qualificata-2026/",
-      "slug": "italia-baseball-premier12-qualificata-2026",
+      "testo": "Stasera l'Italia del hockey pista sfida la Svizzera ai Mondiali di Asuncion (ore 20:30, Rai Sport gratis). Dopo il ko con la Spagna, gli azzurri di Bertolucci devono rialzarsi. Sport che esiste anche senza hashtag virali. 🏒🇮🇹",
+      "url": "https://corrispondente.filoclastos.it/2026/10/13/italia-svizzera-mondiali-hockey-pista-2026-asuncion/",
+      "slug": "italia-svizzera-mondiali-hockey-pista-2026-asuncion",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Greta Astarita, 33 anni, di Piano di Sorrento, muore all'ospedale San Leonardo di Castellammare insieme alla bambina che portava in grembo. La Procura apre un'inchiesta. Tutto il resto è silenzio. #cronaca #Campania",
-      "url": "https://corrispondente.filoclastos.it/2026/10/12/greta-astarita-morte-castellammare-inchiesta/",
-      "slug": "greta-astarita-morte-castellammare-inchiesta",
+      "testo": "Un neonato abbandonato in un sacchetto della spesa a Cinisello Balsamo. Lo ha trovato una donna con il cane. Il bambino è in terapia intensiva al Niguarda. Indagini in corso. La madre è ancora da identificare. #cronaca",
+      "url": "https://corrispondente.filoclastos.it/2026/10/13/neonato-abbandonato-sacchetto-cinisello-balsamo-2026/",
+      "slug": "neonato-abbandonato-sacchetto-cinisello-balsamo-2026",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Nobel per la Medicina 2026 a Deisseroth, Hegemann e Nagel per l'optogenetica: la tecnica che usa la luce per accendere e spegnere singoli neuroni. Premio 12 milioni di corone svedesi. Già in lista per trattamenti su depressione, Parkinson, cecità. Chi brevetta? #Nobel",
-      "url": "https://corrispondente.filoclastos.it/2026/10/12/nobel-medicina-2026-optogenetica-deisseroth/",
-      "slug": "nobel-medicina-2026-optogenetica-deisseroth",
+      "testo": "Nobel per l'Economia a Hall e Woodford per i modelli che spiegano come le banche centrali plasmano le aspettative. Utile. Soprattutto per le banche centrali. #Nobel2026 #economia",
+      "url": "https://corrispondente.filoclastos.it/2026/10/13/nobel-economia-2026-hall-woodford-modelli-stabilizzazione/",
+      "slug": "nobel-economia-2026-hall-woodford-modelli-stabilizzazione",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Amazon tratta Decart a 7 miliardi. Cinque mesi fa ne valeva 4. Anthropic si era ritirata a settembre. Il mercato AI: dove le startup diventano unicorni tra un trimestre e il successivo, e chi compra tardi paga il 75% in più. #AI #Amazon #startup",
-      "url": "https://corrispondente.filoclastos.it/2026/10/12/amazon-acquisto-decart-7-miliardi-ai-startup-israeliana/",
-      "slug": "amazon-acquisto-decart-7-miliardi-ai-startup-israeliana",
+      "testo": "FMI a Bangkok: l'AI sostiene la crescita mondiale al 3%. Ma sposta ricchezza dal lavoro al capitale. Ergo: meno tasse da salari, meno fondi per pensioni e sanità. Chi è sorpreso alzi la mano. #AI #FMI",
+      "url": "https://corrispondente.filoclastos.it/2026/10/13/fmi-ai-sposta-ricchezza-lavoro-capitale-pensioni-tasse/",
+      "slug": "fmi-ai-sposta-ricchezza-lavoro-capitale-pensioni-tasse",
       "categoria": "AI",
-      "evidenza": false,
-      "pubblicato": true
+      "evidenza": true,
+      "pubblicato": false
     },
     {
-      "testo": "L'Italia è prima al mondo per strutture partecipanti al World Wellness Weekend: 272 sedi. Notizia vera. Domanda non posta: di quante di quelle strutture è il benessere il prodotto, e di quante il marketing del benessere? #wellness #benessere",
-      "url": "https://corrispondente.filoclastos.it/2026/10/12/world-wellness-weekend-italia-prima-strutture-2026/",
-      "slug": "world-wellness-weekend-italia-prima-strutture-2026",
+      "testo": "Il 41% degli italiani indica la salute mentale come priorità sanitaria (era il 18% nel 2018). L'industria del wellness ha già il catalogo aperto. App, retreat, coaching: benvenuti nel mercato dell'ansia. #wellnessindustry",
+      "url": "https://corrispondente.filoclastos.it/2026/10/13/salute-mentale-italiani-priorita-industria-benessere-2026/",
+      "slug": "salute-mentale-italiani-priorita-industria-benessere-2026",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "È morta Wilma De Angelis, 96 anni. Cinque Sanremo, diciotto anni di cucina in tv su Telemontecarlo. Una vita intera davanti alle telecamere quando non esistevano i talent, i follower e i coach. Bastava saper fare le cose. Ciao, zia Wilma. #WilmaDeAngelis",
-      "url": "https://corrispondente.filoclastos.it/2026/10/12/wilma-de-angelis-morta-96-anni-sanremo-telemenu/",
-      "slug": "wilma-de-angelis-morta-96-anni-sanremo-telemenu",
+      "testo": "Apre la Festa del Cinema di Roma: Paolo Genovese inaugura, premi alla carriera a Javier Bardem e Julianne Moore. 13 giorni di cinema, fondi pubblici, red carpet. Il dibattito sul cinema italiano può aspettare. #FestaCinemaRoma",
+      "url": "https://corrispondente.filoclastos.it/2026/10/13/festa-cinema-roma-2026-apertura-genovese-bardem-moore/",
+      "slug": "festa-cinema-roma-2026-apertura-genovese-bardem-moore",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }
