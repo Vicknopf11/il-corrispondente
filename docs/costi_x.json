@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-13",
+      "slug": "fmi-ai-sposta-ricchezza-lavoro-capitale-pensioni-tasse",
+      "categoria": "AI",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
+      "data": "2026-10-13",
       "slug": "nobel-economia-2026-hall-woodford-modelli-stabilizzazione",
       "categoria": "Scienza",
       "evidenza": false,
