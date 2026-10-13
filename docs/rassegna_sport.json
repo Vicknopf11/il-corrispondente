@@ -1,6 +1,22 @@
 {
-  "generato": "2026-10-13T05:30:55.706882+00:00",
+  "generato": "2026-10-13T11:31:04.697190+00:00",
   "item": [
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Pétanque, Dagati re d’Europa! L’Italia fa festa con tre medaglie",
+      "link": "https://www.gazzetta.it/bocce/08-10-2026/bocce-petanque-dagati-re-d-europa-l-italia-fa-festa-con-tre-medaglie.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-10-08"
+    },
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Torna la grande classica: è Milano-Bolzano 14 anni dopo. Viaggio nella sfida più calda d'Italia",
+      "link": "https://www.gazzetta.it/Sport-Invernali/10-10-2026/hockey-milano-bolzano-tornano-a-sfidarsi-14-anni-dopo-4mila-alla-fiera-ice-arena-di-rho.shtml",
+      "fonte": "Gazzetta — Sport Invernali",
+      "data_evento": "2026-10-10"
+    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
@@ -24,22 +40,6 @@
       "link": "https://www.gazzetta.it/Rugby/10-10-2026/rugby-bledisloe-cup-agli-all-blacks-il-primo-round-wallabies-travolti-50-19.shtml",
       "fonte": "Gazzetta — Rugby",
       "data_evento": "2026-10-10"
-    },
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "Kipchoge is back! L’icona della maratona vince a Melbourne (con il record del tracciato) a quasi 42 anni",
-      "link": "https://www.gazzetta.it/Atletica/12-10-2026/kipchoge-vince-melbourne-record-tracciato-42-anni.shtml",
-      "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-10-12"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Fils è una furia: distrugge due racchette nella sconfitta contro Van de Zandschulp!",
-      "link": "https://video.gazzetta.it/tennis/atp/highlights/video-furia-fils-distrugge-due-racchette-nella-sconfitta-a-shanghai/601dc15a-3523-487d-a5eb-0f7112736xlk",
-      "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-10-12"
     }
   ]
 }
