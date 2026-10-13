@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-13",
+      "slug": "neonato-abbandonato-sacchetto-cinisello-balsamo-2026",
+      "categoria": "Cronaca",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-13",
       "slug": "italia-svizzera-mondiali-hockey-pista-2026-asuncion",
       "categoria": "Sport",
       "evidenza": false,
