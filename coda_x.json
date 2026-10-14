@@ -1,77 +1,77 @@
 {
-  "data": "2026-10-13",
+  "data": "2026-10-14",
   "tweet": [
     {
-      "testo": "Trump «tregua energetica» con Mosca. Zelensky protesta, gli europei si strappano i capelli. Intanto chi vende diesel russo brinda. Soluzioni creative. #geopolitica",
-      "url": "https://corrispondente.filoclastos.it/2026/10/13/trump-sospende-sanzioni-diesel-russo-tregua-energetica/",
-      "slug": "trump-sospende-sanzioni-diesel-russo-tregua-energetica",
+      "testo": "Russia bombarda 6 centrali elettriche a Kiev, almeno 6 morti. Contemporaneamente i «Volenterosi» europei cedono al piano Trump sulla pace. Coincidenza di tempistica o segnale che qualcuno ha già deciso chi vince? #Ucraina",
+      "url": "https://corrispondente.filoclastos.it/2026/10/14/kiev-missili-russia-resa-volenterosi-piano-trump/",
+      "slug": "kiev-missili-russia-resa-volenterosi-piano-trump",
       "categoria": "Politica Internazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Salvini si dimette da segretario della Lega per potersi ricandidare segretario della Lega. È l'unico candidato. Il mondo cambia, dicono. #Lega #Salvini",
-      "url": "https://corrispondente.filoclastos.it/2026/10/13/salvini-dimissioni-segretario-lega-congresso-ottobre-2026/",
+      "testo": "Salvini si dimette da segretario della Lega per potersi ricandidare segretario della Lega. La democrazia interna è uno sport complesso. Congresso il 24-25 ottobre, sfidanti: nessuno. #Lega #Salvini",
+      "url": "https://corrispondente.filoclastos.it/2026/10/14/salvini-dimissioni-segretario-lega-congresso-ottobre-2026/",
       "slug": "salvini-dimissioni-segretario-lega-congresso-ottobre-2026",
       "categoria": "Politica Nazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "FMI: PIL italiano rivisto al +0,8%. Applausi. Inflazione al 3,3%. Silenzio. Il potere d'acquisto scende, i titoli di Stato salgono. Chi ha BTP brinda. #economia",
-      "url": "https://corrispondente.filoclastos.it/2026/10/13/fmi-pil-italia-rialzo-inflazione-2026/",
-      "slug": "fmi-pil-italia-rialzo-inflazione-2026",
+      "testo": "Quinta legge di bilancio del governo Meloni: contenuti non definiti, coperture da sciogliere, taglio Irpef che slitta. Giorgetti aspetta Bruxelles. Nel frattempo l'aula era semideserta. Chi non aspetta nessuno? I mercati, che hanno già prezzato tutto. #Manovra",
+      "url": "https://corrispondente.filoclastos.it/2026/10/14/legge-bilancio-caos-taglio-irpef-congelato-giorgetti-bruxelles/",
+      "slug": "legge-bilancio-caos-taglio-irpef-congelato-giorgetti-bruxelles",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Stasera l'Italia del hockey pista sfida la Svizzera ai Mondiali di Asuncion (ore 20:30, Rai Sport gratis). Dopo il ko con la Spagna, gli azzurri di Bertolucci devono rialzarsi. Sport che esiste anche senza hashtag virali. 🏒🇮🇹",
-      "url": "https://corrispondente.filoclastos.it/2026/10/13/italia-svizzera-mondiali-hockey-pista-2026-asuncion/",
-      "slug": "italia-svizzera-mondiali-hockey-pista-2026-asuncion",
+      "testo": "Mourinho torna all'Olimpico da avversario. Roma-Real Madrid è stasera: in esclusiva su Amazon Prime Video (abbonamento Prime richiesto). La Champions è gratis solo nei ricordi. #RomaRealMadrid #ChampionsLeague",
+      "url": "https://corrispondente.filoclastos.it/2026/10/14/roma-real-madrid-champions-mourinho-olimpico-prime-video/",
+      "slug": "roma-real-madrid-champions-mourinho-olimpico-prime-video",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Un neonato abbandonato in un sacchetto della spesa a Cinisello Balsamo. Lo ha trovato una donna con il cane. Il bambino è in terapia intensiva al Niguarda. Indagini in corso. La madre è ancora da identificare. #cronaca",
-      "url": "https://corrispondente.filoclastos.it/2026/10/13/neonato-abbandonato-sacchetto-cinisello-balsamo-2026/",
-      "slug": "neonato-abbandonato-sacchetto-cinisello-balsamo-2026",
+      "testo": "Greta Astarita, 33 anni, morta al settimo mese di gravidanza con il suo bambino all'ospedale di Castellammare di Stabia. Dieci medici indagati per duplice omicidio colposo. L'autopsia dirà se si poteva salvare. Il sistema sanitario campano risponderà? #SanitàPubblica",
+      "url": "https://corrispondente.filoclastos.it/2026/10/14/greta-astarita-morta-gravidanza-castellammare-dieci-medici-indagati/",
+      "slug": "greta-astarita-morta-gravidanza-castellammare-dieci-medici-indagati",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Nobel per l'Economia a Hall e Woodford per i modelli che spiegano come le banche centrali plasmano le aspettative. Utile. Soprattutto per le banche centrali. #Nobel2026 #economia",
-      "url": "https://corrispondente.filoclastos.it/2026/10/13/nobel-economia-2026-hall-woodford-modelli-stabilizzazione/",
-      "slug": "nobel-economia-2026-hall-woodford-modelli-stabilizzazione",
+      "testo": "Il CNR scopre che il mare ha un «battito» acustico giorno-notte non spiegabile solo da fattori fisici. Può rivelare la salute degli ecosistemi marini. Costo: idrofoni nell'Adriatico. Peccato che a chi inquina l'Adriatico non interessi sentire il battito del paziente. #Scienza #Mare",
+      "url": "https://corrispondente.filoclastos.it/2026/10/14/mare-firma-sonora-cnr-adriatico-ecosistema/",
+      "slug": "mare-firma-sonora-cnr-adriatico-ecosistema",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "FMI a Bangkok: l'AI sostiene la crescita mondiale al 3%. Ma sposta ricchezza dal lavoro al capitale. Ergo: meno tasse da salari, meno fondi per pensioni e sanità. Chi è sorpreso alzi la mano. #AI #FMI",
-      "url": "https://corrispondente.filoclastos.it/2026/10/13/fmi-ai-sposta-ricchezza-lavoro-capitale-pensioni-tasse/",
-      "slug": "fmi-ai-sposta-ricchezza-lavoro-capitale-pensioni-tasse",
+      "testo": "Trump firma un decreto: d'ora in poi l'«Artificial Intelligence» si chiama ufficialmente «Super Intelligence» in tutti i documenti federali. Musk adegua SpaceX. La Silicon Valley si adegua. La realtà si adegua? #AI #Trump #SuperIntelligence",
+      "url": "https://corrispondente.filoclastos.it/2026/10/14/trump-decreto-super-intelligence-ai-ribattezzata/",
+      "slug": "trump-decreto-super-intelligence-ai-ribattezzata",
       "categoria": "AI",
       "evidenza": true,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Il 41% degli italiani indica la salute mentale come priorità sanitaria (era il 18% nel 2018). L'industria del wellness ha già il catalogo aperto. App, retreat, coaching: benvenuti nel mercato dell'ansia. #wellnessindustry",
-      "url": "https://corrispondente.filoclastos.it/2026/10/13/salute-mentale-italiani-priorita-industria-benessere-2026/",
-      "slug": "salute-mentale-italiani-priorita-industria-benessere-2026",
+      "testo": "Studio: frutta e verdura oggi contengono fino al 50% di vitamine e minerali in meno rispetto al 1960. Chi ci guadagna? L'industria degli integratori alimentari, che aspettava solo la notizia giusta. #Nutrizione #Wellness #Integratori",
+      "url": "https://corrispondente.filoclastos.it/2026/10/14/frutta-verdura-meno-nutrienti-50-percento-studio-2026/",
+      "slug": "frutta-verdura-meno-nutrienti-50-percento-studio-2026",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Apre la Festa del Cinema di Roma: Paolo Genovese inaugura, premi alla carriera a Javier Bardem e Julianne Moore. 13 giorni di cinema, fondi pubblici, red carpet. Il dibattito sul cinema italiano può aspettare. #FestaCinemaRoma",
-      "url": "https://corrispondente.filoclastos.it/2026/10/13/festa-cinema-roma-2026-apertura-genovese-bardem-moore/",
-      "slug": "festa-cinema-roma-2026-apertura-genovese-bardem-moore",
+      "testo": "Alla Festa del Cinema di Roma: anteprima mondiale del doc su Salman Rushdie, autore che vive sotto protezione da 37 anni per un libro. Nello stesso paese, stasera, tutti guarderanno Mourinho su Amazon Prime. La cultura si prende i suoi spazi dove può. #FestaCinema #Roma",
+      "url": "https://corrispondente.filoclastos.it/2026/10/14/festa-cinema-roma-2026-rushdie-documentario-14-ottobre/",
+      "slug": "festa-cinema-roma-2026-rushdie-documentario-14-ottobre",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }
