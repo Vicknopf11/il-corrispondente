@@ -1,29 +1,13 @@
 {
-  "generato": "2026-10-14T11:31:04.566447+00:00",
+  "generato": "2026-10-14T17:31:07.961885+00:00",
   "item": [
     {
-      "sottocategoria": "Mente e nicchia",
+      "sottocategoria": "Acqua",
       "tipo": "notizia",
-      "titolo": "Italia, caccia mondiale: azzurri della raffa favoriti in Brasile, il World Boccia Challenger a Olbia",
-      "link": "https://www.gazzetta.it/bocce/13-10-2026/bocce-italia-caccia-mondiale-raffa-in-brasile-world-boccia-challenger-a-olbia.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-10-13"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Torna la grande classica: è Milano-Bolzano 14 anni dopo. Viaggio nella sfida più calda d'Italia",
-      "link": "https://www.gazzetta.it/Sport-Invernali/10-10-2026/hockey-milano-bolzano-tornano-a-sfidarsi-14-anni-dopo-4mila-alla-fiera-ice-arena-di-rho.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-10-10"
-    },
-    {
-      "sottocategoria": "Calcio femminile",
-      "tipo": "notizia",
-      "titolo": "Ciclismo: Mondiali su pista al via a Shanghai, Ganna guida gli azzurri",
-      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/10/13/mondiali-su-pista-al-via-a-shanghai-ganna-guida-gli-azzurri_16b7b39c-a372-44a1-a347-4afaf0b3bf60.html",
-      "fonte": "ANSA Sport",
-      "data_evento": "2026-10-13"
+      "titolo": "Surf, ecco Peniche: nella terzultima tappa Fioravanti a caccia del nuovo sorpasso",
+      "link": "https://www.gazzetta.it/Sport-Vari/14-10-2026/ecco-peniche-nella-terzultima-tappa-fioravanti-tentera-il-nuovo-sorpasso.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-10-14"
     },
     {
       "sottocategoria": "Atletica",
@@ -34,12 +18,28 @@
       "data_evento": "2026-10-13"
     },
     {
-      "sottocategoria": "Acqua",
+      "sottocategoria": "Combattimento",
       "tipo": "notizia",
-      "titolo": "Surf, Marta Begalli e Michael Jorge Monteiro sono i nuovi campioni italiani",
-      "link": "https://www.gazzetta.it/Sport-Vari/12-10-2026/surf-marta-begalli-e-michael-jorge-monteiro-sono-i-nuovi-campioni-italiani.shtml",
+      "titolo": "Ha vinto 3 ori olimpici, doveva sfidare Tyson, ora fruga tra i rifiuti per vivere: la triste parabola di Savon",
+      "link": "https://www.gazzetta.it/Sport-Vari/12-10-2026/felix-savon-campione-boxe-spazzatura-cuba.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-10-12"
+    },
+    {
+      "sottocategoria": "Squadra",
+      "tipo": "notizia",
+      "titolo": "Bledisloe Cup: agli All Blacks il primo round, Wallabies travolti 50-19",
+      "link": "https://www.gazzetta.it/Rugby/10-10-2026/rugby-bledisloe-cup-agli-all-blacks-il-primo-round-wallabies-travolti-50-19.shtml",
+      "fonte": "Gazzetta — Rugby",
+      "data_evento": "2026-10-10"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Six Kings Slam di Riad rinviato a dicembre. Ma così quali big del tennis ci saranno?",
+      "link": "https://www.gazzetta.it/Tennis/ATP/14-10-2026/tennis-six-kings-slam-rinviato-a-dicembre-ma-con-quali-big.shtml",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-10-14"
     }
   ]
 }
