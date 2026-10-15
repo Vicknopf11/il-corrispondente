@@ -1,6 +1,30 @@
 {
-  "generato": "2026-10-15T05:31:01.892294+00:00",
+  "generato": "2026-10-15T11:31:04.882480+00:00",
   "item": [
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Italia, caccia mondiale: azzurri della raffa favoriti in Brasile, il World Boccia Challenger a Olbia",
+      "link": "https://www.gazzetta.it/bocce/13-10-2026/bocce-italia-caccia-mondiale-raffa-in-brasile-world-boccia-challenger-a-olbia.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-10-13"
+    },
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Torna la grande classica: è Milano-Bolzano 14 anni dopo. Viaggio nella sfida più calda d'Italia",
+      "link": "https://www.gazzetta.it/Sport-Invernali/10-10-2026/hockey-milano-bolzano-tornano-a-sfidarsi-14-anni-dopo-4mila-alla-fiera-ice-arena-di-rho.shtml",
+      "fonte": "Gazzetta — Sport Invernali",
+      "data_evento": "2026-10-10"
+    },
+    {
+      "sottocategoria": "Calcio femminile",
+      "tipo": "notizia",
+      "titolo": "Mondiali ciclismo: Italia d'argento nell'inseguimento uomini",
+      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/10/15/mondiali-ciclismo-italia-dargento-nellinseguimento-uomini_0780b07f-d77d-40c3-99be-87ba438d617e.html",
+      "fonte": "ANSA Sport",
+      "data_evento": "2026-10-15"
+    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
@@ -16,30 +40,6 @@
       "link": "https://www.gazzetta.it/Sport-Vari/13-10-2026/luca-parmitano-completa-il-mondiale-ironman-2026-di-kona.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-10-13"
-    },
-    {
-      "sottocategoria": "Combattimento",
-      "tipo": "notizia",
-      "titolo": "Ha vinto 3 ori olimpici, doveva sfidare Tyson, ora fruga tra i rifiuti per vivere: la triste parabola di Savon",
-      "link": "https://www.gazzetta.it/Sport-Vari/12-10-2026/felix-savon-campione-boxe-spazzatura-cuba.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-10-12"
-    },
-    {
-      "sottocategoria": "Squadra",
-      "tipo": "notizia",
-      "titolo": "Bledisloe Cup: agli All Blacks il primo round, Wallabies travolti 50-19",
-      "link": "https://www.gazzetta.it/Rugby/10-10-2026/rugby-bledisloe-cup-agli-all-blacks-il-primo-round-wallabies-travolti-50-19.shtml",
-      "fonte": "Gazzetta — Rugby",
-      "data_evento": "2026-10-10"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Six Kings Slam di Riad rinviato a dicembre. Ma così quali big del tennis ci saranno?",
-      "link": "https://www.gazzetta.it/Tennis/ATP/14-10-2026/tennis-six-kings-slam-rinviato-a-dicembre-ma-con-quali-big.shtml",
-      "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-10-14"
     }
   ]
 }
