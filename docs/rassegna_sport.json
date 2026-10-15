@@ -1,37 +1,13 @@
 {
-  "generato": "2026-10-15T11:31:04.882480+00:00",
+  "generato": "2026-10-15T17:31:04.906631+00:00",
   "item": [
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Italia, caccia mondiale: azzurri della raffa favoriti in Brasile, il World Boccia Challenger a Olbia",
-      "link": "https://www.gazzetta.it/bocce/13-10-2026/bocce-italia-caccia-mondiale-raffa-in-brasile-world-boccia-challenger-a-olbia.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-10-13"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Torna la grande classica: è Milano-Bolzano 14 anni dopo. Viaggio nella sfida più calda d'Italia",
-      "link": "https://www.gazzetta.it/Sport-Invernali/10-10-2026/hockey-milano-bolzano-tornano-a-sfidarsi-14-anni-dopo-4mila-alla-fiera-ice-arena-di-rho.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-10-10"
-    },
-    {
-      "sottocategoria": "Calcio femminile",
-      "tipo": "notizia",
-      "titolo": "Mondiali ciclismo: Italia d'argento nell'inseguimento uomini",
-      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/10/15/mondiali-ciclismo-italia-dargento-nellinseguimento-uomini_0780b07f-d77d-40c3-99be-87ba438d617e.html",
-      "fonte": "ANSA Sport",
-      "data_evento": "2026-10-15"
-    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
-      "titolo": "Surf, ecco Peniche: nella terzultima tappa Fioravanti a caccia del nuovo sorpasso",
-      "link": "https://www.gazzetta.it/Sport-Vari/14-10-2026/ecco-peniche-nella-terzultima-tappa-fioravanti-tentera-il-nuovo-sorpasso.shtml",
+      "titolo": "Fioravanti: \"Io, Kanoa e Jack: che bella la nostra amicizia. Ora sono pronto per la gara\"",
+      "link": "https://www.gazzetta.it/Sport-Vari/15-10-2026/fioravanti-io-kanoa-e-jack-che-bella-la-nostra-amicizia-ora-sono-pronto-per-la-gara.shtml",
       "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-10-14"
+      "data_evento": "2026-10-15"
     },
     {
       "sottocategoria": "Atletica",
@@ -40,6 +16,30 @@
       "link": "https://www.gazzetta.it/Sport-Vari/13-10-2026/luca-parmitano-completa-il-mondiale-ironman-2026-di-kona.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-10-13"
+    },
+    {
+      "sottocategoria": "Combattimento",
+      "tipo": "notizia",
+      "titolo": "Ha vinto 3 ori olimpici, doveva sfidare Tyson, ora fruga tra i rifiuti per vivere: la triste parabola di Savon",
+      "link": "https://www.gazzetta.it/Sport-Vari/12-10-2026/felix-savon-campione-boxe-spazzatura-cuba.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-10-12"
+    },
+    {
+      "sottocategoria": "Squadra",
+      "tipo": "notizia",
+      "titolo": "Volley, Superlega: parte la caccia a Perugia. Novità per la lotta salvezza",
+      "link": "https://www.gazzetta.it/Volley/storie/15-10-2026/volley-superlega-parte-la-caccia-a-perugia-novita-per-la-lotta-salvezza/la-novita-playout.shtml",
+      "fonte": "Gazzetta — Volley",
+      "data_evento": "2026-10-15"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Giocatore modesto, ma si vendeva le partite: tennista serbo squalificato fino al 2050!",
+      "link": "https://www.gazzetta.it/Tennis/15-10-2026/tennis-milicevic-squalificato-fino-al-2050-vendeva-le-partite.shtml",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-10-15"
     }
   ]
 }
