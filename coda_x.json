@@ -1,77 +1,77 @@
 {
-  "data": "2026-10-14",
+  "data": "2026-10-16",
   "tweet": [
     {
-      "testo": "Russia bombarda 6 centrali elettriche a Kiev, almeno 6 morti. Contemporaneamente i «Volenterosi» europei cedono al piano Trump sulla pace. Coincidenza di tempistica o segnale che qualcuno ha già deciso chi vince? #Ucraina",
-      "url": "https://corrispondente.filoclastos.it/2026/10/14/kiev-missili-russia-resa-volenterosi-piano-trump/",
-      "slug": "kiev-missili-russia-resa-volenterosi-piano-trump",
+      "testo": "Zelensky riprende i raid sulle raffinerie russe. Trump furioso. Nel frattempo Washington e Mosca avevano già siglato un patto sul diesel. Chi aveva bisogno della tregua energetica, e per chi?",
+      "url": "https://corrispondente.filoclastos.it/2026/10/16/zelensky-sfida-trump-raid-raffinerie-russe/",
+      "slug": "zelensky-sfida-trump-raid-raffinerie-russe",
       "categoria": "Politica Internazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Salvini si dimette da segretario della Lega per potersi ricandidare segretario della Lega. La democrazia interna è uno sport complesso. Congresso il 24-25 ottobre, sfidanti: nessuno. #Lega #Salvini",
-      "url": "https://corrispondente.filoclastos.it/2026/10/14/salvini-dimissioni-segretario-lega-congresso-ottobre-2026/",
-      "slug": "salvini-dimissioni-segretario-lega-congresso-ottobre-2026",
+      "testo": "Manovra: 4,5 mld alla difesa, 2,4 alla sanità. Il governo che «mette le famiglie al centro» spende quasi il doppio in armamenti che in ospedali. Ma almeno le banche contribuiranno — se non protestano.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/16/manovra-23-miliardi-difesa-sanita-banche/",
+      "slug": "manovra-23-miliardi-difesa-sanita-banche",
       "categoria": "Politica Nazionale",
-      "evidenza": false,
-      "pubblicato": true
+      "evidenza": true,
+      "pubblicato": false
     },
     {
-      "testo": "Quinta legge di bilancio del governo Meloni: contenuti non definiti, coperture da sciogliere, taglio Irpef che slitta. Giorgetti aspetta Bruxelles. Nel frattempo l'aula era semideserta. Chi non aspetta nessuno? I mercati, che hanno già prezzato tutto. #Manovra",
-      "url": "https://corrispondente.filoclastos.it/2026/10/14/legge-bilancio-caos-taglio-irpef-congelato-giorgetti-bruxelles/",
-      "slug": "legge-bilancio-caos-taglio-irpef-congelato-giorgetti-bruxelles",
+      "testo": "713 miliardi di dollari investiti in AI nel 2026 (stima Bloomberg Intelligence). I flussi di cassa dei big tech si assottigliano, il ricorso al debito cresce. Ma il direttore della Fed dice che l'AI è «l'innovazione più importante della sua vita». Vedrete.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/16/bolla-ai-713-miliardi-investimenti-flussi-cassa/",
+      "slug": "bolla-ai-713-miliardi-investimenti-flussi-cassa",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Mourinho torna all'Olimpico da avversario. Roma-Real Madrid è stasera: in esclusiva su Amazon Prime Video (abbonamento Prime richiesto). La Champions è gratis solo nei ricordi. #RomaRealMadrid #ChampionsLeague",
-      "url": "https://corrispondente.filoclastos.it/2026/10/14/roma-real-madrid-champions-mourinho-olimpico-prime-video/",
-      "slug": "roma-real-madrid-champions-mourinho-olimpico-prime-video",
+      "testo": "Doppio argento per l'Italia ai Mondiali di pista a Shanghai: quartetti maschile e femminile in finale, battuti da Danimarca e Gran Bretagna. Ganna, Milan, Balsamo, Fidanza: nomi che non trovano spazio in prima pagina perché non danno calci a un pallone.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/16/mondiali-ciclismo-pista-shanghai-doppio-argento-italia/",
+      "slug": "mondiali-ciclismo-pista-shanghai-doppio-argento-italia",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Greta Astarita, 33 anni, morta al settimo mese di gravidanza con il suo bambino all'ospedale di Castellammare di Stabia. Dieci medici indagati per duplice omicidio colposo. L'autopsia dirà se si poteva salvare. Il sistema sanitario campano risponderà? #SanitàPubblica",
-      "url": "https://corrispondente.filoclastos.it/2026/10/14/greta-astarita-morta-gravidanza-castellammare-dieci-medici-indagati/",
-      "slug": "greta-astarita-morta-gravidanza-castellammare-dieci-medici-indagati",
+      "testo": "Mirandola, anziani coniugi trovati decapitati in casa. Il figlio è ascoltato dagli inquirenti. Le indagini sono appena iniziate: aspettiamo i fatti, non i verdetti.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/16/duplice-omicidio-mirandola-coniugi-decapitati/",
+      "slug": "duplice-omicidio-mirandola-coniugi-decapitati",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Il CNR scopre che il mare ha un «battito» acustico giorno-notte non spiegabile solo da fattori fisici. Può rivelare la salute degli ecosistemi marini. Costo: idrofoni nell'Adriatico. Peccato che a chi inquina l'Adriatico non interessi sentire il battito del paziente. #Scienza #Mare",
-      "url": "https://corrispondente.filoclastos.it/2026/10/14/mare-firma-sonora-cnr-adriatico-ecosistema/",
-      "slug": "mare-firma-sonora-cnr-adriatico-ecosistema",
+      "testo": "Harvard e MIT identificano il gene Pla2g2f: nei topi, livelli elevati si associano a una migliore memoria nell'invecchiamento. Siamo già alla cura dell'Alzheimer? No. Siamo ai topi. Ma il titolo lo troverete già scritto.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/16/gene-pla2g2f-memoria-invecchiamento-harvard-mit/",
+      "slug": "gene-pla2g2f-memoria-invecchiamento-harvard-mit",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Trump firma un decreto: d'ora in poi l'«Artificial Intelligence» si chiama ufficialmente «Super Intelligence» in tutti i documenti federali. Musk adegua SpaceX. La Silicon Valley si adegua. La realtà si adegua? #AI #Trump #SuperIntelligence",
-      "url": "https://corrispondente.filoclastos.it/2026/10/14/trump-decreto-super-intelligence-ai-ribattezzata/",
-      "slug": "trump-decreto-super-intelligence-ai-ribattezzata",
+      "testo": "Anthropic mette 1.000 agenti AI in laboratorio, Claude «scopre» un sistema molecolare inedito in 21 ore. Un biologo: «Lo studiavo da anni e gliene avevo parlato io.» L'AI del futuro: molto veloce nel dimenticare da chi ha imparato.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/16/anthropic-claude-scoperta-molecolare-biologo-priorita/",
+      "slug": "anthropic-claude-scoperta-molecolare-biologo-priorita",
       "categoria": "AI",
-      "evidenza": true,
-      "pubblicato": true
+      "evidenza": false,
+      "pubblicato": false
     },
     {
-      "testo": "Studio: frutta e verdura oggi contengono fino al 50% di vitamine e minerali in meno rispetto al 1960. Chi ci guadagna? L'industria degli integratori alimentari, che aspettava solo la notizia giusta. #Nutrizione #Wellness #Integratori",
-      "url": "https://corrispondente.filoclastos.it/2026/10/14/frutta-verdura-meno-nutrienti-50-percento-studio-2026/",
-      "slug": "frutta-verdura-meno-nutrienti-50-percento-studio-2026",
+      "testo": "La sanità digitale in Italia vale 2,7 miliardi. Solo il 30% dei medici ha ricevuto formazione sull'AI. Il mercato cresce, la preparazione no. Come di consueto, prima si vende, poi si spiega.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/16/welfair-sanita-digitale-medici-formazione-ai/",
+      "slug": "welfair-sanita-digitale-medici-formazione-ai",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Alla Festa del Cinema di Roma: anteprima mondiale del doc su Salman Rushdie, autore che vive sotto protezione da 37 anni per un libro. Nello stesso paese, stasera, tutti guarderanno Mourinho su Amazon Prime. La cultura si prende i suoi spazi dove può. #FestaCinema #Roma",
-      "url": "https://corrispondente.filoclastos.it/2026/10/14/festa-cinema-roma-2026-rushdie-documentario-14-ottobre/",
-      "slug": "festa-cinema-roma-2026-rushdie-documentario-14-ottobre",
+      "testo": "Alla Festa del Cinema di Roma: Jovanotti porta il suo documentario, Pawlikowski fa masterclass. Il cinema d'autore e il pop trovano lo stesso palco. La domanda è chi decide chi merita il red carpet — e chi lo paga.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/16/festa-cinema-roma-jovanotti-pawlikowski/",
+      "slug": "festa-cinema-roma-jovanotti-pawlikowski",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }
