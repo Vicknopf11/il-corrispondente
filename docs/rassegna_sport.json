@@ -1,21 +1,21 @@
 {
-  "generato": "2026-10-16T11:31:00.832061+00:00",
+  "generato": "2026-10-16T17:31:02.378535+00:00",
   "item": [
     {
-      "sottocategoria": "Mente e nicchia",
+      "sottocategoria": "Combattimento",
       "tipo": "notizia",
-      "titolo": "Italia, caccia mondiale: azzurri della raffa favoriti in Brasile, il World Boccia Challenger a Olbia",
-      "link": "https://www.gazzetta.it/bocce/13-10-2026/bocce-italia-caccia-mondiale-raffa-in-brasile-world-boccia-challenger-a-olbia.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-10-13"
+      "titolo": "Estée Lauder Companies Social Run: Milano si tinge di rosa per promuovere la prevenzione",
+      "link": "https://www.gazzetta.it/Sport-Vari/16-10-2026/estee-lauder-companies-social-run-milano-si-tinge-di-rosa-per-promuovere-la-prevenzione.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-10-16"
     },
     {
-      "sottocategoria": "Invernali",
+      "sottocategoria": "Racchette e precisione",
       "tipo": "notizia",
-      "titolo": "Dramma Kilde: si rompe il tendine d'achille in allenamento. Carriera finita?",
-      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/Coppa-Mondo-Sci/15-10-2026/sci-grave-infortunio-kilde-rotto-tendine-d-achille.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-10-15"
+      "titolo": "E se CR7 avesse scelto il tennistavolo? \"Era un talento, ma preferiva il calcio\"",
+      "link": "https://www.gazzetta.it/Sport-Vari/16-10-2026/joao-monteiro-intervista-su-cristiano-ronaldo-e-la-passione-per-il-tennistavolo.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-10-16"
     },
     {
       "sottocategoria": "Acqua",
@@ -34,12 +34,12 @@
       "data_evento": "2026-10-13"
     },
     {
-      "sottocategoria": "Combattimento",
+      "sottocategoria": "Squadra",
       "tipo": "notizia",
-      "titolo": "Ha vinto 3 ori olimpici, doveva sfidare Tyson, ora fruga tra i rifiuti per vivere: la triste parabola di Savon",
-      "link": "https://www.gazzetta.it/Sport-Vari/12-10-2026/felix-savon-campione-boxe-spazzatura-cuba.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-10-12"
+      "titolo": "Il grande rugby sbarca su Dazn: Top 14, Champions Cup ed Epcr Challenge Cup trasmessi fino al 2028",
+      "link": "https://www.gazzetta.it/Rugby/16-10-2026/il-grande-rugby-sbarca-su-dazn-top-14-champions-cup-ed-epcr-challenge-cup-fino-al-2028.shtml",
+      "fonte": "Gazzetta — Rugby",
+      "data_evento": "2026-10-16"
     }
   ]
 }
