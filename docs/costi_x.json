@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-16",
+      "slug": "mondiali-ciclismo-pista-shanghai-doppio-argento-italia",
+      "categoria": "Sport",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-16",
       "slug": "bolla-ai-713-miliardi-investimenti-flussi-cassa",
       "categoria": "Economia",
       "evidenza": false,
