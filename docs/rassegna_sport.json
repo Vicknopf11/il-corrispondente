@@ -1,6 +1,22 @@
 {
-  "generato": "2026-10-16T05:31:06.225028+00:00",
+  "generato": "2026-10-16T11:31:00.832061+00:00",
   "item": [
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Italia, caccia mondiale: azzurri della raffa favoriti in Brasile, il World Boccia Challenger a Olbia",
+      "link": "https://www.gazzetta.it/bocce/13-10-2026/bocce-italia-caccia-mondiale-raffa-in-brasile-world-boccia-challenger-a-olbia.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-10-13"
+    },
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Dramma Kilde: si rompe il tendine d'achille in allenamento. Carriera finita?",
+      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/Coppa-Mondo-Sci/15-10-2026/sci-grave-infortunio-kilde-rotto-tendine-d-achille.shtml",
+      "fonte": "Gazzetta — Sport Invernali",
+      "data_evento": "2026-10-15"
+    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
@@ -24,22 +40,6 @@
       "link": "https://www.gazzetta.it/Sport-Vari/12-10-2026/felix-savon-campione-boxe-spazzatura-cuba.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-10-12"
-    },
-    {
-      "sottocategoria": "Squadra",
-      "tipo": "notizia",
-      "titolo": "Volley, Superlega: parte la caccia a Perugia. Novità per la lotta salvezza",
-      "link": "https://www.gazzetta.it/Volley/storie/15-10-2026/volley-superlega-parte-la-caccia-a-perugia-novita-per-la-lotta-salvezza/la-novita-playout.shtml",
-      "fonte": "Gazzetta — Volley",
-      "data_evento": "2026-10-15"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Giocatore modesto, ma si vendeva le partite: tennista serbo squalificato fino al 2050!",
-      "link": "https://www.gazzetta.it/Tennis/15-10-2026/tennis-milicevic-squalificato-fino-al-2050-vendeva-le-partite.shtml",
-      "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-10-15"
     }
   ]
 }
