@@ -1,6 +1,14 @@
 {
   "pubblicazioni": [
     {
+      "data": "2026-10-16",
+      "slug": "zelensky-sfida-trump-raid-raffinerie-russe",
+      "categoria": "Politica Internazionale",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
       "data": "2026-10-14",
       "slug": "festa-cinema-roma-2026-rushdie-documentario-14-ottobre",
       "categoria": "Cultura",
