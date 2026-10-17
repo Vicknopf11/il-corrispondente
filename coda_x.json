@@ -1,77 +1,77 @@
 {
-  "data": "2026-10-16",
+  "data": "2026-10-17",
   "tweet": [
     {
-      "testo": "Zelensky riprende i raid sulle raffinerie russe. Trump furioso. Nel frattempo Washington e Mosca avevano già siglato un patto sul diesel. Chi aveva bisogno della tregua energetica, e per chi?",
-      "url": "https://corrispondente.filoclastos.it/2026/10/16/zelensky-sfida-trump-raid-raffinerie-russe/",
-      "slug": "zelensky-sfida-trump-raid-raffinerie-russe",
+      "testo": "Trump blocca le sanzioni alla Russia pochi giorni prima che entrassero in vigore. Ufficialmente: \"interesse nazionale\". Traduzione: il diesel costa troppo e si vota a novembre. Il Cremlino applaude. Coincidenze. #Trump #Russia #Midterm",
+      "url": "https://corrispondente.filoclastos.it/2026/10/17/trump-sospende-sanzioni-russia-graham-act/",
+      "slug": "trump-sospende-sanzioni-russia-graham-act",
       "categoria": "Politica Internazionale",
-      "evidenza": false,
-      "pubblicato": true
-    },
-    {
-      "testo": "Manovra: 4,5 mld alla difesa, 2,4 alla sanità. Il governo che «mette le famiglie al centro» spende quasi il doppio in armamenti che in ospedali. Ma almeno le banche contribuiranno — se non protestano.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/16/manovra-23-miliardi-difesa-sanita-banche/",
-      "slug": "manovra-23-miliardi-difesa-sanita-banche",
-      "categoria": "Politica Nazionale",
       "evidenza": true,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "713 miliardi di dollari investiti in AI nel 2026 (stima Bloomberg Intelligence). I flussi di cassa dei big tech si assottigliano, il ricorso al debito cresce. Ma il direttore della Fed dice che l'AI è «l'innovazione più importante della sua vita». Vedrete.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/16/bolla-ai-713-miliardi-investimenti-flussi-cassa/",
-      "slug": "bolla-ai-713-miliardi-investimenti-flussi-cassa",
+      "testo": "400mila studenti in piazza, tre minorenni arrestati a Torino, una decina di agenti feriti. Meloni chiede condanna alla sinistra. La sinistra chiede risposte sul caro-affitti. Nel frattempo i tir bloccano il Sud per il caro gasolio. Due Italie, stessa benzina cara. #NoMeloniDay",
+      "url": "https://corrispondente.filoclastos.it/2026/10/17/no-meloni-day-studenti-piazza-scontri-torino/",
+      "slug": "no-meloni-day-studenti-piazza-scontri-torino",
+      "categoria": "Politica Nazionale",
+      "evidenza": false,
+      "pubblicato": false
+    },
+    {
+      "testo": "Il Brent a 110 dollari — massimo da maggio. Trump sospende le sanzioni energetiche alla Russia. L'Italia festeggia l'accordo europeo sul decreto bollette. Chi paga la differenza è sempre lo stesso soggetto: il consumatore finale. #energia #bollette #petrolio",
+      "url": "https://corrispondente.filoclastos.it/2026/10/17/brent-110-dollari-barile-decreto-bollette-ue/",
+      "slug": "brent-110-dollari-barile-decreto-bollette-ue",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Doppio argento per l'Italia ai Mondiali di pista a Shanghai: quartetti maschile e femminile in finale, battuti da Danimarca e Gran Bretagna. Ganna, Milan, Balsamo, Fidanza: nomi che non trovano spazio in prima pagina perché non danno calci a un pallone.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/16/mondiali-ciclismo-pista-shanghai-doppio-argento-italia/",
-      "slug": "mondiali-ciclismo-pista-shanghai-doppio-argento-italia",
+      "testo": "Jonathan Milan oro mondiale nell'inseguimento individuale a Shanghai, con record del mondo. Filippo Ganna bronzo. L'Italia del ciclismo su pista è quarta nel medagliere: 1 oro, 2 argenti, 1 bronzo. Uno sport che esiste anche fuori da luglio. #Mondiali #Ciclismo #Milan",
+      "url": "https://corrispondente.filoclastos.it/2026/10/17/jonathan-milan-oro-mondiale-ciclismo-pista-shanghai/",
+      "slug": "jonathan-milan-oro-mondiale-ciclismo-pista-shanghai",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Mirandola, anziani coniugi trovati decapitati in casa. Il figlio è ascoltato dagli inquirenti. Le indagini sono appena iniziate: aspettiamo i fatti, non i verdetti.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/16/duplice-omicidio-mirandola-coniugi-decapitati/",
-      "slug": "duplice-omicidio-mirandola-coniugi-decapitati",
+      "testo": "Taranto: RSA abusiva, anziani con gravi patologie lasciati senza cure, maltrattati e derubati dei risparmi. Tre ai domiciliari, sequestri per 300mila euro. Non è una notizia nuova: è una notizia ricorrente. Il sistema è il problema. #anziani #RSA #cronaca",
+      "url": "https://corrispondente.filoclastos.it/2026/10/17/rsa-abusiva-taranto-anziani-maltrattati-nas/",
+      "slug": "rsa-abusiva-taranto-anziani-maltrattati-nas",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Harvard e MIT identificano il gene Pla2g2f: nei topi, livelli elevati si associano a una migliore memoria nell'invecchiamento. Siamo già alla cura dell'Alzheimer? No. Siamo ai topi. Ma il titolo lo troverete già scritto.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/16/gene-pla2g2f-memoria-invecchiamento-harvard-mit/",
-      "slug": "gene-pla2g2f-memoria-invecchiamento-harvard-mit",
+      "testo": "Uno studio su Nature: le microplastiche non se ne stanno ferme nell'acqua — reagiscono, producendo specie ossidanti potenzialmente dannose per le cellule. Nel frattempo l'industria della plastica fattura 600 miliardi l'anno. Buona fortuna con il bollitore. #microplastiche #salute",
+      "url": "https://corrispondente.filoclastos.it/2026/10/17/microplastiche-acqua-reazione-chimica-nature-2026/",
+      "slug": "microplastiche-acqua-reazione-chimica-nature-2026",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Anthropic mette 1.000 agenti AI in laboratorio, Claude «scopre» un sistema molecolare inedito in 21 ore. Un biologo: «Lo studiavo da anni e gliene avevo parlato io.» L'AI del futuro: molto veloce nel dimenticare da chi ha imparato.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/16/anthropic-claude-scoperta-molecolare-biologo-priorita/",
-      "slug": "anthropic-claude-scoperta-molecolare-biologo-priorita",
+      "testo": "Getty Images verso il Chapter 11. Titoli: \"è colpa dell'IA\". Realtà: 2,1 miliardi di debiti, fusione da 3,7 miliardi con Shutterstock saltata per veto antitrust, 108 milioni bruciati in consulenze. L'IA è il villain di comodo. #Getty #AI #bancarotta",
+      "url": "https://corrispondente.filoclastos.it/2026/10/17/getty-images-bancarotta-chapter-11-ia-debiti/",
+      "slug": "getty-images-bancarotta-chapter-11-ia-debiti",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "La sanità digitale in Italia vale 2,7 miliardi. Solo il 30% dei medici ha ricevuto formazione sull'AI. Il mercato cresce, la preparazione no. Come di consueto, prima si vende, poi si spiega.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/16/welfair-sanita-digitale-medici-formazione-ai/",
-      "slug": "welfair-sanita-digitale-medici-formazione-ai",
+      "testo": "Sondaggio FGS Global in 7 paesi: l'opinione pubblica si fida sempre meno dell'IA. Le aziende tech capitalizzano record. I giovani sono i più favorevoli — fino a quando l'IA non li sostituisce. L'industria del benessere digitale intanto vende app anti-ansia da smartphone. #AI #fiducia",
+      "url": "https://corrispondente.filoclastos.it/2026/10/17/ia-opinione-pubblica-fiducia-calo-mercati-sondaggio/",
+      "slug": "ia-opinione-pubblica-fiducia-calo-mercati-sondaggio",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Alla Festa del Cinema di Roma: Jovanotti porta il suo documentario, Pawlikowski fa masterclass. Il cinema d'autore e il pop trovano lo stesso palco. La domanda è chi decide chi merita il red carpet — e chi lo paga.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/16/festa-cinema-roma-jovanotti-pawlikowski/",
-      "slug": "festa-cinema-roma-jovanotti-pawlikowski",
+      "testo": "Getty Images va in Chapter 11. La famiglia Getty e Koch Equity rilevano tutto. Trent'anni di memoria visiva globale — guerre, presidenti, cataclismi — finiscono nella cassaforte di un fondo d'investimento. I fotografi aspettano i pagamenti. L'arte aspetta il tribunale. #Getty #fotografia",
+      "url": "https://corrispondente.filoclastos.it/2026/10/17/getty-images-fotografia-cultura-visiva-koch-equity/",
+      "slug": "getty-images-fotografia-cultura-visiva-koch-equity",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }
