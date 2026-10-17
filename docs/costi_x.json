@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-17",
+      "slug": "brent-110-dollari-barile-decreto-bollette-ue",
+      "categoria": "Economia",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-17",
       "slug": "no-meloni-day-studenti-piazza-scontri-torino",
       "categoria": "Politica Nazionale",
       "evidenza": false,
