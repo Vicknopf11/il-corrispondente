@@ -1,6 +1,14 @@
 {
   "pubblicazioni": [
     {
+      "data": "2026-10-17",
+      "slug": "trump-sospende-sanzioni-russia-graham-act",
+      "categoria": "Politica Internazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
       "data": "2026-10-16",
       "slug": "festa-cinema-roma-jovanotti-pawlikowski",
       "categoria": "Cultura",
