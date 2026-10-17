@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-17",
+      "slug": "rsa-abusiva-taranto-anziani-maltrattati-nas",
+      "categoria": "Cronaca",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-17",
       "slug": "jonathan-milan-oro-mondiale-ciclismo-pista-shanghai",
       "categoria": "Sport",
       "evidenza": false,
