@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-17",
+      "slug": "getty-images-bancarotta-chapter-11-ia-debiti",
+      "categoria": "AI",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-17",
       "slug": "microplastiche-acqua-reazione-chimica-nature-2026",
       "categoria": "Scienza",
       "evidenza": false,
