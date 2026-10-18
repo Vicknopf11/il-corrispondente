@@ -5,6 +5,13 @@ on:
     types: [genera-post]    # trigger esterno via cron-job.org (bypassa lo scheduler nativo GitHub)
   workflow_dispatch:        # consente esecuzione manuale
 
+# Un solo workflow alla volta tra quelli che fanno push su main:
+# generazione e pubblicazione tweet si mettono in fila invece di
+# sovrapporsi (altrimenti il secondo push viene rifiutato).
+concurrency:
+  group: scrittura-repo
+  cancel-in-progress: false
+
 jobs:
   genera:
     runs-on: ubuntu-latest
