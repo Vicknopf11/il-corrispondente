@@ -1,77 +1,77 @@
 {
-  "data": "2026-10-17",
+  "data": "2026-10-18",
   "tweet": [
     {
-      "testo": "Trump blocca le sanzioni alla Russia pochi giorni prima che entrassero in vigore. Ufficialmente: \"interesse nazionale\". Traduzione: il diesel costa troppo e si vota a novembre. Il Cremlino applaude. Coincidenze. #Trump #Russia #Midterm",
-      "url": "https://corrispondente.filoclastos.it/2026/10/17/trump-sospende-sanzioni-russia-graham-act/",
-      "slug": "trump-sospende-sanzioni-russia-graham-act",
+      "testo": "Trump congela le sanzioni alla Russia «per i negoziati di pace». Coincidenza: le elezioni di midterm sono a novembre e il gasolio costa troppo. Il Graham Act se l'era fatto firmare lui stesso a settembre. #Ucraina",
+      "url": "https://corrispondente.filoclastos.it/2026/10/18/trump-congela-sanzioni-russia-graham-act/",
+      "slug": "trump-congela-sanzioni-russia-graham-act",
       "categoria": "Politica Internazionale",
       "evidenza": true,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "400mila studenti in piazza, tre minorenni arrestati a Torino, una decina di agenti feriti. Meloni chiede condanna alla sinistra. La sinistra chiede risposte sul caro-affitti. Nel frattempo i tir bloccano il Sud per il caro gasolio. Due Italie, stessa benzina cara. #NoMeloniDay",
-      "url": "https://corrispondente.filoclastos.it/2026/10/17/no-meloni-day-studenti-piazza-scontri-torino/",
-      "slug": "no-meloni-day-studenti-piazza-scontri-torino",
+      "testo": "Schlein si candida premier «con o senza primarie». Traduzione: senza primarie. Landini annuncia lo sciopero generale. Milano è guerriglia. Tutti urlano. Nessuno parla di cosa c'è nella manovra. Perfetto. #ItaliaInPiazza",
+      "url": "https://corrispondente.filoclastos.it/2026/10/18/schlein-candidata-premier-piazze-guerriglia-sciopero-cgil/",
+      "slug": "schlein-candidata-premier-piazze-guerriglia-sciopero-cgil",
       "categoria": "Politica Nazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Il Brent a 110 dollari — massimo da maggio. Trump sospende le sanzioni energetiche alla Russia. L'Italia festeggia l'accordo europeo sul decreto bollette. Chi paga la differenza è sempre lo stesso soggetto: il consumatore finale. #energia #bollette #petrolio",
-      "url": "https://corrispondente.filoclastos.it/2026/10/17/brent-110-dollari-barile-decreto-bollette-ue/",
-      "slug": "brent-110-dollari-barile-decreto-bollette-ue",
+      "testo": "Bitcoin risale, bollette giù, Bruxelles vuole mettere le mani sulla manovra. Chi festeggia? I trader crypto, le utility energetiche e i commissari europei — non necessariamente nell'ordine che vi aspettate. #Economia",
+      "url": "https://corrispondente.filoclastos.it/2026/10/18/bitcoin-recupera-bollette-calo-manovra-bruxelles/",
+      "slug": "bitcoin-recupera-bollette-calo-manovra-bruxelles",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Jonathan Milan oro mondiale nell'inseguimento individuale a Shanghai, con record del mondo. Filippo Ganna bronzo. L'Italia del ciclismo su pista è quarta nel medagliere: 1 oro, 2 argenti, 1 bronzo. Uno sport che esiste anche fuori da luglio. #Mondiali #Ciclismo #Milan",
-      "url": "https://corrispondente.filoclastos.it/2026/10/17/jonathan-milan-oro-mondiale-ciclismo-pista-shanghai/",
-      "slug": "jonathan-milan-oro-mondiale-ciclismo-pista-shanghai",
+      "testo": "A Rotterdam i Mondiali di ginnastica artistica: Targhetta già qualificato alla finale al cavallo, le Fate in pedana stasera. L'Italia c'è — ma i giornali sportivi sono tutti sulla Serie A. Strano, no? #Ginnastica #Rotterdam2026",
+      "url": "https://corrispondente.filoclastos.it/2026/10/18/mondiali-ginnastica-artistica-rotterdam-2026-italia/",
+      "slug": "mondiali-ginnastica-artistica-rotterdam-2026-italia",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Taranto: RSA abusiva, anziani con gravi patologie lasciati senza cure, maltrattati e derubati dei risparmi. Tre ai domiciliari, sequestri per 300mila euro. Non è una notizia nuova: è una notizia ricorrente. Il sistema è il problema. #anziani #RSA #cronaca",
-      "url": "https://corrispondente.filoclastos.it/2026/10/17/rsa-abusiva-taranto-anziani-maltrattati-nas/",
-      "slug": "rsa-abusiva-taranto-anziani-maltrattati-nas",
+      "testo": "Roma: 89enne uccide la moglie malata di cancro e si toglie la vita. Cronaca nera, dicono. Oppure: l'ennesima storia di un sistema sanitario che lascia soli chi soffre e chi se ne prende cura.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/18/roma-89enne-uccide-moglie-malata-oncologica-suicidio/",
+      "slug": "roma-89enne-uccide-moglie-malata-oncologica-suicidio",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Uno studio su Nature: le microplastiche non se ne stanno ferme nell'acqua — reagiscono, producendo specie ossidanti potenzialmente dannose per le cellule. Nel frattempo l'industria della plastica fattura 600 miliardi l'anno. Buona fortuna con il bollitore. #microplastiche #salute",
-      "url": "https://corrispondente.filoclastos.it/2026/10/17/microplastiche-acqua-reazione-chimica-nature-2026/",
-      "slug": "microplastiche-acqua-reazione-chimica-nature-2026",
+      "testo": "Singapore batte il record mondiale di precisione con un orologio al lutezio: un secondo di errore ogni 260 miliardi di anni. La corsa per ridefinire il «secondo» internazionale si decide a Versailles a novembre. Chi controlla il tempo, controlla tutto.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/18/orologio-atomico-lutezio-176-record-singapore/",
+      "slug": "orologio-atomico-lutezio-176-record-singapore",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Getty Images verso il Chapter 11. Titoli: \"è colpa dell'IA\". Realtà: 2,1 miliardi di debiti, fusione da 3,7 miliardi con Shutterstock saltata per veto antitrust, 108 milioni bruciati in consulenze. L'IA è il villain di comodo. #Getty #AI #bancarotta",
-      "url": "https://corrispondente.filoclastos.it/2026/10/17/getty-images-bancarotta-chapter-11-ia-debiti/",
-      "slug": "getty-images-bancarotta-chapter-11-ia-debiti",
+      "testo": "Getty Images dichiara bancarotta (Chapter 11) con 2,1 miliardi di debiti. Tutti danno la colpa all'IA. Qualcuno ricorda la fusione da 3,7 miliardi con Shutterstock saltata per veti antitrust? No. Più comodo il villain digitale.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/18/getty-images-bancarotta-chapter-11-ia-fotografi/",
+      "slug": "getty-images-bancarotta-chapter-11-ia-fotografi",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Sondaggio FGS Global in 7 paesi: l'opinione pubblica si fida sempre meno dell'IA. Le aziende tech capitalizzano record. I giovani sono i più favorevoli — fino a quando l'IA non li sostituisce. L'industria del benessere digitale intanto vende app anti-ansia da smartphone. #AI #fiducia",
-      "url": "https://corrispondente.filoclastos.it/2026/10/17/ia-opinione-pubblica-fiducia-calo-mercati-sondaggio/",
-      "slug": "ia-opinione-pubblica-fiducia-calo-mercati-sondaggio",
+      "testo": "Il congresso nazionale sull'obesità a Palermo «con il contributo di Lilly» presenta tirzepatide come «nuova frontiera». Notizia: Lilly produce tirzepatide. Questo si chiama conflitto di interessi, non personalizzazione della cura.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/18/tirzepatide-semaglutide-obesita-congresso-lilly/",
+      "slug": "tirzepatide-semaglutide-obesita-congresso-lilly",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Getty Images va in Chapter 11. La famiglia Getty e Koch Equity rilevano tutto. Trent'anni di memoria visiva globale — guerre, presidenti, cataclismi — finiscono nella cassaforte di un fondo d'investimento. I fotografi aspettano i pagamenti. L'arte aspetta il tribunale. #Getty #fotografia",
-      "url": "https://corrispondente.filoclastos.it/2026/10/17/getty-images-fotografia-cultura-visiva-koch-equity/",
-      "slug": "getty-images-fotografia-cultura-visiva-koch-equity",
+      "testo": "Alla Festa del Cinema di Roma masterclass di Sorogoyen, il film di Luchetti con Elio Germano, Javier Bardem Premio alla Carriera. Chi paga tutto questo? Roma Capitale e il Ministero della Cultura. Cultura pubblica, glamour privato.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/18/festa-cinema-roma-2026-sorogoyen-luchetti-bardem/",
+      "slug": "festa-cinema-roma-2026-sorogoyen-luchetti-bardem",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }
