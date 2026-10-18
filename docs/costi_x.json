@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-18",
+      "slug": "schlein-candidata-premier-piazze-guerriglia-sciopero-cgil",
+      "categoria": "Politica Nazionale",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-18",
       "slug": "trump-congela-sanzioni-russia-graham-act",
       "categoria": "Politica Internazionale",
       "evidenza": true,
