@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-18",
+      "slug": "getty-images-bancarotta-chapter-11-ia-fotografi",
+      "categoria": "AI",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-18",
       "slug": "orologio-atomico-lutezio-176-record-singapore",
       "categoria": "Scienza",
       "evidenza": false,
