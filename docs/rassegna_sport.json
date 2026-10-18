@@ -1,6 +1,22 @@
 {
-  "generato": "2026-10-18T05:30:53.807938+00:00",
+  "generato": "2026-10-18T11:30:58.475207+00:00",
   "item": [
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "World Boccia Challenger a Olbia: Gabriele Zendron oro nella classe BC3. Paolo Alfonsi quarto",
+      "link": "https://www.gazzetta.it/bocce/17-10-2026/world-boccia-challenger-gabriele-zendron-oro-nella-classe-bc3.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-10-17"
+    },
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Federica Brignone \"cuore di Tigre\", la rinascita di Frattesi, lo speciale volley: tutto su Sportweek",
+      "link": "https://www.gazzetta.it/sportweek/16-10-2026/federica-brignone-la-rinascita-di-frattesi-lo-speciale-volley-tutto-su-sportweek.shtml",
+      "fonte": "Gazzetta — Sport Invernali",
+      "data_evento": "2026-10-16"
+    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
@@ -24,22 +40,6 @@
       "link": "https://www.gazzetta.it/Sport-Vari/15-10-2026/fioravanti-io-kanoa-e-jack-che-bella-la-nostra-amicizia-ora-sono-pronto-per-la-gara.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-10-15"
-    },
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "Dallo spazio alle Hawaii: Luca Parmitano leggenda, ha completato il mondiale Ironman 2026 di Kona",
-      "link": "https://www.gazzetta.it/Sport-Vari/13-10-2026/luca-parmitano-completa-il-mondiale-ironman-2026-di-kona.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-10-13"
-    },
-    {
-      "sottocategoria": "Squadra",
-      "tipo": "notizia",
-      "titolo": "La Bledisloe Cup non cambia padrone: All Blacks spietati, Australia liquidata 43-21",
-      "link": "https://www.gazzetta.it/Rugby/17-10-2026/rugby-bledisloe-cup-all-blacks-australia-43-21.shtml",
-      "fonte": "Gazzetta — Rugby",
-      "data_evento": "2026-10-17"
     }
   ]
 }
