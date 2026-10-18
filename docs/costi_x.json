@@ -1,6 +1,14 @@
 {
   "pubblicazioni": [
     {
+      "data": "2026-10-18",
+      "slug": "trump-congela-sanzioni-russia-graham-act",
+      "categoria": "Politica Internazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
       "data": "2026-10-17",
       "slug": "getty-images-fotografia-cultura-visiva-koch-equity",
       "categoria": "Cultura",
