@@ -492,6 +492,10 @@ legittime da presentare. Se sì, marcala con "editoriale": true e compila
 le edizioni con "editoriale": false — non forzare il formato.
 
 Rispondi SOLO con un oggetto JSON valido, senza markdown, senza backtick.
+Dentro i testi non usare mai le doppie virgolette dritte (\"): per citazioni,
+titoli ed espressioni tra virgolette usa sempre le caporali « ». Ogni chiave
+compare una sola volta per post: un post per notizia, mai testi di notizie
+diverse nello stesso post.
 Formato esatto:
 
 {{
@@ -653,40 +657,65 @@ def logga_costo(response, edizione: dict) -> None:
         print(f"⚠ Logging costi fallito (non bloccante): {e}")
 
 
+def _nessuna_chiave_doppia(coppie):
+    """object_pairs_hook per json.loads: una chiave ripetuta nello stesso
+    oggetto (es. due "post_sito") significa che il modello ha fuso due
+    notizie in un post. json.loads di default terrebbe in silenzio l'ultima,
+    pubblicando il testo di una notizia sotto il titolo di un'altra."""
+    visto = {}
+    for chiave, valore in coppie:
+        if chiave in visto:
+            raise ValueError(f"chiave duplicata nello stesso oggetto: {chiave!r}")
+        visto[chiave] = valore
+    return visto
+
+
+TENTATIVI_GENERAZIONE = 2
+
+
 def genera_post() -> dict:
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
     categorie_str = "\n".join(f"- {c}" for c in CATEGORIE)
     prompt = PROMPT_UTENTE_TEMPLATE.format(categorie_str=categorie_str)
 
-    response = client.messages.create(
-        model="claude-sonnet-4-6",
-        max_tokens=14000,
-        system=SYSTEM_PROMPT,
-        messages=[{"role": "user", "content": prompt}],
-        tools=[{"type": "web_search_20250305", "name": "web_search"}],
-    )
-
-    testo = "".join(
-        block.text for block in response.content if hasattr(block, "text")
-    )
-
-    if response.stop_reason == "max_tokens":
-        raise ValueError(
-            "Risposta troncata da max_tokens (aumentalo ulteriormente in "
-            f"genera_post()). Testo ricevuto finora:\n{testo}"
+    ultimo_errore = None
+    for tentativo in range(1, TENTATIVI_GENERAZIONE + 1):
+        response = client.messages.create(
+            model="claude-sonnet-4-6",
+            max_tokens=14000,
+            system=SYSTEM_PROMPT,
+            messages=[{"role": "user", "content": prompt}],
+            tools=[{"type": "web_search_20250305", "name": "web_search"}],
         )
 
-    json_testo = estrai_json(testo)
-    try:
-        edizione = json.loads(json_testo)
-    except json.JSONDecodeError as e:
-        raise ValueError(
-            f"JSON malformato ({e}). Candidato estratto:\n{json_testo}"
-        ) from e
+        testo = "".join(
+            block.text for block in response.content if hasattr(block, "text")
+        )
 
-    edizione_valida = valida_edizione(edizione)
-    logga_costo(response, edizione_valida)
-    return edizione_valida
+        if response.stop_reason == "max_tokens":
+            # Non è un errore casuale: ritentare non serve.
+            raise ValueError(
+                "Risposta troncata da max_tokens (aumentalo ulteriormente in "
+                f"genera_post()). Testo ricevuto finora:\n{testo}"
+            )
+
+        try:
+            json_testo = estrai_json(testo)
+            edizione = json.loads(json_testo, object_pairs_hook=_nessuna_chiave_doppia)
+        except (json.JSONDecodeError, ValueError) as e:
+            ultimo_errore = e
+            print(f"⚠ Tentativo {tentativo}/{TENTATIVI_GENERAZIONE}: JSON non "
+                  f"valido ({e}). Risposta grezza:\n{testo}")
+            continue
+
+        edizione_valida = valida_edizione(edizione)
+        logga_costo(response, edizione_valida)
+        return edizione_valida
+
+    raise ValueError(
+        f"JSON non valido dopo {TENTATIVI_GENERAZIONE} tentativi "
+        f"(ultimo errore: {ultimo_errore})"
+    ) from ultimo_errore
 
 def crea_coda_x(edizione: dict) -> None:
     """Crea la coda dei tweet del giorno, da pubblicare uno alla volta
