@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-18",
+      "slug": "bitcoin-recupera-bollette-calo-manovra-bruxelles",
+      "categoria": "Economia",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-18",
       "slug": "schlein-candidata-premier-piazze-guerriglia-sciopero-cgil",
       "categoria": "Politica Nazionale",
       "evidenza": false,
