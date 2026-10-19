@@ -1,6 +1,14 @@
 {
   "pubblicazioni": [
     {
+      "data": "2026-10-19",
+      "slug": "francia-proteste-carovita-2026",
+      "categoria": "Politica Internazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
       "data": "2026-10-18",
       "slug": "tirzepatide-semaglutide-obesita-congresso-lilly",
       "categoria": "Wellness",
