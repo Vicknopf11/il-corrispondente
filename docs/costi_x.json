@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-19",
+      "slug": "guerriglia-milano-minorenni-duomo-ottobre-2026",
+      "categoria": "Cronaca",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-19",
       "slug": "world-skate-games-2026-italia-primo-medagliere",
       "categoria": "Sport",
       "evidenza": false,
@@ -1431,14 +1439,6 @@
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
-    },
-    {
-      "data": "2026-09-24",
-      "slug": "italia-nucleare-legge-delega-senato-approvazione",
-      "categoria": "Politica Nazionale",
-      "evidenza": true,
-      "tipo_richiesta": "ContentCreateWithUrl",
-      "costo_usd": 0.2
     }
   ]
 }
