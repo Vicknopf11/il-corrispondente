@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-19",
+      "slug": "missione-mmx-lancio-phobos-jaxa-2026",
+      "categoria": "Scienza",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-19",
       "slug": "guerriglia-milano-minorenni-duomo-ottobre-2026",
       "categoria": "Cronaca",
       "evidenza": false,
@@ -1428,14 +1436,6 @@
       "data": "2026-09-24",
       "slug": "ciclismo-mondiali-montreal-italia-oro-staffetta-mista",
       "categoria": "Sport",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
-    },
-    {
-      "data": "2026-09-24",
-      "slug": "petrolio-100-dollari-borse-rosso-tensioni-onu-2026",
-      "categoria": "Economia",
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
