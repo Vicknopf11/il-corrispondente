@@ -1,74 +1,74 @@
 {
-  "data": "2026-10-18",
+  "data": "2026-10-19",
   "tweet": [
     {
-      "testo": "Trump congela le sanzioni alla Russia «per i negoziati di pace». Coincidenza: le elezioni di midterm sono a novembre e il gasolio costa troppo. Il Graham Act se l'era fatto firmare lui stesso a settembre. #Ucraina",
-      "url": "https://corrispondente.filoclastos.it/2026/10/18/trump-congela-sanzioni-russia-graham-act/",
-      "slug": "trump-congela-sanzioni-russia-graham-act",
+      "testo": "La Francia brucia e tutti parlano di «teppisti». Nessuno nomina la finanziaria da 54 miliardi di tagli né il debito pubblico ai massimi. Macron invita alla calma: nel bunker, probabilmente. #Francia #carovita",
+      "url": "https://corrispondente.filoclastos.it/2026/10/19/francia-proteste-carovita-2026/",
+      "slug": "francia-proteste-carovita-2026",
       "categoria": "Politica Internazionale",
       "evidenza": true,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Schlein si candida premier «con o senza primarie». Traduzione: senza primarie. Landini annuncia lo sciopero generale. Milano è guerriglia. Tutti urlano. Nessuno parla di cosa c'è nella manovra. Perfetto. #ItaliaInPiazza",
-      "url": "https://corrispondente.filoclastos.it/2026/10/18/schlein-candidata-premier-piazze-guerriglia-sciopero-cgil/",
-      "slug": "schlein-candidata-premier-piazze-guerriglia-sciopero-cgil",
+      "testo": "Meloni blocca gli aumenti ai giudici e convoca un vertice d'urgenza sui «teppisti». Due mosse, una sola direzione: il conflitto con la magistratura è il palco, la piazza è la platea. #Meloni #magistratura",
+      "url": "https://corrispondente.filoclastos.it/2026/10/19/meloni-stipendi-magistrati-ordine-pubblico/",
+      "slug": "meloni-stipendi-magistrati-ordine-pubblico",
       "categoria": "Politica Nazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Bitcoin risale, bollette giù, Bruxelles vuole mettere le mani sulla manovra. Chi festeggia? I trader crypto, le utility energetiche e i commissari europei — non necessariamente nell'ordine che vi aspettate. #Economia",
-      "url": "https://corrispondente.filoclastos.it/2026/10/18/bitcoin-recupera-bollette-calo-manovra-bruxelles/",
-      "slug": "bitcoin-recupera-bollette-calo-manovra-bruxelles",
+      "testo": "Il governatore Panetta avverte: gli eventi climatici estremi hanno causato 200 miliardi di danni nel 2025. Intanto il FTSEMib apre a -0,62% e il greggio a 97 dollari. Chi assicura chi, esattamente? #economia #clima #borse",
+      "url": "https://corrispondente.filoclastos.it/2026/10/19/panetta-danni-climatici-200-miliardi-borse-calo/",
+      "slug": "panetta-danni-climatici-200-miliardi-borse-calo",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "A Rotterdam i Mondiali di ginnastica artistica: Targhetta già qualificato alla finale al cavallo, le Fate in pedana stasera. L'Italia c'è — ma i giornali sportivi sono tutti sulla Serie A. Strano, no? #Ginnastica #Rotterdam2026",
-      "url": "https://corrispondente.filoclastos.it/2026/10/18/mondiali-ginnastica-artistica-rotterdam-2026-italia/",
-      "slug": "mondiali-ginnastica-artistica-rotterdam-2026-italia",
+      "testo": "L'Italia vince i World Skate Games 2026 ad Asunción: 24 ori, 28 argenti, 24 bronzi. Prima nel medagliere. Titolo difeso dopo il 2024 in casa. I giornali sportivi sono tutti sulla Juventus. #sport #pattinaggio #WorldSkateGames",
+      "url": "https://corrispondente.filoclastos.it/2026/10/19/world-skate-games-2026-italia-primo-medagliere/",
+      "slug": "world-skate-games-2026-italia-primo-medagliere",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Roma: 89enne uccide la moglie malata di cancro e si toglie la vita. Cronaca nera, dicono. Oppure: l'ennesima storia di un sistema sanitario che lascia soli chi soffre e chi se ne prende cura.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/18/roma-89enne-uccide-moglie-malata-oncologica-suicidio/",
-      "slug": "roma-89enne-uccide-moglie-malata-oncologica-suicidio",
+      "testo": "Milano, secondo giorno di guerriglia: 200 fermati, 80% minorenni. Tutti parlano di «maranza» e «teppisti». Nessuno parla di periferie, scuole, disoccupazione giovanile. Più facile un decreto che un asilo nido. #Milano #cronaca",
+      "url": "https://corrispondente.filoclastos.it/2026/10/19/guerriglia-milano-minorenni-duomo-ottobre-2026/",
+      "slug": "guerriglia-milano-minorenni-duomo-ottobre-2026",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Singapore batte il record mondiale di precisione con un orologio al lutezio: un secondo di errore ogni 260 miliardi di anni. La corsa per ridefinire il «secondo» internazionale si decide a Versailles a novembre. Chi controlla il tempo, controlla tutto.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/18/orologio-atomico-lutezio-176-record-singapore/",
-      "slug": "orologio-atomico-lutezio-176-record-singapore",
+      "testo": "Stanotte alle 21:41 il Giappone lancia MMX verso Phobos, luna di Marte. Tornerà con campioni nel 2031. Costa anni di lavoro a JAXA, NASA, ESA, CNES, DLR. Nessuno ne parla perché non si vince nulla da mostrare su X. #spazio #MMX #Phobos",
+      "url": "https://corrispondente.filoclastos.it/2026/10/19/missione-mmx-lancio-phobos-jaxa-2026/",
+      "slug": "missione-mmx-lancio-phobos-jaxa-2026",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Getty Images dichiara bancarotta (Chapter 11) con 2,1 miliardi di debiti. Tutti danno la colpa all'IA. Qualcuno ricorda la fusione da 3,7 miliardi con Shutterstock saltata per veti antitrust? No. Più comodo il villain digitale.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/18/getty-images-bancarotta-chapter-11-ia-fotografi/",
-      "slug": "getty-images-bancarotta-chapter-11-ia-fotografi",
+      "testo": "Dal 30 ottobre Meta usa bot e scraper per raccogliere i contenuti dei siti aziendali e addestrare la sua AI. Chi non accetta smette di usare Facebook, Instagram e WhatsApp per il business. Opt-out: nessuno. #Meta #AI #scraping",
+      "url": "https://corrispondente.filoclastos.it/2026/10/19/meta-scraping-siti-aziendali-ai-30-ottobre/",
+      "slug": "meta-scraping-siti-aziendali-ai-30-ottobre",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Il congresso nazionale sull'obesità a Palermo «con il contributo di Lilly» presenta tirzepatide come «nuova frontiera». Notizia: Lilly produce tirzepatide. Questo si chiama conflitto di interessi, non personalizzazione della cura.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/18/tirzepatide-semaglutide-obesita-congresso-lilly/",
-      "slug": "tirzepatide-semaglutide-obesita-congresso-lilly",
+      "testo": "Anabolizzanti via Telegram, spedizioni clandestine, NAS che ammettono di non riuscire a intercettare il mercato. Ma le app di fitness continuano a vendere «la forma perfetta». Il prodotto non è il muscolo: sei tu. #wellness #anabolizzanti",
+      "url": "https://corrispondente.filoclastos.it/2026/10/19/anabolizzanti-mercato-nero-telegram-2026/",
+      "slug": "anabolizzanti-mercato-nero-telegram-2026",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Alla Festa del Cinema di Roma masterclass di Sorogoyen, il film di Luchetti con Elio Germano, Javier Bardem Premio alla Carriera. Chi paga tutto questo? Roma Capitale e il Ministero della Cultura. Cultura pubblica, glamour privato.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/18/festa-cinema-roma-2026-sorogoyen-luchetti-bardem/",
-      "slug": "festa-cinema-roma-2026-sorogoyen-luchetti-bardem",
+      "testo": "Alla Festa del Cinema di Roma arriva «Fjord» di Mungiu, seconda Palma d'oro a Cannes dopo 19 anni. Un film romeno che ha battuto Hollywood. Nel frattempo l'Auditorium finanziato pubblicamente ospita anche il red carpet. #cinema #Mungiu #Roma",
+      "url": "https://corrispondente.filoclastos.it/2026/10/19/festa-cinema-roma-fjord-mungiu-palma-oro-2026/",
+      "slug": "festa-cinema-roma-fjord-mungiu-palma-oro-2026",
       "categoria": "Cultura",
       "evidenza": false,
       "pubblicato": false

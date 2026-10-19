@@ -1,6 +1,188 @@
 {
   "edizioni": [
     {
+      "data": "2026-10-19",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Francia in fiamme: il caro-vita esplode, Macron chiede la calma",
+          "slug": "francia-proteste-carovita-2026",
+          "tag": [
+            "francia",
+            "proteste",
+            "carovita",
+            "macron"
+          ],
+          "evidenza": true,
+          "fonte": "Il Manifesto / La Sicilia / Il Giornale",
+          "cerca_url": "https://www.google.com/search?q=Francia+proteste+carovita+ottobre+2026+Lione+Marsiglia",
+          "post_x": "La Francia brucia e tutti parlano di «teppisti». Nessuno nomina la finanziaria da 54 miliardi di tagli né il debito pubblico ai massimi. Macron invita alla calma: nel bunker, probabilmente. #Francia #carovita",
+          "post_sito": "Lione sveglia, Marsiglia assaltata, il municipio di Limoges in fiamme: la Francia torna a fare quello che sa fare meglio, ma questa volta con una variante. Accanto ai gilet gialli del 2018 ci sono gli studenti, i sindacati e gli agricoltori — quasi il 69% dei francesi approva le proteste, secondo un sondaggio Elabe per BfmTv. Il racconto dominante parla di violenza e disordine; il racconto rimosso è quello di una finanziaria che prevede tagli per 54 miliardi e di un debito pubblico a livelli definiti da alcuni «apocalittici». Chi ci guadagna dall'inquadratura «teppisti contro Stato»? I partiti di destra, Marine Le Pen in testa — favorita nelle presidenziali del 2027 — che condanna la violenza e promette di risolvere i problemi economici se eletta: beneficio taciuto, classico. Il paradosso è che Macron, architetto dell'austerity, incassa solidarietà internazionale come «vittima» di piazze che lui stesso ha contribuito a riempire con cinque cambi di premier in un anno.",
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La posizione del governo Macron",
+              "testo": "L'esecutivo francese ritiene le proteste legittime nella loro componente pacifica, ma condanna gli episodi di violenza — incendi, assalti a edifici pubblici e sedi televisive — come atti criminali non ascrivibili alla protesta sociale. Il ministro dell'Interno ha autorizzato l'uso di granate stordenti e annunciato centinaia di identificazioni. Il governo sostiene che i tagli alla finanziaria sono necessari per ridurre un deficit strutturale che mette a rischio la tenuta dei conti pubblici francesi nel medio periodo."
+            },
+            {
+              "etichetta": "Le rivendicazioni dei manifestanti",
+              "testo": "Studenti, sindacati, gilet gialli e agricoltori convergono su richieste distinte ma economicamente collegate: aumento del salario minimo, indicizzazione dei salari all'inflazione, aumento dei fondi per la scuola pubblica e riduzione del costo dei carburanti. La CGT e l'Union syndicale lycéenne chiedono l'abolizione del sistema di accesso universitario Parcoursup e un piano da 10 miliardi per i licei. La coalizione è eterogenea e in parte difficile da coordinare, il che facilita la penetrazione di gruppi orientati alla violenza."
+            },
+            {
+              "etichetta": "Il nodo politico verso il 2027",
+              "testo": "Le proteste si inseriscono in una fase di forte instabilità istituzionale: la Francia ha cambiato cinque premier in un anno, nessun partito ha la maggioranza parlamentare. Marine Le Pen, favorita nei sondaggi per le presidenziali del 2027, ha adottato un tono moderato, condannando la violenza senza dissociarsi dalla rabbia economica. La sua candidabilità resta incerta a causa di una condanna per appropriazione indebita di fondi europei. Jean-Luc Mélenchon e la sinistra radicale sostengono invece apertamente le ragioni della piazza."
+            }
+          ],
+          "implicazioni": "Se il governo non offre risposte concrete sul potere d'acquisto prima dell'inverno, la pressione sociale rischia di intensificarsi in un periodo storicamente difficile per le famiglie. Sul piano politico, la crisi accelera il posizionamento dei partiti in vista del 2027: ogni settimana di disordini rafforza le narrative di ordine pubblico della destra e indebolisce il centro macroniano, già eroso da anni di riforma delle pensioni e austerity.",
+          "redattore": "Il Corrispondente Estero 1.0"
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Meloni blocca gli stipendi ai magistrati e convoca il vertice sull'ordine pubblico",
+          "slug": "meloni-stipendi-magistrati-ordine-pubblico",
+          "tag": [
+            "meloni",
+            "magistratura",
+            "ordine-pubblico",
+            "milano"
+          ],
+          "evidenza": false,
+          "fonte": "Today.it / Sky TG24 / Il Sole 24 Ore",
+          "cerca_url": "https://www.google.com/search?q=Meloni+stipendi+magistrati+ordine+pubblico+19+ottobre+2026",
+          "post_x": "Meloni blocca gli aumenti ai giudici e convoca un vertice d'urgenza sui «teppisti». Due mosse, una sola direzione: il conflitto con la magistratura è il palco, la piazza è la platea. #Meloni #magistratura",
+          "post_sito": "Due notizie, una regia. La premier Giorgia Meloni rifiuta di firmare il decreto che sblocca gli aumenti di stipendio per i magistrati — previsti da sentenze del Consiglio di Stato — e nella stessa giornata convoca un vertice d'urgenza sulla guerriglia di Milano, ipotizzando un intervento legislativo sulla falsariga del decreto Caivano. Il timing non è casuale: il conflitto con le toghe è un asset elettorale collaudato, e l'emergenza sicurezza permette di riposizionare l'intera agenda politica sul terreno dell'ordine pubblico, dove il centrodestra è strutturalmente avvantaggiato nei sondaggi. Ciò che il racconto dominante tace è la domanda strutturale: cosa ha prodotto una generazione di giovanissimi delle periferie — in gran parte minorenni, per l'80% secondo le forze dell'ordine — disposta ad autoconvocarsi via social e sfasciare il centro di Milano? Il decreto Caivano fu pensato per la camorra a Napoli; applicarlo alle periferie milanesi è la causa strutturale rimossa che diventa eufemismo di potere.",
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0"
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Panetta: eventi estremi, 200 miliardi di danni nel 2025. Le borse aprono in calo",
+          "slug": "panetta-danni-climatici-200-miliardi-borse-calo",
+          "tag": [
+            "banca-d-italia",
+            "clima",
+            "borse",
+            "panetta"
+          ],
+          "evidenza": false,
+          "fonte": "La Notizia Giornale / Soldionline / Il Sole 24 Ore",
+          "cerca_url": "https://www.google.com/search?q=Panetta+Banca+Italia+danni+climatici+200+miliardi+2025+Green+Swan",
+          "post_x": "Il governatore Panetta avverte: gli eventi climatici estremi hanno causato 200 miliardi di danni nel 2025. Intanto il FTSEMib apre a -0,62% e il greggio a 97 dollari. Chi assicura chi, esattamente? #economia #clima #borse",
+          "post_sito": "Alla Green Swan Conference di Manila, il governatore della Banca d'Italia Fabio Panetta ha richiamato l'attenzione sui rischi economici del cambiamento climatico, citando oltre 200 miliardi di dollari di danni da eventi estremi nel solo 2025. Nella stessa mattina, le piazze finanziarie europee aprono in calo: il FTSEMib perde lo 0,62% a 49.550 punti, UniCredit e Stellantis entrambe a -1,71%, il greggio scende a 97 dollari al barile dopo i massimi degli ultimi cinque mesi. Il beneficio taciuto in questa storia è il settore assicurativo-riassicurativo globale: ogni catastrofe climatica è anche una rinegoziazione al rialzo dei premi, e i grandi riassicuratori — da Munich Re a Swiss Re — archiviano anni record proprio mentre il resto dell'economia arranca. Il discorso di Panetta è tecnicamente ineccepibile; ma il silenzio sull'industria fossil fuel che ha finanziato per decenni il negazionismo climatico — e che oggi, con il petrolio a 97 dollari, continua a raccogliere margini straordinari — è il mandante invisibile che manca dalla scena.",
+          "editoriale": false,
+          "redattore": "L'Analista 1.0"
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "World Skate Games 2026: l'Italia prima nel medagliere con 24 ori ad Asunción",
+          "slug": "world-skate-games-2026-italia-primo-medagliere",
+          "tag": [
+            "pattinaggio",
+            "world-skate-games",
+            "italia",
+            "sport-rotelle"
+          ],
+          "evidenza": false,
+          "fonte": "Sportface / Corriere dello Sport",
+          "cerca_url": "https://www.google.com/search?q=World+Skate+Games+2026+Italia+medagliere+Asuncion",
+          "post_x": "L'Italia vince i World Skate Games 2026 ad Asunción: 24 ori, 28 argenti, 24 bronzi. Prima nel medagliere. Titolo difeso dopo il 2024 in casa. I giornali sportivi sono tutti sulla Juventus. #sport #pattinaggio #WorldSkateGames",
+          "post_sito": "Ad Asunción, in Paraguay, si sono chiusi i World Skate Games 2026 e l'Italia ha conquistato la vetta del medagliere con 24 ori, 28 argenti e 24 bronzi — 76 podi complessivi — superando di una sola lunghezza la Colombia. Una vittoria che conferma il dominio azzurro negli sport su rotelle, con atleti che eccellono dall'hockey pista al pattinaggio artistico, dall'inline slalom al free jump. Nomi come Lorenza Cesaris, Francesca Brivio, Gianmarco Savi e Sofia Ciacia campionesse del mondo, ignorati dalla grande stampa sportiva che stamattina apre su Juventus-Lazio. Il conto dietro la medaglia, in questo caso, va rovesciato: è un movimento che ottiene risultati straordinari con visibilità minima, senza i contratti milionari del calcio, senza le prime pagine, e — a dispetto di tutto — prima del mondo.",
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0"
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Guerriglia a Milano: 200 fermati, l'80% minorenni. Il secondo giorno al Duomo",
+          "slug": "guerriglia-milano-minorenni-duomo-ottobre-2026",
+          "tag": [
+            "milano",
+            "guerriglia",
+            "minorenni",
+            "ordine-pubblico"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Il Fatto Quotidiano / Open Online",
+          "cerca_url": "https://www.google.com/search?q=guerriglia+Milano+minorenni+Duomo+ottobre+2026",
+          "post_x": "Milano, secondo giorno di guerriglia: 200 fermati, 80% minorenni. Tutti parlano di «maranza» e «teppisti». Nessuno parla di periferie, scuole, disoccupazione giovanile. Più facile un decreto che un asilo nido. #Milano #cronaca",
+          "post_sito": "Per il secondo giorno consecutivo gruppi di giovani — in stragrande maggioranza minorenni, molti provenienti dalle periferie e dall'hinterland milanese, autoconvocatisi via social — hanno devastato il centro di Milano: vetrine sfondate, negozi saccheggiati, sassi e bombe carta contro le forze dell'ordine. Oltre 200 i fermati, l'80% minorenni. La causa strutturale rimossa è quella che il dibattito pubblico sistematicamente evita: Milano è la città più diseguale d'Italia, con una forbice tra redditi del centro e delle periferie tra le più ampie d'Europa, e una disoccupazione giovanile nelle aree esterne al centro che non compare nelle statistiche delle copertine. La responsabilità diffusa — decenni di disinvestimento nelle periferie urbane, scuole sotto-finanziate, spazi pubblici inesistenti — viene condensata sull'etichetta «maranza» e su qualche decreto repressivo. Chi ci guadagna da questa semplificazione sono le forze politiche che trasformano una questione sociale in un'emergenza securitaria: più telecamere, più polizia, più carcere. Meno case, meno scuole, meno futuro.",
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0"
+        },
+        {
+          "categoria": "Scienza",
+          "titolo": "Lancio della missione MMX: il Giappone parte verso Phobos, luna di Marte",
+          "slug": "missione-mmx-lancio-phobos-jaxa-2026",
+          "tag": [
+            "spazio",
+            "jaxa",
+            "phobos",
+            "marte"
+          ],
+          "evidenza": false,
+          "fonte": "ESA / MeteoWeb / Passione Astronomia",
+          "cerca_url": "https://www.google.com/search?q=missione+MMX+lancio+Phobos+JAXA+19+ottobre+2026",
+          "post_x": "Stanotte alle 21:41 il Giappone lancia MMX verso Phobos, luna di Marte. Tornerà con campioni nel 2031. Costa anni di lavoro a JAXA, NASA, ESA, CNES, DLR. Nessuno ne parla perché non si vince nulla da mostrare su X. #spazio #MMX #Phobos",
+          "post_sito": "Questa sera alle 21:41 ora italiana, dal Centro spaziale di Tanegashima a bordo di un razzo H3, decolla la missione MMX — Martian Moons eXploration — della JAXA, agenzia spaziale giapponese, in collaborazione con NASA, ESA, CNES e il centro aerospaziale tedesco DLR. Obiettivo: raggiungere Phobos, la più grande luna di Marte, raccogliere almeno 10 grammi di campioni dalla sua superficie e riportarli sulla Terra nel 2031. Sarà la prima missione al mondo a restituire materiale estratto da una luna marziana. La domanda scientifica aperta da decenni — Phobos è un asteroide catturato dalla gravità di Marte o il residuo di un impatto antico? — potrebbe avere risposta. Il beneficio taciuto è la geopolitica spaziale: mentre Cina e USA si contendono la Luna e Marte, il Giappone costruisce silenziosamente una posizione di eccellenza nel campionamento extraterrestre — già dimostrata con Hayabusa — che vale miliardi in contratti tecnologici e influenza nelle agenzie multilaterali. La scienza è reale; gli interessi strategici anche.",
+          "editoriale": false,
+          "redattore": "Il Metodico 1.0"
+        },
+        {
+          "categoria": "AI",
+          "titolo": "Meta si prende i siti aziendali: dal 30 ottobre scraper e bot per addestrare l'AI",
+          "slug": "meta-scraping-siti-aziendali-ai-30-ottobre",
+          "tag": [
+            "meta",
+            "intelligenza-artificiale",
+            "scraping",
+            "editori"
+          ],
+          "evidenza": false,
+          "fonte": "Lo Speciale Giornale / Matrice Digitale / PPC Land",
+          "cerca_url": "https://www.google.com/search?q=Meta+nuovi+termini+scraping+siti+aziendali+AI+ottobre+2026",
+          "post_x": "Dal 30 ottobre Meta usa bot e scraper per raccogliere i contenuti dei siti aziendali e addestrare la sua AI. Chi non accetta smette di usare Facebook, Instagram e WhatsApp per il business. Opt-out: nessuno. #Meta #AI #scraping",
+          "post_sito": "Dal 30 ottobre, chiunque utilizzi i servizi commerciali di Meta — account aziendali su Facebook, Instagram, Messenger e WhatsApp — accetterà clausole che autorizzano esplicitamente l'uso di «web scraper, bot, robot, spider, crawler» per raccogliere e analizzare i contenuti dei siti web collegati a quegli account, «allo scopo di sviluppare, migliorare, ricercare e addestrare i prodotti Meta». Non esiste un opt-out: l'unica alternativa è abbandonare le piattaforme. Il mandante invisibile è ovvio: Meta sta acquisendo attraverso una modifica contrattuale ciò che altrove deve comprare con licenze retribuite — con alcuni grandi editori, infatti, ha firmato accordi a pagamento, creando un doppio binario che tre esperti legali sentiti dal Nieman Lab ritengono potenzialmente problematico sul piano della legittimità. Meta sostiene che «non cambia nulla». Ma se non cambia nulla, perché aggiornare esplicitamente i termini per includerlo? Il coro compatto dei comunicati aziendali rassicuranti non elimina la domanda.",
+          "editoriale": false,
+          "redattore": "Il Futurologo 1.0"
+        },
+        {
+          "categoria": "Wellness",
+          "titolo": "Il mercato nero degli anabolizzanti: da Telegram alle spedizioni clandestine",
+          "slug": "anabolizzanti-mercato-nero-telegram-2026",
+          "tag": [
+            "anabolizzanti",
+            "fitness",
+            "mercato-nero",
+            "salute"
+          ],
+          "evidenza": false,
+          "fonte": "Il Dolomiti",
+          "cerca_url": "https://www.google.com/search?q=anabolizzanti+mercato+nero+Telegram+spedizioni+clandestine+ottobre+2026",
+          "post_x": "Anabolizzanti via Telegram, spedizioni clandestine, NAS che ammettono di non riuscire a intercettare il mercato. Ma le app di fitness continuano a vendere «la forma perfetta». Il prodotto non è il muscolo: sei tu. #wellness #anabolizzanti",
+          "post_sito": "Un'inchiesta rivela il proliferare del mercato nero degli anabolizzanti in Italia: canali Telegram, spedizioni che fingono di contenere integratori leciti, e un mercato che i NAS definiscono «difficile da intercettare». Gli esperti medici ricordano i rischi documentati: cancro, malattie cardiovascolari, sterilità. Il bersaglio satirico non sono le persone che cercano un corpo diverso — spesso spinte da insicurezze costruite a tavolino — ma l'industria del wellness che alimenta il «culto dell'immagine», per usare le parole di un medico citato nell'inchiesta, e poi si volta dall'altra parte quando il mercato legale non basta. Il beneficio taciuto è dell'intera filiera del fitness industriale: le palestre che vendono abbonamenti e integrano i ricavi con la vendita di supplementi borderline, i social che monetizzano contenuti di influencer con fisici irraggiungibili senza chimica, le piattaforme che ospitano i canali Telegram senza troppa solerzia. Il mercato nero degli anabolizzanti non nasce nel vuoto: nasce dove finisce la pubblicità legale e inizia la stessa promessa.",
+          "editoriale": false,
+          "redattore": "Il Life Coach 1.0"
+        },
+        {
+          "categoria": "Cultura",
+          "titolo": "Festa del Cinema di Roma: arriva «Fjord», la seconda Palma d'oro di Mungiu",
+          "slug": "festa-cinema-roma-fjord-mungiu-palma-oro-2026",
+          "tag": [
+            "cinema",
+            "roma",
+            "mungiu",
+            "festival"
+          ],
+          "evidenza": false,
+          "fonte": "Libero / Like in a Movie",
+          "cerca_url": "https://www.google.com/search?q=Festa+Cinema+Roma+2026+Fjord+Mungiu+Palma+oro",
+          "post_x": "Alla Festa del Cinema di Roma arriva «Fjord» di Mungiu, seconda Palma d'oro a Cannes dopo 19 anni. Un film romeno che ha battuto Hollywood. Nel frattempo l'Auditorium finanziato pubblicamente ospita anche il red carpet. #cinema #Mungiu #Roma",
+          "post_sito": "Settimo giorno della Festa del Cinema di Roma 2026: in Sala Petrassi arriva «Fjord», il film con cui il regista romeno Cristian Mungiu ha conquistato la sua seconda Palma d'oro a Cannes — diciannove anni dopo «4 mesi, 3 settimane, 2 giorni». In serata, Anthony Ippolito riceve il Premio Progressive alla Carriera prima dell'anteprima di «I Play Rocky», e la serie «Melania Rea» porta nelle sale uno dei casi giudiziari più seguiti degli anni Dieci. La Festa del Cinema è uno degli eventi più sovvenzionati del panorama culturale italiano, ospitato nell'Auditorium Parco della Musica Ennio Morricone con il sostegno della Fondazione Cinema per Roma e del Comune. Il beneficio taciuto è la dialettica tra ciò che la manifestazione celebra — un cinema d'autore europeo che spesso critica le stesse élite che finanziano il festival — e il modello economico che la sostiene, fatto di sponsor privati, istituzioni pubbliche e la necessità di red carpet abbastanza glamour da garantire copertura mediatica. Mungiu ha fatto un film sulla Romania contemporanea; Roma lo accoglie come feticcio culturale. Il cerchio si chiude.",
+          "editoriale": false,
+          "redattore": "Il Letterato 1.0"
+        }
+      ]
+    },
+    {
       "data": "2026-10-18",
       "post": [
         {
@@ -4433,121 +4615,7 @@
           "redattore": "L'Osservatore 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-09-16",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Drone russo abbattuto in Lituania da caccia italiani: l'escalation sul Baltico",
-          "slug": "drone-russo-abbattuto-lituania-caccia-italiani-escalation-baltico",
-          "tag": [
-            "nato",
-            "russia",
-            "lituania",
-            "difesa"
-          ],
-          "evidenza": true,
-          "fonte": "ANSA / Il Giornale",
-          "cerca_url": "https://www.google.com/search?q=caccia+italiani+abbattono+drone+russo+Lituania+settembre+2026",
-          "post_x": "Due Eurofighter italiani abbattono un drone armato in Lituania. Crosetto vola a Vilnius a ringraziare i piloti. Mentre lui spiega quanto siamo fondamentali, qualcuno conta i miliardi del riarmo. #NATO #Russia",
-          "post_sito": "Nella notte tra il 14 e il 15 settembre, due Eurofighter Typhoon italiani della task force NATO Air Baltic Thunder III hanno abbattuto un drone armato nello spazio aereo lituano — secondo episodio analogo nell'arco di un mese. Il ministro Crosetto ha subito imbracciato la retorica dell'alleanza indispensabile, volando a Vilnius a farsi fotografare coi piloti. Quello che il racconto trionfante omette è il contesto: il drone proveniva probabilmente dalla Bielorussia, la provenienza russa non era ancora accertata al momento delle dichiarazioni, e intanto una fregata di Mosca sfiorava con razzi un elicottero danese. Sullo sfondo, chi ci guadagna ha un nome preciso: l'industria della difesa europea, che proprio in questi giorni vede l'Italia richiedere a Bruxelles una clausola di flessibilità da 22 miliardi di euro per le spese militari. Il conto dietro la medaglia: ogni drone abbattuto è un argomento in più per il prossimo decreto di riarmo.",
-          "editoriale": true,
-          "prospettive": [
-            {
-              "etichetta": "La versione NATO e governo italiano",
-              "testo": "Il ministro della Difesa Guido Crosetto ha definito l'intervento dei caccia italiani prova del valore strategico della presenza italiana sul fianco est dell'Alleanza. Le forze armate lituane hanno confermato che il drone trasportava un ordigno esplosivo, poi neutralizzato dagli artificieri. Per la NATO si tratta di un episodio che dimostra il corretto funzionamento dei sistemi di difesa collettiva. L'Italia è presente in Lituania con contingenti aerei da oltre dieci anni."
-            },
-            {
-              "etichetta": "Il nodo dell'attribuzione",
-              "testo": "Al momento dell'abbattimento, l'origine russa del drone non era accertata definitivamente: secondo dati preliminari del Centro nazionale di gestione delle crisi lituano, il velivolo proveniva dalla Bielorussia e si dirigeva verso ovest. Le indagini sui rottami erano in corso. Attribuire pubblicamente la responsabilità a Mosca prima della conferma tecnica è una scelta politica, non un atto di intelligence, e solleva interrogativi sul modo in cui vengono gestite le comunicazioni durante episodi ad alto rischio di escalation."
-            },
-            {
-              "etichetta": "Il contesto economico del riarmo",
-              "testo": "L'Italia ha chiesto a settembre 2026 alla Commissione europea l'attivazione della clausola di flessibilità per investimenti nella difesa, per un importo di circa 22 miliardi di euro. Episodi come quello del drone in Lituania alimentano il clima politico favorevole a questi scostamenti di bilancio. L'industria della difesa europea — in particolare i produttori di sistemi missilistici e di caccia multiruolo — beneficia direttamente dell'aumento della domanda pubblica, un elemento raramente citato nella narrazione ufficiale sull'escalation."
-            },
-            {
-              "etichetta": "Il rischio di escalation",
-              "testo": "Nello stesso arco temporale, una fregata russa ha lanciato razzi di segnalazione verso un elicottero militare danese, la Germania ha trovato frammenti di drone vicino a una base di Wunstorf, e il consigliere di Putin Patrushev ha minacciato la Polonia. Von der Leyen ha parlato di un 'modello più ampio di aggressione'. Analisti militari avvertono che la moltiplicazione di incidenti ravvicinati aumenta il rischio di errori di calcolo, specialmente in assenza di canali di comunicazione diretta tra NATO e Russia sul traffico aereo al confine."
-            }
-          ],
-          "implicazioni": "Se confermata l'origine russa del drone, l'episodio potrebbe rafforzare la richiesta italiana e di altri paesi NATO di aumentare le spese per la difesa aerea del fianco est. Sul piano diplomatico, l'assenza di canali di de-escalation funzionanti tra NATO e Russia rende ogni incidente potenzialmente più pericoloso del precedente. In Italia, l'episodio fornisce argomenti concreti al governo per far approvare in Parlamento lo scostamento di bilancio da 22 miliardi destinato alla difesa.",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Il Senato approva lo Stabilicum: quasi il 60% dei parlamentari sarà nominato dai partiti",
-          "slug": "senato-approva-stabilicum-legge-elettorale-parlamentari-nominati-partiti",
-          "tag": [
-            "legge-elettorale",
-            "stabilicum",
-            "parlamento",
-            "meloni"
-          ],
-          "evidenza": false,
-          "fonte": "Il Post / Sky TG24",
-          "cerca_url": "https://www.google.com/search?q=Senato+approva+legge+elettorale+Stabilicum+settembre+2026",
-          "post_x": "Il Senato vara lo Stabilicum con 113 sì. Secondo Youtrend il 60% dei prossimi parlamentari sarà nominato dalle segreterie. Chiamarla legge sulle preferenze è tecnicamente vero. Chiamarla democrazia è un esercizio di ottimismo. #LeggeTruffa",
-          "post_sito": "Il Senato ha approvato la riforma elettorale soprannominata Stabilicum dalla maggioranza e Melonellum dalle opposizioni: proporzionale con premio di governabilità a chi supera il 42%, preferenze col trucco dei capilista bloccati. Secondo l'ultima simulazione di Youtrend, quasi il 60% dei futuri deputati e senatori sarà comunque nominato dalle segreterie di partito — non eletto dagli elettori. Il racconto dominante inquadra questo come una riforma della stabilità: ma chi beneficia davvero? I partiti strutturati, quelli con macchine organizzative capaci di gestire capilista e liste — a partire da Fratelli d'Italia, che proprio su questo terreno ha il vantaggio competitivo più solido. L'ironia è che il governo più longevo della storia repubblicana, come rivendicato dalla stessa Meloni, cambia la legge elettorale proprio mentre è al potere — il classico cucire il vestito addosso a se stessi, negando contemporaneamente di farlo. Mandante invisibile: i vertici di partito, che con questa riforma rafforzano il controllo sulle nomine e quindi sul potere interno, lontano dal voto degli elettori.",
-          "editoriale": false,
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "UniCredit-Commerzbank: Berlino apre ma detta le condizioni, 40mila posti in bilico",
-          "slug": "unicredit-commerzbank-berlino-condizioni-orcel-trattativa",
-          "tag": [
-            "unicredit",
-            "commerzbank",
-            "banche",
-            "europa"
-          ],
-          "evidenza": false,
-          "fonte": "Fortune Italia / Il Messaggero",
-          "cerca_url": "https://www.google.com/search?q=UniCredit+Commerzbank+Berlino+condizioni+Orcel+settembre+2026",
-          "post_x": "Orcel incontra Klingbeil a Berlino. UniCredit ha già il 47,6% di Commerzbank. Berlino chiede sede, quotazione, Pmi e 2 seggi nel board. Resa sì, ma firmata. I 40mila dipendenti tedeschi aspettano di sapere chi erano davvero il cliente. #Banche #Risiko",
-          "post_sito": "Andrea Orcel ha incontrato il ministro delle Finanze tedesco Lars Klingbeil in quello che entrambe le parti hanno definito un colloquio 'costruttivo': UniCredit è già arrivata al 47,6% del capitale di Commerzbank tramite OPS, e Berlino — dopo due anni di resistenza — ha deciso di trattare invece di continuare a bloccare. Le condizioni tedesche sono quattro: sede e quotazione a Francoforte, continuità del credito alle PMI, tutela degli oltre 40mila dipendenti e due seggi nel consiglio di sorveglianza. Quello che il comunicato 'costruttivo' non dice è che UniCredit ha già indicato la possibilità di circa 7.000 esuberi nell'integrazione — un numero che non è sparito dal dossier, è solo temporaneamente messo in un cassetto in attesa che la trattativa si consolidi. Beneficio taciuto: per Orcel, chiudere rapidamente il dossier tedesco significa liberare risorse per il risiko bancario italiano — dove MPS, Banco BPM e Banca Generali attendono ancora una sistemazione definitiva. I dipendenti di Commerzbank, nel frattempo, sono moneta di scambio di una partita che si gioca tra banchieri e ministri.",
-          "editoriale": false,
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Zverev vince gli US Open con il diabete di tipo 1: secondo Slam in carriera, il primo a New York",
-          "slug": "zverev-vince-us-open-2026-diabete-tipo-1-secondo-slam",
-          "tag": [
-            "tennis",
-            "us-open",
-            "zverev",
-            "diabete"
-          ],
-          "evidenza": false,
-          "fonte": "Olympics.com / Ubitennis",
-          "cerca_url": "https://www.google.com/search?q=Zverev+vince+US+Open+2026+diabete",
-          "post_x": "Zverev vince gli US Open con il diabete di tipo 1 diagnosticato a 4 anni. I medici dissero: vita e sport saranno molto limitati. Lui ha vinto Roland Garros e US Open nello stesso anno. Alcune previsioni mediche invecchiano male. #USOpen2026 #Tennis",
-          "post_sito": "Alexander Zverev ha conquistato gli US Open 2026 battendo il padrone di casa Ben Shelton in quattro set (6-3, 7-6, 5-7, 6-2): è il suo secondo Slam stagionale dopo il Roland Garros, e il primo titolo a Flushing Meadows. Durante la cerimonia di premiazione ha parlato pubblicamente del suo diabete di tipo 1, diagnosticato quando aveva quattro anni, dedicando il trofeo alla madre Irina che aveva sfidato le previsioni dei medici. Nessuna ironia qui: questa è una storia sportiva che merita di essere raccontata senza filtri sarcastici. L'unica annotazione controcorrente è per il sistema mediatico: il conto dietro la medaglia è che la storia di Zverev ha avuto più visibilità per il discorso sul diabete che per il livello tecnico di un tennista che nel 2026 ha vinto due Slam — il che dice qualcosa su come lo sport di vertice viene raccontato, spesso cercando la narrativa emotiva più che l'analisi atletica. Il direttore dell'OMS ha usato la vittoria di Zverev per chiedere agli Stati di investire nella prevenzione del diabete: almeno un politico ha saputo leggere una notizia sportiva in modo utile.",
-          "editoriale": false,
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Incendi dolosi in Costiera Amalfitana: ettari di macchia mediterranea distrutti, ipotesi dolosa",
-          "slug": "incendi-dolosi-costiera-amalfitana-positano-agerola-settembre-2026",
-          "tag": [
-            "incendi",
-            "costiera-amalfitana",
-            "campania",
-            "dissesto-idrogeologico"
-          ],
-          "evidenza": false,
-          "fonte": "Il Messaggero / Cronache della Campania",
-          "cerca_url": "https://www.google.com/search?q=incendi+costiera+amalfitana+Positano+Agerola+settembre+2026+dolosi",
-          "post_x": "Costiera Amalfitana in fumo. Fronte di oltre 3 km, Statale 163 chiusa, alberi secolari distrutti. La sindaca di Positano: «Origine dolosa». Ogni anno le stesse fiamme, ogni anno la stessa sorpresa. La causa strutturale: la mancanza di un piano forestale serio. #CostieraAmalfitana",
-          "post_sito": "Le fiamme hanno percorso un fronte di oltre tre chilometri tra Positano, Amalfi, Agerola e Vico Equense, con sette squadre dei Vigili del Fuoco, tre Canadair e diversi elicotteri impegnati nelle operazioni. La Statale 163 Amalfitana è rimasta chiusa per ore, una struttura ricettiva evacuata. La sindaca di Positano Gabriella Guida ha dichiarato all'ANSA che l'ipotesi è quella di un incendio di natura dolosa: fiamme appiccate in più punti contemporaneamente. La causa strutturale rimossa dal racconto di emergenza è quella di sempre: la Campania non dispone di un piano straordinario per la forestazione e il presidio del territorio, come chiedono da anni i sindacati ambientali. Il sindaco di Amalfi ha descritto una situazione mai vista negli ultimi undici anni. Gli alberi secolari distrutti non si ripiantano con un decreto d'urgenza, e il dissesto idrogeologico che ne seguirà arriverà puntuale come le piogge autunnali — quando l'attenzione dei media sarà già su qualcos'altro. Chi ci guadagna dagli incendi dolosi in zone di pregio turistico è una domanda che le indagini dovranno rispondere: la speculazione edilizia sulle aree boschive ha una storia lunga in Campania.",
-          "editoriale": false,
-          "redattore": "L'Osservatore 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-10-18T14:01:20.869633+00:00"
+  "ultimo_aggiornamento": "2026-10-19T07:19:47.866985+00:00"
 }
