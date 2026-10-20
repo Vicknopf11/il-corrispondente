@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-20",
+      "slug": "festa-cinema-roma-2026-einaudi-jeunet-pino-daniele",
+      "categoria": "Cultura",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-20",
       "slug": "osteoporosi-giornata-mondiale-ia-diagnosi-radiografie",
       "categoria": "Wellness",
       "evidenza": false,
@@ -1431,14 +1439,6 @@
       "evidenza": true,
       "tipo_richiesta": "ContentCreateWithUrl",
       "costo_usd": 0.2
-    },
-    {
-      "data": "2026-09-27",
-      "slug": "pm-antimafia-cerreti-auto-blindata-danneggiata-palazzo-giustizia-milano",
-      "categoria": "Cronaca",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
     }
   ]
 }
