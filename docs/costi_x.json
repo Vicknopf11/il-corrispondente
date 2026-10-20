@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-20",
+      "slug": "debito-ia-crollo-borse-tech-btp-tensione",
+      "categoria": "Economia",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-20",
       "slug": "decreto-sicurezza-milano-500-militari-fermo-minorenni",
       "categoria": "Politica Nazionale",
       "evidenza": false,
@@ -1428,14 +1436,6 @@
       "data": "2026-09-25",
       "slug": "ranucci-rai-tribunale-udienza-reintegro-report",
       "categoria": "Cronaca",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
-    },
-    {
-      "data": "2026-09-25",
-      "slug": "italvolley-eliminata-finlandia-quarti-europei-2026",
-      "categoria": "Sport",
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
