@@ -1,77 +1,77 @@
 {
-  "data": "2026-10-19",
+  "data": "2026-10-20",
   "tweet": [
     {
-      "testo": "La Francia brucia e tutti parlano di «teppisti». Nessuno nomina la finanziaria da 54 miliardi di tagli né il debito pubblico ai massimi. Macron invita alla calma: nel bunker, probabilmente. #Francia #carovita",
-      "url": "https://corrispondente.filoclastos.it/2026/10/19/francia-proteste-carovita-2026/",
-      "slug": "francia-proteste-carovita-2026",
+      "testo": "Trump apre al vertice con Putin e Xi per «chiudere» la guerra. Zelensky non è invitato. La pace si fa senza chi la subisce: ormai è una tradizione consolidata. #Ucraina",
+      "url": "https://corrispondente.filoclastos.it/2026/10/20/trump-putin-xi-vertice-tre-ucraina-zelensky-escluso/",
+      "slug": "trump-putin-xi-vertice-tre-ucraina-zelensky-escluso",
       "categoria": "Politica Internazionale",
       "evidenza": true,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Meloni blocca gli aumenti ai giudici e convoca un vertice d'urgenza sui «teppisti». Due mosse, una sola direzione: il conflitto con la magistratura è il palco, la piazza è la platea. #Meloni #magistratura",
-      "url": "https://corrispondente.filoclastos.it/2026/10/19/meloni-stipendi-magistrati-ordine-pubblico/",
-      "slug": "meloni-stipendi-magistrati-ordine-pubblico",
+      "testo": "Guerriglia a Milano → decreto sicurezza varato in 48 ore. 500 militari con poteri di polizia, fermo per i minorenni. Il governo che ci mette mesi per la manovra fa i decreto legge nel weekend. #Milano #Sicurezza",
+      "url": "https://corrispondente.filoclastos.it/2026/10/20/decreto-sicurezza-milano-500-militari-fermo-minorenni/",
+      "slug": "decreto-sicurezza-milano-500-militari-fermo-minorenni",
       "categoria": "Politica Nazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Il governatore Panetta avverte: gli eventi climatici estremi hanno causato 200 miliardi di danni nel 2025. Intanto il FTSEMib apre a -0,62% e il greggio a 97 dollari. Chi assicura chi, esattamente? #economia #clima #borse",
-      "url": "https://corrispondente.filoclastos.it/2026/10/19/panetta-danni-climatici-200-miliardi-borse-calo/",
-      "slug": "panetta-danni-climatici-200-miliardi-borse-calo",
+      "testo": "Il Nasdaq ha bruciato oltre mille miliardi di capitalizzazione in una settimana per i «timori sul debito AI». Traduzione: i mercati si sono accorti che i data center costano prima che i ricavi arrivino. Sorpresa. #Borse #AI",
+      "url": "https://corrispondente.filoclastos.it/2026/10/20/debito-ia-crollo-borse-tech-btp-tensione/",
+      "slug": "debito-ia-crollo-borse-tech-btp-tensione",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "L'Italia vince i World Skate Games 2026 ad Asunción: 24 ori, 28 argenti, 24 bronzi. Prima nel medagliere. Titolo difeso dopo il 2024 in casa. I giornali sportivi sono tutti sulla Juventus. #sport #pattinaggio #WorldSkateGames",
-      "url": "https://corrispondente.filoclastos.it/2026/10/19/world-skate-games-2026-italia-primo-medagliere/",
-      "slug": "world-skate-games-2026-italia-primo-medagliere",
+      "testo": "Jonathan Milan: oro mondiale nell'inseguimento su pista con record del mondo. L'Italia chiude Shanghai con 4 medaglie. Il ciclismo su pista esiste, anche quando i quotidiani sportivi aprono con la crisi Juventus. #Ciclismo #Mondiali",
+      "url": "https://corrispondente.filoclastos.it/2026/10/20/mondiali-ciclismo-pista-shanghai-2026-milan-oro-italia-medaglie/",
+      "slug": "mondiali-ciclismo-pista-shanghai-2026-milan-oro-italia-medaglie",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Milano, secondo giorno di guerriglia: 200 fermati, 80% minorenni. Tutti parlano di «maranza» e «teppisti». Nessuno parla di periferie, scuole, disoccupazione giovanile. Più facile un decreto che un asilo nido. #Milano #cronaca",
-      "url": "https://corrispondente.filoclastos.it/2026/10/19/guerriglia-milano-minorenni-duomo-ottobre-2026/",
-      "slug": "guerriglia-milano-minorenni-duomo-ottobre-2026",
+      "testo": "Milano: 271 in questura, 34 minori arrestati, negozi chiusi. Il racconto dominante è «maranza contro civiltà». Quello che si tace: inflazione al 4%, emergenza casa, una generazione senza prospettive. #Milano",
+      "url": "https://corrispondente.filoclastos.it/2026/10/20/scontri-milano-271-questura-minori-negozi-chiusi/",
+      "slug": "scontri-milano-271-questura-minori-negozi-chiusi",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Stanotte alle 21:41 il Giappone lancia MMX verso Phobos, luna di Marte. Tornerà con campioni nel 2031. Costa anni di lavoro a JAXA, NASA, ESA, CNES, DLR. Nessuno ne parla perché non si vince nulla da mostrare su X. #spazio #MMX #Phobos",
-      "url": "https://corrispondente.filoclastos.it/2026/10/19/missione-mmx-lancio-phobos-jaxa-2026/",
-      "slug": "missione-mmx-lancio-phobos-jaxa-2026",
+      "testo": "Il Giappone lancia MMX verso Phobos, luna di Marte. Prima missione al mondo a tentare il recupero di campioni da un satellite marziano. Rientro previsto nel 2031. Nel frattempo noi discutiamo di militari a Milano. #Spazio #MMX",
+      "url": "https://corrispondente.filoclastos.it/2026/10/20/giappone-sonda-mmx-phobos-marte-lancio-2026/",
+      "slug": "giappone-sonda-mmx-phobos-marte-lancio-2026",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Dal 30 ottobre Meta usa bot e scraper per raccogliere i contenuti dei siti aziendali e addestrare la sua AI. Chi non accetta smette di usare Facebook, Instagram e WhatsApp per il business. Opt-out: nessuno. #Meta #AI #scraping",
-      "url": "https://corrispondente.filoclastos.it/2026/10/19/meta-scraping-siti-aziendali-ai-30-ottobre/",
-      "slug": "meta-scraping-siti-aziendali-ai-30-ottobre",
+      "testo": "L'IA sta «sfidando il modello di business» delle grandi società di consulenza. Traduzione: il lavoro a basso valore che i junior facevano a 80€/ora — e che veniva rivenduto a 400 — ora lo fa un modello linguistico. Il sistema era già rotto prima. #AI #Consulenza",
+      "url": "https://corrispondente.filoclastos.it/2026/10/20/consulenza-ia-modello-business-crisi-junior-automazione/",
+      "slug": "consulenza-ia-modello-business-crisi-junior-automazione",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Anabolizzanti via Telegram, spedizioni clandestine, NAS che ammettono di non riuscire a intercettare il mercato. Ma le app di fitness continuano a vendere «la forma perfetta». Il prodotto non è il muscolo: sei tu. #wellness #anabolizzanti",
-      "url": "https://corrispondente.filoclastos.it/2026/10/19/anabolizzanti-mercato-nero-telegram-2026/",
-      "slug": "anabolizzanti-mercato-nero-telegram-2026",
+      "testo": "Giornata mondiale dell'osteoporosi: l'IA può già individuare ossa fragili nelle radiografie di routine. Tecnologia promettente. Chi la pagherà nella sanità pubblica è ancora tutto da scrivere. #Osteoporosi #Salute",
+      "url": "https://corrispondente.filoclastos.it/2026/10/20/osteoporosi-giornata-mondiale-ia-diagnosi-radiografie/",
+      "slug": "osteoporosi-giornata-mondiale-ia-diagnosi-radiografie",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Alla Festa del Cinema di Roma arriva «Fjord» di Mungiu, seconda Palma d'oro a Cannes dopo 19 anni. Un film romeno che ha battuto Hollywood. Nel frattempo l'Auditorium finanziato pubblicamente ospita anche il red carpet. #cinema #Mungiu #Roma",
-      "url": "https://corrispondente.filoclastos.it/2026/10/19/festa-cinema-roma-fjord-mungiu-palma-oro-2026/",
-      "slug": "festa-cinema-roma-fjord-mungiu-palma-oro-2026",
+      "testo": "Alla Festa del Cinema di Roma: Ludovico Einaudi che rivisita i suoi luoghi, Jean-Pierre Jeunet con il nuovo film, e il biopic su Pino Daniele in sala. Cultura alta. Nel frattempo la compagna di Pino dice che «ne sarebbe inorridito». #FestaCinema #Roma",
+      "url": "https://corrispondente.filoclastos.it/2026/10/20/festa-cinema-roma-2026-einaudi-jeunet-pino-daniele/",
+      "slug": "festa-cinema-roma-2026-einaudi-jeunet-pino-daniele",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }
