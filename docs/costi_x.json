@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-20",
+      "slug": "giappone-sonda-mmx-phobos-marte-lancio-2026",
+      "categoria": "Scienza",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-20",
       "slug": "scontri-milano-271-questura-minori-negozi-chiusi",
       "categoria": "Cronaca",
       "evidenza": false,
@@ -1431,14 +1439,6 @@
       "evidenza": true,
       "tipo_richiesta": "ContentCreateWithUrl",
       "costo_usd": 0.2
-    },
-    {
-      "data": "2026-09-27",
-      "slug": "suppletive-reggio-calabria-roscioli-benedetto-vannacci-2026",
-      "categoria": "Politica Nazionale",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
     }
   ]
 }
