@@ -1,6 +1,22 @@
 {
-  "generato": "2026-10-20T05:31:00.755420+00:00",
+  "generato": "2026-10-20T11:30:57.846758+00:00",
   "item": [
+    {
+      "sottocategoria": "Atletica",
+      "tipo": "notizia",
+      "titolo": "L'Italia dell'atletica vola: cinque primi posti nei ranking mondiali di specialità. Solo gli Usa meglio",
+      "link": "https://www.gazzetta.it/Atletica/16-10-2026/ranking-mondiali-di-atletica-l-italia-sale-a-cinque-primi-posti-solo-gli-usa-davanti.shtml",
+      "fonte": "Gazzetta — Atletica",
+      "data_evento": "2026-10-16"
+    },
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "World Boccia Challenger a Olbia: Gabriele Zendron oro nella classe BC3. Paolo Alfonsi quarto",
+      "link": "https://www.gazzetta.it/bocce/17-10-2026/world-boccia-challenger-gabriele-zendron-oro-nella-classe-bc3.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-10-17"
+    },
     {
       "sottocategoria": "Invernali",
       "tipo": "notizia",
@@ -24,22 +40,6 @@
       "link": "https://www.gazzetta.it/Sport-Vari/16-10-2026/joao-monteiro-intervista-su-cristiano-ronaldo-e-la-passione-per-il-tennistavolo.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-10-16"
-    },
-    {
-      "sottocategoria": "Acqua",
-      "tipo": "notizia",
-      "titolo": "Fioravanti: \"Io, Kanoa e Jack: che bella la nostra amicizia. Ora sono pronto per la gara\"",
-      "link": "https://www.gazzetta.it/Sport-Vari/15-10-2026/fioravanti-io-kanoa-e-jack-che-bella-la-nostra-amicizia-ora-sono-pronto-per-la-gara.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-10-15"
-    },
-    {
-      "sottocategoria": "Squadra",
-      "tipo": "notizia",
-      "titolo": "La Bledisloe Cup non cambia padrone: All Blacks spietati, Australia liquidata 43-21",
-      "link": "https://www.gazzetta.it/Rugby/17-10-2026/rugby-bledisloe-cup-all-blacks-australia-43-21.shtml",
-      "fonte": "Gazzetta — Rugby",
-      "data_evento": "2026-10-17"
     }
   ]
 }
