@@ -1,37 +1,13 @@
 {
-  "generato": "2026-10-21T11:30:59.986882+00:00",
+  "generato": "2026-10-21T17:31:02.639910+00:00",
   "item": [
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "L'Italia dell'atletica vola: cinque primi posti nei ranking mondiali di specialità. Solo gli Usa meglio",
-      "link": "https://www.gazzetta.it/Atletica/16-10-2026/ranking-mondiali-di-atletica-l-italia-sale-a-cinque-primi-posti-solo-gli-usa-davanti.shtml",
-      "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-10-16"
-    },
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "L'Italia della raffa da applausi ai Mondiali in Brasile. A Olbia la boccia domina e guarda a LA2028",
-      "link": "https://www.gazzetta.it/bocce/20-10-2026/bocce-l-italia-della-raffa-da-applausi-ai-mondiali-in-brasile.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-10-20"
-    },
-    {
-      "sottocategoria": "Calcio femminile",
-      "tipo": "notizia",
-      "titolo": "Ciclismo: Coppa Italia delle Regioni, le classifiche finali 2026",
-      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/10/20/ciclismo-coppa-italia-delle-regioni-le-classifiche-finali-2026_fa12392f-98f7-4b0f-ace2-a0125904c0fa.html",
-      "fonte": "ANSA Sport",
-      "data_evento": "2026-10-20"
-    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
-      "titolo": "Manovra geniale! Si finge svenuto, esce dalla sottomissione e vince il match",
-      "link": "https://video.gazzetta.it/fighting/mma/video-finge-di-svenire-esce-dalla-sottomissione-e-vince-il-match-di-mma/a81e4579-13e8-4f7e-b598-22016e705xlk",
+      "titolo": "Eric, campione che odiava i fagioli sommerso dal grasso. Deriso da tutti, ma era un vincente",
+      "link": "https://www.gazzetta.it/Sport-Vari/21-10-2026/eric-butterbean-esch-grasso-deriso-da-tutti-ma-era-un-vincente.shtml",
       "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-10-20"
+      "data_evento": "2026-10-21"
     },
     {
       "sottocategoria": "Invernali",
@@ -40,6 +16,30 @@
       "link": "https://www.gazzetta.it/Sport-Vari/19-10-2026/boxe-amy-pu-ignora-per-due-volte-l-asciugamano-di-dan-garber-contro-adam-olaniyan.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-10-19"
+    },
+    {
+      "sottocategoria": "Acqua",
+      "tipo": "notizia",
+      "titolo": "Sun Yang, dal doping al ritorno: il cinese sfida ancora Paltrinieri. E lo allenerà... l'ex ct di Greg",
+      "link": "https://www.gazzetta.it/Nuoto/21-10-2026/sun-yang-paltrinieri-squalifica-doping-allenatore.shtml",
+      "fonte": "Gazzetta — Nuoto e Pallanuoto",
+      "data_evento": "2026-10-21"
+    },
+    {
+      "sottocategoria": "Squadra",
+      "tipo": "notizia",
+      "titolo": "Italrugby incerottata. Al Nations Championship senza Menoncello e altri 12 infortunati: i convocati",
+      "link": "https://www.gazzetta.it/Rugby/21-10-2026/convocati-italia-rugby-al-nations-championship-senza-menoncello-e-altri-12-infortunati.shtml",
+      "fonte": "Gazzetta — Rugby",
+      "data_evento": "2026-10-21"
+    },
+    {
+      "sottocategoria": "Atletica",
+      "tipo": "notizia",
+      "titolo": "Ulissi, nel 2027 la 18ª stagione tra i pro’: \"Sarà l'ultima\"",
+      "link": "https://www.gazzetta.it/Ciclismo/21-10-2026/ulissi-nel-2027-la-18-stagione-tra-i-pro-sara-l-ultima.shtml",
+      "fonte": "Gazzetta — Ciclismo",
+      "data_evento": "2026-10-21"
     }
   ]
 }
