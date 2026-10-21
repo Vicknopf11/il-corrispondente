@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-21",
+      "slug": "decreto-sicurezza-reato-cortei-quirinale-militari-meloni",
+      "categoria": "Politica Nazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
+      "data": "2026-10-21",
       "slug": "witkoff-putin-pace-ucraina-donbass-cessioni-territoriali",
       "categoria": "Politica Internazionale",
       "evidenza": false,
@@ -1428,14 +1436,6 @@
       "data": "2026-09-28",
       "slug": "price-cap-carburanti-eni-ip-benzina-gasolio-gestori-antitrust",
       "categoria": "Economia",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
-    },
-    {
-      "data": "2026-09-28",
-      "slug": "riforma-legge-elettorale-camera-proporzionale-premio-42",
-      "categoria": "Politica Nazionale",
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
