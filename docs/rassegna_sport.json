@@ -1,14 +1,6 @@
 {
-  "generato": "2026-10-20T17:32:24.331366+00:00",
+  "generato": "2026-10-21T05:30:55.217039+00:00",
   "item": [
-    {
-      "sottocategoria": "Calcio femminile",
-      "tipo": "notizia",
-      "titolo": "Ciclismo: Coppa Italia delle Regioni, le classifiche finali 2026",
-      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/10/20/ciclismo-coppa-italia-delle-regioni-le-classifiche-finali-2026_fa12392f-98f7-4b0f-ace2-a0125904c0fa.html",
-      "fonte": "ANSA Sport",
-      "data_evento": "2026-10-20"
-    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
@@ -40,6 +32,14 @@
       "link": "https://www.gazzetta.it/Nuoto/17-10-2026/copertura-stadio-del-nuoto-del-foro-italico-dopo-20-anni.shtml",
       "fonte": "Gazzetta — Nuoto e Pallanuoto",
       "data_evento": "2026-10-17"
+    },
+    {
+      "sottocategoria": "Squadra",
+      "tipo": "notizia",
+      "titolo": "Niente test match, a novembre c'è un trofeo. Ecco il calendario completo e le 3 partite dell'Italia",
+      "link": "https://www.gazzetta.it/Rugby/20-10-2026/rugby-nations-championship-il-calendario-completo-e-le-3-partite-dell-italia.shtml",
+      "fonte": "Gazzetta — Rugby",
+      "data_evento": "2026-10-20"
     }
   ]
 }
