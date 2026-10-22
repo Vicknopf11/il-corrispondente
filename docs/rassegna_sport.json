@@ -1,6 +1,22 @@
 {
-  "generato": "2026-10-22T05:30:56.295702+00:00",
+  "generato": "2026-10-22T11:31:06.430950+00:00",
   "item": [
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Cobolli punta le Finals, ma la strada passa da Lione: gli incastri e quanti punti servono",
+      "link": "https://www.gazzetta.it/Tennis/22-10-2026/cobolli-quanti-punti-servono-per-finals-lione.shtml",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-10-22"
+    },
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Serie A Raffa al via: girone unico a 10 squadre e novità regolamentari",
+      "link": "https://www.gazzetta.it/bocce/22-10-2026/bocce-serie-a-raffa-al-via-girone-unico-a-10-squadre-e-novita-regolamentari.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-10-22"
+    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
@@ -23,22 +39,6 @@
       "titolo": "Sun Yang, dal doping al ritorno: il cinese sfida ancora Paltrinieri. E lo allenerà... l'ex ct di Greg",
       "link": "https://www.gazzetta.it/Nuoto/21-10-2026/sun-yang-paltrinieri-squalifica-doping-allenatore.shtml",
       "fonte": "Gazzetta — Nuoto e Pallanuoto",
-      "data_evento": "2026-10-21"
-    },
-    {
-      "sottocategoria": "Squadra",
-      "tipo": "notizia",
-      "titolo": "Tragedia nel rugby francese: muore in campo una giocatrice 17enne dopo un colpo alla testa",
-      "link": "https://www.gazzetta.it/Rugby/21-10-2026/tragedia-nel-rugby-francese-muore-in-campo-giocatrice-17enne.shtml",
-      "fonte": "Gazzetta — Rugby",
-      "data_evento": "2026-10-21"
-    },
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "Da 4 a 2 ruote: Bulega, Dovizioso e gli altri in pista ad Austin per avvicinare gli Usa alla MotoGP",
-      "link": "https://www.gazzetta.it/Moto/moto-GP/21-10-2026/gp-di-austin-motogp-in-pista-prima-della-f1-per-promuovere-lo-sport-negli-usa.shtml",
-      "fonte": "Gazzetta — Ciclismo",
       "data_evento": "2026-10-21"
     }
   ]
