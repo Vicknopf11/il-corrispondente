@@ -1,6 +1,14 @@
 {
   "pubblicazioni": [
     {
+      "data": "2026-10-22",
+      "slug": "witkoff-putin-san-pietroburgo-ucraina-negoziati",
+      "categoria": "Politica Internazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
       "data": "2026-10-21",
       "slug": "gdf-banca-occulta-ndrangheta-camorra-30-arresti-criptovalute",
       "categoria": "Cronaca",
@@ -1428,14 +1436,6 @@
       "data": "2026-09-29",
       "slug": "suppletive-reggio-calabria-centrodestra-vince-vannacci-sconfitto",
       "categoria": "Politica Nazionale",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
-    },
-    {
-      "data": "2026-09-29",
-      "slug": "iran-usa-trump-sanzioni-nucleare-midterm-2026",
-      "categoria": "Politica Internazionale",
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
