@@ -1,74 +1,74 @@
 {
-  "data": "2026-10-21",
+  "data": "2026-10-22",
   "tweet": [
     {
-      "testo": "Trump manda Witkoff a San Pietroburgo con una proposta di pace per l'Ucraina. Tradotto: Zelensky ceda territorio, in cambio di «non meglio specificati benefici economici». Nel 1994 pure la Corea del Nord firmò un accordo. Sappiamo com'è andata. #Ucraina",
-      "url": "https://corrispondente.filoclastos.it/2026/10/21/witkoff-putin-pace-ucraina-donbass-cessioni-territoriali/",
-      "slug": "witkoff-putin-pace-ucraina-donbass-cessioni-territoriali",
+      "testo": "L'inviato di Trump chiama Putin «umanitario» e porta a casa un ostaggio. In cambio: niente cessate il fuoco, solo la promessa di parlarsi ad Abu Dhabi. Il prezzo della pace lo paga l'Ucraina.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/22/witkoff-putin-san-pietroburgo-ucraina-negoziati/",
+      "slug": "witkoff-putin-san-pietroburgo-ucraina-negoziati",
       "categoria": "Politica Internazionale",
-      "evidenza": false,
-      "pubblicato": true
-    },
-    {
-      "testo": "Nasce il reato di «partecipazione violenta a una manifestazione». Il Quirinale blocca i poteri di polizia ai militari. Traduzione: il governo voleva l'esercito nelle strade, Mattarella ha detto no. 500 soldati a Milano restano, però. Senza potere di arresto, ma ci siamo quasi. #DecretoSicurezza",
-      "url": "https://corrispondente.filoclastos.it/2026/10/21/decreto-sicurezza-reato-cortei-quirinale-militari-meloni/",
-      "slug": "decreto-sicurezza-reato-cortei-quirinale-militari-meloni",
-      "categoria": "Politica Nazionale",
       "evidenza": true,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "BTP Valore: quasi 8,5 miliardi di ordini in tre giorni. Lo Stato si indebita con i cittadini per pagare i servizi ai cittadini. Le banche intanto «trattano» il loro contributo alla manovra. Messina di Intesa chiede un'«intesa equilibrata». Che la ironia involontaria sia nei nomi. #BTValore #Manovra",
-      "url": "https://corrispondente.filoclastos.it/2026/10/21/btp-valore-ordini-miliardi-banche-manovra-legge-bilancio/",
-      "slug": "btp-valore-ordini-miliardi-banche-manovra-legge-bilancio",
+      "testo": "Il governo identifica 1.339 camionisti, ne denuncia 71, poi approva un decreto per dargli i soldi che chiedevano da mesi. La linea dura e il decreto erano la stessa cosa — in ordine diverso.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/22/blocco-tir-decreto-governo-autotrasportatori-sud/",
+      "slug": "blocco-tir-decreto-governo-autotrasportatori-sud",
+      "categoria": "Politica Nazionale",
+      "evidenza": false,
+      "pubblicato": false
+    },
+    {
+      "testo": "Google supera la Rai nel sistema media italiano: 12,4% contro 12%. Agcom certifica il sorpasso. La Rai finanziata dal canone perde lo scettro a favore di una multinazionale che non paga il canone. Normale amministrazione.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/22/google-supera-rai-media-italiani-agcom-2024/",
+      "slug": "google-supera-rai-media-italiani-agcom-2024",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Le Fate azzurre sono in finale a squadre ai Mondiali di Rotterdam. Esposito, Iorio e Perotti anche nel singolare. La ginnastica artistica femminile italiana è tra le migliori al mondo. Notizia bellissima che non aprirà nessun telegiornale, perché non c'è un pallone. #Ginnastica #Rotterdam2026",
-      "url": "https://corrispondente.filoclastos.it/2026/10/21/mondiali-ginnastica-artistica-rotterdam-fate-finale-italia/",
-      "slug": "mondiali-ginnastica-artistica-rotterdam-fate-finale-italia",
+      "testo": "Stasera a Rotterdam la finale all-around maschile dei Mondiali di ginnastica: Abbadini punta la top-10, i giapponesi Oka e Hashimoto partono favoriti. Gratis su Rai Sport e RaiPlay. Sì, esiste sport oltre il calcio.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/22/mondiali-ginnastica-artistica-rotterdam-2026-allround-maschile/",
+      "slug": "mondiali-ginnastica-artistica-rotterdam-2026-allround-maschile",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "GdF smantella la «banca occulta» di 'ndrangheta, camorra e Quarta Mafia. 30 arresti, 110 milioni in fatture false, 68 milioni riciclati in cripto. Tra i fermati: un autista dell'ufficio GIP di Milano. Lo Stato dentro lo Stato. #Mafia #Riciclaggio",
-      "url": "https://corrispondente.filoclastos.it/2026/10/21/gdf-banca-occulta-ndrangheta-camorra-30-arresti-criptovalute/",
-      "slug": "gdf-banca-occulta-ndrangheta-camorra-30-arresti-criptovalute",
+      "testo": "Dieci anni dopo il terremoto del 2016, la GdF svela: camorra e 'ndrangheta nei subappalti della ricostruzione nelle Marche. 8 arresti, 51 indagati, 57 milioni sequestrati. La tragedia non finisce mai davvero.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/22/mafia-ricostruzione-post-sisma-marche-arresti-sequestri/",
+      "slug": "mafia-ricostruzione-post-sisma-marche-arresti-sequestri",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Il telescopio NASA SPHEREx analizza 37 nane brune e trova acqua, metano e CO₂ nelle loro atmosfere. I modelli teorici non riescono a spiegare i dati. La scienza preferisce l'imbarazzo della realtà all'eleganza della teoria. Una lezione che i politici non imparano mai. #Spazio #NASA",
-      "url": "https://corrispondente.filoclastos.it/2026/10/21/nasa-spherex-nane-brune-atmosfere-acqua-metano-modelli/",
-      "slug": "nasa-spherex-nane-brune-atmosfere-acqua-metano-modelli",
+      "testo": "L'IA analizza 4 milioni di fossili e scopre che 3 delle 5 grandi estinzioni di massa furono più graduali del previsto. La natura preferisce il declino lento alla catastrofe improvvisa. Prendete nota.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/22/ia-fossili-estinzioni-massa-graduali-studio/",
+      "slug": "ia-fossili-estinzioni-massa-graduali-studio",
       "categoria": "Scienza",
       "evidenza": false,
       "pubblicato": false
     },
     {
-      "testo": "Dal 23 ottobre l'Italia recepisce il regolamento UE sull'IA: sanzioni fino al 7% del fatturato. Contemporaneamente CoreWeave — la «banca dell'IA» — ha perso il 30% in borsa in una settimana. Il futuro inevitabile sembra avere qualche problema di cassa. #AI #RegolamentoIA",
-      "url": "https://corrispondente.filoclastos.it/2026/10/21/decreto-italiano-ia-vigore-sanzioni-coreweave-bolla/",
-      "slug": "decreto-italiano-ia-vigore-sanzioni-coreweave-bolla",
+      "testo": "Meta condannata a 25 miliardi per aver mentito agli utenti sulla privacy. Stessa settimana: un'IA trova una falla che mette a rischio il 70% dei siti web. Due facce della stessa medaglia digitale.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/22/meta-25-miliardi-cambridge-analytica-new-mexico-bug-web-ia/",
+      "slug": "meta-25-miliardi-cambridge-analytica-new-mexico-bug-web-ia",
       "categoria": "AI",
       "evidenza": false,
       "pubblicato": false
     },
     {
-      "testo": "In Italia il mercato senza glutine vale 400 milioni e potrebbe arrivare a 1,6 miliardi entro il 2030. I celiaci diagnosticati sono circa 280mila. Il 21% degli italiani lo compra lo stesso. Pagando il 73% in più. L'industria alimentare ringrazia. Il glutine no. #GlutenFree #Wellness",
-      "url": "https://corrispondente.filoclastos.it/2026/10/21/gluten-free-mercato-400-milioni-celiaci-marketing-benessere/",
-      "slug": "gluten-free-mercato-400-milioni-celiaci-marketing-benessere",
+      "testo": "La semaglutide entra nelle linee guida europee per cuore e reni. Novo Nordisk produce la semaglutide. Coincidenze: zero. Efficacia reale in specifici pazienti: presente, ma molto più limitata di quanto i titoli lascino intendere.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/22/semaglutide-linee-guida-esc-cuore-reni-novo-nordisk/",
+      "slug": "semaglutide-linee-guida-esc-cuore-reni-novo-nordisk",
       "categoria": "Wellness",
       "evidenza": false,
       "pubblicato": false
     },
     {
-      "testo": "Alla Festa del Cinema di Roma Julianne Moore riceve il Premio alla Carriera da Jesse Eisenberg — che l'ha diretta in un film prodotto da A24. Lundini debutta alla regia. Una serata in cui Hollywood premia Hollywood con l'intermediazione di Roma. La cultura come palcoscenico per altro. #FestaCinemaRoma",
-      "url": "https://corrispondente.filoclastos.it/2026/10/21/festa-cinema-roma-julianne-moore-carriera-lundini-cambogia/",
-      "slug": "festa-cinema-roma-julianne-moore-carriera-lundini-cambogia",
+      "testo": "«Je so' pazzo» su Pino Daniele è prodotto da Rai Cinema. Ovvero: il servizio pubblico che perde risorse a favore di Google finanzia la nostalgia di un artista che cantava gli ultimi. Il cerchio è chiuso.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/22/je-so-pazzo-film-pino-daniele-biopic-cultura/",
+      "slug": "je-so-pazzo-film-pino-daniele-biopic-cultura",
       "categoria": "Cultura",
       "evidenza": false,
       "pubblicato": false
