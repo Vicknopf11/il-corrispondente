@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-22",
+      "slug": "meta-25-miliardi-cambridge-analytica-new-mexico-bug-web-ia",
+      "categoria": "AI",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-22",
       "slug": "ia-fossili-estinzioni-massa-graduali-studio",
       "categoria": "Scienza",
       "evidenza": false,
@@ -1431,14 +1439,6 @@
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
-    },
-    {
-      "data": "2026-09-30",
-      "slug": "sentenza-regeni-007-egiziani-condannati-tajani-minimizza",
-      "categoria": "Politica Nazionale",
-      "evidenza": true,
-      "tipo_richiesta": "ContentCreateWithUrl",
-      "costo_usd": 0.2
     }
   ]
 }
