@@ -1,20 +1,12 @@
 {
-  "generato": "2026-10-22T11:31:06.430950+00:00",
+  "generato": "2026-10-22T17:31:02.171135+00:00",
   "item": [
     {
-      "sottocategoria": "Racchette e precisione",
+      "sottocategoria": "Calcio femminile",
       "tipo": "notizia",
-      "titolo": "Cobolli punta le Finals, ma la strada passa da Lione: gli incastri e quanti punti servono",
-      "link": "https://www.gazzetta.it/Tennis/22-10-2026/cobolli-quanti-punti-servono-per-finals-lione.shtml",
-      "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-10-22"
-    },
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Serie A Raffa al via: girone unico a 10 squadre e novità regolamentari",
-      "link": "https://www.gazzetta.it/bocce/22-10-2026/bocce-serie-a-raffa-al-via-girone-unico-a-10-squadre-e-novita-regolamentari.shtml",
-      "fonte": "Gazzetta — Bocce",
+      "titolo": "Fifa, in Usa la prima edizione del Mondiale per club femminile",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/22/fifa-in-usa-la-prima-edizione-del-mondiale-per-club-femminile_c7f839a1-a5ed-4bf7-b69b-60cfde2c2664.html",
+      "fonte": "ANSA Sport",
       "data_evento": "2026-10-22"
     },
     {
@@ -36,9 +28,17 @@
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
-      "titolo": "Sun Yang, dal doping al ritorno: il cinese sfida ancora Paltrinieri. E lo allenerà... l'ex ct di Greg",
-      "link": "https://www.gazzetta.it/Nuoto/21-10-2026/sun-yang-paltrinieri-squalifica-doping-allenatore.shtml",
+      "titolo": "Nuoto Club Monza, il sogno del presidente 31enne Malegori: \"In 2-3 anni voglio l'A1\"",
+      "link": "https://www.gazzetta.it/Nuoto/22-10-2026/pallanuoto-la-storia-del-nuoto-club-monza-e-del-presidente-31enne-malegori.shtml",
       "fonte": "Gazzetta — Nuoto e Pallanuoto",
+      "data_evento": "2026-10-22"
+    },
+    {
+      "sottocategoria": "Squadra",
+      "tipo": "notizia",
+      "titolo": "Tragedia nel rugby francese: muore in campo una giocatrice 17enne dopo un colpo alla testa",
+      "link": "https://www.gazzetta.it/Rugby/21-10-2026/tragedia-nel-rugby-francese-muore-in-campo-giocatrice-17enne.shtml",
+      "fonte": "Gazzetta — Rugby",
       "data_evento": "2026-10-21"
     }
   ]
