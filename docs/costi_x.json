@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-22",
+      "slug": "je-so-pazzo-film-pino-daniele-biopic-cultura",
+      "categoria": "Cultura",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-22",
       "slug": "semaglutide-linee-guida-esc-cuore-reni-novo-nordisk",
       "categoria": "Wellness",
       "evidenza": false,
@@ -1428,14 +1436,6 @@
       "data": "2026-09-30",
       "slug": "garlasco-chiusura-indagini-sempio-nuove-carte-procura",
       "categoria": "Cronaca",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
-    },
-    {
-      "data": "2026-09-30",
-      "slug": "coppa-mondo-nuoto-vasca-corta-baku-razzetti-2026",
-      "categoria": "Sport",
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
