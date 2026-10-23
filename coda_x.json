@@ -1,77 +1,77 @@
 {
-  "data": "2026-10-22",
+  "data": "2026-10-23",
   "tweet": [
     {
-      "testo": "L'inviato di Trump chiama Putin «umanitario» e porta a casa un ostaggio. In cambio: niente cessate il fuoco, solo la promessa di parlarsi ad Abu Dhabi. Il prezzo della pace lo paga l'Ucraina.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/22/witkoff-putin-san-pietroburgo-ucraina-negoziati/",
-      "slug": "witkoff-putin-san-pietroburgo-ucraina-negoziati",
+      "testo": "Oltre 220 morti in un mercato. I droni non distinguono tra combattenti e famiglie che comprano il pane. Eppure il Sudan brucia in silenzio da tre anni: nessuna sanzione, nessun vertice d'emergenza. Chissà perché. #Sudan #Abyei",
+      "url": "https://corrispondente.filoclastos.it/2026/10/23/sudan-droni-mercato-abyei-220-morti/",
+      "slug": "sudan-droni-mercato-abyei-220-morti",
       "categoria": "Politica Internazionale",
       "evidenza": true,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Il governo identifica 1.339 camionisti, ne denuncia 71, poi approva un decreto per dargli i soldi che chiedevano da mesi. La linea dura e il decreto erano la stessa cosa — in ordine diverso.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/22/blocco-tir-decreto-governo-autotrasportatori-sud/",
-      "slug": "blocco-tir-decreto-governo-autotrasportatori-sud",
+      "testo": "175 milioni per fermare i camionisti. La Procura di Napoli indaga su infiltrazioni mafiose nella protesta. Strano: si trova sempre il decreto quando c'è il rischio che qualcuno di indesiderato stia tirando i fili. #Tir #carocarburante",
+      "url": "https://corrispondente.filoclastos.it/2026/10/23/protesta-tir-decreto-175-milioni-mafia-napoli/",
+      "slug": "protesta-tir-decreto-175-milioni-mafia-napoli",
       "categoria": "Politica Nazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Google supera la Rai nel sistema media italiano: 12,4% contro 12%. Agcom certifica il sorpasso. La Rai finanziata dal canone perde lo scettro a favore di una multinazionale che non paga il canone. Normale amministrazione.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/22/google-supera-rai-media-italiani-agcom-2024/",
-      "slug": "google-supera-rai-media-italiani-agcom-2024",
+      "testo": "Meta: ricavi +26%, ma cassa negativa per la prima volta in 15 anni. Zuckerberg brucia 2,1 miliardi inseguendo l'AI e il Nasdaq perde il 2,6%. Chi paga? Gli azionisti senza diritto di voto. La nuova classe C di azioni spiega tutto. #Meta #AI #Nasdaq",
+      "url": "https://corrispondente.filoclastos.it/2026/10/23/meta-cassa-negativa-ai-nasdaq-crollo/",
+      "slug": "meta-cassa-negativa-ai-nasdaq-crollo",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Stasera a Rotterdam la finale all-around maschile dei Mondiali di ginnastica: Abbadini punta la top-10, i giapponesi Oka e Hashimoto partono favoriti. Gratis su Rai Sport e RaiPlay. Sì, esiste sport oltre il calcio.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/22/mondiali-ginnastica-artistica-rotterdam-2026-allround-maschile/",
-      "slug": "mondiali-ginnastica-artistica-rotterdam-2026-allround-maschile",
+      "testo": "Stasera a Rotterdam la finale del concorso generale femminile ai Mondiali di ginnastica artistica. Kaylia Nemour punta a diventare la prima campionessa africana della storia. In diretta gratis su RaiSportHD. Esiste ancora lo sport gratuito. #ginnastica #mondiali2026",
+      "url": "https://corrispondente.filoclastos.it/2026/10/23/mondiali-ginnastica-artistica-2026-rotterdam-finale-femminile/",
+      "slug": "mondiali-ginnastica-artistica-2026-rotterdam-finale-femminile",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Dieci anni dopo il terremoto del 2016, la GdF svela: camorra e 'ndrangheta nei subappalti della ricostruzione nelle Marche. 8 arresti, 51 indagati, 57 milioni sequestrati. La tragedia non finisce mai davvero.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/22/mafia-ricostruzione-post-sisma-marche-arresti-sequestri/",
-      "slug": "mafia-ricostruzione-post-sisma-marche-arresti-sequestri",
+      "testo": "La Procura di Milano chiede il rinvio a giudizio per Santanchè: truffa aggravata, falso in bilancio e bancarotta. La presunzione di innocenza vale, ovviamente. Ma anche la domanda: in quale altro Paese questa notizia non sarebbe ancora in prima pagina? #Santanchè",
+      "url": "https://corrispondente.filoclastos.it/2026/10/23/santanche-rinvio-giudizio-truffa-falso-bilancio-bancarotta/",
+      "slug": "santanche-rinvio-giudizio-truffa-falso-bilancio-bancarotta",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "L'IA analizza 4 milioni di fossili e scopre che 3 delle 5 grandi estinzioni di massa furono più graduali del previsto. La natura preferisce il declino lento alla catastrofe improvvisa. Prendete nota.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/22/ia-fossili-estinzioni-massa-graduali-studio/",
-      "slug": "ia-fossili-estinzioni-massa-graduali-studio",
+      "testo": "Ricercatori di Stanford hanno attaccato un corallo sbiancato al suo clone sano: in sette settimane si è completamente ripreso. Quelli rimasti da soli sono morti. La scoperta è reale. La domanda è: chi finanzia la replica su larga scala? #coralli #oceani",
+      "url": "https://corrispondente.filoclastos.it/2026/10/23/coralli-sbiancati-innesto-clone-stanford-recupero/",
+      "slug": "coralli-sbiancati-innesto-clone-stanford-recupero",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Meta condannata a 25 miliardi per aver mentito agli utenti sulla privacy. Stessa settimana: un'IA trova una falla che mette a rischio il 70% dei siti web. Due facce della stessa medaglia digitale.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/22/meta-25-miliardi-cambridge-analytica-new-mexico-bug-web-ia/",
-      "slug": "meta-25-miliardi-cambridge-analytica-new-mexico-bug-web-ia",
+      "testo": "Da oggi in vigore il decreto italiano sull'AI Act: sanzioni fino a 35 milioni di euro o 7% del fatturato. Bene. Peccato che in tutta Europa solo 9 Stati su 27 abbiano completato le designazioni. Un'armata di carta contro aziende da mille miliardi. #AIAct #AI",
+      "url": "https://corrispondente.filoclastos.it/2026/10/23/decreto-italiano-ai-act-179-2026-sanzioni-vigilanza/",
+      "slug": "decreto-italiano-ai-act-179-2026-sanzioni-vigilanza",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "La semaglutide entra nelle linee guida europee per cuore e reni. Novo Nordisk produce la semaglutide. Coincidenze: zero. Efficacia reale in specifici pazienti: presente, ma molto più limitata di quanto i titoli lascino intendere.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/22/semaglutide-linee-guida-esc-cuore-reni-novo-nordisk/",
-      "slug": "semaglutide-linee-guida-esc-cuore-reni-novo-nordisk",
+      "testo": "Variante Stratus in GB: positività al 7%, ricoveri +50%. Le autorità: «Nessuna prova di maggiore gravità, dinamica stagionale». I farmaci antivirali esistenti restano gli stessi. Chi vende l'allarme e chi vende la calma: annotate entrambi. #Covid #Stratus",
+      "url": "https://corrispondente.filoclastos.it/2026/10/23/covid-variante-stratus-gran-bretagna-ricoveri-aumento/",
+      "slug": "covid-variante-stratus-gran-bretagna-ricoveri-aumento",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "«Je so' pazzo» su Pino Daniele è prodotto da Rai Cinema. Ovvero: il servizio pubblico che perde risorse a favore di Google finanzia la nostalgia di un artista che cantava gli ultimi. Il cerchio è chiuso.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/22/je-so-pazzo-film-pino-daniele-biopic-cultura/",
-      "slug": "je-so-pazzo-film-pino-daniele-biopic-cultura",
+      "testo": "Il Premio Tenco 2026 ha scelto come tema «Dio è morto». All'Ariston di Sanremo, quella stessa città che undici mesi l'anno vende canzonette teleguidate dalle major. La canzone d'autore sopravvive nonostante il mercato, non grazie a esso. #Tenco2026",
+      "url": "https://corrispondente.filoclastos.it/2026/10/23/premio-tenco-2026-dio-e-morto-ariston-canzone-autore/",
+      "slug": "premio-tenco-2026-dio-e-morto-ariston-canzone-autore",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }
