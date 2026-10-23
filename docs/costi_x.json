@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-23",
+      "slug": "meta-cassa-negativa-ai-nasdaq-crollo",
+      "categoria": "Economia",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-23",
       "slug": "protesta-tir-decreto-175-milioni-mafia-napoli",
       "categoria": "Politica Nazionale",
       "evidenza": false,
@@ -1431,14 +1439,6 @@
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-01",
-      "slug": "legge-elettorale-camera-fiducia-magi-sciopero-fame",
-      "categoria": "Politica Nazionale",
-      "evidenza": true,
-      "tipo_richiesta": "ContentCreateWithUrl",
-      "costo_usd": 0.2
     }
   ]
 }
