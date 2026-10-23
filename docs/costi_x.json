@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-23",
+      "slug": "decreto-italiano-ai-act-179-2026-sanzioni-vigilanza",
+      "categoria": "AI",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-23",
       "slug": "coralli-sbiancati-innesto-clone-stanford-recupero",
       "categoria": "Scienza",
       "evidenza": false,
@@ -1431,14 +1439,6 @@
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-02",
-      "slug": "trump-ultimatum-iran-guerra-golfo-2026",
-      "categoria": "Politica Internazionale",
-      "evidenza": true,
-      "tipo_richiesta": "ContentCreateWithUrl",
-      "costo_usd": 0.2
     }
   ]
 }
