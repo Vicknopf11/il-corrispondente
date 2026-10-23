@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-23",
+      "slug": "coralli-sbiancati-innesto-clone-stanford-recupero",
+      "categoria": "Scienza",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-23",
       "slug": "santanche-rinvio-giudizio-truffa-falso-bilancio-bancarotta",
       "categoria": "Cronaca",
       "evidenza": false,
@@ -1431,14 +1439,6 @@
       "evidenza": true,
       "tipo_richiesta": "ContentCreateWithUrl",
       "costo_usd": 0.2
-    },
-    {
-      "data": "2026-10-01",
-      "slug": "fincantieri-ancona-operaio-morto-ustioni-sciopero",
-      "categoria": "Cronaca",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
     }
   ]
 }
