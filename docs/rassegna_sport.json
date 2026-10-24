@@ -1,13 +1,21 @@
 {
-  "generato": "2026-10-23T17:31:02.895219+00:00",
+  "generato": "2026-10-24T05:30:59.413695+00:00",
   "item": [
+    {
+      "sottocategoria": "Acqua",
+      "tipo": "notizia",
+      "titolo": "Surf, in Portogallo vince Colapinto. Fioravanti va subito fuori e scivola in classifica, è sesto",
+      "link": "https://www.gazzetta.it/Sport-Vari/24-10-2026/surf-in-portogallo-vince-colapinto-fioravanti-va-subito-fuori-e-ora-e-sesto-in-classific.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-10-24"
+    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
-      "titolo": "Pugni e fagioli, risate e vittorie: dietro il fenomeno Butterbean c'era anche un pugile",
-      "link": "https://www.gazzetta.it/Sport-Vari/21-10-2026/eric-butterbean-esch-grasso-deriso-da-tutti-ma-era-un-vincente.shtml",
+      "titolo": "Fis-Bambino Gesù: il protocollo d'intesa porta la scherma nell’ospedale pediatrico romano",
+      "link": "https://www.gazzetta.it/Sport-Vari/23-10-2026/fis-bambino-gesu-il-protocollo-d-intesa-porta-la-scherma-nell-ospedale-pediatrico-romano.shtml",
       "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-10-21"
+      "data_evento": "2026-10-23"
     },
     {
       "sottocategoria": "Invernali",
@@ -16,14 +24,6 @@
       "link": "https://www.gazzetta.it/Sport-Vari/19-10-2026/boxe-amy-pu-ignora-per-due-volte-l-asciugamano-di-dan-garber-contro-adam-olaniyan.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-10-19"
-    },
-    {
-      "sottocategoria": "Acqua",
-      "tipo": "notizia",
-      "titolo": "Nuoto Club Monza, il sogno del presidente 31enne Malegori: \"In 2-3 anni voglio l'A1\"",
-      "link": "https://www.gazzetta.it/Nuoto/22-10-2026/pallanuoto-la-storia-del-nuoto-club-monza-e-del-presidente-31enne-malegori.shtml",
-      "fonte": "Gazzetta — Nuoto e Pallanuoto",
-      "data_evento": "2026-10-22"
     },
     {
       "sottocategoria": "Squadra",
