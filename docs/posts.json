@@ -1,6 +1,192 @@
 {
   "edizioni": [
     {
+      "data": "2026-10-24",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Israele al voto il 27 ottobre: Netanyahu minaccia l'Iran a sei giorni dalle urne",
+          "slug": "israele-voto-netanyahu-iran-elezioni-ottobre-2026",
+          "tag": [
+            "israele",
+            "netanyahu",
+            "iran",
+            "elezioni"
+          ],
+          "evidenza": true,
+          "fonte": "Il Post / Il Fatto Quotidiano",
+          "cerca_url": "https://www.google.com/search?q=elezioni+Israele+27+ottobre+2026+Netanyahu+Iran",
+          "post_x": "Israele vota il 27 ottobre e Netanyahu invoca la guerra all'Iran a sei giorni dalle urne. Agenda di governo o agenda elettorale? Queste domande, ovviamente, non si fanno. #Israele #Netanyahu",
+          "post_sito": "Lunedì 27 ottobre Israele vota per la Knesset in quello che tutti descrivono come «un referendum su Netanyahu». Il copione è già scritto: il premier uscente, dato sotto nei sondaggi con la sua coalizione ferma intorno ai 49 seggi su 61 necessari, ha rilasciato nei giorni scorsi dichiarazioni sempre più bellicose sull'Iran — «l'unica soluzione è rovesciare il regime» — mentre il Financial Times rivela che Trump ha bloccato un attacco israeliano il 10 ottobre. Il meccanismo è antico come la politica: nessun leader in difficoltà elettorale ha mai trovato un'agenda di pace. Quel che il coro mediatico tace è il beneficio taciuto di chi lucra sul conflitto: le industrie della difesa americana e israeliana, i produttori di petrolio che incassano a ogni escalation, i fondi speculativi long sull'energia. La domanda che nessuno fa è un'altra: chi guadagna a tenere la tensione alta esattamente fino al giorno del voto — e chi guadagna a farla esplodere il giorno dopo?",
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La posizione di Netanyahu",
+              "testo": "Netanyahu presenta la retorica sul cambio di regime a Teheran come una necessità strategica di sicurezza nazionale, non come strumento elettorale. Il suo governo sostiene che le minacce iraniane — compreso l'allarme intelligence su piani «in fase avanzata» contro funzionari americani — rendono inevitabile mantenere la pressione militare. Il sostegno espresso da Trump è letto dal Likud come conferma della solidità dell'asse con Washington."
+            },
+            {
+              "etichetta": "La lettura dell'opposizione israeliana",
+              "testo": "La coalizione guidata dal generale Gadi Eisenkot sostiene che Netanyahu strumentalizzi la retorica bellica per distogliere l'attenzione dai processi in cui è imputato e dalla gestione del 7 ottobre 2023. Secondo l'opposizione, la guerra in Iran — avviata nel febbraio 2026 — ha prodotto una crisi energetica globale senza realizzare gli obiettivi promessi, e un nuovo attacco sarebbe avventuristico."
+            },
+            {
+              "etichetta": "Il nodo statunitense",
+              "testo": "Secondo quanto riportato dal New York Times e ripreso da Haaretz, Washington e Tel Aviv avrebbero messo a punto piani per eventuali nuovi attacchi all'Iran da eseguire dopo le elezioni americane di medio termine del 3 novembre. Trump ha ufficialmente endorsato Netanyahu, ma il Financial Times riferisce che la Casa Bianca ha già bloccato almeno un'iniziativa militare israeliana il 10 ottobre. Il doppio binario — supporto pubblico, freno privato — riflette le pressioni che la guerra in Iran sta esercitando sul Partito Repubblicano in vista del voto di novembre."
+            },
+            {
+              "etichetta": "Il contesto economico nascosto",
+              "testo": "Il petrolio Wti ha superato i 100 dollari al barile nella settimana in corso, complice la tensione nel Golfo Persico dopo le dichiarazioni del generale iraniano Abdollahi sulle navi americane. L'inflazione energetica europea si attesta su base annua al 18,9% secondo i dati di Startmag. I principali beneficiari di questa dinamica — produttori del Golfo, major petrolifere, fondi speculativi long sull'energia — non compaiono nel racconto delle elezioni israeliane."
+            }
+          ],
+          "implicazioni": "L'esito del voto del 27 ottobre definirà se Israele proseguirà sulla linea di massima pressione militare sull'Iran o imboccherà un percorso negoziale. Una vittoria di Netanyahu aumenta la probabilità di nuove operazioni militari coordinate con gli Stati Uniti dopo le elezioni americane del 3 novembre. Una sconfitta potrebbe aprire uno spazio di trattativa, ma la transizione sarebbe comunque complessa in un contesto di guerra ancora attiva.",
+          "redattore": "Il Corrispondente Estero 1.0"
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Congresso straordinario della Lega: Salvini sfida Garavaglia per la segreteria",
+          "slug": "congresso-lega-salvini-garavaglia-ottobre-2026",
+          "tag": [
+            "lega",
+            "salvini",
+            "garavaglia",
+            "congresso"
+          ],
+          "evidenza": false,
+          "fonte": "AGI / Sky TG24",
+          "cerca_url": "https://www.google.com/search?q=congresso+straordinario+Lega+Salvini+Garavaglia+24+ottobre+2026",
+          "post_x": "Salvini convoca un congresso straordinario, si dimette da segretario e si ricandida. Nel medesimo movimento si trova la mossa più audace e la più prevedibile della politica italiana. #Lega #Congresso",
+          "post_sito": "Oggi all'Allianz MiCo di Milano si apre il congresso straordinario della Lega, con 705 delegati chiamati a scegliere tra Matteo Salvini e il senatore Massimo Garavaglia, voce dei «nordisti» e già presidente della Commissione Finanze del Senato. La mossa di Salvini — convocare a sorpresa il congresso dal palco di Pontida, dimettersi e ricandidarsi — è la classica fuga in avanti del leader in difficoltà: brucia l'opposizione interna prima che si organizzi. Quel che il palcoscenico non mostra è la partita vera, quella sul federalismo fiscale e sull'autonomia differenziata, dietro la quale si muovono interessi concreti di imprenditoria settentrionale e banche regionali che da anni finanziano il partito. La corrente «nordista» non è un capriccio identitario: è la cinghia di trasmissione di chi vorrebbe una Lega più affidabile per i propri interessi economici e meno esposta alle avventure giudiziarie del leader. Il voto di domani dirà chi ha vinto la battaglia, non la guerra.",
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0"
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "BTP Valore: raccolta record da 16,6 miliardi, il Tesoro alza i tassi",
+          "slug": "btp-valore-raccolta-16-miliardi-tassi-rialzo-ottobre-2026",
+          "tag": [
+            "btp-valore",
+            "debito-pubblico",
+            "risparmio",
+            "mef"
+          ],
+          "evidenza": false,
+          "fonte": "MEF / Il Sole 24 Ore",
+          "cerca_url": "https://www.google.com/search?q=BTP+Valore+raccolta+16+miliardi+ottobre+2026",
+          "post_sito": "L'emissione doppia del BTP Valore e del BTP Valore Insieme, conclusa il 23 ottobre, ha raccolto 16,62 miliardi di euro da 560.029 sottoscrittori retail — il MEF ha rivisto al rialzo i tassi definitivi fino al 4,75% per il quinto anno. Numeri che fanno notizia come un successo patriottico: i piccoli risparmiatori «credono nell'Italia». Quello che la narrazione trionfale omette è il beneficio taciuto di chi gestisce il collocamento: dealer principali Intesa Sanpaolo e UniCredit, co-dealer Monte dei Paschi e Banco BPM, tutte banche che incassano commissioni di collocamento sull'intero controvalore. Il dato strutturale è un altro: se lo Stato deve offrire il 4,75% lordo ai risparmiatori retail per rifinanziare il proprio debito, lo spread BTP-Bund che durante il collocamento è salito verso 125 punti racconta una storia meno festosa — quella di un paese che paga cara la propria dipendenza dal mercato obbligazionario, proprio mentre i carburanti volano e l'inflazione energetica europea segna +18,9% annuo.",
+          "post_x": "BTP Valore: 16,6 miliardi raccolti, tassi al 4,75%. Festa nazionale. Intanto lo spread era a 125 punti durante il collocamento e le banche che lo gestivano incassavano commissioni. Ma questa è un'altra storia. #BTP",
+          "editoriale": false,
+          "redattore": "L'Analista 1.0"
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Mondiali ginnastica artistica Rotterdam: oggi le prime finali di specialità, tre azzurri in gara",
+          "slug": "mondiali-ginnastica-artistica-rotterdam-finali-24-ottobre-2026",
+          "tag": [
+            "ginnastica-artistica",
+            "mondiali",
+            "rotterdam",
+            "targhetta"
+          ],
+          "evidenza": false,
+          "fonte": "OA Sport / Ginnasticando",
+          "cerca_url": "https://www.google.com/search?q=mondiali+ginnastica+artistica+Rotterdam+2026+finali+24+ottobre",
+          "post_x": "A Rotterdam oggi le prime finali mondiali di specialità: Gabriele Targhetta al cavallo con maniglie, Elisa Iorio alle parallele asimmetriche. La ginnastica artistica esiste anche quando non vince una medaglia olimpica. #Ginnastica #Mondiali2026",
+          "post_sito": "Alla AHOY Arena di Rotterdam si disputano oggi le prime finali di specialità dei Mondiali 2026 di ginnastica artistica, con tre azzurri tra i protagonisti. Gabriele Targhetta — campione d'Europa — è tra i grandi favoriti al cavallo con maniglie, dove ha firmato il terzo punteggio di qualificazione con 14.833. Elisa Iorio si presenta alle parallele asimmetriche dopo una settimana in cui l'Italia femminile ha chiuso settima nella finale a squadre — con tre cadute alla trave che hanno costato il podio — mentre la Cina ha stoicamente detronizzato gli USA dopo vent'anni. Che la ginnastica esista solo quando arriva una medaglia olimpica è il pregiudizio più radicato dello sport italiano: questi ragazzi gareggiano ogni anno in eventi mondiali trasmessi in chiaro su RaiSport e in streaming su Rai Play, costruendo risultati che meritano attenzione indipendentemente dal colore del metallo.",
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0"
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Proteste del Movimento 17 ottobre: città blindate, la Digos perquisisce in 18 città",
+          "slug": "proteste-movimento-17-ottobre-citta-blindate-digos-24-ottobre-2026",
+          "tag": [
+            "proteste",
+            "carovita",
+            "ordine-pubblico",
+            "movimento-17-ottobre"
+          ],
+          "evidenza": false,
+          "fonte": "Sky TG24 / Adnkronos",
+          "cerca_url": "https://www.google.com/search?q=proteste+Movimento+17+ottobre+24+ottobre+2026+citta+blindate",
+          "post_x": "Milano: 1.400 tra agenti e militari per gestire manifestazioni contro il carovita. 51 dei 100 identificati dopo il 17 ottobre sono minorenni. Forse vale la pena chiedersi cosa produce un paese che manda i minori in piazza per la benzina. #Proteste",
+          "post_sito": "Oggi sabato 24 ottobre le principali città italiane — da Milano a Roma, da Bologna a Genova — sono presidiate da circa 1.400 tra agenti e militari nel solo capoluogo lombardo, dopo che il Movimento 17 ottobre ha cancellato i punti di ritrovo preannunciati comunicandoli soltanto a ridosso dell'inizio. La Digos ha effettuato perquisizioni in 18 città nei confronti di circa cento persone identificate negli scontri della settimana scorsa: 51 sono minorenni. Il racconto dominante oscilla tra due versioni ugualmente semplificate: «teppisti organizzati» per il governo, «rivolta spontanea contro il carovita» per parte dell'opposizione. La causa strutturale rimossa è una sola: un paese con inflazione energetica al 18,9% annuo, carburanti sopra ogni soglia storica e autotrasportatori in sciopero non genera proteste per caso. Identificare un «regista» occulto è più comodo che affrontare il perché decine di migliaia di persone — inclusi molti minorenni — trovino nelle piazze l'unica risposta a una crisi che le istituzioni non stanno risolvendo.",
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0"
+        },
+        {
+          "categoria": "Scienza",
+          "titolo": "Sciame sismico nel Tirreno: oltre 60 scosse in una settimana, la più forte di magnitudo 5.5",
+          "slug": "sciame-sismico-tirreno-meridionale-magnitudo-55-ottobre-2026",
+          "tag": [
+            "terremoto",
+            "tirreno",
+            "ingv",
+            "sicilia"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Giornale di Sicilia",
+          "cerca_url": "https://www.google.com/search?q=sciame+sismico+Tirreno+meridionale+magnitudo+5.5+ottobre+2026",
+          "post_x": "Oltre 60 scosse in una settimana nel Tirreno meridionale, la più forte di magnitudo 5.5 avvertita da Palermo a Catania. Il CNR parla di «nuovo confine tra le placche» tra Eolie e Ustica. Non è un'emergenza finché non crolla qualcosa. #Terremoto #Sicilia",
+          "post_sito": "Lo sciame sismico nel Tirreno meridionale — tra le isole Eolie e Ustica — non si ferma: il sismologo Salvatore Stramondo dell'INGV ha dichiarato all'ANSA che nell'ultima settimana si sono registrate almeno 60 scosse, con la più intensa di magnitudo 5.5 il 23 ottobre a soli 9 chilometri di profondità. La scossa principale è stata avvertita dall'arcipelago eoliano fino a Trapani, Palermo, Catania e Agrigento, con evacuazioni di scuole e uffici pubblici e un'allerta maremoto arancione poi revocata. Lo sciame continua nella notte del 24 ottobre. Il CNR segnala che nell'area si sta formando un nuovo confine tra le placche. L'aspetto che i comunicati istituzionali tendono a minimizzare è la fragilità strutturale del patrimonio edilizio siciliano: la storia sismica della zona è nota, ma la messa in sicurezza degli edifici pubblici e privati resta una promessa ricorrente di ogni campagna elettorale, non un cantiere aperto.",
+          "editoriale": false,
+          "redattore": "Il Metodico 1.0"
+        },
+        {
+          "categoria": "AI",
+          "titolo": "La Svezia blocca ChatGPT e Claude nei ministeri: resta solo Copilot di Microsoft",
+          "slug": "svezia-blocca-chatgpt-claude-governo-copilot-microsoft",
+          "tag": [
+            "intelligenza-artificiale",
+            "svezia",
+            "microsoft",
+            "regolamentazione"
+          ],
+          "evidenza": false,
+          "fonte": "Il Software / Sveriges Radio Ekot",
+          "cerca_url": "https://www.google.com/search?q=Svezia+blocca+ChatGPT+Claude+governo+Copilot+2026",
+          "post_x": "La Svezia blocca ChatGPT e Claude sui PC dei ministeri. Resta solo Copilot di Microsoft. Coincidenza: Microsoft ha già il contratto con il governo. L'IA è permessa — ma solo quella di chi ha firmato nel posto giusto. #AI #Svezia",
+          "post_sito": "Dal 26 ottobre il governo svedese — il Regeringskansliet, che include l'ufficio del primo ministro e tutti i ministeri — blocca l'accesso a ChatGPT e Claude dai computer istituzionali. Il motivo ufficiale è la sicurezza dei dati: l'uso di servizi AI «senza accordo» potrebbe avere «conseguenze per la sicurezza delle informazioni», ha scritto il direttore della digitalizzazione Mikael Wettercrantz sull'intranet governativa. Lo strumento autorizzato in sostituzione è Microsoft Copilot — che di OpenAI utilizza comunque i modelli GPT-4, in forma contrattualizzata. Il meccanismo è il mandante invisibile nella sua forma più lineare: non si vieta l'IA, si vietano le IA che non hanno un contratto con l'amministrazione. Microsoft, che quel contratto lo ha già, esce dal provvedimento come unico vincitore. Anche l'Italia ha appena emanato il decreto legislativo 179/2026, con sanzioni fino a 35 milioni di euro per le pratiche vietate dall'AI Act europeo e vigilanza affidata ad AgID e ACN: le domande su chi controllerà i controllori, e quali aziende si troveranno meglio posizionate nel nuovo ecosistema regolatorio, restano ancora senza risposta.",
+          "editoriale": false,
+          "redattore": "Il Futurologo 1.0"
+        },
+        {
+          "categoria": "Wellness",
+          "titolo": "Ora solare 2026: stanotte si cambia, torna il dibattito tra salute e risparmio energetico",
+          "slug": "ora-solare-2026-cambio-ora-salute-risparmio",
+          "tag": [
+            "ora-solare",
+            "cambio-ora",
+            "benessere",
+            "ritmo-circadiano"
+          ],
+          "evidenza": false,
+          "fonte": "S&H Magazine / Adnkronos",
+          "cerca_url": "https://www.google.com/search?q=ora+solare+2026+cambio+ora+24+ottobre+salute",
+          "post_x": "Stanotte si torna all'ora solare. Da domani si dorme un'ora in più — recita il comunicato ottimista. L'industria dei supplementi per «supportare i ritmi naturali» è già pronta. Non l'ha aspettato nessuno, ma arriva ogni anno. #OraSolare",
+          "post_sito": "Nella notte tra il 24 e il 25 ottobre le lancette tornano indietro di un'ora: è il cambio dall'ora legale all'ora solare, che resterà in vigore fino al 27 marzo 2027. Il rituale si ripete ogni anno accompagnato da due cori paralleli: quello istituzionale sul risparmio energetico e quello dell'industria del benessere, che ogni autunno riscopre i «disturbi del ritmo circadiano», il «deficit di vitamina D» e la «necessità di integratori per affrontare il cambio di stagione». Il mercato dei supplementi legati alla transizione stagionale vale miliardi in tutta Europa; i prodotti venduti in queste settimane — dalla melatonina agli «adattogeni per lo stress da cambio d'ora» — sono spesso sostenuti da studi preliminari che i titoli di giornale trasformano in certezze. Il dibattito reale — quello sull'abolizione definitiva del cambio d'ora, proposta dalla Commissione Europea nel 2018 e mai attuata per mancanza di accordo tra gli Stati membri — langue da anni, mentre chi vende «kit transizione stagionale» ringrazia puntualmente.",
+          "editoriale": false,
+          "redattore": "Il Life Coach 1.0"
+        },
+        {
+          "categoria": "Cultura",
+          "titolo": "Festa del Cinema di Roma: penultimo giorno, ma la manifestazione è sempre più marginale",
+          "slug": "festa-cinema-roma-2026-penultimo-giorno-budget-marginalita",
+          "tag": [
+            "cinema",
+            "roma",
+            "festival",
+            "fondazione-cinema-per-roma"
+          ],
+          "evidenza": false,
+          "fonte": "Il Post / Libero",
+          "cerca_url": "https://www.google.com/search?q=Festa+del+Cinema+Roma+2026+24+ottobre+programma",
+          "post_x": "La Festa del Cinema di Roma è al penultimo giorno. Budget: 10 milioni di euro. Venezia ne ha 8,5, ma conta il doppio. Il nodo è che Roma dipende sempre più da Comune, Regione e Cinecittà — e più dipende, più programma film comodi. #CinemaRoma",
+          "post_sito": "Si avvicina alla conclusione la 21a edizione della Festa del Cinema di Roma, con oggi che porta al red carpet Serena Rossi e una selezione di titoli tra cui un documentario sulla famiglia Panini e opere d'autore internazionali. Quello che la passerella non mostra è il quadro economico e istituzionale che tiene in piedi la manifestazione: la Fondazione Cinema per Roma opera con un budget di circa 10 milioni di euro annui — inferiore a quello delle primissime edizioni — dopo un progressivo ritiro degli sponsor privati, inclusa BNP Paribas che fu il primo finanziatore. Il risultato è una dipendenza crescente da fondi pubblici: Roma Capitale, Regione Lazio, Cinecittà — che rappresenta il Ministero della Cultura — sono oggi i principali promotori. Come ha osservato Il Post, questa contrazione significa che i film prodotti, coprodotti o sostenuti dagli stessi enti che finanziano il festival tendono ad avere una corsia preferenziale. Non è censura: è il meccanismo più sottile del mandante invisibile, quello che trasforma un festival in un vetrina istituzionale mentre tutti applaudono il cinema indipendente.",
+          "editoriale": false,
+          "redattore": "Il Letterato 1.0"
+        }
+      ]
+    },
+    {
       "data": "2026-10-23",
       "post": [
         {
@@ -4793,117 +4979,7 @@
           "redattore": "L'Osservatore 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-09-22",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Trump ospita Xi a Washington: terre rare, AI e la tregua commerciale sul filo",
-          "slug": "trump-xi-washington-terre-rare-tregua-commerciale",
-          "tag": [
-            "usa-cina",
-            "terre-rare",
-            "geopolitica",
-            "commercio"
-          ],
-          "evidenza": true,
-          "fonte": "Internazionale / Formiche.net / U.S. News",
-          "cerca_url": "https://www.google.com/search?q=Trump+Xi+Washington+vertice+settembre+2026+terre+rare",
-          "post_x": "Trump accoglie Xi in pista come si accoglie un socio, non un rivale. Sul tavolo: terre rare (Pechino controlla il 90% dei magneti mondiali). Chi paga il tappeto rosso? L'industria americana, da anni dipendente da Pechino per far funzionare tutto. #TrumpXi",
-          "post_sito": "Donald Trump sarà personalmente ad accogliere Xi Jinping alla Joint Base Andrews — gesto protocollare non banale per un presidente americano, come notano gli analisti. Il racconto dominante parla di distensione e diplomazia. Quello che si tace è il conto: la Cina controlla circa il 70% dell'estrazione mondiale di terre rare e il 90% della produzione di magneti, ovvero le componenti che stanno dentro ogni missile, ogni auto elettrica, ogni chip militare americano. Chi ci guadagna dalla foto di rito? Le corporation americane che hanno delocalizzato in Cina per trent'anni e oggi reclamano a Washington certezze sulle forniture — beneficio taciuto. Sul tavolo ci sono anche Taiwan, l'intelligenza artificiale e il ruolo di Pechino verso l'Iran: dossier che non finiranno in nessun comunicato congiunto. Il precedente incontro a Pechino di maggio ha prodotto risultati modesti, secondo gli analisti. Questa volta il cerimoniale è più sfarzoso: 479 militari, B-2 Spirit e sorvolo di F-22. Più è grande lo spettacolo, più c'è da chiedersi cosa si tratta lontano dalle telecamere.",
-          "editoriale": true,
-          "prospettive": [
-            {
-              "etichetta": "La versione di Washington",
-              "testo": "L'amministrazione Trump presenta il vertice come un'opportunità per stabilizzare il rapporto bilaterale e ottenere concessioni concrete su commercio e forniture di terre rare. Funzionari statunitensi hanno anticipato la possibilità di un allentamento mirato delle tariffe su beni non strategici. La priorità americana riguarda la riduzione della dipendenza industriale e militare dai minerali critici cinesi, che Pechino controlla in modo preponderante nella raffinazione e nella produzione di magneti."
-            },
-            {
-              "etichetta": "La posizione di Pechino",
-              "testo": "Xi Jinping punta principalmente a prolungare la tregua commerciale in scadenza e a ottenere garanzie sulla stabilità delle relazioni economiche. La Cina ha interesse a evitare una nuova escalation tariffaria che penalizzerebbe le sue esportazioni, ma mantiene le leve delle terre rare e del mercato interno come elementi di forza negoziale. Sul fronte dell'intelligenza artificiale, Xi ha ribadito che nessun paese dovrebbe esercitare un dominio unilaterale."
-            },
-            {
-              "etichetta": "I dossier irrisolti",
-              "testo": "Taiwan, il sostegno cinese all'Iran e i controlli americani sull'export tecnologico verso Pechino restano i nodi strutturali che nessun vertice bilaterale sembra in grado di sciogliere. Analisti sentiti dalla stampa internazionale non si aspettano accordi rivoluzionari, ma ritengono che l'effetto moderatore del summit — evitare nuove escalation — possa essere il risultato più concreto dell'incontro."
-            }
-          ],
-          "implicazioni": "L'esito del vertice influenzerà direttamente i mercati delle materie prime critiche, le catene di fornitura dell'industria tecnologica e della difesa, e le trattative commerciali in corso tra le due economie. Un accordo parziale su terre rare e tariffe potrebbe ridurre l'incertezza per le aziende esposte alle forniture sino-americane. L'assenza di progressi su Taiwan e AI rischierebbe invece di alimentare nuove tensioni nei mesi successivi.",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Meloni vuole il tetto agli stranieri in classe. Mattarella: «No ai ghetti»",
-          "slug": "meloni-tetto-stranieri-scuola-mattarella-ghetti",
-          "tag": [
-            "scuola",
-            "immigrazione",
-            "meloni",
-            "mattarella"
-          ],
-          "evidenza": false,
-          "fonte": "Il Post / Sky TG24 / Today.it",
-          "cerca_url": "https://www.google.com/search?q=Meloni+tetto+stranieri+classe+scuola+Mattarella+ghetti+settembre+2026",
-          "post_x": "Meloni annuncia il tetto agli stranieri in classe. Mattarella risponde citando l'art. 34. La CEI pure. Tutti compatti nel coro. Domanda da bastian contrario: le classi con il 30% di stranieri hanno davvero meno risultati, o hanno meno fondi, meno insegnanti di sostegno, meno mediatori linguistici? #Scuola",
-          "post_sito": "Il governo Meloni prepara un decreto per porre un limite alla presenza di studenti stranieri nelle classi scolastiche — secondo i dati forniti dallo stesso ministro Valditara, sarebbero circa 34mila le classi con almeno il 30% di alunni stranieri. La risposta del presidente Mattarella all'inaugurazione dell'anno scolastico ad Amatrice è arrivata puntuale: scuola «aperta a tutti» e «deve creare legami, non ghetti», con citazione dell'articolo 34 della Costituzione. Si è accodata anche la Conferenza episcopale italiana. Coro compatto. Il racconto dominante presenta la questione come uno scontro secco tra chi vuole «proteggere» le classi italiane e chi difende i diritti costituzionali. Quello che sparisce dal dibattito è la causa strutturale rimossa: la vera emergenza nelle classi miste non è la provenienza degli alunni, ma la cronica carenza di insegnanti di sostegno, mediatori linguistici e risorse dedicate all'integrazione — che le opposizioni chiedono da anni e che nessun governo, di destra o di sinistra, ha mai stanziato in modo adeguato. Chi ci guadagna politicamente dall'annuncio? Un governo che a pochi mesi dalla fine della legislatura ha bisogno di un tema identitario forte per mobilitare il proprio elettorato. Il decreto, quando arriverà, verrà contestato e probabilmente smussato — ma l'effetto comunicativo è già stato ottenuto.",
-          "editoriale": false,
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Istat conferma: deficit 2025 al 3,1%. Italia resta in procedura Ue, pressione fiscale record al 42,9%",
-          "slug": "istat-deficit-2025-3-1-procedura-ue-pressione-fiscale",
-          "tag": [
-            "deficit",
-            "istat",
-            "procedura-infrazione",
-            "pressione-fiscale"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Il Sole 24 Ore / Today.it",
-          "cerca_url": "https://www.google.com/search?q=Istat+deficit+PIL+2025+3.1+procedura+infrazione+22+settembre+2026",
-          "post_x": "Istat conferma: deficit 2025 al 3,1%, sopra la soglia Ue. Pressione fiscale al 42,9% — record decennale. Giorgetti: «Rammarico». FdI aveva proposto di mettere in Costituzione un tetto del 40%. La Costituzione, quella vera, è rimasta in cassetto. #ContiPubblici",
-          "post_sito": "L'Istat ha comunicato oggi che il deficit italiano 2025 si è attestato al 3,079% del PIL — arrotondato al 3,1%, confermando la stima di aprile e restando sopra la soglia europea del 3%. Il debito pubblico si è fermato al 136,7% del PIL. L'uscita dalla procedura di infrazione per deficit eccessivo — aperta dall'Ue nel luglio 2024 — slitta almeno al 2027, secondo le stesse parole del ministro Giorgetti. Il dato taciuto dal racconto ufficiale è un altro: la pressione fiscale nel 2025 ha raggiunto il 42,9% del PIL, in crescita di 1,3 punti rispetto al 2022, al suo livello più alto negli ultimi dieci anni. Lo stesso partito di governo, Fratelli d'Italia, aveva depositato in questa legislatura una proposta di legge per fissare in Costituzione un tetto alla pressione fiscale del 40% del PIL — proposta che si è, come sintetizzato con rara precisione dall'analisi parlamentare, «liquefattasi». Eufemismo di potere: il governo parla di «rammarico» per i conti, mentre i conti mostrano che le tasse degli italiani sono aumentate. Chi ci guadagna dalla narrativa del 'vincolo esterno'? Il governo, che può addossare all'Europa le proprie difficoltà di bilancio senza dover spiegare dove sono finiti i margini promessi in campagna elettorale.",
-          "editoriale": false,
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Mondiali di ciclismo a Montreal: Italia in gara nel Team Relay con Ganna e Longo Borghini",
-          "slug": "mondiali-ciclismo-montreal-2026-team-relay-italia-ganna-longo-borghini",
-          "tag": [
-            "ciclismo",
-            "mondiali",
-            "montreal",
-            "team-relay"
-          ],
-          "evidenza": false,
-          "fonte": "OA Sport / Sky Sport / Cicloweb",
-          "cerca_url": "https://www.google.com/search?q=Mondiali+ciclismo+Montreal+2026+team+relay+Italia+risultati",
-          "post_x": "Mondiali di ciclismo a Montreal: oggi il Team Relay misto, con Ganna, Longo Borghini e compagni. 40,6 km, 16 nazioni, diretta gratis in chiaro su Rai 2 dalle 16. Lo sport che non si vede, visto. #Ciclismo #Montreal2026",
-          "post_sito": "Ai Mondiali di ciclismo su strada di Montreal 2026 — seconda volta nella storia che la città canadese ospita la rassegna iridata, dopo il 1974 — oggi va in scena la cronometro a staffetta mista (Team Relay) di 40,6 km. L'Italia schiera un sestetto di rilievo: Mattia Cattaneo, Filippo Ganna e Matteo Sobrero nel terzetto maschile, Elisa Longo Borghini, Monica Trinca Colonel e Vittoria Guazzini in quello femminile. La gara è in diretta in chiaro su Rai Sport HD e poi su Rai 2, oltre che in streaming gratuito su RaiPlay. L'Australia campione in carica arriva a Montreal falcidiata: tre dei sei atleti titolati — Jay Vine, Luke Plapp e Brodie Chapman — assenti per malattia, mancata convocazione o rinuncia personale. Un'apertura concreta per l'Italia, che nel ciclismo su strada ha già dimostrato di saper vincere quando conta. Ieri Nicolas Milesi aveva conquistato l'argento nella cronometro Under 23 — seconda medaglia azzurra in due giorni, notizia che sui quotidiani generalisti ha trovato meno spazio della serata di Champions League.",
-          "editoriale": false,
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Cuneo, camionista spara e uccide un ladro in fuga: 13 colpi da 30-40 metri",
-          "slug": "cuneo-baldissero-alba-camionista-spara-ladro-fuga",
-          "tag": [
-            "cuneo",
-            "legittima-difesa",
-            "omicidio",
-            "cronaca"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Corriere della Sera / Il Mattino",
-          "cerca_url": "https://www.google.com/search?q=Cuneo+Baldissero+Alba+camionista+spara+ladro+ucciso+13+colpi",
-          "post_x": "Baldissero d'Alba: un uomo spara 13 colpi su 15 disponibili su ladri in fuga, uno muore. È indagato per omicidio volontario. I giornali titolano già. L'autopsia non c'è ancora. La presunzione di innocenza è un dettaglio fastidioso quando il copione è già scritto. #Cronaca",
-          "post_sito": "A Baldissero d'Alba (Cuneo), nella notte tra sabato e domenica, Roberto Mollo — 35 anni, autotrasportatore — ha sparato 13 dei 15 colpi del suo caricatore su una banda di ladri che tentava di entrare nella sua cascina in ristrutturazione, dove dormiva da giorni per paura di furti. Secondo l'ipotesi investigativa, uno dei ladri, Gjovalin Lazri, 36 anni, di origini albanesi, è stato colpito mentre era già in fuga, da una distanza di 30-40 metri. È morto. Mollo è indagato per omicidio volontario. Sul corpo della vittima sono stati trovati due buchi tra collo e spalla. L'autopsia deve ancora essere disposta; l'esame balistico chiarirà la dinamica. Eppure le prime pagine hanno già il loro titolo, e il dibattito sulla legittima difesa è già partito — con la consueta velocità che precede qualsiasi certezza giudiziaria. Mollo ha chiamato lui stesso i soccorsi, riferisce il suo avvocato. Sono ipotesi investigative, non sentenze. La causa strutturale rimossa da questo dibattito è che un lavoratore dormiva nella propria cascina — di notte, da solo, per paura dei ladri — perché lo Stato non garantisce sicurezza sufficiente nelle aree rurali, e perché le norme sulla detenzione delle armi in Italia permettono situazioni di questo tipo senza adeguata formazione sull'uso della forza. Ma è più comodo discutere di legittima difesa che di prevenzione.",
-          "editoriale": false,
-          "redattore": "L'Osservatore 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-10-23T07:20:01.063265+00:00"
+  "ultimo_aggiornamento": "2026-10-24T07:19:58.452937+00:00"
 }
