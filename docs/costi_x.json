@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-24",
+      "slug": "festa-cinema-roma-2026-penultimo-giorno-budget-marginalita",
+      "categoria": "Cultura",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-24",
       "slug": "ora-solare-2026-cambio-ora-salute-risparmio",
       "categoria": "Wellness",
       "evidenza": false,
@@ -1428,14 +1436,6 @@
       "data": "2026-10-03",
       "slug": "europei-ciclismo-femminile-longo-borghini-vollering-slovenia",
       "categoria": "Sport",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-03",
-      "slug": "volkswagen-cessione-ducati-1-miliardo",
-      "categoria": "Economia",
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
