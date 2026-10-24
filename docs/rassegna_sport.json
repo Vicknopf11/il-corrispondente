@@ -1,6 +1,30 @@
 {
-  "generato": "2026-10-24T05:30:59.413695+00:00",
+  "generato": "2026-10-24T11:30:59.149525+00:00",
   "item": [
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Highlights Musetti-Van Assche, il rovescio di Lorenzo fa impazzire il telecronista: \"Non è vero!!!\"",
+      "link": "https://video.gazzetta.it/tennis/atp/video-highlights-musetti-van-assche-il-rovescio-fa-impazzire-il-telecronista-la-reazione/e1aac2c0-2c6e-410b-b1e5-5d58165b4xlk",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-10-24"
+    },
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Serie A Raffa al via: girone unico a 10 squadre e novità regolamentari",
+      "link": "https://www.gazzetta.it/bocce/22-10-2026/bocce-serie-a-raffa-al-via-girone-unico-a-10-squadre-e-novita-regolamentari.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-10-22"
+    },
+    {
+      "sottocategoria": "Calcio femminile",
+      "tipo": "notizia",
+      "titolo": "Pallavolo: Supercoppa donne a Bari, Cozzoli 'evento che va oltre il campo'",
+      "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/10/23/pallavolo-supercoppa-donne-a-bari-cozzoli-evento-che-va-oltre-il-campo_b49134ec-afc0-47cc-a15a-b2b73a65180d.html",
+      "fonte": "ANSA Sport",
+      "data_evento": "2026-10-23"
+    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
@@ -15,30 +39,6 @@
       "titolo": "Fis-Bambino Gesù: il protocollo d'intesa porta la scherma nell’ospedale pediatrico romano",
       "link": "https://www.gazzetta.it/Sport-Vari/23-10-2026/fis-bambino-gesu-il-protocollo-d-intesa-porta-la-scherma-nell-ospedale-pediatrico-romano.shtml",
       "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-10-23"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "L'arbitro ignora per due volte il getto della spugna: Garber costretto alla bombola d'ossigeno a fine match",
-      "link": "https://www.gazzetta.it/Sport-Vari/19-10-2026/boxe-amy-pu-ignora-per-due-volte-l-asciugamano-di-dan-garber-contro-adam-olaniyan.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-10-19"
-    },
-    {
-      "sottocategoria": "Squadra",
-      "tipo": "notizia",
-      "titolo": "Tragedia nel rugby francese: muore in campo una giocatrice 17enne dopo un colpo alla testa",
-      "link": "https://www.gazzetta.it/Rugby/21-10-2026/tragedia-nel-rugby-francese-muore-in-campo-giocatrice-17enne.shtml",
-      "fonte": "Gazzetta — Rugby",
-      "data_evento": "2026-10-21"
-    },
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "Fenomeno Duplantis, parla Kayode, il Pallone d'oro e il calvario di Sinner: domani su Sportweek",
-      "link": "https://www.gazzetta.it/sportweek/23-10-2026/sportweek-duplantis-l-intervista-a-kayode-il-pallone-d-oro-e-sinner.shtml",
-      "fonte": "Gazzetta — Atletica",
       "data_evento": "2026-10-23"
     }
   ]
