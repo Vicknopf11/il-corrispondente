@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-25",
+      "slug": "longevita-integratori-under-35-milan-longevity-summit-2026",
+      "categoria": "Wellness",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-25",
       "slug": "agenti-ai-conti-bancari-wall-street-2026",
       "categoria": "AI",
       "evidenza": false,
@@ -1428,14 +1436,6 @@
       "data": "2026-10-04",
       "slug": "inflazione-42-energia-famiglie-tagliano-consumi",
       "categoria": "Economia",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-04",
-      "slug": "manovra-14-miliardi-armi-sanita-a-secco",
-      "categoria": "Politica Nazionale",
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
