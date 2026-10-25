@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-25",
+      "slug": "cortei-italia-arresti-siher-movimento-17-ottobre",
+      "categoria": "Cronaca",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
+      "data": "2026-10-25",
       "slug": "venicemarathon-2026-quarantesima-edizione-record",
       "categoria": "Sport",
       "evidenza": false,
@@ -1428,14 +1436,6 @@
       "data": "2026-10-03",
       "slug": "musk-project-meridian-pentagono-guerra-futuro",
       "categoria": "Cultura",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-03",
-      "slug": "milano4mentalhealth-2026-lundbeck-sponsor",
-      "categoria": "Wellness",
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
