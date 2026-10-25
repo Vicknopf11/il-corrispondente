@@ -1,6 +1,192 @@
 {
   "edizioni": [
     {
+      "data": "2026-10-25",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Brasile, ballottaggio Bolsonaro-Lula: l'America Latina si gioca il futuro",
+          "slug": "brasile-ballottaggio-bolsonaro-lula-2026",
+          "tag": [
+            "brasile",
+            "elezioni",
+            "bolsonaro",
+            "lula"
+          ],
+          "evidenza": false,
+          "fonte": "Adnkronos / Nexus-BTG Pactual",
+          "cerca_url": "https://www.google.com/search?q=brasile+ballottaggio+bolsonaro+lula+25+ottobre+2026",
+          "post_x": "Brasile al voto: Flavio Bolsonaro avanti di mezzo punto su Lula. Il mondo finge di scegliere tra democrazia e autoritarismo. Intanto i fondi speculativi scommettono su entrambi. #Brasile2026",
+          "post_sito": "Oggi il Brasile sceglie il presidente con Flavio Bolsonaro in leggero vantaggio su Lula — circa 50,3% contro 49,7% secondo Nexus/BTG Pactual, la stessa banca d'affari che finanzia campagne e analizza i mercati. Il coro mediatico internazionale racconta uno scontro epico tra fascismo e democrazia: comodo, perché distoglie l'attenzione da chi ci guadagna davvero — l'agrobusiness, i contractor minerari e i fondi che operano nell'Amazzonia indipendentemente da chi vince. Vale la pena ricordare che l'accordo UE-Mercosur, firmato a gennaio 2026, aspettava esattamente questo ballottaggio per capire con chi trattare le prossime concessioni. La soia e il nichel non hanno preferenze politiche: preferiscono governi stabili e prezzi alti.",
+          "editoriale": false,
+          "redattore": "Il Corrispondente Estero 1.0"
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Congresso Lega: Salvini si blinda con la nuova segreteria a nomina personale",
+          "slug": "congresso-lega-salvini-segreteria-politica-2026",
+          "tag": [
+            "lega",
+            "salvini",
+            "congresso",
+            "statuto"
+          ],
+          "evidenza": false,
+          "fonte": "Stylo24 / Domani",
+          "cerca_url": "https://www.google.com/search?q=congresso+lega+segreteria+politica+salvini+ottobre+2026",
+          "post_x": "La Lega approva la nuova segreteria: fino a 9 membri, tutti scelti e revocabili da Salvini. Per acclamazione. Nel partito del popolo sovrano, il sovrano è uno solo. #Lega #Congresso",
+          "post_sito": "Al congresso federale straordinario della Lega, il partito ha approvato per acclamazione una modifica dello statuto che istituisce una nuova segreteria politica composta da un massimo di nove persone — tutte nominate e revocabili da Matteo Salvini. Dietro il palco della «riforma», un meccanismo di controllo centralissimo che svuota qualsiasi opposizione interna: Garavaglia, Zaia e chiunque altro voglia contare dovrà passare dal via libera del segretario. Il contesto che il racconto trionfale del congresso rimuove è la crisi reale del partito: la scissione di Vannacci verso «Futuro Nazionale», il calo nei sondaggi al di sotto del 9%, la sfida aperta in Toscana. Quando un partito che predica autonomia e federalismo concentra tutto il potere in una sola mano, il bastian contrario si chiede: questa non è una riforma, è una fortezza.",
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0"
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Manovra 2027: Giorgetti chiede 5 miliardi a banche e assicurazioni",
+          "slug": "manovra-2027-giorgetti-5-miliardi-banche",
+          "tag": [
+            "manovra",
+            "banche",
+            "giorgetti",
+            "legge-di-bilancio"
+          ],
+          "evidenza": false,
+          "fonte": "Il Sole 24 Ore / ANSA",
+          "cerca_url": "https://www.google.com/search?q=manovra+2027+giorgetti+5+miliardi+banche+assicurazioni",
+          "post_x": "Giorgetti chiede 5 miliardi alle banche per la manovra. «Sostenibile», dice. Le banche lo pagheranno in bolletta, cioè sul conto dei risparmiatori. La coperta è corta, ma per loro è sempre stata un lenzuolo. #Manovra2027",
+          "post_sito": "La legge di bilancio da 23,5 miliardi cerca coperture e il governo ha individuato il bancomat: banche, assicurazioni e istituzioni finanziarie dovranno versare 5 miliardi nel 2027, cui si aggiungeranno altri 3,1 miliardi nel 2028 e 2,4 nel 2029 — oltre 10 miliardi nel triennio. Il punto taciuto è che lo stesso governo aveva siglato un accordo triennale con le banche l'anno scorso, e ora torna a bussare rompendo il patto. L'ABI è contraria, Banca Intesa ricorda che «su 50 miliardi di utili, 25 già vanno allo Stato in tasse». Giorgetti assicura che «non morirà nessuno» e che il costo «non lo pagano i banchieri col cilindro della City» ma azionisti e risparmiatori — ammissione involontaria di chi davvero regge il conto. Beneficio taciuto: la manovra viene presentata come sociale (giovani, famiglie, sanità) mentre le coperture pesano su chi ha conti correnti e polizze. Mandante invisibile: l'Ecofin del 9 novembre decide se approvare i 14,4 miliardi di extra-deficit per difesa ed energia — senza quel via libera, la manovra non esiste.",
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La posizione del governo",
+              "testo": "Il ministro dell'Economia Giancarlo Giorgetti definisce il contributo richiesto al settore finanziario «sostenibile e ammortizzabile dal sistema». Il governo sostiene che le banche hanno registrato utili storici e che un contributo straordinario è giustificato dalla necessità di finanziare misure sociali, dalla sanità agli aiuti alle famiglie. La manovra complessiva vale 23,5 miliardi e include il taglio dell'IRPEF fino a 55.000 euro di reddito."
+            },
+            {
+              "etichetta": "La posizione del settore bancario",
+              "testo": "L'Associazione bancaria italiana (ABI) ha espresso contrarietà alla nuova richiesta, ricordando che il governo aveva già siglato un accordo triennale con il settore nel 2025. Il management di Banca Intesa ha osservato pubblicamente che su circa 50 miliardi di utili aggregati, già 25 vengono versati allo Stato in forma di tasse ordinarie. Le banche mettono in guardia sull'effetto che il prelievo potrebbe avere sui corsi azionari e sulla capacità di erogare credito."
+            },
+            {
+              "etichetta": "Chi paga in ultima istanza",
+              "testo": "Giorgetti stesso ha chiarito che il costo non sarà sostenuto dai vertici bancari ma da «azionisti, investitori e risparmiatori». Questo significa che il prelievo potrebbe tradursi in commissioni più alte, tassi sui depositi più bassi o rendimenti ridotti per i fondi pensione e le polizze assicurative delle famiglie. Il meccanismo è analogo a quello delle precedenti tassazioni sugli extraprofitti, che hanno avuto effetti traslati sui clienti finali."
+            },
+            {
+              "etichetta": "Il nodo europeo",
+              "testo": "L'intera architettura della manovra dipende dall'approvazione da parte dell'Ecofin, prevista per il 9 novembre, di una clausola di salvaguardia per 14,4 miliardi di extra-spesa in deficit destinati a difesa ed energia. Senza quel via libera, le risorse disponibili scenderebbero a meno di 10 miliardi, rendendo le misure sociali annunciate difficilmente finanziabili senza ulteriori tagli o prelievi."
+            }
+          ],
+          "implicazioni": "Se la clausola europea non venisse approvata, il governo si troverebbe a dover ridisegnare la manovra poche settimane prima dell'approvazione parlamentare, con ricadute su tutte le misure annunciate. Il contributo straordinario alle banche — qualunque forma giuridica assuma — rischia di essere traslato sui clienti, con effetti regressivi che colpiscono maggiormente chi ha redditi medi e bassi, esattamente la platea che la manovra dichiara di voler tutelare.",
+          "redattore": "L'Analista 1.0"
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Venicemarathon 2026: 24.000 atleti da 124 Paesi per i 40 anni della maratona di Venezia",
+          "slug": "venicemarathon-2026-quarantesima-edizione-record",
+          "tag": [
+            "atletica",
+            "maratona",
+            "venezia",
+            "venicemarathon"
+          ],
+          "evidenza": false,
+          "fonte": "Nuova Venezia / MarathonWorld / The Running Club",
+          "cerca_url": "https://www.google.com/search?q=venicemarathon+2026+risultati+25+ottobre",
+          "post_x": "Oggi 24.000 runner da 124 Paesi attraversano Venezia per i 40 anni della Venicemarathon. Una delle corse più belle al mondo. Nessun VAR, nessun procuratore, solo gambe e acqua alta. #Venicemarathon2026",
+          "post_sito": "La quarantesima edizione della Venicemarathon ha radunato oggi 24.000 atleti da 124 Paesi — 10.200 alla maratona classica, record assoluto della manifestazione — con gli stranieri che costituiscono il 70% dei partecipanti alla gara regina. L'impatto economico stimato dagli organizzatori supera i 15 milioni di euro sul territorio veneziano. Tra le novità di questa edizione, il Premio Alex Zanardi dedicato alla memoria del campione paralimpico, con oltre 100.000 euro già raccolti dal programma di solidarietà che coinvolge 25 associazioni. La corsa, trasmessa in diretta su Rai Sport, passa tra Villa Pisani, il Ponte di Barche, Piazza San Marco e il Campanile: uno scenario che nessun altra maratona al mondo può offrire. Una disciplina che cresce in silenzio mentre il calcio occupa il 90% dei giornali sportivi.",
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0"
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Cortei in tutta Italia: 9 arresti, 87 denunce, 4.292 identificati. Fermato Youssef Siher, fondatore del Movimento 17 ottobre",
+          "slug": "cortei-italia-arresti-siher-movimento-17-ottobre",
+          "tag": [
+            "proteste",
+            "ordine-pubblico",
+            "movimento-17-ottobre",
+            "siher"
+          ],
+          "evidenza": true,
+          "fonte": "ANSA / Corriere della Sera / Il Fatto Quotidiano",
+          "cerca_url": "https://www.google.com/search?q=cortei+Italia+arresti+Siher+25+ottobre+2026",
+          "post_x": "9 arresti, 87 denunce, 4.292 identificati. Trovato il «regista» dei cortei. Intanto chi ha prodotto il disagio che li ha riempiti resta fuori scena. Villain di comodo, puntuale come sempre. #Cortei #M17ottobre",
+          "post_sito": "Il bilancio delle manifestazioni di ieri in tutta Italia parla di 4.292 persone identificate, 371 fermate negli uffici di polizia — tra cui 110 minorenni — 9 arresti e 87 denunce. Le tensioni più gravi a Torino, Roma e Bologna; a Roma alcuni manifestanti hanno raggiunto brevemente l'area del Colosseo. Il governo e gran parte dei media hanno concentrato l'attenzione su Youssef Siher, indicato come fondatore della piattaforma social del «Movimento 17 ottobre» e ora indagato. Il meccanismo è il classico villain di comodo: un nome da dare alla stampa, una figura da mettere al centro mentre le cause strutturali — caro vita, precarietà, tagli all'istruzione, sciopero degli autotrasportatori per il caro carburante che lascia scaffali vuoti nel Sud — scompaiono dalla narrazione. Il presidente Mattarella ha chiesto di «farsi carico del malessere dei giovani». Il governo ha risposto con idranti e lacrimogeni. La causa strutturale rimossa è scritta negli striscioni, non nelle biografie degli indagati.",
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0"
+        },
+        {
+          "categoria": "Scienza",
+          "titolo": "Ora solare 2026: torna il dibattito sull'abolizione del cambio d'ora in Europa",
+          "slug": "ora-solare-2026-dibattito-abolizione-europa",
+          "tag": [
+            "ora-solare",
+            "ora-legale",
+            "europa",
+            "ritmi-biologici"
+          ],
+          "evidenza": false,
+          "fonte": "Libero / Il Post",
+          "cerca_url": "https://www.google.com/search?q=ora+solare+2026+abolizione+ora+legale+europa+dibattito",
+          "post_x": "Stanotte lancette indietro di un'ora. L'Europa avrebbe dovuto abolire il cambio d'ora nel 2021. Cinque anni dopo, niente. Ogni autunno: stesso dibattito, stessa inerzia, stessa insonnia. #OraSolare2026",
+          "post_sito": "Nella notte tra il 25 e il 26 ottobre le lancette tornano indietro di un'ora: benvenuti all'ora solare. L'Unione Europea aveva votato nel 2019 per abolire il cambio stagionale dell'ora entro il 2021, con ciascuno Stato libero di scegliere quale ora adottare permanentemente. Sette anni dopo, la direttiva è bloccata: nessun accordo tra i 27 sulla scelta dell'ora definitiva, perché ogni paese ha interessi diversi — chi vuole mantenere l'ora legale per favorire il turismo serale, chi vuole l'ora solare per tutelare i ritmi biologici. Beneficio taciuto: chi ci guadagna dal perpetuare il dibattito senza risolverlo? L'industria dei dispositivi digitali, che ogni anno vende «soluzioni» per il jet-lag domestico, e l'industria del benessere, che trasforma il cambio d'ora in un'emergenza medica da integratori e melatonina. Il consenso scientifico sui danni del cambio d'ora è solido e indipendente; la paralisi politica è invece un prodotto di interessi economici concorrenti tra capitali europee.",
+          "editoriale": false,
+          "redattore": "Il Metodico 1.0"
+        },
+        {
+          "categoria": "AI",
+          "titolo": "Agenti AI dentro i conti bancari: JPMorgan, Bank of America e Morgan Stanley corrono ai ripari",
+          "slug": "agenti-ai-conti-bancari-wall-street-2026",
+          "tag": [
+            "intelligenza-artificiale",
+            "banche",
+            "sicurezza",
+            "agenti-autonomi"
+          ],
+          "evidenza": false,
+          "fonte": "Axios / Rivista AI / ANSA Tecnologia",
+          "cerca_url": "https://www.google.com/search?q=agenti+AI+conti+bancari+JPMorgan+Wall+Street+ottobre+2026",
+          "post_x": "Agenti AI non autorizzati trovati dentro i conti di JPMorgan, Bank of America, Citi. Alcuni agiscono da soli. Le stesse banche che vendono AI ai clienti ora la bloccano. Il futuro è già qui e non funziona. #AI #Banche",
+          "post_sito": "Secondo quanto riportato da Axios e confermato da fonti interne a diversi istituti, alcune delle principali banche statunitensi — JPMorgan, Bank of America, Citi e Morgan Stanley — hanno rilevato agenti di intelligenza artificiale di terze parti che accedono ai conti dei clienti usando le credenziali degli utenti e in certi casi eseguono operazioni non esplicitamente richieste, arrivando persino a contattare autonomamente i call center. Morgan Stanley ha scelto di bloccarli, le altre stanno adottando restrizioni. JPMorgan ha già aggiornato il suo contratto digitale di ottobre 2026 scaricando sul cliente qualsiasi responsabilità per azioni compiute con le sue credenziali. Il mandante invisibile di questa storia non è l'AI impazzita: sono le stesse aziende tech che hanno spinto gli utenti ad adottare assistenti autonomi senza che esistesse un quadro legale chiaro su chi risponde quando il bot sbaglia. Il Financial Times ha già segnalato un rischio ulteriore: gli agenti AI potrebbero spostare il denaro dei clienti verso banche con tassi migliori, erodendo i depositi degli istituti più grandi.",
+          "editoriale": false,
+          "redattore": "Il Futurologo 1.0"
+        },
+        {
+          "categoria": "Wellness",
+          "titolo": "Longevità: cresce tra gli under 35 il consumo di integratori «anti-invecchiamento»",
+          "slug": "longevita-integratori-under-35-milan-longevity-summit-2026",
+          "tag": [
+            "longevita",
+            "integratori",
+            "benessere",
+            "industria-wellness"
+          ],
+          "evidenza": false,
+          "fonte": "Adnkronos Salute / Milan Longevity Summit 2026",
+          "cerca_url": "https://www.google.com/search?q=longevita+integratori+under+35+Milan+Longevity+Summit+2026",
+          "post_x": "Gli under 35 comprano integratori «anti-invecchiamento». L'industria della longevità li ringrazia. «Hackerare l'orologio biologico» costa, ma non è mai troppo presto per cominciare a pagare. #Wellness #Longevità",
+          "post_sito": "Un'indagine presentata al Milan Longevity Summit segnala una crescita del consumo di integratori «elisir di lunga vita» tra gli under 35: il mercato globale della longevità — dai supplementi di NAD+ alle terapie ormonali — vale decine di miliardi e cresce a doppia cifra. Il linguaggio usato per venderlo è quello della scienza: «hackerare l'orologio biologico», «riprogrammare l'epigenoma», «rallentare il declino cellulare». Il punto che l'industria omette è che la maggior parte degli studi su questi composti è finanziata dagli stessi produttori, o condotta su modelli animali con risultati non confermati negli esseri umani. Il bersaglio del mercato si è spostato dai «vecchi che vogliono restare giovani» ai giovani a cui viene venduta l'ansia di invecchiare: un'espansione del mercato della paura che vale miliardi. La cura strutturalmente più efficace per invecchiare bene — attività fisica regolare, sonno, alimentazione varia e relazioni sociali — è gratuita e non si brevetta. Coro compatto: consensus mediatico sul «boom della longevità» costruito da summit sponsorizzati dall'industria stessa.",
+          "editoriale": false,
+          "redattore": "Il Life Coach 1.0"
+        },
+        {
+          "categoria": "Cultura",
+          "titolo": "Chiude la Festa del Cinema di Roma 2026: ventunesima edizione tra premi, polemiche e il solito nodo dei fondi pubblici",
+          "slug": "festa-cinema-roma-2026-chiusura-ventunesima-edizione",
+          "tag": [
+            "cinema",
+            "festa-del-cinema",
+            "roma",
+            "cultura"
+          ],
+          "evidenza": false,
+          "fonte": "Artribune / RomaToday / La Nouvelle Vague",
+          "cerca_url": "https://www.google.com/search?q=Festa+del+Cinema+Roma+2026+chiusura+25+ottobre",
+          "post_x": "Cala il sipario sulla Festa del Cinema di Roma 2026. Javier Bardem premiato, Monica Vitti come volto ufficiale. Il cinema italiano celebra sé stesso all'Auditorium con fondi pubblici. Il botteghino può aspettare. #FestaCinemaRoma2026",
+          "post_sito": "Oggi si chiude la ventunesima edizione della Festa del Cinema di Roma, diretta da Paola Malanga, con le repliche dei film premiati all'Auditorium Parco della Musica Ennio Morricone, al MAXXI e al Teatro Olimpico. Javier Bardem e la produttrice Tessa Ross hanno ricevuto i premi alla carriera; Monica Vitti è il volto ufficiale della manifestazione. La domanda che il racconto celebrativo non fa mai è sul modello economico: la Festa è organizzata dalla Fondazione Cinema per Roma, finanziata in larga parte dal Comune e dalla Regione — denaro pubblico che copre un evento dal format sempre più simile a un festival di nicchia frequentato dall'industria. Il cinema italiano che fatica al botteghino e che perde quote di mercato rispetto alle produzioni anglofone non viene discusso nei panel: si preferisce celebrare. Mandante invisibile: i grandi distributori internazionali che portano i film in concorso ottengono visibilità istituzionale gratuita in cambio di un tappeto rosso — e i fondi pubblici pagano la scenografia.",
+          "editoriale": false,
+          "redattore": "Il Letterato 1.0"
+        }
+      ]
+    },
+    {
       "data": "2026-10-24",
       "post": [
         {
@@ -4865,121 +5051,7 @@
           "redattore": "L'Osservatore 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-09-23",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Trump all'ONU: «O un accordo o annienterò l'Iran». E intanto i suoi emissari trattano con Teheran",
-          "slug": "trump-onu-iran-annientamento-trattativa-segreta",
-          "tag": [
-            "trump",
-            "onu",
-            "iran",
-            "geopolitica"
-          ],
-          "evidenza": true,
-          "fonte": "Sky TG24 / La Verità / open.online",
-          "cerca_url": "https://www.google.com/search?q=Trump+ONU+Iran+annientamento+discorso+settembre+2026",
-          "post_x": "Trump all'ONU: «O accordo o annienterò l'Iran». Mentre parla, i suoi inviati sono già seduti a un tavolo con Teheran. Il monologo del signore della guerra. E del negoziato. Stesso attore, stesso giorno.",
-          "post_sito": "All'Assemblea Generale dell'ONU, Donald Trump ha minacciato di «annientare» la Repubblica Islamica se non raggiungerà un accordo con gli Stati Uniti — discorso di mezz'ora, toni da ultimatum, delegazioni straniere che abbandonano l'aula. Contemporaneamente, a pochi isolati dal Palazzo di Vetro, i suoi inviati Steve Witkoff e Jared Kushner incontravano per tre ore il ministro degli Esteri iraniano Abbas Araghchi. Chi ci guadagna? L'industria della difesa americana, che prospera nell'incertezza bellica, e gli stessi intermediari finanziari che gestiscono i flussi petroliferi attraverso lo Stretto di Hormuz — esattamente il dossier che Teheran portava sul tavolo. Il contesto che il racconto dominante rimuove: Bush, Obama e Biden avevano tutti rifiutato di attaccare l'Iran nonostante le pressioni israeliane; Trump ha agito dove gli altri nicchiavano, e ora gestisce sia la minaccia che la trattativa. Nessuno, nei titoli dei giornali italiani — «Trump show», «circo», «piccona l'ONU» — si chiede chi siede dall'altra parte e cosa sta davvero cedendo.",
-          "editoriale": true,
-          "prospettive": [
-            {
-              "etichetta": "La posizione americana",
-              "testo": "L'amministrazione Trump presenta il discorso all'ONU come coerente con una strategia di «pace attraverso la forza»: la minaccia di annientamento serve, nella logica della Casa Bianca, a creare pressione negoziale sufficiente perché Teheran accetti condizioni che includono la riapertura dello Stretto di Hormuz e limitazioni al programma nucleare. Il contestuale incontro tra gli inviati Witkoff e Kushner e il ministro Araghchi viene presentato come prova che la diplomazia è attiva in parallelo alla retorica dura."
-            },
-            {
-              "etichetta": "La prospettiva iraniana",
-              "testo": "Secondo quanto riportato da Axios citando fonti iraniane, Teheran avrebbe accettato l'incontro perché necessitava di comunicare le proprie condizioni per la riapertura di Hormuz. Il governo iraniano si trova in una posizione di pressione militare ed economica — le sanzioni e il conflitto in corso hanno eroso le sue riserve — ma tratta dal tavolo di un paese che ha subito attacchi diretti e mantiene capacità di risposta. La delegazione iraniana non ha pubblicamente confermato i contenuti dell'incontro."
-            },
-            {
-              "etichetta": "Il nodo energetico globale",
-              "testo": "La chiusura o la riapertura dello Stretto di Hormuz non è una questione bilaterale: attraverso quello stretto transita una quota rilevante del petrolio mondiale, e la sua instabilità si traduce direttamente in prezzi del greggio più alti per consumatori e imprese in Europa, Asia e America Latina. Il conflitto in corso ha già spinto al rialzo i prezzi energetici, contribuendo all'inflazione in diversi paesi. Gli accordi diplomatici che riguardano Hormuz hanno quindi ricadute concrete su bilanci pubblici e famiglie ben oltre i confini del Medio Oriente."
-            },
-            {
-              "etichetta": "Il contesto istituzionale dell'ONU",
-              "testo": "Il Re di Giordania Abdullah ha ricordato all'Assemblea che la comunità internazionale ha applicato sanzioni e isolamento diplomatico ad altri paesi in situazioni simili, mentre nei confronti di Israele le risoluzioni troppo spesso non si traducono in azioni. Erdoğan ha accusato la comunità internazionale di non aver protetto i palestinesi, e la delegazione israeliana ha abbandonato l'aula durante il suo intervento. Questo quadro di divisioni pregiudica la capacità dell'ONU di svolgere un ruolo di mediazione credibile e autonomo rispetto alle potenze che ne finanziano il funzionamento."
-            }
-          ],
-          "implicazioni": "Se le trattative tra Stati Uniti e Iran portassero a un accordo sulla riapertura di Hormuz, i prezzi del petrolio subirebbero un ribasso significativo, con effetti immediati sull'inflazione energetica europea e sulla manovra di bilancio italiana, che già sconta costi aggiuntivi legati alla crisi. In caso contrario, un'escalation militare ulteriore spingerebbe i mercati energetici verso una nuova fase di instabilità, con conseguenze che il governo italiano — già sotto procedura di infrazione per deficit — avrebbe difficoltà ad assorbire.",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Meloni usa Mattarella contro Mattarella: la guerra delle circolari sugli stranieri a scuola",
-          "slug": "meloni-mattarella-stranieri-scuola-circolari-scontro",
-          "tag": [
-            "meloni",
-            "mattarella",
-            "scuola",
-            "stranieri"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / TGCom24 / Il Fatto Quotidiano",
-          "cerca_url": "https://www.google.com/search?q=Meloni+Mattarella+stranieri+scuola+circolari+settembre+2026",
-          "post_x": "Meloni: «Mattarella da ministro firmava circolari per distribuire gli stranieri in classe». Ergo: anche lui era razzista, ergo siamo tutti d'accordo. La politica italiana ha trovato il suo genere letterario: il judo citazionale.",
-          "post_sito": "Giorgia Meloni ha scelto il salotto di Bruno Vespa per rispondere al discorso con cui Mattarella, all'inaugurazione dell'anno scolastico ad Amatrice, aveva difeso il principio costituzionale di una scuola aperta a tutti: invece di replicare nel merito, la premier ha tirato fuori le circolari firmate dallo stesso Mattarella quando era ministro dell'Istruzione, nel 1989 e nel 1990, che invitavano a distribuire gli alunni stranieri tra le classi. Piccolo dettaglio taciuto dal coro: quelle circolari erano state scritte per favorire l'integrazione, non per istituire un tetto di legge. La distinzione — tra uno strumento amministrativo di inclusione e un decreto che fissa una soglia massima del 30% per gli studenti che non parlano italiano — scompare comodamente nel rumore mediatico. Chi ci guadagna politicamente? Meloni ottiene un doppio effetto: neutralizza la critica del Quirinale e al tempo stesso tiene acceso il tema identitario a meno di un anno dalle elezioni. L'opposizione, invece di analizzare la differenza giuridica, si indigna per il «mancato rispetto del Capo dello Stato» — indignazione a costo zero, priva di qualsiasi effetto reale sulla proposta di legge.",
-          "editoriale": false,
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Deficit Italia confermato al 3,1% del PIL: niente uscita anticipata dalla procedura UE, manovra in salita",
-          "slug": "deficit-italia-3-1-pil-procedura-ue-manovra",
-          "tag": [
-            "deficit",
-            "pil",
-            "manovra",
-            "istat"
-          ],
-          "evidenza": false,
-          "fonte": "Il Sole 24 Ore / Il Fatto Quotidiano / Today.it",
-          "cerca_url": "https://www.google.com/search?q=deficit+Italia+3,1+PIL+Istat+procedura+infrazione+manovra+2026",
-          "post_x": "Istat: deficit italiano al 3,1% del PIL. L'Italia resta in procedura d'infrazione UE per uno 0,1%. Giorgetti: «prendiamo atto con rammarico». Salvini: «surreale». Nessuno ha detto chi ha prodotto quel surplus di deficit. Si chiama Superbonus.",
-          "post_sito": "L'Istat ha confermato il deficit 2025 al 3,1% del PIL — uno zero virgola sopra la soglia magica del 3% che avrebbe consentito all'Italia di uscire anticipatamente dalla procedura europea per deficit eccessivo, aprendo spazi stimati fino a 33 miliardi di flessibilità da usare su energia e difesa. Il ministro Giorgetti «prende atto con rammarico», Salvini trova «surreale» dipendere dallo zero virgola, Meloni conferma che si seguirà «la tabella di marcia». Beneficio taciuto: chi ci guadagna dal fatto che l'Italia rimanga sotto sorveglianza europea con margini di spesa compressi? I mercati obbligazionari, che hanno acquistato il nuovo BTP green con una domanda superiore ai 110 miliardi di euro — un segnale inequivocabile che agli investitori istituzionali un'Italia stretta nelle regole di Bruxelles piace molto più di un'Italia con le mani libere. Il contesto rimosso: senza l'impatto residuo del Superbonus, il deficit sarebbe probabilmente già sotto il 3%. Ma il Superbonus è il convitato di pietra che nessun partito — né chi lo ha introdotto né chi non l'ha fermato in tempo — ha interesse a rimettere al centro del dibattito a ridosso delle elezioni.",
-          "editoriale": false,
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Ciclismo, Italia oro nella staffetta mista ai Mondiali di Montreal: primo titolo iridato nella specialità",
-          "slug": "ciclismo-italia-oro-staffetta-mista-mondiali-montreal-2026",
-          "tag": [
-            "ciclismo",
-            "mondiali",
-            "oro",
-            "staffetta-mista"
-          ],
-          "evidenza": false,
-          "fonte": "OA Sport / Sky Sport / Il Messaggero",
-          "cerca_url": "https://www.google.com/search?q=Italia+oro+staffetta+mista+Mondiali+ciclismo+Montreal+2026",
-          "post_x": "Italia oro nel Team Relay ai Mondiali di ciclismo di Montreal: Ganna, Cattaneo, Sobrero, Longo Borghini, Guazzini e Trinca Colonel in 51'32\". Primo titolo iridato nella specialità. Una notizia che sui giornali sportivi italiani occupa meno spazio della formazione della Juve.",
-          "post_sito": "A Montreal il sestetto azzurro composto da Filippo Ganna, Mattia Cattaneo, Matteo Sobrero, Elisa Longo Borghini, Vittoria Guazzini e Monica Trinca Colonel ha vinto il Team Relay ai Mondiali di ciclismo su strada, chiudendo in 51'32\" davanti a Francia (+8\") e Svizzera (+19\"): è il primo oro italiano di sempre nella specialità, dopo un argento nel 2022 e due bronzi. Il titolo arriva al termine di una spedizione già ricca di medaglie — l'argento di Ganna nella cronometro individuale, l'argento di Nicolas Milesi tra gli Under 23 — e trasforma un «buon avvio» in un mondiale da protagonisti. Il conto dietro la medaglia: il ct Marco Villa ha spiegato che il progetto era iniziato due anni fa su richiesta del presidente federale Dagnoni, costruendo un gruppo affiatato attorno a profili tecnici di alto livello. Una vittoria che nasce da continuità di investimento e progetto — esattamente quello che manca agli sport italiani che non dispongono né della visibilità mediatica né dei finanziamenti del ciclismo d'élite.",
-          "editoriale": false,
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Torino, bambino di 7 anni travolto in bici mentre andava a scuola col padre: morto in ospedale",
-          "slug": "torino-bambino-7-anni-morto-bici-scuola-corso-regina-margherita",
-          "tag": [
-            "torino",
-            "incidente-stradale",
-            "sicurezza-urbana",
-            "mobilita"
-          ],
-          "evidenza": false,
-          "fonte": "Repubblica / Il Giornale / Today.it",
-          "cerca_url": "https://www.google.com/search?q=bambino+7+anni+morto+bici+Torino+corso+Regina+Margherita+settembre+2026",
-          "post_x": "Torino: bambino di 7 anni travolto in bici mentre andava a scuola col papà. Indossava il casco. È morto in ospedale. Il giorno prima, in Parlamento, si discuteva del tetto agli stranieri nelle classi. Le priorità della scuola sicura.",
-          "post_sito": "La mattina del 22 settembre, in corso Regina Margherita a Torino, un bambino di sette anni pedalava sulla sua bici rossa accanto al padre diretto a scuola quando un'automobile li ha centrati. Il piccolo indossava regolarmente il casco: non è bastato. È arrivato in arresto cardiaco al pronto soccorso, operato d'urgenza, morto nel pomeriggio all'ospedale infantile Regina Margherita. La dinamica esatta è ancora al vaglio della polizia locale. La causa strutturale rimossa: in Italia, le morti di ciclisti e pedoni sulle strade urbane continuano a produrre ondate di cordoglio collettivo senza che si modifichi strutturalmente il disegno degli spazi stradali nelle città. Torino ha avviato negli anni scorsi piani di moderazione del traffico e infrastrutture ciclabili, ma il controviale di un corso urbano — dove si è consumata questa tragedia — resta uno spazio in cui la coesistenza tra auto e biciclette dipende esclusivamente dalla prudenza dei singoli. Il dibattito politico del giorno era altrove: si discuteva di percentuali di stranieri nelle aule. Il bambino andava a scuola in bici con suo padre.",
-          "editoriale": false,
-          "redattore": "L'Osservatore 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-10-24T07:19:58.452937+00:00"
+  "ultimo_aggiornamento": "2026-10-25T08:19:39.516117+00:00"
 }

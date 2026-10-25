@@ -1,77 +1,77 @@
 {
-  "data": "2026-10-24",
+  "data": "2026-10-25",
   "tweet": [
     {
-      "testo": "Israele vota il 27 ottobre e Netanyahu invoca la guerra all'Iran a sei giorni dalle urne. Agenda di governo o agenda elettorale? Queste domande, ovviamente, non si fanno. #Israele #Netanyahu",
-      "url": "https://corrispondente.filoclastos.it/2026/10/24/israele-voto-netanyahu-iran-elezioni-ottobre-2026/",
-      "slug": "israele-voto-netanyahu-iran-elezioni-ottobre-2026",
+      "testo": "Brasile al voto: Flavio Bolsonaro avanti di mezzo punto su Lula. Il mondo finge di scegliere tra democrazia e autoritarismo. Intanto i fondi speculativi scommettono su entrambi. #Brasile2026",
+      "url": "https://corrispondente.filoclastos.it/2026/10/25/brasile-ballottaggio-bolsonaro-lula-2026/",
+      "slug": "brasile-ballottaggio-bolsonaro-lula-2026",
       "categoria": "Politica Internazionale",
-      "evidenza": true,
-      "pubblicato": true
+      "evidenza": false,
+      "pubblicato": false
     },
     {
-      "testo": "Salvini convoca un congresso straordinario, si dimette da segretario e si ricandida. Nel medesimo movimento si trova la mossa più audace e la più prevedibile della politica italiana. #Lega #Congresso",
-      "url": "https://corrispondente.filoclastos.it/2026/10/24/congresso-lega-salvini-garavaglia-ottobre-2026/",
-      "slug": "congresso-lega-salvini-garavaglia-ottobre-2026",
+      "testo": "La Lega approva la nuova segreteria: fino a 9 membri, tutti scelti e revocabili da Salvini. Per acclamazione. Nel partito del popolo sovrano, il sovrano è uno solo. #Lega #Congresso",
+      "url": "https://corrispondente.filoclastos.it/2026/10/25/congresso-lega-salvini-segreteria-politica-2026/",
+      "slug": "congresso-lega-salvini-segreteria-politica-2026",
       "categoria": "Politica Nazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "BTP Valore: 16,6 miliardi raccolti, tassi al 4,75%. Festa nazionale. Intanto lo spread era a 125 punti durante il collocamento e le banche che lo gestivano incassavano commissioni. Ma questa è un'altra storia. #BTP",
-      "url": "https://corrispondente.filoclastos.it/2026/10/24/btp-valore-raccolta-16-miliardi-tassi-rialzo-ottobre-2026/",
-      "slug": "btp-valore-raccolta-16-miliardi-tassi-rialzo-ottobre-2026",
+      "testo": "Giorgetti chiede 5 miliardi alle banche per la manovra. «Sostenibile», dice. Le banche lo pagheranno in bolletta, cioè sul conto dei risparmiatori. La coperta è corta, ma per loro è sempre stata un lenzuolo. #Manovra2027",
+      "url": "https://corrispondente.filoclastos.it/2026/10/25/manovra-2027-giorgetti-5-miliardi-banche/",
+      "slug": "manovra-2027-giorgetti-5-miliardi-banche",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "A Rotterdam oggi le prime finali mondiali di specialità: Gabriele Targhetta al cavallo con maniglie, Elisa Iorio alle parallele asimmetriche. La ginnastica artistica esiste anche quando non vince una medaglia olimpica. #Ginnastica #Mondiali2026",
-      "url": "https://corrispondente.filoclastos.it/2026/10/24/mondiali-ginnastica-artistica-rotterdam-finali-24-ottobre-2026/",
-      "slug": "mondiali-ginnastica-artistica-rotterdam-finali-24-ottobre-2026",
+      "testo": "Oggi 24.000 runner da 124 Paesi attraversano Venezia per i 40 anni della Venicemarathon. Una delle corse più belle al mondo. Nessun VAR, nessun procuratore, solo gambe e acqua alta. #Venicemarathon2026",
+      "url": "https://corrispondente.filoclastos.it/2026/10/25/venicemarathon-2026-quarantesima-edizione-record/",
+      "slug": "venicemarathon-2026-quarantesima-edizione-record",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Milano: 1.400 tra agenti e militari per gestire manifestazioni contro il carovita. 51 dei 100 identificati dopo il 17 ottobre sono minorenni. Forse vale la pena chiedersi cosa produce un paese che manda i minori in piazza per la benzina. #Proteste",
-      "url": "https://corrispondente.filoclastos.it/2026/10/24/proteste-movimento-17-ottobre-citta-blindate-digos-24-ottobre-2026/",
-      "slug": "proteste-movimento-17-ottobre-citta-blindate-digos-24-ottobre-2026",
+      "testo": "9 arresti, 87 denunce, 4.292 identificati. Trovato il «regista» dei cortei. Intanto chi ha prodotto il disagio che li ha riempiti resta fuori scena. Villain di comodo, puntuale come sempre. #Cortei #M17ottobre",
+      "url": "https://corrispondente.filoclastos.it/2026/10/25/cortei-italia-arresti-siher-movimento-17-ottobre/",
+      "slug": "cortei-italia-arresti-siher-movimento-17-ottobre",
       "categoria": "Cronaca",
-      "evidenza": false,
-      "pubblicato": true
+      "evidenza": true,
+      "pubblicato": false
     },
     {
-      "testo": "Oltre 60 scosse in una settimana nel Tirreno meridionale, la più forte di magnitudo 5.5 avvertita da Palermo a Catania. Il CNR parla di «nuovo confine tra le placche» tra Eolie e Ustica. Non è un'emergenza finché non crolla qualcosa. #Terremoto #Sicilia",
-      "url": "https://corrispondente.filoclastos.it/2026/10/24/sciame-sismico-tirreno-meridionale-magnitudo-55-ottobre-2026/",
-      "slug": "sciame-sismico-tirreno-meridionale-magnitudo-55-ottobre-2026",
+      "testo": "Stanotte lancette indietro di un'ora. L'Europa avrebbe dovuto abolire il cambio d'ora nel 2021. Cinque anni dopo, niente. Ogni autunno: stesso dibattito, stessa inerzia, stessa insonnia. #OraSolare2026",
+      "url": "https://corrispondente.filoclastos.it/2026/10/25/ora-solare-2026-dibattito-abolizione-europa/",
+      "slug": "ora-solare-2026-dibattito-abolizione-europa",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "La Svezia blocca ChatGPT e Claude sui PC dei ministeri. Resta solo Copilot di Microsoft. Coincidenza: Microsoft ha già il contratto con il governo. L'IA è permessa — ma solo quella di chi ha firmato nel posto giusto. #AI #Svezia",
-      "url": "https://corrispondente.filoclastos.it/2026/10/24/svezia-blocca-chatgpt-claude-governo-copilot-microsoft/",
-      "slug": "svezia-blocca-chatgpt-claude-governo-copilot-microsoft",
+      "testo": "Agenti AI non autorizzati trovati dentro i conti di JPMorgan, Bank of America, Citi. Alcuni agiscono da soli. Le stesse banche che vendono AI ai clienti ora la bloccano. Il futuro è già qui e non funziona. #AI #Banche",
+      "url": "https://corrispondente.filoclastos.it/2026/10/25/agenti-ai-conti-bancari-wall-street-2026/",
+      "slug": "agenti-ai-conti-bancari-wall-street-2026",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Stanotte si torna all'ora solare. Da domani si dorme un'ora in più — recita il comunicato ottimista. L'industria dei supplementi per «supportare i ritmi naturali» è già pronta. Non l'ha aspettato nessuno, ma arriva ogni anno. #OraSolare",
-      "url": "https://corrispondente.filoclastos.it/2026/10/24/ora-solare-2026-cambio-ora-salute-risparmio/",
-      "slug": "ora-solare-2026-cambio-ora-salute-risparmio",
+      "testo": "Gli under 35 comprano integratori «anti-invecchiamento». L'industria della longevità li ringrazia. «Hackerare l'orologio biologico» costa, ma non è mai troppo presto per cominciare a pagare. #Wellness #Longevità",
+      "url": "https://corrispondente.filoclastos.it/2026/10/25/longevita-integratori-under-35-milan-longevity-summit-2026/",
+      "slug": "longevita-integratori-under-35-milan-longevity-summit-2026",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "La Festa del Cinema di Roma è al penultimo giorno. Budget: 10 milioni di euro. Venezia ne ha 8,5, ma conta il doppio. Il nodo è che Roma dipende sempre più da Comune, Regione e Cinecittà — e più dipende, più programma film comodi. #CinemaRoma",
-      "url": "https://corrispondente.filoclastos.it/2026/10/24/festa-cinema-roma-2026-penultimo-giorno-budget-marginalita/",
-      "slug": "festa-cinema-roma-2026-penultimo-giorno-budget-marginalita",
+      "testo": "Cala il sipario sulla Festa del Cinema di Roma 2026. Javier Bardem premiato, Monica Vitti come volto ufficiale. Il cinema italiano celebra sé stesso all'Auditorium con fondi pubblici. Il botteghino può aspettare. #FestaCinemaRoma2026",
+      "url": "https://corrispondente.filoclastos.it/2026/10/25/festa-cinema-roma-2026-chiusura-ventunesima-edizione/",
+      "slug": "festa-cinema-roma-2026-chiusura-ventunesima-edizione",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }
