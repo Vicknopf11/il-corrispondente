@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-25",
+      "slug": "festa-cinema-roma-2026-chiusura-ventunesima-edizione",
+      "categoria": "Cultura",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-25",
       "slug": "longevita-integratori-under-35-milan-longevity-summit-2026",
       "categoria": "Wellness",
       "evidenza": false,
@@ -1428,14 +1436,6 @@
       "data": "2026-10-04",
       "slug": "europei-ciclismo-lubiana-prova-elite-maschile-evenepoel",
       "categoria": "Sport",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-04",
-      "slug": "inflazione-42-energia-famiglie-tagliano-consumi",
-      "categoria": "Economia",
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
