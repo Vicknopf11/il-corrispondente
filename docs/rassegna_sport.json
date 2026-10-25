@@ -1,6 +1,22 @@
 {
-  "generato": "2026-10-25T06:31:02.097588+00:00",
+  "generato": "2026-10-25T12:30:59.957813+00:00",
   "item": [
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Fils ha fatto il punto dell'anno? Non ci crede nemmeno lui! La reazione è tutta da vedere",
+      "link": "https://video.gazzetta.it/tennis/atp/highlights/video-fils-ha-fatto-il-punto-dell-anno-la-reazione-e-tutta-da-vedere/672af334-006a-4a0e-b199-210b01793xlk",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-10-25"
+    },
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Serie A Raffa al via: girone unico a 10 squadre e novità regolamentari",
+      "link": "https://www.gazzetta.it/bocce/22-10-2026/bocce-serie-a-raffa-al-via-girone-unico-a-10-squadre-e-novita-regolamentari.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-10-22"
+    },
     {
       "sottocategoria": "Invernali",
       "tipo": "notizia",
@@ -24,22 +40,6 @@
       "link": "https://www.gazzetta.it/Sport-Vari/23-10-2026/fis-bambino-gesu-il-protocollo-d-intesa-porta-la-scherma-nell-ospedale-pediatrico-romano.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-10-23"
-    },
-    {
-      "sottocategoria": "Squadra",
-      "tipo": "notizia",
-      "titolo": "Tragedia nel rugby francese: muore in campo una giocatrice 17enne dopo un colpo alla testa",
-      "link": "https://www.gazzetta.it/Rugby/21-10-2026/tragedia-nel-rugby-francese-muore-in-campo-giocatrice-17enne.shtml",
-      "fonte": "Gazzetta — Rugby",
-      "data_evento": "2026-10-21"
-    },
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "Tamberi è già leggenda: Gimbo nominato atleta europeo dell'anno, battuti Duplantis e Tentoglou",
-      "link": "https://www.gazzetta.it/Atletica/25-10-2026/tamberi-atleta-europeo-dell-anno-battuti-duplantis-e-tentoglou.shtml",
-      "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-10-25"
     }
   ]
 }
