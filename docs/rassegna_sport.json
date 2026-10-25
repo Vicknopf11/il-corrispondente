@@ -1,6 +1,14 @@
 {
-  "generato": "2026-10-24T17:31:03.710892+00:00",
+  "generato": "2026-10-25T06:31:02.097588+00:00",
   "item": [
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Carnera, Vita da Primo: arriva lo spettacolo teatrale sulla vita del re dei massimi",
+      "link": "https://www.gazzetta.it/Sport-Vari/24-10-2026/primo-carnera-a-sequals-lo-spettacolo-sulla-sua-vita.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-10-24"
+    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
@@ -28,18 +36,10 @@
     {
       "sottocategoria": "Atletica",
       "tipo": "notizia",
-      "titolo": "Il 2.37 di Gimbo, il record di Sawe o il duello Karalis-Duplantis: quale sarà il \"Momento dell'anno\"?",
-      "link": "https://www.gazzetta.it/Atletica/24-10-2026/momento-dell-anno.shtml",
+      "titolo": "Tamberi è già leggenda: Gimbo nominato atleta europeo dell'anno, battuti Duplantis e Tentoglou",
+      "link": "https://www.gazzetta.it/Atletica/25-10-2026/tamberi-atleta-europeo-dell-anno-battuti-duplantis-e-tentoglou.shtml",
       "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-10-24"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Lione: Cobolli spreca, Musetti ha mille vite e si prende la finale contro Fritz",
-      "link": "https://www.gazzetta.it/Tennis/ATP/24-10-2026/atp-250-lione-musetti-rimonta-cobolli-sara-finale-con-fritz.shtml",
-      "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-10-24"
+      "data_evento": "2026-10-25"
     }
   ]
 }
