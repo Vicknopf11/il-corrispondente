@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-26",
+      "slug": "manovra-2027-banche-assicurazioni-flat-tax-irpef",
+      "categoria": "Economia",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-26",
       "slug": "salvini-rieletto-segretario-lega-stop-armi-ucraina",
       "categoria": "Politica Nazionale",
       "evidenza": false,
@@ -1428,14 +1436,6 @@
       "data": "2026-10-04",
       "slug": "agente-openai-medicare-australia-altman-amodei-senato",
       "categoria": "AI",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-04",
-      "slug": "world-space-week-2026-rocket-revolution-business-lanci-privati",
-      "categoria": "Scienza",
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
