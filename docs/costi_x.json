@@ -1,6 +1,14 @@
 {
   "pubblicazioni": [
     {
+      "data": "2026-10-26",
+      "slug": "lula-rieletto-presidente-brasile-bolsonaro-contesta",
+      "categoria": "Politica Internazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
       "data": "2026-10-25",
       "slug": "festa-cinema-roma-2026-chiusura-ventunesima-edizione",
       "categoria": "Cultura",
@@ -1431,14 +1439,6 @@
       "evidenza": true,
       "tipo_richiesta": "ContentCreateWithUrl",
       "costo_usd": 0.2
-    },
-    {
-      "data": "2026-10-04",
-      "slug": "europei-ciclismo-lubiana-prova-elite-maschile-evenepoel",
-      "categoria": "Sport",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
     }
   ]
 }
