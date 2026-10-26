@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-26",
+      "slug": "conegliano-supercoppa-italiana-volley-femminile-2026",
+      "categoria": "Sport",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-26",
       "slug": "manovra-2027-banche-assicurazioni-flat-tax-irpef",
       "categoria": "Economia",
       "evidenza": false,
@@ -1428,14 +1436,6 @@
       "data": "2026-10-04",
       "slug": "milano4mentalhealth-salute-mentale-bene-comune-sponsor-privati",
       "categoria": "Wellness",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-04",
-      "slug": "agente-openai-medicare-australia-altman-amodei-senato",
-      "categoria": "AI",
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
