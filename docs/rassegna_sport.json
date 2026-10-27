@@ -1,12 +1,28 @@
 {
-  "generato": "2026-10-27T06:30:57.602899+00:00",
+  "generato": "2026-10-27T12:30:56.791055+00:00",
   "item": [
     {
-      "sottocategoria": "Calcio femminile",
+      "sottocategoria": "Atletica",
       "tipo": "notizia",
-      "titolo": "Kane vince il Pallone d'Oro, Putellas regina del calcio femminile",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/27/kane-vince-il-pallone-doro-putellas-regina-del-calcio-femminile_510822b0-f4c0-4722-80ea-f0097bd53971.html",
-      "fonte": "ANSA Sport",
+      "titolo": "Doping, positiva all'Epo la campionessa olimpica di Tokyo Jepchirchir",
+      "link": "https://www.gazzetta.it/Atletica/25-10-2026/la-keniana-peres-jepchirchir-positiva-all-epo-in-un-controllo-antidoping.shtml",
+      "fonte": "Gazzetta — Atletica",
+      "data_evento": "2026-10-25"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Forza mentale e discrezione: chi è Norman, l'ex coach di Wawrinka e possibile nuova guida di Sinner",
+      "link": "https://www.gazzetta.it/Tennis/27-10-2026/sinner-chi-e-magnus-norman-il-possibile-nuovo-coach-di-jannik.shtml",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-10-27"
+    },
+    {
+      "sottocategoria": "Acqua",
+      "tipo": "notizia",
+      "titolo": "Il talento di Smith-Njigba, la rinascita di Watson e il Monday Night: cinque cose da sapere sulla 7ª giornata",
+      "link": "https://www.gazzetta.it/Sport-Usa/27-10-2026/nfl-7-giornata-cinque-cose-da-sapere-monday-night.shtml",
+      "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-10-27"
     },
     {
@@ -18,28 +34,12 @@
       "data_evento": "2026-10-25"
     },
     {
-      "sottocategoria": "Acqua",
-      "tipo": "notizia",
-      "titolo": "Surf, in Portogallo vince Colapinto. Fioravanti va subito fuori e scivola in classifica, è sesto",
-      "link": "https://www.gazzetta.it/Sport-Vari/24-10-2026/surf-in-portogallo-vince-colapinto-fioravanti-va-subito-fuori-e-ora-e-sesto-in-classific.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-10-24"
-    },
-    {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
       "titolo": "Fis-Bambino Gesù: il protocollo d'intesa porta la scherma nell’ospedale pediatrico romano",
       "link": "https://www.gazzetta.it/Sport-Vari/23-10-2026/fis-bambino-gesu-il-protocollo-d-intesa-porta-la-scherma-nell-ospedale-pediatrico-romano.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-10-23"
-    },
-    {
-      "sottocategoria": "Squadra",
-      "tipo": "notizia",
-      "titolo": "Morti, casi di demenza e Sla: come il rugby sta provando a rimediare alle sue tragedie",
-      "link": "https://www.gazzetta.it/Rugby/26-10-2026/rugby-morti-casi-di-demenza-e-sla-le-nuove-regole.shtml",
-      "fonte": "Gazzetta — Rugby",
-      "data_evento": "2026-10-26"
     }
   ]
 }
