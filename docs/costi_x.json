@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-27",
+      "slug": "anthropic-ipo-nasdaq-100-miliardi-2026",
+      "categoria": "AI",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-27",
       "slug": "marathon-fusion-oro-sintetico-mercurio-2026",
       "categoria": "Scienza",
       "evidenza": false,
@@ -1431,14 +1439,6 @@
       "evidenza": true,
       "tipo_richiesta": "ContentCreateWithUrl",
       "costo_usd": 0.2
-    },
-    {
-      "data": "2026-10-06",
-      "slug": "650-droni-ucraini-mosca-escalation-ottobre-2026",
-      "categoria": "Politica Internazionale",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
     }
   ]
 }
