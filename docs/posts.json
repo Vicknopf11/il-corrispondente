@@ -1,6 +1,192 @@
 {
   "edizioni": [
     {
+      "data": "2026-10-27",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Israele al voto: primo scrutinio dal 7 ottobre, Netanyahu cerca la sopravvivenza",
+          "slug": "israele-voto-netanyahu-eisenkot-2026",
+          "tag": [
+            "israele",
+            "elezioni",
+            "netanyahu",
+            "medio-oriente"
+          ],
+          "evidenza": true,
+          "fonte": "Il Messaggero / La Repubblica",
+          "cerca_url": "https://www.google.com/search?q=elezioni+israele+27+ottobre+2026+Netanyahu+Eisenkot",
+          "post_x": "Israele vota per la prima volta dopo il 7 ottobre. Netanyahu sfidato da Eisenkot. Repubblica: avrebbe tentato di far slittare il voto riaprendo il conflitto con l'Iran. Fermato dagli USA. Democrazia salva, o quasi. #Israele",
+          "post_sito": "Oggi Israele va alle urne per la prima volta dopo tre anni di guerra su più fronti: oltre sette milioni di cittadini chiamati a scegliere, con lo sfidante Eisenkot che secondo Il Messaggero partirebbe in vantaggio. Il racconto dominante celebra la «resilienza democratica» israeliana — ma Repubblica riferisce un retroscena ben più inquietante: Netanyahu avrebbe tentato di far slittare il voto riaccendendo il conflitto con l'Iran, operazione bloccata dagli Stati Uniti. Villain di comodo: se Netanyahu perde, diventa il premier che ha perso la guerra; se vince, il massacro del 7 ottobre diventa il suo viatico elettorale. Chi ci guadagna economicamente dal protrarsi del conflitto? L'industria della difesa israeliana — Elbit Systems, Rafael Advanced Defense Systems — ha registrato ordini record negli ultimi tre anni. Il contesto rimosso: Israele non ha mai davvero tenuto elezioni in tempo di guerra nella sua storia moderna, e questa prima volta arriva in un paese profondamente spaccato tra chi vuole la pace e chi vuole la vendetta istituzionalizzata.",
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La posizione di Netanyahu",
+              "testo": "Il premier uscente si presenta come il garante della sicurezza nazionale dopo gli attacchi del 7 ottobre e i successivi conflitti su più fronti. La sua campagna ha insistito sulla necessità di un governo stabile in tempo di guerra e sul fatto che nessun altro leader avrebbe saputo gestire la risposta militare. La corte penale internazionale ha emesso un mandato di arresto nei suoi confronti, circostanza che secondo i suoi sostenitori rappresenta un attacco alla sovranità israeliana."
+            },
+            {
+              "etichetta": "Lo sfidante Eisenkot e le opposizioni",
+              "testo": "Il generale Gadi Eisenkot — ex capo di stato maggiore dell'esercito — guida la coalizione di opposizione promettendo un cambio di guida che permetta negoziati per la liberazione degli ostaggi ancora nelle mani di Hamas e una exit strategy dal conflitto. Le opposizioni denunciano che Netanyahu abbia deliberatamente prolungato la guerra per evitare di rispondere delle proprie responsabilità politiche e giudiziarie."
+            },
+            {
+              "etichetta": "Il nodo internazionale",
+              "testo": "Gli Stati Uniti, secondo fonti di Repubblica, hanno bloccato un tentativo israeliano di riesacerbare le ostilità con l'Iran nelle settimane precedenti al voto. L'Amministrazione Trump ha interessi propri nell'esito elettorale: un governo israeliano più negoziabile potrebbe agevolare l'accordo che Washington sta cercando nella regione. L'Unione Europea e diversi paesi arabi osservano il voto con la speranza che un cambio di leadership possa aprire margini diplomatici."
+            },
+            {
+              "etichetta": "La questione degli ostaggi e di Gaza",
+              "testo": "Decine di ostaggi israeliani restano nelle mani di Hamas dopo tre anni. Le famiglie degli ostaggi hanno fatto pressione trasversale su tutti gli schieramenti politici, diventando un fattore elettorale autonomo. La situazione umanitaria a Gaza, con un numero di vittime civili documentato da più organizzazioni internazionali, è destinata a pesare sulla legittimità internazionale del prossimo governo, indipendentemente da chi vincerà."
+            }
+          ],
+          "implicazioni": "Se Eisenkot vince, si aprono scenari negoziali sulla liberazione degli ostaggi e su un possibile cessate il fuoco più strutturato a Gaza. Se Netanyahu si conferma, la prosecuzione del conflitto e l'isolamento diplomatico israeliano sembrano lo scenario più probabile. In entrambi i casi, il mandato della CPI nei confronti di Netanyahu resta in vigore e costituisce un vincolo nei rapporti con i paesi europei.",
+          "redattore": "Il Corrispondente Estero 1.0"
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Salvini rieletto segretario della Lega con il 75% dei voti: «Stop armi a Kiev»",
+          "slug": "salvini-rieletto-segretario-lega-congresso-2026",
+          "tag": [
+            "lega",
+            "salvini",
+            "congresso",
+            "ucraina"
+          ],
+          "evidenza": false,
+          "fonte": "Il Sole 24 Ore / TGCom24",
+          "cerca_url": "https://www.google.com/search?q=Salvini+rieletto+segretario+Lega+congresso+ottobre+2026",
+          "post_x": "Salvini rieletto con il 75% alla Lega. Stop armi a Kiev, Islam pericolo, nuova Lega. Stesso segretario, stesso copione dal 2013. La «novità» è il simbolo. #Lega #Salvini",
+          "post_sito": "Al congresso di Milano, Matteo Salvini si fa rieleggere segretario della Lega con il 75% dei voti: un risultato che i giornali leggono come «conferma della leadership» ma che andrebbe letto come segnale di un partito senza alternative interne credibili. Annuncio simbolico del congresso: un nuovo simbolo grafico. La sostanza politica è invariata — «stop soldi e armi a Kiev», tema che spacca il governo e che Salvini porta in Consiglio dei ministri sapendo che verrà bocciato, ma che serve a marcare il territorio elettorale in vista delle prossime scadenze. Mandante invisibile: la base leghista del Nord produttivo è sempre più attratta dall'asse con Mosca per ragioni economiche — le sanzioni hanno colpito duramente l'export italiano, specialmente quello del distretto manifatturiero lombardo-veneto. Chi ci guadagna dal «no armi a Kiev»? Non solo Putin: anche i settori industriali italiani che vogliono tornare a fare affari con la Russia. Zaia intanto aspetta in anticamera, pronto a entrare nella segreteria politica.",
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0"
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Ex Ilva: procura di Taranto chiede domiciliari per l'ex AD Morselli, 28 indagati e 5 società",
+          "slug": "ex-ilva-domiciliari-morselli-taranto-indagini-2026",
+          "tag": [
+            "ilva",
+            "taranto",
+            "inquinamento",
+            "arcelormittal"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Sky TG24 / Il Foglio",
+          "cerca_url": "https://www.google.com/search?q=ex+Ilva+Morselli+domiciliari+Taranto+2026",
+          "post_x": "Procura di Taranto chiede i domiciliari per l'ex AD dell'Ilva Morselli. 28 indagati, 5 società. Tra gli indagati anche Aditya Mittal (ArcelorMittal) e Franco Bernabè (Invitalia). Lo Stato tra gli accusatori e tra gli accusati. #Ilva",
+          "post_sito": "La Procura di Taranto ha chiesto gli arresti domiciliari per Lucia Morselli, ex AD di Acciaierie d'Italia, e altri due manager, nell'ambito di un'inchiesta sull'inquinamento dello stabilimento tra il 2019 e il 2024: 28 persone indagate e 5 società, con ipotesi che vanno dall'associazione per delinquere ambientale alla truffa sulle quote CO2. Il meccanismo del villain di comodo funziona a pieno regime: Morselli fa da parafulmine mediatico mentre tra gli indagati compare anche Aditya Mittal — numero uno di ArcelorMittal — e Franco Bernabè, ex presidente del CdA in quota Invitalia, cioè in quota Stato. Chi ha garantito per anni che l'Ilva producesse in deroga alle norme ambientali? Il governo italiano, con scudi legali e commissariamenti reiterati da Renzi a Meloni. Il contesto rimosso: lo stabilimento è in amministrazione straordinaria dal febbraio 2024, perde circa 50 milioni al mese secondo Il Foglio, e il commissario scelto dal ministro Urso risulta già condannato in via definitiva per la morte di tre operai. La responsabilità è diffusa su vent'anni di governi, ma il coro mediatico ha già il suo capro espiatorio in pettorina.",
+          "editoriale": false,
+          "redattore": "L'Analista 1.0"
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Pallone d'Oro 2026 a Harry Kane: primo inglese vincitore in 25 anni, cerimonia a Londra",
+          "slug": "pallone-doro-2026-harry-kane-londra",
+          "tag": [
+            "pallone-doro",
+            "kane",
+            "calcio",
+            "france-football"
+          ],
+          "evidenza": false,
+          "fonte": "Il Sole 24 Ore / UEFA",
+          "cerca_url": "https://www.google.com/search?q=Pallone+d'Oro+2026+Harry+Kane+cerimonia+Londra",
+          "post_x": "Kane vince il Pallone d'Oro 2026. 73 gol in 65 presenze. Per la prima volta la cerimonia lascia Parigi e va a Londra. France Football porta il circo in casa di chi paga di più. Mbappé secondo — con gli sponsor cinesi già evaporati. #PalloneDOro",
+          "post_sito": "Harry Kane ha vinto il Pallone d'Oro 2026 al London Palladium, prima cerimonia nella storia del premio che abbandona Parigi — scelta presentata come omaggio a Stanley Matthews, primo vincitore nel 1956, ma difficile non notare che il calcio inglese resta il mercato più ricco d'Europa. Kane ha segnato 73 gol in 65 presenze tra Bayern Monaco e Nazionale, trascinando l'Inghilterra al Mondiale: numeri che rendono il riconoscimento difficilmente contestabile sul piano tecnico. Il conto dietro la medaglia, però, esiste: il Bayern Monaco è un club con un modello di sostenibilità invidiato in Europa, ma Kane ci è arrivato a 30 anni dopo una carriera al Tottenham senza un trofeo — la narrazione della «redenzione» fa vendere abbonamenti e magliette quanto i gol stessi. Lamine Yamal si consola con il Trofeo Kopa, Mbappé chiude secondo senza sponsor cinesi dopo la scivolata su Mao Zedong. Il premio femminile ad Alexia Putellas, già vincitrice nel 2021 e 2022: il calcio femminile guadagna titoli nei comunicati stampa e briciole nei contratti.",
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0"
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Studentessa violentata nei bagni della metro: la città che si muove sotto terra e lo Stato che guarda",
+          "slug": "studentessa-violentata-metro-cronaca-2026",
+          "tag": [
+            "violenza-sessuale",
+            "trasporti",
+            "sicurezza",
+            "cronaca"
+          ],
+          "evidenza": false,
+          "fonte": "Today.it",
+          "cerca_url": "https://www.google.com/search?q=studentessa+violentata+bagni+metro+ottobre+2026",
+          "post_x": "Studentessa violentata nei bagni della metropolitana. La notizia c'è, i fondi per la sicurezza nei trasporti pubblici no. Ogni volta stessa storia: indignazione, fiaccolata, silenzio. #cronaca",
+          "post_sito": "Una studentessa è stata violentata nei bagni della metropolitana: episodio che rientra nella categoria di notizie che scuotono il dibattito per 48 ore e poi scompaiono nel dimenticatoio. La causa strutturale rimossa è quella che nessuno vuole davvero nominare: i trasporti pubblici italiani, sottofinanziati da decenni, hanno stazioni con varchi senza presidio, bagni isolati, angoli ciechi privi di telecamere funzionanti. I fondi del PNRR per l'ammodernamento infrastrutturale delle metropolitane esistono, ma la loro allocazione segue logiche politiche e non di sicurezza. L'indignazione a costo zero è già in produzione: dichiarazioni bipartisan, richiesta di più forze dell'ordine in superficie, nessuna discussione sugli investimenti strutturali. Chi ci guadagna dal non investire? Chi gestisce le concessioni dei trasporti pubblici con capitolati che non prevedono standard di sicurezza vincolanti. La violenza è un crimine individuale commesso da un individuo: questo non cambia. Ma il luogo in cui è avvenuto non era sicuro per ragioni sistemiche ben documentate.",
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0"
+        },
+        {
+          "categoria": "Scienza",
+          "titolo": "Startup annuncia oro sintetico dal mercurio: Marathon Fusion supera il CERN, ma a che costo?",
+          "slug": "marathon-fusion-oro-sintetico-mercurio-2026",
+          "tag": [
+            "fusione-nucleare",
+            "oro-sintetico",
+            "startup",
+            "scienza"
+          ],
+          "evidenza": false,
+          "fonte": "GiornaleTecnologico.net",
+          "cerca_url": "https://www.google.com/search?q=Marathon+Fusion+oro+sintetico+mercurio+2026",
+          "post_x": "Una startup annuncia oro prodotto dal mercurio via fusione nucleare, superando un record del CERN. Gli alchimisti erano solo in anticipo sui tempi — e senza venture capital. I mercati dell'oro fremono. #scienza #gold",
+          "post_sito": "Marathon Fusion — startup fondata da un ex ingegnere di SpaceX — annuncia di aver prodotto oro stabile dal mercurio tramite fusione nucleare, superando secondo i propri comunicati un precedente del CERN. La notizia fa il giro della rete con toni da rivoluzione alchimica, ma vale la pena applicare il filtro del beneficio taciuto: chi finanzia la ricerca? Marathon Fusion sviluppa tecnologie di fusione destinate al mercato energetico, e un annuncio sull'oro è un modo eccellente per attirare attenzione mediatica e — soprattutto — capitali di rischio. Il confronto con i diamanti sintetici è inevitabile: quando Lab Grown Diamonds entrarono nel mercato di massa, il prezzo dei diamanti naturali crollò del 50-80% in pochi anni. Se la produzione di oro artificiale diventasse scalabile ed economica, i mercati auriferi — che muovono migliaia di miliardi — entrerebbero in crisi. Ma il «se» è enorme: il comunicato non riporta il costo energetico per grammo prodotto, che in fusione nucleare allo stato attuale renderebbe il processo commercialmente insostenibile. Annuncio visionario o lancio da road show per investitori? I due non si escludono.",
+          "editoriale": false,
+          "redattore": "Il Metodico 1.0"
+        },
+        {
+          "categoria": "AI",
+          "titolo": "Anthropic deposita l'S-1 per quotarsi al Nasdaq: valutazione attesa fino a 100 miliardi",
+          "slug": "anthropic-ipo-nasdaq-100-miliardi-2026",
+          "tag": [
+            "anthropic",
+            "ipo",
+            "intelligenza-artificiale",
+            "wall-street"
+          ],
+          "evidenza": false,
+          "fonte": "Smartphonology / Pavia Uno TV / Il Sole 24 Ore",
+          "cerca_url": "https://www.google.com/search?q=Anthropic+IPO+Nasdaq+S-1+2026",
+          "post_x": "Anthropic deposita l'S-1 per il Nasdaq. Valutazione: fino a 100 miliardi. L'IA «sicura» e «responsabile» va in borsa. Amazon e Google ci hanno già investito miliardi. La sicurezza rende bene. #Anthropic #IPO",
+          "post_sito": "Anthropic — la società fondata da ex dipendenti di OpenAI con la missione dichiarata di sviluppare intelligenza artificiale «sicura» — ha depositato presso la SEC il prospetto S-1 per quotarsi al Nasdaq con il simbolo «ANT», con una valutazione che potrebbe raggiungere i 100 miliardi di dollari. Il mandante invisibile è doppio: Amazon e Google hanno investito miliardi in Anthropic negli ultimi anni, e una quotazione valorizza quelle partecipazioni. Eufemismo di potere: «AI sicura e responsabile» è il brand con cui Anthropic si distingue dalla concorrenza — ma l'S-1 depositato alla SEC è un documento commerciale che risponde agli azionisti, non un manifesto etico. Lo stesso giorno, Microsoft offre buonuscite volontarie a circa 60.000 dipendenti per «riorganizzarsi per l'era dell'IA», e Meta punta a raccogliere 95 miliardi per i suoi data center AI. La corsa agli armamenti si chiama transizione tecnologica. Chi ci rimette? I lavoratori dei contact center, dei servizi clienti, del back-office: secondo UGL Telecomunicazioni, il settore rischia perdite occupazionali strutturali, concentrate soprattutto nel Mezzogiorno. Ma questo non compare nell'S-1.",
+          "editoriale": false,
+          "redattore": "Il Futurologo 1.0"
+        },
+        {
+          "categoria": "Wellness",
+          "titolo": "Rapporto BES 2026 dell'Istat: la salute mentale dei giovani peggiora, ma il mercato del benessere cresce",
+          "slug": "istat-bes-2026-salute-mentale-giovani",
+          "tag": [
+            "salute-mentale",
+            "istat",
+            "giovani",
+            "wellness-economy"
+          ],
+          "evidenza": false,
+          "fonte": "Istat / Quotidiano Sanità / Energia Oltre",
+          "cerca_url": "https://www.google.com/search?q=Istat+BES+2026+salute+mentale+giovani",
+          "post_x": "L'Istat certifica: la salute mentale dei giovani peggiora, il divario con gli anziani si riduce perché stanno peggio i primi. Nel frattempo la «wellness economy» vale migliaia di miliardi. Benessere per chi? #BES2026 #salutementale",
+          "post_sito": "Il Rapporto BES 2026 dell'Istat — tredicesima edizione, pubblicata il 26 ottobre — certifica che l'indice di salute mentale è stabile a 68,7 punti a livello generale, ma il quadro peggiora tra i giovani, con un divario generazionale tra giovani e anziani che si riduce non perché i primi stiano meglio, ma perché stanno peggio. Il dato è reale e verificato. Il beneficio taciuto è il seguente: negli stessi giorni, convegni sul «wellness real estate» e sulla «wellness economy» come «leva strategica per gli investimenti» si tengono in mezza Italia — il mercato del benessere è stimato in migliaia di miliardi a livello globale, comprende turismo, immobiliare e prevenzione, ed è in espansione. L'industria del benessere vende la soluzione individuale a un problema che il rapporto Istat fotografa come strutturale e collettivo: 5,6 milioni di italiani rinunciano alle cure, i medici di base sono sotto pressione, e il Servizio sanitario nazionale perde personale. Il coro compatto dell'hype wellness trasforma un fallimento del welfare pubblico in un'opportunità di mercato privato.",
+          "editoriale": false,
+          "redattore": "Il Life Coach 1.0"
+        },
+        {
+          "categoria": "Cultura",
+          "titolo": "Sciopero generale dei teatri: contratto fermo al 2018, stipendi medi da 1.433 euro, Federvivo offre 28 euro l'anno in più",
+          "slug": "sciopero-teatri-scritturati-federvivo-2026",
+          "tag": [
+            "teatro",
+            "sciopero",
+            "spettacolo-dal-vivo",
+            "contratto"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Collettiva / Il Diario del Lavoro",
+          "cerca_url": "https://www.google.com/search?q=sciopero+teatri+scritturati+27+ottobre+2026+Federvivo",
+          "post_x": "Sciopero nazionale dei teatri oggi: contratto scaduto nel 2021, stipendi medi da 1.433€/mese, Federvivo offre +18% in 3 anni, senza arretrati. Fanno i conti: 28 euro lordi in più all'anno. La cultura è un investimento, dicono. Per chi? #sciopero #teatro",
+          "post_sito": "Oggi 27 ottobre sciopero nazionale dei dipendenti dei teatri e del personale scritturato — attori, tecnici, ballerini, professori d'orchestra — proclamato da Slc Cgil, Fistel Cisl e Uil dopo due anni di trattative con Federvivo rivelatesi infruttuose. I numeri parlano da soli: retribuzione media mensile di 1.433,43 euro lordi per i dipendenti fissi; il contratto è scaduto nel 2021 dopo essere stato firmato nel 2018; Federvivo offre un aumento del 18% distribuito in tre anni, senza arretrati — il che equivale, come calcola la SLC CGIL Bergamo, a circa 28 euro lordi in più all'anno, a fronte di un'inflazione accumulata del 23%. Il mandante invisibile di questa situazione è la struttura del finanziamento pubblico alla cultura: i teatri di prosa finanziati dal FUS (Fondo Unico per lo Spettacolo) ricevono contributi legati in parte alla produttività e al numero di repliche, non alla qualità contrattuale dei lavoratori — un incentivo perverso che premia chi comprime i costi del lavoro. Intanto i grandi festival, le fondazioni liriche e i teatri privati continuano a riempire le campagne stampa sulla «cultura come motore dell'economia». Il motore gira su lavoratori pagati 58,69 euro al giorno.",
+          "editoriale": false,
+          "redattore": "Il Letterato 1.0"
+        }
+      ]
+    },
+    {
       "data": "2026-10-26",
       "post": [
         {
@@ -5005,121 +5191,7 @@
           "redattore": "L'Osservatore 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-09-25",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Trump e Xi alla Casa Bianca: amici per la pelle (dei dazi)",
-          "slug": "trump-xi-casa-bianca-dazi-tregua-2026",
-          "tag": [
-            "usa-cina",
-            "dazi",
-            "geopolitica",
-            "terre-rare"
-          ],
-          "evidenza": true,
-          "fonte": "Il Sole 24 Ore / Adnkronos",
-          "cerca_url": "https://www.google.com/search?q=Trump+Xi+Casa+Bianca+settembre+2026+dazi+accordo",
-          "post_x": "Trump accoglie Xi con bombardieri B-1 e tappeto rosso. Poi annunciano un «nuovo accordo». Dettagli? Zero. La tregua sui dazi è prorogata fino a gennaio. Wall Street festeggia. Casuale. #TrumpXi",
-          "post_sito": "Xi Jinping è atterrato a Washington accolto da bombardieri strategici B-1 e da un cerimoniale riservato l'ultima volta a Papa Francesco — segnale che il teatro conta più della sostanza. Il bilaterale alla Casa Bianca ha prodotto un generico «nuovo accordo» sul commercio, annunciato da Xi tramite l'agenzia Xinhua senza fornire un solo dettaglio concreto, e una proroga di due mesi della tregua tariffaria, ora in scadenza al 10 gennaio. Chi ci guadagna? Le grandi banche e i fondi di investimento esposti a entrambi i mercati, che da mesi vivono di rinvii: ogni proroga è un trimestre di commissioni in più. Il contesto rimosso dal coro mediatico è che la Cina controlla una quota dominante della filiera mondiale delle terre rare — minerali fondamentali per semiconduttori, auto elettriche e tecnologie militari — e che qualsiasi intesa commerciale deve fare i conti con questo monopolio strategico che Washington non ha ancora trovato il modo di aggirare. La «coesistenza pacifica» di Xi è il nome diplomatico di una partita che si gioca su chip, litio e accesso ai mercati agricoli americani, non su sorrisi nello Studio Ovale.",
-          "editoriale": true,
-          "prospettive": [
-            {
-              "etichetta": "La versione di Washington",
-              "testo": "L'amministrazione Trump presenta l'incontro come un successo diplomatico che rafforza la stabilità commerciale globale. La proroga della tregua sui dazi — che sarebbe scaduta il 10 novembre — è letta come un segnale di distensione che dà tempo ai negoziatori di costruire un'intesa più organica. Trump ha citato la 'commissione per il Commercio' avviata dopo il vertice di Pechino di maggio come uno strumento di successo, e ha ribadito l'obiettivo di una relazione commerciale 'più bilanciata', incluso un maggiore accesso al mercato cinese per i prodotti agricoli americani."
-            },
-            {
-              "etichetta": "La versione di Pechino",
-              "testo": "Xi ha insistito sulla necessità di 'coesistenza pacifica' e 'cooperazione sincera', rivendicando un ruolo da partner e non da rivale strategico. Sul fronte di Taiwan, secondo fonti cinesi citate da Reuters, Xi avrebbe chiesto a Trump di fermare le vendite di armi all'isola richiamando l'intesa sino-statunitense del 1982. Pechino vuole evitare nuove restrizioni alle proprie aziende tecnologiche e mantenere aperto il commercio di terre rare, leva strategica cruciale nella trattativa."
-            },
-            {
-              "etichetta": "Il nodo economico strutturale",
-              "testo": "Analisti e osservatori sottolineano che il vertice non ha prodotto impegni verificabili e che la proroga della tregua tariffaria rimanda ma non risolve le frizioni strutturali: accesso al mercato cinese, controllo cinese sulla filiera delle terre rare, restrizioni alle esportazioni di tecnologia americana verso la Cina. La dipendenza reciproca delle due economie rende impraticabile sia la rottura totale sia un accordo stabile: il risultato è una serie di rinvii gestiti, ciascuno dei quali alimenta incertezza per le catene globali di approvvigionamento dall'elettronica all'automotive."
-            },
-            {
-              "etichetta": "Il contesto internazionale rimosso",
-              "testo": "Il vertice avviene mentre all'Assemblea Generale dell'ONU il premier israeliano Netanyahu ha parlato davanti a una sala in parte svuotata, e mentre El Mundo riportava un'allerta di intelligence — non confermata dal ministro Crosetto — su possibili attacchi russi con droni dal mare contro Italia, Francia e Spagna. La concentrazione mediatica sul summit Trump-Xi ha di fatto oscurato questi dossier, tutti con implicazioni dirette per la sicurezza europea."
-            }
-          ],
-          "implicazioni": "Se la tregua tariffaria non sarà trasformata in un accordo strutturato entro il 10 gennaio 2027, i dazi reciproci potrebbero tornare in vigore con effetti immediati sulle catene di approvvigionamento globali, in particolare nei settori elettronico e automobilistico. La questione delle terre rare — su cui la Cina mantiene un controllo produttivo dominante — resta il vero elemento di squilibrio strategico che nessun rinvio commerciale risolve.",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Decreto scuola: tetto del 30% agli stranieri, divieto di niqab, e il Quirinale che lima le norme più estreme",
-          "slug": "decreto-scuola-30-percento-stranieri-niqab-quirinale",
-          "tag": [
-            "scuola",
-            "immigrazione",
-            "decreto-meloni",
-            "quirinale"
-          ],
-          "evidenza": false,
-          "fonte": "Today.it / Sarno Notizie",
-          "cerca_url": "https://www.google.com/search?q=decreto+scuola+Meloni+30+percento+stranieri+niqab+settembre+2026",
-          "post_x": "Decreto scuola: tetto del 30% di stranieri per classe, divieto di niqab, multa fino a €1.000 per chi non impara l'italiano. Il Quirinale ha già tolto la norma che separava i figli dai genitori. Tutto a posto, niente da vedere. #DecretoScuola",
-          "post_sito": "Il governo Meloni ha varato il decreto scuola con un tetto del 30% per classe agli studenti senza cittadinanza italiana e senza sufficiente percorso scolastico pregresso, il divieto di frequentare le lezioni con il volto coperto e una multa da 200 a 1.000 euro per i genitori che non frequentano i corsi gratuiti di italiano. La notizia politicamente più rilevante, però, è quella taciuta: nella prima bozza era previsto l'allontanamento dei minori dalle famiglie in caso di rifiuto di imparare la lingua — norma poi eliminata su indicazione del Quirinale, che avrebbe posto dei «paletti» per evitare disposizioni «estreme». Questo rivela che il testo originale era più radicale di quanto approvato, e che il vero arbitro della stesura non era solo Valditara ma anche Mattarella, agendo come filtro costituzionale silenzioso. Chi ci guadagna politicamente? Tutto il centrodestra, che può rivendicare una misura identitaria ad alto impatto elettorale su un tema — immigrazione e identità culturale — che domina i sondaggi, a costo zero in termini di bilancio. Il dibattito pubblico sul burqa distrae intanto da una questione strutturale rimossa: le scuole con alta concentrazione di alunni stranieri sono quasi sempre quelle nei quartieri più poveri, dove mancano insegnanti di sostegno, psicologi scolastici e risorse — problemi che il decreto non tocca.",
-          "editoriale": false,
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "OCSE promuove il PIL italiano a +0,9%, ma i salari reali sono ancora sotto i livelli del 2021",
-          "slug": "ocse-pil-italia-09-2026-salari-reali-sotto-2021",
-          "tag": [
-            "pil",
-            "ocse",
-            "salari",
-            "crescita"
-          ],
-          "evidenza": false,
-          "fonte": "Il Fatto Quotidiano / ANSA",
-          "cerca_url": "https://www.google.com/search?q=OCSE+PIL+Italia+0.9+2026+salari+reali",
-          "post_x": "OCSE alza il PIL Italia a +0,9%. Governo esulta. Dettaglio: i salari reali italiani sono ancora del 6,1% sotto i livelli del 2021. Cresce l'economia, calano i portafogli. #PIL #OCSE",
-          "post_sito": "L'OCSE ha rivisto al rialzo le stime di crescita del PIL italiano per il 2026 da +0,5% a +0,9%, e il governo di centrodestra ha subito rivendicato la notizia come conferma del proprio operato. Ma le Prospettive economiche intermedie contengono un dato che quasi nessun titolo ha messo in primo piano: i salari reali italiani — come quelli giapponesi e sudafricani — sono ancora pari o inferiori ai livelli pre-pandemia del 2021, con un gap del 6,1% rispetto a quella soglia. In altri termini, l'economia cresce ma il potere d'acquisto dei lavoratori no. Un secondo elemento rimosso dal racconto trionfante: la crescita è sostenuta in parte dal PNRR, che termina alla fine del 2026 — dopodiché il motore si spegne e le riforme strutturali, che l'OCSE richiama puntualmente, non sono ancora in campo. Infine, l'inflazione è prevista al 3% nel 2026 e in ulteriore rialzo nel 2027 per via del nuovo choc energetico legato al conflitto in Medio Oriente. Tradotto: PIL in salita, prezzi in salita, salari fermi. Chi ci guadagna? Chi ha rendite, asset finanziari e immobili. Chi ci perde? Chi vive di stipendio.",
-          "editoriale": false,
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "L'Italvolley maschile eliminata dalla Finlandia ai quarti degli Europei: fuori in casa, da campioni del mondo",
-          "slug": "italvolley-eliminata-finlandia-quarti-europei-2026",
-          "tag": [
-            "volley",
-            "europei-2026",
-            "italia",
-            "finlandia"
-          ],
-          "evidenza": false,
-          "fonte": "OA Sport / Corriere dello Sport / FIPAV",
-          "cerca_url": "https://www.google.com/search?q=Italia+Finlandia+volley+europei+2026+quarti+risultato",
-          "post_x": "L'Italia campione del mondo di volley eliminata dalla Finlandia 3-2 ai quarti degli Europei. Al PalaVela di Torino. Davanti al proprio pubblico. Jokela 28 punti. Lavia irriconoscibile. Buonanotte. #EuroVolley2026",
-          "post_sito": "La nazionale italiana di pallavolo maschile, campione del mondo in carica, è stata eliminata ai quarti di finale degli Europei 2026 dalla Finlandia con il punteggio di 3-2 (25-21, 26-28, 16-25, 25-20, 13-15) davanti agli 8.260 spettatori del PalaVela di Torino — casa propria, nell'Europeo organizzato in Italia. Il paradosso è preciso: una squadra arrivata imbattuta ai quarti dopo cinque vittorie nel girone e un netto 3-0 sulla Danimarca negli ottavi, si è sgretolata in una serata in cui — come ha scritto OA Sport — «non c'è un solo fondamentale che non ha funzionato». Jokela, opposto finlandese, ha chiuso con 28 punti; Lavia, uno dei simboli azzurri, è rimasto irriconoscibile rispetto alle prestazioni precedenti. La domanda che il coro sportivo non si fa quasi mai è strutturale: un'eliminazione del genere, in casa, a questo livello, chiama in causa il progetto tecnico, i carichi di lavoro di una stagione di club lunghissima e le scelte di gestione delle energie. De Giorgi ha ammesso che «abbiamo avuto le nostre opportunità e non siamo stati bravi a sfruttarle» — ma la spiegazione tattica non basta quando l'intera squadra collassa nello stesso momento. Le semifinali si giocano oggi all'Unipol Forum di Assago senza l'Italia.",
-          "editoriale": false,
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Ranucci contro la RAI in tribunale: oggi l'udienza sul reintegro a Report",
-          "slug": "ranucci-rai-tribunale-udienza-reintegro-report",
-          "tag": [
-            "ranucci",
-            "rai",
-            "report",
-            "liberta-di-stampa"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Dire.it / Toscana Post",
-          "cerca_url": "https://www.google.com/search?q=Ranucci+udienza+tribunale+25+settembre+2026+Report+RAI",
-          "post_x": "Oggi in tribunale: Ranucci vs RAI. Il giornalista che ha subito un attentato con esplosivo nel 2025 viene rimosso da Report. La RAI gli contesta di aver detto che in azienda ci sono «mafia e massonerie». La RAI, non un commissariato. #Ranucci #Report",
-          "post_sito": "Oggi, 25 settembre, si tiene l'udienza urgente davanti al Tribunale del Lavoro di Roma sul ricorso presentato da Sigfrido Ranucci contro la RAI, che il 28 agosto scorso lo ha rimosso dalla conduzione di Report — il principale programma di giornalismo investigativo della televisione pubblica italiana. La vicenda ha una premessa che il racconto dominante tende a mettere in secondo piano: Ranucci è parte lesa in un procedimento per attentato — la sua auto fu distrutta da un'esplosione il 16 ottobre 2025 su mandato di Valter Lavitola — e tra le contestazioni disciplinari che la RAI gli muove c'è il fatto che Lavitola avesse ricevuto alcune circolari interne da lui inoltrate, e che il giornalista avesse detto pubblicamente che in RAI esisterebbero «mafia e massonerie». Mandante invisibile: chi decide le nomine e le rimozioni a Viale Mazzini non è quasi mai il consiglio di amministrazione da solo — ci sono correnti politiche, pressioni governative e interessi di chi vorrebbe certi dossier investigativi chiusi prima della messa in onda. Report ha una storia trentennale di inchieste scomode per il potere. La scadenza tecnica del ricorso — entro il 27 settembre Ranucci deve scegliere tra tre incarichi alternativi proposti dalla RAI — rende l'udienza di oggi l'unica finestra reale per fermare la rimozione prima dell'avvio della nuova stagione l'8 novembre.",
-          "editoriale": false,
-          "redattore": "L'Osservatore 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-10-26T08:20:02.543967+00:00"
+  "ultimo_aggiornamento": "2026-10-27T08:19:47.153316+00:00"
 }

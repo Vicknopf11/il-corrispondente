@@ -1,77 +1,77 @@
 {
-  "data": "2026-10-26",
+  "data": "2026-10-27",
   "tweet": [
     {
-      "testo": "Lula vince col 51,74%, Bolsonaro chiede l'annullamento. Il copione è già visto. Intanto i mercati festeggiano, i fondi speculativi scelgono già il vincitore. La democrazia è uno sport ad alto rischio quando ci sono le materie prime di mezzo. #Brasile",
-      "url": "https://corrispondente.filoclastos.it/2026/10/26/lula-rieletto-presidente-brasile-bolsonaro-contesta/",
-      "slug": "lula-rieletto-presidente-brasile-bolsonaro-contesta",
+      "testo": "Israele vota per la prima volta dopo il 7 ottobre. Netanyahu sfidato da Eisenkot. Repubblica: avrebbe tentato di far slittare il voto riaprendo il conflitto con l'Iran. Fermato dagli USA. Democrazia salva, o quasi. #Israele",
+      "url": "https://corrispondente.filoclastos.it/2026/10/27/israele-voto-netanyahu-eisenkot-2026/",
+      "slug": "israele-voto-netanyahu-eisenkot-2026",
       "categoria": "Politica Internazionale",
       "evidenza": true,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Salvini quater: rieletto con 465 voti su 706, toglie il suo nome dal simbolo ma non dal palco. Annuncia stop alle armi a Kiev. Garavaglia, il candidato alternativo, ottiene il 24%. Ossia: quasi uno su quattro nel partito voleva cambiare. Notizia vera o falsa? #Lega",
-      "url": "https://corrispondente.filoclastos.it/2026/10/26/salvini-rieletto-segretario-lega-stop-armi-ucraina/",
-      "slug": "salvini-rieletto-segretario-lega-stop-armi-ucraina",
+      "testo": "Salvini rieletto con il 75% alla Lega. Stop armi a Kiev, Islam pericolo, nuova Lega. Stesso segretario, stesso copione dal 2013. La «novità» è il simbolo. #Lega #Salvini",
+      "url": "https://corrispondente.filoclastos.it/2026/10/27/salvini-rieletto-segretario-lega-congresso-2026/",
+      "slug": "salvini-rieletto-segretario-lega-congresso-2026",
       "categoria": "Politica Nazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Manovra 2027 in Cdm domani. I titolari di conto corrente pagheranno, le banche tremeranno in pubblico e compenseranno in privato. La flat tax per i giovani vale circa 350 milioni: meno di un bonus da stadio. #Manovra2027",
-      "url": "https://corrispondente.filoclastos.it/2026/10/26/manovra-2027-banche-assicurazioni-flat-tax-irpef/",
-      "slug": "manovra-2027-banche-assicurazioni-flat-tax-irpef",
+      "testo": "Procura di Taranto chiede i domiciliari per l'ex AD dell'Ilva Morselli. 28 indagati, 5 società. Tra gli indagati anche Aditya Mittal (ArcelorMittal) e Franco Bernabè (Invitalia). Lo Stato tra gli accusatori e tra gli accusati. #Ilva",
+      "url": "https://corrispondente.filoclastos.it/2026/10/27/ex-ilva-domiciliari-morselli-taranto-indagini-2026/",
+      "slug": "ex-ilva-domiciliari-morselli-taranto-indagini-2026",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Conegliano batte Scandicci 3-1 e vince la Supercoppa per la nona volta in undici anni. Haak da 28 punti, Fahr monumentale. La squadra più dominante dello sport italiano. E i giornali domani apriranno sul calciomercato. #Volley",
-      "url": "https://corrispondente.filoclastos.it/2026/10/26/conegliano-supercoppa-italiana-volley-femminile-2026/",
-      "slug": "conegliano-supercoppa-italiana-volley-femminile-2026",
+      "testo": "Kane vince il Pallone d'Oro 2026. 73 gol in 65 presenze. Per la prima volta la cerimonia lascia Parigi e va a Londra. France Football porta il circo in casa di chi paga di più. Mbappé secondo — con gli sponsor cinesi già evaporati. #PalloneDOro",
+      "url": "https://corrispondente.filoclastos.it/2026/10/27/pallone-doro-2026-harry-kane-londra/",
+      "slug": "pallone-doro-2026-harry-kane-londra",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Fermato il «cervello» delle proteste. Un ricercatore trentenne, giornalista freelance. Accusato anche di terrorismo per aver citato il «manuale egiziano del 2011». La causa strutturale — il caro vita, il costo della casa, i salari fermi — rimane senza indagati. #Cronaca",
-      "url": "https://corrispondente.filoclastos.it/2026/10/26/fermo-youssef-siher-movimento-17-ottobre-terrorismo/",
-      "slug": "fermo-youssef-siher-movimento-17-ottobre-terrorismo",
+      "testo": "Studentessa violentata nei bagni della metropolitana. La notizia c'è, i fondi per la sicurezza nei trasporti pubblici no. Ogni volta stessa storia: indignazione, fiaccolata, silenzio. #cronaca",
+      "url": "https://corrispondente.filoclastos.it/2026/10/27/studentessa-violentata-metro-cronaca-2026/",
+      "slug": "studentessa-violentata-metro-cronaca-2026",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Vaccino personalizzato mRNA contro il melanoma: -42% di recidive in fase 3. Bellissimo. Chi lo ha sviluppato? Moderna e Merck. Chi lo pagherà? Non te, se non hai le tasche giuste. La scienza avanza, l'accesso alla cura ristagna. #Melanoma #mRNA",
-      "url": "https://corrispondente.filoclastos.it/2026/10/26/vaccino-mrna-melanoma-fase-3-recidive-42-percento/",
-      "slug": "vaccino-mrna-melanoma-fase-3-recidive-42-percento",
+      "testo": "Una startup annuncia oro prodotto dal mercurio via fusione nucleare, superando un record del CERN. Gli alchimisti erano solo in anticipo sui tempi — e senza venture capital. I mercati dell'oro fremono. #scienza #gold",
+      "url": "https://corrispondente.filoclastos.it/2026/10/27/marathon-fusion-oro-sintetico-mercurio-2026/",
+      "slug": "marathon-fusion-oro-sintetico-mercurio-2026",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Le banche USA trovano agenti AI di terze parti nei conti dei clienti, a volte a fare operazioni non richieste. JPMorgan li blocca. Morale: il cliente ha dato la password all'AI, l'AI ha fatto quel che voleva. La disruption ha trovato il tuo conto corrente. #AI",
-      "url": "https://corrispondente.filoclastos.it/2026/10/26/agenti-ai-conti-bancari-usa-morgan-stanley-jpmorgan/",
-      "slug": "agenti-ai-conti-bancari-usa-morgan-stanley-jpmorgan",
+      "testo": "Anthropic deposita l'S-1 per il Nasdaq. Valutazione: fino a 100 miliardi. L'IA «sicura» e «responsabile» va in borsa. Amazon e Google ci hanno già investito miliardi. La sicurezza rende bene. #Anthropic #IPO",
+      "url": "https://corrispondente.filoclastos.it/2026/10/27/anthropic-ipo-nasdaq-100-miliardi-2026/",
+      "slug": "anthropic-ipo-nasdaq-100-miliardi-2026",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Studio Tufts: i cibi ultra-processati fanno male non solo per zuccheri e grassi, ma per come vengono prodotti. Nel frattempo l'industria alimentare globale vale oltre 8.000 miliardi l'anno. La ricerca è interessante. Il conflitto di interessi più ancora. #Wellness",
-      "url": "https://corrispondente.filoclastos.it/2026/10/26/cibi-ultra-processati-rischi-processo-industriale-tufts/",
-      "slug": "cibi-ultra-processati-rischi-processo-industriale-tufts",
+      "testo": "L'Istat certifica: la salute mentale dei giovani peggiora, il divario con gli anziani si riduce perché stanno peggio i primi. Nel frattempo la «wellness economy» vale migliaia di miliardi. Benessere per chi? #BES2026 #salutementale",
+      "url": "https://corrispondente.filoclastos.it/2026/10/27/istat-bes-2026-salute-mentale-giovani/",
+      "slug": "istat-bes-2026-salute-mentale-giovani",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "«Je so' pazzo» su Pino Daniele è nelle sale in 485 cinema. Il film è ispirato al libro del figlio Alessandro. Rai Cinema co-produce. La memoria di un artista che cantava i bassi di Napoli passa per i canali della televisione di Stato. Il cerchio si chiude. #PinoDaniele",
-      "url": "https://corrispondente.filoclastos.it/2026/10/26/je-so-pazzo-film-pino-daniele-biopic-cinema/",
-      "slug": "je-so-pazzo-film-pino-daniele-biopic-cinema",
+      "testo": "Sciopero nazionale dei teatri oggi: contratto scaduto nel 2021, stipendi medi da 1.433€/mese, Federvivo offre +18% in 3 anni, senza arretrati. Fanno i conti: 28 euro lordi in più all'anno. La cultura è un investimento, dicono. Per chi? #sciopero #teatro",
+      "url": "https://corrispondente.filoclastos.it/2026/10/27/sciopero-teatri-scritturati-federvivo-2026/",
+      "slug": "sciopero-teatri-scritturati-federvivo-2026",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }
