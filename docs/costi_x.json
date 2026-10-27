@@ -1,6 +1,14 @@
 {
   "pubblicazioni": [
     {
+      "data": "2026-10-27",
+      "slug": "israele-voto-netanyahu-eisenkot-2026",
+      "categoria": "Politica Internazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
       "data": "2026-10-26",
       "slug": "je-so-pazzo-film-pino-daniele-biopic-cinema",
       "categoria": "Cultura",
@@ -1428,14 +1436,6 @@
       "data": "2026-10-05",
       "slug": "ndrangheta-melicucco-12-arresti-assessore-bruzzese",
       "categoria": "Cronaca",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-05",
-      "slug": "ciccone-evenepoel-fotofinish-campionati-europei-ciclismo-lubiana-2026",
-      "categoria": "Sport",
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
