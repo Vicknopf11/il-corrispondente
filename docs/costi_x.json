@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-27",
+      "slug": "studentessa-violentata-metro-cronaca-2026",
+      "categoria": "Cronaca",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-27",
       "slug": "pallone-doro-2026-harry-kane-londra",
       "categoria": "Sport",
       "evidenza": false,
@@ -1428,14 +1436,6 @@
       "data": "2026-10-05",
       "slug": "riforma-cinema-audiovisivo-senato-tax-credit-ia-lavoratori",
       "categoria": "Cultura",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-05",
-      "slug": "cerotto-anti-stress-giovani-efficacia-scientifica-dubbi",
-      "categoria": "Wellness",
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
