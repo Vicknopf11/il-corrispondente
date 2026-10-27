@@ -1,29 +1,22 @@
 {
-  "generato": "2026-10-27T12:30:56.791055+00:00",
+  "generato": "2026-10-27T18:31:04.340822+00:00",
   "item": [
     {
-      "sottocategoria": "Atletica",
+      "sottocategoria": "Mente e nicchia",
       "tipo": "notizia",
-      "titolo": "Doping, positiva all'Epo la campionessa olimpica di Tokyo Jepchirchir",
-      "link": "https://www.gazzetta.it/Atletica/25-10-2026/la-keniana-peres-jepchirchir-positiva-all-epo-in-un-controllo-antidoping.shtml",
-      "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-10-25"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Forza mentale e discrezione: chi è Norman, l'ex coach di Wawrinka e possibile nuova guida di Sinner",
-      "link": "https://www.gazzetta.it/Tennis/27-10-2026/sinner-chi-e-magnus-norman-il-possibile-nuovo-coach-di-jannik.shtml",
-      "fonte": "Gazzetta — Tennis",
+      "titolo": "Italbocce, l'oro del riscatto e la zampata decisiva: la favola mondiale di Di Nicola e Morano",
+      "link": "https://www.gazzetta.it/bocce/27-10-2026/italbocce-l-oro-mondiale-della-raffa-di-di-nicola-e-morano.shtml",
+      "fonte": "Gazzetta — Bocce",
       "data_evento": "2026-10-27"
     },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
-      "titolo": "Il talento di Smith-Njigba, la rinascita di Watson e il Monday Night: cinque cose da sapere sulla 7ª giornata",
-      "link": "https://www.gazzetta.it/Sport-Usa/27-10-2026/nfl-7-giornata-cinque-cose-da-sapere-monday-night.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-10-27"
+      "titolo": "Morelli, dal motocross a cinque Paralimpiadi: una vita da raccontare",
+      "link": "https://www.gazzetta.it/Paralimpici/27-10-2026/morelli-dal-motocross-a-cinque-paralimpiadi-una-vita-da-raccontare.shtml",
+      "fonte": "Gazzetta — Paralimpici",
+      "data_evento": "2026-10-27",
+      "paralimpico": true
     },
     {
       "sottocategoria": "Invernali",
@@ -40,6 +33,14 @@
       "link": "https://www.gazzetta.it/Sport-Vari/23-10-2026/fis-bambino-gesu-il-protocollo-d-intesa-porta-la-scherma-nell-ospedale-pediatrico-romano.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-10-23"
+    },
+    {
+      "sottocategoria": "Squadra",
+      "tipo": "notizia",
+      "titolo": "Nations Championship: a novembre sfida All Blacks-Sudafrica, occhio alla Francia. Italia, è dura",
+      "link": "https://www.gazzetta.it/Rugby/27-10-2026/rugby-nations-championship-sfida-a-distanza-all-blacks-sudafrica-occhio-alla-francia.shtml",
+      "fonte": "Gazzetta — Rugby",
+      "data_evento": "2026-10-27"
     }
   ]
 }
