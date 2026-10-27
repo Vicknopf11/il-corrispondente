@@ -1,6 +1,14 @@
 {
-  "generato": "2026-10-26T18:31:01.000254+00:00",
+  "generato": "2026-10-27T06:30:57.602899+00:00",
   "item": [
+    {
+      "sottocategoria": "Calcio femminile",
+      "tipo": "notizia",
+      "titolo": "Kane vince il Pallone d'Oro, Putellas regina del calcio femminile",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/27/kane-vince-il-pallone-doro-putellas-regina-del-calcio-femminile_510822b0-f4c0-4722-80ea-f0097bd53971.html",
+      "fonte": "ANSA Sport",
+      "data_evento": "2026-10-27"
+    },
     {
       "sottocategoria": "Invernali",
       "tipo": "notizia",
@@ -32,14 +40,6 @@
       "link": "https://www.gazzetta.it/Rugby/26-10-2026/rugby-morti-casi-di-demenza-e-sla-le-nuove-regole.shtml",
       "fonte": "Gazzetta — Rugby",
       "data_evento": "2026-10-26"
-    },
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "Doping, positiva all'Epo la campionessa olimpica di Tokyo Jepchirchir",
-      "link": "https://www.gazzetta.it/Atletica/25-10-2026/la-keniana-peres-jepchirchir-positiva-all-epo-in-un-controllo-antidoping.shtml",
-      "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-10-25"
     }
   ]
 }
