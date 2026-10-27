@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-27",
+      "slug": "ex-ilva-domiciliari-morselli-taranto-indagini-2026",
+      "categoria": "Economia",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-27",
       "slug": "salvini-rieletto-segretario-lega-congresso-2026",
       "categoria": "Politica Nazionale",
       "evidenza": false,
@@ -1428,14 +1436,6 @@
       "data": "2026-10-05",
       "slug": "trump-super-intelligence-force-big-tech-casa-bianca",
       "categoria": "AI",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-05",
-      "slug": "nobel-medicina-2026-annuncio-favoriti-glp1-ozempic",
-      "categoria": "Scienza",
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
