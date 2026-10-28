@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-28",
+      "slug": "istat-bes-2026-rinuncia-cure-sanitarie",
+      "categoria": "Wellness",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-28",
       "slug": "microsoft-uscita-volontaria-60mila-dipendenti-ai",
       "categoria": "AI",
       "evidenza": false,
@@ -1428,14 +1436,6 @@
       "data": "2026-10-07",
       "slug": "inflazione-42-settembre-2026-energia-bollette-rincari",
       "categoria": "Economia",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-07",
-      "slug": "legge-elettorale-fiducia-camera-melonellum-voto-segreto",
-      "categoria": "Politica Nazionale",
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
