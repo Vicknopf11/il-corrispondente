@@ -1,6 +1,30 @@
 {
-  "generato": "2026-10-28T06:31:03.352165+00:00",
+  "generato": "2026-10-28T12:31:04.171123+00:00",
   "item": [
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Musetti, quel rovescio è solo l'inizio: a Lione è tornata a vincere l'eleganza del tennis",
+      "link": "https://www.gazzetta.it/Tennis/ATP/28-10-2026/musetti-il-ritorno-elegante-del-vincente-a-lione.shtml",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-10-28"
+    },
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Italbocce, l'oro del riscatto e la zampata decisiva: la favola mondiale di Di Nicola e Morano",
+      "link": "https://www.gazzetta.it/bocce/27-10-2026/italbocce-l-oro-mondiale-della-raffa-di-di-nicola-e-morano.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-10-27"
+    },
+    {
+      "sottocategoria": "Atletica",
+      "tipo": "notizia",
+      "titolo": "World Series, Tampa Bay c'è! I Rays superano Milwaukee (agli extra inning) e allungano la serie",
+      "link": "https://www.gazzetta.it/Sport-Usa/28-10-2026/mlb-world-series-tampa-bay-c-e-i-rays-superano-milwaukee-e-allungano-la-serie.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-10-28"
+    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
@@ -16,30 +40,6 @@
       "titolo": "Anastasia tricolore di completo, un'altra Chechi d'oro. \"Da papà ho preso il perfezionismo\"",
       "link": "https://www.gazzetta.it/Sport-Vari/25-10-2026/equitazione-anastasia-chechi-vince-i-campionati-italiani-di-concorso-completo.shtml",
       "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-10-25"
-    },
-    {
-      "sottocategoria": "Combattimento",
-      "tipo": "notizia",
-      "titolo": "Fis-Bambino Gesù: il protocollo d'intesa porta la scherma nell’ospedale pediatrico romano",
-      "link": "https://www.gazzetta.it/Sport-Vari/23-10-2026/fis-bambino-gesu-il-protocollo-d-intesa-porta-la-scherma-nell-ospedale-pediatrico-romano.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-10-23"
-    },
-    {
-      "sottocategoria": "Squadra",
-      "tipo": "notizia",
-      "titolo": "Nations Championship: a novembre sfida All Blacks-Sudafrica, occhio alla Francia. Italia, è dura",
-      "link": "https://www.gazzetta.it/Rugby/27-10-2026/rugby-nations-championship-sfida-a-distanza-all-blacks-sudafrica-occhio-alla-francia.shtml",
-      "fonte": "Gazzetta — Rugby",
-      "data_evento": "2026-10-27"
-    },
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "Doping, positiva all'Epo la campionessa olimpica di Tokyo Jepchirchir",
-      "link": "https://www.gazzetta.it/Atletica/25-10-2026/la-keniana-peres-jepchirchir-positiva-all-epo-in-un-controllo-antidoping.shtml",
-      "fonte": "Gazzetta — Atletica",
       "data_evento": "2026-10-25"
     }
   ]
