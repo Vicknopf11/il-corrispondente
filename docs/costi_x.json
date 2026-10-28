@@ -1,6 +1,14 @@
 {
   "pubblicazioni": [
     {
+      "data": "2026-10-28",
+      "slug": "israele-elezioni-netanyahu-senza-maggioranza",
+      "categoria": "Politica Internazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
       "data": "2026-10-27",
       "slug": "sciopero-teatri-scritturati-federvivo-2026",
       "categoria": "Cultura",
@@ -1428,14 +1436,6 @@
       "data": "2026-10-06",
       "slug": "ranucci-sospeso-rai-dieci-giorni-report-2026",
       "categoria": "Cronaca",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-06",
-      "slug": "scutto-argento-mondiali-judo-baku-2026-record",
-      "categoria": "Sport",
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
