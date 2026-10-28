@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-28",
+      "slug": "microsoft-uscita-volontaria-60mila-dipendenti-ai",
+      "categoria": "AI",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-28",
       "slug": "onu-co2-record-153-percento-preindustriale-2025",
       "categoria": "Scienza",
       "evidenza": false,
@@ -1431,14 +1439,6 @@
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-07",
-      "slug": "anniversario-7-ottobre-tre-anni-guerra-gaza-commemorazioni",
-      "categoria": "Politica Internazionale",
-      "evidenza": true,
-      "tipo_richiesta": "ContentCreateWithUrl",
-      "costo_usd": 0.2
     }
   ]
 }
