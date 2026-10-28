@@ -1,14 +1,6 @@
 {
-  "generato": "2026-10-27T18:31:04.340822+00:00",
+  "generato": "2026-10-28T06:31:03.352165+00:00",
   "item": [
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Italbocce, l'oro del riscatto e la zampata decisiva: la favola mondiale di Di Nicola e Morano",
-      "link": "https://www.gazzetta.it/bocce/27-10-2026/italbocce-l-oro-mondiale-della-raffa-di-di-nicola-e-morano.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-10-27"
-    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
@@ -41,6 +33,14 @@
       "link": "https://www.gazzetta.it/Rugby/27-10-2026/rugby-nations-championship-sfida-a-distanza-all-blacks-sudafrica-occhio-alla-francia.shtml",
       "fonte": "Gazzetta — Rugby",
       "data_evento": "2026-10-27"
+    },
+    {
+      "sottocategoria": "Atletica",
+      "tipo": "notizia",
+      "titolo": "Doping, positiva all'Epo la campionessa olimpica di Tokyo Jepchirchir",
+      "link": "https://www.gazzetta.it/Atletica/25-10-2026/la-keniana-peres-jepchirchir-positiva-all-epo-in-un-controllo-antidoping.shtml",
+      "fonte": "Gazzetta — Atletica",
+      "data_evento": "2026-10-25"
     }
   ]
 }
