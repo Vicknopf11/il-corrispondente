@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-28",
+      "slug": "onu-co2-record-153-percento-preindustriale-2025",
+      "categoria": "Scienza",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-28",
       "slug": "caso-fakir-perizia-concausa-frasi-agenti-bodycam",
       "categoria": "Cronaca",
       "evidenza": false,
@@ -1431,14 +1439,6 @@
       "evidenza": true,
       "tipo_richiesta": "ContentCreateWithUrl",
       "costo_usd": 0.2
-    },
-    {
-      "data": "2026-10-06",
-      "slug": "keith-haring-mostra-palazzo-braschi-roma-2026",
-      "categoria": "Cultura",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
     }
   ]
 }
