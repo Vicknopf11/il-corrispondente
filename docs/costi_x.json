@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-29",
+      "slug": "mps-mediobanca-assemblea-fusione-riassetto-bancario",
+      "categoria": "Economia",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-29",
       "slug": "manovra-26-miliardi-irpef-meloni-giudici-siher",
       "categoria": "Politica Nazionale",
       "evidenza": false,
@@ -1428,14 +1436,6 @@
       "data": "2026-10-07",
       "slug": "openai-dimissioni-sicurezza-robinson-nvidia-6000-miliardi",
       "categoria": "AI",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-07",
-      "slug": "nobel-fisica-2026-halzen-neutrini-icecube-polo-sud",
-      "categoria": "Scienza",
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
