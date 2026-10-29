@@ -1,6 +1,60 @@
 {
   "generazioni": [
     {
+      "data": "2026-10-29",
+      "modello": "claude-sonnet-4-6",
+      "input_tokens": 314310,
+      "output_tokens": 7130,
+      "web_search_richieste": 14,
+      "stop_reason": "end_turn",
+      "costo_stimato_usd": 1.1899,
+      "costo_dettaglio_usd": {
+        "lettura": 0.9429,
+        "scrittura": 0.107,
+        "ricerche": 0.14
+      },
+      "cambio_usd_per_eur": 1.1133,
+      "cambio_data": "2026-10-28",
+      "breakdown_per_categoria_stimato": {
+        "Politica Internazionale": {
+          "frazione_stimata": 0.0767,
+          "output_tokens_stimati": 547
+        },
+        "Politica Nazionale": {
+          "frazione_stimata": 0.2482,
+          "output_tokens_stimati": 1769
+        },
+        "Economia": {
+          "frazione_stimata": 0.099,
+          "output_tokens_stimati": 706
+        },
+        "Sport": {
+          "frazione_stimata": 0.0776,
+          "output_tokens_stimati": 553
+        },
+        "Cronaca": {
+          "frazione_stimata": 0.1001,
+          "output_tokens_stimati": 714
+        },
+        "Scienza": {
+          "frazione_stimata": 0.0974,
+          "output_tokens_stimati": 694
+        },
+        "AI": {
+          "frazione_stimata": 0.1066,
+          "output_tokens_stimati": 760
+        },
+        "Wellness": {
+          "frazione_stimata": 0.0952,
+          "output_tokens_stimati": 679
+        },
+        "Cultura": {
+          "frazione_stimata": 0.0992,
+          "output_tokens_stimati": 708
+        }
+      }
+    },
+    {
       "data": "2026-10-28",
       "modello": "claude-sonnet-4-6",
       "input_tokens": 178541,

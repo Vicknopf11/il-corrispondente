@@ -1,6 +1,188 @@
 {
   "edizioni": [
     {
+      "data": "2026-10-29",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Elezioni in Israele: Netanyahu sopravvive ancora, l'Europa torna a fare i conti con se stessa",
+          "slug": "elezioni-israele-netanyahu-europa-conti",
+          "tag": [
+            "israele",
+            "netanyahu",
+            "elezioni",
+            "medio-oriente"
+          ],
+          "evidenza": false,
+          "fonte": "Il Post / Sky TG24",
+          "cerca_url": "https://www.google.com/search?q=elezioni+israele+risultati+Netanyahu+ottobre+2026",
+          "post_x": "Netanyahu non ha vinto, ma è ancora in sella. L'Europa che sperava gli israeliani la liberassero dall'imbarazzo può smettere di aspettare. Il problema siamo noi — non lui. #Israele #Netanyahu",
+          "post_sito": "I risultati delle elezioni israeliane parlano chiaro: il blocco di Netanyahu si ferma a 53 seggi su 120, la coalizione avversaria a 48, i partiti arabi a 19 — nessuno ha la maggioranza assoluta. Il coro europeo che sussurrava «speriamo li caccino loro» può archiviare la pratica: non sarà così. La domanda scomoda che nessun cancelliere o premier vuole affrontare è: cosa ha fatto l'Europa concretamente in questi anni, oltre a dichiarazioni di cordoglio e riunioni a vuoto? Beneficio taciuto: la paralisi europea è conveniente per chi non vuole scegliere tra i mercati di armi e le sanzioni, tra gli accordi di gas e il diritto internazionale. Il consenso mediatico attorno alla delusione post-voto rischia di diventare un nuovo alibi: avevamo sperato, non potevamo fare altro. Ora invece occorre decidere cosa fare — e questa è la notizia che il coro preferisce non scrivere.",
+          "editoriale": false,
+          "redattore": "Il Corrispondente Estero 1.0"
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Manovra da 26 miliardi: taglio Irpef al 33%, flat tax giovani e Meloni contro i giudici sul caso Siher",
+          "slug": "manovra-26-miliardi-irpef-meloni-giudici-siher",
+          "tag": [
+            "manovra",
+            "irpef",
+            "meloni",
+            "magistratura"
+          ],
+          "evidenza": false,
+          "fonte": "Sky TG24 / Today.it",
+          "cerca_url": "https://www.google.com/search?q=manovra+26+miliardi+irpef+Meloni+Siher+giudici+ottobre+2026",
+          "post_x": "Manovra da 26 miliardi: 500 euro l'anno in più per chi guadagna fino a 55mila. Intanto Meloni attacca i giudici sul caso Siher. Due spettacoli in uno, prezzo d'ingresso invariato. #Manovra #Siher",
+          "post_sito": "Il Consiglio dei ministri approva una manovra da 26 miliardi per il 2027: l'aliquota Irpef scende al 33% per i redditi fino a 55mila euro, con un beneficio calcolato in 500 euro annui — meno di una settimana di spesa media familiare. Mentre i giornali titolano sul taglio alle tasse, il vero dibattito del giorno è l'attacco di Meloni alla magistratura dopo la scarcerazione di Youssef Siher a Milano, definita «una vergogna». Meccanismo riconoscibile: distrazione utile. La manovra è annunciata ma i dettagli sono ancora fumosi; lo scontro governo-giudici è cinematografico e immediato — perfetto per riempire i titoli finché i decreti attuativi restano nel cassetto. Chi ci guadagna dalla frammentazione dell'attenzione pubblica? Chi ha interesse a che il dibattito sulla redistribuzione fiscale resti superficiale, e che la guerra alle toghe monopolizzi il frame politico a pochi giorni dallo sciopero generale del 30 ottobre.",
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La versione del governo",
+              "testo": "Il governo presenta la manovra come una risposta concreta alle famiglie del ceto medio: l'abbassamento dell'aliquota Irpef al 33% per i redditi fino a 55mila euro, la cedolare secca estesa ai negozi, lo stop strutturale al bollo per auto medio-piccole e un mese aggiuntivo di congedo parentale. Meloni definisce la manovra «non risolutiva ma nella direzione giusta» e incassa il sostegno della maggioranza. Sul caso Siher, il governo sostiene che la scarcerazione di un indagato per reati gravi rappresenti un fallimento dell'applicazione delle norme sull'immigrazione, e rilancia la proposta di riforma delle garanzie cautelari."
+            },
+            {
+              "etichetta": "Le critiche dell'opposizione e dei sindacati",
+              "testo": "Le opposizioni sottolineano che il beneficio netto del taglio Irpef per i redditi fino a 55mila euro ammonta a circa 500 euro annui — meno di 42 euro al mese — e che restano invariate le criticità sulla sanità pubblica e sulle pensioni. I sindacati, che hanno proclamato lo sciopero generale per il 30 ottobre, contestano l'assenza di misure strutturali sul potere d'acquisto e sui contratti collettivi, oltre alla precettazione disposta dal Ministero delle Infrastrutture per limitare i disagi ferroviari."
+            },
+            {
+              "etichetta": "Il nodo istituzionale: governo contro magistratura",
+              "testo": "Lo scontro tra Palazzo Chigi e la magistratura si acuisce dopo la scarcerazione di Siher, decisa da un giudice milanese. Meloni parla di «vergogna» e rilancia la necessità di riformare le norme sulla custodia cautelare degli stranieri. I magistrati e parte del mondo forense replicano che la scarcerazione è avvenuta nel pieno rispetto delle norme vigenti e che le critiche del governo configurano un'indebita pressione sull'indipendenza della magistratura. La tensione si inserisce in un quadro più ampio di proposte di riforma costituzionale della giustizia ancora in discussione."
+            }
+          ],
+          "implicazioni": "Se approvata definitivamente, la manovra produrrà i suoi effetti dal 2027. Lo sciopero generale del 30 ottobre è il primo banco di prova della tenuta sociale del governo. Sul fronte istituzionale, lo scontro governo-magistratura potrebbe accelerare la discussione parlamentare sulla riforma della giustizia, con conseguenze sull'equilibrio tra poteri dello Stato che si estendono ben oltre la vicenda Siher.",
+          "redattore": "Il Bastian Contrario 1.0"
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Assemblea MPS-Mediobanca: gli azionisti votano il più grande riassetto bancario italiano degli ultimi vent'anni",
+          "slug": "mps-mediobanca-assemblea-fusione-riassetto-bancario",
+          "tag": [
+            "mps",
+            "mediobanca",
+            "banche",
+            "finanza"
+          ],
+          "evidenza": false,
+          "fonte": "Borsa Italiana / Il Sole 24 Ore",
+          "cerca_url": "https://www.google.com/search?q=MPS+Mediobanca+assemblea+fusione+29+ottobre+2026",
+          "post_x": "Oggi gli azionisti di MPS votano su fusione Mediobanca, OPS su BancoBPM e Banca Generali. Tre operazioni, miliardi in gioco, Intesa Sanpaolo in agguato. Il risiko bancario si decide a Siena. #MPS #Mediobanca",
+          "post_sito": "L'assemblea straordinaria di Monte dei Paschi di Siena si riunisce oggi per votare su un pacchetto che ridisegnerebbe l'intero sistema bancario italiano: la fusione per incorporazione di Mediobanca, l'offerta pubblica di scambio su BancoBPM, quella su Banca Generali e il maxi-dividendo collegato. MPS controlla già l'86,3% di Mediobanca dopo un'OPA da quasi 14 miliardi; la fusione — benedetta dalla BCE a settembre — sposterebbe in Toscana il cuore della finanza d'affari italiana, tradizionalmente ancorata a Piazzetta Cuccia. Mandante invisibile da non perdere di vista: il Ministero dell'Economia è azionista di riferimento di MPS; Caltagirone siede nel cda; Intesa Sanpaolo ha lanciato la propria OPAS concorrente chiedendo agli azionisti di bloccare le mosse della banca senese. Chi ci guadagna? Dipende dall'esito: se MPS passa, il risiko produce un polo alternativo a Intesa e Unicredit; se vince Intesa, Ca' de Sass consolida la posizione dominante nel sistema bancario italiano. I lavoratori — che la Fisac-CGIL tutela esplicitamente chiedendo garanzie sull'occupazione — restano l'unica variabile che nessuno dei contendenti ha inserito nel comunicato stampa.",
+          "editoriale": false,
+          "redattore": "L'Analista 1.0"
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Derby italiano a Vienna: Cobolli sfida Berrettini per i quarti dell'ATP 500",
+          "slug": "cobolli-berrettini-atp-vienna-derby-italiano",
+          "tag": [
+            "tennis",
+            "atp-vienna",
+            "cobolli",
+            "berrettini"
+          ],
+          "evidenza": false,
+          "fonte": "Kiss Kiss / Sky Sport",
+          "cerca_url": "https://www.google.com/search?q=Cobolli+Berrettini+ATP+Vienna+2026+derby+italiano",
+          "post_x": "Cobolli contro Berrettini a Vienna, primo derby italiano in carriera per i due. Uno ha scalato la classifica dal basso, l'altro sta cercando la strada del ritorno. Il tennis italiano è roba seria. #Tennis #ATP",
+          "post_sito": "Questa sera sul campo centrale di Vienna si gioca un quarto di finale che vale più di un passaggio di turno: Flavio Cobolli e Matteo Berrettini si affrontano per la prima volta in carriera nell'ATP 500 austriaco. Cobolli è arrivato fin qui battendo Grigor Dimitrov; Berrettini ha superato Etcheverry, e il suo ritorno ai vertici del tennis mondiale è una storia che non ha bisogno di aggiustamenti narrativi. Entrambi visibili su Sky Sport Uno, Sky Sport Tennis e NOW. Questo è uno di quei momenti in cui il tennis italiano — sport spesso ignorato finché non si vince — occupa meritatamente il centro della scena senza bisogno di una medaglia olimpica come giustificazione. Darderi gioca in mattinata contro Tommy Paul, Musetti nel pomeriggio contro Fery: tre italiani nello stesso turno dello stesso torneo, in un'annata che sta ridisegnando la mappa del tennis europeo.",
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0"
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Strage ferroviaria in Spagna: 68 morti vicino a Toledo, tre italiane disperse. «Errore umano inspiegabile» dopo un guasto al sistema",
+          "slug": "strage-ferroviaria-spagna-toledo-68-morti-italiane-disperse",
+          "tag": [
+            "spagna",
+            "incidente-ferroviario",
+            "toledo",
+            "alta-velocita"
+          ],
+          "evidenza": true,
+          "fonte": "Il Post / ANSA / LaPresse",
+          "cerca_url": "https://www.google.com/search?q=incidente+ferroviario+Toledo+Spagna+68+morti+italiane+disperse+ottobre+2026",
+          "post_x": "68 morti vicino a Toledo, tre italiane disperse. Un guasto al sistema LZB, poi un ordine «inspiegabile» di ripartire. La seconda tragedia sulla Madrid-Siviglia in meno di un anno. #Spagna #Toledo",
+          "post_sito": "Mercoledì mattina, alle 8:54, un treno Renfe ad alta velocità con 397 passeggeri si è scontrato con un convoglio Iryo fermo sul binario con 147 persone a bordo, nei pressi di Urda, provincia di Toledo. Il bilancio è di almeno 68 morti e oltre 100 feriti, con tre cittadine italiane ancora disperse. Secondo la ricostruzione del ministro dei Trasporti spagnolo Óscar Puente, alle 8:30 un guasto al sistema di sicurezza LZB aveva fermato sei treni in un raggio di 63 chilometri; il centro di controllo di Adif aveva poi autorizzato la ripartenza del Renfe mentre l'Iryo era ancora fermo — un errore definito «inspiegabile». Elemento che il racconto dominante tende a rimuovere: è la seconda tragedia sulla stessa linea Madrid-Siviglia in meno di un anno, dopo il disastro di Adamuz. I sindacati dei macchinisti avevano segnalato ad Adif già nell'agosto 2025 l'usura delle infrastrutture su quella tratta, senza che venissero adottati provvedimenti. Il tema strutturale — manutenzione, investimenti, modello di gestione mista pubblico-privato dell'alta velocità spagnola — rischia di essere sepolto sotto la narrazione dell'«errore umano singolo», che è sempre più comodo della causa sistemica rimossa.",
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0"
+        },
+        {
+          "categoria": "Scienza",
+          "titolo": "Enzimi progettati dall'IA per sintetizzare farmaci anti-HIV: la ricerca tra Manchester e Seattle",
+          "slug": "enzimi-ia-farmaci-hiv-manchester-institute-protein-design",
+          "tag": [
+            "intelligenza-artificiale",
+            "farmaci",
+            "biotecnologie",
+            "hiv"
+          ],
+          "evidenza": false,
+          "fonte": "Tom's Hardware / Cronache della Campania",
+          "cerca_url": "https://www.google.com/search?q=enzimi+IA+lenacapavir+HIV+Manchester+Institute+Protein+Design+2026",
+          "post_x": "Ricercatori di Manchester e dell'Institute for Protein Design usano l'IA per progettare enzimi che sintetizzano il lenacapavir, farmaco anti-HIV. Il migliore converte il 79% del reagente. Risultato promettente — in attesa di verifiche indipendenti. #Scienza #AI",
+          "post_sito": "Un gruppo dell'Università di Manchester, in collaborazione con l'Institute for Protein Design (con il coinvolgimento di NVIDIA per l'infrastruttura computazionale), ha verificato in laboratorio 67 enzimi progettati con modelli generativi di IA per facilitare un passaggio della sintesi del lenacapavir — farmaco impiegato nella prevenzione dell'HIV. Il candidato migliore, Design 52, ha convertito il 79% del reagente nel prodotto desiderato con la selettività chimica richiesta. Il risultato, pubblicato ma ancora in attesa di valutazioni indipendenti, riguarda tecnologie come RFdiffusion2 e AlphaFold3. La domanda che il coro dell'entusiasmo tecnologico preferisce non porre: chi finanzia questo percorso e chi controlla i brevetti sugli enzimi progettati dall'IA per farmaci già esistenti? Il lenacapavir è prodotto da Gilead Sciences, che ha fissato un prezzo di listino negli Stati Uniti superiore ai 40.000 dollari annui per paziente. Se l'IA abbatte i costi di sintesi, il risparmio andrà ai pazienti o ai margini industriali? Questa è la domanda che nessun comunicato stampa ha incluso.",
+          "editoriale": false,
+          "redattore": "Il Metodico 1.0"
+        },
+        {
+          "categoria": "AI",
+          "titolo": "Google crolla del 10%: 51 miliardi spesi in AI in un trimestre, free cash flow negativo per 9 miliardi",
+          "slug": "google-alphabet-calo-10-percento-ai-spesa-51-miliardi-cash-flow",
+          "tag": [
+            "google",
+            "alphabet",
+            "intelligenza-artificiale",
+            "borsa"
+          ],
+          "evidenza": false,
+          "fonte": "Money.it / FinanzaOnline / Yahoo Finance",
+          "cerca_url": "https://www.google.com/search?q=Google+Alphabet+calo+10+AI+spesa+51+miliardi+trimestrale+ottobre+2026",
+          "post_x": "Google spende 51 miliardi in AI in tre mesi, brucia 9 miliardi di cassa e perde il 10% in borsa. Il futuro è qui. Il conto pure. #Google #AI #Alphabet",
+          "post_sito": "Alphabet, la casa madre di Google, ha pubblicato i risultati del terzo trimestre 2026: ricavi per 127,6 miliardi di dollari (sotto le attese di 128,2 miliardi), investimenti in conto capitale a 51,3 miliardi, free cash flow negativo per 9,07 miliardi — il secondo trimestre con saldo negativo dalla quotazione in borsa del 2004. Il titolo è crollato di quasi il 10% nelle contrattazioni after-hours, rischiando di bruciare oltre 400 miliardi di capitalizzazione in una sola seduta. La narrativa dominante parla di «scommessa sull'AI» e di «domanda straordinaria». Quella che il comunicato stampa non dice: la «modalità IA» di Google ha penalizzato i ricavi della ricerca tradizionale — il motore che finanzia tutto il resto. Detto diversamente: Google sta demolendo il business che ha generato la cassa necessaria per costruire quello nuovo, senza che il nuovo generi ancora flussi sufficienti a sostenersi. I veri beneficiari di questa corsa agli investimenti sono i produttori di chip (Nvidia in primis), i costruttori di data center e i fornitori di energia — che incassano indipendentemente dal fatto che l'AI di Google trovi o meno un modello di ricavi sostenibile. Alphabet ha già emesso obbligazioni per partecipare ai 230 miliardi di dollari collocati dalle cinque grandi tech nel 2026: la scommessa si finanzia anche a debito.",
+          "editoriale": false,
+          "redattore": "Il Futurologo 1.0"
+        },
+        {
+          "categoria": "Wellness",
+          "titolo": "Salute femminile: più attente alla prevenzione ma bloccate dai costi — il 15% rinuncia alla psicoterapia per ragioni economiche",
+          "slug": "salute-femminile-prevenzione-costi-barriere-economiche",
+          "tag": [
+            "salute",
+            "donne",
+            "prevenzione",
+            "welfare"
+          ],
+          "evidenza": false,
+          "fonte": "Italia Report USA / Il Sole 24 Ore Salute",
+          "cerca_url": "https://www.google.com/search?q=salute+femminile+prevenzione+costi+barriere+economiche+2026",
+          "post_x": "Le donne fanno più prevenzione degli uomini, ma solo il 39% riesce ad affrontare tempestivamente una diagnosi complessa. Il 15% ha rinunciato alla psicoterapia per i costi. L'industria del wellness vende meditazioni. #Salute #Welfare",
+          "post_sito": "Un'indagine pubblicata il 29 ottobre fotografa una contraddizione strutturale del sistema sanitario italiano: le donne mostrano una maggiore attenzione alla prevenzione rispetto agli uomini, ma solo il 39% riesce ad affrontare tempestivamente una diagnosi complessa a causa di barriere economiche e di carico familiare. Il 15% delle intervistate ha dovuto rinunciare a percorsi di supporto psicologico perché ritenuti troppo costosi. Nel frattempo, l'industria del benessere fattura miliardi in app di meditazione, abbonamenti wellness e integratori certificati con la linguetta del «prendersi cura di sé». Il bersaglio non sono le persone che cercano aiuto, ma il meccanismo per cui il sistema pubblico si restringe e l'offerta privata riempie il vuoto con prodotti accessibili solo a chi può permetterseli — trasformando la salute in una questione di stile di vita invece che di diritto. L'eufemismo di potere del giorno è «empowerment femminile»: una parola che suona bene nei comunicati delle aziende farmaceutiche e che non cambia di un centesimo la tariffa di una seduta dallo psicologo.",
+          "editoriale": false,
+          "redattore": "Il Life Coach 1.0"
+        },
+        {
+          "categoria": "Cultura",
+          "titolo": "«Dio Ride» di Giovanni Veronesi esce oggi in sala: Favino è un frate del Seicento che disturba la Chiesa. E il distributore chi è?",
+          "slug": "dio-ride-veronesi-favino-cinema-uscita",
+          "tag": [
+            "cinema",
+            "dio-ride",
+            "veronesi",
+            "favino"
+          ],
+          "evidenza": false,
+          "fonte": "Ditutto.it / Cinema in Sala / Masedomani",
+          "cerca_url": "https://www.google.com/search?q=Dio+Ride+Veronesi+Favino+uscita+cinema+29+ottobre+2026",
+          "post_x": "«Dio Ride» di Veronesi con Favino esce oggi. Un frate del Seicento che predica un Vangelo gioioso contro la Inquisizione. Nel 2026, distribuito da PiperFilm. La Chiesa cambia, i distributori anche. #DioRide #Cinema",
+          "post_sito": "Arriva oggi nelle sale italiane «Dio Ride», film di Giovanni Veronesi con Pierfrancesco Favino, Silvio Orlando e Carlo Cecchi nel ruolo di Papa Innocenzo X — presentato fuori concorso alla Mostra di Venezia 2026 e distribuito da PiperFilm. La storia è quella di Frate Leopoldo da Casamacchia, predicatore toscano del Seicento che porta un Vangelo semplice e gioioso in contrasto con l'apparato dell'Inquisizione: tema vecchio di quattro secoli, dunque attualissimo. L'angolazione che merita attenzione non è il contenuto del film — una commedia drammatica storica con cast di lusso — ma il meccanismo industriale attorno. Il beneficio taciuto: il cinema italiano «d'autore» con grandi nomi esce su pochi schermi, fa poco rumore mediatico la prima settimana, poi sparisce nelle piattaforme a pagamento. La domanda che si pone raramente è chi decide le finestre di distribuzione, chi finanzia quali progetti e perché certi film con cast altrettanto valido non trovano i 17 milioni di budget che servono per girare. Oggi escono anche 16 altri titoli: il mercato è affollato, le sale sono poche, il pubblico deve scegliere — e chi controlla la pubblicità decide chi vince.",
+          "editoriale": false,
+          "redattore": "Il Letterato 1.0"
+        }
+      ]
+    },
+    {
       "data": "2026-10-28",
       "post": [
         {
@@ -5145,121 +5327,7 @@
           "redattore": "L'Osservatore 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-09-28",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Attentato sventato alla base RAF di Fairford: cinque arresti, pista iraniana",
-          "slug": "attentato-sventato-base-raf-fairford-iran-arresti",
-          "tag": [
-            "terrorismo",
-            "iran",
-            "regno-unito",
-            "guerra"
-          ],
-          "evidenza": true,
-          "fonte": "La Notizia / Adnkronos",
-          "cerca_url": "https://www.google.com/search?q=attentato+sventato+base+RAF+Fairford+Iran+2026",
-          "post_x": "Cinque arrestati vicino alla base RAF di Fairford, usata dai bombardieri USA contro l'Iran. Trump si intestina il merito. Domanda vietata: ma chi ha deciso di usare suolo britannico per bombardare Teheran? #Fairford #Iran",
-          "post_sito": "Nella notte tra sabato e domenica, cinque uomini sono stati fermati con accuse legate agli esplosivi nei pressi della base aerea di Fairford, nel Gloucestershire, mentre si avvicinavano a bordo di tre furgoni bianchi. La base è condivisa da decenni con gli Stati Uniti ed è stata messa a disposizione dei bombardieri americani impegnati nelle operazioni contro l'Iran, su disposizione dell'ex premier Keir Starmer — una decisione che all'epoca aveva scatenato le proteste di Teheran. Il presidente Trump, in piena campagna per le Midterm, non ha perso un secondo: ha già rivendicato la «grande collaborazione» con Londra come sua vittoria personale. Quello che il racconto ufficiale tace è il contesto: l'IRGC aveva esplicitamente indicato le basi occidentali usate per i raid come possibili obiettivi, e Londra aveva comunque scelto di mettere a rischio il proprio territorio — e i propri cittadini, come quelli del villaggio di Whelford, evacuati nel mezzo della notte — per partecipare a un conflitto che ha anche robusti interessi nell'industria della difesa angloamericana. I cinque arrestati restano per ora senza nome né nazionalità accertata: nessuna sentenza, ancora, e la prudenza è d'obbligo.",
-          "editoriale": true,
-          "prospettive": [
-            {
-              "etichetta": "La versione delle autorità",
-              "testo": "La polizia antiterrorismo di Scotland Yard ha arrestato cinque uomini accusati di violazione della legge sugli esplosivi e pianificazione di un attacco terroristico. L'operazione è scattata all'1.45 (ora italiana), quando tre furgoni sospetti si stavano dirigendo verso l'installazione militare. La ministra dell'Interno Shabana Mahmood ha confermato che la situazione è sotto controllo. Le indagini sono in corso per stabilire eventuali legami con gruppi iraniani o altre organizzazioni, ma nessun collegamento è stato ancora formalmente accertato."
-            },
-            {
-              "etichetta": "Il nodo geopolitico",
-              "testo": "La base di Fairford è utilizzata da decenni dagli Stati Uniti e, per decisione del governo britannico, è stata messa a disposizione dei bombardieri americani nelle operazioni contro l'Iran. Le Guardie della Rivoluzione iraniane avevano pubblicamente indicato le installazioni occidentali coinvolte nei raid come possibili obiettivi. A luglio 2026 il governo britannico aveva designato l'IRGC nell'ambito dei nuovi poteri contro le minacce statali, e aveva accusato Teheran di usare reti criminali e proxy per operazioni ostili in Europa. Il rapporto diplomatico tra Londra e Teheran è deteriorato progressivamente nel corso del 2026."
-            },
-            {
-              "etichetta": "Il rischio per i civili britannici",
-              "testo": "Gli abitanti del villaggio di Whelford, a circa tre chilometri dalla base, sono stati svegliati dalla polizia e fatti evacuare nel cuore della notte verso un centro ricreativo locale. La decisione di ospitare operazioni militari offensive su suolo britannico espone le comunità circostanti a un rischio diretto. Questo elemento è rimasto in secondo piano nel dibattito pubblico, che si è concentrato quasi interamente sul successo dell'operazione antiterrorismo."
-            },
-            {
-              "etichetta": "La dimensione elettorale americana",
-              "testo": "Donald Trump, in piena campagna per le elezioni di Midterm, ha commentato rapidamente gli arresti intestandosi parte del merito e citando la «grande collaborazione» con Londra. Il tempismo delle dichiarazioni presidenziali — emesse prima che le indagini fossero completate e le identità degli arrestati rese note — ha sollevato alcune osservazioni sulla strumentalizzazione politica di un evento di sicurezza ancora sotto indagine."
-            }
-          ],
-          "implicazioni": "Se le indagini dovessero confermare un collegamento con gruppi legati all'Iran, la pressione sul governo britannico per rivedere il proprio coinvolgimento nelle operazioni militari americane contro Teheran potrebbe aumentare. Sul piano interno, l'episodio riapre il dibattito sul costo in termini di sicurezza della scelta di ospitare basi operative offensive su territorio britannico. Sul piano legale, la presunzione di innocenza degli arrestati rimane pienamente operativa fino a eventuali condanne.",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "La riforma della legge elettorale torna alla Camera: proporzionale con premio al 42%",
-          "slug": "riforma-legge-elettorale-camera-proporzionale-premio-42",
-          "tag": [
-            "legge-elettorale",
-            "parlamento",
-            "centrodestra",
-            "riforma"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Sky TG24",
-          "cerca_url": "https://www.google.com/search?q=riforma+legge+elettorale+Camera+proporzionale+premio+42+settembre+2026",
-          "post_x": "La legge elettorale torna in Aula. Proporzionale con premio al 42%. I partiti che oggi non arrivano al 42% la sostengono con entusiasmo. Coincidenza. #LeggElettorale #Stabilicum",
-          "post_sito": "Giornata politica importante a Montecitorio: la riforma della legge elettorale — già approvata al Senato — approda nuovamente in Aula per l'ultimo passaggio parlamentare. Il testo introduce un sistema proporzionale corretto da un premio di maggioranza per chi supera il 42% dei voti, con un tetto massimo di 220 seggi alla Camera e 113 al Senato, soglie di sbarramento ereditate dal Rosatellum (10% per le coalizioni, 3% per le liste) e l'indicazione del premier al momento del deposito del contrassegno. La domanda che il dibattito ufficiale evita è quella del mandante invisibile di questa riforma: chi beneficia davvero di una soglia al 42% che, con i sondaggi attuali, nessuno è certo di raggiungere? Una soglia così alta può servire contemporaneamente a spaventare le opposizioni — frammentandole — e a legittimare governi di coalizione larghissima se nessuno la supera. La storia elettorale italiana insegna che ogni legge di voto è scritta da chi è al governo per i propri interessi di sopravvivenza, e questa non fa eccezione: l'aumento da 1.500 a 6.000 firme per i non parlamentari è un dettaglio piccolo piccolo che renderà la vita difficilissima a qualunque forza nuova voglia presentarsi.",
-          "editoriale": false,
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Eni e Ip fissano il price cap sui carburanti: benzina a 1,99 e gasolio a 2,19 — ma i gestori minacciano l'Antitrust",
-          "slug": "price-cap-carburanti-eni-ip-benzina-gasolio-gestori-antitrust",
-          "tag": [
-            "carburanti",
-            "eni",
-            "price-cap",
-            "energia"
-          ],
-          "evidenza": false,
-          "fonte": "Today.it / Il Sole 24 Ore",
-          "cerca_url": "https://www.google.com/search?q=price+cap+carburanti+Eni+Ip+benzina+gasolio+28+settembre+2026",
-          "post_x": "Eni (partecipata dallo Stato) e Ip (controllata dall'Azerbaijan) \"calano\" i prezzi della benzina. Il governo esulta. I gestori minacciano l'Antitrust. Traduzione: due colossi pubblici decidono il prezzo di mercato. Il liberismo a geometria variabile. #Carburanti",
-          "post_sito": "Da oggi nei distributori Enilive è in vigore il tetto fissato da Eni: 1,99 euro al litro per la benzina e 2,19 per il diesel, per una durata iniziale di trenta giorni, con possibile proroga a fine anno. Anche Socar — il gruppo statale azero che dal maggio 2026 controlla Italiana Petroli — ha annunciato un limite analogo sulle stazioni Ip ed Esso. La premier Meloni ha salutato la misura come «segnale importante». Quello che manca dalla narrazione è il contesto: il price cap arriva dopo che il gasolio sulla rete stradale aveva già raggiunto i 2,377 euro al litro e la benzina 2,159, con il diesel in autostrada vicino ai 2,50. Il beneficio taciuto è duplice: Eni è partecipata dal Ministero dell'Economia, quindi lo Stato si autocongratula per un gesto che compie come azionista di controllo, non come regolatore. E Socar — un'azienda di Stato azera — si guadagna improvvisamente un'immagine di buon samaritano sul mercato italiano, in un momento in cui l'Azerbaijan cerca di consolidare la propria influenza energetica in Europa. I gestori indipendenti, che acquistano il carburante a prezzi di mercato e non riescono a praticare gli stessi sconti dei colossi, parlano di concorrenza sleale e minacciano ricorso all'Antitrust: una voce che rischia di perdersi nel coro degli applausi.",
-          "editoriale": false,
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Luna Rossa domina le regate preliminari dell'America's Cup nel golfo di Napoli",
-          "slug": "luna-rossa-vince-regate-preliminari-americas-cup-napoli",
-          "tag": [
-            "vela",
-            "americas-cup",
-            "luna-rossa",
-            "napoli"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Il Post",
-          "cerca_url": "https://www.google.com/search?q=Luna+Rossa+vince+regate+preliminari+Americas+Cup+Napoli+settembre+2026",
-          "post_x": "Luna Rossa vince le preregate dell'America's Cup a Napoli: 4 regate su 8 in flotta, poi il match race finale contro New Zealand vinto con 17 secondi di vantaggio. Davanti a centomila persone sul lungomare. L'anno prossimo la coppa vera. Forza. 🇮🇹⛵",
-          "post_sito": "Luna Rossa ha vinto le regate preliminari della 38ª America's Cup disputate nel golfo di Napoli, conquistando quattro delle otto regate di flotta e battendo nettamente Emirates Team New Zealand nel match race finale con 17 secondi di vantaggio — davanti a centomila persone sul lungomare Caracciolo. I timonieri Peter Burling e Marco Gradoni, con i trimmer Maria Giubilei e Gianluigi Ugolini, hanno chiuso con 71 dei 80 punti disponibili, replicando il successo già ottenuto a Cagliari a maggio. È un risultato sportivo di grande sostanza: Luna Rossa ha battuto il defender neozelandese — vincitore delle ultime tre Coppe America — nelle stesse acque dove l'estate del 2027 si disputerà la competizione vera, quella sugli AC75. Il conto dietro la medaglia è reale ma non oscura la prestazione: l'evento ha portato oltre 250mila persone al Race Village nei quattro giorni, ed è lecito chiedersi quanto di quell'entusiasmo si tradurrà in investimenti strutturali per la città. Per ora, però, il fatto sportivo parla da solo: una vittoria netta, costruita sul campo, contro i migliori al mondo.",
-          "editoriale": false,
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Sentenza Regeni: la Corte d'Assise di Roma decide dopo dieci anni sugli 007 egiziani",
-          "slug": "sentenza-regeni-corte-assise-roma-agenti-egiziani-2026",
-          "tag": [
-            "regeni",
-            "egitto",
-            "sentenza",
-            "giustizia"
-          ],
-          "evidenza": false,
-          "fonte": "Il Post / ANSA",
-          "cerca_url": "https://www.google.com/search?q=sentenza+Regeni+Corte+Assise+Roma+28+settembre+2026",
-          "post_x": "Oggi la sentenza Regeni. Dieci anni, 3890 giorni, quattro imputati assenti, un Egitto che non ha mai consegnato un indirizzo. Lo Stato italiano ha firmato accordi commerciali con Il Cairo tutto il tempo. #Regeni #Giustizia",
-          "post_sito": "Oggi, lunedì 28 settembre, la Corte d'Assise di Roma pronuncia la sentenza di primo grado nel processo sull'omicidio di Giulio Regeni, il ricercatore italiano sequestrato, torturato e ucciso al Cairo nel gennaio 2016: sono trascorsi 3.890 giorni da quando il suo corpo fu ritrovato lungo la strada tra il Cairo e Alessandria con evidenti segni di torture. Sul banco degli imputati ci sono quattro agenti della National Security egiziana — il generale Magdi Ibrahim Abdelal Sharif, per il quale la procura ha chiesto l'ergastolo, e i colonnelli Athar Kamel Mohamed Ibrahim, Uhsam Helmi e il generale Tariq Sabir, per i quali sono stati chiesti 17 anni e sei mesi. Nessuno di loro è in aula: l'Egitto ha sistematicamente rifiutato di fornire i loro indirizzi per la notifica degli atti processuali, rendendo il processo tecnicamente celebrato in assenza. La causa strutturale rimossa dal racconto dominante è quella diplomatica: per tutti questi dieci anni il governo italiano — di qualunque colore — ha continuato a coltivare rapporti economici, energetici e di sicurezza con Il Cairo, inclusa la firma di accordi bilaterali da parte del ministro Tajani appena all'inizio di settembre. La domanda «chi ci guadagna dal silenzio» ha una risposta concreta: chiunque abbia interessi nella stabilità del regime egiziano e negli approvvigionamenti energetici del Mediterraneo. La sentenza, qualunque essa sia, non potrà essere eseguita finché l'Egitto non cambierà posizione.",
-          "editoriale": false,
-          "redattore": "L'Osservatore 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-10-28T08:20:03.785082+00:00"
+  "ultimo_aggiornamento": "2026-10-29T08:19:56.792019+00:00"
 }

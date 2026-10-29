@@ -1,77 +1,77 @@
 {
-  "data": "2026-10-28",
+  "data": "2026-10-29",
   "tweet": [
     {
-      "testo": "Israele vota con affluenza record (74,7%). Netanyahu primo partito ma senza numeri per governare. Il coro dei media esulta o si dispera. Intanto la commissione ONU certifica atti genocidari a Gaza. Quella parte la leggete più in piccolo. #Israele",
-      "url": "https://corrispondente.filoclastos.it/2026/10/28/israele-elezioni-netanyahu-senza-maggioranza/",
-      "slug": "israele-elezioni-netanyahu-senza-maggioranza",
+      "testo": "Netanyahu non ha vinto, ma è ancora in sella. L'Europa che sperava gli israeliani la liberassero dall'imbarazzo può smettere di aspettare. Il problema siamo noi — non lui. #Israele #Netanyahu",
+      "url": "https://corrispondente.filoclastos.it/2026/10/29/elezioni-israele-netanyahu-europa-conti/",
+      "slug": "elezioni-israele-netanyahu-europa-conti",
       "categoria": "Politica Internazionale",
-      "evidenza": true,
-      "pubblicato": true
+      "evidenza": false,
+      "pubblicato": false
     },
     {
-      "testo": "Manovra 2027: 23,5 miliardi, banche tassate quasi 5 miliardi, flat tax ai giovani. Meloni: «manteniamo gli impegni». Quali impegni? Quelli col ceto medio o col settore finanziario che scrive l'assegno? #Manovra2027",
-      "url": "https://corrispondente.filoclastos.it/2026/10/28/manovra-2027-consiglio-ministri-23-miliardi/",
-      "slug": "manovra-2027-consiglio-ministri-23-miliardi",
+      "testo": "Manovra da 26 miliardi: 500 euro l'anno in più per chi guadagna fino a 55mila. Intanto Meloni attacca i giudici sul caso Siher. Due spettacoli in uno, prezzo d'ingresso invariato. #Manovra #Siher",
+      "url": "https://corrispondente.filoclastos.it/2026/10/29/manovra-26-miliardi-irpef-meloni-giudici-siher/",
+      "slug": "manovra-26-miliardi-irpef-meloni-giudici-siher",
       "categoria": "Politica Nazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Meta raccoglie 25 miliardi in azioni con domanda 5 volte superiore. Il fornitore di chip Nvidia investe 3 miliardi nel suo stesso cliente. Nel capitalismo dell'AI i ruoli si fondono: chi vende i mattoni compra anche la casa. #Meta #AI",
-      "url": "https://corrispondente.filoclastos.it/2026/10/28/meta-aumento-capitale-25-miliardi-ai/",
-      "slug": "meta-aumento-capitale-25-miliardi-ai",
+      "testo": "Oggi gli azionisti di MPS votano su fusione Mediobanca, OPS su BancoBPM e Banca Generali. Tre operazioni, miliardi in gioco, Intesa Sanpaolo in agguato. Il risiko bancario si decide a Siena. #MPS #Mediobanca",
+      "url": "https://corrispondente.filoclastos.it/2026/10/29/mps-mediobanca-assemblea-fusione-riassetto-bancario/",
+      "slug": "mps-mediobanca-assemblea-fusione-riassetto-bancario",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Stasera al PalaDozza, Virtus Bologna-Zalgiris Kaunas in Eurolega (ore 20:30, Sky Sport Basket). Mentre i giornali sportivi riempiono pagine di Serie A, la pallacanestro europea fa i conti reali col continente. Buon basket a chi guarda. #Eurolega",
-      "url": "https://corrispondente.filoclastos.it/2026/10/28/virtus-bologna-zalgiris-eurolega-basket/",
-      "slug": "virtus-bologna-zalgiris-eurolega-basket",
+      "testo": "Cobolli contro Berrettini a Vienna, primo derby italiano in carriera per i due. Uno ha scalato la classifica dal basso, l'altro sta cercando la strada del ritorno. Il tennis italiano è roba seria. #Tennis #ATP",
+      "url": "https://corrispondente.filoclastos.it/2026/10/29/cobolli-berrettini-atp-vienna-derby-italiano/",
+      "slug": "cobolli-berrettini-atp-vienna-derby-italiano",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Caso Fakir: la perizia della Procura di Bologna certifica che lo schiacciamento in posizione prona è stato una concausa della morte. Dalle bodycam emergono frasi registrate degli agenti. Sei persone iscritte nel registro per omicidio colposo. #Fakir",
-      "url": "https://corrispondente.filoclastos.it/2026/10/28/caso-fakir-perizia-concausa-frasi-agenti-bodycam/",
-      "slug": "caso-fakir-perizia-concausa-frasi-agenti-bodycam",
+      "testo": "68 morti vicino a Toledo, tre italiane disperse. Un guasto al sistema LZB, poi un ordine «inspiegabile» di ripartire. La seconda tragedia sulla Madrid-Siviglia in meno di un anno. #Spagna #Toledo",
+      "url": "https://corrispondente.filoclastos.it/2026/10/29/strage-ferroviaria-spagna-toledo-68-morti-italiane-disperse/",
+      "slug": "strage-ferroviaria-spagna-toledo-68-morti-italiane-disperse",
       "categoria": "Cronaca",
-      "evidenza": false,
-      "pubblicato": true
+      "evidenza": true,
+      "pubblicato": false
     },
     {
-      "testo": "L'ONU certifica: CO2 al 153% dei livelli preindustriali, metano al 267%. Il dato è pubblicato mentre i governi sono riuniti a discutere di manovre finanziarie. La correlazione tra le due notizie non è casuale. #Clima #CO2",
-      "url": "https://corrispondente.filoclastos.it/2026/10/28/onu-co2-record-153-percento-preindustriale-2025/",
-      "slug": "onu-co2-record-153-percento-preindustriale-2025",
+      "testo": "Ricercatori di Manchester e dell'Institute for Protein Design usano l'IA per progettare enzimi che sintetizzano il lenacapavir, farmaco anti-HIV. Il migliore converte il 79% del reagente. Risultato promettente — in attesa di verifiche indipendenti. #Scienza #AI",
+      "url": "https://corrispondente.filoclastos.it/2026/10/29/enzimi-ia-farmaci-hiv-manchester-institute-protein-design/",
+      "slug": "enzimi-ia-farmaci-hiv-manchester-institute-protein-design",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Microsoft offre l'uscita volontaria a 60.000 dipendenti in USA, Canada, India e UK. Obiettivo: liberare risorse per i data center AI. Traduzione: le persone costano, i server no. Benvenuti nell'economia dell'intelligenza artificiale. #Microsoft #AI",
-      "url": "https://corrispondente.filoclastos.it/2026/10/28/microsoft-uscita-volontaria-60mila-dipendenti-ai/",
-      "slug": "microsoft-uscita-volontaria-60mila-dipendenti-ai",
+      "testo": "Google spende 51 miliardi in AI in tre mesi, brucia 9 miliardi di cassa e perde il 10% in borsa. Il futuro è qui. Il conto pure. #Google #AI #Alphabet",
+      "url": "https://corrispondente.filoclastos.it/2026/10/29/google-alphabet-calo-10-percento-ai-spesa-51-miliardi-cash-flow/",
+      "slug": "google-alphabet-calo-10-percento-ai-spesa-51-miliardi-cash-flow",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Istat BES 2026: quasi 1 italiano su 10 ha rinunciato a cure sanitarie di cui aveva bisogno. Al Sud lavorano solo 4 donne su 10. Il mercato del wellness fattura miliardi. Il benessere reale dipende ancora dal CAP di residenza. #Salute #Istat",
-      "url": "https://corrispondente.filoclastos.it/2026/10/28/istat-bes-2026-rinuncia-cure-sanitarie/",
-      "slug": "istat-bes-2026-rinuncia-cure-sanitarie",
+      "testo": "Le donne fanno più prevenzione degli uomini, ma solo il 39% riesce ad affrontare tempestivamente una diagnosi complessa. Il 15% ha rinunciato alla psicoterapia per i costi. L'industria del wellness vende meditazioni. #Salute #Welfare",
+      "url": "https://corrispondente.filoclastos.it/2026/10/29/salute-femminile-prevenzione-costi-barriere-economiche/",
+      "slug": "salute-femminile-prevenzione-costi-barriere-economiche",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Max Gazzè chiude stasera il trittico napoletano al Teatro Bellini. Si chiama «L'ornamento delle cose secondarie». In un'epoca in cui tutto deve essere primario, urgente e virale, scegliere di fare un album sulle cose secondarie è l'atto politico più silenzioso della stagione. #Cultura",
-      "url": "https://corrispondente.filoclastos.it/2026/10/28/max-gazze-teatro-bellini-napoli-ornamento-cose-secondarie/",
-      "slug": "max-gazze-teatro-bellini-napoli-ornamento-cose-secondarie",
+      "testo": "«Dio Ride» di Veronesi con Favino esce oggi. Un frate del Seicento che predica un Vangelo gioioso contro la Inquisizione. Nel 2026, distribuito da PiperFilm. La Chiesa cambia, i distributori anche. #DioRide #Cinema",
+      "url": "https://corrispondente.filoclastos.it/2026/10/29/dio-ride-veronesi-favino-cinema-uscita/",
+      "slug": "dio-ride-veronesi-favino-cinema-uscita",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }
