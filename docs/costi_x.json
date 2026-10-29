@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-29",
+      "slug": "enzimi-ia-farmaci-hiv-manchester-institute-protein-design",
+      "categoria": "Scienza",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-29",
       "slug": "strage-ferroviaria-spagna-toledo-68-morti-italiane-disperse",
       "categoria": "Cronaca",
       "evidenza": true,
@@ -1431,14 +1439,6 @@
       "evidenza": true,
       "tipo_richiesta": "ContentCreateWithUrl",
       "costo_usd": 0.2
-    },
-    {
-      "data": "2026-10-08",
-      "slug": "pentagono-attacchi-iran-trump-elezioni-meta-mandato",
-      "categoria": "Politica Internazionale",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
     }
   ]
 }
