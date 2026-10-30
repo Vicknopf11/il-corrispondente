@@ -1,77 +1,77 @@
 {
-  "data": "2026-10-29",
+  "data": "2026-10-30",
   "tweet": [
     {
-      "testo": "Netanyahu non ha vinto, ma è ancora in sella. L'Europa che sperava gli israeliani la liberassero dall'imbarazzo può smettere di aspettare. Il problema siamo noi — non lui. #Israele #Netanyahu",
-      "url": "https://corrispondente.filoclastos.it/2026/10/29/elezioni-israele-netanyahu-europa-conti/",
-      "slug": "elezioni-israele-netanyahu-europa-conti",
+      "testo": "Kiev smette di colpire le raffinerie russe. Ordine di Washington. Tempistica: a ridosso delle midterm. Coincidenze, sicuramente. #Ucraina #Trump",
+      "url": "https://corrispondente.filoclastos.it/2026/10/30/ucraina-sospende-attacchi-raffinerie-russia-pressione-trump/",
+      "slug": "ucraina-sospende-attacchi-raffinerie-russia-pressione-trump",
       "categoria": "Politica Internazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Manovra da 26 miliardi: 500 euro l'anno in più per chi guadagna fino a 55mila. Intanto Meloni attacca i giudici sul caso Siher. Due spettacoli in uno, prezzo d'ingresso invariato. #Manovra #Siher",
-      "url": "https://corrispondente.filoclastos.it/2026/10/29/manovra-26-miliardi-irpef-meloni-giudici-siher/",
-      "slug": "manovra-26-miliardi-irpef-meloni-giudici-siher",
+      "testo": "La Rai aspetta un presidente da due anni. Soluzione trovata: abbassare il quorum. Con un nome già pronto. E un mandato che copre quasi tutta la prossima legislatura. Trasparenza.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/30/manovre-rai-maggioranza-quorum-presidenza-matone/",
+      "slug": "manovre-rai-maggioranza-quorum-presidenza-matone",
       "categoria": "Politica Nazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Oggi gli azionisti di MPS votano su fusione Mediobanca, OPS su BancoBPM e Banca Generali. Tre operazioni, miliardi in gioco, Intesa Sanpaolo in agguato. Il risiko bancario si decide a Siena. #MPS #Mediobanca",
-      "url": "https://corrispondente.filoclastos.it/2026/10/29/mps-mediobanca-assemblea-fusione-riassetto-bancario/",
-      "slug": "mps-mediobanca-assemblea-fusione-riassetto-bancario",
+      "testo": "La Cassazione chiude l'Ilva. 2.140 tonnellate di amianto negli altiforni. Trent'anni di sentenze, governi, commissari e scudi penali. Alla fine ha vinto chi abitava a Taranto. Quasi.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/30/cassazione-ilva-taranto-stop-altiforni-definitivo/",
+      "slug": "cassazione-ilva-taranto-stop-altiforni-definitivo",
       "categoria": "Economia",
-      "evidenza": false,
-      "pubblicato": true
+      "evidenza": true,
+      "pubblicato": false
     },
     {
-      "testo": "Cobolli contro Berrettini a Vienna, primo derby italiano in carriera per i due. Uno ha scalato la classifica dal basso, l'altro sta cercando la strada del ritorno. Il tennis italiano è roba seria. #Tennis #ATP",
-      "url": "https://corrispondente.filoclastos.it/2026/10/29/cobolli-berrettini-atp-vienna-derby-italiano/",
-      "slug": "cobolli-berrettini-atp-vienna-derby-italiano",
+      "testo": "Oggi l'Italia scende sul ghiaccio di Ostrava per tre incontri agli Europei di curling. Sport che richiede più strategia di qualunque consiglio di amministrazione. Copertura: quasi zero.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/30/italia-europei-curling-ostrava-2026/",
+      "slug": "italia-europei-curling-ostrava-2026",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "68 morti vicino a Toledo, tre italiane disperse. Un guasto al sistema LZB, poi un ordine «inspiegabile» di ripartire. La seconda tragedia sulla Madrid-Siviglia in meno di un anno. #Spagna #Toledo",
-      "url": "https://corrispondente.filoclastos.it/2026/10/29/strage-ferroviaria-spagna-toledo-68-morti-italiane-disperse/",
-      "slug": "strage-ferroviaria-spagna-toledo-68-morti-italiane-disperse",
+      "testo": "Sciopero generale oggi: 50 piazze, zone rosse, intelligence in piazza. Contro carovita e riarmo. Il Viminale «isola i violenti». Il governo fa finta di non sapere chi sono i precari.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/30/sciopero-generale-usb-30-ottobre-cortei-zone-rosse/",
+      "slug": "sciopero-generale-usb-30-ottobre-cortei-zone-rosse",
       "categoria": "Cronaca",
-      "evidenza": true,
-      "pubblicato": true
+      "evidenza": false,
+      "pubblicato": false
     },
     {
-      "testo": "Ricercatori di Manchester e dell'Institute for Protein Design usano l'IA per progettare enzimi che sintetizzano il lenacapavir, farmaco anti-HIV. Il migliore converte il 79% del reagente. Risultato promettente — in attesa di verifiche indipendenti. #Scienza #AI",
-      "url": "https://corrispondente.filoclastos.it/2026/10/29/enzimi-ia-farmaci-hiv-manchester-institute-protein-design/",
-      "slug": "enzimi-ia-farmaci-hiv-manchester-institute-protein-design",
+      "testo": "Vaccino mRNA contro il melanoma: -42% di recidive nello studio di fase 3. Moderna vola in borsa. La scienza avanza. Gli azionisti pure. #melanoma #mRNA",
+      "url": "https://corrispondente.filoclastos.it/2026/10/30/vaccino-mrna-melanoma-moderna-merck-42-percento-recidiva/",
+      "slug": "vaccino-mrna-melanoma-moderna-merck-42-percento-recidiva",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Google spende 51 miliardi in AI in tre mesi, brucia 9 miliardi di cassa e perde il 10% in borsa. Il futuro è qui. Il conto pure. #Google #AI #Alphabet",
-      "url": "https://corrispondente.filoclastos.it/2026/10/29/google-alphabet-calo-10-percento-ai-spesa-51-miliardi-cash-flow/",
-      "slug": "google-alphabet-calo-10-percento-ai-spesa-51-miliardi-cash-flow",
+      "testo": "Google brucia 500 miliardi di capitalizzazione in un giorno. L'AI costa più di quanto rende. Gemini ha un miliardo di utenti. Il free cash flow è negativo per la prima volta in 22 anni. Prego.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/30/alphabet-crollo-borsa-ai-margini-google-trimestrale/",
+      "slug": "alphabet-crollo-borsa-ai-margini-google-trimestrale",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Le donne fanno più prevenzione degli uomini, ma solo il 39% riesce ad affrontare tempestivamente una diagnosi complessa. Il 15% ha rinunciato alla psicoterapia per i costi. L'industria del wellness vende meditazioni. #Salute #Welfare",
-      "url": "https://corrispondente.filoclastos.it/2026/10/29/salute-femminile-prevenzione-costi-barriere-economiche/",
-      "slug": "salute-femminile-prevenzione-costi-barriere-economiche",
+      "testo": "Solo il 30% degli italiani sta bene economicamente. L'industria del benessere continua a venderci smoothie a 12 euro e abbonamenti di mindfulness. Priorità chiare.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/30/italiani-difficolta-economiche-ipsos-2026-wellness-industria/",
+      "slug": "italiani-difficolta-economiche-ipsos-2026-wellness-industria",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "«Dio Ride» di Veronesi con Favino esce oggi. Un frate del Seicento che predica un Vangelo gioioso contro la Inquisizione. Nel 2026, distribuito da PiperFilm. La Chiesa cambia, i distributori anche. #DioRide #Cinema",
-      "url": "https://corrispondente.filoclastos.it/2026/10/29/dio-ride-veronesi-favino-cinema-uscita/",
-      "slug": "dio-ride-veronesi-favino-cinema-uscita",
+      "testo": "San Siro non si chiamerà più San Siro. Si chiamerà Generali Stadium. 650 milioni, 20 anni. La storia si vende. Il Meazza si demolisce. I tifosi applaudono o protestano, ma non decidono nulla.",
+      "url": "https://corrispondente.filoclastos.it/2026/10/30/generali-stadium-nuovo-san-siro-naming-rights-650-milioni/",
+      "slug": "generali-stadium-nuovo-san-siro-naming-rights-650-milioni",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }
