@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-30",
+      "slug": "vaccino-mrna-melanoma-moderna-merck-42-percento-recidiva",
+      "categoria": "Scienza",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-30",
       "slug": "sciopero-generale-usb-30-ottobre-cortei-zone-rosse",
       "categoria": "Cronaca",
       "evidenza": false,
@@ -1431,14 +1439,6 @@
       "evidenza": true,
       "tipo_richiesta": "ContentCreateWithUrl",
       "costo_usd": 0.2
-    },
-    {
-      "data": "2026-10-09",
-      "slug": "ucraina-negoziati-miami-witkoff-kushner-pace",
-      "categoria": "Politica Internazionale",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
     }
   ]
 }
