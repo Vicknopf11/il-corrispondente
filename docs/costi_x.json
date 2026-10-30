@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-30",
+      "slug": "italiani-difficolta-economiche-ipsos-2026-wellness-industria",
+      "categoria": "Wellness",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-30",
       "slug": "alphabet-crollo-borsa-ai-margini-google-trimestrale",
       "categoria": "AI",
       "evidenza": false,
@@ -1428,14 +1436,6 @@
       "data": "2026-10-09",
       "slug": "motogp-indonesia-2026-fp1-bezzecchi-marquez-martin",
       "categoria": "Sport",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-09",
-      "slug": "ex-ilva-taranto-spegnimento-forni-sciopero",
-      "categoria": "Economia",
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
