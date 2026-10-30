@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-30",
+      "slug": "alphabet-crollo-borsa-ai-margini-google-trimestrale",
+      "categoria": "AI",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-30",
       "slug": "vaccino-mrna-melanoma-moderna-merck-42-percento-recidiva",
       "categoria": "Scienza",
       "evidenza": false,
@@ -1431,14 +1439,6 @@
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-09",
-      "slug": "melonellum-legge-elettorale-approvata-stabilicum",
-      "categoria": "Politica Nazionale",
-      "evidenza": true,
-      "tipo_richiesta": "ContentCreateWithUrl",
-      "costo_usd": 0.2
     }
   ]
 }
