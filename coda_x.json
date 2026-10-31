@@ -1,77 +1,77 @@
 {
-  "data": "2026-10-30",
+  "data": "2026-10-31",
   "tweet": [
     {
-      "testo": "Kiev smette di colpire le raffinerie russe. Ordine di Washington. Tempistica: a ridosso delle midterm. Coincidenze, sicuramente. #Ucraina #Trump",
-      "url": "https://corrispondente.filoclastos.it/2026/10/30/ucraina-sospende-attacchi-raffinerie-russia-pressione-trump/",
-      "slug": "ucraina-sospende-attacchi-raffinerie-russia-pressione-trump",
+      "testo": "Gli USA approvano 2,1 miliardi di Patriot per l'Ucraina. Consegne: «tra qualche anno». Raytheon ringrazia. Kharkiv brucia adesso. #Ucraina #Patriot",
+      "url": "https://corrispondente.filoclastos.it/2026/10/31/usa-patriot-ucraina-2-miliardi-consegne-anni/",
+      "slug": "usa-patriot-ucraina-2-miliardi-consegne-anni",
       "categoria": "Politica Internazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "La Rai aspetta un presidente da due anni. Soluzione trovata: abbassare il quorum. Con un nome già pronto. E un mandato che copre quasi tutta la prossima legislatura. Trasparenza.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/30/manovre-rai-maggioranza-quorum-presidenza-matone/",
-      "slug": "manovre-rai-maggioranza-quorum-presidenza-matone",
+      "testo": "Manovra da 26 miliardi: taglio Irpef per un anno solo, pensioni strette, banche tassate. Mattarella firma. Il Parlamento esaminerà. I cittadini pagheranno. Il calendario è già scritto. #Manovra2027",
+      "url": "https://corrispondente.filoclastos.it/2026/10/31/manovra-2027-irpef-pensioni-banche-giorgetti/",
+      "slug": "manovra-2027-irpef-pensioni-banche-giorgetti",
       "categoria": "Politica Nazionale",
-      "evidenza": false,
-      "pubblicato": true
-    },
-    {
-      "testo": "La Cassazione chiude l'Ilva. 2.140 tonnellate di amianto negli altiforni. Trent'anni di sentenze, governi, commissari e scudi penali. Alla fine ha vinto chi abitava a Taranto. Quasi.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/30/cassazione-ilva-taranto-stop-altiforni-definitivo/",
-      "slug": "cassazione-ilva-taranto-stop-altiforni-definitivo",
-      "categoria": "Economia",
       "evidenza": true,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Oggi l'Italia scende sul ghiaccio di Ostrava per tre incontri agli Europei di curling. Sport che richiede più strategia di qualunque consiglio di amministrazione. Copertura: quasi zero.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/30/italia-europei-curling-ostrava-2026/",
-      "slug": "italia-europei-curling-ostrava-2026",
+      "testo": "Inflazione al 5,4%, Pil fermo, piazze piene. Mattarella: «Tenore di vita aggredito». Il governo: «Colpa delle tensioni internazionali». Le compagnie energetiche: nessun commento. #Carovita",
+      "url": "https://corrispondente.filoclastos.it/2026/10/31/inflazione-italia-54-ottobre-2026-energia-pil-fermo/",
+      "slug": "inflazione-italia-54-ottobre-2026-energia-pil-fermo",
+      "categoria": "Economia",
+      "evidenza": false,
+      "pubblicato": false
+    },
+    {
+      "testo": "Al Nico Sapio di Genova Razzetti domina i 200 misti, Gastaldi record nei 200 farfalla, Ponti spettacolare in 49\"02. Mondiali di Pechino a dicembre. Il nuoto esiste, anche se la Gazza parla di derby. #NicoSapio2026",
+      "url": "https://corrispondente.filoclastos.it/2026/10/31/trofeo-nico-sapio-2026-razzetti-gastaldi-ponti-mondiali-pechino/",
+      "slug": "trofeo-nico-sapio-2026-razzetti-gastaldi-ponti-mondiali-pechino",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Sciopero generale oggi: 50 piazze, zone rosse, intelligence in piazza. Contro carovita e riarmo. Il Viminale «isola i violenti». Il governo fa finta di non sapere chi sono i precari.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/30/sciopero-generale-usb-30-ottobre-cortei-zone-rosse/",
-      "slug": "sciopero-generale-usb-30-ottobre-cortei-zone-rosse",
+      "testo": "CH-47 italiano precipita in Bosnia durante «addestramento di routine»: 4 morti, 11 feriti. La Procura militare apre un fascicolo. L'ipotesi è l'urto con cavi. Le domande sui tagli alla manutenzione restano senza risposta. #Bosnia",
+      "url": "https://corrispondente.filoclastos.it/2026/10/31/elicottero-militare-italiano-precipitato-bosnia-eufor-quattro-morti/",
+      "slug": "elicottero-militare-italiano-precipitato-bosnia-eufor-quattro-morti",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Vaccino mRNA contro il melanoma: -42% di recidive nello studio di fase 3. Moderna vola in borsa. La scienza avanza. Gli azionisti pure. #melanoma #mRNA",
-      "url": "https://corrispondente.filoclastos.it/2026/10/30/vaccino-mrna-melanoma-moderna-merck-42-percento-recidiva/",
-      "slug": "vaccino-mrna-melanoma-moderna-merck-42-percento-recidiva",
+      "testo": "Nobel Medicina 2026 all'optogenetica: luce che accende neuroni, possibili cure per cecità e disturbi psichiatrici. Chi finanzierà le applicazioni cliniche è già meno poetico. #Nobel2026 #Optogenetica",
+      "url": "https://corrispondente.filoclastos.it/2026/10/31/nobel-medicina-2026-optogenetica-deisseroth-hegemann-nagel/",
+      "slug": "nobel-medicina-2026-optogenetica-deisseroth-hegemann-nagel",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Google brucia 500 miliardi di capitalizzazione in un giorno. L'AI costa più di quanto rende. Gemini ha un miliardo di utenti. Il free cash flow è negativo per la prima volta in 22 anni. Prego.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/30/alphabet-crollo-borsa-ai-margini-google-trimestrale/",
-      "slug": "alphabet-crollo-borsa-ai-margini-google-trimestrale",
+      "testo": "OpenAI abbassa l'obiettivo di raccolta da 30 a 20 miliardi, valutazione da 1.400 a 1.250 miliardi. Ha già raccolto solo 11. Il Nasdaq cede il 2,86%. La bolla AI fa una piccola pausa. #OpenAI #AIbubble",
+      "url": "https://corrispondente.filoclastos.it/2026/10/31/openai-raccolta-fondi-ridotta-20-miliardi-valutazione-1250/",
+      "slug": "openai-raccolta-fondi-ridotta-20-miliardi-valutazione-1250",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Solo il 30% degli italiani sta bene economicamente. L'industria del benessere continua a venderci smoothie a 12 euro e abbonamenti di mindfulness. Priorità chiare.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/30/italiani-difficolta-economiche-ipsos-2026-wellness-industria/",
-      "slug": "italiani-difficolta-economiche-ipsos-2026-wellness-industria",
+      "testo": "I 53 paesi OMS Europa adottano «Ageing is Living» e roadmap AI in sanità. Budget quinquennale: 530 milioni, circa 10 milioni a paese. Abbastanza per un ospedale di medie dimensioni. #OMS #Longevità",
+      "url": "https://corrispondente.filoclastos.it/2026/10/31/oms-europa-ageing-living-ai-sanita-copenaghen-2026/",
+      "slug": "oms-europa-ageing-living-ai-sanita-copenaghen-2026",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "San Siro non si chiamerà più San Siro. Si chiamerà Generali Stadium. 650 milioni, 20 anni. La storia si vende. Il Meazza si demolisce. I tifosi applaudono o protestano, ma non decidono nulla.",
-      "url": "https://corrispondente.filoclastos.it/2026/10/30/generali-stadium-nuovo-san-siro-naming-rights-650-milioni/",
-      "slug": "generali-stadium-nuovo-san-siro-naming-rights-650-milioni",
+      "testo": "Rocco Tanica debutta in galleria con foto di eventi che non sono mai accaduti. Nell'era dei deepfake e dell'AI generativa, chiama l'opera «archivio». I critici la chiamano «arte». Il confine lo trovate voi. #Arte #PostVerità",
+      "url": "https://corrispondente.filoclastos.it/2026/10/31/rocco-tanica-mostra-archivi-riemersi-milano-fotografia-falso/",
+      "slug": "rocco-tanica-mostra-archivi-riemersi-milano-fotografia-falso",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }
