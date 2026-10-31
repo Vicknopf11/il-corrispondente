@@ -1,22 +1,6 @@
 {
-  "generato": "2026-10-31T12:31:02.588256+00:00",
+  "generato": "2026-10-31T18:30:59.660918+00:00",
   "item": [
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "È boom della raffa giovanile: 60 squadre al via! Dalle bocciofile di provincia all'Europa",
-      "link": "https://www.gazzetta.it/bocce/30-10-2026/bocce-il-boom-della-raffa-giovanile-60-squadre-al-via.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-10-30"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Tour de Ski e Marcialonga: tutto quello che c'è da sapere sulla stagione in Val di Fiemme",
-      "link": "https://www.gazzetta.it/Sport-Invernali/28-10-2026/tour-de-ski-marcialonga-stagione-val-di-fiemme.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-10-28"
-    },
     {
       "sottocategoria": "Atletica",
       "tipo": "notizia",
@@ -41,6 +25,22 @@
       "fonte": "Gazzetta — Paralimpici",
       "data_evento": "2026-10-27",
       "paralimpico": true
+    },
+    {
+      "sottocategoria": "Squadra",
+      "tipo": "notizia",
+      "titolo": "Willis, fenomeno inglese che non può giocare in nazionale: \"Perché Kane e Bellingham sì e lui no?\"",
+      "link": "https://www.gazzetta.it/Rugby/30-10-2026/jack-willis-fenomeno-inglese-che-non-puo-giocare-in-nazionale.shtml",
+      "fonte": "Gazzetta — Rugby",
+      "data_evento": "2026-10-30"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Carabelli abbandona il campo all'improvviso e l'avversario... festeggia! Ecco perché",
+      "link": "https://video.gazzetta.it/tennis/atp/highlights/video-abbandona-il-campo-all-improvviso-e-l-avversario-festeggia-ecco-perche/d045cc62-7327-4475-8054-585cb2180xlk",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-10-31"
     }
   ]
 }
