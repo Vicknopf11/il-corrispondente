@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-31",
+      "slug": "trofeo-nico-sapio-2026-razzetti-gastaldi-ponti-mondiali-pechino",
+      "categoria": "Sport",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-31",
       "slug": "inflazione-italia-54-ottobre-2026-energia-pil-fermo",
       "categoria": "Economia",
       "evidenza": false,
@@ -1428,14 +1436,6 @@
       "data": "2026-10-09",
       "slug": "the-social-reckoning-sorkin-facebook-film-2026",
       "categoria": "Cultura",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-09",
-      "slug": "senza-glutine-mercato-400-milioni-non-celiaci-prezzi",
-      "categoria": "Wellness",
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
