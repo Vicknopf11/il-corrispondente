@@ -1,19 +1,35 @@
 {
-  "generato": "2026-10-31T06:31:02.471513+00:00",
+  "generato": "2026-10-31T12:31:02.588256+00:00",
   "item": [
     {
-      "sottocategoria": "Combattimento",
+      "sottocategoria": "Mente e nicchia",
       "tipo": "notizia",
-      "titolo": "Mike McCallum e quei treni che non fischiavano: perché nessuno voleva sfidare \"Body Snatcher\"",
-      "link": "https://www.gazzetta.it/Sport-Vari/28-10-2026/mike-mccallum-la-leggenda-giamaicana-della-boxe-che-nessuno-voleva-sfidare.shtml",
-      "fonte": "Gazzetta — Sport Vari",
+      "titolo": "È boom della raffa giovanile: 60 squadre al via! Dalle bocciofile di provincia all'Europa",
+      "link": "https://www.gazzetta.it/bocce/30-10-2026/bocce-il-boom-della-raffa-giovanile-60-squadre-al-via.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-10-30"
+    },
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Tour de Ski e Marcialonga: tutto quello che c'è da sapere sulla stagione in Val di Fiemme",
+      "link": "https://www.gazzetta.it/Sport-Invernali/28-10-2026/tour-de-ski-marcialonga-stagione-val-di-fiemme.shtml",
+      "fonte": "Gazzetta — Sport Invernali",
       "data_evento": "2026-10-28"
     },
     {
       "sottocategoria": "Atletica",
       "tipo": "notizia",
-      "titolo": "World Series, Tampa Bay c'è! I Rays superano Milwaukee (agli extra inning) e allungano la serie",
-      "link": "https://www.gazzetta.it/Sport-Usa/28-10-2026/mlb-world-series-tampa-bay-c-e-i-rays-superano-milwaukee-e-allungano-la-serie.shtml",
+      "titolo": "Maratona di New York da Pizzolato a Leone: la storia siamo noi (italiani)",
+      "link": "https://www.gazzetta.it/Sport-Vari/31-10-2026/maratona-di-new-york-da-pizzolato-a-leone-la-storia-siamo-noi-italiani.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-10-31"
+    },
+    {
+      "sottocategoria": "Combattimento",
+      "tipo": "notizia",
+      "titolo": "Mike McCallum e quei treni che non fischiavano: perché nessuno voleva sfidare \"Body Snatcher\"",
+      "link": "https://www.gazzetta.it/Sport-Vari/28-10-2026/mike-mccallum-la-leggenda-giamaicana-della-boxe-che-nessuno-voleva-sfidare.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-10-28"
     },
@@ -25,22 +41,6 @@
       "fonte": "Gazzetta — Paralimpici",
       "data_evento": "2026-10-27",
       "paralimpico": true
-    },
-    {
-      "sottocategoria": "Squadra",
-      "tipo": "notizia",
-      "titolo": "Willis, fenomeno inglese che non può giocare in nazionale: \"Perché Kane e Bellingham sì e lui no?\"",
-      "link": "https://www.gazzetta.it/Rugby/30-10-2026/jack-willis-fenomeno-inglese-che-non-puo-giocare-in-nazionale.shtml",
-      "fonte": "Gazzetta — Rugby",
-      "data_evento": "2026-10-30"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Atp Vienna, Berrettini-De Minaur highlights: Matteo si arrende all'australiano",
-      "link": "https://video.gazzetta.it/tennis/atp/highlights/video-berrettini-de-minaur-highlights-passante-lungolinea-pazzesco-dell-azzurro/4ec77731-2f78-446c-bdb9-72391cb2axlk",
-      "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-10-30"
     }
   ]
 }
