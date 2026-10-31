@@ -1,5 +1,5 @@
 {
-  "generato": "2026-10-30T18:31:06.305265+00:00",
+  "generato": "2026-10-31T06:31:02.471513+00:00",
   "item": [
     {
       "sottocategoria": "Combattimento",
@@ -27,19 +27,19 @@
       "paralimpico": true
     },
     {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Anastasia tricolore di completo, un'altra Chechi d'oro. \"Da papà ho preso il perfezionismo\"",
-      "link": "https://www.gazzetta.it/Sport-Vari/25-10-2026/equitazione-anastasia-chechi-vince-i-campionati-italiani-di-concorso-completo.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-10-25"
-    },
-    {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
       "titolo": "Willis, fenomeno inglese che non può giocare in nazionale: \"Perché Kane e Bellingham sì e lui no?\"",
       "link": "https://www.gazzetta.it/Rugby/30-10-2026/jack-willis-fenomeno-inglese-che-non-puo-giocare-in-nazionale.shtml",
       "fonte": "Gazzetta — Rugby",
+      "data_evento": "2026-10-30"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Atp Vienna, Berrettini-De Minaur highlights: Matteo si arrende all'australiano",
+      "link": "https://video.gazzetta.it/tennis/atp/highlights/video-berrettini-de-minaur-highlights-passante-lungolinea-pazzesco-dell-azzurro/4ec77731-2f78-446c-bdb9-72391cb2axlk",
+      "fonte": "Gazzetta — Tennis",
       "data_evento": "2026-10-30"
     }
   ]
