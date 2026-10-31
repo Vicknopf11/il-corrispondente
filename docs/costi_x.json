@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-10-31",
+      "slug": "oms-europa-ageing-living-ai-sanita-copenaghen-2026",
+      "categoria": "Wellness",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-10-31",
       "slug": "openai-raccolta-fondi-ridotta-20-miliardi-valutazione-1250",
       "categoria": "AI",
       "evidenza": false,
@@ -1428,14 +1436,6 @@
       "data": "2026-10-10",
       "slug": "giro-di-lombardia-2026-senza-pogacar-evenepoel-ciccone",
       "categoria": "Sport",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-10",
-      "slug": "ex-ilva-stop-area-caldo-taranto-sciopero",
-      "categoria": "Economia",
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
