@@ -1,6 +1,14 @@
 {
   "pubblicazioni": [
     {
+      "data": "2026-11-01",
+      "slug": "trump-minaccia-iran-10-minuti-midterm",
+      "categoria": "Politica Internazionale",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
       "data": "2026-10-31",
       "slug": "rocco-tanica-mostra-archivi-riemersi-milano-fotografia-falso",
       "categoria": "Cultura",
@@ -1428,14 +1436,6 @@
       "data": "2026-10-10",
       "slug": "nobel-chimica-2026-kagan-soai-sintesi-asimmetrica",
       "categoria": "Scienza",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-10",
-      "slug": "caivano-operaio-morto-lavoro-nero-datore-arrestato",
-      "categoria": "Cronaca",
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
