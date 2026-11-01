@@ -1,77 +1,77 @@
 {
-  "data": "2026-10-31",
+  "data": "2026-11-01",
   "tweet": [
     {
-      "testo": "Gli USA approvano 2,1 miliardi di Patriot per l'Ucraina. Consegne: «tra qualche anno». Raytheon ringrazia. Kharkiv brucia adesso. #Ucraina #Patriot",
-      "url": "https://corrispondente.filoclastos.it/2026/10/31/usa-patriot-ucraina-2-miliardi-consegne-anni/",
-      "slug": "usa-patriot-ucraina-2-miliardi-consegne-anni",
+      "testo": "Trump: «Abbiamo un paio di siti iraniani da colpire, bastano 10 minuti». A 48 ore dal midterm. Coincidenze: zero. Contractors: in attesa. #Iran #Midterm",
+      "url": "https://corrispondente.filoclastos.it/2026/11/01/trump-minaccia-iran-10-minuti-midterm/",
+      "slug": "trump-minaccia-iran-10-minuti-midterm",
       "categoria": "Politica Internazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Manovra da 26 miliardi: taglio Irpef per un anno solo, pensioni strette, banche tassate. Mattarella firma. Il Parlamento esaminerà. I cittadini pagheranno. Il calendario è già scritto. #Manovra2027",
-      "url": "https://corrispondente.filoclastos.it/2026/10/31/manovra-2027-irpef-pensioni-banche-giorgetti/",
-      "slug": "manovra-2027-irpef-pensioni-banche-giorgetti",
+      "testo": "Mattarella firma la manovra: 3 miliardi tolti alle pensioni, 7mila cattedre in meno. Nel frattempo in piazza c'erano 255mila persone. Governare vuol dire scegliere. Scegliere vuol dire non dirlo. #Manovra2027",
+      "url": "https://corrispondente.filoclastos.it/2026/11/01/manovra-2027-mattarella-firma-pensioni-scuola/",
+      "slug": "manovra-2027-mattarella-firma-pensioni-scuola",
       "categoria": "Politica Nazionale",
       "evidenza": true,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Inflazione al 5,4%, Pil fermo, piazze piene. Mattarella: «Tenore di vita aggredito». Il governo: «Colpa delle tensioni internazionali». Le compagnie energetiche: nessun commento. #Carovita",
-      "url": "https://corrispondente.filoclastos.it/2026/10/31/inflazione-italia-54-ottobre-2026-energia-pil-fermo/",
-      "slug": "inflazione-italia-54-ottobre-2026-energia-pil-fermo",
+      "testo": "La Cassazione ha detto no: Acciaierie d'Italia spegne l'area a caldo di Taranto. Fine dell'ex Ilva. Trent'anni di veleni, promesse, commissari e miliardi pubblici. Chi ha guadagnato? Non Taranto. #ExIlva",
+      "url": "https://corrispondente.filoclastos.it/2026/11/01/acciaierie-taranto-spegnimento-area-calda-cassazione/",
+      "slug": "acciaierie-taranto-spegnimento-area-calda-cassazione",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Al Nico Sapio di Genova Razzetti domina i 200 misti, Gastaldi record nei 200 farfalla, Ponti spettacolare in 49\"02. Mondiali di Pechino a dicembre. Il nuoto esiste, anche se la Gazza parla di derby. #NicoSapio2026",
-      "url": "https://corrispondente.filoclastos.it/2026/10/31/trofeo-nico-sapio-2026-razzetti-gastaldi-ponti-mondiali-pechino/",
-      "slug": "trofeo-nico-sapio-2026-razzetti-gastaldi-ponti-mondiali-pechino",
+      "testo": "A Dakar si assegnano le prime medaglie olimpiche giovanili. 46 azzurrini in gara — quasi la metà rispetto a Buenos Aires 2018. La prima Olimpiade africana della storia. I giornali italiani: nessuno spazio. #Dakar2026 #YouthOlympics",
+      "url": "https://corrispondente.filoclastos.it/2026/11/01/olimpiadi-giovanili-dakar-2026-prime-medaglie-italiani/",
+      "slug": "olimpiadi-giovanili-dakar-2026-prime-medaglie-italiani",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "CH-47 italiano precipita in Bosnia durante «addestramento di routine»: 4 morti, 11 feriti. La Procura militare apre un fascicolo. L'ipotesi è l'urto con cavi. Le domande sui tagli alla manutenzione restano senza risposta. #Bosnia",
-      "url": "https://corrispondente.filoclastos.it/2026/10/31/elicottero-militare-italiano-precipitato-bosnia-eufor-quattro-morti/",
-      "slug": "elicottero-militare-italiano-precipitato-bosnia-eufor-quattro-morti",
+      "testo": "60 perquisizioni in 23 città dopo i cortei. Sequestrate: armi finte e cellulari. Il ministro Piantedosi: «Vanno isolati». La CGIA stima 1 miliardo di costo-Paese. Nessuno stima il costo del carovita. #Proteste #Piantedosi",
+      "url": "https://corrispondente.filoclastos.it/2026/11/01/scontri-cortei-carovita-perquisizioni-23-citta/",
+      "slug": "scontri-cortei-carovita-perquisizioni-23-citta",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Nobel Medicina 2026 all'optogenetica: luce che accende neuroni, possibili cure per cecità e disturbi psichiatrici. Chi finanzierà le applicazioni cliniche è già meno poetico. #Nobel2026 #Optogenetica",
-      "url": "https://corrispondente.filoclastos.it/2026/10/31/nobel-medicina-2026-optogenetica-deisseroth-hegemann-nagel/",
-      "slug": "nobel-medicina-2026-optogenetica-deisseroth-hegemann-nagel",
+      "testo": "Un neutrino pesante ignorato per decenni potrebbe spiegare perché esiste la materia (e quindi noi). Studio su Physical Review Letters. Il titolo vero della scoperta: «Avevamo perso un dettaglio da miliardi di anni». #Fisica #Neutrino",
+      "url": "https://corrispondente.filoclastos.it/2026/11/01/neutrino-dimenticato-origine-universo-big-bang/",
+      "slug": "neutrino-dimenticato-origine-universo-big-bang",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "OpenAI abbassa l'obiettivo di raccolta da 30 a 20 miliardi, valutazione da 1.400 a 1.250 miliardi. Ha già raccolto solo 11. Il Nasdaq cede il 2,86%. La bolla AI fa una piccola pausa. #OpenAI #AIbubble",
-      "url": "https://corrispondente.filoclastos.it/2026/10/31/openai-raccolta-fondi-ridotta-20-miliardi-valutazione-1250/",
-      "slug": "openai-raccolta-fondi-ridotta-20-miliardi-valutazione-1250",
+      "testo": "Spotify prepara un servizio AI per remixare canzoni altrui: costo extra stimato 4-5 dollari al mese. Gli artisti possono «optare fuori». Benvenuti nell'economia del permesso creativo a noleggio. #Spotify #AI #Musica",
+      "url": "https://corrispondente.filoclastos.it/2026/11/01/spotify-remix-ai-pagamento-2027/",
+      "slug": "spotify-remix-ai-pagamento-2027",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "I 53 paesi OMS Europa adottano «Ageing is Living» e roadmap AI in sanità. Budget quinquennale: 530 milioni, circa 10 milioni a paese. Abbastanza per un ospedale di medie dimensioni. #OMS #Longevità",
-      "url": "https://corrispondente.filoclastos.it/2026/10/31/oms-europa-ageing-living-ai-sanita-copenaghen-2026/",
-      "slug": "oms-europa-ageing-living-ai-sanita-copenaghen-2026",
+      "testo": "Parte Movember: un mese di baffi per la salute maschile. Prevenzione reale, salute mentale, urologici gratuiti. E sì, anche molto marketing. La domanda: quanto dei fondi raccolti arriva davvero alla ricerca? #Movember #SaluteMaschile",
+      "url": "https://corrispondente.filoclastos.it/2026/11/01/movember-2026-salute-maschile-prevenzione/",
+      "slug": "movember-2026-salute-maschile-prevenzione",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Rocco Tanica debutta in galleria con foto di eventi che non sono mai accaduti. Nell'era dei deepfake e dell'AI generativa, chiama l'opera «archivio». I critici la chiamano «arte». Il confine lo trovate voi. #Arte #PostVerità",
-      "url": "https://corrispondente.filoclastos.it/2026/10/31/rocco-tanica-mostra-archivi-riemersi-milano-fotografia-falso/",
-      "slug": "rocco-tanica-mostra-archivi-riemersi-milano-fotografia-falso",
+      "testo": "«Je so' pazzo» ancora in classifica dopo due settimane. 442mila presenze totali. Pino Daniele torna a vendere biglietti molto dopo la sua morte. Chi ha i diritti delle canzoni in colonna sonora ci sta guadagnando bene. #JeSoPazzo #PinoDaniele #Cinema",
+      "url": "https://corrispondente.filoclastos.it/2026/11/01/je-so-pazzo-pino-daniele-box-office-classifica/",
+      "slug": "je-so-pazzo-pino-daniele-box-office-classifica",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }
