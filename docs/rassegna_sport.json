@@ -1,37 +1,13 @@
 {
-  "generato": "2026-11-01T12:30:58.699733+00:00",
+  "generato": "2026-11-01T18:31:03.779295+00:00",
   "item": [
-    {
-      "sottocategoria": "Calcio femminile",
-      "tipo": "notizia",
-      "titolo": "Rugby femminile: l'Australia travolge 124-6 il Galles, è nuovo record",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/01/rugby-femminile-laustralia-travolge-124-6-il-galles-e-nuovo-record_6178c7cb-7667-46d0-8544-75a9c793cb0f.html",
-      "fonte": "ANSA Sport",
-      "data_evento": "2026-11-01"
-    },
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "È boom della raffa giovanile: 60 squadre al via! Dalle bocciofile di provincia all'Europa",
-      "link": "https://www.gazzetta.it/bocce/30-10-2026/bocce-il-boom-della-raffa-giovanile-60-squadre-al-via.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-10-30"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Italia del curling al veleno: azzurre ko all'Europeo e il team Constantini, che non c'è, le sfotte sui social",
-      "link": "https://www.gazzetta.it/Sport-Invernali/31-10-2026/curling-azzurre-ko-all-europeo-il-team-constantini-ironizza-sui-social-contro-zardini.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-10-31"
-    },
     {
       "sottocategoria": "Atletica",
       "tipo": "notizia",
-      "titolo": "Maratona di New York da Pizzolato a Leone: la storia siamo noi (italiani)",
-      "link": "https://www.gazzetta.it/Sport-Vari/31-10-2026/maratona-di-new-york-da-pizzolato-a-leone-la-storia-siamo-noi-italiani.shtml",
+      "titolo": "Martin è solo l'ultimo: da Tamberi a Biles quando il corpo dice basta ai campioni",
+      "link": "https://www.gazzetta.it/Tennis/ATP/storie/01-11-2026/quando-il-fisico-tradisce-i-campioni-da-tamberi-a-biles/la-rinuncia-di-martin.shtml",
       "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-10-31"
+      "data_evento": "2026-11-01"
     },
     {
       "sottocategoria": "Combattimento",
@@ -40,6 +16,30 @@
       "link": "https://www.gazzetta.it/Sport-Vari/28-10-2026/mike-mccallum-la-leggenda-giamaicana-della-boxe-che-nessuno-voleva-sfidare.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-10-28"
+    },
+    {
+      "sottocategoria": "Acqua",
+      "tipo": "notizia",
+      "titolo": "Clapcich: \"Nella Route du Rhum con un pupazzetto di mia figlia, porto la cultura Lgbtq+ nel mondo\"",
+      "link": "https://www.gazzetta.it/vela/01-11-2026/francesca-clapcich-intervista-nella-route-du-rhum-con-un-pupazzetto-di-mia-figlia.shtml",
+      "fonte": "Gazzetta — Vela e Nautica",
+      "data_evento": "2026-11-01"
+    },
+    {
+      "sottocategoria": "Squadra",
+      "tipo": "notizia",
+      "titolo": "Willis, fenomeno inglese che non può giocare in nazionale: \"Perché Kane e Bellingham sì e lui no?\"",
+      "link": "https://www.gazzetta.it/Rugby/30-10-2026/jack-willis-fenomeno-inglese-che-non-puo-giocare-in-nazionale.shtml",
+      "fonte": "Gazzetta — Rugby",
+      "data_evento": "2026-10-30"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Alcaraz-De Minaur, Atp Vienna highlights: la prestazione dello spagnolo è impeccabile",
+      "link": "https://video.gazzetta.it/tennis/atp/highlights/video-alcaraz-de-minaur-atp-vienna-highlights-che-prestazione-dello-spagnolo/8b960c83-a987-4fdb-ae0d-09f1ebf4cxlk",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-11-01"
     }
   ]
 }
