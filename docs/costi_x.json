@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-01",
+      "slug": "scontri-cortei-carovita-perquisizioni-23-citta",
+      "categoria": "Cronaca",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-01",
       "slug": "olimpiadi-giovanili-dakar-2026-prime-medaglie-italiani",
       "categoria": "Sport",
       "evidenza": false,
@@ -1431,14 +1439,6 @@
       "evidenza": true,
       "tipo_richiesta": "ContentCreateWithUrl",
       "costo_usd": 0.2
-    },
-    {
-      "data": "2026-10-10",
-      "slug": "festa-cinema-roma-2026-javier-bardem-autunno-culturale",
-      "categoria": "Cultura",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
     }
   ]
 }
