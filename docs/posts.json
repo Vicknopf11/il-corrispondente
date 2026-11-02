@@ -1,6 +1,192 @@
 {
   "edizioni": [
     {
+      "data": "2026-11-02",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Midterm USA: Trump minaccia il veto, i democratici sognano il Congresso",
+          "slug": "midterm-usa-trump-veto-democratici-congresso",
+          "tag": [
+            "usa",
+            "midterm",
+            "trump",
+            "elezioni"
+          ],
+          "evidenza": false,
+          "fonte": "Corriere della Sera / focusamerica.it",
+          "cerca_url": "https://www.google.com/search?q=midterm+USA+2026+Trump+veto+democratici",
+          "post_x": "Trump promette il veto se perde il Congresso. I democratici sognano già la rivincita. Nel mezzo, 5.000 dollari promessi a ogni americano adulto. Il solito teatro, con la solita platea che applaude senza chiedersi chi paga il biglietto.",
+          "post_sito": "A 24 ore dal voto di metà mandato, Donald Trump annuncia che diventerà «Mr Veto» in caso di sconfitta repubblicana — e promette 5.000 dollari a ogni americano adulto se la sua parte vince. L'ultimo sondaggio NBC dà i democratici avanti 52% a 45%: panico alla Casa Bianca, scrivono i cronisti, come se la Casa Bianca non fosse abituata a governare con un Congresso ostile. Il meccanismo del villain di comodo è già in moto: si parla di Trump contro i democratici, raramente di chi finanzia le campagne di entrambi — fondi speculativi, lobby farmaceutiche, industria della difesa — che vince comunque, qualunque sia il risultato. Nel frattempo, una deputata democratica del Michigan ha ritirato il sostegno al candidato del suo partito per appoggiare il repubblicano, in un episodio che dice più sulla frammentazione reale del bipartitismo americano di qualsiasi sondaggio. Il vero spettacolo non è chi vince: è scoprire chi ha scritto il copione.",
+          "editoriale": false,
+          "redattore": "Il Corrispondente Estero 1.0"
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Manovra 2027: scontro su magistrati, medici e insegnanti, iter alla Camera",
+          "slug": "manovra-2027-scontro-magistrati-medici-insegnanti",
+          "tag": [
+            "manovra",
+            "magistratura",
+            "sanita",
+            "scuola"
+          ],
+          "evidenza": true,
+          "fonte": "Il Fatto Quotidiano / Sky TG24",
+          "cerca_url": "https://www.google.com/search?q=manovra+2027+magistrati+medici+insegnanti+Camera",
+          "post_x": "La manovra arriva alla Camera: tagli ai docenti, stretta sugli stipendi dei magistrati, sanità con 3,4 mld in più (le Regioni ne chiedevano 6,8). Il governo chiama tutto «record». L'ANM chiama tutto altro. Il contribuente guarda e tace.",
+          "post_sito": "Da oggi inizia l'iter parlamentare della legge di Bilancio 2027: sul tavolo ci sono tagli a oltre 5.000 docenti e personale ATA, una modifica al meccanismo di adeguamento automatico degli stipendi di magistrati e avvocati dello Stato, e un aumento del Fondo sanitario nazionale di 3,4 miliardi — che porta il totale a 146,3 miliardi — a fronte di una richiesta delle Regioni di almeno 6,8 miliardi. Il governo presenta i 3,4 miliardi come «un altro record»; chi li chiede li chiama insufficienti. Intanto la Caritas avverte che la manovra rischia di spingere le fasce più deboli verso il privato, mentre l'Associazione nazionale magistrati mette in guardia: tagliare gli stipendi delle toghe, dice, mette a rischio l'indipendenza della giurisdizione. Il meccanismo dell'eufemismo di potere è in piena efficienza: ciò che viene chiamato «riordino» e «razionalizzazione» si traduce, per chi ci lavora, in meno soldi. Il mandante invisibile di questa manovra sono i vincoli imposti dal Patto di stabilità europeo — ma è più comodo litigare sui singoli tagli che nominare Bruxelles.",
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La versione del governo",
+              "testo": "Il governo ha approvato la manovra con una dotazione complessiva di circa 26 miliardi di euro per il 2027. Sul fronte sanitario, l'aumento di 3,4 miliardi al Fondo sanitario nazionale — sommato a 1,6 miliardi per il voucher da 300 euro destinato agli over 75 con pensione fino a 28mila euro — porta a 5 miliardi le risorse totali per la salute. La premier Meloni ha definito il risultato «un altro record». L'articolo 67 che modifica il meccanismo di adeguamento degli stipendi delle toghe viene presentato come un intervento di razionalizzazione contabile, non come una riduzione delle retribuzioni."
+            },
+            {
+              "etichetta": "Chi protesta",
+              "testo": "I sindacati, la Caritas e Cgil contestano i tagli ai docenti e al personale ATA, stimati in oltre 5.000 unità, e la stretta sulle retribuzioni nel pubblico impiego. L'Associazione nazionale magistrati ha avvertito che la modifica al sistema di indicizzazione degli stipendi delle toghe potrebbe compromettere l'indipendenza della magistratura. Le Regioni denunciano che i 3,4 miliardi aggiuntivi alla sanità coprono meno della metà dei 6,8 miliardi richiesti per mantenere i livelli di servizio attuali."
+            },
+            {
+              "etichetta": "Il nodo delle coperture",
+              "testo": "Circa 12 miliardi di copertura derivano dalla flessibilità concessa dall'Unione Europea tramite le clausole di salvaguardia nazionali; 5,5 miliardi provengono da banche, assicurazioni e dall'aumento della Tobin Tax sulle transazioni finanziarie. Il settore dei giochi contribuisce con 700 milioni. I tagli alle spese dei ministeri valgono circa un miliardo. La dipendenza dalle clausole europee pone un interrogativo sulla sostenibilità delle misure se il quadro macroeconomico dovesse peggiorare."
+            },
+            {
+              "etichetta": "Il nodo legale sulla magistratura",
+              "testo": "La modifica al calcolo degli adeguamenti automatici degli stipendi di magistrati e avvocati dello Stato, introdotta dall'articolo 67 con decorrenza 2027, è al centro di un dibattito costituzionale. L'ANM sostiene che la tutela delle retribuzioni dei giudici è condizione per la salvaguardia dell'indipendenza della giurisdizione, principio sancito dalla Costituzione. Il governo replica che si tratta di un intervento tecnico, non di una riduzione nominale degli stipendi. Il merito della questione dovrà essere valutato dalle commissioni parlamentari e, in caso di ricorso, dalla Corte costituzionale."
+            }
+          ],
+          "implicazioni": "L'iter parlamentare della manovra dovrà concludersi entro fine dicembre. Le tensioni con la magistratura e i sindacati potrebbero tradursi in emendamenti correttivi — già Tajani ha fissato un incontro con la CISL — ma anche in scioperi e azioni legali. Sul fronte sanitario, l'insufficienza delle risorse rispetto alle richieste delle Regioni potrebbe accelerare il ricorso a prestazioni a pagamento in alcune aree del Paese, con effetti concreti sulle liste d'attesa.",
+          "redattore": "Il Bastian Contrario 1.0"
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Petrolio in calo, borse europee in rialzo: mercati attendono midterm e risultati Apple",
+          "slug": "petrolio-calo-borse-europee-midterm-apple-trimestrali",
+          "tag": [
+            "petrolio",
+            "borse",
+            "apple",
+            "midterm"
+          ],
+          "evidenza": false,
+          "fonte": "Milano Finanza / Borse.it",
+          "cerca_url": "https://www.google.com/search?q=petrolio+calo+borse+europee+2+novembre+2026",
+          "post_x": "Petrolio -2,8% perché Trump vuole trattare con l'Iran. Borse europee su. Apple stasera pubblica i conti. I mercati ballano al ritmo della geopolitica, come sempre. Chi ci guadagna dall'oscillazione lo sa già da venerdì.",
+          "post_sito": "Il prezzo del petrolio scende di circa il 2,8% dopo la notizia che Trump preferisce la strada diplomatica con l'Iran, almeno fino a dopo il voto di domani. Le borse europee aprono in rialzo — future sull'Eurostoxx50 a +0,23% — mentre i futures americani salgono, offrendo sollievo dopo i forti ribassi della scorsa settimana, in buona parte causati dai risultati deludenti di Amazon e Intel. Il beneficio taciuto di questa giornata è tutto nel mercato delle opzioni: ogni oscillazione geopolitica è un'opportunità di guadagno per i fondi che shortano o comprano petrolio e titoli energetici nelle ore precedenti all'annuncio. L'inflazione percepita dagli italiani nel frattempo viaggia al 13,3%, secondo Il Sole 24 Ore, contro il 5,4% rilevato dall'Istat: un divario che racconta meglio di qualsiasi PMI manifatturiero a che punto siamo con il potere d'acquisto reale. Stasera tocca ad Apple: i mercati aspettano i trimestrali come un verdetto, dimenticando che il titolo sconta già le stime da mesi.",
+          "editoriale": false,
+          "redattore": "L'Analista 1.0"
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Kimi Antonelli campione del mondo di Formula 1 a 20 anni",
+          "slug": "kimi-antonelli-campione-mondo-formula1-20-anni",
+          "tag": [
+            "formula1",
+            "antonelli",
+            "mercedes",
+            "motorsport"
+          ],
+          "evidenza": false,
+          "fonte": "Sportmediaset / Sky TG24",
+          "cerca_url": "https://www.google.com/search?q=Kimi+Antonelli+campione+mondo+Formula+1+2026",
+          "post_x": "Kimi Antonelli campione del mondo a 20 anni. Il più giovane di sempre. L'ultimo italiano era Ascari nel 1953. Terzo in gara, primo nel Mondiale. Domani si torna a parlare d'altro, ma per un momento il paddock ha parlato italiano.",
+          "post_sito": "Andrea Kimi Antonelli, pilota bolognese della Mercedes, ha conquistato matematicamente il titolo mondiale di Formula 1 al Gran Premio del Messico, chiudendo la gara al terzo posto dietro alla Red Bull di Max Verstappen e alla Ferrari di Lewis Hamilton. A 20 anni è il campione più giovane nella storia della categoria, e il primo italiano a vincere il titolo dai tempi di Alberto Ascari nel 1953: settantatré anni di attesa. La Mercedes porta a casa un costruttori che si aggiunge a un curriculum già pesante; meno visibile, ma concreto, il conto dietro la medaglia: il contratto di Antonelli è stato sottoscritto dalla casa di Stoccarda quando aveva sedici anni, un modello di investimento precoce sui talenti che ridisegna il mercato del motorsport e solleva domande serie sulla tutela dei giovani atleti nelle trattative con le grandi scuderie. Per oggi, però, Kimi piange sul podio e l'Italia festeggia. Il resto può aspettare.",
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0"
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Blitz nazionale contro le baby gang: 575 arresti, 69 minorenni",
+          "slug": "blitz-baby-gang-575-arresti-minorenni",
+          "tag": [
+            "baby-gang",
+            "criminalita-giovanile",
+            "polizia",
+            "minori"
+          ],
+          "evidenza": false,
+          "fonte": "Adnkronos / ANSA",
+          "cerca_url": "https://www.google.com/search?q=blitz+baby+gang+575+arresti+minorenni+2+novembre+2026",
+          "post_x": "575 arresti in tutta Italia contro le baby gang, 69 dei quali minorenni. Sequestrate 28 armi da fuoco e oltre 269mila euro in contanti. Operazione spettacolare. La domanda che nessuno fa: come ci sono arrivati, a vent'anni, con una pistola in mano?",
+          "post_sito": "Una vasta operazione coordinata dalle Questure italiane ha portato a 575 arresti — di cui 69 minorenni — e 1.695 giovani denunciati, tra cui 373 minori. Nel corso delle perquisizioni sono state sequestrate 28 armi da fuoco, 210 armi bianche, 69,4 chili di cocaina e oltre 269mila euro in contanti. Controllate 299 abitazioni, 365 sale giochi, quasi 900 esercizi commerciali e 1.149 luoghi di aggregazione giovanile. Il blitz è reale, i dati sono verificati. Quello che il comunicato istituzionale non dice è altrettanto reale: la causa strutturale rimossa da questa narrazione è la desertificazione dei servizi educativi e sociali nei quartieri periferici, i tagli ai centri di aggregazione giovanile degli ultimi quindici anni, l'assenza di prospettive lavorative concrete per chi è cresciuto senza reti. Arrestare i ragazzi è necessario quando commettono reati gravi. Chiamarlo «soluzione» è un'altra cosa.",
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0"
+        },
+        {
+          "categoria": "Scienza",
+          "titolo": "Nectome: conservare il cervello dopo la morte per 250.000 dollari, «senza garanzie»",
+          "slug": "nectome-conservazione-cervello-morte-250000-dollari",
+          "tag": [
+            "nectome",
+            "neuroscienze",
+            "immortalita",
+            "startup"
+          ],
+          "evidenza": false,
+          "fonte": "Giornale Tecnologico / futuroprossimo.it",
+          "cerca_url": "https://www.google.com/search?q=Nectome+conservazione+cervello+250000+dollari+2026",
+          "post_x": "Nectome offre la conservazione del cervello dopo la morte per 250.000 dollari. Garanzie di riuscita: nessuna. Garanzie che qualcuno troverà l'affare della vita nella paura della morte altrui: molte.",
+          "post_sito": "La startup statunitense Nectome ha annunciato nel 2026 un servizio di conservazione post-mortem del corpo e del cervello al prezzo di 250.000 dollari, con l'obiettivo dichiarato di affidare alla medicina del futuro il compito di «ricostruire una persona». La tecnologia utilizza sostanze chimiche e basse temperature per mantenere la struttura microscopica dei tessuti cerebrali; il protocollo è compatibile con la morte assistita, ed è stato testato su maiali. Nessuno sa ancora se ricordi, identità e coscienza siano effettivamente codificati nel connectoma in modo da poter essere recuperati — e i neuroscienziati stimano che la tecnologia necessaria potrebbe non essere disponibile prima del 2125. Il beneficio taciuto è evidente: Nectome vende speranza a chi ha i mezzi per acquistarla, trasformando l'angoscia della mortalità in un prodotto finanziario. Chi non può permettersi 250.000 dollari resterà semplicemente morto nel modo tradizionale. La domanda che la scienza dovrebbe porsi non è «può funzionare?» ma «chi decide chi merita una seconda possibilità?».",
+          "editoriale": false,
+          "redattore": "Il Metodico 1.0"
+        },
+        {
+          "categoria": "AI",
+          "titolo": "Musk pubblica il primo episodio dell'«Odissea» generata da Grok: 7 minuti, nessun lungometraggio in vista",
+          "slug": "musk-grok-odissea-ai-primo-episodio-7-minuti",
+          "tag": [
+            "grok",
+            "musk",
+            "ai-generativa",
+            "cinema"
+          ],
+          "evidenza": false,
+          "fonte": "Variety / Fastweb Plus",
+          "cerca_url": "https://www.google.com/search?q=Grok+Musk+Odissea+AI+primo+episodio+2026",
+          "post_x": "Musk prometteva un film completo dell'Odissea generato dall'IA entro fine 2026. È uscito un episodio di 7 minuti. Le recensioni parlano di «narrazione incoerente» e «cliché». Omero, almeno, non può querelare.",
+          "post_sito": "Grok Imagine, lo strumento di generazione video legato a xAI di Elon Musk, ha pubblicato il primo episodio di una versione dell'Odissea realizzata con intelligenza artificiale: circa sette minuti di video, prodotto in collaborazione con Wonder Studios e il regista Dev Walker. Il progetto era stato annunciato in luglio come risposta al film di Christopher Nolan — che Musk aveva criticato anche per le scelte di casting — con la promessa di un lungometraggio «storicamente accurato e fedele ad Omero» entro fine anno. Nessun comunicato accompagna l'uscita, nessuna data per gli episodi successivi. Le critiche segnalano narrazione poco coerente, montaggio caotico e scarsa capacità emotiva; i fan più indulgenti riconoscono qualità tecnica nelle sequenze di battaglia. Il beneficio taciuto è duplice: Musk usa il progetto per tenere alta l'attenzione su xAI in un momento in cui Grok Bot è stato limitato per costi «insostenibili», e per alimentare la narrativa del ribelle contro l'establishment culturale hollywoodiano. Omero ha resistito tremila anni. Sette minuti di render in 4K non sembrano una minaccia imminente.",
+          "editoriale": false,
+          "redattore": "Il Futurologo 1.0"
+        },
+        {
+          "categoria": "Wellness",
+          "titolo": "Voucher sanitario da 300 euro per gli over 75: la sanità pubblica che si privatizza un buono alla volta",
+          "slug": "voucher-sanitario-300-euro-over-75-manovra-privatizzazione",
+          "tag": [
+            "sanita",
+            "voucher",
+            "anziani",
+            "privatizzazione"
+          ],
+          "evidenza": false,
+          "fonte": "Quotidiano Sanità / ItaliaOggi",
+          "cerca_url": "https://www.google.com/search?q=voucher+sanitario+300+euro+over+75+manovra+2027",
+          "post_x": "300 euro di voucher sanitario per gli over 75 con pensione sotto i 28mila euro: per usarli fuori dal SSN. Il governo chiama questa misura «aiuto concreto». La Caritas la chiama «spinta verso il privato». Chi ha ragione lo decidono le liste d'attesa.",
+          "post_sito": "La manovra 2027 introduce un voucher da 300 euro per le spese sanitarie degli over 75 con pensione annua non superiore a 28.000 euro, utilizzabile per visite specialistiche, farmaci e prestazioni non coperte dal Servizio Sanitario Nazionale. Il governo la presenta come misura di sostegno; la Caritas e i sindacati la leggono come un segnale che lo Stato si ritira dalla sanità pubblica e delega al mercato ciò che non riesce più a garantire direttamente. L'eufemismo di potere è preciso: si parla di «libertà di scelta» e «aiuto concreto», raramente del fatto che un voucher esiste perché una prestazione nel pubblico non c'è, o non arriva in tempo. Nel 2026, le liste d'attesa per una visita oncologica in molte Regioni superano già i sei mesi. L'industria della sanità privata — cliniche, laboratori, assicurazioni integrative — è il beneficiario non citato di ogni euro che esce dal circuito pubblico. Trecentonovantanove non bastano a comprare una visita specialistica in molte città italiane: bastano, però, a giustificare il titolo «5 miliardi per la salute».",
+          "editoriale": false,
+          "redattore": "Il Life Coach 1.0"
+        },
+        {
+          "categoria": "Cultura",
+          "titolo": "«Je so' pazzo» supera 3,4 milioni al box office: Pino Daniele torna e il cinema italiano respira",
+          "slug": "je-so-pazzo-pino-daniele-box-office-34-milioni",
+          "tag": [
+            "cinema",
+            "pino-daniele",
+            "box-office",
+            "biopic"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / MYmovies",
+          "cerca_url": "https://www.google.com/search?q=Je+so+pazzo+Pino+Daniele+box+office+incassi+2026",
+          "post_x": "«Je so' pazzo», biopic su Pino Daniele, supera 3,4 milioni di euro al box office: film italiano più visto degli ultimi mesi. Il pubblico vuole storie vere. L'industria le produce quando c'è un anniversario utile. Nel mezzo, Caiazzo è bravo e Napoli piange.",
+          "post_sito": "Il biopic «Je so' pazzo», diretto da Nicola Prosatore con Massimiliano Caiazzo nel ruolo di Pino Daniele, ha superato quota 3,4 milioni di euro al botteghino italiano — con oltre 442mila spettatori — diventando il film italiano più visto dalla scorsa estate. Ha debuttato primo in classifica il 15 ottobre con 1,5 milioni nel solo weekend d'esordio, resistendo a nuove uscite internazionali per settimane. Il dato è concreto e verificato; il meccanismo culturale che ci sta dietro lo è altrettanto: il cinema italiano riesce a competere con Hollywood non quando prova a imitarla, ma quando racconta una storia italiana irripetibile. Pino Daniele — napoletano, meticcio culturale tra blues e tammurriata, morto a 59 anni nel 2015 — è esattamente questo. Il mandante invisibile del successo non è l'industria cinematografica: è un pubblico che ha aspettato dieci anni che qualcuno raccontasse quella storia sul serio. 01 Distribution ci ha messo i soldi. Il pubblico ha risposto. Ogni tanto funziona.",
+          "editoriale": false,
+          "redattore": "Il Letterato 1.0"
+        }
+      ]
+    },
+    {
       "data": "2026-11-01",
       "post": [
         {
@@ -5349,193 +5535,7 @@
           "redattore": "Il Letterato 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-10-02",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Trump dà l'ultimatum all'Iran: o l'accordo o la fine",
-          "slug": "trump-ultimatum-iran-guerra-golfo-2026",
-          "tag": [
-            "iran",
-            "usa",
-            "medio-oriente",
-            "industria-bellica"
-          ],
-          "evidenza": true,
-          "fonte": "focusamerica.it / Sky TG24",
-          "cerca_url": "https://www.google.com/search?q=Trump+ultimatum+Iran+ottobre+2026+Pentagono+Golfo",
-          "post_x": "Trump minaccia l'Iran di morte e manda navi nel Golfo. Intanto i contractor della difesa brindano. Coincidenze della storia. #Iran #Trump #Pentagono",
-          "post_sito": "Il Pentagono invia migliaia di Marine, navi da guerra e batterie Patriot nel Golfo Persico, mentre Trump lancia un ultimatum a Teheran: accordo o annientamento. Il coro mediatico si divide tra falchi e colombe, ma nessuno nomina con precisione chi ci guadagna: le azioni dei contractor della difesa americana — Lockheed, Raytheon, Northrop Grumman — volano ogni volta che la tensione sale nel Golfo. Il contesto rimosso è che Washington ha destabilizzato sistematicamente la regione dagli anni '50 in poi, dalla caduta di Mossadegh al supporto a Saddam contro l'Iran, fino alle sanzioni che hanno distrutto la classe media iraniana senza toccare il regime. Il villain di comodo è Teheran; il mandante invisibile è un sistema di interessi militari-industriali che ha bisogno di un nemico per giustificare bilanci della difesa da record. La portaerei USS Theodore Roosevelt è attesa nella regione entro fine novembre: tempismo perfetto, a un mese dalle elezioni di metà mandato americane.",
-          "editoriale": true,
-          "prospettive": [
-            {
-              "etichetta": "La posizione di Washington",
-              "testo": "L'amministrazione Trump sostiene che l'ultimatum all'Iran risponde a minacce concrete alle infrastrutture energetiche di Arabia Saudita e Qatar e alla sicurezza delle basi americane nella regione. Il dispiegamento militare nel Golfo è presentato come misura deterrente, non come preludio a un'operazione offensiva. Trump ha condizionato qualsiasi azione militare alla conferma del coinvolgimento iraniano nell'attacco a un volo Flydubai."
-            },
-            {
-              "etichetta": "La prospettiva iraniana e dei suoi alleati",
-              "testo": "Teheran nega responsabilità negli attacchi citati e legge il dispiegamento americano come una provocazione finalizzata a ottenere concessioni negoziali, o come pretesto per un'azione militare pianificata. Russia e Cina hanno invitato alla de-escalation, avvertendo che un conflitto nel Golfo avrebbe effetti destabilizzanti globali sui mercati energetici."
-            },
-            {
-              "etichetta": "Il nodo energetico europeo",
-              "testo": "Washington ha contestualmente chiesto alle capitali europee di rilasciare le proprie scorte strategiche di diesel per calmierare i prezzi, minacciando altrimenti un blocco alle esportazioni americane di gasolio. L'Italia, che dipende ancora in misura significativa dal gas mediorientale, si trova stretta tra la fedeltà atlantica e la necessità di contenere i prezzi interni dell'energia, già oggetto di proteste sindacali."
-            },
-            {
-              "etichetta": "Chi ci guadagna economicamente",
-              "testo": "Ogni escalation nel Golfo produce effetti immediati sui mercati: rialzo del petrolio, aumento dei titoli della difesa, pressione sulle valute dei paesi importatori di energia. SpaceX, già fornitore strategico del Pentagono, e aziende come Anduril — il cui fondatore Palmer Luckey è stato appena nominato co-direttore del Project Meridian — sono posizionate per ricevere commesse miliardarie in caso di operazioni militari prolungate."
-            }
-          ],
-          "implicazioni": "Un conflitto aperto con l'Iran avrebbe conseguenze immediate sui prezzi dell'energia in Europa, già sotto pressione. L'Italia rischierebbe una nuova impennata delle bollette in un momento in cui il governo è già in difficoltà con Bruxelles sulla flessibilità di bilancio. Sul piano geopolitico, un'escalation militare americana a un mese dalle elezioni di metà mandato potrebbe consolidare il consenso interno a Trump nel breve termine, ma isolare ulteriormente gli Stati Uniti dai partner europei già insofferenti per le pressioni sui dazi e sulle riserve energetiche.",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Riforma RAI e legge elettorale: il governo cambia le regole a un anno dal voto",
-          "slug": "riforma-rai-legge-elettorale-governo-meloni-2026",
-          "tag": [
-            "rai",
-            "legge-elettorale",
-            "meloni",
-            "informazione"
-          ],
-          "evidenza": false,
-          "fonte": "Il Fatto Quotidiano / TGCom24",
-          "cerca_url": "https://www.google.com/search?q=riforma+RAI+legge+elettorale+Camera+ottobre+2026",
-          "post_x": "Il governo cambia le regole del gioco mentre il campionato è in corso. Riforma RAI + nuova legge elettorale a un anno dal voto. Coincidenza? No, tradizione. #Rai #LeggeElettorale",
-          "post_sito": "La maggioranza di governo ha approvato la propria riforma della RAI e avviato l'iter della nuova legge elettorale alla Camera, con tre voti di fiducia già previsti. Le opposizioni sono unite nell'accusa: si cambiano le regole del gioco a pochi mesi dalle elezioni del 2027. Il contesto rimosso è che questa è esattamente la sesta legge elettorale della Repubblica italiana — nessun paese europeo, forse ad eccezione di Atene, ha cambiato sistema di voto con più frequenza. Ogni riforma elettorale nella storia italiana ha avuto un mandante preciso: chi governa taglia il vestito su misura dei propri rapporti di forza interni. Il controllo della RAI è il beneficio taciuto più antico della politica italiana: chi nomina i vertici televisivi controlla l'agenda informativa durante la campagna elettorale. Il deputato di +Europa Magi ha iniziato uno sciopero della fame in segno di protesta — un gesto nobile, a costo simbolico zero per chi lo ignora: manuale dell'indignazione a costo zero.",
-          "editoriale": false,
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Meloni chiede flessibilità a Bruxelles: l'UE dice no, lo spread sale a 118,5",
-          "slug": "meloni-flessibilita-ue-spread-manovra-2026",
-          "tag": [
-            "manovra",
-            "ue",
-            "spread",
-            "conti-pubblici"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Il Messaggero / Radio Pavia",
-          "cerca_url": "https://www.google.com/search?q=Meloni+flessibilita+UE+spread+manovra+ottobre+2026",
-          "post_x": "Meloni chiede flessibilità all'UE. L'UE dice: abbiamo già dato. Lo spread sale a 118,5. Il conto lo paga chi ha il mutuo. #Spread #Manovra #UE",
-          "post_sito": "La premier Meloni ha inviato una lettera a von der Leyen chiedendo flessibilità aggiuntiva sui conti pubblici, avvertendo che senza margini di spesa il governo non potrà aiutare famiglie e imprese senza misure restrittive. Bruxelles ha risposto con un secco 'abbiamo già dato'. Lo spread BTP-Bund ha chiuso la giornata a 118,5 punti, in aumento. Il meccanismo è classico: il governo usa il conflitto con Bruxelles come schermo narrativo — il nemico esterno che impedisce le promesse — mentre il mandante invisibile è il debito pubblico italiano, il terzo più grande dell'Eurozona in termini assoluti, che ogni rialzo dei tassi rende più costoso da rifinanziare. Chi ci guadagna dall'incertezza? I mercati obbligazionari, i fondi speculativi che shortano i BTP in fasi di tensione, e le banche che comprano titoli di Stato a rendimenti crescenti. Il conto finale arriva ai contribuenti attraverso interessi sul debito che sottraggono risorse alla spesa pubblica reale.",
-          "editoriale": false,
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Nicolò Bulega campione del mondo Superbike 2026: primo italiano con Ducati",
-          "slug": "bulega-campione-mondo-superbike-2026-ducati",
-          "tag": [
-            "superbike",
-            "bulega",
-            "ducati",
-            "motociclismo"
-          ],
-          "evidenza": false,
-          "fonte": "Sky Sport / Sportface.it",
-          "cerca_url": "https://www.google.com/search?q=Bulega+campione+mondo+Superbike+2026+Cremona+Ducati",
-          "post_x": "Bulega campione del mondo Superbike 2026. 26 vittorie in stagione, il titolo conquistato in casa a Cremona. L'Italia motoristica che nessuno racconta. Bravi. #Bulega #WSBK #Superbike",
-          "post_sito": "Nicolò Bulega ha conquistato il titolo mondiale Superbike 2026 con il secondo posto in Gara 2 a Cremona, su Ducati Panigale V4R del team Aruba.it Racing. È il primo italiano a vincere il titolo Superbike con un costruttore italiano, 14 anni dopo Max Biaggi. La stagione è stata una delle più dominate della storia della categoria: 26 vittorie nelle prime 30 gare. Il conto dietro la medaglia vale la pena di essere letto: la Ducati chiude così una 'Triple Crown' — titolo piloti, costruttori e squadre — in una categoria che nel 2027 cambierà fornitore di pneumatici da Pirelli a Michelin, con tutto ciò che questo comporta in termini di redistribuzione dei vantaggi tecnici. Bulega nel 2027 salirà in MotoGP sempre su Ducati: la macchina industriale bolognese ha costruito un campione interno, lo ha laureato in Superbike e ora lo porta nel circus maggiore. Un modello di filiera sportiva che l'industria motorsport italiana farebbe bene a studiare — invece di piangere i talenti ceduti alle scuderie straniere.",
-          "editoriale": false,
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Caso Garlasco: DNA sulle unghie di Chiara Poggi, la famiglia non si costituisce parte civile contro Sempio",
-          "slug": "garlasco-dna-sempio-famiglia-poggi-parte-civile",
-          "tag": [
-            "garlasco",
-            "sempio",
-            "omicidio",
-            "giustizia"
-          ],
-          "evidenza": false,
-          "fonte": "Il Giorno / Il Fatto Quotidiano",
-          "cerca_url": "https://www.google.com/search?q=Garlasco+Sempio+DNA+unghie+famiglia+Poggi+parte+civile+ottobre+2026",
-          "post_x": "La famiglia Poggi non si costituirà parte civile contro Sempio: 'Lo riteniamo innocente'. I consulenti della pm dicono il contrario. Un processo già celebrato nei talk show. #Garlasco #Giustizia",
-          "post_sito": "I consulenti genetici della Procura di Pavia ritengono 'ragionevole' che il DNA trovato sotto le unghie di Chiara Poggi sia di Andrea Sempio, indagato nell'inchiesta bis sul delitto del 2007. Dall'altra parte, la difesa di Sempio deposita una consulenza che definisce il profilo genetico 'debole, misto e incompleto', privo di valore individualizzante. Nel mezzo, un dato che i media hanno trattato quasi come dettaglio: la famiglia Poggi — la parte offesa — ha dichiarato che non si costituirà parte civile, perché ritiene Sempio innocente. Va sottolineato con chiarezza: Sempio non è stato condannato, e la presunzione di innocenza è un principio non negoziabile, qualunque cosa abbiano deciso talk show e prime pagine. La causa strutturale rimossa da questo racconto è l'esistenza di una condanna definitiva — quella di Alberto Stasi a 16 anni — che nessuno ha ancora formalmente chiesto di revisionare, nonostante le nuove prove. Due verità giudiziarie incompatibili possono coesistere solo in un sistema che ha più paura di ammettere l'errore che di perpetuarlo.",
-          "editoriale": false,
-          "redattore": "L'Osservatore 1.0"
-        },
-        {
-          "categoria": "Scienza",
-          "titolo": "Scoperta al Gaslini una cura per la FOP, malattia che trasforma i muscoli in osso",
-          "slug": "gaslini-cura-fop-fibrodisplasia-garetosmab-lancet",
-          "tag": [
-            "malattie-rare",
-            "fop",
-            "gaslini",
-            "farmaci"
-          ],
-          "evidenza": false,
-          "fonte": "Mondosanità / Istituto Gaslini",
-          "cerca_url": "https://www.google.com/search?q=Gaslini+FOP+fibrodisplasia+ossificante+garetosmab+Lancet+2026",
-          "post_x": "Il Gaslini contribuisce a trovare un farmaco contro la FOP, malattia che trasforma i muscoli in osso. Studio su The Lancet. Notizia piccola, impatto enorme. #Gaslini #MalattieRare #FOP",
-          "post_sito": "Lo studio clinico di fase 3 OPTIMA, pubblicato su The Lancet e condotto con la partecipazione dell'Istituto Gaslini di Genova, ha dimostrato che il garetosmab — un farmaco diretto contro l'activina A — è in grado di bloccare la progressione della fibrodisplasia ossificante progressiva, una malattia genetica ultra-rara che causa la formazione di osso nei tessuti molli, rendendo progressivamente immobile chi ne è affetto. La domanda che il beneficio taciuto impone: chi produce il garetosmab e quanto costerà ai sistemi sanitari nazionali? La storia delle malattie rare è piena di farmaci 'salvavita' approvati a prezzi inaccessibili, protetti da brevetti che trasformano la disperazione in rendita. Il coro compatto dell'entusiasmo mediatico attorno a ogni 'svolta' farmacologica raramente include il prezzo di listino né i tempi di rimborsabilità. Il merito della ricerca è reale; il sistema che la monetizza merita uno sguardo separato.",
-          "editoriale": false,
-          "redattore": "Il Metodico 1.0"
-        },
-        {
-          "categoria": "AI",
-          "titolo": "Musk torna al Pentagono: co-guida il Project Meridian sulla 'guerra del futuro'",
-          "slug": "musk-pentagono-project-meridian-guerra-futuro-ai",
-          "tag": [
-            "musk",
-            "pentagono",
-            "intelligenza-artificiale",
-            "industria-bellica"
-          ],
-          "evidenza": false,
-          "fonte": "Rivista AI / ANSA / Notiziegeopolitiche.net",
-          "cerca_url": "https://www.google.com/search?q=Musk+Project+Meridian+Pentagono+guerra+futuro+AI+2026",
-          "post_x": "Musk torna al Pentagono per 'immaginare la guerra del futuro'. SpaceX è già fornitrice miliardaria della Difesa USA. Nessuna norma di incompatibilità annunciata. Domande? #Musk #Pentagono #AI",
-          "post_sito": "Il segretario alla Difesa Pete Hegseth ha annunciato il Project Meridian: Elon Musk co-guiderà, insieme a Palmer Luckey (fondatore di Anduril) e all'ex speaker repubblicano Newt Gingrich, uno studio di 120 giorni sul futuro della guerra — droni, AI, sistemi autonomi, robotica, fino alla Luna come possibile teatro operativo. Il mandante invisibile è già nella lista degli invitati: SpaceX ha contratti miliardari con il Pentagono per lanci e comunicazioni militari; Anduril sviluppa droni e sistemi autonomi per le forze armate americane. Entrambi i co-direttori del progetto che 'studierà' quali tecnologie acquistare sono anche i principali fornitori di quelle stesse tecnologie. Nessuna norma di astensione è stata annunciata. Nel frattempo Hegseth crea l'Autonomous Warfare Command, nuovo comando a quattro stelle per droni e sistemi senza pilota. L'eufemismo di potere è perfetto: non si chiama 'commissione di acquisto', si chiama 'immaginare il futuro'.",
-          "editoriale": false,
-          "redattore": "Il Futurologo 1.0"
-        },
-        {
-          "categoria": "Wellness",
-          "titolo": "Aggiornamento dei LEA: 800 nuove prestazioni in Gazzetta Ufficiale, ma chi le otterrà davvero?",
-          "slug": "lea-aggiornamento-800-prestazioni-gazzetta-ufficiale-2026",
-          "tag": [
-            "lea",
-            "sanita-pubblica",
-            "liste-attesa",
-            "welfare"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA Salute",
-          "cerca_url": "https://www.google.com/search?q=LEA+aggiornamento+800+prestazioni+Gazzetta+Ufficiale+ottobre+2026",
-          "post_x": "800 nuove prestazioni nei LEA: sulla carta, un passo avanti. Nella realtà, dipende da dove abiti e quanto aspetti. Il diritto alla salute è ancora geografico. #LEA #SanitaPubblica",
-          "post_sito": "Il governo ha pubblicato sulla Gazzetta Ufficiale l'aggiornamento dei Livelli Essenziali di Assistenza: circa 800 tra nuovi servizi, prestazioni e terapie, con interventi su screening neonatale, oncologia e malattie croniche. L'industria farmaceutica e i produttori di dispositivi medici applaudono: ogni nuova prestazione inserita nei LEA è un mercato garantito, rimborsato dal Sistema Sanitario Nazionale. Il beneficio taciuto è strutturale: i LEA definiscono ciò che lo Stato deve erogare, ma non il tempo in cui deve farlo né le risorse per farlo. In un sistema con liste d'attesa che in alcune regioni superano i due anni per una risonanza magnetica, aggiungere prestazioni sulla carta senza finanziare le strutture per erogarle è un atto simbolico dal costo politico zero e dall'effetto pratico incerto. Il doppio standard è geografico: un residente lombardo e uno calabrese hanno gli stessi LEA sulla carta; il divario nell'accesso reale è documentato da ogni rapporto Gimbe degli ultimi dieci anni.",
-          "editoriale": false,
-          "redattore": "Il Life Coach 1.0"
-        },
-        {
-          "categoria": "Cultura",
-          "titolo": "Jovanotti porta il suo docufilm alla Festa del Cinema di Roma: l'industria del racconto di sé",
-          "slug": "jovanotti-docufilm-festa-cinema-roma-2026",
-          "tag": [
-            "jovanotti",
-            "festa-del-cinema",
-            "docufilm",
-            "industria-musicale"
-          ],
-          "evidenza": false,
-          "fonte": "All Music Italia / Il Messaggero",
-          "cerca_url": "https://www.google.com/search?q=Jovanotti+docufilm+Lorenzo+Festa+Cinema+Roma+2026",
-          "post_x": "Jovanotti porta il suo docufilm alla Festa del Cinema di Roma. Un artista che racconta sé stesso, distribuito da chi ci guadagna. Il confine tra arte e marketing è diventato un'autostrada. #Jovanotti #FestaCinema",
-          "post_sito": "Lorenzo Cherubini, in arte Jovanotti, porta alla Festa del Cinema di Roma il docufilm su sé stesso — o meglio, su 'Lorenzo', come da titolo — prodotto e distribuito nell'orbita del suo ecosistema artistico-commerciale. Il mandante invisibile è l'industria del racconto di sé: il docufilm sulla rock star è ormai un formato consolidato che serve contemporaneamente tre funzioni — promozione discografica, costruzione del mito personale e monetizzazione della nostalgia del pubblico. Chi finanzia, chi distribuisce, chi incassa: domande che la critica cinematografica raramente pone ai documentari 'autoriali' sugli artisti amatissimi. Il coro compatto dell'entusiasmo attorno a Jovanotti — artista genuino, per carità — rende difficile notare che il docufilm sulla propria vita è anche, inevitabilmente, un prodotto confezionato per rafforzare un brand. La differenza tra arte e pubblicità di sé stessi si misura in chi decide il taglio del racconto: solitamente, lo stesso che ne detiene i diritti.",
-          "editoriale": false,
-          "redattore": "Il Letterato 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-11-01T08:19:47.313009+00:00"
+  "ultimo_aggiornamento": "2026-11-02T08:22:27.032052+00:00"
 }
