@@ -1,6 +1,22 @@
 {
-  "generato": "2026-11-02T06:31:07.164692+00:00",
+  "generato": "2026-11-02T12:31:00.581037+00:00",
   "item": [
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "È boom della raffa giovanile: 60 squadre al via! Dalle bocciofile di provincia all'Europa",
+      "link": "https://www.gazzetta.it/bocce/30-10-2026/bocce-il-boom-della-raffa-giovanile-60-squadre-al-via.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-10-30"
+    },
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Italia del curling al veleno: azzurre ko all'Europeo e il team Constantini, che non c'è, le sfotte sui social",
+      "link": "https://www.gazzetta.it/Sport-Invernali/31-10-2026/curling-azzurre-ko-all-europeo-il-team-constantini-ironizza-sui-social-contro-zardini.shtml",
+      "fonte": "Gazzetta — Sport Invernali",
+      "data_evento": "2026-10-31"
+    },
     {
       "sottocategoria": "Atletica",
       "tipo": "notizia",
@@ -23,22 +39,6 @@
       "titolo": "Clapcich: \"Nella Route du Rhum con un pupazzetto di mia figlia, porto la cultura Lgbtq+ nel mondo\"",
       "link": "https://www.gazzetta.it/vela/01-11-2026/francesca-clapcich-intervista-nella-route-du-rhum-con-un-pupazzetto-di-mia-figlia.shtml",
       "fonte": "Gazzetta — Vela e Nautica",
-      "data_evento": "2026-11-01"
-    },
-    {
-      "sottocategoria": "Squadra",
-      "tipo": "notizia",
-      "titolo": "Willis, fenomeno inglese che non può giocare in nazionale: \"Perché Kane e Bellingham sì e lui no?\"",
-      "link": "https://www.gazzetta.it/Rugby/30-10-2026/jack-willis-fenomeno-inglese-che-non-puo-giocare-in-nazionale.shtml",
-      "fonte": "Gazzetta — Rugby",
-      "data_evento": "2026-10-30"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Vacherot-Lehecka, highlights Atp Basilea: il monegasco vince il torneo",
-      "link": "https://video.gazzetta.it/tennis/atp/highlights/video-highlights-vacherot-lehecka-atp-basilea-lehecka-rimonta-e-vince-il-torneo/2e3e4c5c-f396-44b5-bfe1-8ea0f8c66xlk",
-      "fonte": "Gazzetta — Tennis",
       "data_evento": "2026-11-01"
     }
   ]
