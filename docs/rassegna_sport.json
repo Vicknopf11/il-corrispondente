@@ -1,22 +1,6 @@
 {
-  "generato": "2026-11-02T12:31:00.581037+00:00",
+  "generato": "2026-11-02T18:31:05.688563+00:00",
   "item": [
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "È boom della raffa giovanile: 60 squadre al via! Dalle bocciofile di provincia all'Europa",
-      "link": "https://www.gazzetta.it/bocce/30-10-2026/bocce-il-boom-della-raffa-giovanile-60-squadre-al-via.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-10-30"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Italia del curling al veleno: azzurre ko all'Europeo e il team Constantini, che non c'è, le sfotte sui social",
-      "link": "https://www.gazzetta.it/Sport-Invernali/31-10-2026/curling-azzurre-ko-all-europeo-il-team-constantini-ironizza-sui-social-contro-zardini.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-10-31"
-    },
     {
       "sottocategoria": "Atletica",
       "tipo": "notizia",
@@ -26,20 +10,36 @@
       "data_evento": "2026-11-01"
     },
     {
-      "sottocategoria": "Combattimento",
-      "tipo": "notizia",
-      "titolo": "Mike McCallum e quei treni che non fischiavano: perché nessuno voleva sfidare \"Body Snatcher\"",
-      "link": "https://www.gazzetta.it/Sport-Vari/28-10-2026/mike-mccallum-la-leggenda-giamaicana-della-boxe-che-nessuno-voleva-sfidare.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-10-28"
-    },
-    {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
-      "titolo": "Clapcich: \"Nella Route du Rhum con un pupazzetto di mia figlia, porto la cultura Lgbtq+ nel mondo\"",
-      "link": "https://www.gazzetta.it/vela/01-11-2026/francesca-clapcich-intervista-nella-route-du-rhum-con-un-pupazzetto-di-mia-figlia.shtml",
+      "titolo": "Route du Rhum 2026, la partenza da Saint-Malo è uno spettacolo unico!",
+      "link": "https://video.gazzetta.it/vela/video-route-du-rhum-2026-la-partenza-da-saint-malo-e-uno-spettacolo-unico/09fb3e21-d518-4c79-bb48-8529341ccxlk",
       "fonte": "Gazzetta — Vela e Nautica",
-      "data_evento": "2026-11-01"
+      "data_evento": "2026-11-02"
+    },
+    {
+      "sottocategoria": "Squadra",
+      "tipo": "notizia",
+      "titolo": "Craven Week, dove nascono gli Springboks: alla scoperta del torneo giovanile più antico del mondo",
+      "link": "https://www.gazzetta.it/Rugby/02-11-2026/craven-week-dove-nascono-gli-springboks-alla-scoperta-del-torneo-giovanile-piu-famoso.shtml",
+      "fonte": "Gazzetta — Rugby",
+      "data_evento": "2026-11-02"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "All'improvviso arriva Jodar: come gioca e come pensa il top 10 più giovane del tennis",
+      "link": "https://www.gazzetta.it/Tennis/02-11-2026/rafa-jodar-chi-e-e-come-gioca-la-profezia-di-sinner.shtml",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-11-02"
+    },
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "È boom della raffa giovanile: 60 squadre al via! Dalle bocciofile di provincia all'Europa",
+      "link": "https://www.gazzetta.it/bocce/30-10-2026/bocce-il-boom-della-raffa-giovanile-60-squadre-al-via.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-10-30"
     }
   ]
 }
