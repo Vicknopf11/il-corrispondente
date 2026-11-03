@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-03",
+      "slug": "sonno-irregolare-caldo-rischio-cardiaco-studio-2026",
+      "categoria": "Wellness",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-03",
       "slug": "anthropic-ipo-ai-accelera-ricerca-autonoma",
       "categoria": "AI",
       "evidenza": false,
@@ -1428,14 +1436,6 @@
       "data": "2026-10-13",
       "slug": "italia-svizzera-mondiali-hockey-pista-2026-asuncion",
       "categoria": "Sport",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-13",
-      "slug": "fmi-pil-italia-rialzo-inflazione-2026",
-      "categoria": "Economia",
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
