@@ -1,6 +1,14 @@
 {
-  "generato": "2026-11-03T06:31:11.290209+00:00",
+  "generato": "2026-11-03T12:31:09.357798+00:00",
   "item": [
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Brignone lascia i Carabinieri e torna allo sci Club Courmayeur che l'aveva lanciata",
+      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/02-11-2026/federica-brignone-lascia-arma-carabinieri-torna-sci-club-courmayeur.shtml",
+      "fonte": "Gazzetta — Sport Invernali",
+      "data_evento": "2026-11-02"
+    },
     {
       "sottocategoria": "Atletica",
       "tipo": "notizia",
@@ -28,18 +36,10 @@
     {
       "sottocategoria": "Racchette e precisione",
       "tipo": "notizia",
-      "titolo": "Dietro le quinte di un torneo Atp: i luoghi dove le telecamere non entrano",
-      "link": "https://video.gazzetta.it/pillole-sport/video-tennis-dietro-le-quinte-di-un-torneo-atp/9f5d76bf-2325-42cc-aa9a-1c4f4162cxlk",
+      "titolo": "Musetti-Zverev, Lorenzo a Parigi sfida subito il numero 1: le quote",
+      "link": "https://www.gazzetta.it/scommesse/pronostici/tennis/03-11-2026/pronostico-musetti-zverev-quote-match-secondo-turno-parigi-atp-1000-81331.shtml",
       "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-11-02"
-    },
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "È boom della raffa giovanile: 60 squadre al via! Dalle bocciofile di provincia all'Europa",
-      "link": "https://www.gazzetta.it/bocce/30-10-2026/bocce-il-boom-della-raffa-giovanile-60-squadre-al-via.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-10-30"
+      "data_evento": "2026-11-03"
     }
   ]
 }
