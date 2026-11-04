@@ -1,13 +1,13 @@
 {
-  "generato": "2026-11-04T12:31:03.191001+00:00",
+  "generato": "2026-11-04T18:31:09.829139+00:00",
   "item": [
     {
-      "sottocategoria": "Invernali",
+      "sottocategoria": "Combattimento",
       "tipo": "notizia",
-      "titolo": "Brignone lascia i Carabinieri e torna allo sci Club Courmayeur che l'aveva lanciata",
-      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/02-11-2026/federica-brignone-lascia-arma-carabinieri-torna-sci-club-courmayeur.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-11-02"
+      "titolo": "La tazza di caffè, il nonno col fisico scolpito e la storia di pugni di Charles Bronson",
+      "link": "https://www.gazzetta.it/Sport-Vari/04-11-2026/l-eroe-della-strada-il-film-del-pugile-charles-bronson.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-11-04"
     },
     {
       "sottocategoria": "Atletica",
@@ -20,26 +20,26 @@
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
-      "titolo": "Route du Rhum 2026, la partenza da Saint-Malo è uno spettacolo unico!",
-      "link": "https://video.gazzetta.it/vela/video-route-du-rhum-2026-la-partenza-da-saint-malo-e-uno-spettacolo-unico/09fb3e21-d518-4c79-bb48-8529341ccxlk",
+      "titolo": "Route du Rhum, a un terzo del cammino verso Guadalupa Clapcich e Beccaria si giocano il podio",
+      "link": "https://www.gazzetta.it/vela/04-11-2026/route-du-rhum-a-un-terzo-del-cammino-verso-guadalupa-clapchic-e-beccaria-terza-e-quinto.shtml",
       "fonte": "Gazzetta — Vela e Nautica",
-      "data_evento": "2026-11-02"
+      "data_evento": "2026-11-04"
     },
     {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
-      "titolo": "Craven Week, dove nascono gli Springboks: alla scoperta del torneo giovanile più antico del mondo",
-      "link": "https://www.gazzetta.it/Rugby/02-11-2026/craven-week-dove-nascono-gli-springboks-alla-scoperta-del-torneo-giovanile-piu-famoso.shtml",
+      "titolo": "Il rugby scoperto… grazie alle mucche! L'incredibile storia di Baloucoune, ala sprint dell'Irlanda",
+      "link": "https://www.gazzetta.it/Rugby/04-11-2026/il-rugby-scoperto-grazie-alle-mucche-l-incredibile-storia-di-baloucoune-1.shtml",
       "fonte": "Gazzetta — Rugby",
-      "data_evento": "2026-11-02"
+      "data_evento": "2026-11-04"
     },
     {
       "sottocategoria": "Racchette e precisione",
       "tipo": "notizia",
-      "titolo": "Jodar, regalo a Cobolli: perde a Parigi con Ruud e manda Flavio alle Finals di Torino!",
-      "link": "https://www.gazzetta.it/Tennis/ATP/03-11-2026/cobolli-alle-finals-jodar-battuto-a-parigi.shtml",
+      "titolo": "Non solo Alcaraz: come Sinner e Djokovic hanno rivoluzionato il servizio. Il colpo più migliorabile",
+      "link": "https://www.gazzetta.it/Tennis/04-11-2026/come-alcaraz-sinner-e-djokovic-hanno-cambiato-il-servizio-la-spiegazione-di-paolo-cane.shtml",
       "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-11-03"
+      "data_evento": "2026-11-04"
     }
   ]
 }
