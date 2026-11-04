@@ -1,6 +1,14 @@
 {
-  "generato": "2026-11-04T06:31:05.050975+00:00",
+  "generato": "2026-11-04T12:31:03.191001+00:00",
   "item": [
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Brignone lascia i Carabinieri e torna allo sci Club Courmayeur che l'aveva lanciata",
+      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/02-11-2026/federica-brignone-lascia-arma-carabinieri-torna-sci-club-courmayeur.shtml",
+      "fonte": "Gazzetta — Sport Invernali",
+      "data_evento": "2026-11-02"
+    },
     {
       "sottocategoria": "Atletica",
       "tipo": "notizia",
@@ -31,14 +39,6 @@
       "titolo": "Jodar, regalo a Cobolli: perde a Parigi con Ruud e manda Flavio alle Finals di Torino!",
       "link": "https://www.gazzetta.it/Tennis/ATP/03-11-2026/cobolli-alle-finals-jodar-battuto-a-parigi.shtml",
       "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-11-03"
-    },
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Ci siamo: la Vita Nova pronta per il debutto in Coppa Europa di pétanque",
-      "link": "https://www.gazzetta.it/bocce/03-11-2026/bocce-vita-nova-al-debutto-in-coppa-europa.shtml",
-      "fonte": "Gazzetta — Bocce",
       "data_evento": "2026-11-03"
     }
   ]
