@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-04",
+      "slug": "intesa-sanpaolo-utili-record-82-miliardi-nove-mesi-2026",
+      "categoria": "Economia",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-04",
       "slug": "fdi-condono-edilizio-campania-manovra-emendamento",
       "categoria": "Politica Nazionale",
       "evidenza": false,
@@ -1431,14 +1439,6 @@
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-13",
-      "slug": "fmi-ai-sposta-ricchezza-lavoro-capitale-pensioni-tasse",
-      "categoria": "AI",
-      "evidenza": true,
-      "tipo_richiesta": "ContentCreateWithUrl",
-      "costo_usd": 0.2
     }
   ]
 }
