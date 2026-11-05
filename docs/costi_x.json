@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-05",
+      "slug": "openai-948-vulnerabilita-linux-cyber-model-2026",
+      "categoria": "AI",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-05",
       "slug": "nobel-optogenetica-occhi-retinite-pigmentosa-2026",
       "categoria": "Scienza",
       "evidenza": false,
@@ -1431,14 +1439,6 @@
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-16",
-      "slug": "manovra-23-miliardi-difesa-sanita-banche",
-      "categoria": "Politica Nazionale",
-      "evidenza": true,
-      "tipo_richiesta": "ContentCreateWithUrl",
-      "costo_usd": 0.2
     }
   ]
 }
