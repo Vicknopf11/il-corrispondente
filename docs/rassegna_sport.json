@@ -1,21 +1,13 @@
 {
-  "generato": "2026-11-05T12:31:01.827105+00:00",
+  "generato": "2026-11-05T18:31:03.900210+00:00",
   "item": [
     {
-      "sottocategoria": "Mente e nicchia",
+      "sottocategoria": "Acqua",
       "tipo": "notizia",
-      "titolo": "Al via la Serie A del Volo. Favre: \"Sia una stagione di crescita, confronto e soddisfazioni\"",
-      "link": "https://www.gazzetta.it/bocce/05-11-2026/bocce-al-via-la-serie-a-del-volo-favre-sia-una-stagione-di-crescita.shtml",
-      "fonte": "Gazzetta — Bocce",
+      "titolo": "Silverskiff 2026, Torino si prepara alla 35ª edizione: Sinkovic a caccia dell'ennesimo titolo",
+      "link": "https://www.gazzetta.it/Sport-Vari/05-11-2026/canottaggio-silverskiff-2026-torino-regata.shtml",
+      "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-11-05"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Brignone lascia i Carabinieri e torna allo sci Club Courmayeur che l'aveva lanciata",
-      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/02-11-2026/federica-brignone-lascia-arma-carabinieri-torna-sci-club-courmayeur.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-11-02"
     },
     {
       "sottocategoria": "Combattimento",
@@ -34,12 +26,20 @@
       "data_evento": "2026-11-01"
     },
     {
-      "sottocategoria": "Acqua",
+      "sottocategoria": "Squadra",
       "tipo": "notizia",
-      "titolo": "Route du Rhum, a un terzo del cammino verso Guadalupa Clapcich e Beccaria si giocano il podio",
-      "link": "https://www.gazzetta.it/vela/04-11-2026/route-du-rhum-a-un-terzo-del-cammino-verso-guadalupa-clapchic-e-beccaria-terza-e-quinto.shtml",
-      "fonte": "Gazzetta — Vela e Nautica",
-      "data_evento": "2026-11-04"
+      "titolo": "Italia incerottata: 16 infortunati. Quesada ridisegna la formazione per il Sudafrica",
+      "link": "https://www.gazzetta.it/Rugby/05-11-2026/rugby-italia-sudafrica-16-infortunati-quesada-ridisegna-la-formazione-per-il-sudafrica.shtml",
+      "fonte": "Gazzetta — Rugby",
+      "data_evento": "2026-11-05"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Musetti eliminato a Parigi: il toscano cede in tre set contro Van Assche",
+      "link": "https://www.gazzetta.it/Tennis/ATP/05-11-2026/musetti-fuori-a-parigi-van-assche-vince-in-tre-set.shtml",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-11-05"
     }
   ]
 }
