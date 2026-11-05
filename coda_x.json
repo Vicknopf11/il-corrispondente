@@ -1,77 +1,77 @@
 {
-  "data": "2026-11-04",
+  "data": "2026-11-05",
   "tweet": [
     {
-      "testo": "Trump sconfitto alle Midterm. I dem prendono tutto. Lui «accetta il risultato». Nel frattempo Wall Street trema e l'oro sale. Chi ci guadagna davvero dall'«onda blu»? Chiedete ai fondi obbligazionari. #Midterm2026",
-      "url": "https://corrispondente.filoclastos.it/2026/11/04/midterm-usa-democratici-camera-senato-trump-sconfitto/",
-      "slug": "midterm-usa-democratici-camera-senato-trump-sconfitto",
+      "testo": "I dem vincono e tutti festeggiano. Nessuno si chiede chi ha già aperto i portafogli per la prossima corsa al 2028. Vance piange lacrime di coccodrillo, Wall Street stappa lo spumante. #Midterm2026",
+      "url": "https://corrispondente.filoclastos.it/2026/11/05/midterm-usa-democratici-conquistano-congresso-2026/",
+      "slug": "midterm-usa-democratici-conquistano-congresso-2026",
       "categoria": "Politica Internazionale",
       "evidenza": true,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "FdI vuole riaprire il condono edilizio del 2003 per la Campania, via emendamento alla manovra. Edmondo Cirielli lo aveva promesso in campagna elettorale. Puntuale come un abuso. #Manovra2027 #CondonoEdilizio",
-      "url": "https://corrispondente.filoclastos.it/2026/11/04/fdi-condono-edilizio-campania-manovra-emendamento/",
-      "slug": "fdi-condono-edilizio-campania-manovra-emendamento",
+      "testo": "Tutti i governatori, centrodestra incluso, bocciano i fondi sanitari. «Le risorse non sono infinite», risponde FdI. Traduzione: i soldi per la Difesa (+4,8 miliardi) sono invece infiniti. #Manovra2027",
+      "url": "https://corrispondente.filoclastos.it/2026/11/05/manovra-regioni-unanimita-fondi-sanita-insufficienti-2026/",
+      "slug": "manovra-regioni-unanimita-fondi-sanita-insufficienti-2026",
       "categoria": "Politica Nazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Intesa Sanpaolo: 8,2 miliardi di utile nei nove mesi, stima oltre 10 miliardi a fine anno. Il miglior risultato di sempre. 7,8 miliardi già destinati agli azionisti. E intanto le liste d'attesa in sanità crescono. #Banche #Economia",
-      "url": "https://corrispondente.filoclastos.it/2026/11/04/intesa-sanpaolo-utili-record-82-miliardi-nove-mesi-2026/",
-      "slug": "intesa-sanpaolo-utili-record-82-miliardi-nove-mesi-2026",
+      "testo": "27 miliardi di Amazon e OpenAI per data center in Italia. Casini avverte: «L'acqua è al centro dell'agenda». I server hanno sete. Gli italiani anche. Chi vince? #DataCenter #Acqua",
+      "url": "https://corrispondente.filoclastos.it/2026/11/05/data-center-italia-27-miliardi-amazon-openai-acqua/",
+      "slug": "data-center-italia-27-miliardi-amazon-openai-acqua",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Stasera al Pala Magis di Verona c'è il big match di SuperLega: Rana Verona-Allianz Milano, in diretta gratuita su Rai Sport alle 20:30. Il volley esiste. Anche quando non vince nessuna medaglia olimpica. #SuperLega #Volley",
-      "url": "https://corrispondente.filoclastos.it/2026/11/04/superlega-volley-verona-milano-4a-giornata-rai-sport/",
-      "slug": "superlega-volley-verona-milano-4a-giornata-rai-sport",
+      "testo": "Alberto Razzetti vince i 400 misti al Nico Sapio in 4'02\"91, nuovo record della competizione. 8 secondi di vantaggio sul secondo. In casa propria, davanti al suo pubblico. #Nuoto #Razzetti",
+      "url": "https://corrispondente.filoclastos.it/2026/11/05/razzetti-trofeo-nico-sapio-400-misti-record-2026/",
+      "slug": "razzetti-trofeo-nico-sapio-400-misti-record-2026",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "All'alba a Pianura (Napoli): 28 misure cautelari contro tre clan di camorra. Associazione mafiosa, estorsione, traffico di droga, armi. Puntuale come ogni 4 novembre, la Repubblica celebra se stessa mentre la Repubblica fa i suoi conti. #Camorra #Napoli",
-      "url": "https://corrispondente.filoclastos.it/2026/11/04/blitz-anticamorra-pianura-napoli-28-arresti-tre-clan/",
-      "slug": "blitz-anticamorra-pianura-napoli-28-arresti-tre-clan",
+      "testo": "Hacker attaccano la «banca del sangue» francese. In Italia l'ACN allerta gli ospedali sulla catena del freddo. La sanità digitale è il nuovo campo di battaglia. Chi la protegge? #Cybersecurity",
+      "url": "https://corrispondente.filoclastos.it/2026/11/05/cyberattacco-ospedali-francesi-plasma-catena-freddo-2026/",
+      "slug": "cyberattacco-ospedali-francesi-plasma-catena-freddo-2026",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Trovati globuli rossi di dinosauro conservati da 115 milioni di anni in un fossile brasiliano. Studio su PNAS firmato da Curtin University. Niente DNA, niente Jurassic Park — ma la biologia molecolare dei fossili non sarà più la stessa. #Scienza #Dinosauri",
-      "url": "https://corrispondente.filoclastos.it/2026/11/04/sangue-dinosauro-fossile-115-milioni-anni-aratasaurus-pnas/",
-      "slug": "sangue-dinosauro-fossile-115-milioni-anni-aratasaurus-pnas",
+      "testo": "Nobel per l'optogenetica a Deisseroth, Hegemann e Nagel. Studio su 10 pazienti con retinite pigmentosa: 6 miglioramenti clinicamente significativi. Piccolo campione, grande clamore. Chi finanzia? #Nobel2026",
+      "url": "https://corrispondente.filoclastos.it/2026/11/05/nobel-optogenetica-occhi-retinite-pigmentosa-2026/",
+      "slug": "nobel-optogenetica-occhi-retinite-pigmentosa-2026",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Marvell compra Lumentum per 115 miliardi di dollari in azioni — tra le più grandi acquisizioni tech della storia. Obiettivo: dominare la connettività ottica per i datacenter AI. NVIDIA aveva già investito 2 miliardi in entrambe. Coincidenze. #AI #Semiconduttori",
-      "url": "https://corrispondente.filoclastos.it/2026/11/04/marvell-acquisisce-lumentum-115-miliardi-dollari-semiconduttori-ai/",
-      "slug": "marvell-acquisisce-lumentum-115-miliardi-dollari-semiconduttori-ai",
+      "testo": "OpenAI trova 948 falle in Linux in 30 ore, costo: 1,2 milioni di dollari. Valore ipotetico degli exploit sul mercato: fino a 66 milioni. Non è sicurezza — è pubblicità. #AI #Cybersecurity",
+      "url": "https://corrispondente.filoclastos.it/2026/11/05/openai-948-vulnerabilita-linux-cyber-model-2026/",
+      "slug": "openai-948-vulnerabilita-linux-cyber-model-2026",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "AIFA: 331.000 casi di sindromi influenzali in una settimana, stagione appena cominciata. Stima per l'inverno: tra 12 e 14 milioni di casi. Il vaccino è gratuito per le categorie a rischio. L'industria farmaceutica ha già fatto i conti. #Influenza #Salute",
-      "url": "https://corrispondente.filoclastos.it/2026/11/04/influenza-2026-2027-331mila-casi-settimana-aifa-influzione/",
-      "slug": "influenza-2026-2027-331mila-casi-settimana-aifa-influzione",
+      "testo": "17.660 bambini nati con la PMA in Italia nel 2024. Due trattamenti con donazione su tre: solo nel privato. L'industria della maternità scientifica prospera laddove il pubblico arretra. #PMA #Sanità",
+      "url": "https://corrispondente.filoclastos.it/2026/11/05/fecondazione-assistita-italia-17660-bambini-privato-2026/",
+      "slug": "fecondazione-assistita-italia-17660-bambini-privato-2026",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "«Je so' pazzo» — il biopic su Pino Daniele con Massimiliano Caiazzo — resta primo al botteghino italiano. Prodotto da Rai Cinema. Distribuito da 01 Distribution. Il mito si vende bene. La domanda è: chi possiede la memoria? #Cinema #PinoDaniele",
-      "url": "https://corrispondente.filoclastos.it/2026/11/04/je-so-pazzo-film-pino-daniele-botteghino-primo-caiazzo/",
-      "slug": "je-so-pazzo-film-pino-daniele-botteghino-primo-caiazzo",
+      "testo": "Morto Tinto Brass a 93 anni. Tutti lo celebrano oggi. Ieri erano gli stessi che ne chiedevano la censura, il sequestro, il divieto. L'Italia è sempre in ritardo di un necrologio. #TintoBrass",
+      "url": "https://corrispondente.filoclastos.it/2026/11/05/morte-tinto-brass-93-anni-regista-cinema-erotico-2026/",
+      "slug": "morte-tinto-brass-93-anni-regista-cinema-erotico-2026",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }

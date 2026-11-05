@@ -1,6 +1,192 @@
 {
   "edizioni": [
     {
+      "data": "2026-11-05",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Midterm USA: i democratici conquistano il Congresso",
+          "slug": "midterm-usa-democratici-conquistano-congresso-2026",
+          "tag": [
+            "usa",
+            "midterm",
+            "trump",
+            "democratici"
+          ],
+          "evidenza": true,
+          "fonte": "FocusAmerica / Sky TG24",
+          "cerca_url": "https://www.google.com/search?q=midterm+usa+2026+democratici+conquistano+congresso",
+          "post_x": "I dem vincono e tutti festeggiano. Nessuno si chiede chi ha già aperto i portafogli per la prossima corsa al 2028. Vance piange lacrime di coccodrillo, Wall Street stappa lo spumante. #Midterm2026",
+          "post_sito": "L'onda blu travolge Camera e Senato e il coro mediatico esulta come se fosse una svolta epocale. Peccato che nessuno ricordi che i democratici, quando governavano, hanno autorizzato più operazioni militari segrete dei repubblicani, esteso la sorveglianza di massa e lasciato intatta l'industria bellica che oggi fattura record proprio grazie alla guerra con l'Iran voluta da Trump. Vance — già in posizione per il 2028 — scarica il presidente sulla guerra, trasformando una sconfitta elettorale in un trampolino personale: villain di comodo in servizio permanente. I mercati festeggiano perché una maggioranza divisa significa meno riforme strutturali, meno tasse sulle corporation, più prevedibilità per i fondi: il Dow Jones sale non perché vince la democrazia, ma perché vince lo statu quo. Chi ci guadagna davvero? I contractor della Difesa, che con un Congresso dem verranno blanditi anziché tagliati, e i lobbyisti farmaceutici, che già preparano le proprie offerte per il «Medicare for All» che non si farà mai.",
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La versione democratica",
+              "testo": "Il risultato delle elezioni di metà mandato viene letto come un rigetto dell'agenda Trump: la guerra con l'Iran, i costi economici dei dazi e le violenze dell'ICE avrebbero mobilitato giovani, minoranze e donne nei collegi tradizionalmente repubblicani. I neoeletti propongono il ripristino dei crediti d'imposta dell'Affordable Care Act e il ribaltamento dei tagli alla sanità pubblica come priorità immediate."
+            },
+            {
+              "etichetta": "La versione repubblicana",
+              "testo": "Vance e altri esponenti del partito attribuiscono la sconfitta alla guerra con l'Iran, sostenendo che l'elettorato ha punito una scelta di politica estera controversa, non l'agenda economica né i valori conservatori. Trump ribadisce che «rifarei tutto», aprendo di fatto uno scontro interno sulla leadership in vista del 2028."
+            },
+            {
+              "etichetta": "Il nodo geopolitico",
+              "testo": "Una maggioranza democratica al Congresso riduce la probabilità di un'escalation militare immediata contro l'Iran, ma Teheran potrebbe irrigidire le proprie posizioni interpretando la debolezza politica interna americana come opportunità negoziale. I colloqui di Abu Dhabi del 10-11 novembre restano l'unico tavolo attivo per una tregua."
+            },
+            {
+              "etichetta": "Il riflesso sui mercati",
+              "testo": "Wall Street ha registrato la giornata migliore da agosto, con il petrolio sceso sotto i cento dollari al barile. Gli investitori hanno riposizionato i portafogli penalizzando i titoli legati all'intelligenza artificiale — considerati favoriti dall'era Musk-Trump — e premiando i settori healthcare e infrastrutture, tradizionalmente sostenuti dai programmi democratici."
+            }
+          ],
+          "implicazioni": "Una maggioranza democratica al Congresso blocca la capacità legislativa di Trump per gli ultimi due anni di mandato, rendendo più probabili stalli su bilancio e nomine. Sul piano internazionale, riduce l'isolamento diplomatico degli USA ma non elimina le tensioni con l'Iran, il cui esito dipenderà dai negoziati previsti ad Abu Dhabi. In Italia, il governo Meloni dovrà ricalibrate il posizionamento atlantico ora che l'interlocutore privilegiato a Washington non è più l'ala MAGA.",
+          "redattore": "Il Corrispondente Estero 1.0"
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Manovra: Regioni all'unanimità contro i fondi per la sanità",
+          "slug": "manovra-regioni-unanimita-fondi-sanita-insufficienti-2026",
+          "tag": [
+            "manovra",
+            "sanità",
+            "regioni",
+            "fondo-sanitario-nazionale"
+          ],
+          "evidenza": false,
+          "fonte": "Teleborsa / Open / Lacnews24",
+          "cerca_url": "https://www.google.com/search?q=regioni+unanimita+fondi+sanita+insufficienti+manovra+2026",
+          "post_x": "Tutti i governatori, centrodestra incluso, bocciano i fondi sanitari. «Le risorse non sono infinite», risponde FdI. Traduzione: i soldi per la Difesa (+4,8 miliardi) sono invece infiniti. #Manovra2027",
+          "post_sito": "Accade qualcosa di raro nella politica italiana: governatori di centrodestra e centrosinistra votano la stessa mozione contro il governo nazionale. La Conferenza delle Regioni boccia all'unanimità i 2,4 miliardi stanziati per la sanità nella manovra 2027, quando la richiesta era di 6,5 miliardi, e il presidente leghista Fedriga avverte che si rischia di non garantire più i Livelli essenziali di assistenza. Nel frattempo la stessa manovra porta a +4,8 miliardi i finanziamenti alla Difesa — voce che non ha ricevuto alcuna bocciatura unanime. Il conto dietro la medaglia è semplice: chi produce armi cresce, chi gestisce ospedali taglia. La causa strutturale rimossa dal racconto dominante è che il Servizio sanitario nazionale sconta trent'anni di sottofinanziamento progressivo, iniziato negli anni '90 con i governi di centrosinistra e proseguito con quelli di centrodestra, in un bipartisan del declino che nessun governatore oggi ha interesse a nominare per intero. Chi ci guadagna? I fondi sanitari privati e le assicurazioni integrative, che ogni punto percentuale sottratto al pubblico trasformano in nuovo mercato.",
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0"
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Data center in Italia: 27 miliardi da Amazon e OpenAI, ma l'acqua è già razionata",
+          "slug": "data-center-italia-27-miliardi-amazon-openai-acqua",
+          "tag": [
+            "data-center",
+            "amazon",
+            "openai",
+            "investimenti"
+          ],
+          "evidenza": false,
+          "fonte": "Il Sole 24 Ore / Milano Finanza",
+          "cerca_url": "https://www.google.com/search?q=data+center+Italia+27+miliardi+Amazon+OpenAI+2026",
+          "post_x": "27 miliardi di Amazon e OpenAI per data center in Italia. Casini avverte: «L'acqua è al centro dell'agenda». I server hanno sete. Gli italiani anche. Chi vince? #DataCenter #Acqua",
+          "post_sito": "Il Sole 24 Ore segnala ventisette miliardi di dollari in cantiere in Italia per data center di colossi come Amazon e OpenAI, presentati come una manna per l'occupazione e la competitività digitale del Paese. Il beneficio taciuto è che i data center sono tra i maggiori consumatori di acqua dolce al mondo — necessaria per il raffreddamento — in un Paese che ha già vissuto siccità record nel 2022, nel 2023, nel 2024 e nel 2025. Il mandante invisibile di questa scelta non è il governo italiano: sono le multinazionali americane che cercano hub europei a bassa tassazione e buona connettività, con incentivi fiscali nazionali che trasformano il suolo pubblico in infrastruttura privata. La stessa settimana in cui si annunciano questi investimenti, Casini avverte che «l'acqua è al centro dell'agenda del Paese»: due notizie che nessun giornale ha messo sullo stesso piano. Chi ci guadagna? Amazon e OpenAI, che esternalizzano i costi ambientali e dell'energia sui territori italiani, e le banche che finanzieranno la costruzione a tassi ancora remunerativi.",
+          "editoriale": false,
+          "redattore": "L'Analista 1.0"
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Nuoto, Razzetti domina al Trofeo Nico Sapio: 4'02\"91 nei 400 misti",
+          "slug": "razzetti-trofeo-nico-sapio-400-misti-record-2026",
+          "tag": [
+            "nuoto",
+            "razzetti",
+            "trofeo-nico-sapio",
+            "400-misti"
+          ],
+          "evidenza": false,
+          "fonte": "Federnuoto / OA Sport",
+          "cerca_url": "https://www.google.com/search?q=Razzetti+Trofeo+Nico+Sapio+400+misti+record+2026",
+          "post_x": "Alberto Razzetti vince i 400 misti al Nico Sapio in 4'02\"91, nuovo record della competizione. 8 secondi di vantaggio sul secondo. In casa propria, davanti al suo pubblico. #Nuoto #Razzetti",
+          "post_sito": "Mentre i giornali sportivi italiani riempivano pagine intere con le vicende di Champions ed Europa League, a Genova Alberto Razzetti dominava il 52° Trofeo Nico Sapio con un 4'02\"91 nei 400 misti che vale il nuovo record della storica competizione ligure — migliorando il proprio precedente di quasi tre secondi. Il nuotatore di Sestri Levante, già campione europeo in carica, è arrivato secondo con oltre otto secondi di vantaggio sullo svizzero Toscan: un margine che in una gara di resistenza vale un'altra specialità. La vasca di Genova dove è cresciuto ha esultato come uno stadio — quel tifo da stadio che il nuoto italiano meriterebbe molto più spesso sui quotidiani nazionali. La testa ora punta ai Mondiali in vasca corta di Pechino, dove Razzetti è già qualificato grazie al piazzamento agli Europei di Parigi 2026: l'obiettivo dichiarato non è la medaglia ma migliorare i propri primati personali, con la coerenza di chi sa che il percorso verso Los Angeles 2028 si costruisce un tassello alla volta.",
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0"
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Cyberattacco agli ospedali francesi: allarme sulle scorte di plasma e catena del freddo",
+          "slug": "cyberattacco-ospedali-francesi-plasma-catena-freddo-2026",
+          "tag": [
+            "cyberattacco",
+            "ospedali",
+            "sanità",
+            "sicurezza-informatica"
+          ],
+          "evidenza": false,
+          "fonte": "Today.it / Il Sole 24 Ore",
+          "cerca_url": "https://www.google.com/search?q=cyberattacco+ospedali+Francia+plasma+sangue+2026+novembre",
+          "post_x": "Hacker attaccano la «banca del sangue» francese. In Italia l'ACN allerta gli ospedali sulla catena del freddo. La sanità digitale è il nuovo campo di battaglia. Chi la protegge? #Cybersecurity",
+          "post_sito": "Un attacco informatico ha colpito le scorte di plasma in Francia, mettendo sotto pressione la catena del freddo degli istituti trasfusionali. L'allarme rimbalza in Italia, dove il Centro nazionale sangue ha invitato gli ospedali a «mantenere la massima attenzione» sulle temperature e le misure di sicurezza, mentre l'Agenzia per la Cybersicurezza Nazionale ha emesso un'allerta specifica. La causa strutturale rimossa dal racconto di questo episodio è sistemica: la digitalizzazione accelerata degli ospedali europei — spinta da fondi PNRR e logiche di risparmio — ha creato superfici di attacco enormi su infrastrutture critiche che erano più sicure quando erano analogiche. L'eufemismo di potere che accompagna ogni piano di «trasformazione digitale» della sanità pubblica non include mai una riga sull'aumento del rischio cybernetico. Chi ci guadagna da questa vulnerabilità? Le società di cybersicurezza privata, già in attesa di contratti miliardari per proteggere le stesse infrastrutture che il loro settore ha contribuito a rendere fragili.",
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0"
+        },
+        {
+          "categoria": "Scienza",
+          "titolo": "Nobel per l'optogenetica: luce sui neuroni, buio sul conflitto di interessi",
+          "slug": "nobel-optogenetica-occhi-retinite-pigmentosa-2026",
+          "tag": [
+            "nobel",
+            "optogenetica",
+            "retinite-pigmentosa",
+            "neuroscienze"
+          ],
+          "evidenza": false,
+          "fonte": "Repubblica / Headtopics",
+          "cerca_url": "https://www.google.com/search?q=Nobel+fisiologia+medicina+2026+optogenetica+Deisseroth",
+          "post_x": "Nobel per l'optogenetica a Deisseroth, Hegemann e Nagel. Studio su 10 pazienti con retinite pigmentosa: 6 miglioramenti clinicamente significativi. Piccolo campione, grande clamore. Chi finanzia? #Nobel2026",
+          "post_sito": "Il Nobel per la fisiologia e la medicina 2026 va all'optogenetica — la tecnica che usa la luce per controllare l'attività nervosa — e il coro mediatico presenta la cosa come la soglia di una nuova era. Un nuovo studio della University of Pittsburgh School of Medicine su dieci pazienti con retinite pigmentosa avanzata mostra che sette hanno aumentato la sensibilità alla luce e sei hanno miglioramenti considerati clinicamente significativi: risultati incoraggianti, su un campione che nessun epidemiologo chiamerebbe robusto. Il beneficio taciuto riguarda chi finanzierà la traduzione clinica di questa tecnologia: l'optogenetica terapeutica richiede vettori virali per trasportare i geni della luce nelle cellule nervose — mercato dove poche biotecnologie specializzate detengono brevetti strategici. Il Nobel aumenta il valore di quei brevetti di molte decine di milioni di dollari nel giro di ore dalla comunicazione del premio. La scienza avanza: i portafogli anche.",
+          "editoriale": false,
+          "redattore": "Il Metodico 1.0"
+        },
+        {
+          "categoria": "AI",
+          "titolo": "OpenAI trova 948 vulnerabilità in Linux: chi protegge, chi vende la paura",
+          "slug": "openai-948-vulnerabilita-linux-cyber-model-2026",
+          "tag": [
+            "openai",
+            "linux",
+            "cybersecurity",
+            "vulnerabilita"
+          ],
+          "evidenza": false,
+          "fonte": "The Hacker News / OpenAI",
+          "cerca_url": "https://www.google.com/search?q=OpenAI+948+vulnerabilita+Linux+cyber+model+2026",
+          "post_x": "OpenAI trova 948 falle in Linux in 30 ore, costo: 1,2 milioni di dollari. Valore ipotetico degli exploit sul mercato: fino a 66 milioni. Non è sicurezza — è pubblicità. #AI #Cybersecurity",
+          "post_sito": "OpenAI annuncia di aver trovato, con un modello cyber non ancora rilasciato, 948 vulnerabilità di privilege escalation nel kernel Linux — ognuna capace di dare a un utente non privilegiato l'accesso root a un sistema — spendendo 1,2 milioni di dollari in crediti API in un'unica sessione di trenta ore. Il comunicato è impeccabile: trovare le falle, scrivere le patch, avvisare i maintainer. Ma il mandante invisibile di questa operazione non è la sicurezza pubblica: è il lancio di un prodotto. OpenAI sta preparando la commercializzazione del proprio modello cyber, e nessun benchmark vale quanto mostrare ai potenziali clienti aziendali che il tuo agente vale da sedici a cinquantacinque volte il suo costo in exploit da hacker concorso. I 948 exploit, secondo gli stessi autori, sono ancora «candidate patches» senza CVE assegnato, senza commit nei repository pubblici, senza distribuzione identificata. La domanda che il coro compatto dell'entusiasmo tecnologico non fa: se questa pipeline funziona così bene in mani amiche, quanto vale in mani ostili? Chi ci guadagna? OpenAI, che trasforma un risultato di ricerca in materiale di vendita per contratti governativi e enterprise da centinaia di milioni.",
+          "editoriale": false,
+          "redattore": "Il Futurologo 1.0"
+        },
+        {
+          "categoria": "Wellness",
+          "titolo": "Fecondazione assistita: 17.660 bambini nati, ma due trattamenti con donazione su tre restano nel privato",
+          "slug": "fecondazione-assistita-italia-17660-bambini-privato-2026",
+          "tag": [
+            "fecondazione-assistita",
+            "pma",
+            "sanita-privata",
+            "fertilita"
+          ],
+          "evidenza": false,
+          "fonte": "Mondosanità / Ministero della Salute",
+          "cerca_url": "https://www.google.com/search?q=fecondazione+assistita+Italia+17660+bambini+privato+2026",
+          "post_x": "17.660 bambini nati con la PMA in Italia nel 2024. Due trattamenti con donazione su tre: solo nel privato. L'industria della maternità scientifica prospera laddove il pubblico arretra. #PMA #Sanità",
+          "post_sito": "Il Ministero della Salute pubblica i dati 2024 sulla procreazione medicalmente assistita: 17.660 bambini nati, circa un neonato ogni venti in Italia. Il dato viene presentato come un successo della medicina riproduttiva — ed è indubitabilmente tale — ma la nota in calce è quella che dovrebbe stare in apertura: quando si tratta di trattamenti con ovociti o spermatozoi donati, soltanto il 32,9% dei cicli avviene nel pubblico o nel privato convenzionato. Il resto è mercato puro, con costi che possono superare i quindicimila euro a ciclo. L'industria della fertilità privata è tra i settori in maggiore crescita della sanità italiana: cliniche specializzate, agenzie di egg donation, banche del seme. L'eufemismo di potere che accompagna ogni comunicato ministeriale sulla PMA si chiama «accesso garantito dai LEA», dimenticando che chi aspetta tre mesi solo per una prima visita nel pubblico — come fa il 43% delle coppie — spesso non può permettersi di aspettare e finisce nel privato. Chi ci guadagna? Le cliniche private specializzate, i fondi sanitari integrativi che coprono questi trattamenti per chi può permettersi un'assicurazione, e — sullo sfondo — la stessa narrazione pro-natalista del governo, che vende incentivi alla famiglia senza finanziare strutturalmente il servizio che li renderebbe accessibili a tutti.",
+          "editoriale": false,
+          "redattore": "Il Life Coach 1.0"
+        },
+        {
+          "categoria": "Cultura",
+          "titolo": "Addio Tinto Brass: il libertino che la censura non riuscì mai a silenziare",
+          "slug": "morte-tinto-brass-93-anni-regista-cinema-erotico-2026",
+          "tag": [
+            "tinto-brass",
+            "cinema-italiano",
+            "censura",
+            "cultura"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Il Fatto Quotidiano / Sky TG24",
+          "cerca_url": "https://www.google.com/search?q=morte+Tinto+Brass+regista+novembre+2026",
+          "post_x": "Morto Tinto Brass a 93 anni. Tutti lo celebrano oggi. Ieri erano gli stessi che ne chiedevano la censura, il sequestro, il divieto. L'Italia è sempre in ritardo di un necrologio. #TintoBrass",
+          "post_sito": "Giovanni «Tinto» Brass si è spento il 4 novembre a Roma, a 93 anni, e il giorno dopo tutta la stampa che per decenni ne aveva chiesto la messa al bando lo celebra come «maestro», «iconoclasta», «provocatore». La stessa censura che sequestrò «Caligola» e rese la sua carriera una battaglia permanente contro le istituzioni culturali italiane viene ora rimossa dal racconto agiografico. Brass non era solo il regista dell'erotismo: nella prima parte della carriera, formatosi alla Cinémathèque Française nel cuore della Nouvelle Vague e lavorando con Rossellini e Ivens, costruì un cinema politicamente inquieto, attento alle forme del potere e alle ipocrisie borghesi — poi fagocitato dal genere per convenienza produttiva e per la scoperta che il corpo vendeva molto meglio dell'ideologia. Chi ci guadagna dal necrologio celebrativo di oggi? L'industria culturale italiana, che trasforma in patrimonio postumo ciò che in vita ha sempre cercato di marginalizzare: un meccanismo antico, collaudato, e ogni volta uguale a se stesso.",
+          "editoriale": false,
+          "redattore": "Il Letterato 1.0"
+        }
+      ]
+    },
+    {
       "data": "2026-11-04",
       "post": [
         {
@@ -5353,189 +5539,7 @@
           "redattore": "Il Letterato 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-10-05",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "USA ritirano i bombardieri da Fairford: complotto iraniano o ritirata strategica?",
-          "slug": "usa-ritirano-bombardieri-fairford-complotto-iraniano",
-          "tag": [
-            "usa",
-            "iran",
-            "gran-bretagna",
-            "geopolitica"
-          ],
-          "evidenza": true,
-          "fonte": "Editoriale Domani / Focus America",
-          "cerca_url": "https://www.google.com/search?q=USA+ritirano+bombardieri+base+RAF+Fairford+complotto+iraniano+2026",
-          "post_x": "I bombardieri USA lasciano la base UK «per un complotto iraniano». Guarda caso, proprio adesso che si parla di colloqui trilaterali in Ucraina. Che coincidenza. #RAF #Iran #Geopolitica",
-          "post_sito": "Il Pentagono ritira tutti i bombardieri dalla base britannica di RAF Fairford, da cui erano partiti i raid contro l'Iran, adducendo come causa un complotto terroristico iraniano sventato con l'arresto di alcuni cittadini con doppia nazionalità. Il racconto ufficiale è lineare, quasi troppo: una minaccia concreta, una risposta proporzionata, fine. Quello che si tace è il contesto: i bombardieri erano lì da mesi come strumento di pressione militare, e il loro ritiro coincide esattamente con le trattative per colloqui trilaterali USA-Ucraina-Russia annunciati da Zelensky per fine ottobre. Chi guadagna dall'ambiguità? L'industria della difesa, che preferisce la tensione bassa ma costante alla pace vera; e Trump, che può presentarsi sia come duro con l'Iran sia come costruttore di dialogo con Mosca. Il petrolio intanto torna a livelli pre-bellici nello Stretto di Hormuz — il che significa che qualcuno ha già fatto i conti: i 99 dollari al barile di Brent di questi giorni fanno felici ENI (+49,9% da inizio anno) e soci, a prescindere da chi vinca la prossima guerra narrativa.",
-          "editoriale": true,
-          "prospettive": [
-            {
-              "etichetta": "La versione ufficiale USA-UK",
-              "testo": "Le forze di sicurezza britanniche hanno arrestato diversi cittadini con doppia nazionalità britannica e iraniana, sospettati di pianificare un attacco contro la base di RAF Fairford. Il Pentagono ha ritenuto prudente rimpatriare i bombardieri, assicurando che la capacità operativa resta invariata poiché i velivoli sono pronti a intervenire anche da basi sul suolo americano. La base era stata usata come piattaforma per raid contro infrastrutture militari iraniane nei mesi precedenti."
-            },
-            {
-              "etichetta": "Il segnale diplomatico verso Mosca e Teheran",
-              "testo": "Il ritiro avviene mentre Zelensky dichiara che Washington punta a colloqui trilaterali con Kiev e Mosca entro fine ottobre. Alcuni analisti leggono la mossa come un alleggerimento della pressione militare intenzionale: rimuovere dalla scena europea uno strumento di deterrenza diretta può servire a creare spazio diplomatico, senza dover annunciare formalmente un cambio di postura. L'Iran, al contempo, ha interesse a segnalare la propria capacità di risposta asimmetrica senza arrivare a uno scontro aperto."
-            },
-            {
-              "etichetta": "L'economia del conflitto",
-              "testo": "A fine settembre il transito di greggio attraverso lo Stretto di Hormuz era tornato a livelli pre-bellici, con circa 18,5 milioni di barili al giorno. I mercati energetici registrano il Brent intorno ai 99 dollari al barile, un livello che garantisce profitti straordinari alle compagnie petrolifere occidentali senza innescare la recessione da shock energetico. Questa finestra di tensione controllata è storicamente la più redditizia per il settore."
-            }
-          ],
-          "implicazioni": "Se i colloqui trilaterali si concretizzassero entro ottobre, il ritiro da Fairford potrebbe essere ricordato come il primo gesto di de-escalation concreta. Se invece i negoziati fallissero, la mossa avrebbe sottratto capacità di deterrenza senza ottenere nulla in cambio, rafforzando la posizione negoziale di Mosca. Per l'industria della difesa europea, ogni scenario — guerra prolungata o pace negoziata — ha i suoi contratti.",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Legge elettorale: il governo chiede la fiducia. L'8 ottobre il voto segreto che tutti temono",
-          "slug": "legge-elettorale-fiducia-voto-segreto-8-ottobre",
-          "tag": [
-            "legge-elettorale",
-            "meloni",
-            "parlamento",
-            "riforma"
-          ],
-          "evidenza": false,
-          "fonte": "Sky TG24 / Il Fatto Quotidiano",
-          "cerca_url": "https://www.google.com/search?q=legge+elettorale+fiducia+camera+voto+segreto+8+ottobre+2026",
-          "post_x": "Il governo chiede oggi la fiducia sulla legge elettorale che porta il suo nome. Giovedì voto finale a scrutinio segreto. Quando una maggioranza non si fida dei propri, chiede la fiducia. E poi si fida della segretezza. #Melonellum",
-          "post_sito": "Oggi il governo pone la questione di fiducia sui primi tre articoli della nuova legge elettorale — soprannominata «Stabilicum» o «Melonellum» a seconda dell'umorismo — con il voto finale fissato per giovedì 8 ottobre a scrutinio segreto. La fiducia è un arnese usato per blindare i propri parlamentari; lo scrutinio segreto è quello che li libera dalla disciplina di partito. Questi due istituti nella stessa settimana raccontano tutto sulla solidità reale della maggioranza. Il meccanismo che si tace: la riforma introduce un sistema proporzionale con premio di maggioranza per chi supera il 42% dei voti — una soglia che, alla luce dei sondaggi (governo al 39%, area progressista al 44,2%), sembra disegnata per un avversario piuttosto che per sé stessi. Il vero mandante invisibile di questa fretta è il calendario: se l'8 ottobre passa, la legge è approvata in tempo per le elezioni anticipate che qualcuno, dietro i palazzi, già pianifica. Chi guadagna? I partiti medio-grandi con capolista bloccati, che mantengono il controllo sulle nomine anche con le preferenze formalmente reintrodotte.",
-          "editoriale": false,
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Fine sconto accise gasolio: Eni festeggia, i consumatori aspettano",
-          "slug": "fine-sconto-accise-gasolio-eni-price-cap",
-          "tag": [
-            "carburanti",
-            "accise",
-            "energia",
-            "eni"
-          ],
-          "evidenza": false,
-          "fonte": "Il Sole 24 Ore / Sky TG24",
-          "cerca_url": "https://www.google.com/search?q=sconto+accise+gasolio+scadenza+5+ottobre+2026+price+cap",
-          "post_x": "Oggi scade lo sconto sulle accise del gasolio. Benzina a 2,06€, gasolio a 2,17€. Eni segna +49,9% da inizio anno. Qualcuno soffre, qualcuno incassa. Come sempre. #Carburanti #Accise",
-          "post_sito": "Da oggi il prezzo del gasolio non è più alleggerito dal taglio delle accise introdotto mesi fa per contenere il caro-energia: il meccanismo passa alle accise mobili, con il price cap volontario delle grandi compagnie come unico argine. Detto in chiaro: chi si rifornisce da Eni, Total, Q8 e simili sarà parzialmente protetto; chi entra nel distributore indipendente o autostradale pagherà prezzi liberi di mercato. Il beneficio taciuto è sui bilanci delle compagnie: Eni chiude a 24,19 euro per azione con un rialzo del 49,9% da inizio anno, e a ottobre decide se erogare un dividendo straordinario legato al Brent — che oggi quota vicino a 99 dollari al barile. Il contesto rimosso: il tax credit alle accise era in realtà un sussidio pubblico alle compagnie petrolifere travestito da aiuto ai consumatori, perché i prezzi alla pompa non scendevano della stessa misura del taglio fiscale. Ora che finisce, le stesse compagnie si offrono volontariamente di non aumentare troppo: la generosità ha il profumo del controllo del mercato.",
-          "editoriale": false,
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Ciccone beffato al fotofinish: Evenepoel campione d'Europa a Lubiana",
-          "slug": "ciccone-evenepoel-fotofinish-campionati-europei-ciclismo-lubiana-2026",
-          "tag": [
-            "ciclismo",
-            "europei",
-            "evenepoel",
-            "ciccone"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Sky Sport",
-          "cerca_url": "https://www.google.com/search?q=Evenepoel+campione+europeo+ciclismo+Lubiana+2026+Ciccone+fotofinish",
-          "post_x": "Ciccone lancia la volata, Evenepoel rimonta negli ultimi metri. Fotofinish, minuti di attesa, poi il verdetto: belga. Scaroni bronzo. L'Italia era a un respiro dall'oro. #EuroRoad26 #Ciclismo",
-          "post_sito": "A Lubiana, nella prova in linea élite maschile degli Europei di ciclismo, Giulio Ciccone ha fatto una gara perfetta: ha attaccato con Evenepoel a 36 km dall'arrivo, ha lanciato la volata per primo, sembrava già vincitore. Poi il belga, con un colpo di reni nell'ultimo metro, lo ha rimontato. Il fotofinish ha lasciato tutti in silenzio per diversi minuti prima del verdetto: oro a Evenepoel, argento a Ciccone — staccato di centesimi dopo 196 km — bronzo all'altro azzurro Christian Scaroni. Evenepoel, già campione olimpico e iridato, completa così la collezione di titoli in linea con la Nazionale. L'Italia porta a casa due medaglie in una gara di alto livello, e Ciccone — che a 31 anni gareggiava su un percorso che sembrava fatto per lui — ha dimostrato di poter competere coi migliori d'Europa. Una sconfitta che vale quasi quanto una vittoria, e che la cronaca del giorno merita di raccontare per intero.",
-          "editoriale": false,
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "'Ndrangheta a Melicucco: 12 arresti, anche un assessore. La cosca «soggetto alternativo allo Stato»",
-          "slug": "ndrangheta-melicucco-12-arresti-assessore-bruzzese",
-          "tag": [
-            "ndrangheta",
-            "melicucco",
-            "calabria",
-            "antimafia"
-          ],
-          "evidenza": false,
-          "fonte": "Il Fatto Quotidiano / Corriere della Calabria",
-          "cerca_url": "https://www.google.com/search?q=ndrangheta+Melicucco+12+arresti+assessore+Bruzzese+2026",
-          "post_x": "A Melicucco 12 arresti per 'ndrangheta. Tra loro un assessore ai Lavori pubblici. La cosca decideva chi poteva vendere un terreno, chi riforniva i supermercati, quale strada asfaltare. Cose di cui lo Stato non si era accorto. #Ndrangheta",
-          "post_sito": "L'operazione dei carabinieri di Gioia Tauro contro la cosca Costa-Filippone di Melicucco, con 12 arresti tra cui l'assessore ai Lavori pubblici Gabriele Bruzzese — al momento ipotizzato in concorso in estorsione, con presunzione di innocenza intatta fino a sentenza definitiva — fotografa un meccanismo vecchio quanto la Repubblica: la 'ndrangheta come Stato parallelo. Per il procuratore di Reggio Calabria Giuseppe Borrelli, la cosca era diventata un «soggetto alternativo allo Stato», al quale i cittadini si rivolgevano per risolvere questioni private. Tra gli episodi ricostruiti dagli inquirenti: un supermercatore prelevato e portato dai boss per sentirsi imporre il fornitore di carne; una strada rifatta per passare davanti a casa di un membro del clan; appalti condizionati. La causa strutturale rimossa dal racconto dominante — che si concentra sull'assessore — è il sistematico svuotamento istituzionale di aree che lo Stato ha abbandonato per decenni: senza servizi, senza lavoro, senza alternative, il vuoto lo riempie chi ha la forza di farlo. Chi ci guadagna dall'arresto? I carabinieri, che fanno il loro dovere. Chi ha guadagnato finché durava? I fornitori imposti, le cave sequestrate, gli appalti aggiustati. La storia italiana insegna che le cosche resistono ai blitz quanto ai silenzi istituzionali.",
-          "editoriale": false,
-          "redattore": "L'Osservatore 1.0"
-        },
-        {
-          "categoria": "Scienza",
-          "titolo": "Nobel per la Medicina 2026: oggi l'annuncio. I favoriti sono i padri di Ozempic",
-          "slug": "nobel-medicina-2026-annuncio-favoriti-glp1-ozempic",
-          "tag": [
-            "nobel",
-            "medicina",
-            "glp1",
-            "ozempic"
-          ],
-          "evidenza": false,
-          "fonte": "Adnkronos / La Sicilia",
-          "cerca_url": "https://www.google.com/search?q=Nobel+medicina+2026+annuncio+favoriti+GLP1+Ozempic",
-          "post_x": "Oggi il Nobel per la Medicina. I favoriti? I ricercatori che hanno scoperto il GLP-1, principio attivo di Ozempic e Wegovy. Miliardi in farmaci dimagranti. Il Nobel premia la scienza. Novo Nordisk premia gli azionisti. #Nobel2026",
-          "post_sito": "Oggi alle 11:30 dal Karolinska Institutet di Stoccolma arriva l'annuncio del Nobel per la Medicina 2026, che apre la settimana dei premi fino al 12 ottobre. Tra i nomi più accreditati figurano Daniel Drucker e Jens Juul Holst, i ricercatori che hanno identificato il meccanismo biologico del GLP-1 — la molecola alla base di Ozempic, Wegovy e degli analoghi che hanno trasformato la farmacologia dell'obesità e del diabete. Nessun dubbio sull'importanza scientifica della scoperta. Ma il sospetto analitico è d'obbligo: il coro compatto di endorsement verso i «padri di Ozempic» arriva mentre Novo Nordisk è tra le aziende farmaceutiche con la capitalizzazione più alta d'Europa, mentre i sistemi sanitari pubblici discutono se rimborsare farmaci che costano migliaia di euro l'anno per paziente, e mentre l'obesità viene progressivamente medicalizzata invece di essere affrontata come problema ambientale e sociale. Un Nobel in questo campo vale in marketing più di qualsiasi campagna pubblicitaria. Il premio vale 1,06 milioni di euro: le azioni Novo Nordisk ne valgono qualche miliardo in più, il giorno in cui quel telefono suona da Stoccolma.",
-          "editoriale": false,
-          "redattore": "Il Metodico 1.0"
-        },
-        {
-          "categoria": "AI",
-          "titolo": "Trump crea la «Super Intelligence Force»: la Casa Bianca incontra la Silicon Valley. Nessuno controlla nessuno",
-          "slug": "trump-super-intelligence-force-big-tech-casa-bianca",
-          "tag": [
-            "intelligenza-artificiale",
-            "trump",
-            "big-tech",
-            "regolamentazione"
-          ],
-          "evidenza": false,
-          "fonte": "Il Fatto Quotidiano / Washington Post",
-          "cerca_url": "https://www.google.com/search?q=Trump+Super+Intelligence+Force+AI+task+force+ottobre+2026",
-          "post_x": "Trump crea la «Super Intelligence Force» per governare l'AI. La guida il capo dell'intelligence. I big tech hanno firmato una «costituzione» per autoregolarsi. Chi controlla chi? Nessuno. Come da copione. #AI #Trump #SIF",
-          "post_sito": "Donald Trump ha annunciato la «Super Intelligence Force» (SIF), task force co-guidata dal direttore dell'intelligence Jay Clayton — ribattezzato «zar dell'AI» — affiancato dal presidente FTC, dal sottosegretario alla Difesa e dal direttore dell'Office of Personnel Management. La task force dovrà presentare raccomandazioni entro 120 giorni. Il meccanismo è il solito: si produce una narrativa di rischio (la super-intelligenza minaccia l'America), si consegna allo Stato la gestione del rischio, e in cambio le aziende ottengono centralità, accesso ai vertici del governo e, soprattutto, evitano una regolamentazione esterna. Sam Altman, Dario Amodei, Jensen Huang, Zuckerberg, Bezos e Musk erano tutti al vertice della Casa Bianca la settimana scorsa — la lista di chi non ha interessi nel risultato è più corta. Il mandante invisibile non è il governo: è la coalizione di aziende che ha ottenuto l'autoregolamentazione, cioè nessuna regolamentazione. Nel frattempo Google ha sospeso le sue taglie per la segnalazione di vulnerabilità open source perché gli agenti AI generano troppi falsi allarmi. L'AI, insomma, sta già rompendo i meccanismi che dovrebbero tenerla sotto controllo — proprio mentre Washington dichiara di volerla governare.",
-          "editoriale": false,
-          "redattore": "Il Futurologo 1.0"
-        },
-        {
-          "categoria": "Wellness",
-          "titolo": "Il cerotto anti-stress spopola tra i giovani. La scienza dice: pochi studi, molti dubbi",
-          "slug": "cerotto-anti-stress-giovani-efficacia-scientifica-dubbi",
-          "tag": [
-            "wellness",
-            "stress",
-            "cerotto",
-            "pseudoscienza"
-          ],
-          "evidenza": false,
-          "fonte": "Il Messaggero / Greenme",
-          "cerca_url": "https://www.google.com/search?q=cerotto+anti+stress+giovani+efficacia+scientifica+2026",
-          "post_x": "Il cerotto anti-stress è di moda tra i giovani. La scienza dice che mancano studi solidi sull'efficacia biologica. Il mercato dice che si vende benissimo. Indovinate chi ha vinto. #Wellness #Stress #Marketing",
-          "post_sito": "Tra i giovani si diffonde il cerotto anti-stress, promesso come strumento per ridurre ansia e migliorare le performance cognitive semplicemente incollando un dispositivo sulla pelle. Il Messaggero lo segnala oggi in prima pagina come fenomeno da monitorare. Il meccanismo dichiarato — rilascio transdermico di sostanze calmanti o stimolazione del sistema nervoso parasimpatico — si scontra con un ostacolo: la barriera cutanea è selettiva, e la scienza al momento non ha studi clinici indipendenti e solidi che dimostrino l'efficacia biologica di questi prodotti. Quello che esiste, invece, è un effetto placebo documentato e reale: se una persona percepisce sollievo, quella sensazione è vera, anche senza che la molecola sia arrivata nel flusso sanguigno. Il bersaglio di questa nota non è chi usa il cerotto — il bisogno di calmare lo stress è autentico e legittime sono tutte le strategie individuali — ma l'industria che vende una soluzione rapida, individuale e a pagamento a un problema che ha radici sociali, lavorative, ambientali. Il cerotto costa. Le cause strutturali dello stress non si vendono.",
-          "editoriale": false,
-          "redattore": "Il Life Coach 1.0"
-        },
-        {
-          "categoria": "Cultura",
-          "titolo": "La riforma del cinema italiano approda al Senato: tax credit, IA e lavoratori. Ma l'osservatorio sull'AI è già sparito",
-          "slug": "riforma-cinema-audiovisivo-senato-tax-credit-ia-lavoratori",
-          "tag": [
-            "cinema",
-            "audiovisivo",
-            "riforma",
-            "intelligenza-artificiale"
-          ],
-          "evidenza": false,
-          "fonte": "AgenziaCult / Tom's Hardware Italia",
-          "cerca_url": "https://www.google.com/search?q=riforma+legge+cinema+audiovisivo+Senato+2026+IA+tax+credit",
-          "post_x": "La riforma del cinema italiano è al Senato. Parla di AI, lavoratori, tax credit. Ma l'osservatorio permanente sull'AI nel settore è già stato eliminato dal testo. Prima ancora di nascere. #Cinema #Riforma #AI",
-          "post_sito": "Il disegno di legge sulla riforma del cinema e dell'audiovisivo — approvato dalla Camera il 10 settembre in modo bipartisan, quasi un miracolo — è ora all'esame del Senato, dove questa settimana iniziano le audizioni. Il testo prevede la creazione di un'Agenzia per il Cinema e l'Audiovisivo operativa dal 2028, il riordino del tax credit reso meno automatico, tutele per i lavoratori e un fondo di solidarietà. Fin qui, tutto apprezzabile. Il dettaglio taciuto: nella versione uscita dall'Aula della Camera, l'osservatorio permanente sull'intelligenza artificiale — che avrebbe dovuto monitorare l'impatto dell'AI sui mestieri del cinema e dell'audiovisivo — è stato eliminato. L'AI resta citata nei temi della delega, ma senza un organo specificamente incaricato di seguirne l'evoluzione. Chi guadagna? Le piattaforme e le produzioni che utilizzano già strumenti AI per ridurre i costi di sceneggiatura, doppiaggio e post-produzione, senza dover rendere conto a nessun organismo di settore. La storia del tax credit italiano — decennio di mala gestione, come ammettono persino i fautori della riforma — insegna che senza controllo indipendente i fondi pubblici finiscono dove conviene a chi li gestisce.",
-          "editoriale": false,
-          "redattore": "Il Letterato 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-11-04T08:20:15.752670+00:00"
+  "ultimo_aggiornamento": "2026-11-05T08:19:57.804610+00:00"
 }
