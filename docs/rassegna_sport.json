@@ -1,6 +1,22 @@
 {
-  "generato": "2026-11-05T06:30:59.266043+00:00",
+  "generato": "2026-11-05T12:31:01.827105+00:00",
   "item": [
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Al via la Serie A del Volo. Favre: \"Sia una stagione di crescita, confronto e soddisfazioni\"",
+      "link": "https://www.gazzetta.it/bocce/05-11-2026/bocce-al-via-la-serie-a-del-volo-favre-sia-una-stagione-di-crescita.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-11-05"
+    },
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Brignone lascia i Carabinieri e torna allo sci Club Courmayeur che l'aveva lanciata",
+      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/02-11-2026/federica-brignone-lascia-arma-carabinieri-torna-sci-club-courmayeur.shtml",
+      "fonte": "Gazzetta — Sport Invernali",
+      "data_evento": "2026-11-02"
+    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
@@ -23,22 +39,6 @@
       "titolo": "Route du Rhum, a un terzo del cammino verso Guadalupa Clapcich e Beccaria si giocano il podio",
       "link": "https://www.gazzetta.it/vela/04-11-2026/route-du-rhum-a-un-terzo-del-cammino-verso-guadalupa-clapchic-e-beccaria-terza-e-quinto.shtml",
       "fonte": "Gazzetta — Vela e Nautica",
-      "data_evento": "2026-11-04"
-    },
-    {
-      "sottocategoria": "Squadra",
-      "tipo": "notizia",
-      "titolo": "Il rugby scoperto… grazie alle mucche! L'incredibile storia di Baloucoune, ala sprint dell'Irlanda",
-      "link": "https://www.gazzetta.it/Rugby/04-11-2026/il-rugby-scoperto-grazie-alle-mucche-l-incredibile-storia-di-baloucoune-1.shtml",
-      "fonte": "Gazzetta — Rugby",
-      "data_evento": "2026-11-04"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Berrettini-Humbert: highlights Atp Parigi",
-      "link": "https://video.gazzetta.it/tennis/atp/highlights/video-berrettini-humbert-highlights-atp-parigi/26a15ef5-1095-4022-b536-d7897b449xlk",
-      "fonte": "Gazzetta — Tennis",
       "data_evento": "2026-11-04"
     }
   ]
