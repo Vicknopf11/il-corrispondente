@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-05",
+      "slug": "fecondazione-assistita-italia-17660-bambini-privato-2026",
+      "categoria": "Wellness",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-05",
       "slug": "openai-948-vulnerabilita-linux-cyber-model-2026",
       "categoria": "AI",
       "evidenza": false,
@@ -1428,14 +1436,6 @@
       "data": "2026-10-16",
       "slug": "mondiali-ciclismo-pista-shanghai-doppio-argento-italia",
       "categoria": "Sport",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-16",
-      "slug": "bolla-ai-713-miliardi-investimenti-flussi-cassa",
-      "categoria": "Economia",
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
