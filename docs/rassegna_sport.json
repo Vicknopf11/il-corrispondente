@@ -1,22 +1,6 @@
 {
-  "generato": "2026-11-06T12:31:08.143919+00:00",
+  "generato": "2026-11-06T18:31:08.164244+00:00",
   "item": [
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Al via la Serie A del Volo. Favre: \"Sia una stagione di crescita, confronto e soddisfazioni\"",
-      "link": "https://www.gazzetta.it/bocce/05-11-2026/bocce-al-via-la-serie-a-del-volo-favre-sia-una-stagione-di-crescita.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-11-05"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Brignone lascia i Carabinieri e torna allo sci Club Courmayeur che l'aveva lanciata",
-      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/02-11-2026/federica-brignone-lascia-arma-carabinieri-torna-sci-club-courmayeur.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-11-02"
-    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
@@ -34,12 +18,28 @@
       "data_evento": "2026-11-04"
     },
     {
+      "sottocategoria": "Squadra",
+      "tipo": "notizia",
+      "titolo": "Italia incerottata: 16 infortunati. Quesada ridisegna la formazione per il Sudafrica",
+      "link": "https://www.gazzetta.it/Rugby/05-11-2026/rugby-italia-sudafrica-16-infortunati-quesada-ridisegna-la-formazione-per-il-sudafrica.shtml",
+      "fonte": "Gazzetta — Rugby",
+      "data_evento": "2026-11-05"
+    },
+    {
       "sottocategoria": "Atletica",
       "tipo": "notizia",
-      "titolo": "Martin è solo l'ultimo: da Tamberi a Biles quando il corpo dice basta ai campioni",
-      "link": "https://www.gazzetta.it/Tennis/ATP/storie/01-11-2026/quando-il-fisico-tradisce-i-campioni-da-tamberi-a-biles/la-rinuncia-di-martin.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-11-01"
+      "titolo": "Almgren, l'ingegnere del mezzofondo sfida l'Africa: così la Svezia ha scoperto un nuovo fenomeno",
+      "link": "https://www.gazzetta.it/Atletica/05-11-2026/chi-e-andreas-almgren-record-maratona-new-york.shtml",
+      "fonte": "Gazzetta — Atletica",
+      "data_evento": "2026-11-05"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Sinner sarà alle Atp Finals di Torino! Ma solo per lanciare la sua racchetta personalizzata...",
+      "link": "https://www.gazzetta.it/Tennis/ATP/06-11-2026/jannik-sinner-arriva-la-racchetta-head-personalizzata-lancio-alle-atp-finals.shtml",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-11-06"
     }
   ]
 }
