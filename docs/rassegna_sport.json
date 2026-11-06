@@ -1,6 +1,22 @@
 {
-  "generato": "2026-11-06T06:30:59.048525+00:00",
+  "generato": "2026-11-06T12:31:08.143919+00:00",
   "item": [
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Al via la Serie A del Volo. Favre: \"Sia una stagione di crescita, confronto e soddisfazioni\"",
+      "link": "https://www.gazzetta.it/bocce/05-11-2026/bocce-al-via-la-serie-a-del-volo-favre-sia-una-stagione-di-crescita.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-11-05"
+    },
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Brignone lascia i Carabinieri e torna allo sci Club Courmayeur che l'aveva lanciata",
+      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/02-11-2026/federica-brignone-lascia-arma-carabinieri-torna-sci-club-courmayeur.shtml",
+      "fonte": "Gazzetta — Sport Invernali",
+      "data_evento": "2026-11-02"
+    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
@@ -24,22 +40,6 @@
       "link": "https://www.gazzetta.it/Tennis/ATP/storie/01-11-2026/quando-il-fisico-tradisce-i-campioni-da-tamberi-a-biles/la-rinuncia-di-martin.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-11-01"
-    },
-    {
-      "sottocategoria": "Squadra",
-      "tipo": "notizia",
-      "titolo": "Italia incerottata: 16 infortunati. Quesada ridisegna la formazione per il Sudafrica",
-      "link": "https://www.gazzetta.it/Rugby/05-11-2026/rugby-italia-sudafrica-16-infortunati-quesada-ridisegna-la-formazione-per-il-sudafrica.shtml",
-      "fonte": "Gazzetta — Rugby",
-      "data_evento": "2026-11-05"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Fils cuore d'oro: aiuta la raccattapalle colpita da un servizio e concede la prima a Fritz!",
-      "link": "https://video.gazzetta.it/tennis/atp/highlights/video-atp-parigi-fils-cuore-d-oro-il-doppio-gesto-di-classe-stupisce-tutti/1829b73b-a2fb-45e0-a2a6-341c176a3xlk",
-      "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-11-05"
     }
   ]
 }
