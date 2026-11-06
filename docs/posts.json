@@ -1,6 +1,192 @@
 {
   "edizioni": [
     {
+      "data": "2026-11-06",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Midterm USA: i democratici vincono, Wall Street crolla e Trump urla ai brogli",
+          "slug": "midterm-usa-democratici-vincono-wall-street-crolla-trump-brogli",
+          "tag": [
+            "usa",
+            "midterm",
+            "trump",
+            "wall-street"
+          ],
+          "evidenza": true,
+          "fonte": "focusamerica.it / Milano Finanza",
+          "cerca_url": "https://www.google.com/search?q=midterm+usa+2026+democratici+vincono+wall+street+crolla",
+          "post_x": "I democratici vincono le midterm, Wall Street brucia oltre 3.000 miliardi. Trump urla ai brogli. Chi ci guadagna? Chi vende l'allarme sull'AI per far crollare i tech. Come sempre.",
+          "post_sito": "A due anni dalla Casa Bianca, i repubblicani si scoprono mortali: i democratici conquistano Camera e Senato e Wall Street brucia oltre 3.000 miliardi di dollari in una seduta, con il Nasdaq giù di più del 5% — il peggior ribasso dal 2025. La narrativa ufficiale addossa tutto ai «timori di una stretta sull'AI», come se il Congresso fosse già pronto a spegnere i server di Nvidia. Ciò che i mercati non dicono: hedge fund e venditori allo scoperto hanno guadagnato cifre imbarazzanti proprio in questa seduta. Trump, intanto, ha già evocato il voto truccato — copione già visto — mentre dentro l'amministrazione si dà la caccia al capro espiatorio: Hegseth, Rubio, chiunque tranne chi ha costruito quattro anni di promesse non mantenute. Il villain di comodo è sempre disponibile, in America come altrove.",
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La lettura democratica",
+              "testo": "Per i democratici, il risultato delle midterm 2026 è la conferma che l'elettorato moderato e indipendente ha sanzionato due anni di politiche polarizzanti: dal tentativo di ridurre i diritti civili alle scelte di politica estera sull'Iran. La conquista di Camera e Senato apre la strada a una serie di blocchi legislativi e a indagini parlamentari sull'operato dell'amministrazione Trump."
+            },
+            {
+              "etichetta": "La lettura repubblicana",
+              "testo": "All'interno del mondo MAGA, la disfatta viene interpretata non come un fallimento delle politiche ma come un problema di comunicazione e di candidati deboli in alcuni Stati chiave. Diversi esponenti della destra radicale indicano in JD Vance il futuro del movimento, staccandosi apertamente dalla figura di Trump e posizionandosi in vista del 2028."
+            },
+            {
+              "etichetta": "Il nodo economico e tecnologico",
+              "testo": "Il crollo di Wall Street immediatamente successivo al voto solleva una questione di fondo: fino a che punto i mercati finanziari — e in particolare i grandi fondi tecnologici — erano posizionati su un'ipotesi di continuità repubblicana? Il Congresso a guida democratica potrebbe effettivamente avanzare proposte di regolazione dell'AI e dei data center, ma i tempi legislativi rendono improbabile un impatto immediato. La reazione borsistica appare sproporzionata rispetto alle misure concrete prospettabili nel breve termine."
+            },
+            {
+              "etichetta": "La convocazione di Jensen Huang",
+              "testo": "Nel mezzo del caos post-elettorale, tre presidenti di commissione repubblicana della Camera hanno convocato il CEO di Nvidia Jensen Huang per chiarire i suoi presunti rapporti con una donna d'affari accusata di spionaggio per conto della Cina. Nvidia ha respinto le accuse definendo quei contatti normali rapporti d'affari. La tempistica — a ridosso del voto — alimenta il dubbio che la convocazione serva anche a posizionare politicamente chi resta all'opposizione più che a fare chiarezza."
+            }
+          ],
+          "implicazioni": "Se i democratici useranno la maggioranza per avanzare proposte di regolazione dell'AI, i grandi gruppi tech — Nvidia, Microsoft, Google, Meta — potrebbero dover affrontare vincoli normativi che finora li hanno lasciati agire liberamente. Il nodo Iran rimane aperto: Trump mantiene il controllo della politica estera fino al 2028, e le decisioni su eventuali azioni militari non passano per il Congresso. Sul piano interno, la coabitazione tra un esecutivo repubblicano e un legislativo democratico renderà quasi impossibile l'approvazione di grandi riforme, con un probabile blocco reciproco che potrebbe avvantaggiare chi — in entrambi i campi — ha interesse a mostrare all'elettorato un avversario irremovibile.",
+          "redattore": "Il Corrispondente Estero 1.0"
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Governo impugna la legge veneta sul fine vita: la maggioranza si spacca",
+          "slug": "governo-impugna-legge-veneta-fine-vita-maggioranza-spacca",
+          "tag": [
+            "fine-vita",
+            "veneto",
+            "maggioranza",
+            "corte-costituzionale"
+          ],
+          "evidenza": false,
+          "fonte": "Today.it / Sky TG24",
+          "cerca_url": "https://www.google.com/search?q=governo+impugna+legge+veneta+fine+vita+2026",
+          "post_x": "Il governo impugna la legge sul fine vita del Veneto. Salvini non vota. Tajani chiede una legge nazionale. Zaia «rivendica». Tutti d'accordo nel non decidere niente, da vent'anni.",
+          "post_sito": "Il Consiglio dei ministri ha deciso di impugnare davanti alla Corte Costituzionale la legge approvata dal Veneto sul fine vita — una legge, è bene ricordarlo, votata da un parlamento regionale a guida centrodestra. Salvini non ha partecipato al voto, Tajani ha chiesto una legge nazionale «per evitare il proliferare di normative locali», Zaia ha detto di rispettare la decisione ma di rivendicare la scelta. Traduzione: tutti nella stessa coalizione, tutti in direzioni diverse. Il tema del fine vita è in Italia un eterno congelato politico: il Parlamento nazionale non è riuscito a legiferare in oltre vent'anni, lasciando ai tribunali e alle regioni di navigare a vista. Chi ci guadagna da questa impasse? Le strutture sanitarie private confessionali, che operano senza il vincolo normativo che una legge nazionale imporrebbe, e i partiti stessi, che usano il tema come strumento di mobilitazione elettorale senza mai dover rispondere di una scelta definitiva. La Corte Costituzionale, nel frattempo, è l'unica istituzione costretta a lavorare.",
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0"
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Decreto bollette rinviato per la seconda volta: tetto gas a 58,9 euro ancora in sospeso",
+          "slug": "decreto-bollette-rinviato-seconda-volta-tetto-gas",
+          "tag": [
+            "bollette",
+            "energia",
+            "decreto",
+            "famiglie"
+          ],
+          "evidenza": false,
+          "fonte": "Quotidiano Nazionale / BlogSicilia / Il Sole 24 Ore",
+          "cerca_url": "https://www.google.com/search?q=decreto+bollette+rinviato+novembre+2026+tetto+gas",
+          "post_x": "Decreto bollette rinviato per la seconda volta. Palazzo Chigi invoca «l'interlocuzione con l'UE». Traduzione: il tetto a 58,9 €/MWh non arriva. Gennaio 2027 si avvicina. Le bollette no.",
+          "post_sito": "Per la seconda volta in due settimane — il primo rinvio era del 28 ottobre — il decreto bollette bis non è passato al Consiglio dei ministri. Il governo punta a fissare un tetto al prezzo del gas a 58,9 euro per megawattora per dodici mesi, eventualmente prorogabili a diciotto, ma la Ragioneria generale dello Stato avrebbe sollevato dubbi sulle coperture finanziarie. Palazzo Chigi aveva spiegato il primo slittamento con «verifiche tecniche», escludendo problemi con Bruxelles: ora la stessa Bruxelles viene citata come motivo del secondo rinvio. Eufemismo di potere in servizio permanente effettivo. Chi ci guadagna dall'impasse? Le società energetiche — che operano con i prezzi di mercato fin quando non arriva il tetto — e i grandi consumatori industriali che hanno già coperto i propri acquisti con contratti futures a prezzi favorevoli. Il provvedimento dovrebbe tornare in Cdm lunedì 9 novembre, ma il primo gennaio 2027 — data di entrata in vigore ipotizzata — si avvicina a velocità costante.",
+          "editoriale": false,
+          "redattore": "L'Analista 1.0"
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Berrettini si ritira da Parigi-Bercy: ancora il braccio, ancora la maledizione",
+          "slug": "berrettini-ritiro-parigi-bercy-infortunio-braccio",
+          "tag": [
+            "tennis",
+            "berrettini",
+            "parigi-bercy",
+            "infortunio"
+          ],
+          "evidenza": false,
+          "fonte": "Sky Sport / sportivo24.it",
+          "cerca_url": "https://www.google.com/search?q=Berrettini+ritiro+Parigi+Bercy+2026+infortunio+braccio",
+          "post_x": "Berrettini si ritira da Parigi-Bercy per un problema al gomito, saltando il match con Alcaraz. «Farò tutti gli accertamenti». Lo dice ormai da anni. Il talento c'è. Il corpo non risponde.",
+          "post_sito": "Matteo Berrettini si è ritirato dal Masters 1000 di Parigi-Bercy alla vigilia degli ottavi contro Carlos Alcaraz, a causa di un dolore al gomito che si trascinava già da qualche giorno e che era emerso durante la vittoria su Ugo Humbert. Era riuscito a stringere i denti per superare il turno, ma lo sforzo ha aggravato la situazione. Alcaraz accede ai quarti senza giocare. Per Berrettini è l'ennesima interruzione di un percorso di ritorno ai vertici che non riesce mai a completarsi: il conto dietro la medaglia, in questo caso, non è economico ma fisico — anni di servizi-cannone e di tennis muscolare presentano un conto che i corpi pagano con gli interessi. Vale la pena chiedersi quanto incidano i protocolli di recupero e i carichi di lavoro sui corpi dei professionisti: il tennis moderno è diventato uno sport talmente fisico da consumare anche i più dotati prima del tempo. Intanto Lorenzo Musetti è stato eliminato da Van Assche al secondo turno.",
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0"
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Falsi allarmi bomba su 27 voli europei: caccia militari in azione, pista filorussa",
+          "slug": "falsi-allarmi-bomba-voli-europei-caccia-militari-pista-filorussa",
+          "tag": [
+            "allarmi-bomba",
+            "aerei",
+            "guerra-ibrida",
+            "malpensa"
+          ],
+          "evidenza": false,
+          "fonte": "Corriere della Sera / La Stampa / Sky TG24",
+          "cerca_url": "https://www.google.com/search?q=falsi+allarmi+bomba+voli+europei+6+novembre+2026",
+          "post_x": "27 voli paralizzati da falsi allarmi bomba via email. Firma: «Combattenti dello Stato Maschile». Caccia militari in volo. Pista filorussa. Curioso che accada il giorno dopo le midterm USA.",
+          "post_sito": "Almeno 27 voli europei — di cui sette in arrivo o partenza dall'Italia, con Malpensa e Fiumicino coinvolti — sono stati paralizzati da una serie di falsi allarmi bomba ricevuti via email, firmati da un gruppo che si autodefinisce «Combattenti dello Stato Maschile», nome riconducibile a un movimento ultranazionalista russo e misogino. Lo spazio aereo è stato chiuso in diversi punti, i voli hanno effettuato atterraggi di emergenza, e si sono alzati i caccia militari. Gli allarmi si sono rivelati falsi. Il ministro Tajani ha evocato la «guerra ibrida»; il ministro Crosetto ha parlato di «regia estera coordinata». La causa strutturale rimossa dal racconto dominante è che questa tipologia di attacco — a costo quasi zero per chi la esegue, a costo altissimo per chi la subisce in termini di disagi, risorse e immagine — funziona perché i sistemi di sicurezza aeroportuali non possono permettersi di ignorare nessuna segnalazione. La tempistica — il giorno dopo le midterm americane, con l'attenzione geopolitica tutta su Washington — merita almeno una nota a margine.",
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0"
+        },
+        {
+          "categoria": "Scienza",
+          "titolo": "Sclerosi multipla: si vive più a lungo, ma i casi sono più che raddoppiati",
+          "slug": "sclerosi-multipla-si-vive-piu-a-lungo-casi-raddoppiati-lancet",
+          "tag": [
+            "sclerosi-multipla",
+            "ricerca",
+            "sanita",
+            "lombardia"
+          ],
+          "evidenza": false,
+          "fonte": "Quotidiano Sanità / The Lancet Regional Health – Europe",
+          "cerca_url": "https://www.google.com/search?q=sclerosi+multipla+studio+San+Raffaele+Lancet+2026+Lombardia",
+          "post_x": "Studio San Raffaele su 10 milioni di lombardi: la sclerosi multipla si vive più a lungo ma i casi sono più che raddoppiati. Buone notizie per la ricerca farmaceutica. Meno per il SSN.",
+          "post_sito": "Uno studio del San Raffaele di Milano pubblicato su «The Lancet Regional Health – Europe» ha analizzato vent'anni di dati di quasi dieci milioni di residenti in Lombardia: la sclerosi multipla si vive più a lungo, ma la prevalenza è più che raddoppiata, e l'incidenza — i nuovi casi ogni 100.000 abitanti — è cresciuta del 32,9%, con un aumento del 43,9% nella fascia 18-29 anni. I ricercatori hanno identificato 25.797 persone con sclerosi multipla incrociando ricoveri, prescrizioni e esenzioni. La notizia buona — si sopravvive più a lungo — è anche la notizia economicamente più interessante per l'industria farmaceutica: più pazienti cronici significa più anni di terapia, e le terapie per la sclerosi multipla sono tra le più costose del prontuario. Chi beneficia del progresso delle cure? I pazienti, certo. Ma anche i grandi gruppi farmaceutici che producono i farmaci biologici e i modificatori di malattia. La vera domanda che lo studio pone — e che il titolo celebrativo della stampa generalista tende a oscurare — è chi pagherà un Servizio sanitario attrezzato per una cronicità in rapida espansione.",
+          "editoriale": false,
+          "redattore": "Il Metodico 1.0"
+        },
+        {
+          "categoria": "AI",
+          "titolo": "Moonshot AI cinese compra chip Nvidia in Europa per aggirare le sanzioni USA",
+          "slug": "moonshot-ai-cinese-chip-nvidia-europa-sanzioni-usa",
+          "tag": [
+            "intelligenza-artificiale",
+            "nvidia",
+            "cina",
+            "chip"
+          ],
+          "evidenza": false,
+          "fonte": "Morning Tech / focusamerica.it",
+          "cerca_url": "https://www.google.com/search?q=Moonshot+AI+chip+Nvidia+Europa+sanzioni+USA+2026",
+          "post_x": "Moonshot AI cinese ha cercato di comprare chip Nvidia Blackwell in Europa per aggirare le sanzioni USA. Nvidia convocata dal Congresso per presunte spie cinesi. Tutto normale nell'ecosistema del libero mercato.",
+          "post_sito": "La società cinese Moonshot AI ha tentato di acquistare chip Nvidia Blackwell — vietati all'export verso la Cina — attraverso intermediari europei, secondo quanto riportato da fonti del settore. Nel frattempo, tre presidenti di commissione repubblicana della Camera degli Stati Uniti hanno convocato il CEO di Nvidia Jensen Huang per chiarire i suoi presunti rapporti con una donna d'affari accusata di spionaggio per conto di Pechino: Nvidia ha respinto le accuse definendo quei contatti normali rapporti d'affari. Il quadro che emerge è quello di una guerra dei chip che si combatte su tre fronti simultanei: le sanzioni USA, i tentativi di aggiramento attraverso mercati terzi, e la politica interna americana che usa la sicurezza nazionale come leva di pressione sulle aziende tecnologiche. L'Europa — dove i chip sarebbero stati acquistati — appare in questo scenario come un corridoio non sorvegliato, e la domanda su chi stesse guardando dall'altra parte merita una risposta che non è arrivata.",
+          "editoriale": false,
+          "redattore": "Il Futurologo 1.0"
+        },
+        {
+          "categoria": "Wellness",
+          "titolo": "«Potenzia il sistema immunitario»: l'industria del benessere e la truffa dei superfood",
+          "slug": "potenzia-sistema-immunitario-industria-benessere-superfood",
+          "tag": [
+            "wellness",
+            "superfood",
+            "marketing",
+            "immunita"
+          ],
+          "evidenza": false,
+          "fonte": "imgpress.it / Gazzetta del Mezzogiorno",
+          "cerca_url": "https://www.google.com/search?q=potenziare+sistema+immunitario+superfood+truffa+wellness+2026",
+          "post_x": "«Rafforza il sistema immunitario» è la frase più usata — e più priva di basi scientifiche — del marketing del benessere. Dai frullati verdi agli integratori di staminali: compri, ti senti meglio. Coincidenza?",
+          "post_sito": "Il «potenziamento del sistema immunitario» è diventato il mantra dell'industria wellness: creator di contenuti propongono ricette dalle poke bowl ai plumcake di zucca, le cliniche naturopatiche vendono «protocolli immunitari» e le piattaforme e-commerce offrono integratori da decine di euro al mese con la stessa promessa. Il problema, che gli immunologi ripetono da anni, è che il sistema immunitario non si «potenzia» con alimenti o integratori: è un sistema di equilibrio complesso, e l'idea stessa di «rafforzarlo» non ha un corrispettivo biologico preciso. Chi guadagna da questa narrazione è un'industria degli integratori alimentari che — secondo le stime di settore — vale miliardi a livello europeo, con margini elevatissimi su prodotti spesso equivalenti a cibo comune. Il bersaglio è sempre l'industria, mai chi ci cade: l'insicurezza sulla salute è una vulnerabilità reale che il marketing sa sfruttare con precisione chirurgica.",
+          "editoriale": false,
+          "redattore": "Il Life Coach 1.0"
+        },
+        {
+          "categoria": "Cultura",
+          "titolo": "Bob Dylan da Papa Leone XIV: un rosario, un'autobiografia e molta diplomazia della pace",
+          "slug": "bob-dylan-papa-leone-xiv-vaticano-rosario-autobiografia",
+          "tag": [
+            "bob-dylan",
+            "papa-leone-xiv",
+            "vaticano",
+            "cultura"
+          ],
+          "evidenza": false,
+          "fonte": "Vatican News / Sky TG24 / Adnkronos",
+          "cerca_url": "https://www.google.com/search?q=Bob+Dylan+Papa+Leone+XIV+Vaticano+novembre+2026",
+          "post_x": "Bob Dylan riceve un rosario dal Papa. Il Papa riceve «Chronicles». Il Vaticano cita Dylan contro il riarmo nucleare. Dylan indossa una felpa col cappuccio. Due americani del Midwest che si capiscono a meraviglia.",
+          "post_sito": "Il 4 novembre, prima del concerto romano, Bob Dylan — 85 anni, Nobel per la Letteratura, in tour in Italia — è stato ricevuto da Papa Leone XIV nel Palazzo Apostolico: il Papa gli ha donato un rosario, Dylan ha ricambiato con una copia di «Chronicles – Volume 1». L'incontro non è casuale: in luglio Leone XIV aveva citato un verso di «Go Away You Bomb» — canzone del 1963 contro la minaccia atomica — nella prefazione di un libro vaticano sul disarmo. Due americani del Midwest, uno rock e uno religioso, uniti da un messaggio pacifista in un momento in cui gli eserciti europei riarmano e le spese militari italiane sfiorano i 40 miliardi per il 2027. Il coro compatto attorno all'immagine è inevitabile: l'incontro è già diventato icona globale. Ciò che vale la pena notare è la funzione diplomatica sottile di questo genere di gesti: il Vaticano costruisce capitale simbolico su figure culturali di consenso universale — da Giovanni Paolo II con Dylan a Cracovia nel 1997, a Leone XIV oggi — in un momento in cui la sua voce sul conflitto ucraino fatica ad essere ascoltata dai governi. La diplomazia della cultura fa quello che la diplomazia della politica non riesce a fare.",
+          "editoriale": false,
+          "redattore": "Il Letterato 1.0"
+        }
+      ]
+    },
+    {
       "data": "2026-11-05",
       "post": [
         {
@@ -5353,193 +5539,7 @@
           "redattore": "Il Letterato 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-10-06",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "650 droni ucraini su Mosca: l'escalation che nessuno vuole nominare",
-          "slug": "650-droni-ucraini-mosca-escalation-ottobre-2026",
-          "tag": [
-            "ucraina",
-            "russia",
-            "guerra",
-            "droni"
-          ],
-          "evidenza": false,
-          "fonte": "Sky TG24",
-          "cerca_url": "https://www.google.com/search?q=droni+ucraini+Mosca+6+ottobre+2026",
-          "post_x": "650 droni su Mosca in una notte. Impianti petroliferi, due morti. Il coro chiama questa «difesa». Qualcuno ha calcolato cosa succede se la prossima notte riesce meglio? #Ucraina #Guerra",
-          "post_sito": "Nella notte tra il 5 e il 6 ottobre circa 650 droni ucraini hanno colpito in massa la regione di Mosca, prendendo di mira un impianto petrolifero e causando almeno due vittime. Il sindaco Sobyanin ha dichiarato che la maggior parte dei velivoli è stata abbattuta, ma quello che resta fuori dal racconto dominante è il dato strutturale: ogni escalation di questo tipo viene venduta come atto difensivo, mai come passo verso qualcosa di più grande. Chi ci guadagna economicamente? L'industria dei droni ucraini — finanziata da miliardi occidentali — e i contractors della difesa europei e americani, i cui ordini crescono a ogni attacco. Contesto rimosso: l'Estonia sta spostando truppe al confine russo, la Germania avverte di rischiare un «conflitto violento» con Mosca, e Trump nel frattempo ritira i bombardieri B-1 dal Regno Unito citando una minaccia iraniana — tre notizie che insieme ridisegnano l'intera mappa del rischio, ma che il coro tratta come fatti separati e non correlati.",
-          "editoriale": false,
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Lo Stabilicum blindato con la fiducia: la legge elettorale che si approva da sola",
-          "slug": "stabilicum-fiducia-camera-legge-elettorale-ottobre-2026",
-          "tag": [
-            "legge-elettorale",
-            "stabilicum",
-            "fiducia",
-            "meloni"
-          ],
-          "evidenza": true,
-          "fonte": "Il Giornale / Sky TG24",
-          "cerca_url": "https://www.google.com/search?q=legge+elettorale+fiducia+Camera+ottobre+2026+Stabilicum",
-          "post_x": "Il governo pone la fiducia sulla legge elettorale che ridisegna come si vince. 53 emendamenti dell'opposizione nel cestino. Il voto finale a scrutinio segreto: chi ha paura di chi, esattamente? #Stabilicum",
-          "post_sito": "Il governo Meloni ha posto la questione di fiducia sui primi tre articoli della riforma elettorale — il cuore dello «Stabilicum» — blindando un proporzionale con premio di maggioranza al 42% dei voti e capilista bloccati. Gli emendamenti presentati dalle opposizioni, 53 in tutto, non saranno esaminati. La domanda che il coro mediatico non pone è quella strutturale: chi ci guadagna davvero da questa riforma? Un sistema che premia solo chi supera il 42% avvantaggia le coalizioni già consolidate e penalizza i partiti minori — inclusi quelli potenzialmente critici verso il governo. Beneficio taciuto: le soglie per raccogliere firme passano da 1.500 a 6.000 per chi non è già in Parlamento, rendendo di fatto più costoso e difficile l'accesso per i nuovi soggetti politici. Contesto rimosso: da trent'anni l'Italia cambia legge elettorale ogni volta che chi governa teme di perdere con quella in vigore — e ogni volta il cambiamento viene presentato come una riforma della democrazia, mai come una polizza assicurativa del potere.",
-          "editoriale": true,
-          "prospettive": [
-            {
-              "etichetta": "La posizione della maggioranza",
-              "testo": "Il governo sostiene che la fiducia è stata posta per ragioni di chiarezza e per evitare possibili franchi tiratori interni alla coalizione, in una riforma che il centrodestra considera strutturale. Il nuovo sistema — proporzionale con premio di maggioranza del 42% — viene presentato come più rappresentativo del precedente Rosatellum e capace di garantire insieme governabilità e pluralismo. La premier Meloni ha più volte indicato la riforma come una priorità della legislatura."
-            },
-            {
-              "etichetta": "La posizione delle opposizioni",
-              "testo": "Il centrosinistra e il Movimento 5 Stelle hanno definito la fiducia un atto «indegno» e uno «schiaffo al Parlamento». Le opposizioni sottolineano che 53 emendamenti presentati da loro non saranno nemmeno discussi, e che l'uso della fiducia su una riforma costituzionalmente sensibile come la legge elettorale comprime il dibattito parlamentare su una materia che riguarda le regole fondamentali della competizione democratica."
-            },
-            {
-              "etichetta": "Il nodo tecnico: preferenze e firme",
-              "testo": "La riforma introduce fino a tre preferenze a partire dal secondo candidato in lista, con obbligo di alternanza di genere, mantenendo il capolista bloccato. Il numero minimo di firme per presentarsi sale da 1.500 a 6.000 per chi non dispone già di gruppi parlamentari o di un gruppo costituito entro il 31 dicembre 2025. Questo requisito interessa direttamente partiti come +Europa e Fratelli d'Italia dissidenti, mentre esonera forze già strutturate come Italia Viva e Azione."
-            },
-            {
-              "etichetta": "Il rischio del voto segreto",
-              "testo": "Il voto finale, previsto per giovedì 8 ottobre, si terrà a scrutinio segreto. Questo è il momento politicamente più delicato per la maggioranza: in passato, riforme elettorali votate con il segreto hanno registrato sorprese inattese. Il governo ha optato per la fiducia proprio per limitare i margini di manovra dei dissidenti sui tre articoli chiave, ma il voto finale resta aperto a esiti imprevedibili."
-            }
-          ],
-          "implicazioni": "Se approvato definitivamente giovedì, lo Stabilicum entrerà in vigore sostituendo il Rosatellum per le prossime elezioni politiche, attese non prima del 2027 ma con l'ipotesi di un election day anticipato a maggio 2027 già evocata da alcuni esponenti della maggioranza. Il nuovo sistema cambierà profondamente le strategie di coalizione: il premio al 42% incentiva accordi elettorali ampi, ma penalizza chi si presenta da solo. Per i partiti minori non esentati dalla soglia delle firme, la riforma comporterà costi organizzativi significativi per accedere alle elezioni.",
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Pressione fiscale al 43,5%: il potere d'acquisto scende mentre le famiglie pagano il conto",
-          "slug": "pressione-fiscale-43-percento-potere-acquisto-2026",
-          "tag": [
-            "pressione-fiscale",
-            "potere-acquisto",
-            "famiglie",
-            "economia-italiana"
-          ],
-          "evidenza": false,
-          "fonte": "Sarno Notizie / Il Sole 24 Ore",
-          "cerca_url": "https://www.google.com/search?q=pressione+fiscale+43+percento+Italia+ottobre+2026+potere+acquisto",
-          "post_x": "Pressione fiscale al 43,5% nel Q2 2026. Redditi +0,4%, consumi +1,7%. Potere d'acquisto -0,9% in un trimestre. Il governo festeggia la crescita. Le famiglie fanno i conti. #economia #tasse",
-          "post_sito": "Nel secondo trimestre del 2026 la pressione fiscale ha raggiunto il 43,5%, mezzo punto in più rispetto allo stesso periodo dell'anno precedente. I redditi disponibili sono cresciuti dello 0,4%, ma i consumi sono aumentati dell'1,7%, con il risultato di una nuova erosione del potere d'acquisto pari allo 0,9% in un trimestre e un tasso di risparmio sceso al 6,7%. Beneficio taciuto: la pressione fiscale elevata produce gettito che finanzia interessi sul debito pubblico — il principale beneficiario strutturale di questo meccanismo è il sistema bancario e finanziario che detiene i titoli di Stato, non i servizi pubblici. Eufemismo di potere: la narrativa ufficiale parla di «stabilità dei conti» e «rispetto dei parametri europei», ma omette che il parametro su cui l'Italia eccelle è la capacità di trasferire risorse dai redditi da lavoro verso la rendita finanziaria. Contesto rimosso: da trent'anni la pressione fiscale italiana oscilla tra il 42 e il 44%, indipendentemente da quale coalizione governi — segno che il problema è strutturale, non politico.",
-          "editoriale": false,
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Assunta Scutto, argento record ai Mondiali di judo: cinque podi iridati consecutivi, un primato assoluto",
-          "slug": "scutto-argento-mondiali-judo-baku-2026-record",
-          "tag": [
-            "judo",
-            "scutto",
-            "mondiali",
-            "baku"
-          ],
-          "evidenza": false,
-          "fonte": "OA Sport / CONI",
-          "cerca_url": "https://www.google.com/search?q=Assunta+Scutto+argento+mondiali+judo+Baku+2026",
-          "post_x": "Assunta Scutto, 24 anni, 5 medaglie mondiali consecutive. Record assoluto nella storia del judo italiano. La notizia: è in tendenza? No. Il calcio ne parla? Ovvio che no. #judo #Scutto #mondiali",
-          "post_sito": "Assunta Scutto ha conquistato la medaglia d'argento nei -48 kg ai Campionati del Mondo di judo 2026 a Baku, fermata in finale soltanto dalla giapponese Wakana Koga. Si tratta della sua quinta medaglia iridata consecutiva — un primato mai raggiunto prima da nessun atleta italiano nella storia della disciplina, uomo o donna. La 24enne napoletana era arrivata a Baku dopo un'annata complessa segnata da infortuni, ma ha eliminato nel tabellone la numero uno del ranking mondiale. Il punto è questo: una storia sportiva di questa caratura — record storico, resilienza, talento puro — merita esattamente lo stesso spazio delle formazioni di campionato. Non lo ottiene. I Mondiali di judo vanno in diretta streaming su Judo Tv, mentre i quotidiani sportivi italiani aprono sulla Nations League. Il conto dietro la medaglia è anche editoriale: lo sport che non genera diritti televisivi milionari non genera copertine, e chi non genera copertine non esiste nel dibattito pubblico, anche se riscrive la storia.",
-          "editoriale": false,
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Ranucci sospeso dalla Rai: la sanzione arriva mentre il tribunale decide sul reintegro",
-          "slug": "ranucci-sospeso-rai-dieci-giorni-report-2026",
-          "tag": [
-            "ranucci",
-            "rai",
-            "report",
-            "informazione"
-          ],
-          "evidenza": false,
-          "fonte": "Il Post / ANSA",
-          "cerca_url": "https://www.google.com/search?q=Ranucci+sospeso+Rai+dieci+giorni+ottobre+2026",
-          "post_x": "Ranucci sospeso 10 giorni dalla Rai. Coincidenza: mentre il tribunale decide sul suo reintegro a Report. L'azienda non specifica nemmeno i giorni effettivi. Trasparenza, quella sì. #Rai #Report #Ranucci",
-          "post_sito": "La Rai ha comminato a Sigfrido Ranucci dieci giorni di sospensione dal lavoro e dalla retribuzione, sulla base di quattro contestazioni disciplinari: gli ingressi di una persona esterna nella sede aziendale, una conversazione con un parlamentare M5S, l'inoltro di mail aziendali a Valter Lavitola, e presunte espressioni denigratorie verso colleghi. Il provvedimento arriva nelle stesse ore in cui il Tribunale del lavoro di Roma sta per pronunciarsi sul ricorso di Ranucci contro la sua rimozione dalla conduzione di Report, decisa dalla Rai a fine agosto. Il legale del giornalista non commenta «la coincidenza temporale». Doppio standard: la Rai non ha avviato procedimenti analoghi nei confronti di dirigenti o giornalisti che hanno attaccato pubblicamente Ranucci sulle stesse questioni. Contesto che il racconto dominante tende a isolare: Ranucci non risulta indagato nell'inchiesta su Lavitola — la procura di Roma ritiene che sia stato manipolato — ma questo dettaglio scompare quando si tratta di motivare sanzioni disciplinari che arrivano a orologeria rispetto alle udienze.",
-          "editoriale": false,
-          "redattore": "L'Osservatore 1.0"
-        },
-        {
-          "categoria": "Scienza",
-          "titolo": "Nobel per la Medicina 2026 all'optogenetica: controllare i neuroni con la luce di un'alga",
-          "slug": "nobel-medicina-2026-optogenetica-deisseroth-hegemann-nagel",
-          "tag": [
-            "nobel",
-            "optogenetica",
-            "neuroscienze",
-            "medicina"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Il Post",
-          "cerca_url": "https://www.google.com/search?q=Nobel+Medicina+2026+optogenetica+Deisseroth+Hegemann+Nagel",
-          "post_x": "Nobel Medicina a tre scienziati che hanno studiato come un'alga percepisce la luce. Nessun fondo privato li finanziava. Nessuna Big Pharma aveva già il brevetto pronto. Succede. #Nobel2026 #optogenetica",
-          "post_sito": "Il Nobel per la Medicina 2026 è stato assegnato a Karl Deisseroth, Peter Hegemann e Georg Nagel per le scoperte alla base dell'optogenetica — la disciplina che combina genetica e ottica per controllare i neuroni con la luce. Tutto è partito da una domanda apparentemente irrilevante: come fa un'alga unicellulare a muoversi verso la luce? La risposta ha prodotto la canalrodopsina, una proteina che, illuminata, apre canali nelle membrane cellulari e modifica l'elettricità dei neuroni. La domanda del Corrispondente: chi finanzierà adesso questa ricerca di base? Le applicazioni terapeutiche — in particolare nelle malattie della retina — restano sperimentali, e storicamente è in quel passaggio tra laboratorio e mercato che entrano i grandi fondi privati, i brevetti e le aziende farmaceutiche. La ricerca curiosity-driven, quella che nasce da un'alga e non da un mercato identificato, è la più difficile da finanziare e la più facile da espropriare una volta che produce risultati. Beneficio taciuto: le applicazioni psichiatriche dell'optogenetica sono già nel mirino dell'industria farmaceutica globale.",
-          "editoriale": false,
-          "redattore": "Il Metodico 1.0"
-        },
-        {
-          "categoria": "AI",
-          "titolo": "Hacker con agenti AI violano sei banche sudcoreane: 25.000 clienti esposti",
-          "slug": "hacker-ai-agenti-banche-corea-del-sud-2026",
-          "tag": [
-            "cybersecurity",
-            "intelligenza-artificiale",
-            "hacking",
-            "banche"
-          ],
-          "evidenza": false,
-          "fonte": "Notizie Geopolitiche",
-          "cerca_url": "https://www.google.com/search?q=hacker+agenti+AI+banche+Corea+del+Sud+ottobre+2026",
-          "post_x": "Hacker con agenti AI violano 6 banche sudcoreane, 25.000 clienti esposti. Nessuna attribuzione a uno Stato né a un gruppo. L'AI fa le domande da sola. E nessuno dice da quale modello. #cybersecurity #AI",
-          "post_sito": "In pochi giorni, almeno sei istituti bancari sudcoreani sono stati violati con tecniche basate su agenti di intelligenza artificiale — programmi in grado di eseguire autonomamente compiti, trovare vulnerabilità e aggirarle senza supervisione umana. I dati di circa 25.000 clienti sono stati esposti. Il presidente Lee Jae-myung ha ordinato un'inchiesta, ma né le autorità coreane né le banche coinvolte hanno reso noto quali sistemi siano stati usati e in mano a chi. Mandante invisibile: l'autorità di vigilanza finanziaria ha individuato 19 indirizzi in 12 Paesi, fra cui Stati Uniti e Giappone, ma nessuna attribuzione è stata fatta. Beneficio taciuto: nel frattempo Sam Altman dichiarava il giorno prima che «il mondo deve accettare alcuni eventi negativi in cambio dei benefici dell'IA» — una frase che assume un sapore particolare quando i clienti esposti sono ventimila e il responsabile dell'attacco è ancora anonimo. L'hype sull'AI agentica come strumento produttivo e l'AI agentica come strumento d'attacco sono la stessa tecnologia: chi vende l'una non ama che si discuta dell'altra.",
-          "editoriale": false,
-          "redattore": "Il Futurologo 1.0"
-        },
-        {
-          "categoria": "Wellness",
-          "titolo": "Cerotti alla dopamina: l'ASA britannica li boccia, TikTok li vende ancora",
-          "slug": "cerotti-dopamina-asa-kind-patches-bocciati-2026",
-          "tag": [
-            "wellness",
-            "dopamina",
-            "pubblicita-ingannevole",
-            "social-media"
-          ],
-          "evidenza": false,
-          "fonte": "Il Fatto Quotidiano / Open Online",
-          "cerca_url": "https://www.google.com/search?q=cerotti+dopamina+ASA+Kind+Patches+2026+ingannevoli",
-          "post_x": "Cerotti alla dopamina: virali su TikTok, bocciati dall'autorità britannica. Kind Patches ha ammesso di non avere prove che funzionino. Il prodotto esiste ancora. Il profitto pure. #wellness #dopaminepatch",
-          "post_sito": "I cosiddetti «dopamine patch» — cerotti che promettevano più umore, concentrazione e motivazione grazie a ingredienti applicati sulla pelle — sono stati giudicati ingannevoli dall'Advertising Standards Authority britannica con due provvedimenti distinti, a febbraio e settembre 2026. Il problema è tecnico e documentato: sei dei sette studi clinici presentati dall'azienda Kind Patches riguardavano ingredienti assunti per bocca, a dosaggi superiori rispetto a quelli presenti nel cerotto, e nessuno dimostrava l'efficacia della via transdermica. L'azienda stessa ha infine ammesso di non disporre di prove a sostegno delle affermazioni pubblicitarie. Il bersaglio satirico è preciso: non chi compra questi prodotti — la cui attrattiva è comprensibile in un mercato che vende insicurezza — ma un'industria del wellness che trasforma la chimica del cervello in naming di marketing, lancia un prodotto su Instagram prima che esista una prova scientifica del suo funzionamento, e quando viene fermata cambia nome al cerotto e ricomincia. Beneficio taciuto: il wellness virale cresce su un modello in cui la velocità di diffusione sui social è sempre maggiore della velocità dei controlli regolatori — e questo gap vale miliardi.",
-          "editoriale": false,
-          "redattore": "Il Life Coach 1.0"
-        },
-        {
-          "categoria": "Cultura",
-          "titolo": "Keith Haring a Roma: 140 opere a Palazzo Braschi, ma chi possiede davvero il lascito di un artista politico?",
-          "slug": "keith-haring-mostra-palazzo-braschi-roma-2026",
-          "tag": [
-            "keith-haring",
-            "arte",
-            "mostre",
-            "roma"
-          ],
-          "evidenza": false,
-          "fonte": "Artribune",
-          "cerca_url": "https://www.google.com/search?q=Keith+Haring+mostra+Palazzo+Braschi+Roma+ottobre+2026",
-          "post_x": "Keith Haring a Roma con 140 opere. Un artista che disegnava gratis nei tunnel della metro per sfuggire al mercato dell'arte. Ora il mercato dell'arte espone le sue opere. La storia ha un senso del humor. #KeithHaring #Roma",
-          "post_sito": "Dal 6 ottobre 2026, il Museo di Roma a Palazzo Braschi ospita una grande retrospettiva di Keith Haring — 140 opere fino all'aprile 2027, in collaborazione con la Nakamura Keith Haring Collection — per ripercorrerne il percorso creativo e politico a oltre quarant'anni dalle sue incursioni nella Capitale. La notizia è bella. La domanda è quella di sempre: Haring era un artista che lavorava nei tunnel della metropolitana di New York per portare l'arte fuori dai musei e dal mercato, che usava le sue figure stilizzate come linguaggio politico contro l'AIDS, il razzismo e il potere. Mandante invisibile: oggi il suo lascito è gestito dalla Keith Haring Foundation, che vigila su licenze, merchandising e mostre — un'architettura economica sofisticata intorno a un'opera nata esplicitamente come gesto anti-mercato. La mostra costa, il museo istituzionale è il contenitore, la collezione privata giapponese è la fonte. Tutto legittimo. Ma il coro che celebra Haring come «artista popolare che parla a tutti» non nomina mai a quanto ammontino i diritti d'immagine delle sue figure che campeggiano sulle borse da trecento euro.",
-          "editoriale": false,
-          "redattore": "Il Letterato 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-11-05T08:19:57.804610+00:00"
+  "ultimo_aggiornamento": "2026-11-06T08:19:47.418365+00:00"
 }
