@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-06",
+      "slug": "moonshot-ai-cinese-chip-nvidia-europa-sanzioni-usa",
+      "categoria": "AI",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-06",
       "slug": "sclerosi-multipla-si-vive-piu-a-lungo-casi-raddoppiati-lancet",
       "categoria": "Scienza",
       "evidenza": false,
@@ -1431,14 +1439,6 @@
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-17",
-      "slug": "trump-sospende-sanzioni-russia-graham-act",
-      "categoria": "Politica Internazionale",
-      "evidenza": true,
-      "tipo_richiesta": "ContentCreateWithUrl",
-      "costo_usd": 0.2
     }
   ]
 }
