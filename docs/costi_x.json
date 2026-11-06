@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-06",
+      "slug": "falsi-allarmi-bomba-voli-europei-caccia-militari-pista-filorussa",
+      "categoria": "Cronaca",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-06",
       "slug": "berrettini-ritiro-parigi-bercy-infortunio-braccio",
       "categoria": "Sport",
       "evidenza": false,
@@ -1428,14 +1436,6 @@
       "data": "2026-10-16",
       "slug": "festa-cinema-roma-jovanotti-pawlikowski",
       "categoria": "Cultura",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-16",
-      "slug": "welfair-sanita-digitale-medici-formazione-ai",
-      "categoria": "Wellness",
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
