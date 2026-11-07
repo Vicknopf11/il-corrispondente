@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-07",
+      "slug": "antonelli-fp2-brasile-formula1-ferrari-difficolta",
+      "categoria": "Sport",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-07",
       "slug": "ex-ilva-taranto-spenta-altiforni-lavoratori-cig",
       "categoria": "Economia",
       "evidenza": true,
@@ -1428,14 +1436,6 @@
       "data": "2026-10-17",
       "slug": "ia-opinione-pubblica-fiducia-calo-mercati-sondaggio",
       "categoria": "Wellness",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-17",
-      "slug": "getty-images-bancarotta-chapter-11-ia-debiti",
-      "categoria": "AI",
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
