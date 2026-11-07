@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-07",
+      "slug": "ex-ilva-taranto-spenta-altiforni-lavoratori-cig",
+      "categoria": "Economia",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
+      "data": "2026-11-07",
       "slug": "altieri-anac-nomina-ritirata-lega-anticorruzione",
       "categoria": "Politica Nazionale",
       "evidenza": false,
@@ -1428,14 +1436,6 @@
       "data": "2026-10-17",
       "slug": "getty-images-bancarotta-chapter-11-ia-debiti",
       "categoria": "AI",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-17",
-      "slug": "microplastiche-acqua-reazione-chimica-nature-2026",
-      "categoria": "Scienza",
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
