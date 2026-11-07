@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-07",
+      "slug": "pipistrelli-specie-sconosciute-estinzione-nature-communications",
+      "categoria": "Scienza",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-07",
       "slug": "bollette-luce-aumento-51-percento-novembre-dicembre-2026",
       "categoria": "Cronaca",
       "evidenza": false,
@@ -1431,14 +1439,6 @@
       "evidenza": true,
       "tipo_richiesta": "ContentCreateWithUrl",
       "costo_usd": 0.2
-    },
-    {
-      "data": "2026-10-17",
-      "slug": "getty-images-fotografia-cultura-visiva-koch-equity",
-      "categoria": "Cultura",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
     }
   ]
 }
