@@ -1,22 +1,6 @@
 {
-  "generato": "2026-11-07T12:31:04.622397+00:00",
+  "generato": "2026-11-07T18:31:04.876214+00:00",
   "item": [
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Al via la Serie A del Volo. Favre: \"Sia una stagione di crescita, confronto e soddisfazioni\"",
-      "link": "https://www.gazzetta.it/bocce/05-11-2026/bocce-al-via-la-serie-a-del-volo-favre-sia-una-stagione-di-crescita.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-11-05"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Brignone lascia i Carabinieri e torna allo sci Club Courmayeur che l'aveva lanciata",
-      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/02-11-2026/federica-brignone-lascia-arma-carabinieri-torna-sci-club-courmayeur.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-11-02"
-    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
@@ -36,10 +20,26 @@
     {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
-      "titolo": "Italia incerottata: 16 infortunati. Quesada ridisegna la formazione per il Sudafrica",
-      "link": "https://www.gazzetta.it/Rugby/05-11-2026/rugby-italia-sudafrica-16-infortunati-quesada-ridisegna-la-formazione-per-il-sudafrica.shtml",
+      "titolo": "Super Barrett: lezione All Blacks in Scozia. L'Argentina affonda in Irlanda",
+      "link": "https://www.gazzetta.it/Rugby/07-11-2026/rugby-scozia-all-blacks-21-43-irlanda-argentina-42-12.shtml",
       "fonte": "Gazzetta — Rugby",
-      "data_evento": "2026-11-05"
+      "data_evento": "2026-11-07"
+    },
+    {
+      "sottocategoria": "Atletica",
+      "tipo": "notizia",
+      "titolo": "Maratona al Maradona: una staffetta in memoria di due campioni",
+      "link": "https://www.gazzetta.it/Atletica/06-11-2026/maratona-al-maradona-una-staffetta-in-memoria-di-due-campioni.shtml",
+      "fonte": "Gazzetta — Atletica",
+      "data_evento": "2026-11-06"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Atp Finals 2026 in chiaro su Mediaset: Cobolli fra i protagonisti, ecco la programmazione tv",
+      "link": "https://www.gazzetta.it/Tennis/ATP/07-11-2026/atp-finals-torino-2026-in-chiaro-su-mediaset-tutte-le-partite-e-la-programmazione-tv.shtml",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-11-07"
     }
   ]
 }
