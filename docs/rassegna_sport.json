@@ -1,6 +1,22 @@
 {
-  "generato": "2026-11-07T06:31:05.616285+00:00",
+  "generato": "2026-11-07T12:31:04.622397+00:00",
   "item": [
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Al via la Serie A del Volo. Favre: \"Sia una stagione di crescita, confronto e soddisfazioni\"",
+      "link": "https://www.gazzetta.it/bocce/05-11-2026/bocce-al-via-la-serie-a-del-volo-favre-sia-una-stagione-di-crescita.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-11-05"
+    },
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Brignone lascia i Carabinieri e torna allo sci Club Courmayeur che l'aveva lanciata",
+      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/02-11-2026/federica-brignone-lascia-arma-carabinieri-torna-sci-club-courmayeur.shtml",
+      "fonte": "Gazzetta — Sport Invernali",
+      "data_evento": "2026-11-02"
+    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
@@ -24,22 +40,6 @@
       "link": "https://www.gazzetta.it/Rugby/05-11-2026/rugby-italia-sudafrica-16-infortunati-quesada-ridisegna-la-formazione-per-il-sudafrica.shtml",
       "fonte": "Gazzetta — Rugby",
       "data_evento": "2026-11-05"
-    },
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "Maratona al Maradona: una staffetta in memoria di due campioni",
-      "link": "https://www.gazzetta.it/Atletica/06-11-2026/maratona-al-maradona-una-staffetta-in-memoria-di-due-campioni.shtml",
-      "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-11-06"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Atp Parigi, Alcaraz-Fritz highlights: partita mostruosa dello spagnolo",
-      "link": "https://video.gazzetta.it/tennis/atp/highlights/video-alcaraz-fritz-highlights-lo-spagnolo-mette-a-segno-un-punto-impossibile/d92842f2-6b6a-43eb-b767-637b7d1bdxlk",
-      "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-11-06"
     }
   ]
 }
