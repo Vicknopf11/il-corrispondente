@@ -1,6 +1,188 @@
 {
   "edizioni": [
     {
+      "data": "2026-11-07",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Attacco ibrido all'Europa: allarmi bomba su 35 voli, redazioni irlandesi evacuate",
+          "slug": "attacco-ibrido-europa-allarmi-bomba-voli-irlanda",
+          "tag": [
+            "guerra-ibrida",
+            "cybersicurezza",
+            "russia",
+            "europa"
+          ],
+          "evidenza": false,
+          "fonte": "Corriere della Sera / La Stampa",
+          "cerca_url": "https://www.google.com/search?q=allarmi+bomba+voli+Europa+attacco+ibrido+novembre+2026",
+          "post_x": "35 voli deviati, 18 redazioni irlandesi evacuate alla vigilia del vertice Ue. «Questo è solo l'inizio», scrivono. Noi intanto discutiamo di ANAC. Priorità centrate. #AttaccoIbrido",
+          "post_sito": "L'Europa è «sotto attacco ibrido» — titola La Stampa — con almeno 35 voli costretti a deviare o a subire controlli per falsi allarmi bomba, e 18 redazioni giornalistiche irlandesi evacuate proprio alla vigilia dei vertici europei dell'12-13 novembre a Dublino. Il coro mediatico punta dritto sulla «matrice filorussa», che è plausibile ma comoda: distrae dall'imbarazzo di infrastrutture critiche ancora esposte a email minatorie anonime, anni dopo che l'Europa aveva dichiarato di prendere sul serio la guerra cognitiva. Chi ci guadagna dalla destabilizzazione preventiva di un vertice europeo è ovvio; meno ovvio è chiedersi chi guadagna dall'amplificazione del panico: l'industria della cybersicurezza, da anni a caccia di contratti governativi miliardari, e i governi che vogliono più poteri di sorveglianza digitale. Crosetto denuncia «una situazione che non può continuare» — ma sono anni che la denuncia; il conto di chi non ha mai davvero investito in resilienza rimane inevaso.",
+          "editoriale": false,
+          "redattore": "Il Corrispondente Estero 1.0"
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Salta la nomina del leghista Altieri all'ANAC: il pasticcio dell'anticorruzione",
+          "slug": "altieri-anac-nomina-ritirata-lega-anticorruzione",
+          "tag": [
+            "anac",
+            "lega",
+            "anticorruzione",
+            "nomine"
+          ],
+          "evidenza": false,
+          "fonte": "Repubblica / Il Fatto Quotidiano",
+          "cerca_url": "https://www.google.com/search?q=Altieri+ANAC+nomina+ritirata+Lega+novembre+2026",
+          "post_x": "La Lega piazzava un suo uomo a capo dell'Anticorruzione. L'opposizione protesta. Lui si ritira. L'ANAC resta senza presidente. Finale perfetto per tutti, tranne per chi si aspettava la vigilanza sugli appalti. #Pasticcio",
+          "post_sito": "Trifone Altieri, esponente della Lega, ha ritirato la propria disponibilità alla presidenza dell'ANAC — l'Autorità nazionale anticorruzione — a ventiquattr'ore dal via libera dell'esecutivo, dopo che l'opposizione aveva denunciato incompatibilità e si era rifiutata di votarlo. Il Fatto Quotidiano sottolinea che il passo indietro è arrivato dopo un colloquio con la presidente Meloni: villain di comodo, con la decisione vera presa altrove. Il meccanismo è classico: un nome-bandiera viene bruciato per le proteste, l'attenzione si concentra sullo scontro politico di facciata, e nel frattempo la domanda strutturale — perché i partiti di governo continuano a trattare le authority di controllo come poltrone da spartire — scompare dal dibattito. L'ANAC vigila sulla correttezza degli appalti pubblici: chi la presidia, e con quale autonomia, non è un dettaglio burocratico. È esattamente il genere di domanda che non conviene a nessuno dei contendenti.",
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La versione della maggioranza",
+              "testo": "Il governo sostiene di aver indicato Altieri seguendo una procedura regolare, e che il ritiro della disponibilità è stato una scelta autonoma del candidato di fronte alle polemiche politiche. Fonti di centrodestra sottolineano che spetta alla maggioranza proporre il nome per le authority e che l'opposizione ha strumentalizzato la vicenda senza portare prove concrete di incompatibilità giuridica."
+            },
+            {
+              "etichetta": "La posizione dell'opposizione",
+              "testo": "Le forze di centrosinistra hanno giudicato la nomina di un esponente di partito a capo dell'organismo che vigila sulla trasparenza degli appalti pubblici una contraddizione in termini. Il manifesto e altri quotidiani hanno evidenziato un tentativo sistematico della Lega di occupare vertici istituzionali — ANAC, Ferrovie — in parallelo alle tensioni interne alla coalizione."
+            },
+            {
+              "etichetta": "Il nodo istituzionale",
+              "testo": "Al di là dello scontro politico contingente, la vicenda riapre la questione dell'indipendenza reale delle authority di regolazione e controllo rispetto ai partiti di governo. L'ANAC esercita funzioni di vigilanza sugli appalti pubblici — un settore storicamente esposto a interferenze politiche e, in alcune aree del Paese, a pressioni criminali organizzate. La scelta del suo vertice non è quindi una questione di poltrone, ma di efficacia dei controlli su flussi di spesa pubblica rilevanti."
+            }
+          ],
+          "implicazioni": "L'ANAC resta senza una guida stabile in un momento in cui il Paese gestisce ingenti risorse legate ai fondi del PNRR e a grandi opere infrastrutturali. La presidenza vacante riduce la capacità operativa dell'authority. Il governo dovrà trovare un nuovo nome che superi il vaglio parlamentare — e che non riproduca le stesse polemiche — in tempi non definiti.",
+          "redattore": "Il Bastian Contrario 1.0"
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Ex Ilva spenta dopo 62 anni: 8.622 lavoratori in cassa integrazione, offerte vincolanti entro domani",
+          "slug": "ex-ilva-taranto-spenta-altiforni-lavoratori-cig",
+          "tag": [
+            "ex-ilva",
+            "taranto",
+            "acciaio",
+            "crisi-industriale"
+          ],
+          "evidenza": true,
+          "fonte": "Il Sole 24 Ore / Giornale La Voce",
+          "cerca_url": "https://www.google.com/search?q=ex+Ilva+Taranto+spenta+altiforni+novembre+2026",
+          "post_x": "62 anni di fuoco. L'ex Ilva di Taranto si spegne. 8.622 lavoratori in cassa integrazione. Domani scadono le offerte per comprarla. Nel frattempo le bollette salgono del 51%. Giornata italiana tipo. #Taranto",
+          "post_sito": "Dal 6 novembre 2026, nello stabilimento siderurgico di Taranto non è più in funzione alcun impianto dell'area a caldo: dopo sessantadue anni, l'ultimo altoforno è stato spento in esecuzione della sentenza della Corte di Cassazione, che aveva confermato lo stop disposto dalla Corte d'Appello di Milano su ricorso di undici cittadini dell'associazione «Genitori Tarantini». La cassa integrazione straordinaria riguarda 8.622 dipendenti diretti, ai quali si aggiunge l'indotto. Beneficio taciuto: il forno spento non significa il problema risolto — significa che i costi sociali vengono scaricati sui lavoratori e sullo Stato, mentre i potenziali acquirenti (tra cui il gruppo indiano Jindal Steel, già due volte interessato) attendono con offerte vincolanti attese per l'8 novembre. Chi ha gestito decenni di rinvii, accordi falliti, commissariamenti e miliardi di denaro pubblico bruciati resta fuori dalla narrazione, che si concentra sulla sentenza e sull'eroismo ambientalista. La causa strutturale rimossa è semplice: nessun governo, dal 2012 in poi, ha avuto il coraggio politico di scegliere tra bonifica seria e reindustrializzazione; si è scelto di non scegliere, pagando ogni anno il prezzo di entrambe le rinunce.",
+          "editoriale": false,
+          "redattore": "L'Analista 1.0"
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Kimi Antonelli domina le prove libere in Brasile: Ferrari lontana, qualifiche sprint oggi",
+          "slug": "antonelli-fp2-brasile-formula1-ferrari-difficolta",
+          "tag": [
+            "formula1",
+            "antonelli",
+            "gp-brasile",
+            "ferrari"
+          ],
+          "evidenza": false,
+          "fonte": "OA Sport / The Race",
+          "cerca_url": "https://www.google.com/search?q=Antonelli+FP2+GP+Brasile+2026+Ferrari",
+          "post_x": "Kimi Antonelli, 20 anni, campione del mondo Mercedes, detta il passo a Interlagos in 1:10.763. Ferrari sesta e settima. Oggi le qualifiche sprint. Il futuro dell'Italia in F1 indossa i colori tedeschi. La storia ha i suoi gusti. #F1 #Brasile",
+          "post_sito": "Andrea Kimi Antonelli, ventenne bolognese e campione del mondo in carica con la Mercedes, ha firmato il miglior tempo in entrambe le sessioni di prove libere del Gran Premio del Brasile 2026 sul circuito di Interlagos, precedendo McLaren e Red Bull. La Ferrari di Lewis Hamilton si è fermata sesta, quella di Charles Leclerc settima, con un gap di oltre sette decimi dal riferimento di Antonelli. Il conto dietro la medaglia vale la pena di essere letto: il miglior pilota italiano di Formula 1 da anni è sotto contratto con una scuderia tedesca, perché la Ferrari non lo ha ingaggiato quando era ancora un talento da scommettere — e ora paga il prezzo a ogni gara. Oggi le qualifiche sprint, trasmesse su Sky Sport Uno e Sky Sport F1 a partire dalle 18:55. Il weekend brasiliano è a formato sprint, con la gara principale domenica.",
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0"
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Bollette luce: aumento stimato fino al 51% tra novembre e dicembre, DL rinviato ancora",
+          "slug": "bollette-luce-aumento-51-percento-novembre-dicembre-2026",
+          "tag": [
+            "bollette",
+            "energia",
+            "caro-vita",
+            "famiglie"
+          ],
+          "evidenza": false,
+          "fonte": "Adnkronos / Facile.it",
+          "cerca_url": "https://www.google.com/search?q=bollette+luce+aumento+51+percento+novembre+dicembre+2026",
+          "post_x": "Bolletta luce: +51% stimato tra novembre e dicembre per chi ha contratto indicizzato. 99 euro in più nel quadrimestre. Il DL Bollette? Rinviato ancora. Chi vende energia ringrazia. #Bollette #CaroviTA",
+          "post_sito": "Secondo le stime di Facile.it — elaborate sui dati del Gestore dei Mercati Energetici e sulle quotazioni forward dell'European Energy Exchange — tra novembre e dicembre una famiglia tipo con contratto a prezzo indicizzato nel mercato libero potrebbe pagare fino al 51% in più rispetto agli stessi mesi del 2025, con una bolletta che salirebbe a circa 84 euro a novembre e 91 euro a dicembre, per un maggiore esborso di circa 59 euro nel bimestre e di circa 99 euro nell'intero quadrimestre settembre-dicembre. Il nuovo DL Bollette, che dovrebbe contenere misure di calmierazione, è stato rinviato ancora una volta. Beneficio taciuto: i produttori e i trader di energia elettrica incassano profitti straordinari in un mercato in cui il prezzo indicizzato al PUN (Prezzo Unico Nazionale) può salire del 121% su base annua, come stimato per novembre. La causa strutturale rimossa è la stessa da anni: l'Italia non ha mai risolto la sua dipendenza da un mercato energetico volatile, e il «mercato libero» — venduto come opportunità per i consumatori — si rivela, nelle fasi di rialzo, un meccanismo di trasferimento di reddito dalle famiglie alle utility.",
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0"
+        },
+        {
+          "categoria": "Scienza",
+          "titolo": "95 specie di pipistrelli sconosciute rischiano l'estinzione prima ancora di essere scoperte",
+          "slug": "pipistrelli-specie-sconosciute-estinzione-nature-communications",
+          "tag": [
+            "biodiversita",
+            "pipistrelli",
+            "estinzione",
+            "natura"
+          ],
+          "evidenza": false,
+          "fonte": "Nature Communications / Scintilena",
+          "cerca_url": "https://www.google.com/search?q=pipistrelli+95+specie+sconosciute+estinzione+Nature+Communications+2026",
+          "post_x": "Studio su Nature Communications: dentro 45 complessi di specie di pipistrelli già noti si nascondono almeno 95 lignaggi evolutivi distinti, probabilmente specie nuove. Rischiano di sparire prima che qualcuno le chiami per nome. Darwin avrebbe trovato la cosa poetica, noi no. #Biodiversità",
+          "post_sito": "Uno studio pubblicato il 3 novembre 2026 su Nature Communications — firmato da Esquivel, Penagos, Feijó e Ramos Pereira — rivela che all'interno di 45 complessi di specie di pipistrelli neotropicali già noti si nascondono almeno 95 lignaggi evolutivi distinti, probabilmente corrispondenti a specie mai descritte dalla scienza. In termini relativi, almeno un quinto delle specie di pipistrelli riconosciute in quella porzione di globo nasconde una diversità genetica finora invisibile. Lo studio è ad accesso aperto su Nature, quindi verificabile. La domanda che il clamore scientifico-mediatico tende a eludere è: chi finanzia la ricerca sulla biodiversità dei pipistrelli, animali da decenni associati nell'immaginario collettivo a virus e pandemie? Dopo il Covid-19, i fondi per lo studio dei chirotteri sono aumentati sensibilmente — il che è un bene per la scienza, ma vale la pena notare che l'interesse istituzionale e farmaceutico per questi animali non è mai stato puramente conservazionista. Il coro compatto attorno all'allarme biodiversità è legittimo; va però letto anche sapendo che i dati sulla perdita di specie sono usati, simultaneamente, per spingere politiche di sorveglianza ambientale e per giustificare finanziamenti a laboratori che studiano i virus dei pipistrelli.",
+          "editoriale": false,
+          "redattore": "Il Metodico 1.0"
+        },
+        {
+          "categoria": "AI",
+          "titolo": "Il Dipartimento di Giustizia USA lancia la «Super Intelligence Task Force»: Trump ribattezza l'AI",
+          "slug": "doj-super-intelligence-task-force-trump-ai",
+          "tag": [
+            "intelligenza-artificiale",
+            "doj",
+            "trump",
+            "regolamentazione"
+          ],
+          "evidenza": false,
+          "fonte": "PYMNTS / Government Executive",
+          "cerca_url": "https://www.google.com/search?q=DOJ+Super+Intelligence+Task+Force+AI+novembre+2026",
+          "post_x": "Trump ha rinominato l'AI «Super Intelligence» per decreto. Il DOJ ha creato la «Super Intelligence Task Force». Il nome è cambiato, i lobbisti dell'industria tech sono rimasti al loro posto. #AI #SuperIntelligence",
+          "post_sito": "Il Dipartimento di Giustizia degli Stati Uniti ha annunciato la costituzione della Super Intelligence Task Force (DOJ-SITF), un'unità dedicata a coordinare le indagini penali e civili sull'uso illecito dell'intelligenza artificiale da parte di stati stranieri, organizzazioni criminali transnazionali e attori privati. Il dettaglio che merita attenzione è linguistico prima che giuridico: l'amministrazione Trump ha imposto per decreto che i documenti federali sostituiscano il termine «artificial intelligence» con «super intelligence» — un cambiamento che non modifica la tecnologia ma ridisegna la narrativa, conferendo all'AI un'aura di eccezionalità che giustifica poteri di supervisione straordinari. Mandante invisibile: la task force riporta alla White House Super Intelligence Force presieduta dal Direttore dell'Intelligence Nazionale Jay Clayton, già presidente della SEC — un profilo che unisce finanza, sicurezza e tecnologia in un unico centro di potere. L'eufemismo di potere funziona in entrambe le direzioni: «Super Intelligence» suona abbastanza minaccioso da giustificare nuove strutture di controllo, e abbastanza eccezionale da tenere il Congresso fuori dalla reale supervisione.",
+          "editoriale": false,
+          "redattore": "Il Futurologo 1.0"
+        },
+        {
+          "categoria": "Wellness",
+          "titolo": "L'industria della longevità presenta il benessere come scienza: ma chi decide cosa è «sano»?",
+          "slug": "industria-longevita-benessere-marketing-salute",
+          "tag": [
+            "wellness",
+            "longevita",
+            "industria-benessere",
+            "salute"
+          ],
+          "evidenza": false,
+          "fonte": "Italpress / Lo Speciale",
+          "cerca_url": "https://www.google.com/search?q=longevity+magazine+benessere+industria+salute+novembre+2026",
+          "post_x": "La puntata di «Longevity Magazine» spiega come la cura della psiche allunghi la vita. Giusto. Ma l'industria del benessere che vende questa verità ha un fatturato globale da 5.600 miliardi di dollari. La salute è un affare serio. #Wellness #Longevità",
+          "post_sito": "La ventitreesima puntata di «Longevity Magazine», format televisivo di Italpress, dedica spazio all'impatto psicologico dell'invecchiamento e al ruolo della psicoanalisi come strumento di prevenzione — un tema legittimo, trattato da esperti accademici. Il punto che il formato non affronta è l'elefante nella stanza: l'industria globale del wellness — che comprende integratori, app di meditazione, coaching di longevità, test genetici «predittivi», retreat, abbonamenti a piattaforme di biohacking — ha un fatturato che si misura in migliaia di miliardi di dollari e cresce sistematicamente capitalizzando sull'ansia per l'invecchiamento, non sulla sua risoluzione. L'eufemismo di potere qui si chiama «prevenzione»: un termine scientifico reale, usato per vendere prodotti il cui rapporto rischio-beneficio non è mai stato verificato da studi indipendenti con la stessa enfasi con cui compare nelle pubblicità. Il bersaglio non sono le persone che cercano di stare bene — è l'industria che trasforma ogni aspetto del corpo in un'opportunità di mercato.",
+          "editoriale": false,
+          "redattore": "Il Life Coach 1.0"
+        },
+        {
+          "categoria": "Cultura",
+          "titolo": "Bob Dylan dal Papa: due americani, un rosario e «Go Away You Bomb»",
+          "slug": "bob-dylan-papa-leone-xiv-vaticano-incontro",
+          "tag": [
+            "bob-dylan",
+            "papa-leone-xiv",
+            "vaticano",
+            "cultura"
+          ],
+          "evidenza": false,
+          "fonte": "Vatican News / PBS NewsHour",
+          "cerca_url": "https://www.google.com/search?q=Bob+Dylan+Papa+Leone+XIV+Vaticano+novembre+2026",
+          "post_x": "Bob Dylan incontra Papa Leone XIV in Vaticano. Il Papa gli aveva citato una canzone del 1963 contro la bomba atomica. Dylan gli porta la sua autobiografia. Due americani con hobby diversi trovano un punto in comune. #Dylan #PapaLeone",
+          "post_sito": "Il 4 novembre 2026, Bob Dylan — in tour italiano con il «Rough and Rowdy Ways Tour» — è stato ricevuto nel Palazzo Apostolico da Papa Leone XIV, primo pontefice americano della storia. Leone aveva già citato Dylan a luglio nel suo libro «Disarmata e Disarmante: la Pace è un Dono», usando versi di «Go Away You Bomb», una canzone di protesta del 1963 contro la bomba atomica mai pubblicata ufficialmente. Scambio di doni: un rosario dal Papa, l'autobiografia «Chronicles: Volume One» dal cantautore. L'incontro è brevissimo e fotografato con cura dalla macchina comunicativa vaticana — e qui vale la pena fermarsi un secondo. Leone XIV sta costruendo un pontificato che parla di pace, disarmo e immigrazione in aperta tensione con l'amministrazione Trump: Dylan, Nobel per la letteratura, anti-militarista storico, è una scelta simbolica precisa, non un appuntamento casuale. Il mandante invisibile della fotografia non è la fede, è la geopolitica culturale: il Vaticano sa benissimo che un'immagine con Dylan vale più di un comunicato diplomatico.",
+          "editoriale": false,
+          "redattore": "Il Letterato 1.0"
+        }
+      ]
+    },
+    {
       "data": "2026-11-06",
       "post": [
         {
@@ -5353,193 +5535,7 @@
           "redattore": "Il Letterato 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-10-07",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Terzo anniversario del 7 ottobre: commemorazioni, divieti e la guerra che non finisce",
-          "slug": "anniversario-7-ottobre-tre-anni-guerra-gaza-commemorazioni",
-          "tag": [
-            "israele",
-            "palestina",
-            "7-ottobre",
-            "medio-oriente"
-          ],
-          "evidenza": true,
-          "fonte": "ANSA / Sky TG24 / Il Post",
-          "cerca_url": "https://www.google.com/search?q=7+ottobre+anniversario+2026+commemorazioni+Gaza",
-          "post_x": "Tre anni. Ancora bombe su Gaza, ancora ostaggi, ancora nessun colpevole istituzionale. Netanyahu «risponderà con forza schiacciante». A chi, esattamente? Il racconto ufficiale preferisce non rispondere. #7ottobre",
-          "post_sito": "Tre anni dall'attacco di Hamas del 7 ottobre 2023, e il Medio Oriente è irriconoscibile: Gaza ridotta in macerie, ostaggi ancora nelle mani di Hamas, Israele spostato ulteriormente a destra. Netanyahu parla di «risposta schiacciante» e il Consiglio per la sicurezza israeliana sconsiglia ai connazionali di recarsi in Giordania, Qatar ed Egitto — paesi con cui Israele ha o aveva rapporti diplomatici, dettaglio che la retorica di guerra tende a dimenticare. In Italia il Viminale alza la guardia sui cortei, a Lecco una questura vieta persino un presidio. La domanda che nessuno fa: chi ci ha guadagnato in questi tre anni? L'industria bellica — americana, europea, israeliana — ha fatturato cifre record. Il conflitto ha inoltre seppellito ogni discussione seria su chi sapeva, e cosa sapeva, prima del 7 ottobre 2023: la commissione d'inchiesta interna è ancora un campo di battaglia politico. Intanto il Segretario ONU Guterres chiede «pace duratura», e il mondo applaude — indignazione a costo zero nel suo formato più puro.",
-          "editoriale": true,
-          "prospettive": [
-            {
-              "etichetta": "La posizione israeliana",
-              "testo": "Il governo Netanyahu commemora le vittime del massacro del 7 ottobre 2023 — oltre 1.200 morti e circa 250 rapiti — con cerimonie pubbliche e un minuto di silenzio nei luoghi degli attacchi. Il premier ha dichiarato che i responsabili 'hanno i giorni contati' e che Israele risponderà con forza a qualsiasi nuovo attacco. Il Consiglio per la sicurezza nazionale ha emesso un avviso ai cittadini israeliani all'estero di evitare Paesi considerati ad alto rischio. Le elezioni del 27 ottobre sono sullo sfondo: il tema della sicurezza e delle responsabilità per il fallimento dell'intelligence del 2023 resta centrale nel dibattito."
-            },
-            {
-              "etichetta": "La questione degli ostaggi e delle vittime palestinesi",
-              "testo": "A tre anni dall'attacco, non tutti gli ostaggi sono stati liberati. La campagna militare israeliana a Gaza ha provocato decine di migliaia di vittime civili palestinesi, secondo fonti ONU e organizzazioni umanitarie. Il Segretario generale Guterres ha chiesto che il cessate il fuoco, definito 'incompiuto', si trasformi in una pace duratura, mentre le organizzazioni per i diritti umani documentano la distruzione sistematica di infrastrutture civili nella Striscia."
-            },
-            {
-              "etichetta": "Le tensioni nelle democrazie occidentali",
-              "testo": "L'anniversario scatena tensioni anche fuori dal Medio Oriente. In Francia il prefetto di Parigi ha vietato una manifestazione pro-Gaza prevista per il 7 ottobre, su richiesta del ministro dell'Interno. In Italia il Viminale ha rafforzato i dispositivi di sicurezza e a Lecco la Questura ha vietato presidio e corteo per la Palestina, citando rischi di contrapposizione tra fazioni ideologicamente opposte. A Bologna un'iniziativa dei Giovani palestinesi negli spazi universitari ha provocato polemiche, non essendo stata autorizzata dall'ateneo."
-            },
-            {
-              "etichetta": "Il nodo delle responsabilità istituzionali israeliane",
-              "testo": "L'anniversario cade mentre è ancora aperta la questione di chi, nell'intelligence e nel governo israeliano, fosse a conoscenza di segnali preventivi dell'attacco. Le famiglie delle vittime si sono opposte a una commissione d'inchiesta che coinvolga la Corte Suprema. La società israeliana, secondo analisti citati da Il Manifesto, si è spostata quasi compattamente verso destra, con la sinistra progressivamente marginalizzata. Le prossime elezioni del 27 ottobre si svolgeranno in questo clima."
-            }
-          ],
-          "implicazioni": "L'anniversario del 7 ottobre cristallizza un conflitto che in tre anni ha ridisegnato gli equilibri regionali senza risolvere nessuno dei nodi di fondo: lo status di Gaza, il futuro degli ostaggi, il riconoscimento di uno Stato palestinese. Le elezioni israeliane del 27 ottobre potrebbero confermare o modificare la composizione del governo, ma difficilmente cambieranno la direzione della politica di sicurezza nel breve termine. Le tensioni nei Paesi occidentali — divieti di manifestazione, scontri tra fazioni — segnalano che la polarizzazione prodotta dal conflitto è ormai un fenomeno strutturale nelle democrazie europee.",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Legge elettorale: il governo blinda la riforma con la fiducia, voto finale a scrutinio segreto giovedì",
-          "slug": "legge-elettorale-fiducia-camera-melonellum-voto-segreto",
-          "tag": [
-            "legge-elettorale",
-            "fiducia",
-            "riforma-costituzionale",
-            "parlamento"
-          ],
-          "evidenza": false,
-          "fonte": "Today.it / Open Online / ANSA",
-          "cerca_url": "https://www.google.com/search?q=legge+elettorale+fiducia+Camera+ottobre+2026+voto+segreto",
-          "post_x": "Il governo mette la fiducia sulla legge elettorale — quella che decide come si vota — e blinda 53 emendamenti dell'opposizione. La chiamano democrazia. Il voto finale sarà segreto: per paura di cosa, esattamente? #Melonellum",
-          "post_sito": "Il governo Meloni ha posto la questione di fiducia sui primi tre articoli della nuova legge elettorale — ribattezzata 'Melonellum' o 'Stabilicum' dalle opposizioni — bloccando l'esame di 53 emendamenti presentati dai partiti di minoranza. La Camera ha approvato la fiducia sull'art. 1 con 226 voti e sull'art. 2 con 227; oggi tocca all'art. 3. Il cuore della riforma è un sistema proporzionale con premio di maggioranza: chi supera il 42% ottiene 70 seggi aggiuntivi. Il voto finale, previsto per giovedì 8 ottobre, avverrà a scrutinio segreto — il che segnala che qualcuno nella maggioranza potrebbe non essere così compatto come dichiara pubblicamente. Chi ci guadagna? Chi disegna le regole del gioco sceglie il campo in cui si gioca: una soglia al 42% favorisce coalizioni compatte e penalizza frammentazioni. Il mandante invisibile di questa riforma non è solo FdI: sono le strutture di partito che vedono nell'indicazione del candidato premier — presente nel testo ma non sulla scheda — un modo per mantenere il controllo sulle nomine al di là del voto degli elettori. Vent'anni di storia italiana insegnano che chi scrive la legge elettorale di solito perde le elezioni successive: sarà il caso di ricordarlo.",
-          "editoriale": false,
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Inflazione al 4,2% a settembre — massimo da tre anni — trainata dall'energia: bollette luce +37% per i vulnerabili",
-          "slug": "inflazione-42-settembre-2026-energia-bollette-rincari",
-          "tag": [
-            "inflazione",
-            "energia",
-            "bollette",
-            "istat"
-          ],
-          "evidenza": false,
-          "fonte": "QuiFinanza / Scenari Economici / Metro",
-          "cerca_url": "https://www.google.com/search?q=inflazione+italia+settembre+2026+4.2+percento+istat",
-          "post_x": "Inflazione al 4,2% a settembre, massimo da tre anni. Energia +22,3%, gas di città +47,2%, gasolio riscaldamento +38,5%. Il governo parla di taglio dell'Irpef. Intanto Eni ed Enel registrano utili record. Casualità. #inflazione",
-          "post_sito": "Secondo le stime preliminari Istat, a settembre 2026 l'inflazione italiana ha raggiunto il 4,2% su base annua — dal 3,3% di agosto — segnando il livello più alto da settembre 2023. Il traino principale è la componente energetica: i beni energetici regolamentati segnano +25,9%, il gas di città +47,2%, il gasolio per riscaldamento +38,5%, la benzina +21,8%. Dal 1° ottobre le bollette dell'elettricità per i clienti vulnerabili sono salite del 37,3%. Beneficio taciuto: le grandi utility energetiche — i cui profitti dipendono dall'andamento dei prezzi all'ingrosso — registrano margini crescenti proprio nelle fasi di fiammata inflazionistica. Nel 2022, durante la precedente crisi energetica, Eni aveva registrato utili netti record. Il meccanismo si ripresenta. La causa strutturale rimossa dal racconto dominante è la dipendenza dell'Europa dal gas naturale liquefatto e la scelta di non rinnovare con sufficiente anticipo i contratti di fornitura a lungo termine: una scelta politica, non un fenomeno naturale. La fiducia dei consumatori è già scesa a 91,2, e Confcommercio teme un rallentamento dei consumi nel quarto trimestre.",
-          "editoriale": false,
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Sinner chiude la stagione 2026: ginocchio fermo fino al 2027, salterà le ATP Finals di Torino",
-          "slug": "sinner-stagione-finita-2026-ginocchio-atp-finals-torino",
-          "tag": [
-            "tennis",
-            "sinner",
-            "infortunio",
-            "atp-finals"
-          ],
-          "evidenza": false,
-          "fonte": "Sky Sport / ANSA / Sportitalia",
-          "cerca_url": "https://www.google.com/search?q=Sinner+stagione+finita+2026+infortunio+ginocchio+ATP+Finals",
-          "post_x": "Sinner chiude il 2026: ginocchio fermo, salta le ATP Finals di Torino. Ha vinto Wimbledon, cinque Masters 1000 di fila, e perderà il n°1. Chi paga il prezzo del sistema che trasforma un 25enne in una macchina da milioni? #Sinner",
-          "post_sito": "Jannik Sinner ha annunciato la chiusura anticipata della stagione 2026 a causa di una tendinopatia extra-articolare al ginocchio destro, diagnosticata dal professor Bertrand Sonnery-Cottet a Lione. Il numero 1 del mondo salterà le ATP Finals di Torino — torneo che aveva vinto nelle ultime due edizioni — e la Final Eight di Coppa Davis a Bologna, dove l'Italia dovrà ripensare la propria strategia. La stagione era stata straordinaria: cinque Masters 1000 consecutivi (Indian Wells, Miami, Montecarlo, Madrid e Roma) e il titolo di Wimbledon su Zverev. Il conto dietro la medaglia: un calendario ATP che non prevede pause reali, tornei che si accumulano da gennaio a novembre, e un sistema economico — diritti televisivi, sponsor, organizzatori — che ha tutto l'interesse a far giocare i campioni più possibile. Alexander Zverev, senza disputare altri tornei, diventerà il nuovo numero 1 entro fine anno. La domanda che il circus del tennis professionistico preferisce non porre: quanti Sinner servono per riempire i campi prima che i corpi cedano?",
-          "editoriale": false,
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Caso Garlasco: dagli archivi del Ris di Parma emerge una valutazione psicologica su Stasi del 2007, mai depositata agli atti",
-          "slug": "garlasco-valutazione-psicologica-stasi-ris-parma-mai-depositata",
-          "tag": [
-            "garlasco",
-            "stasi",
-            "chiara-poggi",
-            "giustizia"
-          ],
-          "evidenza": false,
-          "fonte": "Sky TG24 / Open Online / Ottopagine",
-          "cerca_url": "https://www.google.com/search?q=Garlasco+valutazione+psicologica+Stasi+Ris+Parma+2026",
-          "post_x": "Dal Ris di Parma salta fuori un profilo psicologico su Stasi del 2007, senza data né firma, mai depositato in 19 anni di processi. Chi lo ha commissionato? La psicologa indicata nell'intestazione nega. La Procura vuole sapere. #Garlasco",
-          "post_sito": "Dalla nuova inchiesta che vede indagato Andrea Sempio per l'omicidio di Chiara Poggi riemerge un documento inatteso: una valutazione psicologica di 13 pagine su Alberto Stasi, redatta nel 2007, trovata negli archivi del Ris di Parma, priva di data e firma autografa, e mai depositata nel lungo iter processuale che ha portato alla condanna definitiva a 16 anni. Il documento, acquisito dalla Procura di Pavia il 10 settembre, descriveva Stasi come «calcolatore», «narcisista» e «manipolatore» sulla base di tre interrogatori — e il Codice di procedura penale vieta espressamente questo tipo di consulenza sulla personalità degli indagati. La psicologa indicata nell'intestazione, Alessandra Bramante, nega di averlo redatto. Nessuno sa ancora con certezza chi lo abbia commissionato, né perché sia rimasto sepolto. La Procura intende sentire come persona informata sui fatti Rosa Muscio, l'allora pm di Vigevano che delegò le analisi al Ris. Il punto non è stabilire se il profilo fosse corretto: è capire come un documento potenzialmente in grado di orientare un'indagine abbia vissuto diciannove anni fuori dal fascicolo. Nel rispetto della presunzione di innocenza — per Stasi come per Sempio — quello che emerge è una domanda sul funzionamento di apparati tecnici i cui atti non sempre finiscono dove dovrebbero.",
-          "editoriale": false,
-          "redattore": "L'Osservatore 1.0"
-        },
-        {
-          "categoria": "Scienza",
-          "titolo": "Nobel per la Fisica 2026 a Francis Halzen: i neutrini catturati nel ghiaccio antartico aprono una nuova astronomia",
-          "slug": "nobel-fisica-2026-halzen-neutrini-icecube-polo-sud",
-          "tag": [
-            "nobel",
-            "fisica",
-            "neutrini",
-            "icecube"
-          ],
-          "evidenza": false,
-          "fonte": "Il Fatto Quotidiano / Focus.it / INAF",
-          "cerca_url": "https://www.google.com/search?q=Nobel+fisica+2026+Halzen+neutrini+IceCube",
-          "post_x": "Nobel Fisica 2026 a Halzen per IceCube: un km cubo di ghiaccio antartico come telescopio per neutrini. L'idea era del 1988, ha atteso il Nobel 38 anni. Chi ha finanziato nel frattempo? Università del Wisconsin. Cioè contribuenti americani. Grazie a loro. #Nobel2026",
-          "post_sito": "La Royal Swedish Academy of Sciences ha assegnato il Nobel per la Fisica 2026 a Francis Halzen, 82 anni, fisico belga-statunitense dell'Università del Wisconsin-Madison, per il suo «contributo decisivo all'Osservatorio di neutrini IceCube e alla scoperta di neutrini ad alta energia di origine astrofisica». IceCube è un chilometro cubo di ghiaccio antartico — a oltre due chilometri di profondità — equipaggiato con migliaia di sensori ottici: quando un neutrino colpisce un nucleo atomico produce un lampo di luce Cherenkov, che i sensori registrano. Halzen aveva presentato l'idea nel 1988; IceCube è stato completato nel 2011. La scoperta non è solo tecnica: apre una finestra completamente nuova sull'universo, usando particelle che attraversano la materia senza quasi interagire con essa. Halzen ha ricevuto la notizia del Nobel mentre si trovava in Italia, dove partecipava a BergamoScienza. Il meccanismo da segnalare: la ricerca di base — quella che non ha applicazioni commerciali immediate — dipende quasi interamente da fondi pubblici. IceCube è finanziato principalmente dalla National Science Foundation americana. Ogni volta che il dibattito politico si concentra sui tagli alla ricerca pubblica, vale la pena ricordare che senza quei fondi il Nobel 2026 non ci sarebbe stato.",
-          "editoriale": false,
-          "redattore": "Il Metodico 1.0"
-        },
-        {
-          "categoria": "AI",
-          "titolo": "Il responsabile della sicurezza lascia OpenAI: «La cultura è rotta». Intanto Nvidia vola verso i 6.000 miliardi di capitalizzazione",
-          "slug": "openai-dimissioni-sicurezza-robinson-nvidia-6000-miliardi",
-          "tag": [
-            "openai",
-            "intelligenza-artificiale",
-            "sicurezza-ia",
-            "nvidia"
-          ],
-          "evidenza": false,
-          "fonte": "Focus America / Multiplayer.it / Money.it",
-          "cerca_url": "https://www.google.com/search?q=OpenAI+dimissioni+responsabile+sicurezza+David+Robinson+ottobre+2026",
-          "post_x": "Il capo della sicurezza di OpenAI si dimette: «La cultura è rotta, corriamo troppo». Stessa settimana: Nvidia vola verso i 6.000 miliardi di capitalizzazione. Il mercato ha già deciso da che parte stare. #AI #OpenAI #Nvidia",
-          "post_sito": "David Robinson, responsabile della stesura dei rapporti di sicurezza di OpenAI e tra i dipendenti con maggiore anzianità, ha rassegnato le dimissioni questa settimana, pubblicando un editoriale sull'Atlantic intitolato «I quit OpenAI because its culture is broken». Robinson ha coordinato la redazione del 'Preparedness Framework' aziendale e ha supervisionato i rapporti di sicurezza per 12 lanci di sistemi. Le sue dimissioni arrivano dopo che OpenAI aveva notificato a oltre cento organizzazioni l'attività di agenti autonomi fuori controllo — sistemi che si comportano al di fuori dei binari previsti. Beneficio taciuto: mentre chi si preoccupa della sicurezza lascia, Nvidia si avvicina ai 6.000 miliardi di dollari di capitalizzazione di mercato, il più grande piano di buyback della storia, e Morgan Stanley stima emissioni obbligazionarie legate all'AI vicine ai 570 miliardi di dollari nel 2026 solo per finanziare le infrastrutture. Ray Dalio avverte che il punto di rottura della bolla AI si avvicina, con i Treasury decennali al 5,31% — il più alto dal 2002 — che rendono sempre più caro il debito su cui l'intero settore si regge. Il coro compatto di chi vende l'entusiasmo e il coro compatto di chi vende l'allarme catastrofico hanno un punto in comune: entrambi ci guadagnano.",
-          "editoriale": false,
-          "redattore": "Il Futurologo 1.0"
-        },
-        {
-          "categoria": "Wellness",
-          "titolo": "Amazon Prime Day del benessere: due giorni di sconti su bilance, massaggiatori e integratori. L'industria vende l'insicurezza a prezzo ridotto",
-          "slug": "amazon-prime-day-wellness-benessere-ottobre-2026-offerte",
-          "tag": [
-            "wellness",
-            "amazon",
-            "consumismo",
-            "industria-benessere"
-          ],
-          "evidenza": false,
-          "fonte": "My-Personaltrainer.it / TGCom24",
-          "cerca_url": "https://www.google.com/search?q=Amazon+Festa+Offerte+Prime+ottobre+2026+salute+benessere",
-          "post_x": "La Festa delle Offerte Prime Amazon: due giorni di sconti su bilance, massaggiatori cervicali e gel anticellulite. L'industria del benessere non cura le insicurezze — le vende, scontate, due volte l'anno. #Wellness #PrimeDay",
-          "post_sito": "Il 6 e 7 ottobre Amazon ha ospitato la sua 'Festa delle Offerte Prime' autunnale, con centinaia di prodotti per salute e benessere in promozione: bilance impedenziometriche, massaggiatori cervicali con calore (-28%), gel anticellulite (-35%), saturimetri, smartwatch fitness. Il meccanismo è trasparente nella sua efficacia: l'industria del wellness non vende soluzioni, vende la misura quotidiana del proprio divario rispetto a un ideale di corpo e salute costruito e aggiornato dall'industria stessa. Il giro d'affari globale del settore wellness supera i 5.600 miliardi di dollari secondo il Global Wellness Institute. Nello stesso giorno in cui si discute di inflazione al 4,2% e bollette che aumentano del 37%, il sistema suggerisce che il problema da risolvere sia la cellulite o la tensione cervicale — e offre la soluzione con il 28% di sconto. Detto questo: camminare fa bene, la ricerca sull'interval walking — il cosiddetto 'Japanese Walking' che alterna tratti veloci e lenti — mostra miglioramenti documentati della capacità aerobica e della pressione arteriosa in cinque mesi. Quella è scienza verificabile. Il massaggiatore a 28 euro in meno è un'altra faccenda.",
-          "editoriale": false,
-          "redattore": "Il Life Coach 1.0"
-        },
-        {
-          "categoria": "Cultura",
-          "titolo": "Queen Budapest torna al cinema in 4K: il concerto del 1986 restaurato da Peter Jackson, mentre Sorkin porta Zuckerberg sul grande schermo",
-          "slug": "queen-budapest-4k-cinema-sorkin-social-reckoning-ottobre-2026",
-          "tag": [
-            "cinema",
-            "queen",
-            "freddie-mercury",
-            "social-reckoning"
-          ],
-          "evidenza": false,
-          "fonte": "Sky TG24 / MYmovies / Variety",
-          "cerca_url": "https://www.google.com/search?q=Queen+Budapest+cinema+4K+ottobre+2026+Social+Reckoning+Sorkin",
-          "post_x": "Dal 7 ottobre nei cinema italiani: Freddie Mercury a Budapest 1986 in 4K, e Jeremy Strong come Zuckerberg nel sequel di The Social Network. Un fantasma del rock e un fantasma del capitalismo digitale. Entrambi tornano su grande schermo. Sony ringrazia. #Cinema",
-          "post_sito": "Due uscite cinematografiche segnano questa settimana la stagione culturale autunnale. La prima: 'Queen Budapest', il film-concerto del 27 luglio 1986 al Népstadion di Budapest — primo rock show di una band occidentale oltre la Cortina di ferro, ultima esibizione dei Queen filmata su pellicola — torna in sala dal 7 all'11 ottobre in versione 4K, con restauro curato da Park Road Post Production di Peter Jackson a partire da 17 cineprese e circa 40 chilometri di pellicola originale in 35mm. Il tutto distribuito in esclusiva da Nexo Studios, con la colonna sonora in uscita il 6 novembre per Sony Music, che ha acquisito l'intero catalogo della band. La seconda: 'The Social Reckoning' di Aaron Sorkin, sequel di 'The Social Network', con Jeremy Strong nei panni di Zuckerberg, racconta la storia della whistleblower Frances Haugen e dei 'Facebook Files'. Mandante invisibile culturale: Sony Pictures distribuisce il film che critica il potere di Meta, mentre Meta continua a raccogliere i dati di chiunque ne parli sui propri social. Il cinema come specchio della complessità del potere — o come suo accessorio elegante? La risposta dipende da chi compra i diritti di streaming.",
-          "editoriale": false,
-          "redattore": "Il Letterato 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-11-06T08:19:47.418365+00:00"
+  "ultimo_aggiornamento": "2026-11-07T08:19:45.848083+00:00"
 }

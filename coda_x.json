@@ -1,77 +1,77 @@
 {
-  "data": "2026-11-06",
+  "data": "2026-11-07",
   "tweet": [
     {
-      "testo": "I democratici vincono le midterm, Wall Street brucia oltre 3.000 miliardi. Trump urla ai brogli. Chi ci guadagna? Chi vende l'allarme sull'AI per far crollare i tech. Come sempre.",
-      "url": "https://corrispondente.filoclastos.it/2026/11/06/midterm-usa-democratici-vincono-wall-street-crolla-trump-brogli/",
-      "slug": "midterm-usa-democratici-vincono-wall-street-crolla-trump-brogli",
+      "testo": "35 voli deviati, 18 redazioni irlandesi evacuate alla vigilia del vertice Ue. «Questo è solo l'inizio», scrivono. Noi intanto discutiamo di ANAC. Priorità centrate. #AttaccoIbrido",
+      "url": "https://corrispondente.filoclastos.it/2026/11/07/attacco-ibrido-europa-allarmi-bomba-voli-irlanda/",
+      "slug": "attacco-ibrido-europa-allarmi-bomba-voli-irlanda",
       "categoria": "Politica Internazionale",
-      "evidenza": true,
-      "pubblicato": true
+      "evidenza": false,
+      "pubblicato": false
     },
     {
-      "testo": "Il governo impugna la legge sul fine vita del Veneto. Salvini non vota. Tajani chiede una legge nazionale. Zaia «rivendica». Tutti d'accordo nel non decidere niente, da vent'anni.",
-      "url": "https://corrispondente.filoclastos.it/2026/11/06/governo-impugna-legge-veneta-fine-vita-maggioranza-spacca/",
-      "slug": "governo-impugna-legge-veneta-fine-vita-maggioranza-spacca",
+      "testo": "La Lega piazzava un suo uomo a capo dell'Anticorruzione. L'opposizione protesta. Lui si ritira. L'ANAC resta senza presidente. Finale perfetto per tutti, tranne per chi si aspettava la vigilanza sugli appalti. #Pasticcio",
+      "url": "https://corrispondente.filoclastos.it/2026/11/07/altieri-anac-nomina-ritirata-lega-anticorruzione/",
+      "slug": "altieri-anac-nomina-ritirata-lega-anticorruzione",
       "categoria": "Politica Nazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Decreto bollette rinviato per la seconda volta. Palazzo Chigi invoca «l'interlocuzione con l'UE». Traduzione: il tetto a 58,9 €/MWh non arriva. Gennaio 2027 si avvicina. Le bollette no.",
-      "url": "https://corrispondente.filoclastos.it/2026/11/06/decreto-bollette-rinviato-seconda-volta-tetto-gas/",
-      "slug": "decreto-bollette-rinviato-seconda-volta-tetto-gas",
+      "testo": "62 anni di fuoco. L'ex Ilva di Taranto si spegne. 8.622 lavoratori in cassa integrazione. Domani scadono le offerte per comprarla. Nel frattempo le bollette salgono del 51%. Giornata italiana tipo. #Taranto",
+      "url": "https://corrispondente.filoclastos.it/2026/11/07/ex-ilva-taranto-spenta-altiforni-lavoratori-cig/",
+      "slug": "ex-ilva-taranto-spenta-altiforni-lavoratori-cig",
       "categoria": "Economia",
-      "evidenza": false,
-      "pubblicato": true
+      "evidenza": true,
+      "pubblicato": false
     },
     {
-      "testo": "Berrettini si ritira da Parigi-Bercy per un problema al gomito, saltando il match con Alcaraz. «Farò tutti gli accertamenti». Lo dice ormai da anni. Il talento c'è. Il corpo non risponde.",
-      "url": "https://corrispondente.filoclastos.it/2026/11/06/berrettini-ritiro-parigi-bercy-infortunio-braccio/",
-      "slug": "berrettini-ritiro-parigi-bercy-infortunio-braccio",
+      "testo": "Kimi Antonelli, 20 anni, campione del mondo Mercedes, detta il passo a Interlagos in 1:10.763. Ferrari sesta e settima. Oggi le qualifiche sprint. Il futuro dell'Italia in F1 indossa i colori tedeschi. La storia ha i suoi gusti. #F1 #Brasile",
+      "url": "https://corrispondente.filoclastos.it/2026/11/07/antonelli-fp2-brasile-formula1-ferrari-difficolta/",
+      "slug": "antonelli-fp2-brasile-formula1-ferrari-difficolta",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "27 voli paralizzati da falsi allarmi bomba via email. Firma: «Combattenti dello Stato Maschile». Caccia militari in volo. Pista filorussa. Curioso che accada il giorno dopo le midterm USA.",
-      "url": "https://corrispondente.filoclastos.it/2026/11/06/falsi-allarmi-bomba-voli-europei-caccia-militari-pista-filorussa/",
-      "slug": "falsi-allarmi-bomba-voli-europei-caccia-militari-pista-filorussa",
+      "testo": "Bolletta luce: +51% stimato tra novembre e dicembre per chi ha contratto indicizzato. 99 euro in più nel quadrimestre. Il DL Bollette? Rinviato ancora. Chi vende energia ringrazia. #Bollette #CaroviTA",
+      "url": "https://corrispondente.filoclastos.it/2026/11/07/bollette-luce-aumento-51-percento-novembre-dicembre-2026/",
+      "slug": "bollette-luce-aumento-51-percento-novembre-dicembre-2026",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Studio San Raffaele su 10 milioni di lombardi: la sclerosi multipla si vive più a lungo ma i casi sono più che raddoppiati. Buone notizie per la ricerca farmaceutica. Meno per il SSN.",
-      "url": "https://corrispondente.filoclastos.it/2026/11/06/sclerosi-multipla-si-vive-piu-a-lungo-casi-raddoppiati-lancet/",
-      "slug": "sclerosi-multipla-si-vive-piu-a-lungo-casi-raddoppiati-lancet",
+      "testo": "Studio su Nature Communications: dentro 45 complessi di specie di pipistrelli già noti si nascondono almeno 95 lignaggi evolutivi distinti, probabilmente specie nuove. Rischiano di sparire prima che qualcuno le chiami per nome. Darwin avrebbe trovato la cosa poetica, noi no. #Biodiversità",
+      "url": "https://corrispondente.filoclastos.it/2026/11/07/pipistrelli-specie-sconosciute-estinzione-nature-communications/",
+      "slug": "pipistrelli-specie-sconosciute-estinzione-nature-communications",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Moonshot AI cinese ha cercato di comprare chip Nvidia Blackwell in Europa per aggirare le sanzioni USA. Nvidia convocata dal Congresso per presunte spie cinesi. Tutto normale nell'ecosistema del libero mercato.",
-      "url": "https://corrispondente.filoclastos.it/2026/11/06/moonshot-ai-cinese-chip-nvidia-europa-sanzioni-usa/",
-      "slug": "moonshot-ai-cinese-chip-nvidia-europa-sanzioni-usa",
+      "testo": "Trump ha rinominato l'AI «Super Intelligence» per decreto. Il DOJ ha creato la «Super Intelligence Task Force». Il nome è cambiato, i lobbisti dell'industria tech sono rimasti al loro posto. #AI #SuperIntelligence",
+      "url": "https://corrispondente.filoclastos.it/2026/11/07/doj-super-intelligence-task-force-trump-ai/",
+      "slug": "doj-super-intelligence-task-force-trump-ai",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "«Rafforza il sistema immunitario» è la frase più usata — e più priva di basi scientifiche — del marketing del benessere. Dai frullati verdi agli integratori di staminali: compri, ti senti meglio. Coincidenza?",
-      "url": "https://corrispondente.filoclastos.it/2026/11/06/potenzia-sistema-immunitario-industria-benessere-superfood/",
-      "slug": "potenzia-sistema-immunitario-industria-benessere-superfood",
+      "testo": "La puntata di «Longevity Magazine» spiega come la cura della psiche allunghi la vita. Giusto. Ma l'industria del benessere che vende questa verità ha un fatturato globale da 5.600 miliardi di dollari. La salute è un affare serio. #Wellness #Longevità",
+      "url": "https://corrispondente.filoclastos.it/2026/11/07/industria-longevita-benessere-marketing-salute/",
+      "slug": "industria-longevita-benessere-marketing-salute",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Bob Dylan riceve un rosario dal Papa. Il Papa riceve «Chronicles». Il Vaticano cita Dylan contro il riarmo nucleare. Dylan indossa una felpa col cappuccio. Due americani del Midwest che si capiscono a meraviglia.",
-      "url": "https://corrispondente.filoclastos.it/2026/11/06/bob-dylan-papa-leone-xiv-vaticano-rosario-autobiografia/",
-      "slug": "bob-dylan-papa-leone-xiv-vaticano-rosario-autobiografia",
+      "testo": "Bob Dylan incontra Papa Leone XIV in Vaticano. Il Papa gli aveva citato una canzone del 1963 contro la bomba atomica. Dylan gli porta la sua autobiografia. Due americani con hobby diversi trovano un punto in comune. #Dylan #PapaLeone",
+      "url": "https://corrispondente.filoclastos.it/2026/11/07/bob-dylan-papa-leone-xiv-vaticano-incontro/",
+      "slug": "bob-dylan-papa-leone-xiv-vaticano-incontro",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }
