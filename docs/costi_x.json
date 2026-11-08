@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-08",
+      "slug": "motogp-qatar-marquez-sprint-decimo-titolo",
+      "categoria": "Sport",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-08",
       "slug": "fine-sconto-accise-gasolio-8-novembre-2026",
       "categoria": "Economia",
       "evidenza": false,
@@ -1428,14 +1436,6 @@
       "data": "2026-10-18",
       "slug": "tirzepatide-semaglutide-obesita-congresso-lilly",
       "categoria": "Wellness",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-18",
-      "slug": "getty-images-bancarotta-chapter-11-ia-fotografi",
-      "categoria": "AI",
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
