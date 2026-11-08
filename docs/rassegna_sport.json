@@ -1,14 +1,6 @@
 {
-  "generato": "2026-11-08T12:31:05.426400+00:00",
+  "generato": "2026-11-08T18:31:07.128451+00:00",
   "item": [
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Al via la Serie A del Volo. Favre: \"Sia una stagione di crescita, confronto e soddisfazioni\"",
-      "link": "https://www.gazzetta.it/bocce/05-11-2026/bocce-al-via-la-serie-a-del-volo-favre-sia-una-stagione-di-crescita.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-11-05"
-    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
@@ -36,10 +28,18 @@
     {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
-      "titolo": "Nations Championship: Francia e Galles non sbagliano. Figi e Giappone senza scampo",
-      "link": "https://www.gazzetta.it/Rugby/07-11-2026/rugby-nations-championship-francia-e-galles-non-sbagliano-figi-e-giappone-senza-scampo.shtml",
+      "titolo": "Monologo Inghilterra, Pollock scatenato: Australia demolita a Twickenham con 7 mete",
+      "link": "https://www.gazzetta.it/Rugby/08-11-2026/rugby-nations-championship-inghilterra-australia-45-22-a-twickenham-con-7-mete.shtml",
       "fonte": "Gazzetta — Rugby",
-      "data_evento": "2026-11-07"
+      "data_evento": "2026-11-08"
+    },
+    {
+      "sottocategoria": "Atletica",
+      "tipo": "notizia",
+      "titolo": "Maratona al Maradona: una staffetta in memoria di due campioni",
+      "link": "https://www.gazzetta.it/Atletica/06-11-2026/maratona-al-maradona-una-staffetta-in-memoria-di-due-campioni.shtml",
+      "fonte": "Gazzetta — Atletica",
+      "data_evento": "2026-11-06"
     }
   ]
 }
