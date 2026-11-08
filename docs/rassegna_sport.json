@@ -1,13 +1,29 @@
 {
-  "generato": "2026-11-08T06:31:14.134608+00:00",
+  "generato": "2026-11-08T12:31:05.426400+00:00",
   "item": [
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Al via la Serie A del Volo. Favre: \"Sia una stagione di crescita, confronto e soddisfazioni\"",
+      "link": "https://www.gazzetta.it/bocce/05-11-2026/bocce-al-via-la-serie-a-del-volo-favre-sia-una-stagione-di-crescita.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-11-05"
+    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
-      "titolo": "Silverskiff 2026, Torino si prepara alla 35ª edizione: Sinkovic a caccia dell'ennesimo titolo",
-      "link": "https://www.gazzetta.it/Sport-Vari/05-11-2026/canottaggio-silverskiff-2026-torino-regata.shtml",
+      "titolo": "Soldini: \"Sono stato due volte naufrago, adesso salvo quelli che arrivano sui barconi\"",
+      "link": "https://www.gazzetta.it/Sport-Vari/08-11-2026/giovanni-soldini-intervista.shtml",
       "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-11-05"
+      "data_evento": "2026-11-08"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Dikec, il tiratore turco diventato meme: \"Duplantis ed Elon Musk mi imitano? Anche gli avversari sono contenti\"",
+      "link": "https://www.gazzetta.it/Sport-Vari/07-11-2026/yusuf-dikec-la-mano-in-tasca-diventata-un-meme-mi-viene-da-sorridere-quando-mi-imitano.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-11-07"
     },
     {
       "sottocategoria": "Combattimento",
@@ -23,22 +39,6 @@
       "titolo": "Nations Championship: Francia e Galles non sbagliano. Figi e Giappone senza scampo",
       "link": "https://www.gazzetta.it/Rugby/07-11-2026/rugby-nations-championship-francia-e-galles-non-sbagliano-figi-e-giappone-senza-scampo.shtml",
       "fonte": "Gazzetta — Rugby",
-      "data_evento": "2026-11-07"
-    },
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "Maratona al Maradona: una staffetta in memoria di due campioni",
-      "link": "https://www.gazzetta.it/Atletica/06-11-2026/maratona-al-maradona-una-staffetta-in-memoria-di-due-campioni.shtml",
-      "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-11-06"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Da Alcaraz a Zverev, Cobolli guida l'Italia: ecco gli otto qualificati alle Atp Finals di Torino",
-      "link": "https://www.gazzetta.it/Tennis/ATP/storie/07-11-2026/atp-finals-torino-2026-ecco-tutti-i-partecipanti-del-2026/i-qualificati-alle-finals-di-torino.shtml",
-      "fonte": "Gazzetta — Tennis",
       "data_evento": "2026-11-07"
     }
   ]
