@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-08",
+      "slug": "wall-street-ai-mille-miliardi-anthropic-ipo",
+      "categoria": "AI",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-08",
       "slug": "cannabis-2800-anni-fa-tunnug-scienza",
       "categoria": "Scienza",
       "evidenza": false,
@@ -1428,14 +1436,6 @@
       "data": "2026-10-19",
       "slug": "panetta-danni-climatici-200-miliardi-borse-calo",
       "categoria": "Economia",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-19",
-      "slug": "meloni-stipendi-magistrati-ordine-pubblico",
-      "categoria": "Politica Nazionale",
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
