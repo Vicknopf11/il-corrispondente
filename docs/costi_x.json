@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-08",
+      "slug": "report-rai3-senza-ranucci-nuova-stagione",
+      "categoria": "Cultura",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-08",
       "slug": "morbillo-italia-prima-europa-651-casi-vaccini",
       "categoria": "Wellness",
       "evidenza": false,
@@ -1428,14 +1436,6 @@
       "data": "2026-10-19",
       "slug": "guerriglia-milano-minorenni-duomo-ottobre-2026",
       "categoria": "Cronaca",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-19",
-      "slug": "world-skate-games-2026-italia-primo-medagliere",
-      "categoria": "Sport",
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
