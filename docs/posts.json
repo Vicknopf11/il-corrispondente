@@ -1,6 +1,192 @@
 {
   "edizioni": [
     {
+      "data": "2026-11-08",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Midterm USA: i Democratici riprendono il Congresso, Trump risponde con le indagini",
+          "slug": "midterm-usa-democratici-congresso-trump-indagini",
+          "tag": [
+            "usa",
+            "midterm",
+            "trump",
+            "democratici"
+          ],
+          "evidenza": false,
+          "fonte": "focusamerica.it",
+          "cerca_url": "https://www.google.com/search?q=midterm+USA+2026+democratici+conquistano+Congresso+Trump+indagini",
+          "post_x": "I Dem prendono Camera e Senato, Trump chiede al DoJ di indagarli. La democrazia americana: il perdente processa chi ha vinto. Nuovo. #Midterm2026",
+          "post_sito": "I Democratici conquistano Camera e Senato nelle elezioni di midterm americane, e Donald Trump risponde chiedendo al Dipartimento di Giustizia di aprire indagini sugli avversari, definendo «estorsione al massimo livello» qualsiasi tentativo di controllo parlamentare sull'esecutivo. Il coro mediatico celebra la «vittoria della democrazia», ma tace su una domanda strutturale: in un sistema in cui il presidente uscente usa la magistratura federale come arma elettorale contro l'opposizione, cosa resta della separazione dei poteri? Chi ci guadagna concretamente dal caos permanente sono i fondi speculativi che vivono di volatilità, le industrie della difesa che prosperano nell'incertezza geopolitica e — sul piano interno — entrambi i partiti, che raccolgono donazioni record proprio quando lo scontro è più aspro. Il contesto rimosso è che questa dinamica di criminalizzazione del rivale non è un'invenzione di Trump: risale almeno all'era Clinton, è stata amplificata da Obama con le intercettazioni ai giornalisti e perfezionata come metodo da entrambi gli schieramenti. La novità è solo la mancanza di qualsiasi pudore nel dirlo ad alta voce.",
+          "editoriale": false,
+          "redattore": "Il Corrispondente Estero 1.0"
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Hacker filorussi nel dark web: i dati di Tajani, Lo Voi e della Galleria del Brennero",
+          "slug": "hacker-filorussi-dark-web-tajani-brennero",
+          "tag": [
+            "cyberattacchi",
+            "guerra-ibrida",
+            "tajani",
+            "russia"
+          ],
+          "evidenza": true,
+          "fonte": "Corriere della Sera / La Stampa",
+          "cerca_url": "https://www.google.com/search?q=hacker+filorussi+dark+web+Tajani+Brennero+novembre+2026",
+          "post_x": "Tajani nel dark web, dati del Brennero violati. «Guerra ibrida», tuonano tutti. Curioso che colpisca proprio chi chiedeva più fondi per la difesa. Chi ci guadagna? #GuerraIbrida",
+          "post_sito": "I dati personali del ministro Tajani, del procuratore Lo Voi e delle infrastrutture della Galleria di Base del Brennero finiscono nel dark web in un'operazione attribuita al gruppo filorusso NoName057(16). Tajani chiede di portare il dossier al G7, Meloni esprime «grande preoccupazione» e il Corriere apre con «Hacker, taglia sugli italiani». Il coro è compatto: c'è un aggressore, siamo le vittime. Quello che il racconto dominante non dice è che la narrativa della «guerra ibrida» fa comodo a chi ha interesse ad aumentare i budget per la cybersicurezza — un comparto in fortissima espansione, con contractor privati che orbitano intorno ai ministeri della Difesa di tutta Europa. Il beneficio taciuto è anche politico: un attacco esterno cementa la coesione interna, e permette di seppellire sotto l'allarme sicurezza notizie meno comode, come la partita ancora aperta sulla presidenza dell'Anac. Tutto ciò non significa che l'attacco non sia reale — significa chiedersi anche chi lo usa, e come.",
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La versione del governo",
+              "testo": "Il ministro Tajani ha denunciato la pubblicazione dei propri dati personali nel dark web, attribuita al gruppo filorusso NoName057(16), che dal 26 ottobre avrebbe pubblicato informazioni su diciotto persone considerate ostili alla Federazione Russa. L'attacco ha colpito anche le infrastrutture della società della Galleria di Base del Brennero. Tajani ha chiesto che il dossier venga portato al prossimo G7 e ha ricevuto la solidarietà della premier Meloni. L'intelligence europea sta approfondendo i possibili collegamenti con gruppi vicini all'area russa, ma le indagini non hanno ancora stabilito se dietro i diversi episodi esista un'unica regia."
+            },
+            {
+              "etichetta": "Il quadro geopolitico",
+              "testo": "La pressione informatica sull'Europa si inserisce in un contesto più ampio di guerra ibrida documentata almeno dal 2022, che comprende attacchi alle infrastrutture critiche, campagne di disinformazione e azioni di destabilizzazione. L'Italia è esposta in quanto membro NATO e fornitore di sostegno all'Ucraina. Il fatto che nel mirino siano finiti sia esponenti politici sia infrastrutture strategiche come il Brennero — arteria fondamentale per i commerci europei — indica un'azione coordinata su più livelli, non episodi isolati."
+            },
+            {
+              "etichetta": "Il nodo della cybersicurezza pubblica",
+              "testo": "L'incidente riapre il dibattito sulle vulnerabilità delle infrastrutture digitali italiane e sulla capacità dell'Agenzia per la Cybersicurezza Nazionale di garantire protezione adeguata. I sindacati e alcuni esperti del settore segnalano da tempo carenze strutturali nei protocolli di sicurezza delle pubbliche amministrazioni. La risposta istituzionale — portare il dossier al G7 — è una mossa diplomatica di lungo periodo che non risponde all'urgenza di proteggere dati già compromessi."
+            },
+            {
+              "etichetta": "Chi trae vantaggio dall'allarme",
+              "testo": "Ogni grande campagna di attacchi informatici produce un effetto secondario documentato: l'accelerazione degli investimenti in cybersicurezza da parte dei governi colpiti. Il settore privato della sicurezza informatica — dai grandi contractor della difesa alle società di threat intelligence — beneficia strutturalmente dell'escalation nella percezione del rischio. Questo non significa che l'allarme sia strumentale, ma che la risposta pubblica tende a privilegiare soluzioni costose e visibili rispetto a interventi strutturali sulla formazione e sui protocolli interni alle amministrazioni."
+            }
+          ],
+          "implicazioni": "Se le indagini confermassero una regia unitaria dietro gli attacchi, l'Italia potrebbe invocare l'articolo 5 del Trattato NATO per gli attacchi cibernetici, aprendo uno scenario diplomatico inedito. Sul piano interno, l'episodio potrebbe accelerare l'iter del disegno di legge sulla cybersicurezza attualmente in discussione al Parlamento e rafforzare le richieste di aumento del budget dell'Agenzia per la Cybersicurezza Nazionale. Per i singoli cittadini colpiti dalla pubblicazione dei dati, restano aperte le questioni sulla responsabilità degli enti che detenevano quelle informazioni.",
+          "redattore": "Il Bastian Contrario 1.0"
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Fine dello sconto sul gasolio: da oggi 4,9 centesimi in più al litro senza proroga",
+          "slug": "fine-sconto-accise-gasolio-8-novembre-2026",
+          "tag": [
+            "carburanti",
+            "accise",
+            "gasolio",
+            "manovra"
+          ],
+          "evidenza": false,
+          "fonte": "Il Sole 24 Ore / Open",
+          "cerca_url": "https://www.google.com/search?q=stop+sconto+accise+gasolio+8+novembre+2026",
+          "post_x": "Da oggi diesel più caro: scaduto lo sconto di 4,9 cent/litro. Il governo lo aveva reintrodotto a ottobre, tolto a novembre. Breve storia triste di 11 giorni di populismo alla pompa. #Carburanti",
+          "post_sito": "Da domenica 8 novembre è scaduto lo sconto di 4,9 centesimi al litro sulle accise del gasolio, reintrodotto a sorpresa il 27 ottobre con un decreto dei ministeri dell'Economia e dell'Ambiente — comparso in Gazzetta Ufficiale la sera prima di Halloween — e lasciato scadere senza proroga. Il beneficio taciuto di questa politica yo-yo è tutto industriale: le grandi compagnie petrolifere come Eni, che estende un calmiere mobile fino a dicembre, non applicano più un prezzo massimo nazionale ma gestiscono autonomamente i prezzi nelle quasi 4.000 stazioni, con un vantaggio competitivo strutturale sui gestori indipendenti che acquistano all'ingrosso. Il risparmio su un pieno da 50 litri era di 2,44 euro: abbastanza per fare titolo, non abbastanza per cambiare la vita di chi usa il furgone per lavorare. Il contesto rimosso è che la manovra 2027 nasconde, secondo Il Sole 24 Ore, 5 miliardi di balzelli occulti tra oneri in bolletta, bolli, giochi e tabacchi: il gasolio era il paravento mediatico presentabile.",
+          "editoriale": false,
+          "redattore": "L'Analista 1.0"
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "MotoGP Qatar: Márquez vince la sprint e punta al decimo titolo mondiale in gara",
+          "slug": "motogp-qatar-marquez-sprint-decimo-titolo",
+          "tag": [
+            "motogp",
+            "marquez",
+            "qatar",
+            "ducati"
+          ],
+          "evidenza": false,
+          "fonte": "Eurosport / Il Fatto Quotidiano",
+          "cerca_url": "https://www.google.com/search?q=MotoGP+Qatar+2026+Marquez+campione+gara+domenica",
+          "post_x": "Márquez vince la sprint in Qatar e oggi può diventare campione per la decima volta — un record che nemmeno Rossi ha raggiunto. Ducati ringrazia. Il resto della griglia pure, involontariamente. #MotoGP",
+          "post_sito": "Marc Márquez ha vinto la gara sprint del GP del Qatar davanti a Di Giannantonio e a un superlativo Jorge Martín — partito undicesimo con un polso fratturato — e oggi nella gara lunga a Lusail può matematicamente conquistare il suo decimo titolo mondiale, l'ottavo nella classe regina, con due gare d'anticipo. Un traguardo che nemmeno Valentino Rossi ha raggiunto. La notizia sportiva è straordinaria; quella industriale è altrettanto interessante: la Ducati domina il Mondiale con almeno quattro piloti nei primi posti della classifica, una situazione che il regolamento FIM dovrebbe in teoria impedire per garantire competitività, ma che di fatto trasforma il campionato in una gara interna tra piloti dello stesso fornitore. Il conto dietro la medaglia vale la pena di essere letto: Ducati è di proprietà di Volkswagen Group, che usa la MotoGP come vetrina tecnologica globale in un momento in cui il settore auto europeo attraversa la crisi più profonda degli ultimi decenni. Ogni podio è marketing. Martin, su Aprilia, è l'unico avversario non-Ducati — e nessuno ne parla abbastanza.",
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0"
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Strage di Cracovia: 6 morti, trovati altri 3 corpi a casa del killer. Tusk: «Terrorismo»",
+          "slug": "strage-cracovia-6-morti-tusk-terrorismo",
+          "tag": [
+            "cracovia",
+            "attentato",
+            "polonia",
+            "sicurezza"
+          ],
+          "evidenza": false,
+          "fonte": "Euronews / ANSA",
+          "cerca_url": "https://www.google.com/search?q=sparatoria+Cracovia+6+morti+Tusk+terrorismo+novembre+2026",
+          "post_x": "Cracovia, 6 morti in piazza del Mercato. Tusk dichiara due giorni di lutto e parla di terrorismo. Prima di sapere chi e perché, il copione del cordoglio è già pronto. #Cracovia",
+          "post_sito": "Una sparatoria in piazza del Mercato di Cracovia ha causato sei morti e sedici feriti; le autorità polacche hanno trovato altri tre corpi nell'abitazione del presunto autore, e il premier Tusk ha dichiarato due giorni di lutto nazionale definendo l'atto un «atto di terrorismo». Una tragedia reale, con vittime reali — tra cui italiani scampati per caso, una scolaresca laziale e una famiglia trevigiana rimasta bloccata in albergo. Il registro cauto impone di non riempire il vuoto delle informazioni ancora mancanti con interpretazioni premature: la parola «terrorismo» ha un peso giuridico e politico preciso, e usarla prima che le indagini stabiliscano movente e affiliazioni può orientare l'opinione pubblica in una direzione che potrebbe rivelarsi sbagliata. La causa strutturale che il racconto di cronaca tende a rimuovere è la domanda sul sistema: in quale contesto sociale e politico matura una violenza di questa portata? La risposta richiede tempo e dati — non titoli nelle prime 24 ore.",
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0"
+        },
+        {
+          "categoria": "Scienza",
+          "titolo": "Cannabis 2.800 anni fa: semi e cannabinoidi nei capelli sciti di Tunnug 1 su «Science»",
+          "slug": "cannabis-2800-anni-fa-tunnug-scienza",
+          "tag": [
+            "archeologia",
+            "cannabis",
+            "siberia",
+            "preistoria"
+          ],
+          "evidenza": false,
+          "fonte": "Sbircia la Notizia / Science",
+          "cerca_url": "https://www.google.com/search?q=cannabis+2800+anni+fa+Tunnug+1+Siberia+Science+2026",
+          "post_x": "Studiosi trovano cannabis in tombe scite di 2.800 anni fa. La notizia: era già lì. La domanda che nessuno fa: chi finanzia la ricerca sull'uso antico di sostanze oggi illegali? #Scienza #Cannabis",
+          "post_sito": "Nella tomba principesca scita di Tunnug 1, in Siberia, sei semi di cannabis sono stati datati all'inizio dell'VIII secolo a.C. e nei capelli umani conservati nelle camere funerarie sono comparsi segnali compatibili con cannabinolo e, più debolmente, con THC. Il lavoro, pubblicato su «Science» il 5 novembre 2026, rivendica il più antico impiego della cannabis per effetti psicoattivi sostenuto da datazione diretta — circa 2.800 anni fa. Il risultato è affascinante e il metodo è rigoroso, ma gli stessi autori avvertono che i campioni non restituiscono né la dose né la via di assunzione. Il sospetto verso il coro compatto di titoli entusiastici è metodologico, non negazionista: ogni scoperta sull'uso storico di sostanze psicoattive genera automaticamente interesse mediatico sproporzionato rispetto al peso scientifico effettivo, e beneficia — spesso involontariamente — di un ecosistema mediatico e industriale (industria della cannabis legale, lobby della legalizzazione) che ha tutto l'interesse a normalizzare la sostanza attraverso la storia. La scoperta resta interessante: ma il clamore attorno a un risultato preliminare su THC «debolmente segnalato» nei capelli merita la cautela che il titolo «Cannabis 2.800 anni fa» sistematicamente rimuove.",
+          "editoriale": false,
+          "redattore": "Il Metodico 1.0"
+        },
+        {
+          "categoria": "AI",
+          "titolo": "Mille miliardi bruciati a Wall Street sull'AI, ma Anthropic si prepara all'IPO del secolo",
+          "slug": "wall-street-ai-mille-miliardi-anthropic-ipo",
+          "tag": [
+            "anthropic",
+            "ipo",
+            "wall-street",
+            "intelligenza-artificiale"
+          ],
+          "evidenza": false,
+          "fonte": "Stylo24 / ANSA / Forbes Italia",
+          "cerca_url": "https://www.google.com/search?q=Anthropic+IPO+Nasdaq+novembre+2026+Wall+Street+miliardi",
+          "post_x": "Wall Street brucia mille miliardi sui titoli AI per i dubbi sui costi. Stessa settimana: Anthropic si quota a 2.000 miliardi. Il mercato non crede all'AI ma la compra lo stesso. #Anthropic #IPO",
+          "post_sito": "I sette maggiori colossi tecnologici americani hanno bruciato complessivamente circa mille miliardi di dollari a Wall Street, travolti dai dubbi degli investitori sulla sostenibilità degli investimenti nell'intelligenza artificiale. Nella stessa settimana, Anthropic — creatrice di Claude — ha depositato alla SEC il prospetto per quotarsi al Nasdaq con il ticker «ANT» nella settimana del 16 novembre, puntando a raccogliere fino a 100 miliardi di dollari con una valutazione tra 1.500 e 2.000 miliardi. Il mandante invisibile di questa contraddizione è la struttura stessa del mercato finanziario dell'AI: Amazon, Google e Nvidia hanno già investito miliardi in Anthropic, e una quotazione a quelle cifre trasformerebbe i loro asset in plusvalenze astronomiche — indipendentemente da quanto Claude sia redditizio. La BCE ha già segnalato l'indebitamento crescente del settore. Chi paga il conto, se le promesse non si avverano, sono i piccoli azionisti che entreranno dopo il roadshow — come sempre. L'euforia e il catastrofismo fanno comodo agli stessi attori: quelli che vendono prima che il mercato si stabilizzi.",
+          "editoriale": false,
+          "redattore": "Il Futurologo 1.0"
+        },
+        {
+          "categoria": "Wellness",
+          "titolo": "Morbillo: l'Italia è prima in Europa con 651 casi, copertura vaccinale insufficiente",
+          "slug": "morbillo-italia-prima-europa-651-casi-vaccini",
+          "tag": [
+            "morbillo",
+            "vaccini",
+            "sanita-pubblica",
+            "ecdc"
+          ],
+          "evidenza": false,
+          "fonte": "TGCom24 / La Presse",
+          "cerca_url": "https://www.google.com/search?q=morbillo+Italia+prima+Europa+651+casi+2026+ECDC",
+          "post_x": "L'Italia è prima in Europa per casi di morbillo: 651 in 12 mesi, oltre il 28% del totale UE. Una malattia del passato che torna perché abbiamo smesso di vaccinarci. Nessuno ne parla. #Morbillo",
+          "post_sito": "Secondo i dati ECDC aggiornati al 30 settembre 2026, l'Italia è il Paese dell'Unione europea con il maggior numero di casi di morbillo negli ultimi dodici mesi: 651, pari a oltre il 28% delle 2.325 infezioni notificate da trenta Paesi, con un'incidenza di 11 casi per milione di abitanti — più del doppio della media europea di 5,1. L'età mediana dei contagiati è di 30 anni: non bambini non vaccinati, ma adulti che hanno saltato il richiamo o che non hanno completato il ciclo. L'industria del wellness in Italia vale miliardi tra integratori, detox e diete elaborate, ma la notizia che siamo primi in Europa per una malattia prevenibile con un vaccino che costa pochissimo non trova spazio nei palinsesti domenicali. Il bersaglio qui è l'industria della disinformazione sanitaria — dai canali Telegram no-vax ai siti di «medicina alternativa» — che ha eroso in modo documentato la copertura vaccinale della seconda dose, ferma all'84,45% contro una soglia di immunità di gregge superiore al 95%. Chi ci guadagna dalla paura dei vaccini è un ecosistema editoriale e commerciale che vende paura e poi vende la cura alternativa.",
+          "editoriale": false,
+          "redattore": "Il Life Coach 1.0"
+        },
+        {
+          "categoria": "Cultura",
+          "titolo": "«Report» riparte senza Ranucci: la Rai cambia la guardia al programma che indagava il potere",
+          "slug": "report-rai3-senza-ranucci-nuova-stagione",
+          "tag": [
+            "report",
+            "rai",
+            "giornalismo",
+            "ranucci"
+          ],
+          "evidenza": false,
+          "fonte": "Today.it / Affaritaliani",
+          "cerca_url": "https://www.google.com/search?q=Report+Rai3+nuova+stagione+senza+Ranucci+8+novembre+2026",
+          "post_x": "«Report» riparte stasera su Rai3 senza Ranucci — rimosso dopo che qualcuno gli aveva fatto saltare la macchina in aria. La nuova stagione indagherà proprio su chi ha ordinato l'attentato. Normale amministrazione. #Report",
+          "post_sito": "Stasera alle 20:30 su Rai3 debutta la trentesima stagione di «Report» con i nuovi conduttori Claudia Di Pasquale e Daniele Piervincenzi, dopo la rimozione di Sigfrido Ranucci — il giornalista che nella notte del 16 ottobre 2025 si era ritrovato la macchina distrutta da un'esplosione davanti a casa sua, in un attentato di cui Valter Lavitola è accusato di essere il mandante. La prima puntata indaga proprio su quel caso. Il mandante invisibile della vicenda editoriale è la Rai stessa: rimuovere un conduttore che era sopravvissuto a un attentato, in un paese dove il giornalismo d'inchiesta è già un genere a rischio, è una scelta che non riguarda solo gli ascolti. Il coro mediatico celebra il «nuovo corso» e la «continuità del giornalismo d'inchiesta»; quello che nessuno dice è che una redazione che si autodefinisce compatta ma ha perso il proprio punto di riferimento identitario è strutturalmente più vulnerabile alle pressioni istituzionali. La domanda che vale la pena farsi è semplice: chi era più scomodo per il potere — Ranucci che indagava, o Ranucci che era stato oggetto di un attentato di cui si cerca ancora il mandante politico?",
+          "editoriale": false,
+          "redattore": "Il Letterato 1.0"
+        }
+      ]
+    },
+    {
       "data": "2026-11-07",
       "post": [
         {
@@ -5353,189 +5539,7 @@
           "redattore": "Il Letterato 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-10-08",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Il Pentagono prepara attacchi all'Iran: Trump aspetta le elezioni di metà mandato",
-          "slug": "pentagono-attacchi-iran-trump-elezioni-meta-mandato",
-          "tag": [
-            "iran",
-            "usa",
-            "guerra",
-            "petrolio"
-          ],
-          "evidenza": false,
-          "fonte": "The Atlantic / Axios",
-          "cerca_url": "https://www.google.com/search?q=Pentagono+attacchi+Iran+Trump+elezioni+meta+mandato+ottobre+2026",
-          "post_x": "Il Pentagono prepara piani d'attacco all'Iran. Trump non ha ancora deciso i tempi. Coincidenza: le elezioni di metà mandato si avvicinano. Il prezzo del petrolio ringrazierà. #Iran #Trump",
-          "post_sito": "Il Pentagono ha ordinato al Comando centrale di completare i preparativi per operazioni di combattimento su vasta scala in Iran, anche se Trump non ha ancora fissato i tempi. Fonti americane e israeliane non escludono un intervento prima delle elezioni di metà mandato — dettaglio che il racconto ufficiale tende a sistemare in fondo al comunicato, come fosse un'appendice. Chi ci guadagna? L'industria della difesa, prima di tutto, ma anche i produttori di petrolio: ogni escalation nel Golfo fa salire i prezzi, e i fondi che scommettono sul greggio sanno già come posizionarsi. Il contesto rimosso è che gli Stati Uniti e l'Iran trattano da mesi su un nuovo accordo nucleare, con Teheran che difende il suo diritto all'arricchimento come linea rossa invalicabile. Un attacco militare prima di un accordo — mentre i diplomatici sono ancora al tavolo — ha un nome preciso nel diritto internazionale. Ma le elezioni di novembre non aspettano.",
-          "editoriale": false,
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Voto segreto sulla legge elettorale: il \"Melonellum\" alla prova dei franchi tiratori",
-          "slug": "voto-segreto-legge-elettorale-melonellum-franchi-tiratori",
-          "tag": [
-            "legge-elettorale",
-            "meloni",
-            "camera",
-            "riforma"
-          ],
-          "evidenza": true,
-          "fonte": "Today.it / Il Sole 24 Ore",
-          "cerca_url": "https://www.google.com/search?q=voto+finale+legge+elettorale+Camera+scrutinio+segreto+8+ottobre+2026",
-          "post_x": "Oggi voto segreto alla Camera sulla nuova legge elettorale. Meloni: \"Se non passa cado\". Traduzione: chi non vota sì è un traditore. La democrazia rappresentativa, un sistema curioso. #Melonellum",
-          "post_sito": "Alla Camera è il giorno del voto finale a scrutinio segreto sulla riforma elettorale, battezzata \"Stabilicum\" o — con più ironia — \"Melonellum\". Il sistema prevede un proporzionale con premio di maggioranza di 70 seggi alla Camera e 35 al Senato, fino a un tetto di 220 deputati e 113 senatori. Meloni ha chiarito che una sconfitta equivarrebbe alla caduta del governo: tecnica antica quanto la Repubblica, quella di trasformare ogni voto in questione di sopravvivenza per scoraggiare la dissidenza. Il vero mandante di questa riforma non è solo il palazzo: una legge elettorale disegnata sul perimetro dell'attuale maggioranza serve soprattutto a stabilizzare il potere di chi governa oggi, rendendo più difficile qualsiasi riallineamento futuro. Il contesto rimosso è che la storia repubblicana è piena di leggi elettorali cucite addosso a chi governava al momento — dal Porcellum al Mattarellum al Rosatellum — e che ogni volta chi le ha votate ha finito per subirle in condizioni avverse. La vera domanda non è se passerà, ma chi ci guadagna davvero nel medio periodo.",
-          "editoriale": true,
-          "prospettive": [
-            {
-              "etichetta": "La versione del governo",
-              "testo": "Il governo sostiene che la riforma garantisce maggiore stabilità agli esecutivi e una rappresentanza più diretta tra voti e seggi. Il sistema proporzionale con premio di maggioranza, nelle intenzioni dichiarate, dovrebbe evitare sia la frammentazione parlamentare sia le distorsioni dei sistemi maggioritari puri. Meloni ha più volte ribadito che si tratta di una riforma necessaria per dare all'Italia governi più duraturi e meno dipendenti da equilibri post-elettorali imprevedibili."
-            },
-            {
-              "etichetta": "La posizione dell'opposizione",
-              "testo": "I partiti di opposizione — Pd, M5S, Avs e altri — contestano sia il merito sia il metodo: la riforma è stata approvata con tre voti di fiducia, bypassando il dibattito parlamentare approfondito. L'opposizione denuncia che il premio di maggioranza è calibrato per avvantaggiare la coalizione attualmente al governo e che lo scrutinio segreto sul voto finale è stato richiesto proprio per limitare la pressione sui dissidenti interni alla maggioranza, non per tutelare la libertà di coscienza dei parlamentari."
-            },
-            {
-              "etichetta": "Il nodo istituzionale",
-              "testo": "Costituzionalisti e osservatori istituzionali sottolineano che il meccanismo del premio di maggioranza è già stato oggetto di scrutinio della Corte Costituzionale in passato, e che l'applicazione concreta della nuova legge dipenderà molto dalle soglie di accesso e dalle modalità di formazione delle coalizioni, dettagli che restano oggetto di interpretazione. Il tema del voto segreto su riforme di questa portata riapre un dibattito antico sui limiti della disciplina di partito e sull'autonomia del mandato parlamentare."
-            }
-          ],
-          "implicazioni": "Se la legge passa, ridisegna le regole del gioco per le prossime elezioni politiche, rendendo le coalizioni pre-elettorali più determinanti e penalizzando le liste che non raggiungono le soglie di sbarramento. Se venisse respinta — ipotesi al momento considerata marginale — aprirebbe una crisi di governo in un momento di forte pressione economica e finanziaria.",
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Borse europee in caduta, spread BTP a 115 punti: Milano la peggiore con -2,51%",
-          "slug": "borse-europee-crollo-spread-btp-115-milano-meno-251",
-          "tag": [
-            "borse",
-            "spread",
-            "debito-pubblico",
-            "mercati"
-          ],
-          "evidenza": false,
-          "fonte": "Il Sole 24 Ore / Corriere della Sera",
-          "cerca_url": "https://www.google.com/search?q=borsa+Milano+calo+spread+BTP+115+punti+8+ottobre+2026",
-          "post_x": "Milano -2,51%. Spread BTP a 115 punti. BTP decennale al 4,63%. Mentre il governo chiede flessibilità a Bruxelles per 29 miliardi, i mercati votano già. E il voto è segreto quanto quello di stamattina alla Camera. #spread #borsa",
-          "post_sito": "Piazza Affari ha chiuso con un calo del 2,51%, la peggiore tra le Borse europee, mentre il BTP decennale è salito al 4,63% e lo spread con il Bund tedesco si è assestato intorno a 115 punti. Le vendite hanno colpito con particolare violenza le banche: UniCredit e Intesa Sanpaolo hanno perso oltre il 4%. Il tutto mentre il governo è a Lussemburgo con Giorgetti all'Eurogruppo a chiedere flessibilità per 29 miliardi tra energia e difesa. Il beneficio taciuto di questa tempesta finanziaria è che i fondi speculativi che shortano i titoli di Stato europei incassano precisamente in queste giornate. La Corte dei Conti europea ha già avvertito che il debito dell'Unione potrebbe avvicinarsi ai mille miliardi nel 2027, e il debito italiano resta stabilmente sopra il 138% del PIL. Il coro mediatico racconta una crisi come se fosse un fenomeno atmosferico imprevedibile; il contesto rimosso è che le tensioni sui rendimenti vengono amplificate da algoritmi di trading che reagiscono a segnali politici — come un voto incerto sulla legge elettorale — prima ancora che l'economia reale si muova.",
-          "editoriale": false,
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Gran Piemonte 2026: la 110ª edizione porta i campioni del mondo sulle strade del Cuneo",
-          "slug": "gran-piemonte-2026-110-edizione-campioni-mondo-cuneo",
-          "tag": [
-            "ciclismo",
-            "gran-piemonte",
-            "classiche",
-            "mcnulty"
-          ],
-          "evidenza": false,
-          "fonte": "Bicisport / Eurosport",
-          "cerca_url": "https://www.google.com/search?q=Gran+Piemonte+2026+risultato+vincitore+8+ottobre",
-          "post_x": "Oggi il Gran Piemonte 2026, 110ª edizione. Da Asti a Bra, 185 km. In diretta gratuita su Eurosport e Rai Sport. Presente McNulty, campione del mondo, e Del Toro, vincitore uscente. Il ciclismo non chiede abbonamenti per esistere. #GranPiemonte",
-          "post_sito": "Oggi si corre la 110ª edizione del Gran Piemonte, la classica di un giorno che da Asti porta a Bra attraverso 185 chilometri di strade piemontesi, con la diretta disponibile gratuitamente su Eurosport e Rai Sport. Al via ci sono il campione del mondo in carica Brandon McNulty e il vicecampione Michael Matthews, entrambi appena rientrati dai Mondiali di Montréal, oltre a Isaac Del Toro, vincitore in solitaria dell'edizione 2025. La gara, nata nel 1906 come Giro del Piemonte, è uno degli antipasti più nobili del Lombardia — l'altra grande classica italiana prevista per il weekend. Il conto dietro la medaglia esiste anche qui: le grandi classiche del ciclismo professionale generano volumi di scommesse sportive nell'ordine delle centinaia di milioni in Europa, e gli sponsor che finanziano le squadre di alto livello sono spesso istituti finanziari o marchi del lusso che trovano nella visibilità televisiva globale un canale di marketing difficilmente replicabile altrove. Ma per una volta, lo spettacolo è accessibile a tutti senza pagare.",
-          "editoriale": false,
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Caso Garlasco: emergono atti del RIS mai depositati, test negativi sui pedali di Stasi nel 2007",
-          "slug": "garlasco-ris-atti-mai-depositati-test-negativi-pedali-stasi-2007",
-          "tag": [
-            "garlasco",
-            "stasi",
-            "ris-parma",
-            "omicidio-poggi"
-          ],
-          "evidenza": false,
-          "fonte": "Il Fatto Quotidiano / Sky TG24",
-          "cerca_url": "https://www.google.com/search?q=Garlasco+RIS+atti+mai+depositati+DNA+pedali+Stasi+2026",
-          "post_x": "Garlasco: emergono appunti del RIS del 2007 mai depositati agli atti. Test negativi sui pedali. DNA maschile non identificato. Alberto Stasi è stato condannato in via definitiva nel 2015. Il dubbio è un fatto, non un'opinione. #Garlasco #Stasi",
-          "post_sito": "Dalla Procura di Pavia emerge che i laboratori del RIS di Parma avevano prodotto nel settembre 2007 almeno due documenti mai confluiti nel fascicolo processuale: un foglio di lavoro con esiti negativi al test OBTI (che escluderebbe la presenza di sangue umano sui pedali della bicicletta di Stasi) e un secondo documento con quantificazione di DNA maschile non attribuito. Il capitano Alberto Marino, allora consulente del PM Rosa Muscio, aveva definito la contraddizione tra i risultati successivi e il primo campione positivo «una cosa anomala». Questi elementi sono ora al vaglio degli inquirenti nell'ambito della nuova inchiesta che ha visto notificare ad Andrea Sempio una seconda chiusura delle indagini. La presunzione di innocenza vale per tutti: per Stasi, condannato definitivamente nel 2015 a 16 anni, e per Sempio, attuale indagato. La causa strutturale rimossa dal coro mediatico che torna ogni anno sulla vicenda è quella che riguarda il sistema: se documenti rilevanti prodotti da un ente delle forze dell'ordine possono non essere depositati agli atti in un processo penale, il problema non è solo Garlasco — è il controllo sulla catena di custodia delle prove in Italia.",
-          "editoriale": false,
-          "redattore": "L'Osservatore 1.0"
-        },
-        {
-          "categoria": "Scienza",
-          "titolo": "Settimana dello Spazio 2026: dalle Draconidi al James Webb, ma i razzi riutilizzabili fanno i soldi di pochi",
-          "slug": "settimana-spazio-2026-draconidi-james-webb-razzi-riutilizzabili",
-          "tag": [
-            "spazio",
-            "razzi-riutilizzabili",
-            "astronomia",
-            "settimana-spazio"
-          ],
-          "evidenza": false,
-          "fonte": "AmeVe Blog / ISPRA",
-          "cerca_url": "https://www.google.com/search?q=Settimana+Spazio+2026+razzi+riutilizzabili+Draconidi+ottobre",
-          "post_x": "Settimana dello Spazio 2026: stanotte picco delle Draconidi, James Webb fotografa la Nebulosa della Carena. Intanto i razzi riutilizzabili a 28.000 km/h restano proprietà di tre aziende private. Lo spazio è di tutti, i profitti no. #SpaceWeek2026",
-          "post_sito": "In questa Settimana mondiale dello Spazio, tra l'8 e il 9 ottobre è previsto il picco dello sciame meteorico delle Draconidi, osservabile verso nord-ovest in condizioni ideali grazie alla Luna nuova in avvicinarsi. Il telescopio James Webb ha intanto documentato la Nebulosa della Carena in un'estensione di 300 anni luce, immagini che appartengono all'umanità intera. Sullo sfondo c'è la rivoluzione dei razzi riutilizzabili: veicoli progettati per resistere a temperature superiori ai 1.000 gradi Celsius, capaci di raggiungere l'orbita a 28.000 km/h, vengono presentati come il futuro condiviso della specie umana. Il beneficio taciuto è che questa «rivoluzione» è quasi interamente nelle mani di tre o quattro aziende private — finanziate con contratti pubblici miliardari — che detengono brevetti, infrastrutture e accesso orbitale come asset commerciali. Il costo di un lancio in orbita bassa è sceso, ma non abbastanza da rendere lo spazio meno esclusivo di un porto franco per i capitali delle corporation della new space economy.",
-          "editoriale": false,
-          "redattore": "Il Metodico 1.0"
-        },
-        {
-          "categoria": "AI",
-          "titolo": "GPT-6 arriva su ChatGPT per tutti: interfacce interattive, ma il vantaggio cinese si riduce al 3%",
-          "slug": "gpt-6-chatgpt-tutti-interfacce-interattive-deepseek-gap-3-percento",
-          "tag": [
-            "openai",
-            "gpt-6",
-            "chatgpt",
-            "deepseek"
-          ],
-          "evidenza": false,
-          "fonte": "TechCrunch / Il Mattino",
-          "cerca_url": "https://www.google.com/search?q=GPT-6+ChatGPT+rilascio+ottobre+2026+Intelligent+UI",
-          "post_x": "OpenAI lancia GPT-6 con interfacce interattive su ChatGPT — gratis per tutti dal 8 ottobre. Nel frattempo DeepSeek si è avvicinata al 3% di gap dai modelli USA. Il monopolio si assottiglia. Chi vende l'allarme e chi vende l'hype fanno lo stesso mestiere. #GPT6 #AI",
-          "post_sito": "OpenAI ha esteso GPT-6 a tutti gli utenti di ChatGPT — la versione Sol ai piani a pagamento, la versione Luna agli utenti gratuiti dall'8 ottobre. La novità principale è la cosiddetta Intelligent UI: risposte che possono includere grafici interattivi, pulsanti, moduli e calcolatrici direttamente nella conversazione, con velocità di risposta dichiarata superiore del 44% rispetto al modello precedente. L'hype è orchestrato: OpenAI serve oltre 1,2 miliardi di utenti settimanali e ogni rilascio è un evento di brand che vale miliardi in valorizzazione. Il mandante invisibile di questa accelerazione è tuttavia la concorrenza cinese: secondo un'analisi di Bloomberg Intelligence, il divario tra i migliori modelli cinesi — come DeepSeek V4.1 Flash — e quelli americani è sceso al 3%, dal 15% di un anno fa. La pressione geopolitica sull'intelligenza artificiale è il motore reale di questa corsa: non l'interesse dell'utente finale, ma la paura di perdere il primato tecnologico globale. Chi ci guadagna? Chi detiene le infrastrutture — data center, chip, energia — più che chi produce i modelli.",
-          "editoriale": false,
-          "redattore": "Il Futurologo 1.0"
-        },
-        {
-          "categoria": "Wellness",
-          "titolo": "Milano Wellness Week: 100 eventi \"gratuiti\" per vendere un'industria da miliardi",
-          "slug": "milano-wellness-week-2026-eventi-gratuiti-industria-benessere",
-          "tag": [
-            "wellness",
-            "milano",
-            "industria-benessere",
-            "marketing"
-          ],
-          "evidenza": false,
-          "fonte": "Panorama / Milanodavedere.it",
-          "cerca_url": "https://www.google.com/search?q=Milano+Wellness+Week+2026+ottobre+eventi",
-          "post_x": "Milano Wellness Week: oltre 100 eventi \"gratuiti\" in città fino all'11 ottobre. Yoga, pilates, breathwork, longevity. L'ingresso è gratis; la piattaforma che organizza tutto ha un abbonamento mensile. Il benessere come servizio in abbonamento: che innovazione. #WellnessWeek",
-          "post_sito": "Dal 5 all'11 ottobre Milano ospita la terza edizione della Wellness Week, oltre 100 eventi distribuiti tra studi di yoga, hotel, gallerie d'arte e showroom, con partecipazione dichiarata gratuita — prenotazione necessaria per molte attività a causa dei posti limitati. L'iniziativa è ideata da CIAOMONDO.world, piattaforma di Licia Florio che propone oltre 150 ore di classi live al mese in abbonamento. Il meccanismo è classico nell'industria del benessere: la settimana gratuita è il canale di acquisizione utenti per un servizio a pagamento, esattamente come una prova gratuita in streaming. Niente di illecito — ma il racconto dominante celebra la generosità senza nominare il modello di business. L'eufemismo di potere dell'industria del wellness è trasformare il consumo di servizi a pagamento in un progetto culturale condiviso. Il bersaglio satirico è l'industria che monetizza l'insicurezza trasformando il \"benessere\" in una categoria merceologica sempre più segmentata — non chi sceglie di partecipare, che ha tutto il diritto di farlo.",
-          "editoriale": false,
-          "redattore": "Il Life Coach 1.0"
-        },
-        {
-          "categoria": "Cultura",
-          "titolo": "Nobel per la Letteratura 2026: l'Accademia svedese annuncia oggi alle 13 — e i bookmaker hanno già scommesso su Can Xue",
-          "slug": "nobel-letteratura-2026-annuncio-can-xue-bookmaker",
-          "tag": [
-            "nobel",
-            "letteratura",
-            "can-xue",
-            "accademia-svedese"
-          ],
-          "evidenza": false,
-          "fonte": "Il Post / Fanpage.it",
-          "cerca_url": "https://www.google.com/search?q=Nobel+Letteratura+2026+vincitore+annuncio+Can+Xue",
-          "post_x": "Oggi alle 13 Stoccolma annuncia il Nobel per la Letteratura 2026. Favorita Can Xue, scrittrice sperimentale cinese. I bookmaker la quotano 10 a 1. Murakami invece esiste ogni anno come il presepe: si tira fuori, non vince, si rimette via. #Nobel2026",
-          "post_sito": "Oggi alle 13 l'Accademia Svedese ha annunciato il Premio Nobel per la Letteratura 2026. Tra i nomi più quotati alla vigilia c'era Can Xue — pseudonimo di Deng Xiaohua, scrittrice cinese sperimentale di 73 anni, figlia di un giornalista perseguitato durante la Rivoluzione Culturale maoista — quotata 10 a 1 dai bookmaker britannici Ladbrokes. Il Nobel vale 12 milioni di corone svedesi, circa 1,06 milioni di euro, più una valorizzazione editoriale che per molti autori supera di gran lunga l'assegno: le vendite di un Nobel esplodono nel giro di ore. Il coro compatto che si forma ogni anno attorno ai pronostici è un caso da manuale di mercato editoriale travestito da valutazione letteraria: le quote degli scommettitori seguono la fama e il rumore mediatico, non la qualità della scrittura, come dimostra il fatto che Rowling, Magris e King vengano quotati tutti alla stessa cifra. La stessa Accademia Svedese — che assegna il premio — ha avuto negli ultimi anni scandali interni e riformulazioni della propria missione che raramente compaiono nel racconto trionfale dell'annuncio.",
-          "editoriale": false,
-          "redattore": "Il Letterato 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-11-07T08:19:45.848083+00:00"
+  "ultimo_aggiornamento": "2026-11-08T08:20:10.274002+00:00"
 }

@@ -1,77 +1,77 @@
 {
-  "data": "2026-11-07",
+  "data": "2026-11-08",
   "tweet": [
     {
-      "testo": "35 voli deviati, 18 redazioni irlandesi evacuate alla vigilia del vertice Ue. «Questo è solo l'inizio», scrivono. Noi intanto discutiamo di ANAC. Priorità centrate. #AttaccoIbrido",
-      "url": "https://corrispondente.filoclastos.it/2026/11/07/attacco-ibrido-europa-allarmi-bomba-voli-irlanda/",
-      "slug": "attacco-ibrido-europa-allarmi-bomba-voli-irlanda",
+      "testo": "I Dem prendono Camera e Senato, Trump chiede al DoJ di indagarli. La democrazia americana: il perdente processa chi ha vinto. Nuovo. #Midterm2026",
+      "url": "https://corrispondente.filoclastos.it/2026/11/08/midterm-usa-democratici-congresso-trump-indagini/",
+      "slug": "midterm-usa-democratici-congresso-trump-indagini",
       "categoria": "Politica Internazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "La Lega piazzava un suo uomo a capo dell'Anticorruzione. L'opposizione protesta. Lui si ritira. L'ANAC resta senza presidente. Finale perfetto per tutti, tranne per chi si aspettava la vigilanza sugli appalti. #Pasticcio",
-      "url": "https://corrispondente.filoclastos.it/2026/11/07/altieri-anac-nomina-ritirata-lega-anticorruzione/",
-      "slug": "altieri-anac-nomina-ritirata-lega-anticorruzione",
+      "testo": "Tajani nel dark web, dati del Brennero violati. «Guerra ibrida», tuonano tutti. Curioso che colpisca proprio chi chiedeva più fondi per la difesa. Chi ci guadagna? #GuerraIbrida",
+      "url": "https://corrispondente.filoclastos.it/2026/11/08/hacker-filorussi-dark-web-tajani-brennero/",
+      "slug": "hacker-filorussi-dark-web-tajani-brennero",
       "categoria": "Politica Nazionale",
-      "evidenza": false,
-      "pubblicato": true
-    },
-    {
-      "testo": "62 anni di fuoco. L'ex Ilva di Taranto si spegne. 8.622 lavoratori in cassa integrazione. Domani scadono le offerte per comprarla. Nel frattempo le bollette salgono del 51%. Giornata italiana tipo. #Taranto",
-      "url": "https://corrispondente.filoclastos.it/2026/11/07/ex-ilva-taranto-spenta-altiforni-lavoratori-cig/",
-      "slug": "ex-ilva-taranto-spenta-altiforni-lavoratori-cig",
-      "categoria": "Economia",
       "evidenza": true,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Kimi Antonelli, 20 anni, campione del mondo Mercedes, detta il passo a Interlagos in 1:10.763. Ferrari sesta e settima. Oggi le qualifiche sprint. Il futuro dell'Italia in F1 indossa i colori tedeschi. La storia ha i suoi gusti. #F1 #Brasile",
-      "url": "https://corrispondente.filoclastos.it/2026/11/07/antonelli-fp2-brasile-formula1-ferrari-difficolta/",
-      "slug": "antonelli-fp2-brasile-formula1-ferrari-difficolta",
+      "testo": "Da oggi diesel più caro: scaduto lo sconto di 4,9 cent/litro. Il governo lo aveva reintrodotto a ottobre, tolto a novembre. Breve storia triste di 11 giorni di populismo alla pompa. #Carburanti",
+      "url": "https://corrispondente.filoclastos.it/2026/11/08/fine-sconto-accise-gasolio-8-novembre-2026/",
+      "slug": "fine-sconto-accise-gasolio-8-novembre-2026",
+      "categoria": "Economia",
+      "evidenza": false,
+      "pubblicato": false
+    },
+    {
+      "testo": "Márquez vince la sprint in Qatar e oggi può diventare campione per la decima volta — un record che nemmeno Rossi ha raggiunto. Ducati ringrazia. Il resto della griglia pure, involontariamente. #MotoGP",
+      "url": "https://corrispondente.filoclastos.it/2026/11/08/motogp-qatar-marquez-sprint-decimo-titolo/",
+      "slug": "motogp-qatar-marquez-sprint-decimo-titolo",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Bolletta luce: +51% stimato tra novembre e dicembre per chi ha contratto indicizzato. 99 euro in più nel quadrimestre. Il DL Bollette? Rinviato ancora. Chi vende energia ringrazia. #Bollette #CaroviTA",
-      "url": "https://corrispondente.filoclastos.it/2026/11/07/bollette-luce-aumento-51-percento-novembre-dicembre-2026/",
-      "slug": "bollette-luce-aumento-51-percento-novembre-dicembre-2026",
+      "testo": "Cracovia, 6 morti in piazza del Mercato. Tusk dichiara due giorni di lutto e parla di terrorismo. Prima di sapere chi e perché, il copione del cordoglio è già pronto. #Cracovia",
+      "url": "https://corrispondente.filoclastos.it/2026/11/08/strage-cracovia-6-morti-tusk-terrorismo/",
+      "slug": "strage-cracovia-6-morti-tusk-terrorismo",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Studio su Nature Communications: dentro 45 complessi di specie di pipistrelli già noti si nascondono almeno 95 lignaggi evolutivi distinti, probabilmente specie nuove. Rischiano di sparire prima che qualcuno le chiami per nome. Darwin avrebbe trovato la cosa poetica, noi no. #Biodiversità",
-      "url": "https://corrispondente.filoclastos.it/2026/11/07/pipistrelli-specie-sconosciute-estinzione-nature-communications/",
-      "slug": "pipistrelli-specie-sconosciute-estinzione-nature-communications",
+      "testo": "Studiosi trovano cannabis in tombe scite di 2.800 anni fa. La notizia: era già lì. La domanda che nessuno fa: chi finanzia la ricerca sull'uso antico di sostanze oggi illegali? #Scienza #Cannabis",
+      "url": "https://corrispondente.filoclastos.it/2026/11/08/cannabis-2800-anni-fa-tunnug-scienza/",
+      "slug": "cannabis-2800-anni-fa-tunnug-scienza",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Trump ha rinominato l'AI «Super Intelligence» per decreto. Il DOJ ha creato la «Super Intelligence Task Force». Il nome è cambiato, i lobbisti dell'industria tech sono rimasti al loro posto. #AI #SuperIntelligence",
-      "url": "https://corrispondente.filoclastos.it/2026/11/07/doj-super-intelligence-task-force-trump-ai/",
-      "slug": "doj-super-intelligence-task-force-trump-ai",
+      "testo": "Wall Street brucia mille miliardi sui titoli AI per i dubbi sui costi. Stessa settimana: Anthropic si quota a 2.000 miliardi. Il mercato non crede all'AI ma la compra lo stesso. #Anthropic #IPO",
+      "url": "https://corrispondente.filoclastos.it/2026/11/08/wall-street-ai-mille-miliardi-anthropic-ipo/",
+      "slug": "wall-street-ai-mille-miliardi-anthropic-ipo",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "La puntata di «Longevity Magazine» spiega come la cura della psiche allunghi la vita. Giusto. Ma l'industria del benessere che vende questa verità ha un fatturato globale da 5.600 miliardi di dollari. La salute è un affare serio. #Wellness #Longevità",
-      "url": "https://corrispondente.filoclastos.it/2026/11/07/industria-longevita-benessere-marketing-salute/",
-      "slug": "industria-longevita-benessere-marketing-salute",
+      "testo": "L'Italia è prima in Europa per casi di morbillo: 651 in 12 mesi, oltre il 28% del totale UE. Una malattia del passato che torna perché abbiamo smesso di vaccinarci. Nessuno ne parla. #Morbillo",
+      "url": "https://corrispondente.filoclastos.it/2026/11/08/morbillo-italia-prima-europa-651-casi-vaccini/",
+      "slug": "morbillo-italia-prima-europa-651-casi-vaccini",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Bob Dylan incontra Papa Leone XIV in Vaticano. Il Papa gli aveva citato una canzone del 1963 contro la bomba atomica. Dylan gli porta la sua autobiografia. Due americani con hobby diversi trovano un punto in comune. #Dylan #PapaLeone",
-      "url": "https://corrispondente.filoclastos.it/2026/11/07/bob-dylan-papa-leone-xiv-vaticano-incontro/",
-      "slug": "bob-dylan-papa-leone-xiv-vaticano-incontro",
+      "testo": "«Report» riparte stasera su Rai3 senza Ranucci — rimosso dopo che qualcuno gli aveva fatto saltare la macchina in aria. La nuova stagione indagherà proprio su chi ha ordinato l'attentato. Normale amministrazione. #Report",
+      "url": "https://corrispondente.filoclastos.it/2026/11/08/report-rai3-senza-ranucci-nuova-stagione/",
+      "slug": "report-rai3-senza-ranucci-nuova-stagione",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }
