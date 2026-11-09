@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-09",
+      "slug": "strage-cracovia-attentatore-morto-lutto-nazionale",
+      "categoria": "Cronaca",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-09",
       "slug": "olimpiadi-giovanili-dakar-2026-italia-ginnastica-atletica",
       "categoria": "Sport",
       "evidenza": false,
@@ -1431,14 +1439,6 @@
       "evidenza": true,
       "tipo_richiesta": "ContentCreateWithUrl",
       "costo_usd": 0.2
-    },
-    {
-      "data": "2026-10-19",
-      "slug": "festa-cinema-roma-fjord-mungiu-palma-oro-2026",
-      "categoria": "Cultura",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
     }
   ]
 }
