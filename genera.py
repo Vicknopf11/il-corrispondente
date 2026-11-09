@@ -8,9 +8,10 @@ import json
 import os
 import re
 import unicodedata
-from datetime import datetime, timezone
+from datetime import date, datetime, timezone
 from email.utils import format_datetime
 import anthropic
+from urllib.parse import urlsplit, parse_qsl, urlencode
 from cambio_bce import cambio_per_data
 
 # ── Configurazione ──────────────────────────────────────────────
@@ -68,7 +69,7 @@ SYSTEM_PROMPT = """Sei Il Corrispondente IA, un cronista satirico generato dall'
 
 2. IL BASTIAN CONTRARIO
    Quando tutti i media e l'opinione pubblica si buttano su un tema — per attaccare o per difendere —
-   il Corrispondente Artificiale guarda dall'altra parte.
+   il Corrispondente IA guarda dall'altra parte.
    Se tutti attaccano o difendono un tema, cerca l'assurdità nel coro stesso.
 
    Il bastian contrario si applica al RUMORE MEDIATICO, non alle PROVE.
@@ -312,20 +313,18 @@ linguaggio prudente.
 
 ━━━ SVOLTA EDITORIALE — ANALISI MULTI-PROSPETTIVA ━━━
 
-Oltre al commento satirico che resta il DEFAULT per ogni notizia, tra tutte le
-notizie di questa edizione (di TUTTE le categorie) puoi scegliere AL MASSIMO
-UNA sola notizia per un trattamento editoriale più approfondito. Questa scelta
-è INDIPENDENTE da "evidenza": può coincidere con la notizia in evidenza o
-essere una notizia diversa — sono due decisioni separate.
+Oltre al commento satirico che resta il DEFAULT per ogni notizia, la notizia
+in evidenza di questa edizione (quella con "evidenza": true) riceve SEMPRE un
+trattamento editoriale più approfondito: è l'apertura della prima pagina e deve
+avere il formato completo. Nessun'altra notizia lo riceve.
 
-Non è un adempimento quotidiano obbligatorio: si applica SOLO quando una
-notizia ha davvero più angolazioni legittime e distinte da presentare (es.
-prospettiva istituzionale, dei lavoratori, economica, legale, internazionale).
-Se nessuna notizia dell'edizione lo giustifica, non marcare nulla: zero
-notizie con questo trattamento è un esito normale e preferibile a uno forzato.
+Scegli quindi come notizia in evidenza la più rilevante della giornata TRA
+quelle che hanno davvero più angolazioni legittime e distinte da presentare
+(es. prospettiva istituzionale, dei lavoratori, economica, legale,
+internazionale). Se la più importante della giornata non ha angolazioni
+distinte, scegli come evidenza un'altra notizia che le abbia.
 
-Quando scegli di applicarlo, marca quella notizia con "editoriale": true e
-aggiungi due campi:
+Marca la notizia in evidenza con "editoriale": true e aggiungi due campi:
 
 - "prospettive": un array di 2-4 oggetti {{"etichetta": "...", "testo": "..."}}.
   Il numero lo decidi tu in base a quante angolazioni distinte ha davvero la
@@ -387,6 +386,22 @@ def valida_edizione(edizione: dict) -> dict:
         if not isinstance(tag, list) or not all(isinstance(t, str) for t in tag):
             p["tag"] = []
 
+        # Nuovi campi (fatti con fonte, cose non note): forma garantita dal
+        # codice, contenuto mai inventato — se manca o è malformato, resta vuoto.
+        fatti = p.get("fatti")
+        p["fatti"] = [
+            {"testo": f["testo"].strip(),
+             "fonte": str(f.get("fonte") or "").strip(),
+             "url": str(f.get("url") or "").strip()}
+            for f in (fatti if isinstance(fatti, list) else [])
+            if isinstance(f, dict) and isinstance(f.get("testo"), str) and f["testo"].strip()
+        ][:5]
+        incerto = p.get("incerto")
+        p["incerto"] = [
+            t.strip() for t in (incerto if isinstance(incerto, list) else [])
+            if isinstance(t, str) and t.strip()
+        ][:2]
+
         # Redattore assegnato dal codice in base alla categoria — mai dal
         # modello. Byline interna, non pubblicata come tale sul sito.
         info = REDATTORI.get(p.get("categoria"))
@@ -432,6 +447,19 @@ def valida_edizione(edizione: dict) -> dict:
             p.pop("prospettive", None)
             p.pop("implicazioni", None)
 
+    # L'apertura della prima pagina è SEMPRE l'articolo in evidenza, e ha il
+    # formato completo: se il modello ha messo l'evidenza su una notizia senza
+    # prospettive, l'evidenza passa a quella che le ha (decisione di Ferruccio).
+    con_formato = next((p for p in posts if p.get("editoriale") is True), None)
+    if con_formato is not None and con_formato.get("evidenza") is not True:
+        for p in posts:
+            p["evidenza"] = False
+        con_formato["evidenza"] = True
+        print("⚠ L'articolo in evidenza non aveva il formato completo: "
+              "l'evidenza è passata all'articolo con le prospettive.")
+    elif con_formato is None and posts:
+        print("⚠ Nessun articolo con il formato completo oggi: l'apertura resta senza prospettive.")
+
     # Disambigua slug duplicati nella stessa edizione (es. due notizie simili)
     visti = {}
     for p in posts:
@@ -447,7 +475,7 @@ def valida_edizione(edizione: dict) -> dict:
 PROMPT_UTENTE_TEMPLATE = """Cerca la notizia più significativa di oggi per ognuna di queste categorie:
 {categorie_str}
 
-Per ogni notizia applica la filosofia editoriale del Corrispondente Artificiale:
+Per ogni notizia applica la filosofia editoriale del Corrispondente IA:
 - Privilegia l'angolazione controcorrente rispetto all'opinione dominante
 - Cerca sempre chi ci guadagna — economicamente E politicamente, con cifre concrete
   quando possibile. Non è sempre denaro: a volte ciò che si cerca è potere, controllo,
@@ -478,18 +506,29 @@ Per ogni notizia genera anche:
   (es. ["sanità", "privatizzazioni", "regione lombardia"])
 
 Inoltre, tra tutte le notizie di questa edizione (di TUTTE le categorie), scegline
-UNA sola — quella editorialmente più rilevante o dirompente della giornata — e
-marcala con "evidenza": true. Tutte le altre notizie devono avere "evidenza": false.
-Questa è la notizia che avrà risalto visivo maggiore in homepage: scegli in base a
-impatto, novità e centralità nel dibattito pubblico, non necessariamente la prima
-categoria della lista.
+UNA sola — quella editorialmente più rilevante o dirompente della giornata tra
+quelle che hanno davvero più angolazioni legittime da presentare — e marcala con
+"evidenza": true. Tutte le altre notizie devono avere "evidenza": false. Questa è
+l'apertura della prima pagina: scegli in base a impatto, novità e centralità nel
+dibattito pubblico, non necessariamente la prima categoria della lista.
 
-Separatamente, valuta se UNA delle notizie di oggi (non necessariamente quella in
-evidenza) si presta a un trattamento editoriale multi-prospettiva (vedi sezione
-SVOLTA EDITORIALE nelle istruzioni di sistema): solo se ha davvero più angolazioni
-legittime da presentare. Se sì, marcala con "editoriale": true e compila
-"prospettive" e "implicazioni". Se nessuna notizia lo giustifica oggi, lascia tutte
-le edizioni con "editoriale": false — non forzare il formato.
+La notizia in evidenza riceve SEMPRE il trattamento editoriale multi-prospettiva
+(vedi sezione SVOLTA EDITORIALE nelle istruzioni di sistema): marcala con
+"editoriale": true e compila "prospettive" e "implicazioni". Su tutte le altre
+notizie "editoriale" è false.
+
+Per ogni notizia compila anche questi due campi, in registro neutro e senza ironia:
+- "fatti": da 2 a 5 oggetti {{"testo": "...", "fonte": "...", "url": "..."}}. Ogni
+  "testo" è UN fatto verificabile in una frase (cifre, date, dichiarazioni
+  attribuite), non un commento. "fonte" è il nome della testata. "url" è l'indirizzo
+  ESATTO della pagina in cui hai trovato quel fatto, copiato dai risultati della
+  ricerca: non inventare mai un indirizzo e non usare pagine che non hai trovato. Un
+  fatto per cui non hai un indirizzo trovato nella ricerca non va scritto.
+- "incerto": da 0 a 2 stringhe su ciò che NON è noto o non è confermato (esiti
+  futuri, notizie riportate al condizionale). Array vuoto se non c'è nulla di
+  rilevante.
+Controlla il giorno della settimana di ogni data che scrivi: se non sei sicuro che
+una data cada in quel giorno, scrivi solo la data, senza il giorno.
 
 Rispondi SOLO con un oggetto JSON valido, senza markdown, senza backtick.
 Dentro i testi non usare mai le doppie virgolette dritte (\"): per citazioni,
@@ -511,6 +550,10 @@ Formato esatto:
       "cerca_url": "https://www.google.com/search?q=titolo+della+notizia",
       "post_x": "testo breve max 280 caratteri per X",
       "post_sito": "testo lungo con contesto e commento satirico",
+      "fatti": [
+        {{"testo": "un fatto verificabile in una frase", "fonte": "nome testata", "url": "https://..."}}
+      ],
+      "incerto": ["ciò che non è ancora noto o confermato"],
       "editoriale": false,
       "prospettive": [
         {{"etichetta": "etichetta breve", "testo": "resoconto in registro neutro"}}
@@ -521,9 +564,9 @@ Formato esatto:
 }}
 
 I campi "editoriale", "prospettive" e "implicazioni" vanno presenti (anche se
-vuoti/false) su ogni post, ma popolati con contenuto reale solo sulla notizia
-eventualmente scelta per il trattamento editoriale (vedi sezione SVOLTA
-EDITORIALE più sopra) — al massimo una per edizione, spesso nessuna."""
+vuoti/false) su ogni post, ma popolati con contenuto reale solo sulla notizia in
+evidenza (vedi sezione SVOLTA EDITORIALE più sopra) — una per edizione. I campi
+"fatti" e "incerto" vanno presenti su ogni post."""
 
 
 def estrai_json(testo: str) -> str:
@@ -673,6 +716,160 @@ def _nessuna_chiave_doppia(coppie):
 TENTATIVI_GENERAZIONE = 2
 
 
+
+# ── Controlli deterministici sull'output del modello ─────────────────────────
+# Il modello scrive, il codice verifica: i link alle fonti devono essere pagine
+# davvero restituite dalla ricerca web, e il giorno della settimana deve
+# combaciare con la data. Nessuna ricerca aggiuntiva, nessun costo.
+
+GIORNI_SETTIMANA = ["lunedì", "martedì", "mercoledì", "giovedì", "venerdì", "sabato", "domenica"]
+MESI_NOMI = ["gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno",
+             "luglio", "agosto", "settembre", "ottobre", "novembre", "dicembre"]
+RE_GIORNO_DATA = re.compile(
+    r"\b(" + "|".join(GIORNI_SETTIMANA) + r")\s+(\d{1,2})(?:°|º)?\s+(" + "|".join(MESI_NOMI) + r")\b",
+    re.IGNORECASE,
+)
+
+
+def normalizza_url(u) -> str:
+    """Forma confrontabile di un indirizzo: senza schema, 'www.', frammento,
+    barra finale e parametri di tracciamento. Stringa vuota se non è valido."""
+    if not isinstance(u, str):
+        return ""
+    try:
+        sp = urlsplit(u.strip())
+    except ValueError:
+        return ""
+    if sp.scheme not in ("http", "https") or not sp.netloc:
+        return ""
+    host = sp.netloc.lower()
+    if host.startswith("www."):
+        host = host[4:]
+    path = sp.path.rstrip("/") or "/"
+    q = [(k, v) for k, v in parse_qsl(sp.query, keep_blank_values=True)
+         if not k.lower().startswith("utm_") and k.lower() not in ("fbclid", "gclid")]
+    return f"{host}{path}" + (("?" + urlencode(q)) if q else "")
+
+
+def _attr(oggetto, nome):
+    if isinstance(oggetto, dict):
+        return oggetto.get(nome)
+    return getattr(oggetto, nome, None)
+
+
+def raccogli_url_ricerca(response) -> set:
+    """Indirizzi (normalizzati) delle pagine che la ricerca web ha restituito
+    in questa generazione, più quelli citati nei blocchi di testo."""
+    trovati = set()
+
+    def aggiungi(u):
+        n = normalizza_url(u)
+        if n:
+            trovati.add(n)
+
+    for blocco in (_attr(response, "content") or []):
+        if _attr(blocco, "type") == "web_search_tool_result":
+            risultati = _attr(blocco, "content")
+            if isinstance(risultati, list):
+                for r in risultati:
+                    aggiungi(_attr(r, "url"))
+        for c in (_attr(blocco, "citations") or []):
+            aggiungi(_attr(c, "url"))
+    return trovati
+
+
+def verifica_fatti(edizione: dict, ammessi: set) -> dict:
+    """Tiene solo i fatti il cui indirizzo è tra quelli restituiti dalla ricerca.
+    Un fatto senza fonte verificata non entra nella sezione dei fatti."""
+    proposti = scartati = 0
+    for p in edizione.get("post", []):
+        buoni = []
+        for f in p.get("fatti", []):
+            proposti += 1
+            if normalizza_url(f.get("url")) in ammessi:
+                buoni.append(f)
+            else:
+                scartati += 1
+        p["fatti"] = buoni
+        p["fatti_verificati"] = len(buoni) > 0
+    return {"fatti_proposti": proposti, "fatti_scartati": scartati}
+
+
+def _testi_dell_edizione(edizione: dict):
+    """Applica ai testi dell'edizione una funzione str -> str, in tutti i campi."""
+    for p in edizione.get("post", []):
+        for chiave in ("titolo", "post_x", "post_sito", "implicazioni"):
+            if isinstance(p.get(chiave), str):
+                yield p, chiave
+        for i, pr in enumerate(p.get("prospettive") or []):
+            if isinstance(pr, dict) and isinstance(pr.get("testo"), str):
+                yield pr, "testo"
+        for f in p.get("fatti") or []:
+            if isinstance(f, dict) and isinstance(f.get("testo"), str):
+                yield f, "testo"
+        incerto = p.get("incerto")
+        if isinstance(incerto, list):
+            for i in range(len(incerto)):
+                yield incerto, i
+
+
+def corregge_giorni_settimana(edizione: dict) -> list:
+    """Se un testo dice «lunedì 27 ottobre» ma il 27 ottobre cade di martedì,
+    toglie il giorno della settimana e lascia la data (che di solito viene
+    dalle fonti). Ritorna l'elenco delle correzioni fatte."""
+    try:
+        data_ed = datetime.strptime(edizione.get("data", ""), "%Y-%m-%d").date()
+    except ValueError:
+        return []
+    correzioni = []
+
+    def sostituisci(m):
+        giorno_nome, g, mese_nome = m.group(1), int(m.group(2)), m.group(3)
+        mese = MESI_NOMI.index(mese_nome.lower()) + 1
+        candidate = []
+        for anno in (data_ed.year - 1, data_ed.year, data_ed.year + 1):
+            try:
+                candidate.append(date(anno, mese, g))
+            except ValueError:
+                pass
+        if not candidate:
+            return m.group(0)
+        vicina = min(candidate, key=lambda d: abs((d - data_ed).days))
+        if GIORNI_SETTIMANA[vicina.weekday()] == giorno_nome.lower():
+            return m.group(0)
+        nuovo = m.group(0)[len(giorno_nome):].lstrip()
+        correzioni.append(f"«{m.group(0)}» → «{nuovo}» (il {vicina.isoformat()} è {GIORNI_SETTIMANA[vicina.weekday()]})")
+        return nuovo
+
+    for contenitore, chiave in _testi_dell_edizione(edizione):
+        contenitore[chiave] = RE_GIORNO_DATA.sub(sostituisci, contenitore[chiave])
+    return correzioni
+
+
+def applica_controlli(edizione: dict, response) -> None:
+    """Controlli deterministici dopo la generazione; il riepilogo finisce in
+    edizione['controlli'] (salvato in posts.json) e nel log della run."""
+    controlli = {}
+    ammessi = raccogli_url_ricerca(response)
+    controlli["url_ricerca"] = len(ammessi)
+    if ammessi:
+        controlli.update(verifica_fatti(edizione, ammessi))
+    else:
+        # Se per qualunque motivo non riusciamo a leggere gli indirizzi delle
+        # ricerche, NON scartiamo tutto: i fatti restano, segnati come non verificati.
+        for p in edizione.get("post", []):
+            p["fatti_verificati"] = False
+        print("⚠ Nessun indirizzo di ricerca leggibile dalla risposta: fatti non verificati.")
+    corretti = corregge_giorni_settimana(edizione)
+    controlli["giorni_corretti"] = corretti
+    edizione["controlli"] = controlli
+    print(f"✓ Controlli: {controlli.get('fatti_proposti', 0)} fatti proposti, "
+          f"{controlli.get('fatti_scartati', 0)} scartati (fonte non verificata), "
+          f"{len(corretti)} giorni della settimana corretti")
+    for c in corretti:
+        print("   ", c)
+
+
 def genera_post() -> dict:
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
     categorie_str = "\n".join(f"- {c}" for c in CATEGORIE)
@@ -682,7 +879,7 @@ def genera_post() -> dict:
     for tentativo in range(1, TENTATIVI_GENERAZIONE + 1):
         response = client.messages.create(
             model="claude-sonnet-4-6",
-            max_tokens=14000,
+            max_tokens=16000,
             system=SYSTEM_PROMPT,
             messages=[{"role": "user", "content": prompt}],
             tools=[{"type": "web_search_20250305", "name": "web_search"}],
@@ -709,6 +906,12 @@ def genera_post() -> dict:
             continue
 
         edizione_valida = valida_edizione(edizione)
+        try:
+            applica_controlli(edizione_valida, response)
+        except Exception as e:
+            # Un difetto nei controlli non deve mai costare l'edizione del giorno.
+            print(f"⚠ Controlli non applicati ({type(e).__name__}: {e}): l'edizione prosegue.")
+            edizione_valida["controlli"] = {"errore": f"{type(e).__name__}: {e}"}
         logga_costo(response, edizione_valida)
         return edizione_valida
 
