@@ -8,6 +8,7 @@ Le pagine già generate per edizioni uscite dalla finestra rolling di
 posts.json NON vengono toccate: restano sul disco come permalink stabili.
 """
 
+import glob
 import json
 import os
 import re
@@ -158,6 +159,7 @@ def costruisci_pagina(post: dict, data_str: str, anno: str, mese: str, giorno: s
   <title>{esc(titolo)} — Il Corrispondente IA</title>
   <meta name="description" content="{esc(descrizione)}">
   <link rel="canonical" href="{canonical}">
+  <link rel="alternate" type="application/rss+xml" title="Il Corrispondente IA" href="{SITE_URL}/feed.xml">
   <meta property="og:type" content="article">
   <meta property="og:url" content="{canonical}">
   <meta property="og:title" content="{esc(titolo)}">
@@ -190,14 +192,15 @@ def costruisci_pagina(post: dict, data_str: str, anno: str, mese: str, giorno: s
       border-bottom: 4px solid #c0392b;
     }}
 
-    header h1 {{
+    header .testata {{
       font-size: 1.9rem;
+      font-weight: bold;
       letter-spacing: 0.05em;
       font-variant: small-caps;
       line-height: 1.1;
     }}
 
-    header h1 a {{ color: inherit; text-decoration: none; }}
+    header .testata a {{ color: inherit; text-decoration: none; }}
 
     .organo {{
       font-size: 0.78rem;
@@ -416,7 +419,7 @@ def costruisci_pagina(post: dict, data_str: str, anno: str, mese: str, giorno: s
 <body>
 
 <header>
-  <h1><a href="{ROOT_REL}index.html">Il Corrispondente IA</a></h1>
+  <p class="testata"><a href="{ROOT_REL}index.html">Il Corrispondente IA</a></p>
   <p class="organo">Organo Ufficiale della Satira Artificialmente Ragionata &mdash; Fondato per necessità e per noia</p>
   <nav>
     <a href="{ROOT_REL}index.html">Edizioni</a>
@@ -497,9 +500,23 @@ def pulisci_orfani(archivio: dict) -> int:
     return n_rimosse
 
 
+def elenco_permalink_su_disco() -> list:
+    """Tutti i permalink presenti in docs/{anno}/{mese}/{giorno}/{slug}/index.html,
+    come (anno, mese, giorno, slug), in ordine di data decrescente. Include gli
+    articoli usciti dalla finestra rolling di posts.json: restano pubblicati e
+    devono restare nella sitemap, altrimenti nessuna pagina li collega."""
+    trovati = []
+    for path in glob.glob(os.path.join("docs", "[0-9][0-9][0-9][0-9]", "*", "*", "*", "index.html")):
+        parti = os.path.normpath(path).split(os.sep)
+        # docs / anno / mese / giorno / slug / index.html
+        if len(parti) == 6 and parti[1].isdigit() and parti[2].isdigit() and parti[3].isdigit():
+            trovati.append((parti[1], parti[2], parti[3], parti[4]))
+    return sorted(trovati, reverse=True)
+
+
 def costruisci_sitemap(archivio: dict) -> str:
     """Genera sitemap.xml con le pagine statiche + tutti i permalink presenti
-    nella finestra rolling di posts.json."""
+    su disco (non solo quelli della finestra rolling di posts.json)."""
 
     def xml_esc(s: str) -> str:
         return (str(s or "")
@@ -515,19 +532,9 @@ def costruisci_sitemap(archivio: dict) -> str:
         (f"{SITE_URL}/costi.html", "daily", "0.4", None),
     ]
 
-    for edizione in archivio.get("edizioni", []):
-        data_str = edizione.get("data", "")
-        parti = data_str.split("-")
-        if len(parti) != 3:
-            continue
-        anno, mese, giorno = parti
-
-        for post in edizione.get("post", []):
-            slug = post.get("slug")
-            if not slug:
-                continue
-            loc = f"{SITE_URL}/{anno}/{mese}/{giorno}/{slug}/"
-            urls.append((loc, "weekly", "0.6", data_str))
+    for anno, mese, giorno, slug in elenco_permalink_su_disco():
+        loc = f"{SITE_URL}/{anno}/{mese}/{giorno}/{slug}/"
+        urls.append((loc, "monthly", "0.6", f"{anno}-{mese}-{giorno}"))
 
     voci = []
     for loc, changefreq, priority, lastmod in urls:
@@ -598,7 +605,8 @@ def main():
     sitemap_xml = costruisci_sitemap(archivio)
     with open(SITEMAP_FILE, "w", encoding="utf-8") as f:
         f.write(sitemap_xml)
-    print(f"✓ sitemap.xml aggiornata ({n_pagine} permalink + 3 pagine statiche)")
+    n_in_sitemap = sitemap_xml.count("<loc>") - 4
+    print(f"✓ sitemap.xml aggiornata ({n_in_sitemap} permalink su disco + 4 pagine statiche)")
 
 
 if __name__ == "__main__":
