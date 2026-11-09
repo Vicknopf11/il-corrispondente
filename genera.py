@@ -612,6 +612,69 @@ def estrai_json(testo: str) -> str:
     )
 
 
+def _prossimo_non_spazio(testo: str, i: int) -> int:
+    while i < len(testo) and testo[i] in " \t\r\n":
+        i += 1
+    return i
+
+
+def _chiude_una_stringa(testo: str, i: int) -> bool:
+    """Un carattere « " » dentro una stringa JSON: chiude davvero la stringa, oppure
+    è una virgoletta dritta scritta nel testo (es. sanzione "irreversibile")?
+    Chiude la stringa se subito dopo viene un delimitatore JSON: } ] : oppure
+    una virgola seguita dall'inizio di un altro elemento (" { [ numero true false null)."""
+    j = _prossimo_non_spazio(testo, i)
+    if j >= len(testo):
+        return True
+    c = testo[j]
+    if c in "}]:":
+        return True
+    if c == ",":
+        k = _prossimo_non_spazio(testo, j + 1)
+        if k >= len(testo):
+            return True
+        if testo[k] in '"{[-' or testo[k].isdigit():
+            return True
+        return any(testo.startswith(t, k) for t in ("true", "false", "null"))
+    return False
+
+
+def ripara_virgolette_interne(testo: str) -> tuple:
+    """Protegge con \\" le virgolette dritte scritte DENTRO i testi del JSON, l'errore
+    più frequente del modello nonostante il divieto nel prompt. Non tocca i JSON
+    già validi. Ritorna (testo_riparato, numero_di_virgolette_protette)."""
+    out = []
+    in_stringa = False
+    riparate = 0
+    i, n = 0, len(testo)
+    while i < n:
+        c = testo[i]
+        if not in_stringa:
+            out.append(c)
+            if c == '"':
+                in_stringa = True
+            i += 1
+            continue
+        if c == "\\":                      # sequenza di escape: si copia com'è
+            out.append(c)
+            if i + 1 < n:
+                out.append(testo[i + 1])
+            i += 2
+            continue
+        if c == '"':
+            if _chiude_una_stringa(testo, i + 1):
+                out.append(c)
+                in_stringa = False
+            else:
+                out.append('\\"')
+                riparate += 1
+            i += 1
+            continue
+        out.append(c)
+        i += 1
+    return "".join(out), riparate
+
+
 def logga_costo(response, edizione: dict) -> None:
     """Logga token/uso-web-search della generazione odierna in
     docs/costi_categoria.json (append-only, storico limitato a
@@ -937,14 +1000,29 @@ def genera_post() -> dict:
                 f"genera_post()). Testo ricevuto finora:\n{testo}"
             )
 
+        virgolette_riparate = 0
         try:
             json_testo = estrai_json(testo)
             edizione = json.loads(json_testo, object_pairs_hook=_nessuna_chiave_doppia)
         except (json.JSONDecodeError, ValueError) as e:
-            ultimo_errore = e
-            print(f"⚠ Tentativo {tentativo}/{TENTATIVI_GENERAZIONE}: JSON non "
-                  f"valido ({e}). Risposta grezza:\n{testo}")
-            continue
+            # Prima di buttare una generazione da circa un dollaro, si prova a
+            # proteggere le virgolette dritte scritte dentro i testi.
+            edizione = None
+            if "{" in testo:
+                try:
+                    riparato, virgolette_riparate = ripara_virgolette_interne(testo[testo.find("{"):])
+                    if virgolette_riparate:
+                        edizione = json.loads(
+                            estrai_json(riparato), object_pairs_hook=_nessuna_chiave_doppia)
+                        print(f"⚠ JSON riparato: {virgolette_riparate} virgolette dritte "
+                              f"dentro i testi sono state protette.")
+                except (json.JSONDecodeError, ValueError):
+                    edizione = None
+            if edizione is None:
+                ultimo_errore = e
+                print(f"⚠ Tentativo {tentativo}/{TENTATIVI_GENERAZIONE}: JSON non "
+                      f"valido ({e}). Risposta grezza:\n{testo}")
+                continue
 
         # La data la stabilisce il codice: se il modello ne ha scritta un'altra,
         # si segnala e vale quella di oggi.
@@ -956,6 +1034,7 @@ def genera_post() -> dict:
         edizione_valida = valida_edizione(edizione)
         try:
             applica_controlli(edizione_valida, response)
+            edizione_valida.setdefault("controlli", {})["virgolette_riparate"] = virgolette_riparate
         except Exception as e:
             # Un difetto nei controlli non deve mai costare l'edizione del giorno.
             print(f"⚠ Controlli non applicati ({type(e).__name__}: {e}): l'edizione prosegue.")
