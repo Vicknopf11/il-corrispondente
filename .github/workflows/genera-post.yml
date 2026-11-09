@@ -4,6 +4,11 @@ on:
   repository_dispatch:
     types: [genera-post]    # trigger esterno via cron-job.org (bypassa lo scheduler nativo GitHub)
   workflow_dispatch:        # consente esecuzione manuale
+    inputs:
+      forza:
+        description: "Rigenera anche se l'edizione di oggi esiste già (scrivi 1)"
+        required: false
+        default: "0"
 
 # Un solo workflow alla volta tra quelli che fanno push su main:
 # generazione e pubblicazione tweet si mettono in fila invece di
@@ -33,6 +38,7 @@ jobs:
       - name: Genera post e coda tweet
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          FORZA_GENERAZIONE: ${{ github.event.inputs.forza }}
         run: python genera.py
 
       - name: Riepilogo costi nel summary della run
@@ -55,3 +61,17 @@ jobs:
           git add docs/posts.json docs/feed.xml docs/sitemap.xml docs/archivio.html docs/prompt.html docs/costi_categoria.json coda_x.json docs/20* docs/assets/og
           git diff --staged --quiet || git commit -m "Edizione del $(date +'%Y-%m-%d')"
           git push
+
+      - name: Avvisa su Telegram se qualcosa è andato storto
+        if: failure()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_OWNER_CHAT_ID: ${{ secrets.TELEGRAM_OWNER_CHAT_ID }}
+        run: |
+          if [ -z "$TELEGRAM_BOT_TOKEN" ] || [ -z "$TELEGRAM_OWNER_CHAT_ID" ]; then
+            echo "Avviso Telegram non configurato: salto."
+            exit 0
+          fi
+          curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${TELEGRAM_OWNER_CHAT_ID}" \
+            --data-urlencode "text=❌ Il Corrispondente IA: la generazione di oggi non è riuscita. Dettagli: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}" > /dev/null

@@ -7,11 +7,14 @@ Cerca le notizie del giorno per categoria e genera commenti ironici.
 import json
 import os
 import re
+import sys
+import time
 import unicodedata
 from datetime import date, datetime, timezone
 from email.utils import format_datetime
 import anthropic
 from urllib.parse import urlsplit, parse_qsl, urlencode
+from zoneinfo import ZoneInfo
 from cambio_bce import cambio_per_data
 
 # ── Configurazione ──────────────────────────────────────────────
@@ -472,7 +475,9 @@ def valida_edizione(edizione: dict) -> dict:
 
     return edizione
 
-PROMPT_UTENTE_TEMPLATE = """Cerca la notizia più significativa di oggi per ognuna di queste categorie:
+PROMPT_UTENTE_TEMPLATE = """Oggi è {data_oggi_it}.
+
+Cerca la notizia più significativa di oggi per ognuna di queste categorie:
 {categorie_str}
 
 Per ogni notizia applica la filosofia editoriale del Corrispondente IA:
@@ -713,7 +718,8 @@ def _nessuna_chiave_doppia(coppie):
     return visto
 
 
-TENTATIVI_GENERAZIONE = 2
+TENTATIVI_GENERAZIONE = 3
+PAUSA_TRA_TENTATIVI_SEC = 45
 
 
 
@@ -870,20 +876,55 @@ def applica_controlli(edizione: dict, response) -> None:
         print("   ", c)
 
 
+def oggi_roma() -> date:
+    """La data di oggi nel fuso di Roma: la stabilisce il codice, mai il modello."""
+    return datetime.now(ZoneInfo("Europe/Rome")).date()
+
+
+def data_italiana(d: date) -> str:
+    """«lunedì 9 novembre 2026»."""
+    return f"{GIORNI_SETTIMANA[d.weekday()]} {d.day} {MESI_NOMI[d.month - 1]} {d.year}"
+
+
+def edizione_di_oggi_presente() -> bool:
+    """True se in posts.json c'è già un'edizione con post per la data di oggi.
+    Serve ai lanci di riserva: se la generazione delle 09:17 è andata bene, i
+    lanci successivi non devono rigenerare niente (né spendere né riscrivere
+    la coda dei tweet)."""
+    try:
+        with open(POSTS_FILE, encoding="utf-8") as f:
+            archivio = json.load(f)
+    except (OSError, ValueError):
+        return False
+    oggi = oggi_roma().isoformat()
+    return any(e.get("data") == oggi and e.get("post") for e in archivio.get("edizioni", []))
+
+
 def genera_post() -> dict:
-    client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+    client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"], max_retries=5)
     categorie_str = "\n".join(f"- {c}" for c in CATEGORIE)
-    prompt = PROMPT_UTENTE_TEMPLATE.format(categorie_str=categorie_str)
+    oggi = oggi_roma()
+    prompt = PROMPT_UTENTE_TEMPLATE.format(
+        categorie_str=categorie_str, data_oggi_it=data_italiana(oggi))
 
     ultimo_errore = None
     for tentativo in range(1, TENTATIVI_GENERAZIONE + 1):
-        response = client.messages.create(
-            model="claude-sonnet-4-6",
-            max_tokens=16000,
-            system=SYSTEM_PROMPT,
-            messages=[{"role": "user", "content": prompt}],
-            tools=[{"type": "web_search_20250305", "name": "web_search"}],
-        )
+        try:
+            response = client.messages.create(
+                model="claude-sonnet-4-6",
+                max_tokens=16000,
+                system=SYSTEM_PROMPT,
+                messages=[{"role": "user", "content": prompt}],
+                tools=[{"type": "web_search_20250305", "name": "web_search"}],
+            )
+        except anthropic.APIError as e:
+            # Sovraccarico, timeout, errore di rete: si riprova dopo una pausa.
+            ultimo_errore = e
+            print(f"⚠ Tentativo {tentativo}/{TENTATIVI_GENERAZIONE}: errore dell'API "
+                  f"({type(e).__name__}: {e})")
+            if tentativo < TENTATIVI_GENERAZIONE:
+                time.sleep(PAUSA_TRA_TENTATIVI_SEC)
+            continue
 
         testo = "".join(
             block.text for block in response.content if hasattr(block, "text")
@@ -905,6 +946,13 @@ def genera_post() -> dict:
                   f"valido ({e}). Risposta grezza:\n{testo}")
             continue
 
+        # La data la stabilisce il codice: se il modello ne ha scritta un'altra,
+        # si segnala e vale quella di oggi.
+        if edizione.get("data") != oggi.isoformat():
+            print(f"⚠ Data scritta dal modello ({edizione.get('data')}) diversa da quella "
+                  f"di oggi ({oggi.isoformat()}): uso quella di oggi.")
+        edizione["data"] = oggi.isoformat()
+
         edizione_valida = valida_edizione(edizione)
         try:
             applica_controlli(edizione_valida, response)
@@ -916,7 +964,7 @@ def genera_post() -> dict:
         return edizione_valida
 
     raise ValueError(
-        f"JSON non valido dopo {TENTATIVI_GENERAZIONE} tentativi "
+        f"Generazione non riuscita dopo {TENTATIVI_GENERAZIONE} tentativi "
         f"(ultimo errore: {ultimo_errore})"
     ) from ultimo_errore
 
@@ -1049,6 +1097,9 @@ def genera_rss(archivio: dict) -> None:
 
 if __name__ == "__main__":
     print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M')}] Avvio generazione...")
+    if os.environ.get("FORZA_GENERAZIONE") != "1" and edizione_di_oggi_presente():
+        print(f"✓ L'edizione del {oggi_roma().isoformat()} è già presente: niente da fare.")
+        sys.exit(0)
     edizione = genera_post()
     n = len(edizione.get("post", []))
     print(f"✓ Generati {n} post per il {edizione.get('data')}")

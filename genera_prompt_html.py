@@ -145,7 +145,10 @@ def main():
     import genera  # importa SYSTEM_PROMPT e PROMPT_UTENTE_TEMPLATE dal codice reale
 
     categorie_str = "\n".join(f"- {c}" for c in genera.CATEGORIE)
-    prompt_utente = genera.PROMPT_UTENTE_TEMPLATE.format(categorie_str=categorie_str)
+    prompt_utente = genera.PROMPT_UTENTE_TEMPLATE.format(
+        categorie_str=categorie_str,
+        data_oggi_it="[la data di oggi, scritta per esteso]",  # il codice la inserisce ogni giorno
+    )
 
     html_sistema = testo_a_html(genera.SYSTEM_PROMPT.strip())
     html_utente = testo_a_html(prompt_utente.strip())
