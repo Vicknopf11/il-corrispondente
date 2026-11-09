@@ -52,6 +52,6 @@ jobs:
         run: |
           git config user.name "Il Corrispondente Bot"
           git config user.email "bot@il-corrispondente"
-          git add docs/posts.json docs/feed.xml docs/sitemap.xml docs/prompt.html docs/costi_categoria.json coda_x.json docs/20* docs/assets/og
+          git add docs/posts.json docs/feed.xml docs/sitemap.xml docs/archivio.html docs/prompt.html docs/costi_categoria.json coda_x.json docs/20* docs/assets/og
           git diff --staged --quiet || git commit -m "Edizione del $(date +'%Y-%m-%d')"
           git push

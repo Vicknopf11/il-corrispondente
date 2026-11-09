@@ -9,6 +9,7 @@ posts.json NON vengono toccate: restano sul disco come permalink stabili.
 """
 
 import glob
+import html as html_mod
 import json
 import os
 import re
@@ -66,6 +67,10 @@ def esc(s) -> str:
             .replace("<", "&lt;")
             .replace(">", "&gt;")
             .replace('"', "&quot;"))
+
+
+MESI_IT = ["", "gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno",
+           "luglio", "agosto", "settembre", "ottobre", "novembre", "dicembre"]
 
 
 def tronca(testo: str, n: int = 155) -> str:
@@ -426,6 +431,7 @@ def costruisci_pagina(post: dict, data_str: str, anno: str, mese: str, giorno: s
     <a href="{ROOT_REL}chi-siamo.html">Chi siamo</a>
     <a href="{ROOT_REL}prompt.html">Il prompt</a>
     <a href="{ROOT_REL}costi.html">Costi</a>
+    <a href="{ROOT_REL}archivio.html">Archivio</a>
   </nav>
 </header>
 
@@ -453,6 +459,8 @@ def costruisci_pagina(post: dict, data_str: str, anno: str, mese: str, giorno: s
   Nessuna notizia è stata danneggiata durante la produzione di questo contenuto<br>
   Generato ogni mattina da Claude (Anthropic) &middot;
   <a href="{ROOT_REL}chi-siamo.html">Chi siamo &middot; Manifesto editoriale</a> &middot;
+  <a href="{ROOT_REL}archivio.html">Archivio</a> &middot;
+  <a href="{ROOT_REL}{anno}/{mese}/">{MESI_IT[int(mese)].capitalize()} {anno}</a> &middot;
   <a href="{ROOT_REL}feed.xml">RSS</a> &middot;
   <a href="https://filoclastos.it/licenze-copyright/">Licenze e copyright</a> &middot;
   <a href="https://filoclastos.it/dichiarazione-bias/">Dichiarazione sul bias</a>
@@ -514,6 +522,180 @@ def elenco_permalink_su_disco() -> list:
     return sorted(trovati, reverse=True)
 
 
+
+CSS_ARCHIVIO = """
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: 'Georgia', serif; background: #f5f0e8; color: #1a1a1a; min-height: 100vh; }
+    header { background: #1a1a1a; color: #f5f0e8; text-align: center; padding: 1.6rem 1rem 1.1rem; border-bottom: 4px solid #c0392b; }
+    header .testata { font-size: 1.9rem; font-weight: bold; letter-spacing: 0.05em; font-variant: small-caps; line-height: 1.1; }
+    header .testata a { color: inherit; text-decoration: none; }
+    .organo { font-size: 0.78rem; color: #bbb; font-style: italic; margin-top: 0.35rem; }
+    nav { margin-top: 0.9rem; }
+    nav a { color: #aaa; text-decoration: none; font-size: 0.8rem; margin: 0 0.7rem; font-family: Arial, sans-serif; letter-spacing: 0.05em; text-transform: uppercase; }
+    nav a:hover { color: white; }
+    nav a.attivo { color: white; border-bottom: 1px solid #c0392b; }
+    main { max-width: 760px; margin: 0 auto; padding: 2.2rem 1rem 3rem; }
+    h1 { font-size: 2rem; margin-bottom: 0.4rem; }
+    .sotto { color: #666; font-family: Arial, sans-serif; font-size: 0.85rem; margin-bottom: 1.4rem; }
+    h2 { font-size: 1.05rem; font-variant: small-caps; letter-spacing: 0.04em; margin: 1.8rem 0 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #1a1a1a; }
+    ul { list-style: none; }
+    li { padding: 0.45rem 0; border-bottom: 1px solid #e3dccd; line-height: 1.4; }
+    li a { color: #1a1a1a; text-decoration: none; }
+    li a:hover { color: #c0392b; }
+    .cat { font-family: Arial, sans-serif; font-size: 0.68rem; font-weight: bold; text-transform: uppercase; letter-spacing: 0.06em; color: #666; margin-right: 0.5rem; }
+    .mesi li { font-size: 1.05rem; display: flex; justify-content: space-between; gap: 1rem; }
+    .mesi .n { font-family: Arial, sans-serif; font-size: 0.82rem; color: #666; white-space: nowrap; }
+    .mese-nav { display: flex; justify-content: space-between; gap: 1rem; font-family: Arial, sans-serif; font-size: 0.85rem; margin-top: 2rem; }
+    .mese-nav a { color: #c0392b; text-decoration: none; }
+    footer { text-align: center; padding: 2rem 1rem; font-size: 0.75rem; color: #aaa; border-top: 1px solid #ddd; line-height: 1.8; }
+    footer a { color: #aaa; text-decoration: none; }
+    footer a:hover { color: #c0392b; }
+"""
+
+
+def pagina_archivio(titolo: str, descrizione: str, canonical: str, corpo: str, root_rel: str) -> str:
+    """Pagina statica dell'archivio, con la stessa testata e lo stesso piede degli articoli."""
+    return f"""<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{esc(titolo)} — Il Corrispondente IA</title>
+  <meta name="description" content="{esc(descrizione)}">
+  <link rel="canonical" href="{canonical}">
+  <link rel="alternate" type="application/rss+xml" title="Il Corrispondente IA" href="{SITE_URL}/feed.xml">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{canonical}">
+  <meta property="og:title" content="{esc(titolo)} — Il Corrispondente IA">
+  <meta property="og:description" content="{esc(descrizione)}">
+  <meta property="og:image" content="{OG_IMAGE}">
+  <style>{CSS_ARCHIVIO}</style>
+<script data-goatcounter="https://il-corrispondente.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</head>
+<body>
+
+<header>
+  <p class="testata"><a href="{root_rel}index.html">Il Corrispondente IA</a></p>
+  <p class="organo">Organo Ufficiale della Satira Artificialmente Ragionata &mdash; Fondato per necessità e per noia</p>
+  <nav>
+    <a href="{root_rel}index.html">Edizioni</a>
+    <a href="{root_rel}chi-siamo.html">Chi siamo</a>
+    <a href="{root_rel}prompt.html">Il prompt</a>
+    <a href="{root_rel}costi.html">Costi</a>
+    <a href="{root_rel}archivio.html" class="attivo">Archivio</a>
+  </nav>
+</header>
+
+<main>
+{corpo}
+</main>
+
+<footer>
+  Il Corrispondente IA &mdash; Tutti i diritti satiricamente riservati<br>
+  Nessuna notizia è stata danneggiata durante la produzione di questo contenuto<br>
+  Generato ogni mattina da Claude (Anthropic) &middot;
+  <a href="{root_rel}chi-siamo.html">Chi siamo &middot; Manifesto editoriale</a> &middot;
+  <a href="{root_rel}feed.xml">RSS</a> &middot;
+  <a href="https://filoclastos.it/licenze-copyright/">Licenze e copyright</a> &middot;
+  <a href="https://filoclastos.it/dichiarazione-bias/">Dichiarazione sul bias</a>
+</footer>
+
+</body>
+</html>
+"""
+
+
+def leggi_meta_articolo(percorso: str) -> dict:
+    """Titolo e categoria di un articolo, letti dalla sua pagina già generata
+    (posts.json conserva solo gli ultimi 30 giorni, le pagine restano per sempre)."""
+    try:
+        with open(percorso, encoding="utf-8") as f:
+            h = f.read()
+    except OSError:
+        return {"titolo": "", "cat": ""}
+    t = re.search(r'<h1 class="post-titolo">(.*?)</h1>', h, re.S)
+    c = re.search(r'"articleSection":\s*"([^"]+)"', h)
+    titolo = html_mod.unescape(re.sub(r"<[^>]+>", "", t.group(1))).strip() if t else ""
+    return {"titolo": titolo, "cat": c.group(1) if c else ""}
+
+
+def costruisci_archivio() -> tuple:
+    """Genera docs/archivio.html (elenco dei mesi) e docs/{anno}/{mese}/index.html
+    (tutti gli articoli del mese, per giorno). Ogni articolo diventa raggiungibile
+    da una pagina HTML statica. Ritorna (n_mesi, n_articoli)."""
+    per_mese = {}
+    for anno, mese, giorno, slug in elenco_permalink_su_disco():
+        meta = leggi_meta_articolo(os.path.join("docs", anno, mese, giorno, slug, "index.html"))
+        if not meta["titolo"]:
+            continue
+        per_mese.setdefault((anno, mese), []).append({"giorno": giorno, "slug": slug, **meta})
+
+    chiavi = sorted(per_mese, reverse=True)          # mesi più recenti per primi
+    n_articoli = 0
+    for i, (anno, mese) in enumerate(chiavi):
+        voci = per_mese[(anno, mese)]                # già in ordine di data decrescente
+        n_articoli += len(voci)
+        nome_mese = f"{MESI_IT[int(mese)].capitalize()} {anno}"
+
+        corpo = [f"<h1>{nome_mese}</h1>",
+                 f'<p class="sotto">{len(voci)} articoli · <a href="../../archivio.html" style="color:#c0392b">tutto l\'archivio</a></p>']
+        giorno_corr = None
+        for v in voci:
+            if v["giorno"] != giorno_corr:
+                if giorno_corr is not None:
+                    corpo.append("</ul>")
+                giorno_corr = v["giorno"]
+                corpo.append(f"<h2>{esc(formatta_data(f'{anno}-{mese}-{giorno_corr}'))}</h2>\n<ul>")
+            cat = f'<span class="cat">{esc(v["cat"])}</span>' if v["cat"] else ""
+            corpo.append(f'<li>{cat}<a href="{v["giorno"]}/{v["slug"]}/">{esc(v["titolo"])}</a></li>')
+        corpo.append("</ul>")
+
+        nav = []
+        if i + 1 < len(chiavi):                       # mese precedente
+            pa, pm = chiavi[i + 1]
+            nav.append(f'<a href="../../{pa}/{pm}/">← {MESI_IT[int(pm)].capitalize()} {pa}</a>')
+        else:
+            nav.append("<span></span>")
+        if i > 0:                                     # mese successivo
+            na, nm = chiavi[i - 1]
+            nav.append(f'<a href="../../{na}/{nm}/">{MESI_IT[int(nm)].capitalize()} {na} →</a>')
+        corpo.append(f'<div class="mese-nav">{"".join(nav)}</div>')
+
+        html = pagina_archivio(
+            titolo=f"Archivio {nome_mese}",
+            descrizione=f"Tutti gli articoli pubblicati da Il Corrispondente IA a {MESI_IT[int(mese)]} {anno}, giorno per giorno.",
+            canonical=f"{SITE_URL}/{anno}/{mese}/",
+            corpo="\n".join(corpo),
+            root_rel="../../",
+        )
+        with open(os.path.join("docs", anno, mese, "index.html"), "w", encoding="utf-8") as f:
+            f.write(html)
+
+    righe = ["<h1>Archivio</h1>",
+             f'<p class="sotto">{n_articoli} articoli, da {MESI_IT[int(chiavi[-1][1])]} {chiavi[-1][0]} a oggi.</p>'] if chiavi else ["<h1>Archivio</h1>"]
+    anno_corr = None
+    for anno, mese in chiavi:
+        if anno != anno_corr:
+            if anno_corr is not None:
+                righe.append("</ul>")
+            anno_corr = anno
+            righe.append(f"<h2>{anno}</h2>\n<ul class=\"mesi\">")
+        righe.append(f'<li><a href="{anno}/{mese}/">{MESI_IT[int(mese)].capitalize()} {anno}</a>'
+                     f'<span class="n">{len(per_mese[(anno, mese)])} articoli</span></li>')
+    if chiavi:
+        righe.append("</ul>")
+    html = pagina_archivio(
+        titolo="Archivio",
+        descrizione="L'archivio completo di Il Corrispondente IA: tutti gli articoli, mese per mese.",
+        canonical=f"{SITE_URL}/archivio.html",
+        corpo="\n".join(righe),
+        root_rel="",
+    )
+    with open(os.path.join("docs", "archivio.html"), "w", encoding="utf-8") as f:
+        f.write(html)
+    return len(chiavi), n_articoli
+
+
 def costruisci_sitemap(archivio: dict) -> str:
     """Genera sitemap.xml con le pagine statiche + tutti i permalink presenti
     su disco (non solo quelli della finestra rolling di posts.json)."""
@@ -530,7 +712,12 @@ def costruisci_sitemap(archivio: dict) -> str:
         (f"{SITE_URL}/chi-siamo.html", "monthly", "0.5", None),
         (f"{SITE_URL}/prompt.html", "monthly", "0.5", None),
         (f"{SITE_URL}/costi.html", "daily", "0.4", None),
+        (f"{SITE_URL}/archivio.html", "daily", "0.5", None),
     ]
+
+    for p in sorted(glob.glob(os.path.join("docs", "[0-9][0-9][0-9][0-9]", "[0-9][0-9]", "index.html"))):
+        _, anno, mese, _ = os.path.normpath(p).split(os.sep)
+        urls.append((f"{SITE_URL}/{anno}/{mese}/", "daily", "0.5", None))
 
     for anno, mese, giorno, slug in elenco_permalink_su_disco():
         loc = f"{SITE_URL}/{anno}/{mese}/{giorno}/{slug}/"
@@ -602,11 +789,13 @@ def main():
     if n_orfane:
         print(f"✓ Rimosse {n_orfane} pagine orfane")
 
+    n_mesi, n_art_arch = costruisci_archivio()
+    print(f"✓ Archivio costruito ({n_mesi} mesi, {n_art_arch} articoli)")
+
     sitemap_xml = costruisci_sitemap(archivio)
     with open(SITEMAP_FILE, "w", encoding="utf-8") as f:
         f.write(sitemap_xml)
-    n_in_sitemap = sitemap_xml.count("<loc>") - 4
-    print(f"✓ sitemap.xml aggiornata ({n_in_sitemap} permalink su disco + 4 pagine statiche)")
+    print(f"✓ sitemap.xml aggiornata ({sitemap_xml.count('<loc>')} URL: articoli, archivio e pagine statiche)")
 
 
 if __name__ == "__main__":
