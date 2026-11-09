@@ -1,77 +1,77 @@
 {
-  "data": "2026-11-08",
+  "data": "2026-11-09",
   "tweet": [
     {
-      "testo": "I Dem prendono Camera e Senato, Trump chiede al DoJ di indagarli. La democrazia americana: il perdente processa chi ha vinto. Nuovo. #Midterm2026",
-      "url": "https://corrispondente.filoclastos.it/2026/11/08/midterm-usa-democratici-congresso-trump-indagini/",
-      "slug": "midterm-usa-democratici-congresso-trump-indagini",
+      "testo": "Trump dice che nuovi attacchi all'Iran sono «altamente improbabili». Nel frattempo le bombe cadono sull'isola di Qeshm. Chi controlla lo Stretto di Hormuz vale 20 milioni di barili al giorno. Dettaglio.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/09/trump-iran-pace-bombardamenti-qeshm/",
+      "slug": "trump-iran-pace-bombardamenti-qeshm",
       "categoria": "Politica Internazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Tajani nel dark web, dati del Brennero violati. «Guerra ibrida», tuonano tutti. Curioso che colpisca proprio chi chiedeva più fondi per la difesa. Chi ci guadagna? #GuerraIbrida",
-      "url": "https://corrispondente.filoclastos.it/2026/11/08/hacker-filorussi-dark-web-tajani-brennero/",
-      "slug": "hacker-filorussi-dark-web-tajani-brennero",
+      "testo": "600mila cyberattacchi all'Italia. Il governo risponde convocando un comitato. La task force? Arriva a dicembre. Nel frattempo Tajani annuncia che i suoi dati sono sul dark web. Reazione-lampo.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/09/cyberattacchi-italia-governo-vertice-piantedosi/",
+      "slug": "cyberattacchi-italia-governo-vertice-piantedosi",
       "categoria": "Politica Nazionale",
-      "evidenza": true,
-      "pubblicato": true
-    },
-    {
-      "testo": "Da oggi diesel più caro: scaduto lo sconto di 4,9 cent/litro. Il governo lo aveva reintrodotto a ottobre, tolto a novembre. Breve storia triste di 11 giorni di populismo alla pompa. #Carburanti",
-      "url": "https://corrispondente.filoclastos.it/2026/11/08/fine-sconto-accise-gasolio-8-novembre-2026/",
-      "slug": "fine-sconto-accise-gasolio-8-novembre-2026",
-      "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Márquez vince la sprint in Qatar e oggi può diventare campione per la decima volta — un record che nemmeno Rossi ha raggiunto. Ducati ringrazia. Il resto della griglia pure, involontariamente. #MotoGP",
-      "url": "https://corrispondente.filoclastos.it/2026/11/08/motogp-qatar-marquez-sprint-decimo-titolo/",
-      "slug": "motogp-qatar-marquez-sprint-decimo-titolo",
+      "testo": "La Consob approva l'OPA di Intesa su MPS: 1,25 euro + 1,664 azioni per ogni titolo senese. Adesioni dal 24 novembre. La banca più antica del mondo finisce nel portafoglio della più grande d'Italia. Nessun dramma, è solo il mercato.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/09/intesa-sanpaolo-opa-monte-paschi-consob-approvazione/",
+      "slug": "intesa-sanpaolo-opa-monte-paschi-consob-approvazione",
+      "categoria": "Economia",
+      "evidenza": true,
+      "pubblicato": false
+    },
+    {
+      "testo": "A Dakar oggi si assegnano 21 medaglie d'oro in 9 discipline. L'Italia in gara in atletica, ginnastica e tiro con l'arco. Due quarti posti ieri a un centesimo e 10 cm dal podio. Il calcio può aspettare.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/09/olimpiadi-giovanili-dakar-2026-italia-ginnastica-atletica/",
+      "slug": "olimpiadi-giovanili-dakar-2026-italia-ginnastica-atletica",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Cracovia, 6 morti in piazza del Mercato. Tusk dichiara due giorni di lutto e parla di terrorismo. Prima di sapere chi e perché, il copione del cordoglio è già pronto. #Cracovia",
-      "url": "https://corrispondente.filoclastos.it/2026/11/08/strage-cracovia-6-morti-tusk-terrorismo/",
-      "slug": "strage-cracovia-6-morti-tusk-terrorismo",
+      "testo": "Cracovia: l'attentatore 24enne è morto in ospedale questa mattina. Bilancio totale: 9 morti, inclusi i familiari uccisi prima della strage. 15 feriti ancora ricoverati. Polonia in lutto nazionale. Indagine per terrorismo aperta.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/09/strage-cracovia-attentatore-morto-lutto-nazionale/",
+      "slug": "strage-cracovia-attentatore-morto-lutto-nazionale",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Studiosi trovano cannabis in tombe scite di 2.800 anni fa. La notizia: era già lì. La domanda che nessuno fa: chi finanzia la ricerca sull'uso antico di sostanze oggi illegali? #Scienza #Cannabis",
-      "url": "https://corrispondente.filoclastos.it/2026/11/08/cannabis-2800-anni-fa-tunnug-scienza/",
-      "slug": "cannabis-2800-anni-fa-tunnug-scienza",
+      "testo": "493 campioni di tumori felini, 13 tipi di neoplasia, mutazioni condivise con il cancro umano. Oncologia comparata: i gatti potrebbero aiutarci a capire il cancro. Nessuna cura domani mattina. Ma qualcuno ci finanzierà lo stesso.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/09/dna-tumori-gatti-ricerca-cancro-umano/",
+      "slug": "dna-tumori-gatti-ricerca-cancro-umano",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Wall Street brucia mille miliardi sui titoli AI per i dubbi sui costi. Stessa settimana: Anthropic si quota a 2.000 miliardi. Il mercato non crede all'AI ma la compra lo stesso. #Anthropic #IPO",
-      "url": "https://corrispondente.filoclastos.it/2026/11/08/wall-street-ai-mille-miliardi-anthropic-ipo/",
-      "slug": "wall-street-ai-mille-miliardi-anthropic-ipo",
+      "testo": "Il CDA di Nvidia indaga su Jensen Huang e una presunta spia cinese. Huang ha ammesso l'infedeltà coniugale. Pechino: «Diffamazione». Trump: «Non lo ritengo colpevole». Il chip più potente del mondo, al centro di tutto.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/09/nvidia-jensen-huang-spia-cinese-indagine-cda/",
+      "slug": "nvidia-jensen-huang-spia-cinese-indagine-cda",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "L'Italia è prima in Europa per casi di morbillo: 651 in 12 mesi, oltre il 28% del totale UE. Una malattia del passato che torna perché abbiamo smesso di vaccinarci. Nessuno ne parla. #Morbillo",
-      "url": "https://corrispondente.filoclastos.it/2026/11/08/morbillo-italia-prima-europa-651-casi-vaccini/",
-      "slug": "morbillo-italia-prima-europa-651-casi-vaccini",
+      "testo": "Virgin Active compra Holmes Place Germany: 13 club a Berlino, Amburgo, Colonia e dintorni. Il wellness premium si concentra in poche mani. Stare bene costa sempre di più, e sempre di meno lo decidono i clienti.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/09/virgin-active-holmes-place-germany-acquisizione-wellness/",
+      "slug": "virgin-active-holmes-place-germany-acquisizione-wellness",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "«Report» riparte stasera su Rai3 senza Ranucci — rimosso dopo che qualcuno gli aveva fatto saltare la macchina in aria. La nuova stagione indagherà proprio su chi ha ordinato l'attentato. Normale amministrazione. #Report",
-      "url": "https://corrispondente.filoclastos.it/2026/11/08/report-rai3-senza-ranucci-nuova-stagione/",
-      "slug": "report-rai3-senza-ranucci-nuova-stagione",
+      "testo": "Vasco Rossi ai fan che insultano il suo musicista sui social: «Le scelte artistiche sono MIE». Intanto l'album live esce il 27 novembre. Il rock ha i suoi ammiratori, il mercato ha i suoi tempi. Coincidenza.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/09/vasco-rossi-difende-vince-pastano-scelte-musicali/",
+      "slug": "vasco-rossi-difende-vince-pastano-scelte-musicali",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }

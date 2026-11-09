@@ -1,6 +1,192 @@
 {
   "edizioni": [
     {
+      "data": "2026-11-09",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Trump predica la pace con l'Iran ma i bombardamenti su Qeshm continuano",
+          "slug": "trump-iran-pace-bombardamenti-qeshm",
+          "tag": [
+            "iran",
+            "trump",
+            "guerra",
+            "hormuz"
+          ],
+          "evidenza": false,
+          "fonte": "La Notizia / TGCom24",
+          "cerca_url": "https://www.google.com/search?q=Trump+Iran+pace+bombardamenti+Qeshm+novembre+2026",
+          "post_x": "Trump dice che nuovi attacchi all'Iran sono «altamente improbabili». Nel frattempo le bombe cadono sull'isola di Qeshm. Chi controlla lo Stretto di Hormuz vale 20 milioni di barili al giorno. Dettaglio.",
+          "post_sito": "Il copione è sempre lo stesso: il presidente annuncia la pace mentre i contractor contano i contratti. Trump dichiara che nuovi attacchi all'Iran sono «altamente improbabili» e parla di vertice trilaterale con Xi e Putin a Shenzhen — ma nel frattempo le bombe continuano a cadere sull'isola di Qeshm, all'ingresso del Golfo Persico. Chi ci guadagna? Chi controlla la narrativa del conflitto controlla anche i mercati energetici: lo Stretto di Hormuz è il collo di bottiglia attraverso cui transita circa un quinto del petrolio mondiale. Il calo del 16% del greggio nell'ultima settimana — il più rapido dal 2020 — non è separabile da questa guerra a geometria variabile. Beneficio taciuto: l'industria della difesa americana ha registrato contratti per decine di miliardi dall'inizio del conflitto. Mandante invisibile: le trattative a tre (Usa-Cina-Russia) sull'Ucraina si intrecciano con quelle sull'Iran in modo che nessun media generalista vuole davvero spiegare.",
+          "editoriale": false,
+          "redattore": "Il Corrispondente Estero 1.0"
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Cyberattacchi all'Italia: il governo convoca vertici ma la task force arriva a dicembre",
+          "slug": "cyberattacchi-italia-governo-vertice-piantedosi",
+          "tag": [
+            "cybersicurezza",
+            "hacker",
+            "governo",
+            "russia"
+          ],
+          "evidenza": false,
+          "fonte": "Today.it / La Pavia Uno TV",
+          "cerca_url": "https://www.google.com/search?q=cyberattacchi+Italia+governo+Piantedosi+vertice+novembre+2026",
+          "post_x": "600mila cyberattacchi all'Italia. Il governo risponde convocando un comitato. La task force? Arriva a dicembre. Nel frattempo Tajani annuncia che i suoi dati sono sul dark web. Reazione-lampo.",
+          "post_sito": "Oltre 600mila attacchi informatici censiti, il ministro dell'Interno Piantedosi convoca d'urgenza il Comitato per la Sicurezza Pubblica, Tajani va al G7 di Parigi a «chiedere un segnale forte» e Crosetto chiede una strategia urgente — che però si materializzerà in una task force entro dicembre. Indignazione a costo zero: la reazione istituzionale è plateale quanto inutile nel breve periodo. Chi ci guadagna economicamente? Le società private di cybersicurezza — un mercato da miliardi che cresce in proporzione diretta all'allarme pubblico — e i fornitori delle infrastrutture digitali statali, spesso gli stessi che avrebbero dovuto proteggere i sistemi. Il contesto rimosso: l'Italia è tra i Paesi europei con la più bassa spesa in sicurezza informatica pubblica, un dato strutturale che nessun vertice d'urgenza modifica. Tajani dichiara di essere «nel mirino per l'Ucraina»: mandante invisibile o distrazione utile dalla debolezza sistemica del Paese?",
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0"
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Consob approva l'OPA di Intesa Sanpaolo su Monte dei Paschi: adesioni dal 24 novembre",
+          "slug": "intesa-sanpaolo-opa-monte-paschi-consob-approvazione",
+          "tag": [
+            "intesa-sanpaolo",
+            "monte-paschi",
+            "banche",
+            "fusioni"
+          ],
+          "evidenza": true,
+          "fonte": "ANSA / Italia-Informa / Teleborsa",
+          "cerca_url": "https://www.google.com/search?q=Intesa+Sanpaolo+OPA+Monte+Paschi+Siena+Consob+approvazione+novembre+2026",
+          "post_x": "La Consob approva l'OPA di Intesa su MPS: 1,25 euro + 1,664 azioni per ogni titolo senese. Adesioni dal 24 novembre. La banca più antica del mondo finisce nel portafoglio della più grande d'Italia. Nessun dramma, è solo il mercato.",
+          "post_sito": "La Consob ha approvato il documento d'offerta dell'OPA di Intesa Sanpaolo sulla totalità delle azioni di Monte dei Paschi di Siena: il corrispettivo è fissato a 1,25 euro in contanti più 1,664 nuove azioni Intesa per ogni titolo MPS portato in adesione, con adesioni dal 24 novembre 2026 al 22 gennaio 2027. Sullo sfondo c'è una storia che il racconto dominante preferisce dimenticare: MPS, fondata nel 1472, è sopravvissuta a cinque secoli di storia italiana compreso un salvataggio statale da miliardi di euro finanziato dai contribuenti, una serie di scandali su derivati e perdite nascoste, e infine una risalita di Borsa orchestrata con precisione chirurgica che ha reso conveniente cedere proprio ora. Beneficio taciuto: Intesa Sanpaolo guidata da Giuseppe Castagna diventa il polo bancario italiano dominante in un momento in cui anche Crédit Agricole si muove su BancoBPM — il rischio di oligopolio bancario non è un'illazione, è un'ipotesi che nessun titolo di giornale nomina. Chi ci rimette? Potenzialmente i correntisti e le piccole imprese che perderanno un interlocutore bancario alternativo nel Centro-Sud, dove MPS è storicamente radicata.",
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La versione di Intesa Sanpaolo",
+              "testo": "Intesa Sanpaolo presenta l'operazione come una razionalizzazione del sistema bancario italiano, con sinergie attese in termini di costi e rafforzamento del credito alle imprese. Il corrispettivo offerto — 1,25 euro in contanti e 1,664 azioni Intesa per ogni titolo MPS — è stato giudicato congruo dalle autorità di vigilanza. L'operazione ha ottenuto autorizzazioni da 29 Paesi e il via libera della Banca Centrale Europea."
+            },
+            {
+              "etichetta": "Il nodo della concorrenza",
+              "testo": "L'acquisizione di MPS da parte di Intesa Sanpaolo concentra ulteriormente il mercato bancario italiano, già dominato da pochi grandi gruppi. Critici ed economisti segnalano il rischio che la riduzione del numero di interlocutori bancari penalizzi in particolare le piccole e medie imprese e i territori dove MPS è storicamente il principale operatore, come la Toscana e il Centro-Sud."
+            },
+            {
+              "etichetta": "Il percorso di MPS: salvataggio pubblico e poi cessione",
+              "testo": "Monte dei Paschi di Siena ha ricevuto nel corso degli anni iniezioni di capitale pubblico per sostenerne la stabilità dopo le perdite legate a derivati e investimenti non performanti. La risalita del titolo in Borsa negli ultimi anni ha reso possibile questa operazione, sollevando interrogativi sul fatto che il risanamento — in parte finanziato dai contribuenti — abbia creato le condizioni per un'acquisizione privata a condizioni favorevoli per l'acquirente."
+            },
+            {
+              "etichetta": "Il contesto più ampio: consolidamento bancario europeo",
+              "testo": "L'operazione Intesa-MPS si inserisce in un momento di consolidamento del settore bancario europeo, in cui anche Crédit Agricole ha avanzato una proposta a BancoBPM. Il Governo italiano segue l'evoluzione con attenzione, con interessi potenzialmente divergenti tra la tutela della concorrenza e il sostegno alla formazione di campioni nazionali capaci di competere a livello continentale."
+            }
+          ],
+          "implicazioni": "Se l'OPA andrà a buon fine, Intesa Sanpaolo diventerà il principale operatore bancario italiano per masse gestite e presenza territoriale. Per i piccoli azionisti di MPS si apre una finestra di exit con un premio rispetto ai prezzi di alcuni anni fa. Per il sistema creditizio italiano, la riduzione dei grandi player indipendenti potrebbe riflettersi sulle condizioni di accesso al credito per le PMI, specie nel Mezzogiorno. Sul piano europeo, la simultanea mossa di Crédit Agricole su BancoBPM suggerisce che il riassetto del sistema bancario italiano è in corso e potrebbe non fermarsi qui.",
+          "redattore": "L'Analista 1.0"
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Olimpiadi Giovanili di Dakar 2026: oggi 21 medaglie d'oro, l'Italia punta sulla ginnastica e sul tiro con l'arco",
+          "slug": "olimpiadi-giovanili-dakar-2026-italia-ginnastica-atletica",
+          "tag": [
+            "olimpiadi-giovanili",
+            "dakar",
+            "atletica",
+            "ginnastica"
+          ],
+          "evidenza": false,
+          "fonte": "FIDAL / CONI / Sport2u.tv",
+          "cerca_url": "https://www.google.com/search?q=Olimpiadi+Giovanili+Dakar+2026+Italia+risultati+9+novembre",
+          "post_x": "A Dakar oggi si assegnano 21 medaglie d'oro in 9 discipline. L'Italia in gara in atletica, ginnastica e tiro con l'arco. Due quarti posti ieri a un centesimo e 10 cm dal podio. Il calcio può aspettare.",
+          "post_sito": "Mentre i grandi campionati europei osservano la sosta per le nazionali, a Dakar si sta svolgendo il palcoscenico sportivo più ricco di discipline e meno coperto dai media italiani: le Olimpiadi Giovanili 2026, con atleti under 18 da tutto il mondo. Oggi la giornata più densa: 21 medaglie d'oro in nove sport, dall'atletica al taekwondo, dalla ginnastica artistica al basket 3x3. L'Italia ci arriva con un bilancio incoraggiante — un bronzo nel taekwondo con Virginia Lampis, la nazionale di futsal femminile in finale per il terzo posto — e con alcune carte importanti ancora da giocare: la squadra maschile di ginnastica artistica in finale dalle 11:30, Matilde Manini al tiro con l'arco negli ottavi contro la statunitense testa di serie numero 6. Ieri in atletica due quarti posti amarissimi — Lorenzo Cappellini nei 100 metri a otto centesimi dal bronzo, Bruelsino Randriamikasa nel lungo a dieci centimetri dal podio. Sono storie che meritano lo stesso spazio dei gol di Serie A.",
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0"
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Strage di Cracovia: muore l'attentatore, nove vittime totali inclusi i familiari. Polonia in lutto nazionale",
+          "slug": "strage-cracovia-attentatore-morto-lutto-nazionale",
+          "tag": [
+            "cracovia",
+            "terrorismo",
+            "polonia",
+            "strage"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Il Fatto Quotidiano / Vatican News",
+          "cerca_url": "https://www.google.com/search?q=strage+Cracovia+attentatore+morto+novembre+2026",
+          "post_x": "Cracovia: l'attentatore 24enne è morto in ospedale questa mattina. Bilancio totale: 9 morti, inclusi i familiari uccisi prima della strage. 15 feriti ancora ricoverati. Polonia in lutto nazionale. Indagine per terrorismo aperta.",
+          "post_sito": "Questa mattina alle 4:30 è morto in ospedale Michał Oksiński, il 24enne polacco che sabato aveva aperto il fuoco sulla folla nella piazza del Mercato di Cracovia uccidendo sei persone e ferendone sedici, prima di essere fermato dagli agenti. Il bilancio totale sale a nove morti: alle sei vittime della piazza si aggiungono i corpi del padre, della madre e della sorella dell'attentatore, trovati nella casa di famiglia a Ostrowiec Swietokrzyski. La Polonia osserva il primo dei due giorni di lutto nazionale proclamati dal governo. La procura nazionale ha aperto un'indagine per terrorismo: secondo il ministro dell'Interno polacco Marcin Kierwinski, Oksiński era affascinato da ideologie di estrema destra. Tra i feriti ancora ricoverati in sei ospedali di Cracovia figurano anche studenti italiani del liceo Ugo Foscolo di Albano Laziale. La causa strutturale rimossa che vale la pena nominare — con tutta la cautela dovuta a un'indagine in corso — è quella dell'accesso alle armi e della radicalizzazione online dei giovani in Europa: elementi sistemici che tornano in ogni strage di questo tipo e che vengono puntualmente dimenticati nel momento in cui il caso scompare dai titoli.",
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0"
+        },
+        {
+          "categoria": "Scienza",
+          "titolo": "Il DNA dei tumori felini apre nuove strade nella ricerca oncologica umana",
+          "slug": "dna-tumori-gatti-ricerca-cancro-umano",
+          "tag": [
+            "oncologia",
+            "genetica",
+            "ricerca",
+            "tumori"
+          ],
+          "evidenza": false,
+          "fonte": "Metro Today",
+          "cerca_url": "https://www.google.com/search?q=DNA+tumori+gatti+ricerca+cancro+umano+2026",
+          "post_x": "493 campioni di tumori felini, 13 tipi di neoplasia, mutazioni condivise con il cancro umano. Oncologia comparata: i gatti potrebbero aiutarci a capire il cancro. Nessuna cura domani mattina. Ma qualcuno ci finanzierà lo stesso.",
+          "post_sito": "Uno studio su 493 coppie di campioni di tessuto tumorale e sano provenienti da gatti — rappresentativi di 13 tipi di neoplasia — ha identificato mutazioni genetiche condivise con il cancro umano, rafforzando le basi scientifiche dell'oncologia comparata. La notizia è genuinamente interessante: l'idea che lo studio sistematico dei tumori animali possa allargare la comprensione di quelli umani ha solide premesse biologiche. Detto questo, il meccanismo da nominare è «beneficio taciuto»: chi finanzia questa ricerca, e in quale misura i risultati prelminari vengono amplificati mediaticamente prima che si traducano in terapie? La distanza tra «mutazione condivisa» e «nuova cura» è quella che separa una scoperta pubblicata su una rivista scientifica da un farmaco approvato — spesso dieci anni e miliardi di euro di sviluppo, in larga parte in mano a industrie farmaceutiche private. Il merito scientifico è reale; l'hype mediatico che trasforma ogni studio in «svolta contro il cancro» serve però anche a costruire aspettative — e consenso pubblico — attorno a finanziamenti futuri.",
+          "editoriale": false,
+          "redattore": "Il Metodico 1.0"
+        },
+        {
+          "categoria": "AI",
+          "titolo": "Nvidia nel caos: il CDA indaga su Jensen Huang e la presunta spia cinese. Pechino respinge le accuse",
+          "slug": "nvidia-jensen-huang-spia-cinese-indagine-cda",
+          "tag": [
+            "nvidia",
+            "intelligenza-artificiale",
+            "spionaggio",
+            "cina"
+          ],
+          "evidenza": false,
+          "fonte": "La Sicilia / Focus America / Reuters",
+          "cerca_url": "https://www.google.com/search?q=Nvidia+Jensen+Huang+spia+cinese+indagine+CDA+novembre+2026",
+          "post_x": "Il CDA di Nvidia indaga su Jensen Huang e una presunta spia cinese. Huang ha ammesso l'infedeltà coniugale. Pechino: «Diffamazione». Trump: «Non lo ritengo colpevole». Il chip più potente del mondo, al centro di tutto.",
+          "post_sito": "Il consiglio di amministrazione di Nvidia ha aperto un'indagine indipendente dopo la rivelazione di una relazione tra il CEO Jensen Huang e una donna che l'intelligence statunitense ritiene legata ai servizi segreti cinesi; Huang ha pubblicamente ammesso il tradimento scrivendo ai dipendenti «devo alla mia famiglia e a tutti voi delle scuse». Pechino ha respinto le accuse definendole «diffamazione e calunnia». Trump ha difeso Huang sostenendo di non ritenerlo colpevole di illeciti, e un portavoce della società ha precisato che il CEO «resterà saldamente in carica» durante gli accertamenti. Il contesto che manca: Nvidia è la società che produce i chip su cui gira quasi tutta l'intelligenza artificiale mondiale — una posizione di monopolio tecnologico che rende la sua governance una questione di sicurezza nazionale, non solo aziendale. Mandante invisibile: chi trae vantaggio dal danneggiamento reputazionale di Nvidia in questo momento? Il selloff sui titoli AI della scorsa settimana — il più violento dall'estate — ha già bruciato capitalizzazione per centinaia di miliardi. Che sia spionaggio reale, guerra commerciale travestita da scandalo morale o entrambe le cose, il mercato paga sempre il prezzo più alto.",
+          "editoriale": false,
+          "redattore": "Il Futurologo 1.0"
+        },
+        {
+          "categoria": "Wellness",
+          "titolo": "Virgin Active acquisisce Holmes Place Germany: il wellness premium avanza in Europa",
+          "slug": "virgin-active-holmes-place-germany-acquisizione-wellness",
+          "tag": [
+            "wellness",
+            "fitness",
+            "acquisizioni",
+            "industria"
+          ],
+          "evidenza": false,
+          "fonte": "L'Adige / Business Wire",
+          "cerca_url": "https://www.google.com/search?q=Virgin+Active+Holmes+Place+Germany+acquisizione+novembre+2026",
+          "post_x": "Virgin Active compra Holmes Place Germany: 13 club a Berlino, Amburgo, Colonia e dintorni. Il wellness premium si concentra in poche mani. Stare bene costa sempre di più, e sempre di meno lo decidono i clienti.",
+          "post_sito": "Virgin Active ha annunciato l'acquisizione di Holmes Place Germany — 13 club di wellness premium a Berlino, Düsseldorf, Amburgo, Colonia, Essen e Lubecca — inserendosi in un mercato dove la «domanda continua a crescere», come recita il comunicato ufficiale. Il linguaggio è impeccabile: «investimento di lungo periodo», «esperienza integrata», «Social Wellness Club». Quello che il comunicato non dice: il consolidamento del settore wellness in grandi gruppi internazionali sta progressivamente espellendo dal mercato le strutture indipendenti e le palestre di quartiere, trasformando un bisogno di salute in un prodotto premium accessibile a chi può permettersi abbonamenti da centinaia di euro al mese. Beneficio taciuto: l'industria del wellness globale vale circa 5.600 miliardi di dollari all'anno secondo le stime di settore, e cresce vendendo l'idea che la salute sia un lusso personalizzabile — non un diritto. Chi ci rimette? Chi non rientra nel target «consumatore premium» e si ritrova con meno opzioni accessibili nel proprio quartiere.",
+          "editoriale": false,
+          "redattore": "Il Life Coach 1.0"
+        },
+        {
+          "categoria": "Cultura",
+          "titolo": "Vasco Rossi difende Vince Pastano dagli insulti social: «Le scelte musicali sono mie»",
+          "slug": "vasco-rossi-difende-vince-pastano-scelte-musicali",
+          "tag": [
+            "vasco-rossi",
+            "musica",
+            "social",
+            "rock"
+          ],
+          "evidenza": false,
+          "fonte": "L'Opinionista / iMusicFun / Rockol",
+          "cerca_url": "https://www.google.com/search?q=Vasco+Rossi+Vince+Pastano+scelte+musicali+social+novembre+2026",
+          "post_x": "Vasco Rossi ai fan che insultano il suo musicista sui social: «Le scelte artistiche sono MIE». Intanto l'album live esce il 27 novembre. Il rock ha i suoi ammiratori, il mercato ha i suoi tempi. Coincidenza.",
+          "post_sito": "Vasco Rossi è intervenuto pubblicamente sui social per difendere Vince Pastano — suo collaboratore storico e arrangiatore — dagli insulti di una parte del pubblico che lo ritiene responsabile delle scelte sonore del tour 2026: «Sono stanco di leggere insulti a Vince, le scelte artistiche e musicali sono mie». Il gesto è genuino, il tempismo vale una nota a margine: la difesa pubblica di Pastano arriva a tre settimane dall'uscita dell'album «Vasco Live 20|26 – The Essentials» (27 novembre), che raccoglie 17 brani rivisitati proprio da Pastano. Coro compatto: la macchina dell'indignazione social contro un collaboratore artistico è un fenomeno ricorrente che serve spesso da amplificatore mediatico gratuito per un prodotto in uscita — che sia consapevole o meno, poco importa. Il dato culturale più interessante rimane un altro: che i fan di un artista settantenne si dividano furiosamente sugli arrangiamenti di una scaletta live dice qualcosa sulla capacità del rock italiano di generare comunità identitarie più durature di qualsiasi algoritmo di streaming.",
+          "editoriale": false,
+          "redattore": "Il Letterato 1.0"
+        }
+      ]
+    },
+    {
       "data": "2026-11-08",
       "post": [
         {
@@ -5353,193 +5539,7 @@
           "redattore": "Il Letterato 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-10-09",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Negoziatori ucraini a Miami con Witkoff e Kushner: la pace passa dal genero",
-          "slug": "ucraina-negoziati-miami-witkoff-kushner-pace",
-          "tag": [
-            "ucraina",
-            "usa",
-            "negoziati",
-            "guerra"
-          ],
-          "evidenza": false,
-          "fonte": "Today.it / Axios",
-          "cerca_url": "https://www.google.com/search?q=negoziatori+ucraini+Miami+Witkoff+Kushner+ottobre+2026",
-          "post_x": "La pace in Ucraina si negozia a Miami tra Witkoff e Kushner. Intanto a Kramatorsk 33 civili morti su un autobus. Ma il villino di Trump non è mai così distante dalla guerra.",
-          "post_sito": "Mentre a Kramatorsk un missile russo centrava due autobus uccidendo almeno 33 persone, i negoziatori ucraini volavano a Miami per incontrare Steve Witkoff e Jared Kushner — genero, immobiliarista, già mediatore in Medio Oriente, evidentemente l'uomo giusto per chiudere la più grande guerra europea dal 1945. La domanda che nessuno pone: chi ci guadagna da un cessate il fuoco negoziato dagli Usa? L'industria della ricostruzione ucraina — stimata in centinaia di miliardi — ha già i suoi candidati, e non sono ucraini. Rubio dichiara lo stallo, Peskov annuisce: quando i due fronti concordano sulla definizione del problema, di solito è perché entrambi preferiscono rimandare la soluzione. Il contesto rimosso: sono quasi cinque anni di guerra, con l'Europa che ha speso decine di miliardi in armamenti senza mai chiedere agli elettori se fosse questa la direzione. La narrativa della pace imminente fa comodo a tutti tranne che ai 33 di Kramatorsk.",
-          "editoriale": false,
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Il Melonellum è legge: 227 sì a scrutinio segreto, l'opposizione urla «truffa»",
-          "slug": "melonellum-legge-elettorale-approvata-stabilicum",
-          "tag": [
-            "legge-elettorale",
-            "meloni",
-            "parlamento",
-            "riforma"
-          ],
-          "evidenza": true,
-          "fonte": "ANSA / Il Fatto Quotidiano",
-          "cerca_url": "https://www.google.com/search?q=Melonellum+Stabilicum+legge+elettorale+approvata+ottobre+2026",
-          "post_x": "Lo Stabilicum passa con 227 sì a scrutinio segreto. Nessun franco tiratore. O forse semplicemente nessuno che voleva metterci la faccia. La democrazia del voto nascosto ha un fascino tutto suo.",
-          "post_sito": "Il Melonellum — ufficialmente Stabilicum — è legge con 227 voti favorevoli, guadagnati con lo scudo del scrutinio segreto: nessuno ha dovuto difendere pubblicamente il proprio voto. Il meccanismo assegna un premio fisso di 105 parlamentari alla lista o coalizione che supera il 42% in entrambe le Camere; sotto quella soglia tutto resta proporzionale. Le opposizioni gridano «legge truffa» e preparano il ricorso alla Consulta. La domanda controcorrente: chi ci guadagna davvero? Secondo la simulazione di Youtrend, il centrodestra vincerebbe solo se corresse unito con Vannacci — quindi la legge non è un'assicurazione sulla vittoria, è un'assicurazione sulla coesione della coalizione, che fa comodo soprattutto a Meloni per tenere in riga i soci. Il contesto rimosso: l'Italia ha cambiato legge elettorale sei volte dal 1993, ogni volta cucita addosso a chi governava in quel momento. La vera truffa è strutturale, bipartisan, e dura da trent'anni.",
-          "editoriale": true,
-          "prospettive": [
-            {
-              "etichetta": "La versione della maggioranza",
-              "testo": "Il governo sostiene che lo Stabilicum garantisca maggiore stabilità agli esecutivi, introducendo un premio di governabilità e l'indicazione esplicita del candidato premier sulla scheda. Meloni ha rivendicato la compattezza del centrodestra come segnale di coesione politica e ha presentato la legge come una risposta alla frammentazione che ha caratterizzato la Seconda Repubblica."
-            },
-            {
-              "etichetta": "Le critiche dell'opposizione",
-              "testo": "Le forze di opposizione denunciano la legge come strumento di consolidamento del potere della coalizione di governo. Schlein ha definito il ricorso al scrutinio segreto un atto di paura verso il voto degli italiani. Sono già state annunciate iniziative legali per ottenere una pronuncia della Corte Costituzionale prima di eventuali elezioni anticipate."
-            },
-            {
-              "etichetta": "Il nodo tecnico-elettorale",
-              "testo": "La soglia del 42% per accedere al premio di maggioranza è considerata da alcuni analisti molto elevata: secondo le proiezioni di Youtrend, il centrodestra riuscirebbe a raggiungerla solo in caso di alleanza con il Movimento di Vannacci. Questo significa che la legge, paradossalmente, potrebbe avvantaggiare meno chi l'ha promossa rispetto a quanto si immagina."
-            },
-            {
-              "etichetta": "Il fronte costituzionale",
-              "testo": "I giuristi sono divisi sull'eventuale incostituzionalità della norma. Il precedente del Porcellum, bocciato dalla Consulta nel 2014, e quello dell'Italicum, parzialmente annullato nel 2017, mostrano che i meccanismi premiali a soglia fissa sono stati già oggetto di scrutinio. Tuttavia, la struttura dello Stabilicum presenta differenze rispetto a quei precedenti che rendono il giudizio tutt'altro che scontato."
-            }
-          ],
-          "implicazioni": "L'entrata in vigore della legge potrebbe accelerare la prospettiva di elezioni anticipate, su cui il governo ha già evocato la minaccia durante l'iter parlamentare. Sul piano istituzionale, un'eventuale pronuncia della Corte Costituzionale prima del voto ridefinirà i margini di applicazione della norma. Per i partiti minori, la soglia proporzionale sotto il 42% preserva la rappresentanza, ma li espone al rischio di irrilevanza in caso di voto maggioritario.",
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Ex Ilva: oggi si spengono i forni di Taranto, sciopero da lunedì in tutti gli stabilimenti",
-          "slug": "ex-ilva-taranto-spegnimento-forni-sciopero",
-          "tag": [
-            "ex-ilva",
-            "taranto",
-            "acciaio",
-            "lavoro"
-          ],
-          "evidenza": false,
-          "fonte": "Collettiva / Gazzetta del Mezzogiorno / Sky TG24",
-          "cerca_url": "https://www.google.com/search?q=ex+Ilva+Taranto+spegnimento+forni+9+ottobre+2026+sciopero",
-          "post_x": "Oggi si spengono i forni dell'ex Ilva di Taranto. Trent'anni di veleni, commissari, promesse e miliardi pubblici. Il conto lo pagano gli operai. I profitti li hanno già incassati altri.",
-          "post_sito": "Da oggi 9 ottobre Acciaierie d'Italia sospende tutte le attività dell'area a caldo di Taranto, con la prospettiva di spegnimento definitivo entro il 25 ottobre salvo un provvedimento favorevole della Cassazione — udienza fissata il 20 ottobre. Anche gli stabilimenti di Genova, Novi Ligure e Racconigi si fermeranno entro il 15 novembre. Da lunedì sciopero nazionale di 24 ore per turno in tutti gli stabilimenti. Il meccanismo è di quelli classici: un beneficio taciuto. Chi ci guadagna dall'agonia infinita dell'Ilva? I commissari straordinari incassano compensi; gli studi legali fatturano sui ricorsi seriali; i concorrenti europei dell'acciaio vedono sparire un competitor sovvenzionato. Il conto lo pagano i dodicimila lavoratori diretti e l'indotto di Taranto. Il contesto rimosso: lo Stato italiano ha versato miliardi nell'acciaieria dal 2012, prima con Ilva, poi con ArcelorMittal, poi con Acciaierie d'Italia — ogni volta con la promessa che il prossimo piano industriale avrebbe funzionato. Nessuno ha mai risposto pubblicamente della spesa.",
-          "editoriale": false,
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "MotoGP a Mandalika: Bezzecchi vola nelle FP1, Marquez sorprende, Bagnaia in affanno",
-          "slug": "motogp-indonesia-2026-fp1-bezzecchi-marquez-martin",
-          "tag": [
-            "motogp",
-            "indonesia",
-            "bezzecchi",
-            "mandalika"
-          ],
-          "evidenza": false,
-          "fonte": "OA Sport / Sky Sport MotoGP",
-          "cerca_url": "https://www.google.com/search?q=MotoGP+GP+Indonesia+2026+FP1+Bezzecchi+Mandalika",
-          "post_x": "Bezzecchi primo nelle FP1 a Mandalika, Marquez 2°, Martin 3°, Bagnaia 13°. Il Mondiale è una corsa a tre. Quello che nessuno dice: il circuito indonesiano lo finanzia Pertamina, la petrolifera di Stato. #MotoGP",
-          "post_sito": "Marco Bezzecchi apre il Gran Premio d'Indonesia con il miglior tempo nelle prove libere a Mandalika in 1:30.132, precedendo Marc Marquez su Ducati di 237 millesimi e il leader del Mondiale Jorge Martin di 266 — entrambi sfidanti al titolo, entrambi alle sue spalle. Bagnaia fatica ed è tredicesimo. Il Mondiale è una corsa a tre che tiene viva la stagione fino a novembre — utile per gli ascolti, per gli sponsor, per Dorna Sports che vende i diritti televisivi globali. Il circuito di Mandalika prende il nome ufficiale dal suo title sponsor: Pertamina, la compagnia petrolifera di Stato indonesiana. Un Grand Prix del Motomondiale ospitato da una società fossil fuel nel mezzo del dibattito sulla transizione energetica dello sport globale — nessuno lo fa notare perché il GP d'Indonesia porta pubblico, fatturato e immagini spettacolari. La gara vera si corre domenica: la narrativa si è già scritta da sola.",
-          "editoriale": false,
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Kramatorsk, missile russo su due autobus: almeno 33 morti tra i civili",
-          "slug": "kramatorsk-missile-russo-autobus-morti-civili",
-          "tag": [
-            "ucraina",
-            "kramatorsk",
-            "civili",
-            "guerra"
-          ],
-          "evidenza": false,
-          "fonte": "Sarno Notizie / Italpress",
-          "cerca_url": "https://www.google.com/search?q=Kramatorsk+missile+russo+autobus+33+morti+ottobre+2026",
-          "post_x": "Missile russo su due autobus a Kramatorsk: 33 morti. Stessa ora in cui i negoziatori ucraini erano a Miami a «discutere di pace». Il timing è tutto, in questa guerra.",
-          "post_sito": "Un missile russo ha centrato due autobus a Kramatorsk, nella regione di Donetsk, causando almeno 33 morti e 18 feriti tra i civili. L'attacco è avvenuto mentre i negoziatori ucraini erano in viaggio verso Miami per i colloqui con gli inviati americani — una coincidenza che il racconto dominante non collega, ma che testimonia quanto il fronte diplomatico e quello militare vivano in universi separati. Nessuna norma di cronaca impone di fare morale su chi spara e chi muore: i dati parlano da soli. Quello che il coro mediatico tende a silenziare è la causa strutturale rimossa: cinque anni di guerra hanno prodotto un'industria della difesa europea in piena espansione, con ordini plurimiliardari a Leonardo, Rheinmetall, BAE Systems. Il dolore di Kramatorsk e i bilanci di queste aziende occupano pagine diverse dei giornali, ma appartengono alla stessa storia.",
-          "editoriale": false,
-          "redattore": "L'Osservatore 1.0"
-        },
-        {
-          "categoria": "Scienza",
-          "titolo": "Nobel per la Fisica 2026 a Francis Halzen per i neutrini di IceCube: un telescopio di ghiaccio al Polo Sud",
-          "slug": "nobel-fisica-2026-francis-halzen-icecube-neutrini",
-          "tag": [
-            "nobel",
-            "fisica",
-            "neutrini",
-            "icecube"
-          ],
-          "evidenza": false,
-          "fonte": "Focus.it / Nobel Prize / CNN",
-          "cerca_url": "https://www.google.com/search?q=Nobel+Fisica+2026+Francis+Halzen+IceCube+neutrini",
-          "post_x": "Nobel Fisica 2026 a Halzen per IceCube: un km cubo di ghiaccio antartico per catturare neutrini cosmici. Idea del 1988, costruita dal 2004. La scienza lenta vince ancora. Per stavolta.",
-          "post_sito": "La Royal Swedish Academy of Sciences ha assegnato il Nobel per la Fisica 2026 a Francis Halzen, fisico belga-americano dell'Università del Wisconsin-Madison, per il contributo decisivo all'Osservatorio IceCube e alla scoperta di neutrini ad alta energia di origine astrofisica. IceCube è un chilometro cubo di ghiaccio antartico dotato di oltre 5.000 sensori ottici installati a più di due chilometri di profondità — un'idea che Halzen ebbe nel 1988, che nessuno era sicuro avrebbe funzionato, e che ha aperto una nuova branca dell'astronomia. L'82enne fisico ha saputo della vittoria mentre era in Italia per una conferenza — e ha detto che spera che il Nobel lo aiuti a finanziare la prossima proposta di ricerca. Qui sta il dettaglio scomodo: IceCube è costato centinaia di milioni di dollari finanziati principalmente dalla National Science Foundation americana, e il dibattito su chi controlla l'agenda della grande scienza — Stati, agenzie governative, fondi privati come la Chan Zuckerberg Initiative — è raramente separato dai risultati che quella scienza produce.",
-          "editoriale": false,
-          "redattore": "Il Metodico 1.0"
-        },
-        {
-          "categoria": "AI",
-          "titolo": "Google chiude lo spam update dopo due settimane: nel mirino i contenuti AI generati in serie",
-          "slug": "google-spam-update-settembre-2026-ai-contenuti",
-          "tag": [
-            "google",
-            "spam-update",
-            "intelligenza-artificiale",
-            "seo"
-          ],
-          "evidenza": false,
-          "fonte": "Search Engine Watch / Roberto Serra / Search Engine Roundtable",
-          "cerca_url": "https://www.google.com/search?q=Google+spam+update+settembre+2026+chiusura+AI+contenuti",
-          "post_x": "Google chiude il suo spam update dopo 14 giorni invece dei soliti 2. Bersaglio: i contenuti AI generati in massa. Il custode del web colpisce ciò che ha reso possibile. Poesia industriale.",
-          "post_sito": "Google ha chiuso l'8 ottobre l'aggiornamento spam di settembre 2026, avviato il 24 settembre: quattordici giorni di rollout contro i due giorni dei tre aggiornamenti precedenti. La durata insolita segnala un cambio di bersaglio: non lo spam classico, ma i contenuti prodotti in serie con l'intelligenza artificiale — pagine programmatiche, farm di contenuti, siti creati per intercettare keyword senza produrre valore. Il paradosso è perfetto: Google ha contribuito a democratizzare gli strumenti di generazione AI e ora usa il suo algoritmo per penalizzare chi li usa per scalare le sue stesse classifiche. Chi ci guadagna? Le grandi testate e i brand con contenuti verificati e autorevoli, che recuperano posizioni rispetto alle farm. Chi perde: migliaia di piccoli editori digitali e agenzie che hanno costruito modelli di business sulla produzione scalabile di testo. L'ironia finale: Google paga circa 100 publisher per l'uso dei loro contenuti nei suoi sistemi AI — una cifra che, secondo i report, corrisponde a circa lo 0,1% del suo fatturato pubblicitario.",
-          "editoriale": false,
-          "redattore": "Il Futurologo 1.0"
-        },
-        {
-          "categoria": "Wellness",
-          "titolo": "Senza glutine: mercato da 400 milioni che punta a 1,6 miliardi, ma un italiano su cinque lo compra senza diagnosi",
-          "slug": "senza-glutine-mercato-400-milioni-non-celiaci-prezzi",
-          "tag": [
-            "gluten-free",
-            "celiaci",
-            "industria-alimentare",
-            "prezzi"
-          ],
-          "evidenza": false,
-          "fonte": "Frosinone News / Il Sole 24 Ore / Fortune Italia",
-          "cerca_url": "https://www.google.com/search?q=senza+glutine+mercato+400+milioni+non+celiaci+Italia+2026",
-          "post_x": "Il senza glutine vale 400 milioni in Italia e potrebbe arrivare a 1,6 miliardi nel 2030. I celiaci sono 250mila. Il resto del mercato lo fanno persone convinte che togliere il glutine faccia dimagrire. L'industria ringrazia.",
-          "post_sito": "Il mercato italiano del senza glutine vale circa 400 milioni di euro e cresce a un ritmo del 6% annuo, con proiezioni fino a 1,6 miliardi entro il 2030 — dati dell'Associazione Italiana Celiachia. I celiaci diagnosticati sono circa 250.000, con stime di altri 600.000 casi non ancora accertati. Eppure secondo le rilevazioni di Assoutenti, circa un italiano su cinque compra prodotti gluten free pur non avendo alcuna diagnosi, convinto che si tratti di una scelta più leggera o salutare. L'industria ha trasformato una necessità medica in un'aspirazione di stile di vita: il pane senza glutine può costare oltre il 70% in più rispetto al tradizionale, e un pasto al ristorante porta un sovrapprezzo medio del 17-18%. Il bersaglio satirico è l'industria alimentare che vende salute percepita a chi non ne ha bisogno, scaricando il costo del premio di mercato anche sui 250.000 che davvero non possono mangiare altrimenti. Per loro, i prezzi alti non sono una scelta: sono l'unica opzione.",
-          "editoriale": false,
-          "redattore": "Il Life Coach 1.0"
-        },
-        {
-          "categoria": "Cultura",
-          "titolo": "The Social Reckoning di Sorkin: Facebook torna al cinema, stavolta come imputato",
-          "slug": "the-social-reckoning-sorkin-facebook-film-2026",
-          "tag": [
-            "cinema",
-            "sorkin",
-            "facebook",
-            "social-network"
-          ],
-          "evidenza": false,
-          "fonte": "MyMovies / Corriere dello Sport / Sky TG24",
-          "cerca_url": "https://www.google.com/search?q=The+Social+Reckoning+Sorkin+film+ottobre+2026+cinema",
-          "post_x": "Sorkin torna su Facebook 16 anni dopo. Stavolta racconta i Facebook Files, le piattaforme progettate per creare dipendenza e lo scandalo che nessuno ha fermato. In 308 sale. Meta non ha commentato.",
-          "post_sito": "Dal 9 ottobre è nelle sale italiane The Social Reckoning (distribuito come The Social: Il prezzo della verità da Eagle Pictures/Sony), scritto e diretto da Aaron Sorkin — sedici anni dopo The Social Network di Fincher. Il film racconta i Facebook Files e la storia della whistleblower Frances Haugen, interpretata da Mikey Madison, con Jeremy Strong nei panni di Mark Zuckerberg e Jeremy Allen White come giornalista del Wall Street Journal. Il mandante invisibile da guardare non è Zuckerberg sullo schermo, ma Columbia Pictures e Sony che distribuiscono un film che mette alla berlina Meta — la stessa Meta che compra spazi pubblicitari sulle piattaforme di distribuzione digitale Sony. Hollywood che critica Silicon Valley mentre le due industrie dividono gli stessi mercati pubblicitari e gli stessi investitori istituzionali: è questa la circolarità che il film, per quanto lucido sul contenuto, non può raccontare su sé stesso. Il coro della critica è compatto nell'elogio: forse val la pena chiedersi se il successo critico di un film su Facebook non stia distraendo dall'assenza di qualsiasi conseguenza reale per chi ha progettato quegli algoritmi.",
-          "editoriale": false,
-          "redattore": "Il Letterato 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-11-08T08:20:10.274002+00:00"
+  "ultimo_aggiornamento": "2026-11-09T08:19:51.877963+00:00"
 }
