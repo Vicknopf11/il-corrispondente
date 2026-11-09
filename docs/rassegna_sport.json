@@ -1,6 +1,22 @@
 {
-  "generato": "2026-11-09T06:30:59.752525+00:00",
+  "generato": "2026-11-09T12:31:06.378720+00:00",
   "item": [
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "NBA: LeBron trascina i Sixers in vetta alla Conference",
+      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/09/nba-lebron-trascina-i-sixers-in-vetta-alla-conference_2d0cf7f8-4ce7-4bb6-a254-d603dc52ba12.html",
+      "fonte": "ANSA Sport",
+      "data_evento": "2026-11-09"
+    },
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Al via la Serie A del Volo. Favre: \"Sia una stagione di crescita, confronto e soddisfazioni\"",
+      "link": "https://www.gazzetta.it/bocce/05-11-2026/bocce-al-via-la-serie-a-del-volo-favre-sia-una-stagione-di-crescita.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-11-05"
+    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
@@ -24,22 +40,6 @@
       "link": "https://www.gazzetta.it/Sport-Vari/04-11-2026/tim-kennedy-ufc-mercenario.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-11-04"
-    },
-    {
-      "sottocategoria": "Squadra",
-      "tipo": "notizia",
-      "titolo": "Monologo Inghilterra, Pollock scatenato: Australia demolita a Twickenham con 7 mete",
-      "link": "https://www.gazzetta.it/Rugby/08-11-2026/rugby-nations-championship-inghilterra-australia-45-22-a-twickenham-con-7-mete.shtml",
-      "fonte": "Gazzetta — Rugby",
-      "data_evento": "2026-11-08"
-    },
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "Maratona al Maradona: una staffetta in memoria di due campioni",
-      "link": "https://www.gazzetta.it/Atletica/06-11-2026/maratona-al-maradona-una-staffetta-in-memoria-di-due-campioni.shtml",
-      "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-11-06"
     }
   ]
 }
