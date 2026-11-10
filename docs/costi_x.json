@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-10",
+      "slug": "mostra-piersanti-mattarella-gallerie-italia-intesa-sanpaolo",
+      "categoria": "Cultura",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-10",
       "slug": "cannabis-terapeutica-carenza-farmacie-pazienti-italia",
       "categoria": "Wellness",
       "evidenza": false,
@@ -1428,14 +1436,6 @@
       "data": "2026-10-21",
       "slug": "mondiali-ginnastica-artistica-rotterdam-fate-finale-italia",
       "categoria": "Sport",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-21",
-      "slug": "btp-valore-ordini-miliardi-banche-manovra-legge-bilancio",
-      "categoria": "Economia",
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
