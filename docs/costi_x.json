@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-10",
+      "slug": "nvidia-jensen-huang-spia-cinese-fbi-indagine",
+      "categoria": "AI",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-10",
       "slug": "cannabis-terapeutica-bedrocan-fallimento-forniture-italia",
       "categoria": "Scienza",
       "evidenza": false,
@@ -1431,14 +1439,6 @@
       "evidenza": true,
       "tipo_richiesta": "ContentCreateWithUrl",
       "costo_usd": 0.2
-    },
-    {
-      "data": "2026-10-21",
-      "slug": "witkoff-putin-pace-ucraina-donbass-cessioni-territoriali",
-      "categoria": "Politica Internazionale",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
     }
   ]
 }
