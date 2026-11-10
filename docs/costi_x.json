@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-10",
+      "slug": "cannabis-terapeutica-carenza-farmacie-pazienti-italia",
+      "categoria": "Wellness",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-10",
       "slug": "nvidia-jensen-huang-spia-cinese-fbi-indagine",
       "categoria": "AI",
       "evidenza": false,
@@ -1431,14 +1439,6 @@
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-21",
-      "slug": "decreto-sicurezza-reato-cortei-quirinale-militari-meloni",
-      "categoria": "Politica Nazionale",
-      "evidenza": true,
-      "tipo_richiesta": "ContentCreateWithUrl",
-      "costo_usd": 0.2
     }
   ]
 }
