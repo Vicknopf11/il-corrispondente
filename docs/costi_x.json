@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-10",
+      "slug": "errani-paolini-wta-finals-indian-wells-2026",
+      "categoria": "Sport",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-10",
       "slug": "credit-agricole-fusione-banco-bpm-terzo-polo-bancario",
       "categoria": "Economia",
       "evidenza": false,
@@ -1428,14 +1436,6 @@
       "data": "2026-10-20",
       "slug": "osteoporosi-giornata-mondiale-ia-diagnosi-radiografie",
       "categoria": "Wellness",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-20",
-      "slug": "consulenza-ia-modello-business-crisi-junior-automazione",
-      "categoria": "AI",
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
