@@ -1,5 +1,5 @@
 {
-  "generato": "2026-11-09T18:31:19.027938+00:00",
+  "generato": "2026-11-10T06:31:09.413320+00:00",
   "item": [
     {
       "sottocategoria": "Acqua",
@@ -18,14 +18,6 @@
       "data_evento": "2026-11-07"
     },
     {
-      "sottocategoria": "Combattimento",
-      "tipo": "notizia",
-      "titolo": "Stella dell'Ufc, imprenditore, soldato dopo l'11-9, mercenario ferito in Africa: la vita da Rambo di Kennedy",
-      "link": "https://www.gazzetta.it/Sport-Vari/04-11-2026/tim-kennedy-ufc-mercenario.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-11-04"
-    },
-    {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
       "titolo": "Dal lavoro nei campi e i combattimenti tra galli al rugby: Tatafu, il gigante tongano della Francia",
@@ -40,6 +32,14 @@
       "link": "https://www.gazzetta.it/Atletica/06-11-2026/maratona-al-maradona-una-staffetta-in-memoria-di-due-campioni.shtml",
       "fonte": "Gazzetta — Atletica",
       "data_evento": "2026-11-06"
+    },
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Al via la Serie A del Volo. Favre: \"Sia una stagione di crescita, confronto e soddisfazioni\"",
+      "link": "https://www.gazzetta.it/bocce/05-11-2026/bocce-al-via-la-serie-a-del-volo-favre-sia-una-stagione-di-crescita.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-11-05"
     }
   ]
 }
