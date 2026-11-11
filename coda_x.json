@@ -1,77 +1,77 @@
 {
-  "data": "2026-11-10",
+  "data": "2026-11-11",
   "tweet": [
     {
-      "testo": "Russia, Ucraina e USA al tavolo di Abu Dhabi. L'Europa è «presente». Ma non al tavolo. Chi decide il futuro dell'Europa? Non l'Europa. #UcrainaRussia",
-      "url": "https://corrispondente.filoclastos.it/2026/11/10/negoziati-ucraina-russia-abu-dhabi-europa-esclusa/",
-      "slug": "negoziati-ucraina-russia-abu-dhabi-europa-esclusa",
+      "testo": "Pace in Ucraina? Ad Abu Dhabi si tratta — mentre i russi bombardano dieci regioni ucraine. Nel retroscena: chi vuole davvero riaprire il gasdotto russo verso l'Europa. Risposta: non Kiev. #AbuDhabi #Ucraina",
+      "url": "https://corrispondente.filoclastos.it/2026/11/11/negoziati-abu-dhabi-russia-ucraina-usa-secondo-giorno/",
+      "slug": "negoziati-abu-dhabi-russia-ucraina-usa-secondo-giorno",
       "categoria": "Politica Internazionale",
       "evidenza": true,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Crosetto porta al Copasir il 13° pacchetto di armi per Kiev. Giorgetti dice di non aver firmato nulla. Tajani dice il contrario. La coalizione di governo: un capolavoro di coordinamento. #governoMeloni",
-      "url": "https://corrispondente.filoclastos.it/2026/11/10/giorgetti-non-firma-aiuti-ucraina-governo-spaccatura/",
-      "slug": "giorgetti-non-firma-aiuti-ucraina-governo-spaccatura",
+      "testo": "Giorgetti non firma il pacchetto di aiuti a Kiev. «Impedimento fisico temporaneo», spiega Meloni. In italiano: Salvini tira il freno a mano, ma nessuno lo dice ad alta voce. Intanto il governo compra 115 F-35. #Lega #Ucraina",
+      "url": "https://corrispondente.filoclastos.it/2026/11/11/giorgetti-aiuti-kiev-lega-frena-meloni-assicura/",
+      "slug": "giorgetti-aiuti-kiev-lega-frena-meloni-assicura",
       "categoria": "Politica Nazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Crédit Agricole offre le «nozze» a Banco BPM: premio del 20% e 1 miliardo agli azionisti. La stampa festeggia il «terzo polo bancario italiano». Italiano. Con i francesi al 45%. #risikobancario",
-      "url": "https://corrispondente.filoclastos.it/2026/11/10/credit-agricole-fusione-banco-bpm-terzo-polo-bancario/",
-      "slug": "credit-agricole-fusione-banco-bpm-terzo-polo-bancario",
+      "testo": "Anthropic vale 1.300 miliardi con perdite da 104 miliardi. In italiano: un'azienda che brucia denaro come una fonderia viene valutata più di tutta Piazza Affari. La nuova economia spiegata ai nipoti. #Anthropic #IPO",
+      "url": "https://corrispondente.filoclastos.it/2026/11/11/anthropic-ipo-nasdaq-valutazione-1300-miliardi/",
+      "slug": "anthropic-ipo-nasdaq-valutazione-1300-miliardi",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Errani e Paolini oggi in campo alle WTA Finals di Indian Wells contro Bucsa/Melichar-Martinez. Dopo il debutto in rimonta su Siniakova/Townsend (4-6, 6-1, 10-8): il doppio italiano che nessuno vuole davvero raccontare. #tennis",
-      "url": "https://corrispondente.filoclastos.it/2026/11/10/errani-paolini-wta-finals-indian-wells-2026/",
-      "slug": "errani-paolini-wta-finals-indian-wells-2026",
+      "testo": "Oggi si assegnano 3 pass olimpici nel tiro a segno, carabina 3 posizioni 50 m. Nessun telecronista urlerà. Nessun opinionista si scalderà. Lo sport che non fa rumore va avanti lo stesso. #TiroASegno #Mondiali",
+      "url": "https://corrispondente.filoclastos.it/2026/11/11/mondiali-tiro-segno-pass-olimpici-carabina-50-metri/",
+      "slug": "mondiali-tiro-segno-pass-olimpici-carabina-50-metri",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "La commissione antimafia certifica: ndrangheta, camorra e Cosa Nostra collaborano al Nord su droga e appalti. La notizia? Non è una notizia. Lo sappiamo da decenni. La novità è che ora è ufficiale. #mafie #Nord",
-      "url": "https://corrispondente.filoclastos.it/2026/11/10/mafie-nord-italia-cartello-antimafia-relazione-2026/",
-      "slug": "mafie-nord-italia-cartello-antimafia-relazione-2026",
+      "testo": "La procura di Milano chiede l'archiviazione per Sala, Boeri e Catella: «Manca la prova della corruzione». Un costruttore era già finito in carcere nell'estate 2025 — poi scarcerato. L'inchiesta che aveva scosso la città si sgonfia. #Milano #Urbanistica",
+      "url": "https://corrispondente.filoclastos.it/2026/11/11/archiviazione-sala-boeri-catella-inchiesta-urbanistica-milano/",
+      "slug": "archiviazione-sala-boeri-catella-inchiesta-urbanistica-milano",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Bedrocan, principale fornitore olandese di cannabis terapeutica per l'Italia, è fallita. La produzione nazionale? 125 kg per il 2026. I pazienti? Come sempre, ultimi. #salute #cannabisterapeutica",
-      "url": "https://corrispondente.filoclastos.it/2026/11/10/cannabis-terapeutica-bedrocan-fallimento-forniture-italia/",
-      "slug": "cannabis-terapeutica-bedrocan-fallimento-forniture-italia",
+      "testo": "Chi smette i farmaci GLP-1 raddoppia il rischio di infarto o ictus. Pubblicato su The Lancet. Chi ci guadagna? Le aziende farmaceutiche ringraziano: il paziente non può smettere. Lo studio lo ammette: non è causale. #GLP1 #Farmaci #Diabete",
+      "url": "https://corrispondente.filoclastos.it/2026/11/11/glp1-stop-rischio-doppio-infarto-ictus-studio-amd-lancet/",
+      "slug": "glp1-stop-rischio-doppio-infarto-ictus-studio-amd-lancet",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Il CEO di Nvidia ha avuto una relazione con una presunta spia cinese. Il CDA apre un'indagine. L'FBI indaga. Il titolo crolla del 4,3%. L'uomo che controlla i chip dell'AI mondiale: sorvegliato male. #Nvidia #AI",
-      "url": "https://corrispondente.filoclastos.it/2026/11/10/nvidia-jensen-huang-spia-cinese-fbi-indagine/",
-      "slug": "nvidia-jensen-huang-spia-cinese-fbi-indagine",
+      "testo": "Oggi sciopero nazionale dei call center: 43mila lavoratori contro i chatbot. I sindacati chiedono la settimana di 32 ore coi guadagni dell'automazione. Le aziende ringraziano l'AI e tagliano. Domani tavolo col governo. #CallCenter #Sciopero #AI",
+      "url": "https://corrispondente.filoclastos.it/2026/11/11/sciopero-call-center-chatbot-ia-43mila-posti-rischio/",
+      "slug": "sciopero-call-center-chatbot-ia-43mila-posti-rischio",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Cannabis terapeutica introvabile nelle farmacie italiane. Il fornitore olandese è fallito. La produzione nazionale: 125 kg. L'industria del wellness vende barrette proteiche a 4 euro. I malati cronici, invece, cercano la loro terapia da soli. #salute",
-      "url": "https://corrispondente.filoclastos.it/2026/11/10/cannabis-terapeutica-carenza-farmacie-pazienti-italia/",
-      "slug": "cannabis-terapeutica-carenza-farmacie-pazienti-italia",
+      "testo": "Meno di un anziano su due si vaccina contro l'influenza in Italia. Siamo tornati sotto le soglie OMS. Nel frattempo il mercato degli integratori «immunitari» fattura miliardi. Due sistemi paralleli: uno funziona, l'altro si vende bene. #Influenza #Vaccini",
+      "url": "https://corrispondente.filoclastos.it/2026/11/11/influenza-vaccinazione-anziani-italia-copertura-bassa/",
+      "slug": "influenza-vaccinazione-anziani-italia-copertura-bassa",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Intesa Sanpaolo apre una mostra su Piersanti Mattarella, il presidente della Regione Siciliana ucciso dalla mafia nel 1980. Il potere finanzia la memoria del potere onesto. Benvenuti nell'Italia del 2026. #cultura #memoria",
-      "url": "https://corrispondente.filoclastos.it/2026/11/10/mostra-piersanti-mattarella-gallerie-italia-intesa-sanpaolo/",
-      "slug": "mostra-piersanti-mattarella-gallerie-italia-intesa-sanpaolo",
+      "testo": "Apre a Firenze «Lo schermo dell'arte»: film d'artista, memoria, migrazioni, crisi ambientale. Ingresso libero under 30. Streaming gratuito su MYmovies ONE. Un festival che esiste da 19 anni senza avere bisogno di un supereroe in locandina. #LoSchermoDAarte #Firenze",
+      "url": "https://corrispondente.filoclastos.it/2026/11/11/lo-schermo-dellarte-firenze-2026-19-edizione/",
+      "slug": "lo-schermo-dellarte-firenze-2026-19-edizione",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }

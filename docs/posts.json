@@ -1,6 +1,397 @@
 {
   "edizioni": [
     {
+      "data": "2026-11-11",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Negoziati trilaterali ad Abu Dhabi: Russia, Ucraina e USA al secondo giorno",
+          "slug": "negoziati-abu-dhabi-russia-ucraina-usa-secondo-giorno",
+          "tag": [
+            "ucraina",
+            "russia",
+            "usa",
+            "pace"
+          ],
+          "evidenza": true,
+          "fonte": "AGI / Il Fatto Quotidiano / LaPresse",
+          "cerca_url": "https://www.google.com/search?q=negoziati+Abu+Dhabi+Russia+Ucraina+USA+11+novembre+2026",
+          "post_x": "Pace in Ucraina? Ad Abu Dhabi si tratta — mentre i russi bombardano dieci regioni ucraine. Nel retroscena: chi vuole davvero riaprire il gasdotto russo verso l'Europa. Risposta: non Kiev. #AbuDhabi #Ucraina",
+          "post_sito": "Oggi ad Abu Dhabi si tiene il secondo giorno dei colloqui trilaterali tra Russia, Ucraina e Stati Uniti — mediati dall'inviato Trump Steve Witkoff e da Jared Kushner, con la delegazione russa guidata da Vladimir Medinsky. Il coro mediatico celebra il «dialogo» come un passo verso la pace. Quello che si tace è che sullo sfondo circola una proposta americana — riportata dal Wall Street Journal — di riprendere le forniture di gas russo verso l'Europa attraverso i gasdotti ucraini come parte di un accordo. Beneficio taciuto: Mosca incasserebbe i proventi del gas, le major energetiche europee tornerebbero ad avere un fornitore a basso costo, e gli Emirati — che ospitano il tavolo — consoliderebbero il loro ruolo di hub diplomatico globale. L'Europa, nel frattempo, è stata esclusa dal tavolo da Mosca: partecipa solo a un incontro separato con Washington a Bruxelles. La guerra continua: nelle ore precedenti al secondo round, le forze russe hanno colpito dieci regioni ucraine e cinque sottostazioni elettriche, con un bilancio di almeno nove morti e trentanove feriti. La diplomazia si muove su un binario, i missili su un altro.",
+          "fatti": [
+            {
+              "testo": "Il portavoce del Cremlino Dmitry Peskov ha confermato che i colloqui trilaterali tra Russia, Stati Uniti e Ucraina si sono tenuti ad Abu Dhabi il 10 e 11 novembre, con la delegazione russa guidata da Vladimir Medinsky.",
+              "fonte": "ANSA / RSI",
+              "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/03/witkoff-gli-usa-medieranno-colloqui-abu-dhabi-a-livello-tecnico-tra_f1426921-d8c7-4650-be79-16c63e8fda53.html"
+            },
+            {
+              "testo": "Nelle ore precedenti al secondo giorno di negoziati, le forze russe hanno colpito dieci regioni ucraine e cinque sottostazioni elettriche: il bilancio riportato è di almeno 9 morti e 39 feriti.",
+              "fonte": "Radio Bullets",
+              "url": "https://www.radiobullets.com/notiziari/11-novembre-2026-notiziario-mondo/"
+            },
+            {
+              "testo": "Secondo quanto riferito dal Wall Street Journal, nell'ambito dei negoziati gli USA sostengono una rapida ripresa delle vendite di gas naturale russo verso l'Europa tramite gasdotti che attraversano l'Ucraina.",
+              "fonte": "Il Fatto Quotidiano",
+              "url": "https://www.ilfattoquotidiano.it/2026/11/03/guerra-ucraina-russia-negoziati-abu-dhabi-notizie/8558643/"
+            },
+            {
+              "testo": "La Russia ha escluso l'Europa dal tavolo di Abu Dhabi: le delegazioni UE e NATO hanno tenuto solo un incontro preliminare separato con la parte americana e ucraina, senza la Russia.",
+              "fonte": "AGI",
+              "url": "https://www.agi.it/estero/news/2026-11-10/russia-ucraina-negoziati-abu-dhabi-39972512/"
+            },
+            {
+              "testo": "L'Italia ha partecipato alla riunione di coordinamento con gli inviati statunitensi Witkoff e Kushner tramite il consigliere per la sicurezza nazionale Fabrizio Saggio.",
+              "fonte": "LaPresse",
+              "url": "https://www.lapresse.it/esteri/2026/11/10/ucraina-ad-abu-dhabi-i-negoziati-trilaterali-tra-russia-usa-e-kiev-la-diretta/"
+            }
+          ],
+          "incerto": [
+            "Non è noto se il secondo giorno di negoziati abbia prodotto un accordo o impegni concreti: le parti hanno espresso cauto apprezzamento senza annunciare risultati.",
+            "Non è confermato ufficialmente se la proposta di ripristino del transito del gas russo attraverso l'Ucraina sia stata formalmente discussa al tavolo."
+          ],
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La versione diplomatica",
+              "testo": "Per la Casa Bianca e l'inviato Witkoff, il secondo giorno di colloqui ad Abu Dhabi rappresenta un avanzamento concreto nel percorso verso la pace, con discussioni su sicurezza nel dopoguerra, de-escalation e interventi umanitari. Il primo giorno è stato definito «costruttivo e piuttosto concreto» dal viceministro russo Ryabkov. La partecipazione attiva di tutte e tre le parti a un tavolo tecnico è presentata come un risultato di per sé rilevante, dopo mesi di stasi diplomatica."
+            },
+            {
+              "etichetta": "La posizione di Kiev e dell'Europa",
+              "testo": "L'Ucraina partecipa ai negoziati con la priorità dichiarata di liberare i prigionieri e preservare l'integrità territoriale del paese. Gli alleati europei, esclusi dal tavolo da Mosca, si confrontano separatamente con Washington a Bruxelles sulle garanzie di sicurezza e sulla ricostruzione. Il ministro Tajani ha dichiarato che l'obiettivo italiano è creare «condizioni per negoziati che rafforzino l'Ucraina, la sua indipendenza e sicurezza»."
+            },
+            {
+              "etichetta": "La posizione russa",
+              "testo": "Mosca ha imposto come condizione per qualsiasi intesa la definizione preventiva della cosiddetta «architettura di sicurezza» in Europa, ovvero il ridimensionamento della presenza NATO ai confini russi. Su questo punto la distanza con l'Occidente resta massima. La Russia ha inoltre escluso l'Europa dal tavolo diretto, limitando la sua interlocuzione agli USA."
+            },
+            {
+              "etichetta": "Il nodo energetico sullo sfondo",
+              "testo": "Secondo fonti citate dal Wall Street Journal, Washington avrebbe proposto nell'ambito delle trattative una ripresa del transito del gas russo attraverso i gasdotti ucraini, con i proventi versati in conti vincolati. Questa ipotesi avvantaggerebbe economicamente sia Mosca (entrate dal gas) sia Kiev (tariffe di transito), ma ricostituirebbe una dipendenza energetica europea dalla Russia che l'UE ha cercato di smantellare dal 2022. La proposta non è stata confermata ufficialmente da nessuna delle parti."
+            }
+          ],
+          "implicazioni": "Se i colloqui di Abu Dhabi producessero anche solo un cessate il fuoco temporaneo, le conseguenze sarebbero enormi: per l'economia europea (prezzi energetici, ricostruzione ucraina), per l'industria della difesa (i titoli del settore hanno registrato forte volatilità nelle ultime settimane), e per gli equilibri interni alle coalizioni di governo in diversi paesi europei, Italia compresa, dove la Lega ha già espresso contrarietà all'ulteriore pacchetto di aiuti militari a Kiev. L'eventuale ripristino del transito del gas russo ridisegnerebbe inoltre la geografia energetica del continente, con effetti sulle scelte di investimento già fatte nell'ultimo biennio su rigassificatori e fonti alternative.",
+          "redattore": "Il Corrispondente Estero 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Giorgetti e gli aiuti a Kiev: la Lega frena, Meloni assicura",
+          "slug": "giorgetti-aiuti-kiev-lega-frena-meloni-assicura",
+          "tag": [
+            "lega",
+            "ucraina",
+            "manovra",
+            "maggioranza"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Il Post / tp24",
+          "cerca_url": "https://www.google.com/search?q=Giorgetti+aiuti+Ucraina+Lega+Meloni+firma+novembre+2026",
+          "post_x": "Giorgetti non firma il pacchetto di aiuti a Kiev. «Impedimento fisico temporaneo», spiega Meloni. In italiano: Salvini tira il freno a mano, ma nessuno lo dice ad alta voce. Intanto il governo compra 115 F-35. #Lega #Ucraina",
+          "post_sito": "Oggi Palazzo Chigi è teatro di uno dei rituali più rodati della politica italiana: la tensione interna alla maggioranza viene imboscata sotto una spiegazione tecnica. Il ministro dell'Economia Giorgetti non ha ancora firmato il tredicesimo pacchetto di aiuti all'Ucraina — mentre il ministro Crosetto è al Copasir per il passaggio formale. Meloni spiega che si tratta di un «impedimento fisico temporaneo». I giornali titolano diversamente: fonti Lega parlano di «contrarietà politica» del partito di Salvini sugli aiuti per il 2027. Mandante invisibile del gelo: non il singolo ministro, ma la parte di elettorato leghista che preferisce un accordo con Mosca a nuove forniture militari a Kiev. Nel frattempo il governo accelera sull'acquisto di 115 F-35, con buona pace del pacifismo d'accatto. Chi ci guadagna dall'ambiguità? L'industria della difesa — Leonardo è ai massimi storici — e Salvini, che si posiziona per le prossime elezioni su un profilo meno atlantista. Doppio standard: se un ministro di centrosinistra avesse ritardato una firma strategica in sede internazionale, i titoli sarebbero stati tutt'altri.",
+          "fatti": [
+            {
+              "testo": "Meloni ha dichiarato che il mancato invio degli aiuti all'Ucraina da parte di Giorgetti è un «impedimento fisico temporaneo» e che «la posizione dell'Italia non cambierà».",
+              "fonte": "ANSA",
+              "url": "https://ansa.it/sito/notizie/politica/2026/11/10/ucraina-meloni-sempre-trovata-una-sintesi-la-posizione-dellitalia-non-cambiera_83808254-a528-4178-aee1-ade2f46fc15d.html"
+            },
+            {
+              "testo": "Fonti Lega hanno dichiarato la «contrarietà politica» del partito sul decreto legge degli aiuti a Kiev per il 2027, con uno scontro al Copasir tra Borghi e Crosetto sull'elenco delle armi.",
+              "fonte": "tp24 / ANSA",
+              "url": "https://tp24.it/2026/11/11/cronaca/11-novembre-cade-l-inchiesta-sull-urbanistica-a-milano-minacce-a-tajani-colloqui-tra-russi-e-ucraini/242010"
+            },
+            {
+              "testo": "Il governo ha accelerato sull'acquisto di 115 F-35, secondo quanto riportato dalla rassegna stampa del 11 novembre.",
+              "fonte": "tp24",
+              "url": "https://tp24.it/2026/11/11/cronaca/11-novembre-cade-l-inchiesta-sull-urbanistica-a-milano-minacce-a-tajani-colloqui-tra-russi-e-ucraini/242010"
+            }
+          ],
+          "incerto": [
+            "Non è confermato se e quando Giorgetti firmerà effettivamente il pacchetto di aiuti, né se la Lega formalizzerà la sua opposizione in sede parlamentare."
+          ],
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Anthropic verso il Nasdaq: IPO da 1.300 miliardi con una perdita da 104 miliardi",
+          "slug": "anthropic-ipo-nasdaq-valutazione-1300-miliardi",
+          "tag": [
+            "anthropic",
+            "ipo",
+            "intelligenza-artificiale",
+            "wall-street"
+          ],
+          "evidenza": false,
+          "fonte": "Wall Street Italia / Il Fatto Quotidiano / Borsa Italiana",
+          "cerca_url": "https://www.google.com/search?q=Anthropic+IPO+Nasdaq+valutazione+novembre+2026",
+          "post_x": "Anthropic vale 1.300 miliardi con perdite da 104 miliardi. In italiano: un'azienda che brucia denaro come una fonderia viene valutata più di tutta Piazza Affari. La nuova economia spiegata ai nipoti. #Anthropic #IPO",
+          "post_sito": "Anthropic ha depositato i termini della sua offerta pubblica iniziale al Nasdaq con il ticker «ANT», fissando la forchetta di prezzo tra 70 e 78 dollari per azione, con una valutazione diluita che si aggira attorno ai 1.300 miliardi di dollari — cifra già ridimensionata rispetto ai 2.000 miliardi inizialmente previsti. La società di Dario Amodei ha registrato nei primi nove mesi del 2026 ricavi per 33 miliardi di dollari (crescita di circa il 1.200% su base annua), ma ha contestualmente accumulato una perdita netta di 104 miliardi. Il prospetto rivela anche un impegno futuro di circa 895 miliardi di dollari in accordi per computing e infrastrutture. Chi ci guadagna? Sette grandi colossi tecnologici pronti a investire 26 miliardi nel collocamento privato parallelo all'IPO, le banche che gestiscono il deal e i venture capital che entrano con valutazioni da record privato. Il coro compatto attorno all'AI come industria «inevitabile» abbassa la soglia critica degli investitori: nessuno chiede quando arriverà il profitto, si compra la narrativa. Domanda che il mercato non fa: cosa succede se i ricavi non crescono al ritmo promesso e quei 895 miliardi di impegni restano fissi?",
+          "fatti": [
+            {
+              "testo": "Anthropic ha depositato il 10 novembre i termini dell'IPO al Nasdaq con il ticker ANT, con una forchetta tra 70 e 78 dollari per azione e una valutazione diluita di circa 1.300 miliardi di dollari.",
+              "fonte": "Wall Street Italia / Filosofare sui mercati",
+              "url": "https://www.wallstreetitalia.com/anthropic-scopre-le-carte-sullipo-debutto-al-nasdaq-il-19-novembre/"
+            },
+            {
+              "testo": "Nei nove mesi terminati il 30 settembre 2026, Anthropic ha registrato ricavi per 33,24 miliardi di dollari e una perdita netta di 104 miliardi.",
+              "fonte": "Wall Street Italia",
+              "url": "https://www.wallstreetitalia.com/anthropic-scopre-le-carte-sullipo-debutto-al-nasdaq-il-19-novembre/"
+            },
+            {
+              "testo": "Anthropic si è impegnata per circa 895 miliardi di dollari in accordi futuri per computing e infrastrutture, secondo il prospetto IPO citato da BloFin Research.",
+              "fonte": "News Google / Filosofare sui mercati",
+              "url": "https://www.filosofaresuimercati.eu/2026/11/10/10-11-26-barrons-anthropic-tira-dritto-verso-la-borsa-ma-la-valutazione-scende-da-2-000-a-circa-1-300-miliardi/"
+            },
+            {
+              "testo": "Il debutto al Nasdaq di Anthropic è previsto per il 19 novembre 2026.",
+              "fonte": "Wall Street Italia",
+              "url": "https://www.wallstreetitalia.com/anthropic-scopre-le-carte-sullipo-debutto-al-nasdaq-il-19-novembre/"
+            }
+          ],
+          "incerto": [
+            "La valutazione finale dipenderà dall'andamento del book building e dalle condizioni di mercato nei giorni precedenti al 19 novembre: alcuni investitori hanno già ipotizzato un'ulteriore revisione al ribasso."
+          ],
+          "editoriale": false,
+          "redattore": "L'Analista 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Mondiali di tiro a segno: in palio tre pass olimpici nella carabina 3 posizioni 50 metri maschile",
+          "slug": "mondiali-tiro-segno-pass-olimpici-carabina-50-metri",
+          "tag": [
+            "tiro-a-segno",
+            "mondiali",
+            "pass-olimpici",
+            "sport-invernali"
+          ],
+          "evidenza": false,
+          "fonte": "OA Sport",
+          "cerca_url": "https://www.google.com/search?q=Mondiali+tiro+segno+carabina+50+metri+pass+olimpici+11+novembre+2026",
+          "post_x": "Oggi si assegnano 3 pass olimpici nel tiro a segno, carabina 3 posizioni 50 m. Nessun telecronista urlerà. Nessun opinionista si scalderà. Lo sport che non fa rumore va avanti lo stesso. #TiroASegno #Mondiali",
+          "post_sito": "Mentre i giornali sportivi riempiono le prime pagine di mercato calcistico — Tresoldi al Milan, Endrick alla Roma, Scamacca alla Juventus — oggi si disputano le finali dei Mondiali di tiro a segno con in palio tre pass olimpici nella carabina 3 posizioni da 50 metri maschile, trasmessi gratuitamente sul canale YouTube ISSF. La finale è accessibile a chiunque, senza abbonamento: informazione che vale la pena dare esplicitamente, visto che gli sport cosiddetti minori vengono spesso raccontati come se esistessero solo quando c'è un oro olimpico da celebrare. Chi ci guadagna dall'invisibilità di questi appuntamenti? Le piattaforme a pagamento che non hanno acquistato i diritti, e quindi non hanno interesse a pubblicizzare contenuti gratuiti concorrenti. Il tiro a segno a livello mondiale è uno sport di precisione assoluta, con atleti che si allenano anni per millimetri: forse merita almeno un titolo.",
+          "fatti": [
+            {
+              "testo": "Oggi 11 novembre si disputano le finali dei Mondiali di tiro a segno con in palio 3 pass olimpici nella carabina 3 posizioni da 50 metri maschile, trasmesse sul canale YouTube ISSF.",
+              "fonte": "OA Sport",
+              "url": "https://www.oasport.it/2026/11/sport-in-tv-oggi-mercoledi-11-novembre-orari-e-programma-completo-come-vedere-gli-eventi-in-streaming-2/"
+            },
+            {
+              "testo": "Proseguono anche le qualificazioni del trap maschile e femminile ai Mondiali 2026 di tiro a volo, senza copertura tv o streaming.",
+              "fonte": "OA Sport",
+              "url": "https://www.oasport.it/2026/11/sport-in-tv-oggi-mercoledi-11-novembre-orari-e-programma-completo-come-vedere-gli-eventi-in-streaming-2/"
+            }
+          ],
+          "incerto": [
+            "Non sono noti in anticipo i nomi degli atleti qualificati alla finale né i risultati, da verificare a gara conclusa."
+          ],
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Milano: procura chiede archiviazione per Sala, Boeri e Catella nell'inchiesta urbanistica",
+          "slug": "archiviazione-sala-boeri-catella-inchiesta-urbanistica-milano",
+          "tag": [
+            "milano",
+            "urbanistica",
+            "archiviazione",
+            "giustizia"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Il Foglio / TGCom24",
+          "cerca_url": "https://www.google.com/search?q=archiviazione+Sala+Boeri+Catella+inchiesta+urbanistica+Milano+2026",
+          "post_x": "La procura di Milano chiede l'archiviazione per Sala, Boeri e Catella: «Manca la prova della corruzione». Un costruttore era già finito in carcere nell'estate 2025 — poi scarcerato. L'inchiesta che aveva scosso la città si sgonfia. #Milano #Urbanistica",
+          "post_sito": "La procura di Milano ha depositato una richiesta di archiviazione per il sindaco Giuseppe Sala, l'architetto Stefano Boeri, l'ex assessore Giancarlo Tancredi e il CEO di Coima Manfredi Catella: le ipotesi di falso, corruzione e induzione indebita legate alla gestione urbanistica milanese e alla Commissione paesaggio non reggono in giudizio, secondo i pm. La causa strutturale rimossa dal racconto dominante è la seguente: l'inchiesta aveva portato nell'estate 2025 all'arresto di Andrea Bezziccheri — costruttore poi scarcerato dopo che il Riesame e la Cassazione avevano bocciato la misura cautelare. Chi ha pagato quel costo? Bezziccheri, con la libertà personale. Ora i suoi avvocati parlano di «atto dovuto che non cancella le tracce indelebili di una restrizione ingiustificata». Il quadro di Milano — città dove il settore immobiliare vale miliardi e il confine tra lobbying e corruzione è spesso questione di interpretazione — rimane intatto. L'archiviazione non è una sentenza: spetta ora al GIP decidere. Le indagini su altri filoni restano aperte.",
+          "fatti": [
+            {
+              "testo": "La Procura di Milano ha chiesto al GIP l'archiviazione per il sindaco Giuseppe Sala, l'architetto Stefano Boeri, l'ex assessore Giancarlo Tancredi e il CEO di Coima Manfredi Catella per le ipotesi di falso, corruzione e induzione indebita legate all'inchiesta urbanistica.",
+              "fonte": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/10/nessuna-corruzione-ne-pressioni-archiviare-sala-boeri-e-catella_88fa0456-761c-47e9-b672-004558a268c2.html"
+            },
+            {
+              "testo": "La richiesta di archiviazione riguarda anche il costruttore Andrea Bezziccheri, che finì in carcere nell'estate 2025 e fu scarcerato dopo che il Riesame e la Cassazione avevano bocciato la misura cautelare.",
+              "fonte": "Gazzetta del Sud / Il Foglio",
+              "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/10/nessuna-corruzione-ne-pressioni-archiviare-sala-boeri-e-catella_88fa0456-761c-47e9-b672-004558a268c2.html"
+            },
+            {
+              "testo": "La procura ha formulato la richiesta in sedici pagine, motivando con «l'assenza di una provvista probatoria idonea a sostenere l'accusa in giudizio» per le posizioni di Sala e degli altri indagati.",
+              "fonte": "LaPresse",
+              "url": "https://www.lapresse.it/cronaca/2026/11/10/inchiesta-urbanistica-milano-chiesta-larchiviazione-per-sala-boeri-e-catella/"
+            }
+          ],
+          "incerto": [
+            "La decisione finale sull'archiviazione spetta al GIP, che si esprimerà nei prossimi mesi; altri filoni dell'inchiesta urbanistica milanese restano aperti."
+          ],
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Scienza",
+          "titolo": "Stop ai farmaci GLP-1: studio AMD su oltre 80mila pazienti associa l'interruzione a rischio doppio di infarto, ictus o morte",
+          "slug": "glp1-stop-rischio-doppio-infarto-ictus-studio-amd-lancet",
+          "tag": [
+            "glp-1",
+            "diabete",
+            "farmaci",
+            "cardiovascolare"
+          ],
+          "evidenza": false,
+          "fonte": "The Wom Healthy / Mondosanità / The Lancet Regional Health – Europe",
+          "cerca_url": "https://www.google.com/search?q=GLP-1+stop+rischio+infarto+ictus+studio+AMD+Lancet+2026",
+          "post_x": "Chi smette i farmaci GLP-1 raddoppia il rischio di infarto o ictus. Pubblicato su The Lancet. Chi ci guadagna? Le aziende farmaceutiche ringraziano: il paziente non può smettere. Lo studio lo ammette: non è causale. #GLP1 #Farmaci #Diabete",
+          "post_sito": "Uno studio dell'Associazione Medici Diabetologi (AMD), pubblicato su «The Lancet Regional Health – Europe» e basato su oltre 80.000 pazienti con diabete di tipo 2, rileva che chi interrompe la terapia con farmaci agonisti del recettore GLP-1 presenta un rischio combinato di infarto, ictus o morte circa doppio rispetto a chi continua: circa 4 eventi ogni 100 persone all'anno contro 2. Il dato circola da ieri su tutti i media sanitari con titoli che richiamano la certezza. Il falso equilibrio sta nell'omettere il limite principale: lo studio è osservazionale, non dimostra un nesso causale, e gli autori lo scrivono esplicitamente. Beneficio taciuto: i GLP-1 (Ozempic, Wegovy, Mounjaro) sono tra i farmaci più venduti al mondo. Uno studio che associa la loro interruzione a eventi gravi rafforza strutturalmente la narrativa della «terapia cronica inevitabile», con vantaggio evidente per chi li produce. Il coordinatore dello studio, Antonio Ceriello, è ricercatore all'IRCCS MultiMedica di Milano: fondi, affiliazioni e conflitti di interesse non emergono dai titoli. Nessuno di questi elementi invalida la ricerca — che resta rilevante — ma il coro mediatico ha già trasformato un dato osservazionale in sentenza.",
+          "fatti": [
+            {
+              "testo": "Uno studio dell'Associazione Medici Diabetologi (AMD) su oltre 80.000 pazienti, pubblicato su The Lancet Regional Health – Europe, rileva che chi interrompe i farmaci GLP-1 presenta circa 4 eventi cardiovascolari o decessi ogni 100 persone all'anno, contro 2 di chi continua la terapia.",
+              "fonte": "Mondosanità / InSaluteNews",
+              "url": "https://www.insalutenews.it/in-salute/diabete-e-farmaci-glp-1-la-continuita-della-terapia-e-associata-a-un-minor-rischio-di-eventi-cardiovascolari-e-morte/"
+            },
+            {
+              "testo": "Gli autori precisano che lo studio è osservazionale e non permette di stabilire un rapporto di causa-effetto tra l'interruzione dei GLP-1 e l'aumento degli eventi cardiovascolari.",
+              "fonte": "The Wom Healthy",
+              "url": "https://healthy.thewom.it/news/stop-ai-farmaci-glp-1-rischio-doppio-di-infarto-ictus-o-morte/"
+            },
+            {
+              "testo": "Il coordinatore dello studio è Antonio Ceriello, ricercatore dell'IRCCS MultiMedica di Milano e past president AMD.",
+              "fonte": "Mondosanità",
+              "url": "https://www.mondosanita.it/news/studi-e-ricerca/114879/diabete-di-tipo-2-chi-interrompe-i-glp-1-ha-un-rischio-doppio-di-infarto-o-ictus.html"
+            }
+          ],
+          "incerto": [
+            "Lo studio non chiarisce se l'aumento del rischio sia determinato direttamente dall'interruzione della terapia o da condizioni di salute peggiori preesistenti in chi sospende il trattamento."
+          ],
+          "editoriale": false,
+          "redattore": "Il Metodico 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "AI",
+          "titolo": "Sciopero dei call center: 43mila lavoratori fermi contro i chatbot che li sostituiscono",
+          "slug": "sciopero-call-center-chatbot-ia-43mila-posti-rischio",
+          "tag": [
+            "intelligenza-artificiale",
+            "lavoro",
+            "call-center",
+            "sciopero"
+          ],
+          "evidenza": false,
+          "fonte": "Il Messaggero / Il Giornale d'Italia / Rivoluzione Anarchica",
+          "cerca_url": "https://www.google.com/search?q=sciopero+call+center+Italia+11+novembre+2026+AI+chatbot",
+          "post_x": "Oggi sciopero nazionale dei call center: 43mila lavoratori contro i chatbot. I sindacati chiedono la settimana di 32 ore coi guadagni dell'automazione. Le aziende ringraziano l'AI e tagliano. Domani tavolo col governo. #CallCenter #Sciopero #AI",
+          "post_sito": "Oggi, 11 novembre, i call center italiani in appalto si sono fermati per uno sciopero nazionale di 24 ore, indetto da Slc Cgil, Fistel Cisl e Uilfpc Uil. Al centro della mobilitazione: l'impatto crescente di chatbot e assistenti virtuali sul settore, che rischiano di mettere a rischio decine di migliaia di posti. Il settore conta circa 43.000 lavoratori ai quali si applica il contratto delle telecomunicazioni, con il 70% concentrato al Sud — un dettaglio che spiega perché la politica risponde con lentezza: il Mezzogiorno non è mai abbastanza urgente finché non è periodo elettorale. Beneficio taciuto: chi guadagna dalla sostituzione degli operatori con l'AI? Le aziende committenti — Telecom, banche, assicurazioni — che risparmiano sul costo del lavoro, e le società che vendono le piattaforme di automazione. Domani, 12 novembre, è previsto un tavolo al Ministero delle Imprese con il ministro Urso e la ministra Calderone. I sindacati propongono di redistribuire i guadagni di produttività generati dall'automazione in una settimana lavorativa di 32 ore senza tagli allo stipendio: una proposta che esiste in altri paesi europei, ma che in Italia viene trattata come fantascienza.",
+          "fatti": [
+            {
+              "testo": "Oggi 11 novembre i call center italiani in appalto si sono fermati per uno sciopero nazionale di 24 ore, indetto da Slc Cgil, Fistel Cisl e Uilfpc Uil.",
+              "fonte": "Il Messaggero",
+              "url": "https://www.ilmessaggero.it/italia/sciopero_call_center_a_rischio_licenziamento-9881741.html"
+            },
+            {
+              "testo": "Il comparto dei call center in appalto conta circa 43.000 lavoratori ai quali si applica il contratto collettivo delle telecomunicazioni, con il 70% dei lavoratori concentrato al Sud.",
+              "fonte": "Il Giornale d'Italia",
+              "url": "https://www.ilgiornaleditalia.it/news/cronaca/836768/call-center-sciopero-nazionale-oggi-11-novembre-13mila-posti-a-rischio-per-l-ia-il-70-dei-lavoratori-e-al-sud.html"
+            },
+            {
+              "testo": "Il giorno dopo lo sciopero, il 12 novembre, è previsto un tavolo nazionale al Ministero delle Imprese con il ministro Urso e la ministra del Lavoro Calderone.",
+              "fonte": "Il Messaggero",
+              "url": "https://www.ilmessaggero.it/italia/sciopero_call_center_a_rischio_licenziamento-9881741.html"
+            },
+            {
+              "testo": "La piattaforma sindacale include la proposta di ridurre l'orario di lavoro a 32 ore settimanali senza tagli allo stipendio, utilizzando i guadagni di produttività generati dall'automazione.",
+              "fonte": "Il Giornale d'Italia",
+              "url": "https://www.ilgiornaleditalia.it/news/cronaca/836768/call-center-sciopero-nazionale-oggi-11-novembre-13mila-posti-a-rischio-per-l-ia-il-70-dei-lavoratori-e-al-sud.html"
+            }
+          ],
+          "incerto": [
+            "Non è noto l'esito del tavolo ministeriale previsto per il 12 novembre, né se il governo accoglierà le richieste sindacali sulla riduzione d'orario o sugli ammortizzatori sociali."
+          ],
+          "editoriale": false,
+          "redattore": "Il Futurologo 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Wellness",
+          "titolo": "Influenza: meno di un anziano su due si vaccina, l'Italia arretra",
+          "slug": "influenza-vaccinazione-anziani-italia-copertura-bassa",
+          "tag": [
+            "influenza",
+            "vaccini",
+            "prevenzione",
+            "anziani"
+          ],
+          "evidenza": false,
+          "fonte": "Qui Salute Magazine",
+          "cerca_url": "https://www.google.com/search?q=vaccino+influenza+anziani+Italia+copertura+2026",
+          "post_x": "Meno di un anziano su due si vaccina contro l'influenza in Italia. Siamo tornati sotto le soglie OMS. Nel frattempo il mercato degli integratori «immunitari» fattura miliardi. Due sistemi paralleli: uno funziona, l'altro si vende bene. #Influenza #Vaccini",
+          "post_sito": "Meno di un anziano su due si è vaccinato contro l'influenza in Italia: il Paese è tornato sotto le soglie raccomandate dall'OMS, che indica come obiettivo una copertura del 75% nella popolazione anziana. Il dato emerge in apertura di stagione influenzale, mentre sugli scaffali di farmacie e parafarmacie proliferano prodotti «per l'immunità» — integratori di vitamina C, zinco, echinacea, lattoferrina — per i quali l'eufemismo di potere è «supporto alle difese naturali». L'industria del wellness immunitario vale miliardi in Italia, venduta con la stessa urgenza con cui si dovrebbe promuovere un vaccino che costa pochi euro e ha decenni di letteratura scientifica alle spalle. Beneficio taciuto: chi guadagna dalla bassa copertura vaccinale? Chi vende i sostituti. Chi ci rimette? Il Servizio Sanitario Nazionale, con costi di ospedalizzazione per le complicanze influenzali negli anziani che ogni anno costano centinaia di milioni. L'industria del benessere non è colpevole di questa distorsione — ma di essa approfitta.",
+          "fatti": [
+            {
+              "testo": "Meno di un anziano su due si è vaccinato contro l'influenza in Italia nella stagione in corso, secondo quanto riportato da Qui Salute Magazine il 10 novembre 2026.",
+              "fonte": "Qui Salute Magazine",
+              "url": "https://quisalute.online/"
+            }
+          ],
+          "incerto": [
+            "I dati definitivi sulla copertura vaccinale antinfluenzale per la stagione 2026-27 non sono ancora disponibili: il dato citato è preliminare e relativo alle prime settimane della campagna vaccinale."
+          ],
+          "editoriale": false,
+          "redattore": "Il Life Coach 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Cultura",
+          "titolo": "«Lo schermo dell'arte» apre a Firenze: cinema d'artista tra capitali del contemporaneo e memoria collettiva",
+          "slug": "lo-schermo-dellarte-firenze-2026-19-edizione",
+          "tag": [
+            "cinema",
+            "arte-contemporanea",
+            "firenze",
+            "festival"
+          ],
+          "evidenza": false,
+          "fonte": "Exibart / TG Regione / Il Giornale d'Italia",
+          "cerca_url": "https://www.google.com/search?q=Lo+schermo+dell+arte+Firenze+2026+19+edizione",
+          "post_x": "Apre a Firenze «Lo schermo dell'arte»: film d'artista, memoria, migrazioni, crisi ambientale. Ingresso libero under 30. Streaming gratuito su MYmovies ONE. Un festival che esiste da 19 anni senza avere bisogno di un supereroe in locandina. #LoSchermoDAarte #Firenze",
+          "post_sito": "Oggi apre a Firenze la 19ª edizione de «Lo schermo dell'arte», festival di cinema e arte contemporanea diretto da Silvia Lucchesi, in programma fino al 15 novembre al Cinema La Compagnia e in diversi luoghi della città — Palazzo Strozzi, il Museo di Geologia e Paleontologia, NYU Florence, l'European University Institute e IED Firenze. La Opening Night presenta «Euphoria» di Julian Rosefeldt, descritto come un ipnotico viaggio attraverso la storia del capitalismo e dell'avidità umana: un tema che gli organizzatori probabilmente non hanno scelto per caso in questo momento storico. Il focus 2026 è dedicato alla regista uzbeka Saodat Ismailova, vincitrice dell'Art Basel Award 2025, la cui ricerca scava nella memoria collettiva dell'Asia centrale. Evento speciale: le ultime opere di Jean-Luc Godard in mostra alla Strozzina, tra cui il cortometraggio completato il giorno prima della sua morte. Una selezione del programma è disponibile in streaming gratuito dall'11 al 22 novembre su MYmovies ONE — l'accesso libero under 30 è garantito anche in sala. Mandante invisibile della sopravvivenza del festival: il sostegno pubblico della Regione Toscana, senza il quale questo tipo di cultura «non commerciale» semplicemente non esiste. Vale la pena dirlo.",
+          "fatti": [
+            {
+              "testo": "La 19ª edizione de «Lo schermo dell'arte», diretta da Silvia Lucchesi, apre l'11 novembre al Cinema La Compagnia di Firenze e prosegue fino al 15 novembre in diversi luoghi della città.",
+              "fonte": "Exibart / TG Regione",
+              "url": "https://exibart.com/cinema/lo-schermo-dellarte-2026-a-firenze-le-nuove-geografie-del-cinema-dartista"
+            },
+            {
+              "testo": "Il film di apertura è «Euphoria» (2026) dell'artista tedesco Julian Rosefeldt, presentato in anteprima italiana l'11 novembre.",
+              "fonte": "Il Giornale d'Italia",
+              "url": "https://www.ilgiornaleditalia.it/news/spettacolo/834493/lo-schermo-dellarte-festival-di-cinema-e-arte-contemporanea-a-firenze-dall11-al-15-novembre-2026.html"
+            },
+            {
+              "testo": "Una selezione dei film sarà disponibile in streaming dall'11 al 22 novembre 2026 sul canale permanente «Lo schermo dell'arte» su MYmovies ONE; l'ingresso in sala è libero per gli under 30.",
+              "fonte": "Mediakey / TG Regione",
+              "url": "https://www.tgregione.it/firenze-torna-lo-schermo-dellarte-dal-cinema-alle-nuove-visioni-contemporanee/"
+            },
+            {
+              "testo": "L'evento speciale include la mostra delle ultime opere di Jean-Luc Godard alla Strozzina, tra cui il cortometraggio «Scénarios» (2024), completato il giorno prima della sua morte.",
+              "fonte": "Exibart",
+              "url": "https://exibart.com/cinema/lo-schermo-dellarte-2026-a-firenze-le-nuove-geografie-del-cinema-dartista"
+            }
+          ],
+          "incerto": [],
+          "editoriale": false,
+          "redattore": "Il Letterato 1.0",
+          "fatti_verificati": true
+        }
+      ],
+      "controlli": {
+        "url_ricerca": 110,
+        "fatti_proposti": 29,
+        "fatti_scartati": 0,
+        "giorni_corretti": [],
+        "virgolette_riparate": 0
+      }
+    },
+    {
       "data": "2026-11-10",
       "post": [
         {
@@ -5571,189 +5962,7 @@
           "redattore": "Il Letterato 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-10-11",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Trump scarica Zelensky: «L'Ucraina trovi un nuovo presidente» dopo il patto del diesel con Putin",
-          "slug": "trump-scarica-zelensky-nuovo-presidente-patto-diesel-putin",
-          "tag": [
-            "ucraina",
-            "trump",
-            "russia",
-            "geopolitica"
-          ],
-          "evidenza": true,
-          "fonte": "La Repubblica / Sky TG24",
-          "cerca_url": "https://www.google.com/search?q=Trump+Zelensky+nuovo+presidente+accordo+diesel+Putin+ottobre+2026",
-          "post_x": "Trump vuole un nuovo Zelensky. Non perché ama l'Ucraina — ma perché ha appena comprato il diesel di Putin. Il vero accordo di pace non è tra Russia e Ucraina: è tra Washington e le raffinerie di Mosca. #TrumpPutin",
-          "post_sito": "Tutti indignati per Trump che scarica Zelensky. Nessuno che si chieda chi ci guadagna dall'accordo sul diesel russo — e sono 300.000 tonnellate di carburante a prezzi calmierati, in un'America che va alle urne di midterm nel 2026. Beneficio taciuto: le compagnie petrolifere americane che temevano la concorrenza russa protestano in silenzio, mentre i consumatori alla pompa applaudono. Il coro mediatico si concentra sul dramma di Kiev, ma dimentica che Washington chiedeva agli ucraini già da settimane di smettere di colpire le raffinerie russe — minacciando di tagliare la condivisione dell'intelligence. L'ultimatum a Zelensky non è nato stanotte: era già scritto nelle pipeline diplomatiche da mesi. Nel frattempo, a Zaporizhzhia continuano a morire civili — venti, compresi tre bambini — e quella notizia occupa tre righe in fondo alla pagina.",
-          "editoriale": true,
-          "prospettive": [
-            {
-              "etichetta": "La posizione di Washington",
-              "testo": "L'amministrazione Trump ha annunciato un accordo per l'acquisto di oltre 300.000 tonnellate di diesel russo, presentato come misura per calmierare i prezzi dei carburanti sul mercato interno americano. Trump ha contestualmente invitato l'Ucraina a trovare una leadership capace di negoziare con Mosca, accusando Zelensky di contribuire alle tensioni energetiche globali attraverso gli attacchi alle infrastrutture petrolifere russe. La Casa Bianca ha già prospettato conseguenze sulla condivisione delle informazioni di intelligence con Kiev nel caso in cui gli attacchi continuino."
-            },
-            {
-              "etichetta": "La posizione di Kiev e dell'Europa",
-              "testo": "Zelensky ha definito l'accordo sul diesel un regalo diretto a Vladimir Putin, sostenendo che l'allentamento delle sanzioni garantirà nuove entrate a Mosca rendendo più difficile spingere il Cremlino verso un negoziato credibile. Unione Europea e Gran Bretagna hanno preso le distanze dall'intesa, ribadendo il sostegno a Kiev e avvertendo che finanziare le esportazioni energetiche russe equivale a finanziare lo sforzo bellico. Diversi esponenti repubblicani, tra cui il deputato Brian Fitzpatrick, hanno annunciato proposte bipartisan per bloccare gli acquisti di petrolio russo."
-            },
-            {
-              "etichetta": "Il nodo energetico e gli interessi economici",
-              "testo": "L'accordo si inserisce in un contesto di pressioni crescenti sui prezzi dei carburanti negli Stati Uniti. L'intesa solleva interrogativi sugli attori economici che traggono vantaggio dalla riapertura dei canali commerciali con la Russia: da un lato le aziende di trading che intermediano le forniture, dall'altro le raffinerie americane che potrebbero beneficiare di materia prima più economica. Il Cremlino ha intanto escluso una ripresa immediata dei negoziati di pace, segnale che Mosca non considera l'accordo commerciale come preludio a concessioni politiche."
-            }
-          ],
-          "implicazioni": "Se l'accordo sul diesel diventasse un modello, potrebbe segnare un progressivo allentamento del regime sanzionatorio occidentale nei confronti della Russia, riducendo la pressione economica su Mosca e complicando le prospettive di un negoziato che preveda garanzie per l'integrità territoriale ucraina. Sul piano interno americano, l'intesa potrebbe rafforzare il consenso di Trump in vista delle elezioni di midterm, ma rischia di approfondire la frattura con gli alleati europei sulla gestione del conflitto.",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Lo Stabilicum è legge: la quarta riforma elettorale in vent'anni, con premio al 42%",
-          "slug": "stabilicum-legge-elettorale-premio-maggioranza-42-percento",
-          "tag": [
-            "legge-elettorale",
-            "stabilicum",
-            "meloni",
-            "centrodestra"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Pagella Politica",
-          "cerca_url": "https://www.google.com/search?q=Stabilicum+legge+elettorale+approvata+Camera+ottobre+2026",
-          "post_x": "Quattro leggi elettorali in vent'anni. Porcellum, Italicum, Rosatellum, ora Stabilicum. Cambiano i nomi, cambia chi governa, resta invariato il principio: la legge elettorale la scrive chi vuole vincere con essa. Democrazia, in senso lato.",
-          "post_sito": "Il centrodestra esulta per lo Stabilicum — la quarta legge elettorale in vent'anni, approvata con 227 sì e 164 no dopo tre voti di fiducia, blindata come un fortino. Il premio di maggioranza scatta al 42% dei voti: 70 seggi in più alla Camera e 35 al Senato per chi supera la soglia. Dettaglio utile: con i sondaggi attuali, quel 42% è quasi irraggiungibile senza Fratelli di Nazione di Vannacci — il che significa che la legge che «stabilizza» in realtà lega il centrodestra a una dipendenza strutturale dall'estrema destra. Mandante invisibile: gli spin doctor di palazzo Chigi che hanno costruito una legge su misura per lo scenario elettorale del 2027, non per il bene dell'architettura democratica. L'opposizione grida alla truffa, ma dimentica di aver fatto la stessa cosa con l'Italicum nel 2015. Il doppio standard è il vero filo rosso della storia costituzionale italiana.",
-          "editoriale": false,
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Nvidia punta ai 6.000 miliardi di capitalizzazione: mai nessuna azienda nella storia aveva raggiunto questa soglia",
-          "slug": "nvidia-6000-miliardi-capitalizzazione-record-storico",
-          "tag": [
-            "nvidia",
-            "borsa",
-            "intelligenza-artificiale",
-            "wall-street"
-          ],
-          "evidenza": false,
-          "fonte": "Il Messaggero / Borsa Italiana",
-          "cerca_url": "https://www.google.com/search?q=Nvidia+6000+miliardi+capitalizzazione+record+ottobre+2026",
-          "post_x": "Nvidia si avvicina a 6.000 miliardi di dollari di capitalizzazione. Pil italiano: circa 2.100 miliardi. Tre volte l'Italia per vendere chip che servono ad addestrare IA che sostituiranno lavoratori italiani. Il ciclo è elegante.",
-          "post_sito": "Nvidia vola verso i 6.000 miliardi di dollari di capitalizzazione di borsa — una cifra mai raggiunta nella storia da nessuna azienda al mondo. Il titolo ha guadagnato oltre il 30% da inizio anno, aggiungendo circa 1.300 miliardi di capitalizzazione. Chi ci guadagna, concretamente: Jensen Huang e i grandi fondi istituzionali americani che pesano pesantemente sul Nasdaq 100 — Nvidia vale l'8% dell'S&P 500, quindi ogni fondo pensione americano (e molti europei) è esposto. Beneficio taciuto: Nvidia non si limita più a vendere processori — ha comprato Hugging Face per 13 miliardi, sta trattando l'acquisto di Reflection AI (già valutata 25 miliardi a marzo), e ha autorizzato un buyback azionario da 150 miliardi. In altre parole: usa il denaro che guadagna per comprare o finanziare le aziende che quei processori li usano. Un'integrazione verticale da monopolio, costruita sotto gli occhi di un'antitrust americana che guarda da un'altra parte. Il rapporto prezzo-utili è circa 46, quasi il doppio della media S&P, ma nessuno vuole essere il primo a uscire dalla festa.",
-          "editoriale": false,
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Mondiali di judo a Baku: l'Italia chiude con quattro medaglie, oggi la prova a squadre miste contro la Georgia",
-          "slug": "mondiali-judo-baku-2026-italia-medaglie-squadre-miste",
-          "tag": [
-            "judo",
-            "mondiali",
-            "baku",
-            "azzurri"
-          ],
-          "evidenza": false,
-          "fonte": "OA Sport / Eurosport",
-          "cerca_url": "https://www.google.com/search?q=Mondiali+judo+Baku+2026+Italia+medaglie+squadre+miste",
-          "post_x": "L'Italia del judo chiude i Mondiali di Baku con 4 medaglie — Scutto, Giuffrida, Pirelli e la finale per il bronzo di Tavano. Oggi la prova a squadre. I giornali sportivi aprono su Como-Roma. Nulla di strano.",
-          "post_sito": "Mentre i quotidiani sportivi italiani aprivano sull'ennesima giornata di Serie A, la squadra azzurra di judo stava scrivendo una delle pagine più belle della propria storia recente ai Mondiali di Baku. Assunta Scutto ha conquistato l'argento, Odette Giuffrida il bronzo nei -52 kg (nonostante un grave infortunio a una spalla di soli tre mesi fa), Gennaro Pirelli il bronzo nei -100 kg, e Asya Tavano ha raggiunto la finale per il terzo posto tra i pesi massimi. Oggi, giornata conclusiva, l'Italia affronta subito la Georgia campione del mondo in carica nella prova a squadre miste. Il conto dietro la medaglia: il judo italiano produce risultati con risorse sistematicamente inferiori a quelle di federazioni finanziate da stati petroliferi o da strutture professionistiche. Non è un caso che i campioni vengano spesso da famiglie che hanno sacrificato anni di stipendi per portare i figli agli allenamenti. Visibilità zero, risultati eccellenti: il meccanismo funziona nonostante il sistema, non grazie a esso.",
-          "editoriale": false,
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Castellammare di Stabia: muore a 33 anni dopo le dimissioni, muore anche la bambina che aspettava",
-          "slug": "castellammare-greta-astarita-morta-incinta-dimissioni-ospedale",
-          "tag": [
-            "sanita",
-            "campania",
-            "maternita",
-            "cronaca"
-          ],
-          "evidenza": false,
-          "fonte": "Cronache della Campania / Il Messaggero",
-          "cerca_url": "https://www.google.com/search?q=Greta+Astarita+Castellammare+morta+incinta+ospedale+San+Leonardo+2026",
-          "post_x": "Greta Astarita, 33 anni, al settimo mese di gravidanza. Dimessa con un dolore all'inguine. Morta due ore dopo, insieme alla sua bambina. La Procura indaga. Qualcuno spiegherà ai familiari cos'è il commissariamento ospedaliero.",
-          "post_sito": "Greta Astarita aveva 33 anni, era al settimo mese di gravidanza con la sua seconda figlia, e si era presentata al pronto soccorso dell'ospedale San Leonardo di Castellammare di Stabia con un dolore all'inguine. Era stata visitata, rassicurata e dimessa. Due ore dopo era in coma. Poi è morta lei, e prima ancora la sua bambina. La Procura di Torre Annunziata ha aperto un'inchiesta e sequestrato le cartelle cliniche — al momento non risultano accertate responsabilità, e gli accertamenti dovranno chiarire le cause. Quello che si sa già — e che il racconto dominante tende a lasciare sullo sfondo — è il contesto strutturale: la tragedia avviene a soli tre giorni dall'arresto dell'ex primaria di ginecologia dello stesso ospedale per il decesso di un neonato avvenuto due anni fa in sala parto. La causa strutturale rimossa è quella di un sistema sanitario campano che porta i segni di anni di commissariamento, di carenze di personale, di ospedali sotto pressione cronica. Senza questo contesto, ogni indagine rischia di diventare la ricerca di un singolo colpevole invece che di una responsabilità collettiva e politica. I familiari chiedono verità: è il minimo che meritano.",
-          "editoriale": false,
-          "redattore": "L'Osservatore 1.0"
-        },
-        {
-          "categoria": "Scienza",
-          "titolo": "Nobel per la Chimica 2026 a Kagan e Soai: come una molecola impara a scegliere la propria forma",
-          "slug": "nobel-chimica-2026-kagan-soai-sintesi-asimmetrica-autocatalisi",
-          "tag": [
-            "nobel",
-            "chimica",
-            "farmaci",
-            "ricerca"
-          ],
-          "evidenza": false,
-          "fonte": "Il Fatto Quotidiano / Il Post",
-          "cerca_url": "https://www.google.com/search?q=Nobel+Chimica+2026+Kagan+Soai+sintesi+asimmetrica",
-          "post_x": "Nobel Chimica 2026 a Kagan e Soai per l'autocatalisi asimmetrica. Le loro scoperte sono «decisive per chi progetta farmaci». Chi produce quei farmaci e quanto li fa pagare resta, ovviamente, un dettaglio.",
-          "post_sito": "Il Nobel per la Chimica 2026 premia Henri B. Kagan e Kenso Soai per aver risolto uno dei misteri più antichi della biochimica: come mai gli organismi viventi utilizzano solo una delle due forme speculari delle molecole organiche, e come questa asimmetria possa nascere e amplificarsi spontaneamente. La «reazione di Soai» — secondo dati pubblicati da fonti scientifiche — è in grado di amplificare un eccesso enantiomerico iniziale di appena lo 0,00005% fino a oltre il 99,5% in tre cicli. Sul piano pratico, la motivazione dell'Accademia svedese è esplicita: le scoperte sono decisive per chi progetta reazioni nella produzione di farmaci, aromi e nuovi materiali. Beneficio taciuto: l'industria farmaceutica globale vale migliaia di miliardi di dollari e la sintesi asimmetrica è alla base di moltissimi principi attivi brevettati. Il Nobel incorona decenni di ricerca accademica — spesso finanziata con fondi pubblici — i cui frutti commerciali sono stati monopolizzati da grandi gruppi privati. La domanda su chi guadagna quando una scoperta premiata a Stoccolma diventa una molecola sul mercato non è retorica: è la domanda che il coro mediatico non fa mai.",
-          "editoriale": false,
-          "redattore": "Il Metodico 1.0"
-        },
-        {
-          "categoria": "AI",
-          "titolo": "Editori e musicisti all'assalto dell'Europa: «L'AI usa i nostri contenuti senza pagare»",
-          "slug": "editori-musicisti-europa-ai-copyright-contenuti-gratuiti",
-          "tag": [
-            "intelligenza-artificiale",
-            "copyright",
-            "editori",
-            "europa"
-          ],
-          "evidenza": false,
-          "fonte": "Editoria.tv",
-          "cerca_url": "https://www.google.com/search?q=editori+musicisti+Europa+AI+copyright+contenuti+ottobre+2026",
-          "post_x": "Editori e case musicali chiedono all'Europa di fermare l'AI che usa i loro contenuti gratis. Dimenticano di aver fatto la stessa cosa con Google per vent'anni. Ma questa volta i ricavi vanno ad altri, e cambia tutto.",
-          "post_sito": "La battaglia tra industria editoriale e intelligenza artificiale si sposta in Europa: associazioni di editori e case discografiche chiedono regole più efficaci per impedire l'utilizzo non autorizzato dei propri contenuti da parte dei modelli AI, rivendicando trasparenza e remunerazione adeguata. Il problema è reale: le redazioni sostengono i costi di produzione giornalistica mentre i sistemi AI possono usare quei contenuti per costruire risposte direttamente agli utenti, erodendo il traffico che trasforma le notizie in ricavi pubblicitari. Mandante invisibile: la stessa Commissione europea ha avviato il 29 settembre 2026 una consultazione per capire se le norme attuali siano sufficienti — consultazione che avviene mentre l'AI Act è già in vigore e impone obblighi di trasparenza ai fornitori di modelli. Il coro compatto degli editori merita però una domanda scomoda: questi stessi editori hanno firmato accordi di licenza con alcune big tech e non con altre, scegliendo i propri alleati commerciali prima ancora che arrivasse il regolatore. La difesa del copyright è legittima; va verificato quando diventa anche difesa di rendite di posizione.",
-          "editoriale": false,
-          "redattore": "Il Futurologo 1.0"
-        },
-        {
-          "categoria": "Wellness",
-          "titolo": "Milano Wellness Week: una settimana di yoga e pilates gratuiti. L'industria del benessere ringrazia",
-          "slug": "milano-wellness-week-yoga-pilates-gratuiti-industria-benessere",
-          "tag": [
-            "wellness",
-            "milano",
-            "benessere",
-            "marketing"
-          ],
-          "evidenza": false,
-          "fonte": "Panorama",
-          "cerca_url": "https://www.google.com/search?q=Wellness+Week+Milano+ottobre+2026+attivita+gratuite",
-          "post_x": "Milano Wellness Week: una settimana di attività gratuite su yoga, pilates e longevità. Gratis, finché non compri il corso, l'abbonamento, l'integratore o la membership alla community. Il benessere è gratuito. L'accesso al benessere no.",
-          "post_sito": "Si conclude oggi a Milano la terza edizione della Wellness Week, una settimana di attività gratuite — yoga, pilates, walking, pratiche olistiche — ideata dalla community di Licia Florio e distribuita in tutta la città. L'iniziativa ha un valore genuino di accessibilità, e va riconosciuto. Ma il bastian contrario fa notare che ogni «settimana gratuita» del benessere funziona come un campione omaggio: abbassa la soglia di ingresso per poi rialzarla con abbonamenti, prodotti e sessioni a pagamento. Il mercato globale del wellness vale centinaia di miliardi di dollari e cresce ogni anno, mentre i servizi pubblici di salute mentale sono in crisi strutturale in tutta Italia. Ottobre è anche il mese dedicato alla prevenzione del tumore al seno — e qui l'industria beauty si affianca ad AIRC con campagne solidali che generano visibilità e vendite insieme. Nulla di scandaloso, ma utile sapere che «fare del bene» e «fare affari» non si escludono mai, nel wellness come altrove.",
-          "editoriale": false,
-          "redattore": "Il Life Coach 1.0"
-        },
-        {
-          "categoria": "Cultura",
-          "titolo": "Rai 1 in prima serata con Biagio Conte, il Middle East Now a Firenze si chiude con l'Afghanistan: la cultura che non fa rumore",
-          "slug": "biagio-conte-rai-middle-east-now-firenze-cultura-invisibile",
-          "tag": [
-            "cultura",
-            "cinema",
-            "rai",
-            "medio-oriente"
-          ],
-          "evidenza": false,
-          "fonte": "L'Opinionista / Firenze Today",
-          "cerca_url": "https://www.google.com/search?q=Middle+East+Now+Firenze+2026+Writing+Hawa+Biagio+Conte+Rai+1",
-          "post_x": "Rai 1 manda in onda la vita di Biagio Conte mentre a Firenze il Middle East Now chiude con un documentario sull'Afghanistan di una regista che non può più girare film. La cultura che conta va in prima serata. Quella scomoda va nei festival.",
-          "post_sito": "Domenica 11 ottobre il palinsesto culturale italiano si divide in due mondi paralleli che non si toccano. Su Rai 1, in prima serata, il film tv dedicato a Biagio Conte, missionario laico palermitano — storia edificante, nessun rischio, pubblico garantito. A Firenze, al Cinema La Compagnia, il Middle East Now chiude la sua 17ª edizione con la prima di «Writing Hawa», documentario dell'afgana Najiba Noori che racconta il coraggio di una donna in un paese dove le donne non possono più fare cinema né andare a scuola. Trentasei film e documentari, mostre, performance — e pochissima attenzione mediatica nazionale. Beneficio taciuto: il sistema televisivo pubblico finanzia con soldi di tutti i contenuti che non disturbano nessuno, mentre la cultura che interroga — quella mediorientale, quella scomoda, quella che parla di guerra vera e non di eroismi consolatori — sopravvive grazie a festival finanziati a fatica da fondazioni e contributi locali. La distribuzione dell'attenzione culturale non è neutrale: riflette esattamente quali storie un sistema vuole raccontare e quali preferisce tenere in circuiti dove fanno meno rumore.",
-          "editoriale": false,
-          "redattore": "Il Letterato 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-11-10T08:21:10.175575+00:00"
+  "ultimo_aggiornamento": "2026-11-11T08:21:15.180035+00:00"
 }
