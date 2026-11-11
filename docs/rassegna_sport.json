@@ -1,13 +1,13 @@
 {
-  "generato": "2026-11-10T18:31:03.961374+00:00",
+  "generato": "2026-11-11T06:31:09.052392+00:00",
   "item": [
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
-      "titolo": "Soldini: \"Sono stato due volte naufrago, adesso salvo quelli che arrivano sui barconi\"",
-      "link": "https://www.gazzetta.it/Sport-Vari/08-11-2026/giovanni-soldini-intervista.shtml",
+      "titolo": "Federica Pellegrini e Dino Meneghin nominati Ambasciatori della Grande Milano",
+      "link": "https://www.gazzetta.it/Sport-Vari/10-11-2026/pellegrini-e-meneghin-ambasciatori-della-grande-milano.shtml",
       "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-11-08"
+      "data_evento": "2026-11-10"
     },
     {
       "sottocategoria": "Racchette e precisione",
@@ -20,10 +20,11 @@
     {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
-      "titolo": "L'Elefante, il Cardinale, Quesada e Contepomi: Italrugby-Argentina rivincita di Hindú-Newman",
-      "link": "https://www.gazzetta.it/Rugby/10-11-2026/rugby-italia-argentina-rivincita-di-hindu-newman.shtml",
-      "fonte": "Gazzetta — Rugby",
-      "data_evento": "2026-11-10"
+      "titolo": "La grande lezione che arriva dall'Iowa: ogni rincorsa è possibile se...",
+      "link": "https://www.gazzetta.it/Nba/06-11-2026/josh-turek-caitlyn-clark-iowa-arturi-gazzetta.shtml",
+      "fonte": "Gazzetta — Paralimpici",
+      "data_evento": "2026-11-06",
+      "paralimpico": true
     },
     {
       "sottocategoria": "Atletica",
