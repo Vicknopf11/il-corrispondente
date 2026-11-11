@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-11",
+      "slug": "lo-schermo-dellarte-firenze-2026-19-edizione",
+      "categoria": "Cultura",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-11",
       "slug": "influenza-vaccinazione-anziani-italia-copertura-bassa",
       "categoria": "Wellness",
       "evidenza": false,
@@ -1428,14 +1436,6 @@
       "data": "2026-10-22",
       "slug": "semaglutide-linee-guida-esc-cuore-reni-novo-nordisk",
       "categoria": "Wellness",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-22",
-      "slug": "meta-25-miliardi-cambridge-analytica-new-mexico-bug-web-ia",
-      "categoria": "AI",
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
