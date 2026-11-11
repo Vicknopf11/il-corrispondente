@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-11",
+      "slug": "giorgetti-aiuti-kiev-lega-frena-meloni-assicura",
+      "categoria": "Politica Nazionale",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-11",
       "slug": "negoziati-abu-dhabi-russia-ucraina-usa-secondo-giorno",
       "categoria": "Politica Internazionale",
       "evidenza": true,
@@ -1431,14 +1439,6 @@
       "evidenza": true,
       "tipo_richiesta": "ContentCreateWithUrl",
       "costo_usd": 0.2
-    },
-    {
-      "data": "2026-10-21",
-      "slug": "gdf-banca-occulta-ndrangheta-camorra-30-arresti-criptovalute",
-      "categoria": "Cronaca",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
     }
   ]
 }
