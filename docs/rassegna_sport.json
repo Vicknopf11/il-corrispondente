@@ -1,6 +1,14 @@
 {
-  "generato": "2026-11-11T12:31:03.982898+00:00",
+  "generato": "2026-11-11T18:31:07.832991+00:00",
   "item": [
+    {
+      "sottocategoria": "Combattimento",
+      "tipo": "notizia",
+      "titolo": "Ike Ibeabuchi: ascesa e caduta di \"The President\", sconfitto solo dal nemico interiore",
+      "link": "https://www.gazzetta.it/Sport-Vari/11-11-2026/ike-ibeabuchi-ascesa-e-caduta-di-the-president.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-11-11"
+    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
@@ -20,10 +28,10 @@
     {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
-      "titolo": "L'Elefante, il Cardinale, Quesada e Contepomi: Italrugby-Argentina rivincita di Hindú-Newman",
-      "link": "https://www.gazzetta.it/Rugby/10-11-2026/rugby-italia-argentina-rivincita-di-hindu-newman.shtml",
+      "titolo": "Installava telecamere, ora gioca coi Pumas grazie… al prof di matematica! La storia di Joel Sclavi",
+      "link": "https://www.gazzetta.it/Rugby/11-11-2026/rugby-joel-sclavi-installava-telecamere-poi-ai-pumas-grazie-al-prof-di-matematica.shtml",
       "fonte": "Gazzetta — Rugby",
-      "data_evento": "2026-11-10"
+      "data_evento": "2026-11-11"
     },
     {
       "sottocategoria": "Atletica",
@@ -32,14 +40,6 @@
       "link": "https://www.gazzetta.it/Atletica/06-11-2026/maratona-al-maradona-una-staffetta-in-memoria-di-due-campioni.shtml",
       "fonte": "Gazzetta — Atletica",
       "data_evento": "2026-11-06"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Lindsey Vonn, presto la nona operazione. \"Tornerò a sciare? Vedremo se ne avrò ancora voglia\"",
-      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/09-11-2026/lindsey-vonn-ora-la-nona-operazione-non-so-se-tornero-a-sciare.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-11-09"
     }
   ]
 }
