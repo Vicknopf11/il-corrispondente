@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-12",
+      "slug": "allarmi-bomba-scuole-meloni-opposizioni-palazzo-chigi",
+      "categoria": "Politica Nazionale",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-12",
       "slug": "kushner-witkoff-putin-negoziati-ucraina-benedizione",
       "categoria": "Politica Internazionale",
       "evidenza": true,
@@ -1431,14 +1439,6 @@
       "evidenza": true,
       "tipo_richiesta": "ContentCreateWithUrl",
       "costo_usd": 0.2
-    },
-    {
-      "data": "2026-10-22",
-      "slug": "je-so-pazzo-film-pino-daniele-biopic-cultura",
-      "categoria": "Cultura",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
     }
   ]
 }
