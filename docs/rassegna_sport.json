@@ -1,13 +1,13 @@
 {
-  "generato": "2026-11-12T12:31:00.899445+00:00",
+  "generato": "2026-11-12T18:31:07.076121+00:00",
   "item": [
     {
-      "sottocategoria": "Invernali",
+      "sottocategoria": "Mente e nicchia",
       "tipo": "notizia",
-      "titolo": "La Coppa del Mondo di sci passa ancora dalla 3Tre: il 23 dicembre la notturna a Madonna di Campiglio",
-      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/Coppa-Mondo-Sci/11-11-2026/la-coppa-del-mondo-passa-ancora-dalla-3tre-di-campiglio-appuntamento-al-23-dicembre.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-11-11"
+      "titolo": "Pétanque, ecco la nuova Serie A: regole e protagonisti del 2026-2027",
+      "link": "https://www.gazzetta.it/bocce/12-11-2026/petanque-ecco-la-nuova-serie-a-regole-e-protagonisti-del-2026-2027.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-11-12"
     },
     {
       "sottocategoria": "Combattimento",
@@ -36,10 +36,10 @@
     {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
-      "titolo": "Installava telecamere, ora gioca coi Pumas grazie… al prof di matematica! La storia di Joel Sclavi",
-      "link": "https://www.gazzetta.it/Rugby/11-11-2026/rugby-joel-sclavi-installava-telecamere-poi-ai-pumas-grazie-al-prof-di-matematica.shtml",
+      "titolo": "Italrugby-Argentina a Genova: Quesada ne cambia 5, dentro Allan e Varney",
+      "link": "https://www.gazzetta.it/Rugby/12-11-2026/rugby-italia-argentina-a-genova-quesada-schiera-titolari-allan-e-varney.shtml",
       "fonte": "Gazzetta — Rugby",
-      "data_evento": "2026-11-11"
+      "data_evento": "2026-11-12"
     }
   ]
 }
