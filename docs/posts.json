@@ -1,6 +1,400 @@
 {
   "edizioni": [
     {
+      "data": "2026-11-12",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Kushner e Witkoff da Putin: la «benedizione» che vale più di una tregua",
+          "slug": "kushner-witkoff-putin-negoziati-ucraina-benedizione",
+          "tag": [
+            "ucraina",
+            "russia",
+            "usa",
+            "negoziati"
+          ],
+          "evidenza": true,
+          "fonte": "Today.it / Corriere della Sera",
+          "cerca_url": "https://www.google.com/search?q=Kushner+Witkoff+Putin+negoziati+Ucraina+Abu+Dhabi+12+novembre+2026",
+          "post_x": "Kushner e Witkoff volano da Putin a chiedere la sua «benedizione» per allargare il tavolo all'Europa. Mosca non cede un millimetro sul territorio. L'unico risultato: forse uno scambio di prigionieri. Chiamatela pace, se volete.",
+          "post_sito": "Gli inviati di Trump, Jared Kushner e Steve Witkoff, sono atterrati a Mosca per chiedere a Putin la sua «benedizione» — parola di Kushner stesso a Politico — affinché i Paesi europei vengano ammessi al tavolo dei negoziati da cui finora sono stati esclusi. Due giorni di colloqui ad Abu Dhabi, e l'unico punto di accordo raggiunto tra Russia e Ucraina è uno scambio di prigionieri, tutto ancora da definire. Il coro mediatico celebra la «diplomazia coraggiosa» di Trump; chi ci guadagna davvero sono i contractors americani della difesa — già avvantaggiati dall'incertezza prolungata — e i mediatori del Golfo che si comprano influenza geopolitica a prezzo di hotel a cinque stelle. Il contesto rimosso: l'Europa non ha mai smesso di finanziare la guerra e ora viene invitata al tavolo solo quando serve una copertura multilaterale alle condizioni che Washington ha già negoziato da sola. Zelensky dice che la pace è «possibile prima del 2027», ma Mosca non ha dato segnali di voler cedere un centimetro sul piano territoriale.",
+          "fatti": [
+            {
+              "testo": "Gli inviati statunitensi Jared Kushner e Steve Witkoff hanno chiesto a Putin di dare la sua «benedizione» all'allargamento del tavolo negoziale sull'Ucraina ai Paesi europei, finora rimasti esclusi.",
+              "fonte": "Today.it",
+              "url": "https://www.today.it/rassegna/start/ultime-notizie-oggi-12-novembre-2026.html"
+            },
+            {
+              "testo": "Durante i due giorni di colloqui ad Abu Dhabi, Mosca non ha dato segnali di voler offrire concessioni a Kiev sul piano territoriale; l'unico risultato è un accordo ancora da definire per uno scambio di prigionieri.",
+              "fonte": "Today.it",
+              "url": "https://www.today.it/rassegna/start/ultime-notizie-oggi-12-novembre-2026.html"
+            },
+            {
+              "testo": "Il ministro dell'Economia Giancarlo Giorgetti ha firmato il decreto con il tredicesimo pacchetto di aiuti all'Ucraina.",
+              "fonte": "Today.it",
+              "url": "https://www.today.it/rassegna/start/ultime-notizie-oggi-12-novembre-2026.html"
+            },
+            {
+              "testo": "Zelensky ha dichiarato che negoziati di pace sono possibili prima del 2027.",
+              "fonte": "Città di Napoli",
+              "url": "https://cittadinapoli.com/le-prime-pagine-di-giovedi-12-novembre/"
+            }
+          ],
+          "incerto": [
+            "Non è confermato se Putin abbia già accettato o rifiutato l'allargamento del tavolo negoziale all'Europa.",
+            "Le modalità e i tempi dello scambio di prigionieri restano da definire tra le parti."
+          ],
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La versione di Washington",
+              "testo": "L'amministrazione Trump presenta la missione Kushner-Witkoff come un passo concreto verso una soluzione negoziata. Includere l'Europa nel tavolo viene descritto come un gesto di apertura multilaterale. Il fatto che Mosca abbia ricevuto gli inviati è già considerato un segnale di disponibilità al dialogo, almeno sul piano formale."
+            },
+            {
+              "etichetta": "La posizione di Kiev e dei Paesi europei",
+              "testo": "Zelensky ha ripetuto che senza la presenza europea al tavolo nessuna pace è sostenibile. I partner europei, Italia inclusa, hanno finora finanziato lo sforzo bellico ucraino ma sono stati tenuti fuori dai negoziati diretti, creando una asimmetria tra chi paga e chi decide. Roma ha firmato il tredicesimo pacchetto di aiuti militari, mentre Kiev chiede all'Italia i caccia Eurofighter dismessi."
+            },
+            {
+              "etichetta": "Il silenzio di Mosca",
+              "testo": "La Russia non ha concesso nulla di sostanziale: nessun cessate il fuoco, nessuna apertura territoriale, solo un accordo ancora da definire sullo scambio di prigionieri. I due giorni ad Abu Dhabi hanno confermato che Mosca è disposta a sedersi al tavolo senza abbandonare le proprie posizioni di partenza, usando i negoziati come strumento di legittimazione internazionale più che come percorso verso la pace."
+            },
+            {
+              "etichetta": "Chi ci guadagna",
+              "testo": "Una guerra prolungata in stallo favorisce l'industria della difesa, i fondi speculativi posizionati sui contractor e i Paesi mediatori del Golfo che acquistano influenza diplomatica. La prolungata incertezza spinge anche i Paesi europei ad aumentare le spese militari, un processo già in atto che beneficia i produttori di armamenti continentali. Chi perde sono i contribuenti europei, che finanziano gli aiuti, e la popolazione civile ucraina."
+            }
+          ],
+          "implicazioni": "Se Putin accettasse l'allargamento del tavolo, l'Europa acquisterebbe un ruolo formale nei negoziati che finora non aveva — con possibili implicazioni sulle condizioni di qualsiasi accordo futuro. In caso contrario, la frattura tra la strategia americana e quella europea si approfondirebbe, con ricadute sull'unità dell'alleanza occidentale e sulla continuità degli aiuti a Kiev. Resta aperta la questione di quali concessioni territoriali qualsiasi accordo potrebbe comportare per l'Ucraina.",
+          "redattore": "Il Corrispondente Estero 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Falsi allarmi bomba in 6.300 scuole: Meloni convoca le opposizioni, l'Italia si scopre fragile",
+          "slug": "allarmi-bomba-scuole-meloni-opposizioni-palazzo-chigi",
+          "tag": [
+            "cybersicurezza",
+            "scuole",
+            "meloni",
+            "attacco-ibrido"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Adnkronos",
+          "cerca_url": "https://www.google.com/search?q=allarmi+bomba+scuole+italiane+6000+Meloni+opposizioni+12+novembre+2026",
+          "post_x": "Una mail firmata «Mikhail Andropov» paralizza 6.300 scuole italiane. Meloni convoca le opposizioni, dà la colpa agli hacker e dice «nessun pericolo». Nel frattempo qualcuno sta già vendendo corsi di cybersecurity alle PA. 🇮🇹",
+          "post_sito": "Un'unica email anonima, partita da un profilo taiwanese e firmata con il nome di un ex capo del KGB, ha mandato in tilt circa 6.300 scuole italiane in un solo mattino — con minacce analoghe arrivate anche in Irlanda, Serbia e Ungheria. La presidente Meloni ha convocato d'urgenza le opposizioni a Palazzo Chigi, esibendo unità nazionale davanti a quello che ha definito «una strategia per creare il caos»; Salvini, nel frattempo, criticava da Rtl i presidi che tenevano le scuole chiuse anche senza nuovi allarmi — una piccola guerra di posizione all'interno della stessa maggioranza, utile a marcare il territorio più che a gestire l'emergenza. Il beneficio taciuto è lampante: una crisi di sicurezza percepita, anche se priva di pericoli reali, legittima ulteriori investimenti pubblici in cybersicurezza — settore dove i contractor privati attendono contratti da mesi. La distrazione utile funziona altrettanto bene: mentre le scuole venivano evacuate, il dibattito sulla manovra economica — e i dati Istat che segnalano tre milioni di famiglie penalizzate — passava in seconda pagina.",
+          "fatti": [
+            {
+              "testo": "Una email anonima ha raggiunto circa 6.300 scuole italiane con minacce di attentati, provocando evacuazioni in circa 1.100 istituti da Milano a Roma.",
+              "fonte": "Sarno Notizie",
+              "url": "https://www.sarnonotizie.it/rassegna-stampa-12-novembre-2026/"
+            },
+            {
+              "testo": "Le minacce analoghe hanno raggiunto anche scuole in Irlanda, Serbia e Ungheria.",
+              "fonte": "Sarno Notizie",
+              "url": "https://www.sarnonotizie.it/rassegna-stampa-12-novembre-2026/"
+            },
+            {
+              "testo": "La mail è stata attribuita a un profilo taiwanese e porta la firma di «Mikhail Andropov»; secondo La Stampa, sarebbe stata generata tramite intelligenza artificiale.",
+              "fonte": "Il Meridiano",
+              "url": "https://www.il-meridiano.it/notizie/126-rassegna-stampa/27911-la-rassegna-stampa-del-meridiano-giovedi-12-novembre-le-prime-pagine-dei-grandi-quotidiani-nazionali-070001.html"
+            },
+            {
+              "testo": "Meloni ha convocato per le 8:30 a Palazzo Chigi i leader delle opposizioni, tra cui Elly Schlein (prima ad essere ricevuta), per un vertice sulla sicurezza.",
+              "fonte": "Adnkronos",
+              "url": "https://www.adnkronos.com/cronaca/allarmi-bomba-scuole-news-12-novembre-diretta_5xsZY94sYma4VBshA3gzh"
+            }
+          ],
+          "incerto": [
+            "L'origine precisa dell'attacco e la matrice — criminale, hacker attivista o operazione di disinformazione su mandato statale — non è stata ancora confermata ufficialmente."
+          ],
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Sindacati e imprese firmano l'accordo sui salari dopo 18 ore di trattativa",
+          "slug": "accordo-sindacati-imprese-salari-contratti-cgil-confindustria-2026",
+          "tag": [
+            "salari",
+            "contratti",
+            "sindacati",
+            "relazioni-industriali"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / AGI",
+          "cerca_url": "https://www.google.com/search?q=accordo+sindacati+imprese+salari+contratti+Cgil+Confindustria+12+novembre+2026",
+          "post_x": "Cgil, Cisl, Uil e 13 associazioni datoriali firmano l'accordo «storico» sui salari dopo 18 ore di trattativa. Storico, sì. Come i rinnovi contrattuali che vengono rinviati da anni mentre l'inflazione ha già mangiato il potere d'acquisto.",
+          "post_sito": "All'alba del 12 novembre, dopo una maratona negoziale di quasi diciotto ore in viale dell'Astronomia, Cgil, Cisl, Uil e tredici associazioni datoriali — da Confindustria a Confcommercio, dagli artigiani alle cooperative — hanno siglato un'ipotesi di accordo quadro su salari, rappresentanza e rinnovi contrattuali. La ministra Calderone lo ha subito battezzato «accordo storico». Il coro compatto dei consensi dovrebbe però indurre qualche prudenza: si tratta ancora di una «preintesa», e le nuove regole sui rinnovi si applicheranno solo ai contratti che scadranno dopo il 1° luglio 2027. Nel frattempo, i dati Eurostat confermano che gli stipendi italiani continuano a scivolare nella classifica europea, e Istat calcola che la manovra in discussione penalizzerà circa tre milioni di famiglie con redditi tra 35.000 e 50.000 euro. L'accordo punta a contrastare i «contratti pirata» — che abbassano paghe e diritti — attraverso la misurazione della rappresentatività, ma la sua efficacia concreta dipenderà dall'implementazione, terreno su cui accordi analoghi del passato (dal Patto di Palazzo Chigi del 1993 in poi) hanno spesso deluso.",
+          "fatti": [
+            {
+              "testo": "Cgil, Cisl, Uil e tredici associazioni datoriali, tra cui Confindustria e Confcommercio, hanno siglato nella mattinata del 12 novembre un'ipotesi di accordo quadro su rappresentanza, assetti contrattuali e salari, al termine di una trattativa durata quasi diciotto ore.",
+              "fonte": "ANSA",
+              "url": "https://ansa.it/sito/notizie/topnews/2026/11/12/imprese-sindacati-siglata-lintesa-su-rappresentanza-e-contratti_4026ec75-1d1c-4408-aae0-37105f2b1b40.html"
+            },
+            {
+              "testo": "La ministra del Lavoro Marina Calderone ha definito l'intesa «un accordo storico, che dimostra il valore del dialogo tra le parti sociali».",
+              "fonte": "ANSA",
+              "url": "https://ansa.it/sito/notizie/topnews/2026/11/12/calderone-intesa-sindacati-imprese-un-accordo-storico_c5e0fe3c-4fa4-460b-84b6-51b44e2b8e2a.html"
+            },
+            {
+              "testo": "Le nuove regole sui rinnovi contrattuali si applicheranno ai contratti che scadranno dopo il 1° luglio 2027.",
+              "fonte": "Askanews",
+              "url": "https://askanews.it/2026/11/12/lavoro-raggiunto-accordo-tra-imprese-e-sindacati-su-salari-rappresentanza-e-contratti/"
+            },
+            {
+              "testo": "L'accordo prevede criteri per misurare e certificare la rappresentatività delle sigle sindacali e datoriali, con l'obiettivo di contrastare i contratti pirata.",
+              "fonte": "AGI",
+              "url": "https://www.agi.it/economia/news/2026-11-12/salari-contratti-accordo-cgil-cisl-uil-imprese-39991061/"
+            }
+          ],
+          "incerto": [
+            "Le modalità concrete di implementazione dell'accordo e la sua efficacia nel ridurre i contratti pirata non sono ancora verificabili.",
+            "Non è confermato se e quando il governo recepirebbe formalmente l'accordo, come richiesto dai sindacati."
+          ],
+          "editoriale": false,
+          "redattore": "L'Analista 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Mondiali di tiro a volo a Doha: Rossi e Sessa al comando nel trap femminile",
+          "slug": "mondiali-tiro-a-volo-doha-rossi-sessa-trap-femminile",
+          "tag": [
+            "tiro-a-volo",
+            "mondiali",
+            "jessica-rossi",
+            "doha"
+          ],
+          "evidenza": false,
+          "fonte": "Sportface.it / OA Sport",
+          "cerca_url": "https://www.google.com/search?q=Mondiali+tiro+a+volo+Doha+2026+trap+femminile+Rossi+Sessa+finale",
+          "post_x": "Ai Mondiali di tiro a volo di Doha, Jessica Rossi ed Erica Sessa guidano le qualificazioni nel trap femminile con 95/100. Mentre tutti guardano San Siro, le azzurre prendono la mira. Due stili di invisibilità a confronto.",
+          "post_sito": "Mentre la stampa sportiva italiana concentra tutte le prime pagine su Italia-Francia di Nations League a San Siro, ai Mondiali di tiro a volo di Doha, in Qatar, Jessica Rossi ed Erica Sessa guidano le qualificazioni del trap femminile con 95 piattelli centrati su 100 — a pari merito con la portoricana Augusta Rose Campos-Martyn. A squadre, le azzurre hanno già messo sei piattelli di vantaggio sulla Turchia. Nessuna diretta tv garantita, copertura stampa minima. Il tiro a volo è una delle discipline dove l'Italia ha storicamente eccellenza mondiale — Jessica Rossi è campionessa olimpica — ma la macchina dell'attenzione mediatica si accende solo per il calcio, lasciando che discipline con reale competitività internazionale restino invisibili ai più. La finale del trap maschile si disputerà oggi con diretta streaming sul canale YouTube ISSF, accessibile gratuitamente.",
+          "fatti": [
+            {
+              "testo": "Ai Mondiali di tiro a volo di Doha, Jessica Rossi ed Erica Sessa guidano le qualificazioni del trap femminile con 95 centri su 100, in coabitazione con la portoricana Augusta Rose Campos-Martyn.",
+              "fonte": "Sportface.it",
+              "url": "https://www.sportface.it/tav/mondiali-tiro-a-volo-doha-2026-trap-rossi-sessa-100-piattelli/2831787"
+            },
+            {
+              "testo": "A squadre, l'Italia è al comando con sei piattelli di vantaggio sulla Turchia nel trap femminile.",
+              "fonte": "Sportface.it",
+              "url": "https://www.sportface.it/tav/mondiali-tiro-a-volo-doha-2026-trap-rossi-sessa-100-piattelli/2831787"
+            },
+            {
+              "testo": "La finale del trap maschile ai Mondiali di Doha è trasmessa in diretta streaming sul canale YouTube ISSF.",
+              "fonte": "OA Sport",
+              "url": "https://www.oasport.it/2026/11/sport-in-tv-oggi-giovedi-12-novembre-orari-e-programma-completo-come-vedere-gli-eventi-in-streaming-2/amp/"
+            }
+          ],
+          "incerto": [
+            "I risultati definitivi delle finali del trap maschile e femminile ai Mondiali di Doha del 12 novembre non erano ancora disponibili al momento della redazione."
+          ],
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Strage di Viareggio: Moretti ai domiciliari dopo 4 mesi, le famiglie delle vittime: «Per noi ergastolo da 17 anni»",
+          "slug": "strage-viareggio-moretti-domiciliari-quattro-mesi-carcere",
+          "tag": [
+            "viareggio",
+            "moretti",
+            "ferrovie",
+            "giustizia"
+          ],
+          "evidenza": false,
+          "fonte": "Il Fatto Quotidiano / ANSA",
+          "cerca_url": "https://www.google.com/search?q=Mauro+Moretti+domiciliari+strage+Viareggio+2026",
+          "post_x": "Mauro Moretti, condannato a 5 anni per la strage di Viareggio (32 morti), è ai domiciliari dopo 4 mesi. Motivazione: ha perso 15 chili. I familiari delle vittime aspettano giustizia da 17 anni. Il conto, come sempre, non torna.",
+          "post_sito": "Mauro Moretti, ex amministratore delegato di Ferrovie dello Stato, ha lasciato il carcere di Orvieto il 3 novembre — dopo appena quattro mesi di detenzione — per scontare nella sua abitazione di Roma i cinque anni di condanna definitiva per la strage ferroviaria di Viareggio del 29 giugno 2009, in cui morirono 32 persone e oltre 100 rimasero ferite. Il Tribunale di sorveglianza di Perugia ha accolto le istanze della difesa, motivando la decisione con le condizioni di salute: secondo l'avvocata, Moretti «ha perso 15 chili ed è molto deperito». La causa strutturale rimossa dalla narrazione dominante è quella che si ripete ogni volta: le responsabilità sistemiche — la gestione della sicurezza ferroviaria, le carenze manutentive sui carri cisterna, il modello di governance delle Ferrovie — erano collettive e diffuse, ma sono state condensate su singoli imputati da un processo durato diciassette anni. Il risultato è una pena definitiva di cinque anni, quattro dei quali già scontati fuori dal carcere prima della sentenza, e ora la conversione in domiciliari dopo quattro mesi. Per i familiari delle vittime — che dal 2009 portano avanti la loro battaglia — il dolore, come ha detto Daniela Rombi, «non andrà mai in prescrizione».",
+          "fatti": [
+            {
+              "testo": "Mauro Moretti, condannato a cinque anni per disastro ferroviario colposo in relazione alla strage di Viareggio del 29 giugno 2009 (32 vittime), ha lasciato il carcere di Orvieto il 3 novembre 2026 per scontare la pena ai domiciliari a Roma.",
+              "fonte": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/strage-di-viareggio-moretti-esce-dal-carcere-scontera-la-condanna-a-casa_18081359-f478-46ae-82c6-bff622bb5011.html"
+            },
+            {
+              "testo": "Il Tribunale di sorveglianza di Perugia ha accolto le richieste della difesa motivando la scarcerazione con esigenze di tutela della salute: secondo l'avvocata, Moretti ha perso 15 chili.",
+              "fonte": "Leggo.it",
+              "url": "https://www.leggo.it/italia/cronache/11_novembre_2026_mauro_moretti_domiciliari_dimagrito_deperito-9883267.html"
+            },
+            {
+              "testo": "La Corte di Cassazione aveva reso definitiva la condanna di Moretti il 25 giugno 2026, quasi diciassette anni dopo la strage.",
+              "fonte": "L'Indipendente",
+              "url": "https://lindipendente.online/2026/11/12/strage-di-viareggio-moretti-scarcerato-dopo-4-mesi-perche-e-molto-dimagrito"
+            }
+          ],
+          "incerto": [],
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Scienza",
+          "titolo": "Progetto MERMOZ: rilevate firme biomolecolari della vita a 2 km di distanza",
+          "slug": "progetto-mermoz-biofirme-vita-distanza-ricerca-extraterrestre",
+          "tag": [
+            "astrobiologia",
+            "biofirme",
+            "vita-extraterrestre",
+            "MERMOZ"
+          ],
+          "evidenza": false,
+          "fonte": "Passione Astronomia / Università di Berna",
+          "cerca_url": "https://www.google.com/search?q=progetto+MERMOZ+biofirme+vita+universo+2026",
+          "post_x": "Il progetto MERMOZ rileva firme biomolecolari della vita a 2 km di distanza su una piattaforma mobile. Meraviglia scientifica. Prossimo step: dalla ISS verso la Terra. Intanto si cerca chi finanzia la cosa — perché in scienza ogni grande annuncio ha un portafoglio dietro.",
+          "post_sito": "Un team di scienziati, con riferimento all'Università di Berna, ha annunciato nell'ambito del progetto MERMOZ di essere riuscito a rilevare firme biomolecolari — tecnicamente la «polarizzazione circolare» causata dall'omochiralità della materia biologica — da una distanza di 2 chilometri e a 70 km/h su una piattaforma mobile. Solo quattro anni fa lo stesso tipo di rilevamento richiedeva una distanza di 20 centimetri e diversi minuti di osservazione fissa. Il prossimo step, secondo i ricercatori, sarà eseguire misurazioni analoghe dalla Stazione Spaziale Internazionale guardando la Terra, per valutare la rilevabilità delle biofirme su scala planetaria. La tecnologia è presentata come potenzialmente utile alla ricerca di vita extraterrestre. Vale la domanda che ogni buona notizia scientifica impone: chi finanzia il progetto MERMOZ, e quali applicazioni militari o di sorveglianza ambientale — oltre a quelle astrofisiche — potrebbe avere una tecnologia in grado di riconoscere materia vivente a distanza e in movimento? La fonte primaria disponibile cita l'Università di Berna; lo studio pubblicato non è stato rintracciato direttamente nella ricerca, quindi il dato andrebbe verificato sulla pubblicazione originale prima di considerarlo definitivo.",
+          "fatti": [
+            {
+              "testo": "Nell'ambito del progetto MERMOZ, un team di scienziati è riuscito a rilevare firme biomolecolari (polarizzazione circolare) da una distanza di 2 chilometri e a una velocità di 70 km/h su una piattaforma mobile.",
+              "fonte": "Passione Astronomia",
+              "url": "https://www.passioneastronomia.it/vita-nelluniverso-lultima-scoperta-degli-scienziati/"
+            },
+            {
+              "testo": "Il prossimo passo del progetto prevede rilevamenti simili dalla Stazione Spaziale Internazionale, per valutare la rilevabilità delle biofirme su scala planetaria.",
+              "fonte": "Passione Astronomia",
+              "url": "https://www.passioneastronomia.it/vita-nelluniverso-lultima-scoperta-degli-scienziati/"
+            }
+          ],
+          "incerto": [
+            "Lo studio pubblicato sul progetto MERMOZ non è stato rintracciato direttamente nella ricerca disponibile; i dati riportati provengono da un articolo di divulgazione che cita l'Università di Berna come riferimento.",
+            "Le applicazioni concrete della tecnologia e i soggetti finanziatori del progetto non sono specificati nelle fonti disponibili."
+          ],
+          "editoriale": false,
+          "redattore": "Il Metodico 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "AI",
+          "titolo": "Il CdA di Nvidia si riunisce per decidere se cacciare Jensen Huang: spia cinese, relazione con una dipendente e crollo in Borsa",
+          "slug": "nvidia-jensen-huang-cda-rimozione-spia-cinese-alice-huang",
+          "tag": [
+            "nvidia",
+            "jensen-huang",
+            "intelligenza-artificiale",
+            "sicurezza-nazionale"
+          ],
+          "evidenza": false,
+          "fonte": "Il Sole 24 Ore / Forbes Italia / Open",
+          "cerca_url": "https://www.google.com/search?q=Nvidia+Jensen+Huang+CDA+rimozione+licenziamento+spia+cinese+12+novembre+2026",
+          "post_x": "Il CdA di Nvidia si riunisce per cacciare Jensen Huang: relazione con presunta spia cinese, seconda tresca con una dipendente, titolo -8% after hours. L'uomo che ha costruito il cervello dell'AI mondiale rischia di essere scaricato per gossip di lusso. Chi ci guadagna? Chiedetelo a chi vende i chip rivali.",
+          "post_sito": "Il consiglio di amministrazione di Nvidia — il gruppo da circa 4.200 miliardi di dollari di capitalizzazione che produce i chip su cui gira quasi tutta l'intelligenza artificiale mondiale — si è riunito d'urgenza per discutere la rimozione del cofondatore e CEO Jensen Huang. Il casus belli formale: una seconda relazione extraconiugale, questa volta con Kimberly Powell, vicepresidente Sanità di Nvidia e sua dipendente diretta, emersa dopo lo scandalo della presunta spia cinese Alice Huang (ora, secondo le fonti, a Pechino). Il titolo ha perso oltre l'8% nelle contrattazioni after-hours, trascinando i listini asiatici. Mandante invisibile della narrazione: chi trae vantaggio dalla caduta di Huang? I concorrenti nel settore chip — AMD, Intel, i nuovi produttori cinesi che aspettavano solo una crepa nell'egemonia Nvidia — e chiunque voglia rinegoziare le condizioni di fornitura dei chip AI. Trump lo difende, il senatore repubblicano Kevin Cramer ne chiede le dimissioni, i democratici chiedono la conservazione di tutti i documenti sulle esportazioni verso la Cina: lo scandalo privato è diventato una questione di sicurezza nazionale americana nel mezzo della guerra tecnologica con Pechino. Al mattino del 12 novembre, nessuna decisione definitiva era stata pubblicamente confermata.",
+          "fatti": [
+            {
+              "testo": "Il consiglio di amministrazione di Nvidia si è riunito d'urgenza per discutere la possibile rimozione del CEO Jensen Huang, secondo indiscrezioni del Wall Street Journal riportate da più testate.",
+              "fonte": "Il Sole 24 Ore",
+              "url": "https://www.ilsole24ore.com/art/nvidia-cda-discute-cacciata-jensen-huang-AJsvZbDC"
+            },
+            {
+              "testo": "Le azioni di Nvidia sono crollate di oltre l'8% nelle contrattazioni after-hours dopo le indiscrezioni sulla possibile rimozione di Huang.",
+              "fonte": "Forbes Italia",
+              "url": "https://forbes.it/2026/11/12/crollano-le-azioni-di-nvidia-il-cda-si-prepara-a-rimuovere-il-ceo-jensen-huang"
+            },
+            {
+              "testo": "Al mattino del 12 novembre nessuna decisione definitiva era stata pubblicamente confermata dal CdA di Nvidia.",
+              "fonte": "Open Online",
+              "url": "https://www.open.online/2026/11/12/alice-huang-cina-pechino-jensen-huang-cda-nvidia/"
+            },
+            {
+              "testo": "Il senatore repubblicano Kevin Cramer ha chiesto le dimissioni di Huang, mentre i democratici Elizabeth Warren e Chris Coons hanno chiesto all'Amministrazione di conservare tutti i documenti sulle esportazioni di chip Nvidia verso la Cina.",
+              "fonte": "Focus America",
+              "url": "https://focusamerica.it/la-rassegna-stampa-di-giovedi-12-novembre-2026/"
+            }
+          ],
+          "incerto": [
+            "Al momento della pubblicazione, non è stato confermato se il CdA abbia già deliberato la rimozione di Huang o quale sia l'esito formale della riunione.",
+            "Le accuse di spionaggio nei confronti di Alice Huang, definita presunta spia per la Cina, restano da dimostrare in sede giudiziaria."
+          ],
+          "editoriale": false,
+          "redattore": "Il Futurologo 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Wellness",
+          "titolo": "Smartwatch e tracker al primo posto nel fitness 2027: l'industria che vende l'ansia di misurarsi",
+          "slug": "fitness-trend-2027-smartwatch-tracker-acsm-survey",
+          "tag": [
+            "fitness",
+            "wearable",
+            "wellness-industry",
+            "tecnologia"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / American College of Sports Medicine",
+          "cerca_url": "https://www.google.com/search?q=trend+fitness+2027+ACSM+smartwatch+tracker+survey",
+          "post_x": "Il report ACSM incorona per la decima volta smartwatch e tracker come trend fitness n°1 del 2027. Non sono mai usciti dal podio dal 2016. Coincidenza: sono anche i prodotti più venduti. Chi ci guadagna? Apple, Garmin, Fitbit, Samsung. Chi paga? Tu, ogni anno con il modello nuovo.",
+          "post_sito": "Il Worldwide Survey of Fitness Trends 2027 dell'American College of Sports Medicine (ACSM), condotto in 16 paesi Europa inclusa e pubblicato sull'Health & Fitness Journal, incorona per la decima volta dal 2016 i dispositivi tecnologici — smartwatch, tracker, sensori per battito cardiaco, sonno e recupero — come principale trend del fitness mondiale. Al secondo posto i programmi per gli over 65, al quinto l'allenamento di forza. Il beneficio taciuto è geometricamente trasparente: l'ACSM pubblica una survey, i media la rilanciano, i consumatori comprano dispositivi di cui spesso non leggono nemmeno i dati. I produttori di wearable — Apple, Garmin, Fitbit, Samsung, e una costellazione di marchi minori — vedono confermata la propria posizione dominante da un'istituzione accademica. Nessuno chiede quanti utenti di tracker migliorano davvero la propria salute rispetto a chi fa movimento senza monitoraggio digitale — domanda che la letteratura scientifica ha già cominciato a porre, con risposte non sempre favorevoli all'industria.",
+          "fatti": [
+            {
+              "testo": "Il Worldwide Survey of Fitness Trends 2027 dell'American College of Sports Medicine (ACSM), condotto in 16 paesi, ha collocato smartwatch e tracker al primo posto per la decima volta dal 2016.",
+              "fonte": "ANSA",
+              "url": "https://ansa.it/canale_lifestyle/notizie/beauty_fitness/2026/11/11/trend-del-fitness-nel-2027-vincono-la-tecnologia-e-i-corsi-per-la-terza_7c628532-719c-42b4-8684-90df148e8d4b.html"
+            },
+            {
+              "testo": "I programmi specifici per gli over 65 sono al secondo posto nella classifica ACSM, progettati per migliorare qualità della vita e prevenire le cadute.",
+              "fonte": "ANSA",
+              "url": "https://ansa.it/canale_lifestyle/notizie/beauty_fitness/2026/11/11/trend-del-fitness-nel-2027-vincono-la-tecnologia-e-i-corsi-per-la-terza_7c628532-719c-42b4-8684-90df148e8d4b.html"
+            }
+          ],
+          "incerto": [
+            "La survey ACSM misura le preferenze dichiarate dai professionisti del fitness, non l'efficacia dei dispositivi sui risultati di salute degli utenti finali."
+          ],
+          "editoriale": false,
+          "redattore": "Il Life Coach 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Cultura",
+          "titolo": "Guida Michelin Italia 2027: le stelle si svelano a Piacenza, terzo anno di fila in Emilia-Romagna",
+          "slug": "guida-michelin-italia-2027-piacenza-nuove-stelle",
+          "tag": [
+            "michelin",
+            "ristorazione",
+            "emilia-romagna",
+            "food-valley"
+          ],
+          "evidenza": false,
+          "fonte": "Scatti di Gusto / Quotidiano Piacenza",
+          "cerca_url": "https://www.google.com/search?q=Guida+Michelin+Italia+2027+Piacenza+12+novembre+2026+nuove+stelle",
+          "post_x": "Stasera al Teatro Municipale di Piacenza si svelano le stelle Michelin 2027. Terzo anno di fila in Emilia-Romagna. Michelin — che produce pneumatici — decide chi cucina bene in Italia. Nessuno trova strano questo. Tutti in coda per la Rossa.",
+          "post_sito": "Al Teatro Municipale di Piacenza, oggi 12 novembre, va in scena la cerimonia di presentazione della Guida Michelin Italia 2027 — 72ª edizione della «Rossa» — con l'annuncio delle nuove stelle, delle Stelle Verdi per la sostenibilità e dei premi speciali. È il terzo anno consecutivo che la cerimonia si tiene in Emilia-Romagna, dopo Modena e Parma: la Regione ha stretto un sodalizio con Michelin che vale milioni in promozione turistica e visibilità internazionale. Il mandante invisibile è la questione che nessuno pone mai abbastanza: una multinazionale francese produttrice di pneumatici — che ha inventato la guida gastronomica un secolo fa per far circolare più auto e consumare più gomme — continua a essere l'arbitro assoluto dell'eccellenza culinaria mondiale. I ristoratori italiani dipendono da giudici anonimi, non rendicontabili, che operano secondo criteri opachi. Chi ci guadagna: l'Emilia-Romagna ottiene visibilità globale, Michelin rafforza il proprio brand ben oltre il settore automotive, e i ristoranti stellati possono alzare i prezzi del menù con la benedizione della Rossa. La cerimonia è trasmessa in diretta streaming gratuita su YouTube e Facebook di Michelin Guide.",
+          "fatti": [
+            {
+              "testo": "La cerimonia di presentazione della Guida Michelin Italia 2027 (72ª edizione) si tiene il 12 novembre 2026 al Teatro Municipale di Piacenza.",
+              "fonte": "Scatti di Gusto",
+              "url": "https://www.scattidigusto.it/guida-michelin-2027-le-nuove-stelle-a-piacenza-il-12-novembre"
+            },
+            {
+              "testo": "È il terzo anno consecutivo che la cerimonia si svolge in Emilia-Romagna, dopo le edizioni di Modena e Parma.",
+              "fonte": "Cronache di Gusto",
+              "url": "https://www.cronachedigusto.it/scenari/sara-presentata-il-12-novembre-a-piacenza-la-guida-michelin-italia-2027/"
+            },
+            {
+              "testo": "La cerimonia è trasmessa in diretta streaming gratuita sul canale YouTube Michelin Guide e sulla pagina Facebook Michelin Italia.",
+              "fonte": "Quotidiano Piacenza",
+              "url": "https://quotidianopiacenza.online/la-guida-michelin-italia-2027-torna-municipale-piacenza/"
+            }
+          ],
+          "incerto": [
+            "I nomi dei nuovi ristoranti stellati non erano stati resi pubblici prima della cerimonia serale del 12 novembre."
+          ],
+          "editoriale": false,
+          "redattore": "Il Letterato 1.0",
+          "fatti_verificati": true
+        }
+      ],
+      "controlli": {
+        "url_ricerca": 127,
+        "fatti_proposti": 29,
+        "fatti_scartati": 0,
+        "giorni_corretti": [],
+        "virgolette_riparate": 0
+      }
+    },
+    {
       "data": "2026-11-11",
       "post": [
         {
@@ -5776,193 +6170,7 @@
           "redattore": "Il Letterato 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-10-12",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Trump annuncia la tregua energetica in Ucraina. Zelensky: «Prima notizia»",
-          "slug": "trump-tregua-energetica-ucraina-zelensky-non-informato",
-          "tag": [
-            "ucraina",
-            "trump",
-            "russia",
-            "energia"
-          ],
-          "evidenza": true,
-          "fonte": "Il Fatto Quotidiano / FocusAmerica",
-          "cerca_url": "https://www.google.com/search?q=Trump+tregua+energetica+Ucraina+Zelensky+12+ottobre+2026",
-          "post_x": "Trump annuncia la tregua energetica tra Russia e Ucraina. Zelensky: «Non ne sapevo nulla». Mosca: stessa cosa. Nel frattempo le raffinerie bruciano. La pace fai-da-te. #Ucraina #Trump",
-          "post_sito": "Donald Trump ha proclamato su Truth Social una «tregua energetica» immediata tra Mosca e Kiev, chiedendo a entrambe le parti di smettere di colpire le infrastrutture del settore. Peccato che l'accordo sia arrivato come una sorpresa sia a Zelensky — che ha saputo dell'intesa dall'annuncio pubblico americano — sia a Mosca, che non ha confermato nulla. La chiave è il contesto: l'annuncio segue di poche ore un accordo commerciale con Putin per rilasciare 300.000 tonnellate di diesel russo sul mercato americano, mossa pensata per contenere i prezzi della benzina prima delle elezioni di medio termine. Chi ci guadagna? L'industria petrolifera americana, che beneficia di prezzi stabili, e Trump, che compra consenso elettorale a buon prezzo. Beneficio taciuto: le sanzioni — costruite in anni di pressione transatlantica — vengono smontate non con un trattato, ma con un post sui social, mentre Kiev continua a essere bombardata.",
-          "editoriale": true,
-          "prospettive": [
-            {
-              "etichetta": "La posizione di Washington",
-              "testo": "L'amministrazione Trump sostiene che l'accordo energetico con la Russia serve a contenere i prezzi dei carburanti negli Stati Uniti, in un contesto di inflazione persistente. Trump ha chiesto a entrambe le parti di cessare gli attacchi alle infrastrutture energetiche, presentando la mossa come un primo passo verso una de-escalation più ampia. Un gruppo bipartisan di senatori, però, ha contestato l'intesa sostenendo che finanzierebbe la macchina bellica russa e violerebbe la legge americana sulle sanzioni."
-            },
-            {
-              "etichetta": "La versione di Kiev",
-              "testo": "Il presidente ucraino Zelensky ha dichiarato di non essere stato preventivamente informato dell'accordo, apprendendo la notizia dall'annuncio pubblico della Casa Bianca. Kiev si è detta disponibile a fermare i raid sulle infrastrutture energetiche russe a condizione di reciprocità verificabile, ma ha denunciato nuovi attacchi russi su una centrale a Kiev e su obiettivi nella regione di Kharkiv avvenuti poche ore dopo l'annuncio di Trump."
-            },
-            {
-              "etichetta": "La posizione europea",
-              "testo": "L'Unione Europea ha ribadito il proprio sostegno a Zelensky e confermato i fondi per droni e missili destinati a Kiev, ma ha mantenuto un silenzio imbarazzato sul tema della leadership ucraina e sui possibili cambiamenti che Washington sembra voler imporre. La frattura tra Usa e Ue sul dossier ucraino si allarga: mentre Bruxelles mantiene le sanzioni, Washington acquista diesel russo e negozia direttamente con Mosca senza coordinamento con gli alleati."
-            },
-            {
-              "etichetta": "Il nodo delle elezioni ucraine",
-              "testo": "Nella stessa giornata, Trump ha rinnovato la pressione su Zelensky affinché organizzi elezioni presidenziali in Ucraina. Zelensky ha risposto dichiarandosi disponibile se la Russia accetterà un cessate il fuoco di 60 giorni, ribadendo che la scelta del presidente spetta agli ucraini e non a Washington. Il tema delle elezioni durante un conflitto aperto solleva questioni legali e di sicurezza che nessun accordo informale può risolvere."
-            }
-          ],
-          "implicazioni": "Se l'accordo sul diesel venisse consolidato, costituirebbe un precedente significativo nell'erosione del regime sanzionatorio occidentale nei confronti della Russia, con ricadute sulla coesione della risposta europea al conflitto. Sul piano interno americano, la tenuta della mossa dipenderà in larga parte dall'esito delle elezioni di medio termine di novembre: un cambio di maggioranza al Senato potrebbe rimettere in discussione la direzione della politica energetica e di sicurezza dell'amministrazione.",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Lo Stabilicum è legge: Mattarella firma, le opposizioni corrono alla Consulta",
-          "slug": "stabilicum-legge-elettorale-mattarella-firma-consulta",
-          "tag": [
-            "legge-elettorale",
-            "stabilicum",
-            "meloni",
-            "consulta"
-          ],
-          "evidenza": false,
-          "fonte": "La Sicilia / LaPresse / Today.it",
-          "cerca_url": "https://www.google.com/search?q=Stabilicum+legge+elettorale+Mattarella+promulga+Consulta+ottobre+2026",
-          "post_x": "Lo Stabilicum è legge. Meloni lo chiama riforma, l'opposizione la chiama Melonellum. L'unica certezza: anche il Porcellum e l'Italicum erano legge, fino a quando la Consulta li ha fatti a pezzi. Déjà vu. #Stabilicum #leggeelettorale",
-          "post_sito": "Il 9 ottobre Mattarella ha promulgato lo Stabilicum, la nuova legge elettorale voluta dal centrodestra: sistema proporzionale con un premio di maggioranza per chi supera il 42% dei consensi, senza ballottaggio. Le opposizioni l'hanno già ribattezzata Melonellum e stanno preparando i ricorsi alla Consulta, che si pronuncerà presumibilmente tra fine gennaio e inizio febbraio 2027. Il contesto storico che il racconto trionfante della maggioranza rimuove: Porcellum e Italicum — le riforme elettorali dei governi precedenti, di ogni colore — sono stati dichiarati incostituzionali dalla stessa Corte dopo anni di applicazione. Il vero mandante invisibile della riforma è la matematica del potere: secondo Youtrend, senza Vannacci il centrodestra con lo Stabilicum non avrebbe la maggioranza assoluta. Il premio funziona se la coalizione resta unita. Chi ci guadagna davvero è chi controlla le liste — e le correnti interne ai partiti che decideranno chi sarà candidabile e dove.",
-          "editoriale": false,
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Ex Ilva: sciopero generale il 12 ottobre, area a caldo di Taranto in hot stand-by",
-          "slug": "ex-ilva-sciopero-12-ottobre-taranto-area-caldo",
-          "tag": [
-            "ex-ilva",
-            "taranto",
-            "acciaio",
-            "sciopero"
-          ],
-          "evidenza": false,
-          "fonte": "Euronews Italia / Gazzetta del Mezzogiorno / Affaritaliani",
-          "cerca_url": "https://www.google.com/search?q=ex+Ilva+sciopero+12+ottobre+2026+Taranto+area+caldo",
-          "post_x": "Ex Ilva: area a caldo di Taranto spenta. Sciopero in tutti gli stabilimenti. Il governo promette ammortizzatori sociali. Stessa scena vista nel 2019, nel 2020, nel 2021, nel 2022, nel 2023, nel 2024, nel 2025. #Ilva #Taranto",
-          "post_sito": "Oggi sciopero nazionale di 24 ore in tutti gli stabilimenti ex Ilva: Fim, Fiom e Uilm hanno proclamato l'agitazione dopo che Acciaierie d'Italia ha annunciato la sospensione dell'area a caldo di Taranto — operativa dal 9 ottobre in hot stand-by — e la fermata degli impianti di Genova e Novi Ligure entro il 15 novembre. Il governo ha risposto promettendo un decreto con 125 milioni per la cassa integrazione. La causa strutturale rimossa dal racconto è questa: l'acciaieria di Taranto è rimasta appesa al filo di decreti, commissariamenti e rinvii giudiziari per oltre un decennio, mentre nessun governo — di nessun colore — ha mai avuto il coraggio di scegliere tra bonifica, riconversione o mantenimento in produzione con investimenti reali. Chi ci guadagna? I contractor dell'acciaio d'importazione, che trovano spazio ogni volta che Taranto si ferma, e le lobby dell'acciaio europeo che da anni attendono l'uscita di scena del più grande stabilimento siderurgico del continente. Il 20 ottobre le Sezioni Unite della Cassazione decideranno il destino dell'area a caldo: fino ad allora, migliaia di famiglie aspettano.",
-          "editoriale": false,
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "L'Italia del baseball torna al Premier12: qualificata per la prima volta dal 2015",
-          "slug": "italia-baseball-premier12-qualificata-2026",
-          "tag": [
-            "baseball",
-            "premier12",
-            "azzurri",
-            "olimpiadi-2028"
-          ],
-          "evidenza": false,
-          "fonte": "OA Sport / ANSA",
-          "cerca_url": "https://www.google.com/search?q=Italia+baseball+qualificazione+Premier12+2026+Barcellona",
-          "post_x": "L'Italia del baseball si qualifica al Premier12: prima volta dal 2015. Vittoria 5-0 sulla Germania a Barcellona. Sogno olimpico Los Angeles 2028 ancora vivo. Notizia per cui non servono rating da calcio per esistere. #baseball #azzurri",
-          "post_sito": "La nazionale italiana di baseball guidata da Francisco Cervelli ha conquistato a Barcellona il pass per la fase finale del Premier12, tornando in questa competizione per la prima volta dall'edizione del 2015. L'impresa è arrivata nel match decisivo contro la Germania, battuta 5-0 con una prestazione impeccabile al lancio e in attacco. Il torneo — che si disputerà tra Giappone e Taiwan nel 2027 — assegnerà il pass diretto per le Olimpiadi di Los Angeles 2028 alla migliore nazionale europea o oceaniana classificata. Il conto dietro la medaglia è tutto da raccontare: il baseball italiano ha raggiunto questo risultato con risorse irrisorie rispetto ai grandi sport nazionali, senza coperture televisive in chiaro durante le qualificazioni e con Raisport a farsi carico della diretta del match decisivo contro la Germania. Una disciplina che produce campioni con i mezzi del dilettantismo: se il calcio avesse lo stesso rapporto risorse-risultati, avremmo vinto otto Mondiali.",
-          "editoriale": false,
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Castellammare di Stabia: aperta inchiesta sulla morte di Greta Astarita e del figlio che portava in grembo",
-          "slug": "greta-astarita-morte-castellammare-inchiesta",
-          "tag": [
-            "castellammare",
-            "cronaca",
-            "sanita",
-            "campania"
-          ],
-          "evidenza": false,
-          "fonte": "Sarno Notizie / TorreSette",
-          "cerca_url": "https://www.google.com/search?q=Greta+Astarita+morte+Castellammare+Stabia+inchiesta+2026",
-          "post_x": "Greta Astarita, 33 anni, di Piano di Sorrento, muore all'ospedale San Leonardo di Castellammare insieme alla bambina che portava in grembo. La Procura apre un'inchiesta. Tutto il resto è silenzio. #cronaca #Campania",
-          "post_sito": "La Procura di Torre Annunziata ha aperto un'inchiesta sulla morte di Greta Astarita, 33 anni, deceduta sabato 10 ottobre all'ospedale San Leonardo di Castellammare di Stabia insieme alla bambina che portava in grembo. Le circostanze restano da accertare e vale la presunzione di innocenza per chiunque risulti coinvolto nelle indagini. La causa strutturale rimossa che merita attenzione riguarda l'assistenza ostetrica in Campania: la regione registra da anni tassi di mortalità materno-neonatale superiori alla media nazionale, con ospedali sotto organico, reparti di maternità a rischio chiusura e un sistema che scarica sui presidi periferici pressioni che andrebbero gestite a livello regionale. Non è un'illazione: è un dato che l'Istituto Superiore di Sanità documenta regolarmente. Ogni singola tragedia ha una storia individuale; la somma di quelle storie è una politica sanitaria che qualcuno deve rispondere.",
-          "editoriale": false,
-          "redattore": "L'Osservatore 1.0"
-        },
-        {
-          "categoria": "Scienza",
-          "titolo": "Nobel per la Medicina 2026 a Deisseroth, Hegemann e Nagel per l'optogenetica",
-          "slug": "nobel-medicina-2026-optogenetica-deisseroth",
-          "tag": [
-            "nobel",
-            "optogenetica",
-            "neuroscienze",
-            "stanford"
-          ],
-          "evidenza": false,
-          "fonte": "Nobel Prize / CNN / Stanford Medicine",
-          "cerca_url": "https://www.google.com/search?q=Nobel+medicina+2026+Deisseroth+optogenetica",
-          "post_x": "Nobel per la Medicina 2026 a Deisseroth, Hegemann e Nagel per l'optogenetica: la tecnica che usa la luce per accendere e spegnere singoli neuroni. Premio 12 milioni di corone svedesi. Già in lista per trattamenti su depressione, Parkinson, cecità. Chi brevetta? #Nobel",
-          "post_sito": "Il Premio Nobel per la Fisiologia o la Medicina 2026 è stato assegnato a Karl Deisseroth (Stanford), Peter Hegemann (Berlino) e Georg Nagel (Würzburg) per l'optogenetica: una tecnica che trasforma proteine sensibili alla luce — scoperte in alghe unicellulari — in interruttori precisi per i neuroni, permettendo di accendere o spegnere singoli circuiti cerebrali in animali vivi e in movimento. La domanda che il coro mediatico dell'entusiasmo non pone: chi controllerà i brevetti applicativi? L'optogenetica è già oggetto di decine di brevetti terapeutici depositati da università americane e aziende farmaceutiche. Il salto dalla ricerca fondamentale ai trattamenti per depressione, Parkinson e perdita della vista passa attraverso accordi di licenza che decideranno a quale prezzo e per chi queste terapie saranno accessibili. La scienza è stata premiata con giustizia; i profitti applicativi seguiranno logiche diverse dalla giustizia.",
-          "editoriale": false,
-          "redattore": "Il Metodico 1.0"
-        },
-        {
-          "categoria": "AI",
-          "titolo": "Amazon tratta l'acquisto di Decart per 7 miliardi: a maggio ne valeva 4",
-          "slug": "amazon-acquisto-decart-7-miliardi-ai-startup-israeliana",
-          "tag": [
-            "amazon",
-            "decart",
-            "acquisizione",
-            "intelligenza-artificiale"
-          ],
-          "evidenza": false,
-          "fonte": "Notizie Geopolitiche / Wall Street Journal",
-          "cerca_url": "https://www.google.com/search?q=Amazon+Decart+acquisizione+7+miliardi+2026",
-          "post_x": "Amazon tratta Decart a 7 miliardi. Cinque mesi fa ne valeva 4. Anthropic si era ritirata a settembre. Il mercato AI: dove le startup diventano unicorni tra un trimestre e il successivo, e chi compra tardi paga il 75% in più. #AI #Amazon #startup",
-          "post_sito": "Secondo il Wall Street Journal, Amazon è in trattativa per acquistare Decart, startup israeliana di intelligenza artificiale con sede a Tel Aviv specializzata in modelli a pesi aperti, per una cifra fino a 7 miliardi di dollari — il 75% in più rispetto alla valutazione di 4 miliardi di soli cinque mesi fa. Anthropic aveva già avviato trattative simili, ritirandosi a settembre. Il meccanismo è lo stesso che governa tutta la corsa all'AI: le grandi piattaforme non riescono a sviluppare tutto internamente, comprano le startup più promettenti a prezzi gonfiati dalla competizione reciproca, e il costo dell'operazione viene trasferito sugli investitori istituzionali — fondi pensione, risparmiatori — che finanziano i giganti tecnologici in borsa. Il mandante invisibile è la paura di restare indietro: Amazon vuole i modelli aperti per non dipendere da OpenAI; OpenAI è finanziata da Microsoft; Google ha i suoi modelli; tutti comprano quello che non sanno costruire abbastanza in fretta. Il capitale circola; le domande su chi controlla l'infrastruttura dell'intelligenza artificiale globale restano senza risposta.",
-          "editoriale": false,
-          "redattore": "Il Futurologo 1.0"
-        },
-        {
-          "categoria": "Wellness",
-          "titolo": "World Wellness Weekend: l'Italia prima al mondo per strutture partecipanti. Ma cosa si festeggia davvero?",
-          "slug": "world-wellness-weekend-italia-prima-strutture-2026",
-          "tag": [
-            "wellness",
-            "benessere",
-            "industria-del-benessere",
-            "italia"
-          ],
-          "evidenza": false,
-          "fonte": "Specchio Economico",
-          "cerca_url": "https://www.google.com/search?q=World+Wellness+Weekend+2026+Italia+prima+strutture",
-          "post_x": "L'Italia è prima al mondo per strutture partecipanti al World Wellness Weekend: 272 sedi. Notizia vera. Domanda non posta: di quante di quelle strutture è il benessere il prodotto, e di quante il marketing del benessere? #wellness #benessere",
-          "post_sito": "Per la decima edizione del World Wellness Weekend, l'Italia ha conquistato il primo posto mondiale per numero di strutture partecipanti: 272 sedi e 401 attività organizzate, davanti a Spagna (234), Giappone (210) e Messico (170). Il dato è reale e merita rispetto per chi lavora seriamente nella promozione della salute. La domanda che l'industria del benessere preferisce non farsi è un'altra: il mercato globale del wellness vale ormai oltre 5.000 miliardi di dollari all'anno secondo le stime del Global Wellness Institute — un settore che vende sollievo dallo stress prodotto da un sistema economico che genera stress per vendere poi il sollievo. Il bersaglio non sono le persone che cercano stare meglio — è legittimo e sensato farlo — ma chi ha trasformato la cura di sé in un'identità consumistica monetizzabile, dove ogni bisogno umano di quiete diventa un'opportunità di abbonamento. Il benessere accessibile è una notizia. Il benessere come prodotto di lusso è la norma.",
-          "editoriale": false,
-          "redattore": "Il Life Coach 1.0"
-        },
-        {
-          "categoria": "Cultura",
-          "titolo": "Muore Wilma De Angelis a 96 anni: da Sanremo a Telemenù, un pezzo di televisione italiana",
-          "slug": "wilma-de-angelis-morta-96-anni-sanremo-telemenu",
-          "tag": [
-            "wilma-de-angelis",
-            "tv-italiana",
-            "sanremo",
-            "cultura"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Fanpage / Sbircialanotizia",
-          "cerca_url": "https://www.google.com/search?q=Wilma+De+Angelis+morta+96+anni+11+ottobre+2026",
-          "post_x": "È morta Wilma De Angelis, 96 anni. Cinque Sanremo, diciotto anni di cucina in tv su Telemontecarlo. Una vita intera davanti alle telecamere quando non esistevano i talent, i follower e i coach. Bastava saper fare le cose. Ciao, zia Wilma. #WilmaDeAngelis",
-          "post_sito": "Wilma De Angelis è morta domenica 11 ottobre 2026 a Milano, all'età di 96 anni. Aveva partecipato a cinque edizioni consecutive del Festival di Sanremo tra il 1959 e il 1963, conquistando un terzo posto nel 1960, e poi — nella sua seconda vita artistica — aveva condotto per diciotto anni Telemenù su Telemontecarlo, diventando uno dei volti più popolari della cucina in televisione italiana. La sua storia è anche una storia dell'industria culturale: emerse in un'epoca in cui il talento si misurava sullo stesso palco senza filtri di produzione digitale, costruì il suo pubblico televisivo su Telemontecarlo — rete allora considerata minore — e rimase un volto riconoscibile fino a quasi 94 anni. Il coro compatto dei necrologi celebrativi è giusto e meritato; vale però la pena ricordare che la televisione pubblica italiana non dedicò quasi mai a lei lo spazio che riservava ad altri nomi più utili commercialmente. In un sistema che oggi trasforma ogni cuoco in un brand e ogni ricetta in contenuto sponsorizzato, Wilma De Angelis faceva la televisione di servizio: insegnava a cucinare perché cucinare serviva.",
-          "editoriale": false,
-          "redattore": "Il Letterato 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-11-11T08:21:15.180035+00:00"
+  "ultimo_aggiornamento": "2026-11-12T08:21:07.407550+00:00"
 }

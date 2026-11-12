@@ -1,77 +1,77 @@
 {
-  "data": "2026-11-11",
+  "data": "2026-11-12",
   "tweet": [
     {
-      "testo": "Pace in Ucraina? Ad Abu Dhabi si tratta — mentre i russi bombardano dieci regioni ucraine. Nel retroscena: chi vuole davvero riaprire il gasdotto russo verso l'Europa. Risposta: non Kiev. #AbuDhabi #Ucraina",
-      "url": "https://corrispondente.filoclastos.it/2026/11/11/negoziati-abu-dhabi-russia-ucraina-usa-secondo-giorno/",
-      "slug": "negoziati-abu-dhabi-russia-ucraina-usa-secondo-giorno",
+      "testo": "Kushner e Witkoff volano da Putin a chiedere la sua «benedizione» per allargare il tavolo all'Europa. Mosca non cede un millimetro sul territorio. L'unico risultato: forse uno scambio di prigionieri. Chiamatela pace, se volete.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/12/kushner-witkoff-putin-negoziati-ucraina-benedizione/",
+      "slug": "kushner-witkoff-putin-negoziati-ucraina-benedizione",
       "categoria": "Politica Internazionale",
       "evidenza": true,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Giorgetti non firma il pacchetto di aiuti a Kiev. «Impedimento fisico temporaneo», spiega Meloni. In italiano: Salvini tira il freno a mano, ma nessuno lo dice ad alta voce. Intanto il governo compra 115 F-35. #Lega #Ucraina",
-      "url": "https://corrispondente.filoclastos.it/2026/11/11/giorgetti-aiuti-kiev-lega-frena-meloni-assicura/",
-      "slug": "giorgetti-aiuti-kiev-lega-frena-meloni-assicura",
+      "testo": "Una mail firmata «Mikhail Andropov» paralizza 6.300 scuole italiane. Meloni convoca le opposizioni, dà la colpa agli hacker e dice «nessun pericolo». Nel frattempo qualcuno sta già vendendo corsi di cybersecurity alle PA. 🇮🇹",
+      "url": "https://corrispondente.filoclastos.it/2026/11/12/allarmi-bomba-scuole-meloni-opposizioni-palazzo-chigi/",
+      "slug": "allarmi-bomba-scuole-meloni-opposizioni-palazzo-chigi",
       "categoria": "Politica Nazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Anthropic vale 1.300 miliardi con perdite da 104 miliardi. In italiano: un'azienda che brucia denaro come una fonderia viene valutata più di tutta Piazza Affari. La nuova economia spiegata ai nipoti. #Anthropic #IPO",
-      "url": "https://corrispondente.filoclastos.it/2026/11/11/anthropic-ipo-nasdaq-valutazione-1300-miliardi/",
-      "slug": "anthropic-ipo-nasdaq-valutazione-1300-miliardi",
+      "testo": "Cgil, Cisl, Uil e 13 associazioni datoriali firmano l'accordo «storico» sui salari dopo 18 ore di trattativa. Storico, sì. Come i rinnovi contrattuali che vengono rinviati da anni mentre l'inflazione ha già mangiato il potere d'acquisto.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/12/accordo-sindacati-imprese-salari-contratti-cgil-confindustria-2026/",
+      "slug": "accordo-sindacati-imprese-salari-contratti-cgil-confindustria-2026",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Oggi si assegnano 3 pass olimpici nel tiro a segno, carabina 3 posizioni 50 m. Nessun telecronista urlerà. Nessun opinionista si scalderà. Lo sport che non fa rumore va avanti lo stesso. #TiroASegno #Mondiali",
-      "url": "https://corrispondente.filoclastos.it/2026/11/11/mondiali-tiro-segno-pass-olimpici-carabina-50-metri/",
-      "slug": "mondiali-tiro-segno-pass-olimpici-carabina-50-metri",
+      "testo": "Ai Mondiali di tiro a volo di Doha, Jessica Rossi ed Erica Sessa guidano le qualificazioni nel trap femminile con 95/100. Mentre tutti guardano San Siro, le azzurre prendono la mira. Due stili di invisibilità a confronto.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/12/mondiali-tiro-a-volo-doha-rossi-sessa-trap-femminile/",
+      "slug": "mondiali-tiro-a-volo-doha-rossi-sessa-trap-femminile",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "La procura di Milano chiede l'archiviazione per Sala, Boeri e Catella: «Manca la prova della corruzione». Un costruttore era già finito in carcere nell'estate 2025 — poi scarcerato. L'inchiesta che aveva scosso la città si sgonfia. #Milano #Urbanistica",
-      "url": "https://corrispondente.filoclastos.it/2026/11/11/archiviazione-sala-boeri-catella-inchiesta-urbanistica-milano/",
-      "slug": "archiviazione-sala-boeri-catella-inchiesta-urbanistica-milano",
+      "testo": "Mauro Moretti, condannato a 5 anni per la strage di Viareggio (32 morti), è ai domiciliari dopo 4 mesi. Motivazione: ha perso 15 chili. I familiari delle vittime aspettano giustizia da 17 anni. Il conto, come sempre, non torna.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/12/strage-viareggio-moretti-domiciliari-quattro-mesi-carcere/",
+      "slug": "strage-viareggio-moretti-domiciliari-quattro-mesi-carcere",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Chi smette i farmaci GLP-1 raddoppia il rischio di infarto o ictus. Pubblicato su The Lancet. Chi ci guadagna? Le aziende farmaceutiche ringraziano: il paziente non può smettere. Lo studio lo ammette: non è causale. #GLP1 #Farmaci #Diabete",
-      "url": "https://corrispondente.filoclastos.it/2026/11/11/glp1-stop-rischio-doppio-infarto-ictus-studio-amd-lancet/",
-      "slug": "glp1-stop-rischio-doppio-infarto-ictus-studio-amd-lancet",
+      "testo": "Il progetto MERMOZ rileva firme biomolecolari della vita a 2 km di distanza su una piattaforma mobile. Meraviglia scientifica. Prossimo step: dalla ISS verso la Terra. Intanto si cerca chi finanzia la cosa — perché in scienza ogni grande annuncio ha un portafoglio dietro.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/12/progetto-mermoz-biofirme-vita-distanza-ricerca-extraterrestre/",
+      "slug": "progetto-mermoz-biofirme-vita-distanza-ricerca-extraterrestre",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Oggi sciopero nazionale dei call center: 43mila lavoratori contro i chatbot. I sindacati chiedono la settimana di 32 ore coi guadagni dell'automazione. Le aziende ringraziano l'AI e tagliano. Domani tavolo col governo. #CallCenter #Sciopero #AI",
-      "url": "https://corrispondente.filoclastos.it/2026/11/11/sciopero-call-center-chatbot-ia-43mila-posti-rischio/",
-      "slug": "sciopero-call-center-chatbot-ia-43mila-posti-rischio",
+      "testo": "Il CdA di Nvidia si riunisce per cacciare Jensen Huang: relazione con presunta spia cinese, seconda tresca con una dipendente, titolo -8% after hours. L'uomo che ha costruito il cervello dell'AI mondiale rischia di essere scaricato per gossip di lusso. Chi ci guadagna? Chiedetelo a chi vende i chip rivali.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/12/nvidia-jensen-huang-cda-rimozione-spia-cinese-alice-huang/",
+      "slug": "nvidia-jensen-huang-cda-rimozione-spia-cinese-alice-huang",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Meno di un anziano su due si vaccina contro l'influenza in Italia. Siamo tornati sotto le soglie OMS. Nel frattempo il mercato degli integratori «immunitari» fattura miliardi. Due sistemi paralleli: uno funziona, l'altro si vende bene. #Influenza #Vaccini",
-      "url": "https://corrispondente.filoclastos.it/2026/11/11/influenza-vaccinazione-anziani-italia-copertura-bassa/",
-      "slug": "influenza-vaccinazione-anziani-italia-copertura-bassa",
+      "testo": "Il report ACSM incorona per la decima volta smartwatch e tracker come trend fitness n°1 del 2027. Non sono mai usciti dal podio dal 2016. Coincidenza: sono anche i prodotti più venduti. Chi ci guadagna? Apple, Garmin, Fitbit, Samsung. Chi paga? Tu, ogni anno con il modello nuovo.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/12/fitness-trend-2027-smartwatch-tracker-acsm-survey/",
+      "slug": "fitness-trend-2027-smartwatch-tracker-acsm-survey",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Apre a Firenze «Lo schermo dell'arte»: film d'artista, memoria, migrazioni, crisi ambientale. Ingresso libero under 30. Streaming gratuito su MYmovies ONE. Un festival che esiste da 19 anni senza avere bisogno di un supereroe in locandina. #LoSchermoDAarte #Firenze",
-      "url": "https://corrispondente.filoclastos.it/2026/11/11/lo-schermo-dellarte-firenze-2026-19-edizione/",
-      "slug": "lo-schermo-dellarte-firenze-2026-19-edizione",
+      "testo": "Stasera al Teatro Municipale di Piacenza si svelano le stelle Michelin 2027. Terzo anno di fila in Emilia-Romagna. Michelin — che produce pneumatici — decide chi cucina bene in Italia. Nessuno trova strano questo. Tutti in coda per la Rossa.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/12/guida-michelin-italia-2027-piacenza-nuove-stelle/",
+      "slug": "guida-michelin-italia-2027-piacenza-nuove-stelle",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }
