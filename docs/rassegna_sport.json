@@ -1,6 +1,14 @@
 {
-  "generato": "2026-11-12T06:31:04.816230+00:00",
+  "generato": "2026-11-12T12:31:00.899445+00:00",
   "item": [
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "La Coppa del Mondo di sci passa ancora dalla 3Tre: il 23 dicembre la notturna a Madonna di Campiglio",
+      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/Coppa-Mondo-Sci/11-11-2026/la-coppa-del-mondo-passa-ancora-dalla-3tre-di-campiglio-appuntamento-al-23-dicembre.shtml",
+      "fonte": "Gazzetta — Sport Invernali",
+      "data_evento": "2026-11-11"
+    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
@@ -32,14 +40,6 @@
       "link": "https://www.gazzetta.it/Rugby/11-11-2026/rugby-joel-sclavi-installava-telecamere-poi-ai-pumas-grazie-al-prof-di-matematica.shtml",
       "fonte": "Gazzetta — Rugby",
       "data_evento": "2026-11-11"
-    },
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "Lorenzo sceglie Marquez e scarta Rossi: \"Col 10° titolo Marc sarà il più grande. Vale? Non è manco in gara\"",
-      "link": "https://www.gazzetta.it/Moto/moto-GP/10-11-2026/lorenzo-scarta-valentino-rossi-marquez-il-piu-grande.shtml",
-      "fonte": "Gazzetta — Ciclismo",
-      "data_evento": "2026-11-10"
     }
   ]
 }
