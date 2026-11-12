@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-12",
+      "slug": "nvidia-jensen-huang-cda-rimozione-spia-cinese-alice-huang",
+      "categoria": "AI",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-12",
       "slug": "progetto-mermoz-biofirme-vita-distanza-ricerca-extraterrestre",
       "categoria": "Scienza",
       "evidenza": false,
@@ -1428,14 +1436,6 @@
       "data": "2026-10-23",
       "slug": "coralli-sbiancati-innesto-clone-stanford-recupero",
       "categoria": "Scienza",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-23",
-      "slug": "santanche-rinvio-giudizio-truffa-falso-bilancio-bancarotta",
-      "categoria": "Cronaca",
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
