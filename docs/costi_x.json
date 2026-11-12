@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-12",
+      "slug": "accordo-sindacati-imprese-salari-contratti-cgil-confindustria-2026",
+      "categoria": "Economia",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-12",
       "slug": "allarmi-bomba-scuole-meloni-opposizioni-palazzo-chigi",
       "categoria": "Politica Nazionale",
       "evidenza": false,
@@ -1431,14 +1439,6 @@
       "evidenza": false,
       "tipo_richiesta": "PostCreate",
       "costo_usd": 0.015
-    },
-    {
-      "data": "2026-10-23",
-      "slug": "sudan-droni-mercato-abyei-220-morti",
-      "categoria": "Politica Internazionale",
-      "evidenza": true,
-      "tipo_richiesta": "ContentCreateWithUrl",
-      "costo_usd": 0.2
     }
   ]
 }
