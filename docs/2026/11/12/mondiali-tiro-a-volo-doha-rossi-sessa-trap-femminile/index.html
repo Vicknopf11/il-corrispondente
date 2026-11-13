@@ -248,6 +248,30 @@
 
     .torna-edizioni:hover { color: #c0392b; }
 
+    :root { --accento: #c0392b; }
+    .meta-sep { color: #bbb; margin: 0 0.2rem; font-style: normal; }
+    .blocco { margin-top: 1.8rem; }
+    .blocco h2 { font-family: Arial, sans-serif; font-size: 0.78rem; letter-spacing: 0.1em; text-transform: uppercase; color: #444; margin-bottom: 0.6rem; }
+    .nota-blocco { font-family: Arial, sans-serif; font-size: 0.8rem; color: #666; line-height: 1.5; margin-bottom: 0.8rem; }
+    .blocco.fatti { background: #fbf8f2; border: 1px solid #d9d2c3; padding: 1.1rem 1.3rem; }
+    .blocco.fatti .nota-blocco { margin: 0.8rem 0 0; }
+    .blocco.fatti ul { padding-left: 1.1rem; }
+    .blocco.fatti li { margin-bottom: 0.6rem; line-height: 1.55; }
+    .fonte-link { font-family: Arial, sans-serif; font-size: 0.75rem; color: #666; text-decoration: none; border-bottom: 1px dotted #999; white-space: nowrap; }
+    .fonte-link:hover { color: var(--accento); }
+    .blocco.lettura h2 { color: var(--accento); margin-bottom: 0.2rem; }
+    .blocco.incerto { background: #eae3d5; padding: 1rem 1.3rem; }
+    .blocco.incerto ul { padding-left: 1.1rem; }
+    .blocco.incerto li { margin-bottom: 0.4rem; line-height: 1.5; }
+    .blocco.generato { border: 1px solid #1a1a1a; padding: 1rem 1.3rem; font-family: Arial, sans-serif; font-size: 0.88rem; line-height: 1.6; color: #333; }
+    .blocco.generato .link-riga { margin-top: 0.6rem; }
+    .blocco.generato .link-riga a { margin-right: 1.2rem; color: #1a1a1a; font-weight: bold; }
+    .blocco.correlati ul { list-style: none; padding: 0; }
+    .blocco.correlati li { padding: 0.55rem 0; border-bottom: 1px solid #e3dccd; display: flex; justify-content: space-between; gap: 1rem; line-height: 1.4; }
+    .blocco.correlati a { color: #1a1a1a; text-decoration: none; }
+    .blocco.correlati a:hover { color: var(--accento); }
+    .corr-data { font-family: Arial, sans-serif; font-size: 0.75rem; color: #888; white-space: nowrap; }
+
     footer {
       text-align: center;
       padding: 2rem;
@@ -285,9 +309,25 @@
   <article class="sport">
     <div class="categoria-label sport">Sport</div>
     <h1 class="post-titolo">Mondiali di tiro a volo a Doha: Rossi e Sessa al comando nel trap femminile</h1>
-    <div class="post-data">giovedì 12 novembre 2026</div>
-    <div class="post-testo">Mentre la stampa sportiva italiana concentra tutte le prime pagine su Italia-Francia di Nations League a San Siro, ai Mondiali di tiro a volo di Doha, in Qatar, Jessica Rossi ed Erica Sessa guidano le qualificazioni del trap femminile con 95 piattelli centrati su 100 — a pari merito con la portoricana Augusta Rose Campos-Martyn. A squadre, le azzurre hanno già messo sei piattelli di vantaggio sulla Turchia. Nessuna diretta tv garantita, copertura stampa minima. Il tiro a volo è una delle discipline dove l'Italia ha storicamente eccellenza mondiale — Jessica Rossi è campionessa olimpica — ma la macchina dell'attenzione mediatica si accende solo per il calcio, lasciando che discipline con reale competitività internazionale restino invisibili ai più. La finale del trap maschile si disputerà oggi con diretta streaming sul canale YouTube ISSF, accessibile gratuitamente.</div>
+    <div class="post-data">giovedì 12 novembre 2026 <span class="meta-sep">&middot;</span> Commento IA <span class="meta-sep">&middot;</span> 1 min di lettura</div>
+    <section class="blocco fatti">
+      <h2>I fatti</h2>
+      <ul><li>Ai Mondiali di tiro a volo di Doha, Jessica Rossi ed Erica Sessa guidano le qualificazioni del trap femminile con 95 centri su 100, in coabitazione con la portoricana Augusta Rose Campos-Martyn. <a class="fonte-link" href="https://www.sportface.it/tav/mondiali-tiro-a-volo-doha-2026-trap-rossi-sessa-100-piattelli/2831787" target="_blank" rel="noopener">Sportface.it &#8599;</a></li><li>A squadre, l'Italia è al comando con sei piattelli di vantaggio sulla Turchia nel trap femminile. <a class="fonte-link" href="https://www.sportface.it/tav/mondiali-tiro-a-volo-doha-2026-trap-rossi-sessa-100-piattelli/2831787" target="_blank" rel="noopener">Sportface.it &#8599;</a></li><li>La finale del trap maschile ai Mondiali di Doha è trasmessa in diretta streaming sul canale YouTube ISSF. <a class="fonte-link" href="https://www.oasport.it/2026/11/sport-in-tv-oggi-giovedi-12-novembre-orari-e-programma-completo-come-vedere-gli-eventi-in-streaming-2/amp/" target="_blank" rel="noopener">OA Sport &#8599;</a></li></ul>
+      <p class="nota-blocco">Ogni fatto rimanda alla pagina in cui è stato trovato.</p>
+    </section>
+    <section class="blocco lettura">
+      <h2>La lettura</h2>
+      <p class="nota-blocco">Commento di un'IA. La domanda è sempre la stessa: chi ci guadagna?</p>
+      <div class="post-testo">Mentre la stampa sportiva italiana concentra tutte le prime pagine su Italia-Francia di Nations League a San Siro, ai Mondiali di tiro a volo di Doha, in Qatar, Jessica Rossi ed Erica Sessa guidano le qualificazioni del trap femminile con 95 piattelli centrati su 100 — a pari merito con la portoricana Augusta Rose Campos-Martyn. A squadre, le azzurre hanno già messo sei piattelli di vantaggio sulla Turchia. Nessuna diretta tv garantita, copertura stampa minima. Il tiro a volo è una delle discipline dove l'Italia ha storicamente eccellenza mondiale — Jessica Rossi è campionessa olimpica — ma la macchina dell'attenzione mediatica si accende solo per il calcio, lasciando che discipline con reale competitività internazionale restino invisibili ai più. La finale del trap maschile si disputerà oggi con diretta streaming sul canale YouTube ISSF, accessibile gratuitamente.</div>
+    </section>
     
+    <section class="blocco incerto"><h2>Cosa non sappiamo</h2><ul><li>I risultati definitivi delle finali del trap maschile e femminile ai Mondiali di Doha del 12 novembre non erano ancora disponibili al momento della redazione.</li></ul></section>
+    <section class="blocco generato">
+      <h2>Come è stato generato</h2>
+      <p>Scritto da un'intelligenza artificiale (Claude, Anthropic) il 12 novembre 2026, a partire da notizie di Sportface.it / OA Sport. Costo dell'intera edizione: &euro; 0,82.</p>
+      <p class="link-riga"><a href="../../../../prompt.html">Il prompt</a><a href="../../../../costi.html">Costi</a></p>
+    </section>
+    <section class="blocco correlati"><h2>Altri articoli di Sport</h2><ul><li><a href="../../../../2026/11/13/musetti-semifinale-stoccolma-atp-250-fritz/">Musetti in semifinale a Stoccolma: sfida Fritz sul cemento indoor</a><span class="corr-data">13 nov</span></li><li><a href="../../../../2026/11/11/mondiali-tiro-segno-pass-olimpici-carabina-50-metri/">Mondiali di tiro a segno: in palio tre pass olimpici nella carabina 3 posizioni 50 metri maschile</a><span class="corr-data">11 nov</span></li><li><a href="../../../../2026/11/10/errani-paolini-wta-finals-indian-wells-2026/">Errani e Paolini alle WTA Finals: oggi il secondo match a Indian Wells</a><span class="corr-data">10 nov</span></li><li><a href="../../../../2026/11/09/olimpiadi-giovanili-dakar-2026-italia-ginnastica-atletica/">Olimpiadi Giovanili di Dakar 2026: oggi 21 medaglie d'oro, l'Italia punta sulla ginnastica e sul tiro con l'arco</a><span class="corr-data">9 nov</span></li></ul></section>
     <div class="tag-bar"><span class="tag-chip">tiro-a-volo</span><span class="tag-chip">mondiali</span><span class="tag-chip">jessica-rossi</span><span class="tag-chip">doha</span></div>
     <div class="post-footer">
       <span class="post-fonte">Fonte: Sportface.it / OA Sport &nbsp;&middot;&nbsp; <a href="https://www.google.com/search?q=Mondiali+tiro+a+volo+Doha+2026+trap+femminile+Rossi+Sessa+finale" target="_blank" rel="noopener">Cerca notizia →</a></span>

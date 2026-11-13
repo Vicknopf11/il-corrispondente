@@ -248,6 +248,30 @@
 
     .torna-edizioni:hover { color: #c0392b; }
 
+    :root { --accento: #c0392b; }
+    .meta-sep { color: #bbb; margin: 0 0.2rem; font-style: normal; }
+    .blocco { margin-top: 1.8rem; }
+    .blocco h2 { font-family: Arial, sans-serif; font-size: 0.78rem; letter-spacing: 0.1em; text-transform: uppercase; color: #444; margin-bottom: 0.6rem; }
+    .nota-blocco { font-family: Arial, sans-serif; font-size: 0.8rem; color: #666; line-height: 1.5; margin-bottom: 0.8rem; }
+    .blocco.fatti { background: #fbf8f2; border: 1px solid #d9d2c3; padding: 1.1rem 1.3rem; }
+    .blocco.fatti .nota-blocco { margin: 0.8rem 0 0; }
+    .blocco.fatti ul { padding-left: 1.1rem; }
+    .blocco.fatti li { margin-bottom: 0.6rem; line-height: 1.55; }
+    .fonte-link { font-family: Arial, sans-serif; font-size: 0.75rem; color: #666; text-decoration: none; border-bottom: 1px dotted #999; white-space: nowrap; }
+    .fonte-link:hover { color: var(--accento); }
+    .blocco.lettura h2 { color: var(--accento); margin-bottom: 0.2rem; }
+    .blocco.incerto { background: #eae3d5; padding: 1rem 1.3rem; }
+    .blocco.incerto ul { padding-left: 1.1rem; }
+    .blocco.incerto li { margin-bottom: 0.4rem; line-height: 1.5; }
+    .blocco.generato { border: 1px solid #1a1a1a; padding: 1rem 1.3rem; font-family: Arial, sans-serif; font-size: 0.88rem; line-height: 1.6; color: #333; }
+    .blocco.generato .link-riga { margin-top: 0.6rem; }
+    .blocco.generato .link-riga a { margin-right: 1.2rem; color: #1a1a1a; font-weight: bold; }
+    .blocco.correlati ul { list-style: none; padding: 0; }
+    .blocco.correlati li { padding: 0.55rem 0; border-bottom: 1px solid #e3dccd; display: flex; justify-content: space-between; gap: 1rem; line-height: 1.4; }
+    .blocco.correlati a { color: #1a1a1a; text-decoration: none; }
+    .blocco.correlati a:hover { color: var(--accento); }
+    .corr-data { font-family: Arial, sans-serif; font-size: 0.75rem; color: #888; white-space: nowrap; }
+
     footer {
       text-align: center;
       padding: 2rem;
@@ -285,9 +309,25 @@
   <article class="sport">
     <div class="categoria-label sport">Sport</div>
     <h1 class="post-titolo">Musetti in semifinale a Stoccolma: sfida Fritz sul cemento indoor</h1>
-    <div class="post-data">venerdì 13 novembre 2026</div>
-    <div class="post-testo">Lorenzo Musetti, 24 anni, numero 25 del mondo, ha superato ai quarti di finale dell'ATP 250 di Stoccolma il francese Ugo Humbert con il punteggio di 7-6, 3-6, 6-4 in due ore e mezza di gioco, centrando la sua 27esima semifinale nel circuito maggiore. Oggi affronterà Taylor Fritz, numero 1 del seeding. È la terza semifinale stagionale per il carrarino, e arriva in un finale d'anno che lo vede in forma crescente: dieci vittorie nelle ultime 30 giornate. La notizia è stata quasi sepolta dalla vittoria della Nazionale di calcio contro la Francia, ma il tennis italiano — sport che esiste anche fuori dai Grand Slam e dalle Finals di Torino — continua a produrre risultati di rilievo nel circuito internazionale. Musetti gioca su Sky Sport, non in chiaro: chi vuole seguirlo paga. Chi invece preferisce aspettare le interviste lo trovava gratis sulle news. Il solito racconto del tifo televisivo che si accende solo quando si vince.</div>
+    <div class="post-data">venerdì 13 novembre 2026 <span class="meta-sep">&middot;</span> Commento IA <span class="meta-sep">&middot;</span> 1 min di lettura</div>
+    <section class="blocco fatti">
+      <h2>I fatti</h2>
+      <ul><li>Lorenzo Musetti ha battuto Ugo Humbert 7-6, 3-6, 6-4 in due ore e mezza di gioco, qualificandosi per la semifinale dell'ATP 250 di Stoccolma. <a class="fonte-link" href="https://www.ansa.it/sito/notizie/sport/tennis/2026/11/12/tennis-stoccolma-musetti-supera-humbert-e-va-in-semifinale_8c2edb84-43b8-4117-9325-50f9fc5155c1.html" target="_blank" rel="noopener">ANSA &#8599;</a></li><li>Musetti (n. 25 ATP, terza testa di serie) affronterà in semifinale Taylor Fritz, numero 1 del seeding; il match è in programma oggi 13 novembre. <a class="fonte-link" href="https://sport.sky.it/tennis/2026/11/12/musetti-humbert-atp-stoccolma-risultato" target="_blank" rel="noopener">Sky Sport &#8599;</a></li><li>La semifinale di Stoccolma è la 27esima semifinale in carriera sul circuito maggiore per Musetti, e la sua 30esima vittoria stagionale. <a class="fonte-link" href="https://sport.sky.it/tennis/2026/11/12/musetti-humbert-atp-stoccolma-risultato" target="_blank" rel="noopener">Sky Sport &#8599;</a></li></ul>
+      <p class="nota-blocco">Ogni fatto rimanda alla pagina in cui è stato trovato.</p>
+    </section>
+    <section class="blocco lettura">
+      <h2>La lettura</h2>
+      <p class="nota-blocco">Commento di un'IA. La domanda è sempre la stessa: chi ci guadagna?</p>
+      <div class="post-testo">Lorenzo Musetti, 24 anni, numero 25 del mondo, ha superato ai quarti di finale dell'ATP 250 di Stoccolma il francese Ugo Humbert con il punteggio di 7-6, 3-6, 6-4 in due ore e mezza di gioco, centrando la sua 27esima semifinale nel circuito maggiore. Oggi affronterà Taylor Fritz, numero 1 del seeding. È la terza semifinale stagionale per il carrarino, e arriva in un finale d'anno che lo vede in forma crescente: dieci vittorie nelle ultime 30 giornate. La notizia è stata quasi sepolta dalla vittoria della Nazionale di calcio contro la Francia, ma il tennis italiano — sport che esiste anche fuori dai Grand Slam e dalle Finals di Torino — continua a produrre risultati di rilievo nel circuito internazionale. Musetti gioca su Sky Sport, non in chiaro: chi vuole seguirlo paga. Chi invece preferisce aspettare le interviste lo trovava gratis sulle news. Il solito racconto del tifo televisivo che si accende solo quando si vince.</div>
+    </section>
     
+    <section class="blocco incerto"><h2>Cosa non sappiamo</h2><ul><li>Il risultato della semifinale contro Fritz non è ancora noto al momento della pubblicazione.</li></ul></section>
+    <section class="blocco generato">
+      <h2>Come è stato generato</h2>
+      <p>Scritto da un'intelligenza artificiale (Claude, Anthropic) il 13 novembre 2026, a partire da notizie di ANSA / Sky Sport. Costo dell'intera edizione: &euro; 0,80.</p>
+      <p class="link-riga"><a href="../../../../prompt.html">Il prompt</a><a href="../../../../costi.html">Costi</a></p>
+    </section>
+    <section class="blocco correlati"><h2>Altri articoli di Sport</h2><ul><li><a href="../../../../2026/11/12/mondiali-tiro-a-volo-doha-rossi-sessa-trap-femminile/">Mondiali di tiro a volo a Doha: Rossi e Sessa al comando nel trap femminile</a><span class="corr-data">12 nov</span></li><li><a href="../../../../2026/11/11/mondiali-tiro-segno-pass-olimpici-carabina-50-metri/">Mondiali di tiro a segno: in palio tre pass olimpici nella carabina 3 posizioni 50 metri maschile</a><span class="corr-data">11 nov</span></li><li><a href="../../../../2026/11/10/errani-paolini-wta-finals-indian-wells-2026/">Errani e Paolini alle WTA Finals: oggi il secondo match a Indian Wells</a><span class="corr-data">10 nov</span></li><li><a href="../../../../2026/11/09/olimpiadi-giovanili-dakar-2026-italia-ginnastica-atletica/">Olimpiadi Giovanili di Dakar 2026: oggi 21 medaglie d'oro, l'Italia punta sulla ginnastica e sul tiro con l'arco</a><span class="corr-data">9 nov</span></li></ul></section>
     <div class="tag-bar"><span class="tag-chip">tennis</span><span class="tag-chip">musetti</span><span class="tag-chip">atp-stoccolma</span><span class="tag-chip">fritz</span></div>
     <div class="post-footer">
       <span class="post-fonte">Fonte: ANSA / Sky Sport &nbsp;&middot;&nbsp; <a href="https://www.google.com/search?q=Musetti+semifinale+ATP+Stoccolma+2026+Fritz" target="_blank" rel="noopener">Cerca notizia →</a></span>

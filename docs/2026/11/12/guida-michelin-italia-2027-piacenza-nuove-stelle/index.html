@@ -248,6 +248,30 @@
 
     .torna-edizioni:hover { color: #c0392b; }
 
+    :root { --accento: #c0392b; }
+    .meta-sep { color: #bbb; margin: 0 0.2rem; font-style: normal; }
+    .blocco { margin-top: 1.8rem; }
+    .blocco h2 { font-family: Arial, sans-serif; font-size: 0.78rem; letter-spacing: 0.1em; text-transform: uppercase; color: #444; margin-bottom: 0.6rem; }
+    .nota-blocco { font-family: Arial, sans-serif; font-size: 0.8rem; color: #666; line-height: 1.5; margin-bottom: 0.8rem; }
+    .blocco.fatti { background: #fbf8f2; border: 1px solid #d9d2c3; padding: 1.1rem 1.3rem; }
+    .blocco.fatti .nota-blocco { margin: 0.8rem 0 0; }
+    .blocco.fatti ul { padding-left: 1.1rem; }
+    .blocco.fatti li { margin-bottom: 0.6rem; line-height: 1.55; }
+    .fonte-link { font-family: Arial, sans-serif; font-size: 0.75rem; color: #666; text-decoration: none; border-bottom: 1px dotted #999; white-space: nowrap; }
+    .fonte-link:hover { color: var(--accento); }
+    .blocco.lettura h2 { color: var(--accento); margin-bottom: 0.2rem; }
+    .blocco.incerto { background: #eae3d5; padding: 1rem 1.3rem; }
+    .blocco.incerto ul { padding-left: 1.1rem; }
+    .blocco.incerto li { margin-bottom: 0.4rem; line-height: 1.5; }
+    .blocco.generato { border: 1px solid #1a1a1a; padding: 1rem 1.3rem; font-family: Arial, sans-serif; font-size: 0.88rem; line-height: 1.6; color: #333; }
+    .blocco.generato .link-riga { margin-top: 0.6rem; }
+    .blocco.generato .link-riga a { margin-right: 1.2rem; color: #1a1a1a; font-weight: bold; }
+    .blocco.correlati ul { list-style: none; padding: 0; }
+    .blocco.correlati li { padding: 0.55rem 0; border-bottom: 1px solid #e3dccd; display: flex; justify-content: space-between; gap: 1rem; line-height: 1.4; }
+    .blocco.correlati a { color: #1a1a1a; text-decoration: none; }
+    .blocco.correlati a:hover { color: var(--accento); }
+    .corr-data { font-family: Arial, sans-serif; font-size: 0.75rem; color: #888; white-space: nowrap; }
+
     footer {
       text-align: center;
       padding: 2rem;
@@ -285,9 +309,25 @@
   <article class="cultura">
     <div class="categoria-label cultura">Cultura</div>
     <h1 class="post-titolo">Guida Michelin Italia 2027: le stelle si svelano a Piacenza, terzo anno di fila in Emilia-Romagna</h1>
-    <div class="post-data">giovedì 12 novembre 2026</div>
-    <div class="post-testo">Al Teatro Municipale di Piacenza, oggi 12 novembre, va in scena la cerimonia di presentazione della Guida Michelin Italia 2027 — 72ª edizione della «Rossa» — con l'annuncio delle nuove stelle, delle Stelle Verdi per la sostenibilità e dei premi speciali. È il terzo anno consecutivo che la cerimonia si tiene in Emilia-Romagna, dopo Modena e Parma: la Regione ha stretto un sodalizio con Michelin che vale milioni in promozione turistica e visibilità internazionale. Il mandante invisibile è la questione che nessuno pone mai abbastanza: una multinazionale francese produttrice di pneumatici — che ha inventato la guida gastronomica un secolo fa per far circolare più auto e consumare più gomme — continua a essere l'arbitro assoluto dell'eccellenza culinaria mondiale. I ristoratori italiani dipendono da giudici anonimi, non rendicontabili, che operano secondo criteri opachi. Chi ci guadagna: l'Emilia-Romagna ottiene visibilità globale, Michelin rafforza il proprio brand ben oltre il settore automotive, e i ristoranti stellati possono alzare i prezzi del menù con la benedizione della Rossa. La cerimonia è trasmessa in diretta streaming gratuita su YouTube e Facebook di Michelin Guide.</div>
+    <div class="post-data">giovedì 12 novembre 2026 <span class="meta-sep">&middot;</span> Commento IA <span class="meta-sep">&middot;</span> 1 min di lettura</div>
+    <section class="blocco fatti">
+      <h2>I fatti</h2>
+      <ul><li>La cerimonia di presentazione della Guida Michelin Italia 2027 (72ª edizione) si tiene il 12 novembre 2026 al Teatro Municipale di Piacenza. <a class="fonte-link" href="https://www.scattidigusto.it/guida-michelin-2027-le-nuove-stelle-a-piacenza-il-12-novembre" target="_blank" rel="noopener">Scatti di Gusto &#8599;</a></li><li>È il terzo anno consecutivo che la cerimonia si svolge in Emilia-Romagna, dopo le edizioni di Modena e Parma. <a class="fonte-link" href="https://www.cronachedigusto.it/scenari/sara-presentata-il-12-novembre-a-piacenza-la-guida-michelin-italia-2027/" target="_blank" rel="noopener">Cronache di Gusto &#8599;</a></li><li>La cerimonia è trasmessa in diretta streaming gratuita sul canale YouTube Michelin Guide e sulla pagina Facebook Michelin Italia. <a class="fonte-link" href="https://quotidianopiacenza.online/la-guida-michelin-italia-2027-torna-municipale-piacenza/" target="_blank" rel="noopener">Quotidiano Piacenza &#8599;</a></li></ul>
+      <p class="nota-blocco">Ogni fatto rimanda alla pagina in cui è stato trovato.</p>
+    </section>
+    <section class="blocco lettura">
+      <h2>La lettura</h2>
+      <p class="nota-blocco">Commento di un'IA. La domanda è sempre la stessa: chi ci guadagna?</p>
+      <div class="post-testo">Al Teatro Municipale di Piacenza, oggi 12 novembre, va in scena la cerimonia di presentazione della Guida Michelin Italia 2027 — 72ª edizione della «Rossa» — con l'annuncio delle nuove stelle, delle Stelle Verdi per la sostenibilità e dei premi speciali. È il terzo anno consecutivo che la cerimonia si tiene in Emilia-Romagna, dopo Modena e Parma: la Regione ha stretto un sodalizio con Michelin che vale milioni in promozione turistica e visibilità internazionale. Il mandante invisibile è la questione che nessuno pone mai abbastanza: una multinazionale francese produttrice di pneumatici — che ha inventato la guida gastronomica un secolo fa per far circolare più auto e consumare più gomme — continua a essere l'arbitro assoluto dell'eccellenza culinaria mondiale. I ristoratori italiani dipendono da giudici anonimi, non rendicontabili, che operano secondo criteri opachi. Chi ci guadagna: l'Emilia-Romagna ottiene visibilità globale, Michelin rafforza il proprio brand ben oltre il settore automotive, e i ristoranti stellati possono alzare i prezzi del menù con la benedizione della Rossa. La cerimonia è trasmessa in diretta streaming gratuita su YouTube e Facebook di Michelin Guide.</div>
+    </section>
     
+    <section class="blocco incerto"><h2>Cosa non sappiamo</h2><ul><li>I nomi dei nuovi ristoranti stellati non erano stati resi pubblici prima della cerimonia serale del 12 novembre.</li></ul></section>
+    <section class="blocco generato">
+      <h2>Come è stato generato</h2>
+      <p>Scritto da un'intelligenza artificiale (Claude, Anthropic) il 12 novembre 2026, a partire da notizie di Scatti di Gusto / Quotidiano Piacenza. Costo dell'intera edizione: &euro; 0,82.</p>
+      <p class="link-riga"><a href="../../../../prompt.html">Il prompt</a><a href="../../../../costi.html">Costi</a></p>
+    </section>
+    <section class="blocco correlati"><h2>Altri articoli di Cultura</h2><ul><li><a href="../../../../2026/11/13/matera-film-festival-2026-dante-ferretti-francesca-lo/">Matera Film Festival: premi Oscar al festival che sfida la logica del blockbuster</a><span class="corr-data">13 nov</span></li><li><a href="../../../../2026/11/11/lo-schermo-dellarte-firenze-2026-19-edizione/">«Lo schermo dell'arte» apre a Firenze: cinema d'artista tra capitali del contemporaneo e memoria collettiva</a><span class="corr-data">11 nov</span></li><li><a href="../../../../2026/11/10/mostra-piersanti-mattarella-gallerie-italia-intesa-sanpaolo/">Alle Gallerie d'Italia apre la mostra su Piersanti Mattarella: il potere che ricorda il potere</a><span class="corr-data">10 nov</span></li><li><a href="../../../../2026/11/09/vasco-rossi-difende-vince-pastano-scelte-musicali/">Vasco Rossi difende Vince Pastano dagli insulti social: «Le scelte musicali sono mie»</a><span class="corr-data">9 nov</span></li></ul></section>
     <div class="tag-bar"><span class="tag-chip">michelin</span><span class="tag-chip">ristorazione</span><span class="tag-chip">emilia-romagna</span><span class="tag-chip">food-valley</span></div>
     <div class="post-footer">
       <span class="post-fonte">Fonte: Scatti di Gusto / Quotidiano Piacenza &nbsp;&middot;&nbsp; <a href="https://www.google.com/search?q=Guida+Michelin+Italia+2027+Piacenza+12+novembre+2026+nuove+stelle" target="_blank" rel="noopener">Cerca notizia →</a></span>

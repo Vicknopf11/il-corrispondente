@@ -248,6 +248,30 @@
 
     .torna-edizioni:hover { color: #c0392b; }
 
+    :root { --accento: #c0392b; }
+    .meta-sep { color: #bbb; margin: 0 0.2rem; font-style: normal; }
+    .blocco { margin-top: 1.8rem; }
+    .blocco h2 { font-family: Arial, sans-serif; font-size: 0.78rem; letter-spacing: 0.1em; text-transform: uppercase; color: #444; margin-bottom: 0.6rem; }
+    .nota-blocco { font-family: Arial, sans-serif; font-size: 0.8rem; color: #666; line-height: 1.5; margin-bottom: 0.8rem; }
+    .blocco.fatti { background: #fbf8f2; border: 1px solid #d9d2c3; padding: 1.1rem 1.3rem; }
+    .blocco.fatti .nota-blocco { margin: 0.8rem 0 0; }
+    .blocco.fatti ul { padding-left: 1.1rem; }
+    .blocco.fatti li { margin-bottom: 0.6rem; line-height: 1.55; }
+    .fonte-link { font-family: Arial, sans-serif; font-size: 0.75rem; color: #666; text-decoration: none; border-bottom: 1px dotted #999; white-space: nowrap; }
+    .fonte-link:hover { color: var(--accento); }
+    .blocco.lettura h2 { color: var(--accento); margin-bottom: 0.2rem; }
+    .blocco.incerto { background: #eae3d5; padding: 1rem 1.3rem; }
+    .blocco.incerto ul { padding-left: 1.1rem; }
+    .blocco.incerto li { margin-bottom: 0.4rem; line-height: 1.5; }
+    .blocco.generato { border: 1px solid #1a1a1a; padding: 1rem 1.3rem; font-family: Arial, sans-serif; font-size: 0.88rem; line-height: 1.6; color: #333; }
+    .blocco.generato .link-riga { margin-top: 0.6rem; }
+    .blocco.generato .link-riga a { margin-right: 1.2rem; color: #1a1a1a; font-weight: bold; }
+    .blocco.correlati ul { list-style: none; padding: 0; }
+    .blocco.correlati li { padding: 0.55rem 0; border-bottom: 1px solid #e3dccd; display: flex; justify-content: space-between; gap: 1rem; line-height: 1.4; }
+    .blocco.correlati a { color: #1a1a1a; text-decoration: none; }
+    .blocco.correlati a:hover { color: var(--accento); }
+    .corr-data { font-family: Arial, sans-serif; font-size: 0.75rem; color: #888; white-space: nowrap; }
+
     footer {
       text-align: center;
       padding: 2rem;
@@ -285,9 +309,25 @@
   <article class="cronaca">
     <div class="categoria-label cronaca">Cronaca</div>
     <h1 class="post-titolo">Strage di Viareggio: Moretti ai domiciliari dopo 4 mesi, le famiglie delle vittime: «Per noi ergastolo da 17 anni»</h1>
-    <div class="post-data">giovedì 12 novembre 2026</div>
-    <div class="post-testo">Mauro Moretti, ex amministratore delegato di Ferrovie dello Stato, ha lasciato il carcere di Orvieto il 3 novembre — dopo appena quattro mesi di detenzione — per scontare nella sua abitazione di Roma i cinque anni di condanna definitiva per la strage ferroviaria di Viareggio del 29 giugno 2009, in cui morirono 32 persone e oltre 100 rimasero ferite. Il Tribunale di sorveglianza di Perugia ha accolto le istanze della difesa, motivando la decisione con le condizioni di salute: secondo l'avvocata, Moretti «ha perso 15 chili ed è molto deperito». La causa strutturale rimossa dalla narrazione dominante è quella che si ripete ogni volta: le responsabilità sistemiche — la gestione della sicurezza ferroviaria, le carenze manutentive sui carri cisterna, il modello di governance delle Ferrovie — erano collettive e diffuse, ma sono state condensate su singoli imputati da un processo durato diciassette anni. Il risultato è una pena definitiva di cinque anni, quattro dei quali già scontati fuori dal carcere prima della sentenza, e ora la conversione in domiciliari dopo quattro mesi. Per i familiari delle vittime — che dal 2009 portano avanti la loro battaglia — il dolore, come ha detto Daniela Rombi, «non andrà mai in prescrizione».</div>
+    <div class="post-data">giovedì 12 novembre 2026 <span class="meta-sep">&middot;</span> Commento IA <span class="meta-sep">&middot;</span> 1 min di lettura</div>
+    <section class="blocco fatti">
+      <h2>I fatti</h2>
+      <ul><li>Mauro Moretti, condannato a cinque anni per disastro ferroviario colposo in relazione alla strage di Viareggio del 29 giugno 2009 (32 vittime), ha lasciato il carcere di Orvieto il 3 novembre 2026 per scontare la pena ai domiciliari a Roma. <a class="fonte-link" href="https://www.ansa.it/sito/notizie/cronaca/2026/11/11/strage-di-viareggio-moretti-esce-dal-carcere-scontera-la-condanna-a-casa_18081359-f478-46ae-82c6-bff622bb5011.html" target="_blank" rel="noopener">ANSA &#8599;</a></li><li>Il Tribunale di sorveglianza di Perugia ha accolto le richieste della difesa motivando la scarcerazione con esigenze di tutela della salute: secondo l'avvocata, Moretti ha perso 15 chili. <a class="fonte-link" href="https://www.leggo.it/italia/cronache/11_novembre_2026_mauro_moretti_domiciliari_dimagrito_deperito-9883267.html" target="_blank" rel="noopener">Leggo.it &#8599;</a></li><li>La Corte di Cassazione aveva reso definitiva la condanna di Moretti il 25 giugno 2026, quasi diciassette anni dopo la strage. <a class="fonte-link" href="https://lindipendente.online/2026/11/12/strage-di-viareggio-moretti-scarcerato-dopo-4-mesi-perche-e-molto-dimagrito" target="_blank" rel="noopener">L'Indipendente &#8599;</a></li></ul>
+      <p class="nota-blocco">Ogni fatto rimanda alla pagina in cui è stato trovato.</p>
+    </section>
+    <section class="blocco lettura">
+      <h2>La lettura</h2>
+      <p class="nota-blocco">Commento di un'IA. La domanda è sempre la stessa: chi ci guadagna?</p>
+      <div class="post-testo">Mauro Moretti, ex amministratore delegato di Ferrovie dello Stato, ha lasciato il carcere di Orvieto il 3 novembre — dopo appena quattro mesi di detenzione — per scontare nella sua abitazione di Roma i cinque anni di condanna definitiva per la strage ferroviaria di Viareggio del 29 giugno 2009, in cui morirono 32 persone e oltre 100 rimasero ferite. Il Tribunale di sorveglianza di Perugia ha accolto le istanze della difesa, motivando la decisione con le condizioni di salute: secondo l'avvocata, Moretti «ha perso 15 chili ed è molto deperito». La causa strutturale rimossa dalla narrazione dominante è quella che si ripete ogni volta: le responsabilità sistemiche — la gestione della sicurezza ferroviaria, le carenze manutentive sui carri cisterna, il modello di governance delle Ferrovie — erano collettive e diffuse, ma sono state condensate su singoli imputati da un processo durato diciassette anni. Il risultato è una pena definitiva di cinque anni, quattro dei quali già scontati fuori dal carcere prima della sentenza, e ora la conversione in domiciliari dopo quattro mesi. Per i familiari delle vittime — che dal 2009 portano avanti la loro battaglia — il dolore, come ha detto Daniela Rombi, «non andrà mai in prescrizione».</div>
+    </section>
     
+    
+    <section class="blocco generato">
+      <h2>Come è stato generato</h2>
+      <p>Scritto da un'intelligenza artificiale (Claude, Anthropic) il 12 novembre 2026, a partire da notizie di Il Fatto Quotidiano / ANSA. Costo dell'intera edizione: &euro; 0,82.</p>
+      <p class="link-riga"><a href="../../../../prompt.html">Il prompt</a><a href="../../../../costi.html">Costi</a></p>
+    </section>
+    <section class="blocco correlati"><h2>Altri articoli di Cronaca</h2><ul><li><a href="../../../../2026/11/13/strage-via-damelio-perquisizioni-de-gennaro-borsellino/">Strage di via D'Amelio: perquisizioni all'ex capo della Polizia De Gennaro</a><span class="corr-data">13 nov</span></li><li><a href="../../../../2026/11/11/archiviazione-sala-boeri-catella-inchiesta-urbanistica-milano/">Milano: procura chiede archiviazione per Sala, Boeri e Catella nell'inchiesta urbanistica</a><span class="corr-data">11 nov</span></li><li><a href="../../../../2026/11/10/mafie-nord-italia-cartello-antimafia-relazione-2026/">Mafie al Nord: la commissione antimafia svela il cartello tra ndrangheta, camorra e Cosa Nostra</a><span class="corr-data">10 nov</span></li><li><a href="../../../../2026/11/09/strage-cracovia-attentatore-morto-lutto-nazionale/">Strage di Cracovia: muore l'attentatore, nove vittime totali inclusi i familiari. Polonia in lutto nazionale</a><span class="corr-data">9 nov</span></li></ul></section>
     <div class="tag-bar"><span class="tag-chip">viareggio</span><span class="tag-chip">moretti</span><span class="tag-chip">ferrovie</span><span class="tag-chip">giustizia</span></div>
     <div class="post-footer">
       <span class="post-fonte">Fonte: Il Fatto Quotidiano / ANSA &nbsp;&middot;&nbsp; <a href="https://www.google.com/search?q=Mauro+Moretti+domiciliari+strage+Viareggio+2026" target="_blank" rel="noopener">Cerca notizia →</a></span>

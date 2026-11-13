@@ -248,6 +248,30 @@
 
     .torna-edizioni:hover { color: #c0392b; }
 
+    :root { --accento: #c0392b; }
+    .meta-sep { color: #bbb; margin: 0 0.2rem; font-style: normal; }
+    .blocco { margin-top: 1.8rem; }
+    .blocco h2 { font-family: Arial, sans-serif; font-size: 0.78rem; letter-spacing: 0.1em; text-transform: uppercase; color: #444; margin-bottom: 0.6rem; }
+    .nota-blocco { font-family: Arial, sans-serif; font-size: 0.8rem; color: #666; line-height: 1.5; margin-bottom: 0.8rem; }
+    .blocco.fatti { background: #fbf8f2; border: 1px solid #d9d2c3; padding: 1.1rem 1.3rem; }
+    .blocco.fatti .nota-blocco { margin: 0.8rem 0 0; }
+    .blocco.fatti ul { padding-left: 1.1rem; }
+    .blocco.fatti li { margin-bottom: 0.6rem; line-height: 1.55; }
+    .fonte-link { font-family: Arial, sans-serif; font-size: 0.75rem; color: #666; text-decoration: none; border-bottom: 1px dotted #999; white-space: nowrap; }
+    .fonte-link:hover { color: var(--accento); }
+    .blocco.lettura h2 { color: var(--accento); margin-bottom: 0.2rem; }
+    .blocco.incerto { background: #eae3d5; padding: 1rem 1.3rem; }
+    .blocco.incerto ul { padding-left: 1.1rem; }
+    .blocco.incerto li { margin-bottom: 0.4rem; line-height: 1.5; }
+    .blocco.generato { border: 1px solid #1a1a1a; padding: 1rem 1.3rem; font-family: Arial, sans-serif; font-size: 0.88rem; line-height: 1.6; color: #333; }
+    .blocco.generato .link-riga { margin-top: 0.6rem; }
+    .blocco.generato .link-riga a { margin-right: 1.2rem; color: #1a1a1a; font-weight: bold; }
+    .blocco.correlati ul { list-style: none; padding: 0; }
+    .blocco.correlati li { padding: 0.55rem 0; border-bottom: 1px solid #e3dccd; display: flex; justify-content: space-between; gap: 1rem; line-height: 1.4; }
+    .blocco.correlati a { color: #1a1a1a; text-decoration: none; }
+    .blocco.correlati a:hover { color: var(--accento); }
+    .corr-data { font-family: Arial, sans-serif; font-size: 0.75rem; color: #888; white-space: nowrap; }
+
     footer {
       text-align: center;
       padding: 2rem;
@@ -285,9 +309,25 @@
   <article class="economia">
     <div class="categoria-label economia">Economia</div>
     <h1 class="post-titolo">Sindacati e imprese firmano l'accordo sui salari dopo 18 ore di trattativa</h1>
-    <div class="post-data">giovedì 12 novembre 2026</div>
-    <div class="post-testo">All'alba del 12 novembre, dopo una maratona negoziale di quasi diciotto ore in viale dell'Astronomia, Cgil, Cisl, Uil e tredici associazioni datoriali — da Confindustria a Confcommercio, dagli artigiani alle cooperative — hanno siglato un'ipotesi di accordo quadro su salari, rappresentanza e rinnovi contrattuali. La ministra Calderone lo ha subito battezzato «accordo storico». Il coro compatto dei consensi dovrebbe però indurre qualche prudenza: si tratta ancora di una «preintesa», e le nuove regole sui rinnovi si applicheranno solo ai contratti che scadranno dopo il 1° luglio 2027. Nel frattempo, i dati Eurostat confermano che gli stipendi italiani continuano a scivolare nella classifica europea, e Istat calcola che la manovra in discussione penalizzerà circa tre milioni di famiglie con redditi tra 35.000 e 50.000 euro. L'accordo punta a contrastare i «contratti pirata» — che abbassano paghe e diritti — attraverso la misurazione della rappresentatività, ma la sua efficacia concreta dipenderà dall'implementazione, terreno su cui accordi analoghi del passato (dal Patto di Palazzo Chigi del 1993 in poi) hanno spesso deluso.</div>
+    <div class="post-data">giovedì 12 novembre 2026 <span class="meta-sep">&middot;</span> Commento IA <span class="meta-sep">&middot;</span> 1 min di lettura</div>
+    <section class="blocco fatti">
+      <h2>I fatti</h2>
+      <ul><li>Cgil, Cisl, Uil e tredici associazioni datoriali, tra cui Confindustria e Confcommercio, hanno siglato nella mattinata del 12 novembre un'ipotesi di accordo quadro su rappresentanza, assetti contrattuali e salari, al termine di una trattativa durata quasi diciotto ore. <a class="fonte-link" href="https://ansa.it/sito/notizie/topnews/2026/11/12/imprese-sindacati-siglata-lintesa-su-rappresentanza-e-contratti_4026ec75-1d1c-4408-aae0-37105f2b1b40.html" target="_blank" rel="noopener">ANSA &#8599;</a></li><li>La ministra del Lavoro Marina Calderone ha definito l'intesa «un accordo storico, che dimostra il valore del dialogo tra le parti sociali». <a class="fonte-link" href="https://ansa.it/sito/notizie/topnews/2026/11/12/calderone-intesa-sindacati-imprese-un-accordo-storico_c5e0fe3c-4fa4-460b-84b6-51b44e2b8e2a.html" target="_blank" rel="noopener">ANSA &#8599;</a></li><li>Le nuove regole sui rinnovi contrattuali si applicheranno ai contratti che scadranno dopo il 1° luglio 2027. <a class="fonte-link" href="https://askanews.it/2026/11/12/lavoro-raggiunto-accordo-tra-imprese-e-sindacati-su-salari-rappresentanza-e-contratti/" target="_blank" rel="noopener">Askanews &#8599;</a></li><li>L'accordo prevede criteri per misurare e certificare la rappresentatività delle sigle sindacali e datoriali, con l'obiettivo di contrastare i contratti pirata. <a class="fonte-link" href="https://www.agi.it/economia/news/2026-11-12/salari-contratti-accordo-cgil-cisl-uil-imprese-39991061/" target="_blank" rel="noopener">AGI &#8599;</a></li></ul>
+      <p class="nota-blocco">Ogni fatto rimanda alla pagina in cui è stato trovato.</p>
+    </section>
+    <section class="blocco lettura">
+      <h2>La lettura</h2>
+      <p class="nota-blocco">Commento di un'IA. La domanda è sempre la stessa: chi ci guadagna?</p>
+      <div class="post-testo">All'alba del 12 novembre, dopo una maratona negoziale di quasi diciotto ore in viale dell'Astronomia, Cgil, Cisl, Uil e tredici associazioni datoriali — da Confindustria a Confcommercio, dagli artigiani alle cooperative — hanno siglato un'ipotesi di accordo quadro su salari, rappresentanza e rinnovi contrattuali. La ministra Calderone lo ha subito battezzato «accordo storico». Il coro compatto dei consensi dovrebbe però indurre qualche prudenza: si tratta ancora di una «preintesa», e le nuove regole sui rinnovi si applicheranno solo ai contratti che scadranno dopo il 1° luglio 2027. Nel frattempo, i dati Eurostat confermano che gli stipendi italiani continuano a scivolare nella classifica europea, e Istat calcola che la manovra in discussione penalizzerà circa tre milioni di famiglie con redditi tra 35.000 e 50.000 euro. L'accordo punta a contrastare i «contratti pirata» — che abbassano paghe e diritti — attraverso la misurazione della rappresentatività, ma la sua efficacia concreta dipenderà dall'implementazione, terreno su cui accordi analoghi del passato (dal Patto di Palazzo Chigi del 1993 in poi) hanno spesso deluso.</div>
+    </section>
     
+    <section class="blocco incerto"><h2>Cosa non sappiamo</h2><ul><li>Le modalità concrete di implementazione dell'accordo e la sua efficacia nel ridurre i contratti pirata non sono ancora verificabili.</li><li>Non è confermato se e quando il governo recepirebbe formalmente l'accordo, come richiesto dai sindacati.</li></ul></section>
+    <section class="blocco generato">
+      <h2>Come è stato generato</h2>
+      <p>Scritto da un'intelligenza artificiale (Claude, Anthropic) il 12 novembre 2026, a partire da notizie di ANSA / AGI. Costo dell'intera edizione: &euro; 0,82.</p>
+      <p class="link-riga"><a href="../../../../prompt.html">Il prompt</a><a href="../../../../costi.html">Costi</a></p>
+    </section>
+    <section class="blocco correlati"><h2>Altri articoli di Economia</h2><ul><li><a href="../../../../2026/11/13/accordo-sindacati-imprese-salario-giusto-dicembre-2026/">Accordo storico sindacati-imprese sul salario giusto: firma il 14 dicembre</a><span class="corr-data">13 nov</span></li><li><a href="../../../../2026/11/11/anthropic-ipo-nasdaq-valutazione-1300-miliardi/">Anthropic verso il Nasdaq: IPO da 1.300 miliardi con una perdita da 104 miliardi</a><span class="corr-data">11 nov</span></li><li><a href="../../../../2026/11/10/credit-agricole-fusione-banco-bpm-terzo-polo-bancario/">Crédit Agricole offre la fusione a Banco BPM: il terzo polo bancario diventa francese</a><span class="corr-data">10 nov</span></li><li><a href="../../../../2026/11/09/intesa-sanpaolo-opa-monte-paschi-consob-approvazione/">Consob approva l'OPA di Intesa Sanpaolo su Monte dei Paschi: adesioni dal 24 novembre</a><span class="corr-data">9 nov</span></li></ul></section>
     <div class="tag-bar"><span class="tag-chip">salari</span><span class="tag-chip">contratti</span><span class="tag-chip">sindacati</span><span class="tag-chip">relazioni-industriali</span></div>
     <div class="post-footer">
       <span class="post-fonte">Fonte: ANSA / AGI &nbsp;&middot;&nbsp; <a href="https://www.google.com/search?q=accordo+sindacati+imprese+salari+contratti+Cgil+Confindustria+12+novembre+2026" target="_blank" rel="noopener">Cerca notizia →</a></span>

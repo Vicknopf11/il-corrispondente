@@ -248,6 +248,30 @@
 
     .torna-edizioni:hover { color: #c0392b; }
 
+    :root { --accento: #c0392b; }
+    .meta-sep { color: #bbb; margin: 0 0.2rem; font-style: normal; }
+    .blocco { margin-top: 1.8rem; }
+    .blocco h2 { font-family: Arial, sans-serif; font-size: 0.78rem; letter-spacing: 0.1em; text-transform: uppercase; color: #444; margin-bottom: 0.6rem; }
+    .nota-blocco { font-family: Arial, sans-serif; font-size: 0.8rem; color: #666; line-height: 1.5; margin-bottom: 0.8rem; }
+    .blocco.fatti { background: #fbf8f2; border: 1px solid #d9d2c3; padding: 1.1rem 1.3rem; }
+    .blocco.fatti .nota-blocco { margin: 0.8rem 0 0; }
+    .blocco.fatti ul { padding-left: 1.1rem; }
+    .blocco.fatti li { margin-bottom: 0.6rem; line-height: 1.55; }
+    .fonte-link { font-family: Arial, sans-serif; font-size: 0.75rem; color: #666; text-decoration: none; border-bottom: 1px dotted #999; white-space: nowrap; }
+    .fonte-link:hover { color: var(--accento); }
+    .blocco.lettura h2 { color: var(--accento); margin-bottom: 0.2rem; }
+    .blocco.incerto { background: #eae3d5; padding: 1rem 1.3rem; }
+    .blocco.incerto ul { padding-left: 1.1rem; }
+    .blocco.incerto li { margin-bottom: 0.4rem; line-height: 1.5; }
+    .blocco.generato { border: 1px solid #1a1a1a; padding: 1rem 1.3rem; font-family: Arial, sans-serif; font-size: 0.88rem; line-height: 1.6; color: #333; }
+    .blocco.generato .link-riga { margin-top: 0.6rem; }
+    .blocco.generato .link-riga a { margin-right: 1.2rem; color: #1a1a1a; font-weight: bold; }
+    .blocco.correlati ul { list-style: none; padding: 0; }
+    .blocco.correlati li { padding: 0.55rem 0; border-bottom: 1px solid #e3dccd; display: flex; justify-content: space-between; gap: 1rem; line-height: 1.4; }
+    .blocco.correlati a { color: #1a1a1a; text-decoration: none; }
+    .blocco.correlati a:hover { color: var(--accento); }
+    .corr-data { font-family: Arial, sans-serif; font-size: 0.75rem; color: #888; white-space: nowrap; }
+
     footer {
       text-align: center;
       padding: 2rem;
@@ -285,9 +309,25 @@
   <article class="nazionale">
     <div class="categoria-label nazionale">Politica Nazionale</div>
     <h1 class="post-titolo">Giorgetti e gli aiuti a Kiev: la Lega frena, Meloni assicura</h1>
-    <div class="post-data">mercoledì 11 novembre 2026</div>
-    <div class="post-testo">Oggi Palazzo Chigi è teatro di uno dei rituali più rodati della politica italiana: la tensione interna alla maggioranza viene imboscata sotto una spiegazione tecnica. Il ministro dell'Economia Giorgetti non ha ancora firmato il tredicesimo pacchetto di aiuti all'Ucraina — mentre il ministro Crosetto è al Copasir per il passaggio formale. Meloni spiega che si tratta di un «impedimento fisico temporaneo». I giornali titolano diversamente: fonti Lega parlano di «contrarietà politica» del partito di Salvini sugli aiuti per il 2027. Mandante invisibile del gelo: non il singolo ministro, ma la parte di elettorato leghista che preferisce un accordo con Mosca a nuove forniture militari a Kiev. Nel frattempo il governo accelera sull'acquisto di 115 F-35, con buona pace del pacifismo d'accatto. Chi ci guadagna dall'ambiguità? L'industria della difesa — Leonardo è ai massimi storici — e Salvini, che si posiziona per le prossime elezioni su un profilo meno atlantista. Doppio standard: se un ministro di centrosinistra avesse ritardato una firma strategica in sede internazionale, i titoli sarebbero stati tutt'altri.</div>
+    <div class="post-data">mercoledì 11 novembre 2026 <span class="meta-sep">&middot;</span> Commento IA <span class="meta-sep">&middot;</span> 1 min di lettura</div>
+    <section class="blocco fatti">
+      <h2>I fatti</h2>
+      <ul><li>Meloni ha dichiarato che il mancato invio degli aiuti all'Ucraina da parte di Giorgetti è un «impedimento fisico temporaneo» e che «la posizione dell'Italia non cambierà». <a class="fonte-link" href="https://ansa.it/sito/notizie/politica/2026/11/10/ucraina-meloni-sempre-trovata-una-sintesi-la-posizione-dellitalia-non-cambiera_83808254-a528-4178-aee1-ade2f46fc15d.html" target="_blank" rel="noopener">ANSA &#8599;</a></li><li>Fonti Lega hanno dichiarato la «contrarietà politica» del partito sul decreto legge degli aiuti a Kiev per il 2027, con uno scontro al Copasir tra Borghi e Crosetto sull'elenco delle armi. <a class="fonte-link" href="https://tp24.it/2026/11/11/cronaca/11-novembre-cade-l-inchiesta-sull-urbanistica-a-milano-minacce-a-tajani-colloqui-tra-russi-e-ucraini/242010" target="_blank" rel="noopener">tp24 / ANSA &#8599;</a></li><li>Il governo ha accelerato sull'acquisto di 115 F-35, secondo quanto riportato dalla rassegna stampa del 11 novembre. <a class="fonte-link" href="https://tp24.it/2026/11/11/cronaca/11-novembre-cade-l-inchiesta-sull-urbanistica-a-milano-minacce-a-tajani-colloqui-tra-russi-e-ucraini/242010" target="_blank" rel="noopener">tp24 &#8599;</a></li></ul>
+      <p class="nota-blocco">Ogni fatto rimanda alla pagina in cui è stato trovato.</p>
+    </section>
+    <section class="blocco lettura">
+      <h2>La lettura</h2>
+      <p class="nota-blocco">Commento di un'IA. La domanda è sempre la stessa: chi ci guadagna?</p>
+      <div class="post-testo">Oggi Palazzo Chigi è teatro di uno dei rituali più rodati della politica italiana: la tensione interna alla maggioranza viene imboscata sotto una spiegazione tecnica. Il ministro dell'Economia Giorgetti non ha ancora firmato il tredicesimo pacchetto di aiuti all'Ucraina — mentre il ministro Crosetto è al Copasir per il passaggio formale. Meloni spiega che si tratta di un «impedimento fisico temporaneo». I giornali titolano diversamente: fonti Lega parlano di «contrarietà politica» del partito di Salvini sugli aiuti per il 2027. Mandante invisibile del gelo: non il singolo ministro, ma la parte di elettorato leghista che preferisce un accordo con Mosca a nuove forniture militari a Kiev. Nel frattempo il governo accelera sull'acquisto di 115 F-35, con buona pace del pacifismo d'accatto. Chi ci guadagna dall'ambiguità? L'industria della difesa — Leonardo è ai massimi storici — e Salvini, che si posiziona per le prossime elezioni su un profilo meno atlantista. Doppio standard: se un ministro di centrosinistra avesse ritardato una firma strategica in sede internazionale, i titoli sarebbero stati tutt'altri.</div>
+    </section>
     
+    <section class="blocco incerto"><h2>Cosa non sappiamo</h2><ul><li>Non è confermato se e quando Giorgetti firmerà effettivamente il pacchetto di aiuti, né se la Lega formalizzerà la sua opposizione in sede parlamentare.</li></ul></section>
+    <section class="blocco generato">
+      <h2>Come è stato generato</h2>
+      <p>Scritto da un'intelligenza artificiale (Claude, Anthropic) il 11 novembre 2026, a partire da notizie di ANSA / Il Post / tp24. Costo dell'intera edizione: &euro; 0,91.</p>
+      <p class="link-riga"><a href="../../../../prompt.html">Il prompt</a><a href="../../../../costi.html">Costi</a></p>
+    </section>
+    <section class="blocco correlati"><h2>Altri articoli di Politica Nazionale</h2><ul><li><a href="../../../../2026/11/13/allarmi-bomba-scuole-prefetto-decide-evacuazioni/">Allarmi bomba in 3.778 scuole: ora decide il prefetto, non il preside</a><span class="corr-data">13 nov</span></li><li><a href="../../../../2026/11/12/allarmi-bomba-scuole-meloni-opposizioni-palazzo-chigi/">Falsi allarmi bomba in 6.300 scuole: Meloni convoca le opposizioni, l'Italia si scopre fragile</a><span class="corr-data">12 nov</span></li><li><a href="../../../../2026/11/10/giorgetti-non-firma-aiuti-ucraina-governo-spaccatura/">Il giallo della firma di Giorgetti sugli aiuti a Kiev spacca il governo</a><span class="corr-data">10 nov</span></li><li><a href="../../../../2026/11/09/cyberattacchi-italia-governo-vertice-piantedosi/">Cyberattacchi all'Italia: il governo convoca vertici ma la task force arriva a dicembre</a><span class="corr-data">9 nov</span></li></ul></section>
     <div class="tag-bar"><span class="tag-chip">lega</span><span class="tag-chip">ucraina</span><span class="tag-chip">manovra</span><span class="tag-chip">maggioranza</span></div>
     <div class="post-footer">
       <span class="post-fonte">Fonte: ANSA / Il Post / tp24 &nbsp;&middot;&nbsp; <a href="https://www.google.com/search?q=Giorgetti+aiuti+Ucraina+Lega+Meloni+firma+novembre+2026" target="_blank" rel="noopener">Cerca notizia →</a></span>

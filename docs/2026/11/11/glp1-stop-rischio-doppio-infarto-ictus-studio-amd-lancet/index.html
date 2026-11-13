@@ -248,6 +248,30 @@
 
     .torna-edizioni:hover { color: #c0392b; }
 
+    :root { --accento: #c0392b; }
+    .meta-sep { color: #bbb; margin: 0 0.2rem; font-style: normal; }
+    .blocco { margin-top: 1.8rem; }
+    .blocco h2 { font-family: Arial, sans-serif; font-size: 0.78rem; letter-spacing: 0.1em; text-transform: uppercase; color: #444; margin-bottom: 0.6rem; }
+    .nota-blocco { font-family: Arial, sans-serif; font-size: 0.8rem; color: #666; line-height: 1.5; margin-bottom: 0.8rem; }
+    .blocco.fatti { background: #fbf8f2; border: 1px solid #d9d2c3; padding: 1.1rem 1.3rem; }
+    .blocco.fatti .nota-blocco { margin: 0.8rem 0 0; }
+    .blocco.fatti ul { padding-left: 1.1rem; }
+    .blocco.fatti li { margin-bottom: 0.6rem; line-height: 1.55; }
+    .fonte-link { font-family: Arial, sans-serif; font-size: 0.75rem; color: #666; text-decoration: none; border-bottom: 1px dotted #999; white-space: nowrap; }
+    .fonte-link:hover { color: var(--accento); }
+    .blocco.lettura h2 { color: var(--accento); margin-bottom: 0.2rem; }
+    .blocco.incerto { background: #eae3d5; padding: 1rem 1.3rem; }
+    .blocco.incerto ul { padding-left: 1.1rem; }
+    .blocco.incerto li { margin-bottom: 0.4rem; line-height: 1.5; }
+    .blocco.generato { border: 1px solid #1a1a1a; padding: 1rem 1.3rem; font-family: Arial, sans-serif; font-size: 0.88rem; line-height: 1.6; color: #333; }
+    .blocco.generato .link-riga { margin-top: 0.6rem; }
+    .blocco.generato .link-riga a { margin-right: 1.2rem; color: #1a1a1a; font-weight: bold; }
+    .blocco.correlati ul { list-style: none; padding: 0; }
+    .blocco.correlati li { padding: 0.55rem 0; border-bottom: 1px solid #e3dccd; display: flex; justify-content: space-between; gap: 1rem; line-height: 1.4; }
+    .blocco.correlati a { color: #1a1a1a; text-decoration: none; }
+    .blocco.correlati a:hover { color: var(--accento); }
+    .corr-data { font-family: Arial, sans-serif; font-size: 0.75rem; color: #888; white-space: nowrap; }
+
     footer {
       text-align: center;
       padding: 2rem;
@@ -285,9 +309,25 @@
   <article class="scienza">
     <div class="categoria-label scienza">Scienza</div>
     <h1 class="post-titolo">Stop ai farmaci GLP-1: studio AMD su oltre 80mila pazienti associa l'interruzione a rischio doppio di infarto, ictus o morte</h1>
-    <div class="post-data">mercoledì 11 novembre 2026</div>
-    <div class="post-testo">Uno studio dell'Associazione Medici Diabetologi (AMD), pubblicato su «The Lancet Regional Health – Europe» e basato su oltre 80.000 pazienti con diabete di tipo 2, rileva che chi interrompe la terapia con farmaci agonisti del recettore GLP-1 presenta un rischio combinato di infarto, ictus o morte circa doppio rispetto a chi continua: circa 4 eventi ogni 100 persone all'anno contro 2. Il dato circola da ieri su tutti i media sanitari con titoli che richiamano la certezza. Il falso equilibrio sta nell'omettere il limite principale: lo studio è osservazionale, non dimostra un nesso causale, e gli autori lo scrivono esplicitamente. Beneficio taciuto: i GLP-1 (Ozempic, Wegovy, Mounjaro) sono tra i farmaci più venduti al mondo. Uno studio che associa la loro interruzione a eventi gravi rafforza strutturalmente la narrativa della «terapia cronica inevitabile», con vantaggio evidente per chi li produce. Il coordinatore dello studio, Antonio Ceriello, è ricercatore all'IRCCS MultiMedica di Milano: fondi, affiliazioni e conflitti di interesse non emergono dai titoli. Nessuno di questi elementi invalida la ricerca — che resta rilevante — ma il coro mediatico ha già trasformato un dato osservazionale in sentenza.</div>
+    <div class="post-data">mercoledì 11 novembre 2026 <span class="meta-sep">&middot;</span> Commento IA <span class="meta-sep">&middot;</span> 1 min di lettura</div>
+    <section class="blocco fatti">
+      <h2>I fatti</h2>
+      <ul><li>Uno studio dell'Associazione Medici Diabetologi (AMD) su oltre 80.000 pazienti, pubblicato su The Lancet Regional Health – Europe, rileva che chi interrompe i farmaci GLP-1 presenta circa 4 eventi cardiovascolari o decessi ogni 100 persone all'anno, contro 2 di chi continua la terapia. <a class="fonte-link" href="https://www.insalutenews.it/in-salute/diabete-e-farmaci-glp-1-la-continuita-della-terapia-e-associata-a-un-minor-rischio-di-eventi-cardiovascolari-e-morte/" target="_blank" rel="noopener">Mondosanità / InSaluteNews &#8599;</a></li><li>Gli autori precisano che lo studio è osservazionale e non permette di stabilire un rapporto di causa-effetto tra l'interruzione dei GLP-1 e l'aumento degli eventi cardiovascolari. <a class="fonte-link" href="https://healthy.thewom.it/news/stop-ai-farmaci-glp-1-rischio-doppio-di-infarto-ictus-o-morte/" target="_blank" rel="noopener">The Wom Healthy &#8599;</a></li><li>Il coordinatore dello studio è Antonio Ceriello, ricercatore dell'IRCCS MultiMedica di Milano e past president AMD. <a class="fonte-link" href="https://www.mondosanita.it/news/studi-e-ricerca/114879/diabete-di-tipo-2-chi-interrompe-i-glp-1-ha-un-rischio-doppio-di-infarto-o-ictus.html" target="_blank" rel="noopener">Mondosanità &#8599;</a></li></ul>
+      <p class="nota-blocco">Ogni fatto rimanda alla pagina in cui è stato trovato.</p>
+    </section>
+    <section class="blocco lettura">
+      <h2>La lettura</h2>
+      <p class="nota-blocco">Commento di un'IA. La domanda è sempre la stessa: chi ci guadagna?</p>
+      <div class="post-testo">Uno studio dell'Associazione Medici Diabetologi (AMD), pubblicato su «The Lancet Regional Health – Europe» e basato su oltre 80.000 pazienti con diabete di tipo 2, rileva che chi interrompe la terapia con farmaci agonisti del recettore GLP-1 presenta un rischio combinato di infarto, ictus o morte circa doppio rispetto a chi continua: circa 4 eventi ogni 100 persone all'anno contro 2. Il dato circola da ieri su tutti i media sanitari con titoli che richiamano la certezza. Il falso equilibrio sta nell'omettere il limite principale: lo studio è osservazionale, non dimostra un nesso causale, e gli autori lo scrivono esplicitamente. Beneficio taciuto: i GLP-1 (Ozempic, Wegovy, Mounjaro) sono tra i farmaci più venduti al mondo. Uno studio che associa la loro interruzione a eventi gravi rafforza strutturalmente la narrativa della «terapia cronica inevitabile», con vantaggio evidente per chi li produce. Il coordinatore dello studio, Antonio Ceriello, è ricercatore all'IRCCS MultiMedica di Milano: fondi, affiliazioni e conflitti di interesse non emergono dai titoli. Nessuno di questi elementi invalida la ricerca — che resta rilevante — ma il coro mediatico ha già trasformato un dato osservazionale in sentenza.</div>
+    </section>
     
+    <section class="blocco incerto"><h2>Cosa non sappiamo</h2><ul><li>Lo studio non chiarisce se l'aumento del rischio sia determinato direttamente dall'interruzione della terapia o da condizioni di salute peggiori preesistenti in chi sospende il trattamento.</li></ul></section>
+    <section class="blocco generato">
+      <h2>Come è stato generato</h2>
+      <p>Scritto da un'intelligenza artificiale (Claude, Anthropic) il 11 novembre 2026, a partire da notizie di The Wom Healthy / Mondosanità / The Lancet Regional Health – Europe. Costo dell'intera edizione: &euro; 0,91.</p>
+      <p class="link-riga"><a href="../../../../prompt.html">Il prompt</a><a href="../../../../costi.html">Costi</a></p>
+    </section>
+    <section class="blocco correlati"><h2>Altri articoli di Scienza</h2><ul><li><a href="../../../../2026/11/13/cop31-antalya-guterres-reti-elettriche-80-milioni-km/">COP31 ad Antalya: Guterres chiede 80 milioni di km di reti elettriche entro il 2040</a><span class="corr-data">13 nov</span></li><li><a href="../../../../2026/11/12/progetto-mermoz-biofirme-vita-distanza-ricerca-extraterrestre/">Progetto MERMOZ: rilevate firme biomolecolari della vita a 2 km di distanza</a><span class="corr-data">12 nov</span></li><li><a href="../../../../2026/11/10/cannabis-terapeutica-bedrocan-fallimento-forniture-italia/">Cannabis terapeutica: il fallimento di Bedrocan lascia i pazienti italiani senza forniture</a><span class="corr-data">10 nov</span></li><li><a href="../../../../2026/11/09/dna-tumori-gatti-ricerca-cancro-umano/">Il DNA dei tumori felini apre nuove strade nella ricerca oncologica umana</a><span class="corr-data">9 nov</span></li></ul></section>
     <div class="tag-bar"><span class="tag-chip">glp-1</span><span class="tag-chip">diabete</span><span class="tag-chip">farmaci</span><span class="tag-chip">cardiovascolare</span></div>
     <div class="post-footer">
       <span class="post-fonte">Fonte: The Wom Healthy / Mondosanità / The Lancet Regional Health – Europe &nbsp;&middot;&nbsp; <a href="https://www.google.com/search?q=GLP-1+stop+rischio+infarto+ictus+studio+AMD+Lancet+2026" target="_blank" rel="noopener">Cerca notizia →</a></span>

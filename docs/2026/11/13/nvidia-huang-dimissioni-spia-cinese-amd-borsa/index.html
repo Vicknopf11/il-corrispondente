@@ -248,6 +248,30 @@
 
     .torna-edizioni:hover { color: #c0392b; }
 
+    :root { --accento: #c0392b; }
+    .meta-sep { color: #bbb; margin: 0 0.2rem; font-style: normal; }
+    .blocco { margin-top: 1.8rem; }
+    .blocco h2 { font-family: Arial, sans-serif; font-size: 0.78rem; letter-spacing: 0.1em; text-transform: uppercase; color: #444; margin-bottom: 0.6rem; }
+    .nota-blocco { font-family: Arial, sans-serif; font-size: 0.8rem; color: #666; line-height: 1.5; margin-bottom: 0.8rem; }
+    .blocco.fatti { background: #fbf8f2; border: 1px solid #d9d2c3; padding: 1.1rem 1.3rem; }
+    .blocco.fatti .nota-blocco { margin: 0.8rem 0 0; }
+    .blocco.fatti ul { padding-left: 1.1rem; }
+    .blocco.fatti li { margin-bottom: 0.6rem; line-height: 1.55; }
+    .fonte-link { font-family: Arial, sans-serif; font-size: 0.75rem; color: #666; text-decoration: none; border-bottom: 1px dotted #999; white-space: nowrap; }
+    .fonte-link:hover { color: var(--accento); }
+    .blocco.lettura h2 { color: var(--accento); margin-bottom: 0.2rem; }
+    .blocco.incerto { background: #eae3d5; padding: 1rem 1.3rem; }
+    .blocco.incerto ul { padding-left: 1.1rem; }
+    .blocco.incerto li { margin-bottom: 0.4rem; line-height: 1.5; }
+    .blocco.generato { border: 1px solid #1a1a1a; padding: 1rem 1.3rem; font-family: Arial, sans-serif; font-size: 0.88rem; line-height: 1.6; color: #333; }
+    .blocco.generato .link-riga { margin-top: 0.6rem; }
+    .blocco.generato .link-riga a { margin-right: 1.2rem; color: #1a1a1a; font-weight: bold; }
+    .blocco.correlati ul { list-style: none; padding: 0; }
+    .blocco.correlati li { padding: 0.55rem 0; border-bottom: 1px solid #e3dccd; display: flex; justify-content: space-between; gap: 1rem; line-height: 1.4; }
+    .blocco.correlati a { color: #1a1a1a; text-decoration: none; }
+    .blocco.correlati a:hover { color: var(--accento); }
+    .corr-data { font-family: Arial, sans-serif; font-size: 0.75rem; color: #888; white-space: nowrap; }
+
     footer {
       text-align: center;
       padding: 2rem;
@@ -285,9 +309,25 @@
   <article class="ai">
     <div class="categoria-label ai">AI</div>
     <h1 class="post-titolo">Nvidia in caduta libera: Huang lascia, AMD guadagna il 5,9% in borsa</h1>
-    <div class="post-data">venerdì 13 novembre 2026</div>
-    <div class="post-testo">Jensen Huang, cofondatore e amministratore delegato di Nvidia da 33 anni, si è dimesso con effetto immediato da tutte le cariche dopo lo scandalo della sua relazione con Alice Huang — dirigente cinese di Megaspeed, sospettata dai servizi USA di essere un'agente del Ministero della Sicurezza di Stato di Pechino — e di una seconda relazione con una manager interna. Il titolo Nvidia ha perso oltre il 10% a Wall Street; AMD è salita del 5,9%. Chi ci guadagna è scritto nei grafici di borsa. Alice Huang avrebbe avuto partecipazioni in società legate a Huawei, il principale concorrente cinese di Nvidia: se confermato, sarebbe uno dei più gravi casi di spionaggio industriale nel settore dei semiconduttori, l'infrastruttura materiale dell'intelligenza artificiale globale. Trump aveva telefonato personalmente a Huang chiedendogli di resistere; ora scarica la responsabilità sul segretario al Commercio Lutnick, accusato di aver ammorbidito i controlli sulle esportazioni di chip verso la Cina. Il Congresso vuole sapere. Alice Huang è a Pechino. Presunzione di innocenza per tutti i non ancora condannati — la vicenda è ancora in corso di accertamento.</div>
+    <div class="post-data">venerdì 13 novembre 2026 <span class="meta-sep">&middot;</span> Commento IA <span class="meta-sep">&middot;</span> 2 min di lettura</div>
+    <section class="blocco fatti">
+      <h2>I fatti</h2>
+      <ul><li>Jensen Huang si è dimesso con effetto immediato da tutte le cariche di Nvidia — CEO, presidente del CdA e membro del board — dopo la rivelazione di due relazioni extraconiugali, una delle quali con Alice Huang, sospettata dai servizi USA di essere una spia cinese. <a class="fonte-link" href="https://www.ilpost.it/2026/11/12/nvidia-dimissioni-jensen-huang/" target="_blank" rel="noopener">Il Post &#8599;</a></li><li>Nel pre-market del Nasdaq, il titolo Nvidia ha ceduto il 10,56% dopo l'annuncio delle dimissioni; AMD è salita del 5,9% nella stessa seduta. <a class="fonte-link" href="https://www.open.online/2026/11/12/alice-huang-cina-pechino-jensen-huang-cda-nvidia/" target="_blank" rel="noopener">open.online &#8599;</a></li><li>Colette Kress, già CFO di Nvidia, ha assunto la carica di CEO ad interim; Harvey Jones è il nuovo presidente del CdA, secondo il modulo 8-K depositato alla SEC. <a class="fonte-link" href="https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm" target="_blank" rel="noopener">SEC.gov &#8599;</a></li><li>Secondo quanto scoperto dalla società di intelligence Tesari e reso pubblico dalla CNBC, Alice Huang ha detenuto partecipazioni in società che hanno tratto beneficio da Huawei, principale concorrente di Nvidia in Cina. <a class="fonte-link" href="https://tg24.sky.it/mondo/2026/11/12/jensen-huang-nvidia-dimissioni-ceo" target="_blank" rel="noopener">Sky TG24 &#8599;</a></li></ul>
+      <p class="nota-blocco">Ogni fatto rimanda alla pagina in cui è stato trovato.</p>
+    </section>
+    <section class="blocco lettura">
+      <h2>La lettura</h2>
+      <p class="nota-blocco">Commento di un'IA. La domanda è sempre la stessa: chi ci guadagna?</p>
+      <div class="post-testo">Jensen Huang, cofondatore e amministratore delegato di Nvidia da 33 anni, si è dimesso con effetto immediato da tutte le cariche dopo lo scandalo della sua relazione con Alice Huang — dirigente cinese di Megaspeed, sospettata dai servizi USA di essere un'agente del Ministero della Sicurezza di Stato di Pechino — e di una seconda relazione con una manager interna. Il titolo Nvidia ha perso oltre il 10% a Wall Street; AMD è salita del 5,9%. Chi ci guadagna è scritto nei grafici di borsa. Alice Huang avrebbe avuto partecipazioni in società legate a Huawei, il principale concorrente cinese di Nvidia: se confermato, sarebbe uno dei più gravi casi di spionaggio industriale nel settore dei semiconduttori, l'infrastruttura materiale dell'intelligenza artificiale globale. Trump aveva telefonato personalmente a Huang chiedendogli di resistere; ora scarica la responsabilità sul segretario al Commercio Lutnick, accusato di aver ammorbidito i controlli sulle esportazioni di chip verso la Cina. Il Congresso vuole sapere. Alice Huang è a Pechino. Presunzione di innocenza per tutti i non ancora condannati — la vicenda è ancora in corso di accertamento.</div>
+    </section>
     
+    <section class="blocco incerto"><h2>Cosa non sappiamo</h2><ul><li>Alice Huang si trova a Pechino; non è chiaro se si trovi sotto protezione delle autorità cinesi.</li><li>Le accuse di spionaggio nei confronti di Alice Huang non hanno ancora prodotto incriminazioni formali.</li></ul></section>
+    <section class="blocco generato">
+      <h2>Come è stato generato</h2>
+      <p>Scritto da un'intelligenza artificiale (Claude, Anthropic) il 13 novembre 2026, a partire da notizie di Il Post / Adnkronos. Costo dell'intera edizione: &euro; 0,80.</p>
+      <p class="link-riga"><a href="../../../../prompt.html">Il prompt</a><a href="../../../../costi.html">Costi</a></p>
+    </section>
+    <section class="blocco correlati"><h2>Altri articoli di AI</h2><ul><li><a href="../../../../2026/11/12/nvidia-jensen-huang-cda-rimozione-spia-cinese-alice-huang/">Il CdA di Nvidia si riunisce per decidere se cacciare Jensen Huang: spia cinese, relazione con una dipendente e crollo in Borsa</a><span class="corr-data">12 nov</span></li><li><a href="../../../../2026/11/11/sciopero-call-center-chatbot-ia-43mila-posti-rischio/">Sciopero dei call center: 43mila lavoratori fermi contro i chatbot che li sostituiscono</a><span class="corr-data">11 nov</span></li><li><a href="../../../../2026/11/10/nvidia-jensen-huang-spia-cinese-fbi-indagine/">Jensen Huang e la presunta spia cinese: lo scandalo che fa tremare Nvidia e i mercati</a><span class="corr-data">10 nov</span></li><li><a href="../../../../2026/11/09/nvidia-jensen-huang-spia-cinese-indagine-cda/">Nvidia nel caos: il CDA indaga su Jensen Huang e la presunta spia cinese. Pechino respinge le accuse</a><span class="corr-data">9 nov</span></li></ul></section>
     <div class="tag-bar"><span class="tag-chip">nvidia</span><span class="tag-chip">jensen-huang</span><span class="tag-chip">semiconduttori</span><span class="tag-chip">spionaggio</span></div>
     <div class="post-footer">
       <span class="post-fonte">Fonte: Il Post / Adnkronos &nbsp;&middot;&nbsp; <a href="https://www.google.com/search?q=Jensen+Huang+dimissioni+Nvidia+Alice+Huang+spia+cinese+novembre+2026" target="_blank" rel="noopener">Cerca notizia →</a></span>

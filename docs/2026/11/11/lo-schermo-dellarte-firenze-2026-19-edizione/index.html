@@ -248,6 +248,30 @@
 
     .torna-edizioni:hover { color: #c0392b; }
 
+    :root { --accento: #c0392b; }
+    .meta-sep { color: #bbb; margin: 0 0.2rem; font-style: normal; }
+    .blocco { margin-top: 1.8rem; }
+    .blocco h2 { font-family: Arial, sans-serif; font-size: 0.78rem; letter-spacing: 0.1em; text-transform: uppercase; color: #444; margin-bottom: 0.6rem; }
+    .nota-blocco { font-family: Arial, sans-serif; font-size: 0.8rem; color: #666; line-height: 1.5; margin-bottom: 0.8rem; }
+    .blocco.fatti { background: #fbf8f2; border: 1px solid #d9d2c3; padding: 1.1rem 1.3rem; }
+    .blocco.fatti .nota-blocco { margin: 0.8rem 0 0; }
+    .blocco.fatti ul { padding-left: 1.1rem; }
+    .blocco.fatti li { margin-bottom: 0.6rem; line-height: 1.55; }
+    .fonte-link { font-family: Arial, sans-serif; font-size: 0.75rem; color: #666; text-decoration: none; border-bottom: 1px dotted #999; white-space: nowrap; }
+    .fonte-link:hover { color: var(--accento); }
+    .blocco.lettura h2 { color: var(--accento); margin-bottom: 0.2rem; }
+    .blocco.incerto { background: #eae3d5; padding: 1rem 1.3rem; }
+    .blocco.incerto ul { padding-left: 1.1rem; }
+    .blocco.incerto li { margin-bottom: 0.4rem; line-height: 1.5; }
+    .blocco.generato { border: 1px solid #1a1a1a; padding: 1rem 1.3rem; font-family: Arial, sans-serif; font-size: 0.88rem; line-height: 1.6; color: #333; }
+    .blocco.generato .link-riga { margin-top: 0.6rem; }
+    .blocco.generato .link-riga a { margin-right: 1.2rem; color: #1a1a1a; font-weight: bold; }
+    .blocco.correlati ul { list-style: none; padding: 0; }
+    .blocco.correlati li { padding: 0.55rem 0; border-bottom: 1px solid #e3dccd; display: flex; justify-content: space-between; gap: 1rem; line-height: 1.4; }
+    .blocco.correlati a { color: #1a1a1a; text-decoration: none; }
+    .blocco.correlati a:hover { color: var(--accento); }
+    .corr-data { font-family: Arial, sans-serif; font-size: 0.75rem; color: #888; white-space: nowrap; }
+
     footer {
       text-align: center;
       padding: 2rem;
@@ -285,9 +309,25 @@
   <article class="cultura">
     <div class="categoria-label cultura">Cultura</div>
     <h1 class="post-titolo">«Lo schermo dell'arte» apre a Firenze: cinema d'artista tra capitali del contemporaneo e memoria collettiva</h1>
-    <div class="post-data">mercoledì 11 novembre 2026</div>
-    <div class="post-testo">Oggi apre a Firenze la 19ª edizione de «Lo schermo dell'arte», festival di cinema e arte contemporanea diretto da Silvia Lucchesi, in programma fino al 15 novembre al Cinema La Compagnia e in diversi luoghi della città — Palazzo Strozzi, il Museo di Geologia e Paleontologia, NYU Florence, l'European University Institute e IED Firenze. La Opening Night presenta «Euphoria» di Julian Rosefeldt, descritto come un ipnotico viaggio attraverso la storia del capitalismo e dell'avidità umana: un tema che gli organizzatori probabilmente non hanno scelto per caso in questo momento storico. Il focus 2026 è dedicato alla regista uzbeka Saodat Ismailova, vincitrice dell'Art Basel Award 2025, la cui ricerca scava nella memoria collettiva dell'Asia centrale. Evento speciale: le ultime opere di Jean-Luc Godard in mostra alla Strozzina, tra cui il cortometraggio completato il giorno prima della sua morte. Una selezione del programma è disponibile in streaming gratuito dall'11 al 22 novembre su MYmovies ONE — l'accesso libero under 30 è garantito anche in sala. Mandante invisibile della sopravvivenza del festival: il sostegno pubblico della Regione Toscana, senza il quale questo tipo di cultura «non commerciale» semplicemente non esiste. Vale la pena dirlo.</div>
+    <div class="post-data">mercoledì 11 novembre 2026 <span class="meta-sep">&middot;</span> Commento IA <span class="meta-sep">&middot;</span> 1 min di lettura</div>
+    <section class="blocco fatti">
+      <h2>I fatti</h2>
+      <ul><li>La 19ª edizione de «Lo schermo dell'arte», diretta da Silvia Lucchesi, apre l'11 novembre al Cinema La Compagnia di Firenze e prosegue fino al 15 novembre in diversi luoghi della città. <a class="fonte-link" href="https://exibart.com/cinema/lo-schermo-dellarte-2026-a-firenze-le-nuove-geografie-del-cinema-dartista" target="_blank" rel="noopener">Exibart / TG Regione &#8599;</a></li><li>Il film di apertura è «Euphoria» (2026) dell'artista tedesco Julian Rosefeldt, presentato in anteprima italiana l'11 novembre. <a class="fonte-link" href="https://www.ilgiornaleditalia.it/news/spettacolo/834493/lo-schermo-dellarte-festival-di-cinema-e-arte-contemporanea-a-firenze-dall11-al-15-novembre-2026.html" target="_blank" rel="noopener">Il Giornale d'Italia &#8599;</a></li><li>Una selezione dei film sarà disponibile in streaming dall'11 al 22 novembre 2026 sul canale permanente «Lo schermo dell'arte» su MYmovies ONE; l'ingresso in sala è libero per gli under 30. <a class="fonte-link" href="https://www.tgregione.it/firenze-torna-lo-schermo-dellarte-dal-cinema-alle-nuove-visioni-contemporanee/" target="_blank" rel="noopener">Mediakey / TG Regione &#8599;</a></li><li>L'evento speciale include la mostra delle ultime opere di Jean-Luc Godard alla Strozzina, tra cui il cortometraggio «Scénarios» (2024), completato il giorno prima della sua morte. <a class="fonte-link" href="https://exibart.com/cinema/lo-schermo-dellarte-2026-a-firenze-le-nuove-geografie-del-cinema-dartista" target="_blank" rel="noopener">Exibart &#8599;</a></li></ul>
+      <p class="nota-blocco">Ogni fatto rimanda alla pagina in cui è stato trovato.</p>
+    </section>
+    <section class="blocco lettura">
+      <h2>La lettura</h2>
+      <p class="nota-blocco">Commento di un'IA. La domanda è sempre la stessa: chi ci guadagna?</p>
+      <div class="post-testo">Oggi apre a Firenze la 19ª edizione de «Lo schermo dell'arte», festival di cinema e arte contemporanea diretto da Silvia Lucchesi, in programma fino al 15 novembre al Cinema La Compagnia e in diversi luoghi della città — Palazzo Strozzi, il Museo di Geologia e Paleontologia, NYU Florence, l'European University Institute e IED Firenze. La Opening Night presenta «Euphoria» di Julian Rosefeldt, descritto come un ipnotico viaggio attraverso la storia del capitalismo e dell'avidità umana: un tema che gli organizzatori probabilmente non hanno scelto per caso in questo momento storico. Il focus 2026 è dedicato alla regista uzbeka Saodat Ismailova, vincitrice dell'Art Basel Award 2025, la cui ricerca scava nella memoria collettiva dell'Asia centrale. Evento speciale: le ultime opere di Jean-Luc Godard in mostra alla Strozzina, tra cui il cortometraggio completato il giorno prima della sua morte. Una selezione del programma è disponibile in streaming gratuito dall'11 al 22 novembre su MYmovies ONE — l'accesso libero under 30 è garantito anche in sala. Mandante invisibile della sopravvivenza del festival: il sostegno pubblico della Regione Toscana, senza il quale questo tipo di cultura «non commerciale» semplicemente non esiste. Vale la pena dirlo.</div>
+    </section>
     
+    
+    <section class="blocco generato">
+      <h2>Come è stato generato</h2>
+      <p>Scritto da un'intelligenza artificiale (Claude, Anthropic) il 11 novembre 2026, a partire da notizie di Exibart / TG Regione / Il Giornale d'Italia. Costo dell'intera edizione: &euro; 0,91.</p>
+      <p class="link-riga"><a href="../../../../prompt.html">Il prompt</a><a href="../../../../costi.html">Costi</a></p>
+    </section>
+    <section class="blocco correlati"><h2>Altri articoli di Cultura</h2><ul><li><a href="../../../../2026/11/13/matera-film-festival-2026-dante-ferretti-francesca-lo/">Matera Film Festival: premi Oscar al festival che sfida la logica del blockbuster</a><span class="corr-data">13 nov</span></li><li><a href="../../../../2026/11/12/guida-michelin-italia-2027-piacenza-nuove-stelle/">Guida Michelin Italia 2027: le stelle si svelano a Piacenza, terzo anno di fila in Emilia-Romagna</a><span class="corr-data">12 nov</span></li><li><a href="../../../../2026/11/10/mostra-piersanti-mattarella-gallerie-italia-intesa-sanpaolo/">Alle Gallerie d'Italia apre la mostra su Piersanti Mattarella: il potere che ricorda il potere</a><span class="corr-data">10 nov</span></li><li><a href="../../../../2026/11/09/vasco-rossi-difende-vince-pastano-scelte-musicali/">Vasco Rossi difende Vince Pastano dagli insulti social: «Le scelte musicali sono mie»</a><span class="corr-data">9 nov</span></li></ul></section>
     <div class="tag-bar"><span class="tag-chip">cinema</span><span class="tag-chip">arte-contemporanea</span><span class="tag-chip">firenze</span><span class="tag-chip">festival</span></div>
     <div class="post-footer">
       <span class="post-fonte">Fonte: Exibart / TG Regione / Il Giornale d'Italia &nbsp;&middot;&nbsp; <a href="https://www.google.com/search?q=Lo+schermo+dell+arte+Firenze+2026+19+edizione" target="_blank" rel="noopener">Cerca notizia →</a></span>

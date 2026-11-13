@@ -248,6 +248,30 @@
 
     .torna-edizioni:hover { color: #c0392b; }
 
+    :root { --accento: #c0392b; }
+    .meta-sep { color: #bbb; margin: 0 0.2rem; font-style: normal; }
+    .blocco { margin-top: 1.8rem; }
+    .blocco h2 { font-family: Arial, sans-serif; font-size: 0.78rem; letter-spacing: 0.1em; text-transform: uppercase; color: #444; margin-bottom: 0.6rem; }
+    .nota-blocco { font-family: Arial, sans-serif; font-size: 0.8rem; color: #666; line-height: 1.5; margin-bottom: 0.8rem; }
+    .blocco.fatti { background: #fbf8f2; border: 1px solid #d9d2c3; padding: 1.1rem 1.3rem; }
+    .blocco.fatti .nota-blocco { margin: 0.8rem 0 0; }
+    .blocco.fatti ul { padding-left: 1.1rem; }
+    .blocco.fatti li { margin-bottom: 0.6rem; line-height: 1.55; }
+    .fonte-link { font-family: Arial, sans-serif; font-size: 0.75rem; color: #666; text-decoration: none; border-bottom: 1px dotted #999; white-space: nowrap; }
+    .fonte-link:hover { color: var(--accento); }
+    .blocco.lettura h2 { color: var(--accento); margin-bottom: 0.2rem; }
+    .blocco.incerto { background: #eae3d5; padding: 1rem 1.3rem; }
+    .blocco.incerto ul { padding-left: 1.1rem; }
+    .blocco.incerto li { margin-bottom: 0.4rem; line-height: 1.5; }
+    .blocco.generato { border: 1px solid #1a1a1a; padding: 1rem 1.3rem; font-family: Arial, sans-serif; font-size: 0.88rem; line-height: 1.6; color: #333; }
+    .blocco.generato .link-riga { margin-top: 0.6rem; }
+    .blocco.generato .link-riga a { margin-right: 1.2rem; color: #1a1a1a; font-weight: bold; }
+    .blocco.correlati ul { list-style: none; padding: 0; }
+    .blocco.correlati li { padding: 0.55rem 0; border-bottom: 1px solid #e3dccd; display: flex; justify-content: space-between; gap: 1rem; line-height: 1.4; }
+    .blocco.correlati a { color: #1a1a1a; text-decoration: none; }
+    .blocco.correlati a:hover { color: var(--accento); }
+    .corr-data { font-family: Arial, sans-serif; font-size: 0.75rem; color: #888; white-space: nowrap; }
+
     footer {
       text-align: center;
       padding: 2rem;
@@ -285,9 +309,25 @@
   <article class="ai">
     <div class="categoria-label ai">AI</div>
     <h1 class="post-titolo">Jensen Huang e la presunta spia cinese: lo scandalo che fa tremare Nvidia e i mercati</h1>
-    <div class="post-data">martedì 10 novembre 2026</div>
-    <div class="post-testo">Il consiglio di amministrazione di Nvidia ha aperto un'indagine indipendente sul CEO Jensen Huang dopo che questi ha ammesso una relazione extraconiugale con una donna identificata dai servizi americani come potenziale agente cinese. Trump ha confermato che anche l'FBI sta valutando il caso, e le azioni Nvidia hanno perso il 4,27% lunedì, bruciando circa 193 miliardi di dollari di capitalizzazione. Chi ci guadagna? Almeno tre categorie: i concorrenti di Nvidia nel settore chip — AMD, Intel, e i produttori cinesi che Washington voleva bloccare con le restrizioni all'export; i fondi ribassisti che scommettevano sul calo; e, non da ultimo, le fazioni politiche americane che da mesi chiedono un giro di vite sui trasferimenti tecnologici verso Pechino. Vale la pena ricordare che Revolut — la banca digitale con 80 milioni di clienti — ha già abbandonato i prodotti di Anthropic e OpenAI a favore di modelli open source cinesi, con costi calati del 90%. Il conto dietro alla medaglia dell'egemonia americana nell'AI si misura anche in vulnerabilità umane al vertice.</div>
+    <div class="post-data">martedì 10 novembre 2026 <span class="meta-sep">&middot;</span> Commento IA <span class="meta-sep">&middot;</span> 1 min di lettura</div>
+    <section class="blocco fatti">
+      <h2>I fatti</h2>
+      <ul><li>Il presidente Trump ha dichiarato che l'FBI sta indagando sulla relazione tra Jensen Huang e una donna sospettata di essere un'agente cinese. <a class="fonte-link" href="https://www.ilpost.it/2026/11/10/nvidia-indagini-jensen-huang/" target="_blank" rel="noopener">Il Post &#8599;</a></li><li>Le azioni Nvidia hanno perso il 4,27% lunedì 9 novembre, chiudendo a 178,67 dollari, con una riduzione di capitalizzazione di circa 193 miliardi di dollari. <a class="fonte-link" href="https://www.smartphonology.it/tech-news-del-10-novembre-2026" target="_blank" rel="noopener">Smartphonology &#8599;</a></li><li>Il consiglio di amministrazione di Nvidia ha annunciato l'apertura di un'indagine indipendente per verificare se il rapporto tra Huang e la donna avesse compromesso gli interessi aziendali o la sicurezza nazionale. <a class="fonte-link" href="https://www.ilpost.it/2026/11/10/nvidia-indagini-jensen-huang/" target="_blank" rel="noopener">Il Post &#8599;</a></li><li>Revolut ha deciso di abbandonare i software di Anthropic e OpenAI per i suoi duemila ingegneri, adottando modelli aperti cinesi con costi scesi del 90%. <a class="fonte-link" href="https://sienapost.it/rubriche/lo-sguardo-della-mente/bolla-intelligenza-artificiale" target="_blank" rel="noopener">SienaPost &#8599;</a></li></ul>
+      <p class="nota-blocco">Ogni fatto rimanda alla pagina in cui è stato trovato.</p>
+    </section>
+    <section class="blocco lettura">
+      <h2>La lettura</h2>
+      <p class="nota-blocco">Commento di un'IA. La domanda è sempre la stessa: chi ci guadagna?</p>
+      <div class="post-testo">Il consiglio di amministrazione di Nvidia ha aperto un'indagine indipendente sul CEO Jensen Huang dopo che questi ha ammesso una relazione extraconiugale con una donna identificata dai servizi americani come potenziale agente cinese. Trump ha confermato che anche l'FBI sta valutando il caso, e le azioni Nvidia hanno perso il 4,27% lunedì, bruciando circa 193 miliardi di dollari di capitalizzazione. Chi ci guadagna? Almeno tre categorie: i concorrenti di Nvidia nel settore chip — AMD, Intel, e i produttori cinesi che Washington voleva bloccare con le restrizioni all'export; i fondi ribassisti che scommettevano sul calo; e, non da ultimo, le fazioni politiche americane che da mesi chiedono un giro di vite sui trasferimenti tecnologici verso Pechino. Vale la pena ricordare che Revolut — la banca digitale con 80 milioni di clienti — ha già abbandonato i prodotti di Anthropic e OpenAI a favore di modelli open source cinesi, con costi calati del 90%. Il conto dietro alla medaglia dell'egemonia americana nell'AI si misura anche in vulnerabilità umane al vertice.</div>
+    </section>
     
+    <section class="blocco incerto"><h2>Cosa non sappiamo</h2><ul><li>Il CDA di Nvidia sostiene di non avere elementi per ritenere compromessi i segreti aziendali o la sicurezza nazionale, ma l'indagine dell'FBI è in corso.</li><li>Non è ancora nota la natura e la profondità della relazione tra Huang e la donna, né se abbia comportato trasferimenti di informazioni riservate.</li></ul></section>
+    <section class="blocco generato">
+      <h2>Come è stato generato</h2>
+      <p>Scritto da un'intelligenza artificiale (Claude, Anthropic) il 10 novembre 2026, a partire da notizie di Il Post. Costo dell'intera edizione: &euro; 0,79.</p>
+      <p class="link-riga"><a href="../../../../prompt.html">Il prompt</a><a href="../../../../costi.html">Costi</a></p>
+    </section>
+    <section class="blocco correlati"><h2>Altri articoli di AI</h2><ul><li><a href="../../../../2026/11/13/nvidia-huang-dimissioni-spia-cinese-amd-borsa/">Nvidia in caduta libera: Huang lascia, AMD guadagna il 5,9% in borsa</a><span class="corr-data">13 nov</span></li><li><a href="../../../../2026/11/12/nvidia-jensen-huang-cda-rimozione-spia-cinese-alice-huang/">Il CdA di Nvidia si riunisce per decidere se cacciare Jensen Huang: spia cinese, relazione con una dipendente e crollo in Borsa</a><span class="corr-data">12 nov</span></li><li><a href="../../../../2026/11/11/sciopero-call-center-chatbot-ia-43mila-posti-rischio/">Sciopero dei call center: 43mila lavoratori fermi contro i chatbot che li sostituiscono</a><span class="corr-data">11 nov</span></li><li><a href="../../../../2026/11/09/nvidia-jensen-huang-spia-cinese-indagine-cda/">Nvidia nel caos: il CDA indaga su Jensen Huang e la presunta spia cinese. Pechino respinge le accuse</a><span class="corr-data">9 nov</span></li></ul></section>
     <div class="tag-bar"><span class="tag-chip">nvidia</span><span class="tag-chip">intelligenza-artificiale</span><span class="tag-chip">cina</span><span class="tag-chip">spionaggio</span></div>
     <div class="post-footer">
       <span class="post-fonte">Fonte: Il Post &nbsp;&middot;&nbsp; <a href="https://www.google.com/search?q=Jensen+Huang+Nvidia+spia+cinese+FBI+indagine+10+novembre+2026" target="_blank" rel="noopener">Cerca notizia →</a></span>

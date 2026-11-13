@@ -248,6 +248,30 @@
 
     .torna-edizioni:hover { color: #c0392b; }
 
+    :root { --accento: #c0392b; }
+    .meta-sep { color: #bbb; margin: 0 0.2rem; font-style: normal; }
+    .blocco { margin-top: 1.8rem; }
+    .blocco h2 { font-family: Arial, sans-serif; font-size: 0.78rem; letter-spacing: 0.1em; text-transform: uppercase; color: #444; margin-bottom: 0.6rem; }
+    .nota-blocco { font-family: Arial, sans-serif; font-size: 0.8rem; color: #666; line-height: 1.5; margin-bottom: 0.8rem; }
+    .blocco.fatti { background: #fbf8f2; border: 1px solid #d9d2c3; padding: 1.1rem 1.3rem; }
+    .blocco.fatti .nota-blocco { margin: 0.8rem 0 0; }
+    .blocco.fatti ul { padding-left: 1.1rem; }
+    .blocco.fatti li { margin-bottom: 0.6rem; line-height: 1.55; }
+    .fonte-link { font-family: Arial, sans-serif; font-size: 0.75rem; color: #666; text-decoration: none; border-bottom: 1px dotted #999; white-space: nowrap; }
+    .fonte-link:hover { color: var(--accento); }
+    .blocco.lettura h2 { color: var(--accento); margin-bottom: 0.2rem; }
+    .blocco.incerto { background: #eae3d5; padding: 1rem 1.3rem; }
+    .blocco.incerto ul { padding-left: 1.1rem; }
+    .blocco.incerto li { margin-bottom: 0.4rem; line-height: 1.5; }
+    .blocco.generato { border: 1px solid #1a1a1a; padding: 1rem 1.3rem; font-family: Arial, sans-serif; font-size: 0.88rem; line-height: 1.6; color: #333; }
+    .blocco.generato .link-riga { margin-top: 0.6rem; }
+    .blocco.generato .link-riga a { margin-right: 1.2rem; color: #1a1a1a; font-weight: bold; }
+    .blocco.correlati ul { list-style: none; padding: 0; }
+    .blocco.correlati li { padding: 0.55rem 0; border-bottom: 1px solid #e3dccd; display: flex; justify-content: space-between; gap: 1rem; line-height: 1.4; }
+    .blocco.correlati a { color: #1a1a1a; text-decoration: none; }
+    .blocco.correlati a:hover { color: var(--accento); }
+    .corr-data { font-family: Arial, sans-serif; font-size: 0.75rem; color: #888; white-space: nowrap; }
+
     footer {
       text-align: center;
       padding: 2rem;
@@ -285,8 +309,17 @@
   <article class="internazionale">
     <div class="categoria-label internazionale">Politica Internazionale</div>
     <h1 class="post-titolo">Negoziati trilaterali ad Abu Dhabi: Russia, Ucraina e USA al secondo giorno</h1>
-    <div class="post-data">mercoledì 11 novembre 2026</div>
-    <div class="post-testo">Oggi ad Abu Dhabi si tiene il secondo giorno dei colloqui trilaterali tra Russia, Ucraina e Stati Uniti — mediati dall'inviato Trump Steve Witkoff e da Jared Kushner, con la delegazione russa guidata da Vladimir Medinsky. Il coro mediatico celebra il «dialogo» come un passo verso la pace. Quello che si tace è che sullo sfondo circola una proposta americana — riportata dal Wall Street Journal — di riprendere le forniture di gas russo verso l'Europa attraverso i gasdotti ucraini come parte di un accordo. Beneficio taciuto: Mosca incasserebbe i proventi del gas, le major energetiche europee tornerebbero ad avere un fornitore a basso costo, e gli Emirati — che ospitano il tavolo — consoliderebbero il loro ruolo di hub diplomatico globale. L'Europa, nel frattempo, è stata esclusa dal tavolo da Mosca: partecipa solo a un incontro separato con Washington a Bruxelles. La guerra continua: nelle ore precedenti al secondo round, le forze russe hanno colpito dieci regioni ucraine e cinque sottostazioni elettriche, con un bilancio di almeno nove morti e trentanove feriti. La diplomazia si muove su un binario, i missili su un altro.</div>
+    <div class="post-data">mercoledì 11 novembre 2026 <span class="meta-sep">&middot;</span> Commento IA <span class="meta-sep">&middot;</span> 3 min di lettura</div>
+    <section class="blocco fatti">
+      <h2>I fatti</h2>
+      <ul><li>Il portavoce del Cremlino Dmitry Peskov ha confermato che i colloqui trilaterali tra Russia, Stati Uniti e Ucraina si sono tenuti ad Abu Dhabi il 10 e 11 novembre, con la delegazione russa guidata da Vladimir Medinsky. <a class="fonte-link" href="https://www.ansa.it/sito/notizie/mondo/2026/11/03/witkoff-gli-usa-medieranno-colloqui-abu-dhabi-a-livello-tecnico-tra_f1426921-d8c7-4650-be79-16c63e8fda53.html" target="_blank" rel="noopener">ANSA / RSI &#8599;</a></li><li>Nelle ore precedenti al secondo giorno di negoziati, le forze russe hanno colpito dieci regioni ucraine e cinque sottostazioni elettriche: il bilancio riportato è di almeno 9 morti e 39 feriti. <a class="fonte-link" href="https://www.radiobullets.com/notiziari/11-novembre-2026-notiziario-mondo/" target="_blank" rel="noopener">Radio Bullets &#8599;</a></li><li>Secondo quanto riferito dal Wall Street Journal, nell'ambito dei negoziati gli USA sostengono una rapida ripresa delle vendite di gas naturale russo verso l'Europa tramite gasdotti che attraversano l'Ucraina. <a class="fonte-link" href="https://www.ilfattoquotidiano.it/2026/11/03/guerra-ucraina-russia-negoziati-abu-dhabi-notizie/8558643/" target="_blank" rel="noopener">Il Fatto Quotidiano &#8599;</a></li><li>La Russia ha escluso l'Europa dal tavolo di Abu Dhabi: le delegazioni UE e NATO hanno tenuto solo un incontro preliminare separato con la parte americana e ucraina, senza la Russia. <a class="fonte-link" href="https://www.agi.it/estero/news/2026-11-10/russia-ucraina-negoziati-abu-dhabi-39972512/" target="_blank" rel="noopener">AGI &#8599;</a></li><li>L'Italia ha partecipato alla riunione di coordinamento con gli inviati statunitensi Witkoff e Kushner tramite il consigliere per la sicurezza nazionale Fabrizio Saggio. <a class="fonte-link" href="https://www.lapresse.it/esteri/2026/11/10/ucraina-ad-abu-dhabi-i-negoziati-trilaterali-tra-russia-usa-e-kiev-la-diretta/" target="_blank" rel="noopener">LaPresse &#8599;</a></li></ul>
+      <p class="nota-blocco">Ogni fatto rimanda alla pagina in cui è stato trovato.</p>
+    </section>
+    <section class="blocco lettura">
+      <h2>La lettura</h2>
+      <p class="nota-blocco">Commento di un'IA. La domanda è sempre la stessa: chi ci guadagna?</p>
+      <div class="post-testo">Oggi ad Abu Dhabi si tiene il secondo giorno dei colloqui trilaterali tra Russia, Ucraina e Stati Uniti — mediati dall'inviato Trump Steve Witkoff e da Jared Kushner, con la delegazione russa guidata da Vladimir Medinsky. Il coro mediatico celebra il «dialogo» come un passo verso la pace. Quello che si tace è che sullo sfondo circola una proposta americana — riportata dal Wall Street Journal — di riprendere le forniture di gas russo verso l'Europa attraverso i gasdotti ucraini come parte di un accordo. Beneficio taciuto: Mosca incasserebbe i proventi del gas, le major energetiche europee tornerebbero ad avere un fornitore a basso costo, e gli Emirati — che ospitano il tavolo — consoliderebbero il loro ruolo di hub diplomatico globale. L'Europa, nel frattempo, è stata esclusa dal tavolo da Mosca: partecipa solo a un incontro separato con Washington a Bruxelles. La guerra continua: nelle ore precedenti al secondo round, le forze russe hanno colpito dieci regioni ucraine e cinque sottostazioni elettriche, con un bilancio di almeno nove morti e trentanove feriti. La diplomazia si muove su un binario, i missili su un altro.</div>
+    </section>
     <div class="editoriale-block">
       <div class="editoriale-titolo">Analisi multi-prospettiva</div>
       <div class="prospettiva">
@@ -306,6 +339,13 @@
       <div class="implicazioni-testo">Se i colloqui di Abu Dhabi producessero anche solo un cessate il fuoco temporaneo, le conseguenze sarebbero enormi: per l'economia europea (prezzi energetici, ricostruzione ucraina), per l'industria della difesa (i titoli del settore hanno registrato forte volatilità nelle ultime settimane), e per gli equilibri interni alle coalizioni di governo in diversi paesi europei, Italia compresa, dove la Lega ha già espresso contrarietà all'ulteriore pacchetto di aiuti militari a Kiev. L'eventuale ripristino del transito del gas russo ridisegnerebbe inoltre la geografia energetica del continente, con effetti sulle scelte di investimento già fatte nell'ultimo biennio su rigassificatori e fonti alternative.</div>
       <div class="editoriale-disclaimer">Questa sezione — prospettive e implicazioni — è un'analisi generata interamente da intelligenza artificiale, non da una redazione umana. Non è giornalismo verificato da fonti indipendenti: è un esercizio automatico di lettura multi-angolare della stessa notizia, da leggere con lo stesso spirito critico di qualsiasi altro contenuto di questo sito.</div>
     </div>
+    <section class="blocco incerto"><h2>Cosa non sappiamo</h2><ul><li>Non è noto se il secondo giorno di negoziati abbia prodotto un accordo o impegni concreti: le parti hanno espresso cauto apprezzamento senza annunciare risultati.</li><li>Non è confermato ufficialmente se la proposta di ripristino del transito del gas russo attraverso l'Ucraina sia stata formalmente discussa al tavolo.</li></ul></section>
+    <section class="blocco generato">
+      <h2>Come è stato generato</h2>
+      <p>Scritto da un'intelligenza artificiale (Claude, Anthropic) il 11 novembre 2026, a partire da notizie di AGI / Il Fatto Quotidiano / LaPresse. Costo dell'intera edizione: &euro; 0,91.</p>
+      <p class="link-riga"><a href="../../../../prompt.html">Il prompt</a><a href="../../../../costi.html">Costi</a></p>
+    </section>
+    <section class="blocco correlati"><h2>Altri articoli di Politica Internazionale</h2><ul><li><a href="../../../../2026/11/13/ucraina-europa-negoziati-cremlino-non-conferma/">Ucraina: Europa al tavolo dei negoziati, ma il Cremlino non conferma</a><span class="corr-data">13 nov</span></li><li><a href="../../../../2026/11/12/kushner-witkoff-putin-negoziati-ucraina-benedizione/">Kushner e Witkoff da Putin: la «benedizione» che vale più di una tregua</a><span class="corr-data">12 nov</span></li><li><a href="../../../../2026/11/10/negoziati-ucraina-russia-abu-dhabi-europa-esclusa/">Pace in Ucraina: l'Europa a Abu Dhabi ma fuori dalla stanza</a><span class="corr-data">10 nov</span></li><li><a href="../../../../2026/11/09/trump-iran-pace-bombardamenti-qeshm/">Trump predica la pace con l'Iran ma i bombardamenti su Qeshm continuano</a><span class="corr-data">9 nov</span></li></ul></section>
     <div class="tag-bar"><span class="tag-chip">ucraina</span><span class="tag-chip">russia</span><span class="tag-chip">usa</span><span class="tag-chip">pace</span></div>
     <div class="post-footer">
       <span class="post-fonte">Fonte: AGI / Il Fatto Quotidiano / LaPresse &nbsp;&middot;&nbsp; <a href="https://www.google.com/search?q=negoziati+Abu+Dhabi+Russia+Ucraina+USA+11+novembre+2026" target="_blank" rel="noopener">Cerca notizia →</a></span>
