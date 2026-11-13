@@ -1,0 +1,46 @@
+name: Report privato mensile
+
+# Riepilogo degli ultimi 30 giorni conclusi (produzione, costi, X, iscritti
+# Telegram) mandato in PRIVATO su Telegram, nella stessa chat dell'avviso di
+# errore. Non scrive nel repo e non pubblica niente. Costo: solo la lettura
+# da X, al massimo circa $1,35 per lancio.
+
+on:
+  workflow_dispatch:                  # lancio manuale da Actions → Run workflow
+    inputs:
+      invia:
+        description: "Mandare il messaggio su Telegram? (no = solo Summary, per prova)"
+        required: false
+        default: "si"
+  repository_dispatch:
+    types: [report-privato]           # job mensile su cron-job.org (il primo del mese)
+
+permissions:
+  contents: read
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installa dipendenze
+        run: pip install requests requests-oauthlib
+
+      - name: Report privato
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_OWNER_CHAT_ID: ${{ secrets.TELEGRAM_OWNER_CHAT_ID }}
+          INVIA: ${{ github.event.inputs.invia || 'si' }}
+        run: python report_privato.py

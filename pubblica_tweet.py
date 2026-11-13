@@ -13,7 +13,7 @@ import sys
 CODA_FILE = "coda_x.json"
 OG_IMG_DIR = "docs/assets/og"
 COSTI_X_FILE = "docs/costi_x.json"
-MAX_COSTI_X_GIORNI = 180
+MAX_COSTI_X_GIORNI = 90  # giorni di calendario (prima erano 180 righe ≈ 20 giorni)
 
 # Prezzi X verificati da Ferruccio il 23/09/2026 via il dashboard X Developer
 # (breakdown reale per voce, incollato in chat) — non stimati.
@@ -159,9 +159,21 @@ def pubblica_su_telegram(testo: str, url: str = None):
     return False
 
 
+def taglia_per_giorni(voci: list, data_ultima) -> list:
+    """Tiene le voci degli ultimi MAX_COSTI_X_GIORNI giorni, contati dalla
+    data della voce appena aggiunta. Una voce senza data valida resta."""
+    from datetime import date, timedelta
+    try:
+        limite = (date.fromisoformat(str(data_ultima)[:10])
+                  - timedelta(days=MAX_COSTI_X_GIORNI - 1)).isoformat()
+    except ValueError:
+        return voci
+    return [v for v in voci if not v.get("data") or str(v["data"])[:10] >= limite]
+
+
 def logga_costo_x(coda: dict, prossimo: dict, con_url: bool) -> None:
     """Logga il costo di questa pubblicazione in docs/costi_x.json
-    (append-only, storico limitato a MAX_COSTI_X_GIORNI). Prezzi fissi e
+    (append-only, storico limitato agli ultimi MAX_COSTI_X_GIORNI giorni). Prezzi fissi e
     noti (non stimati) — vedi PREZZO_POST_CON_URL_USD/PREZZO_POST_NORMALE_USD.
     Non deve mai bloccare la pipeline: eventuali errori sono solo loggati."""
     try:
@@ -183,7 +195,7 @@ def logga_costo_x(coda: dict, prossimo: dict, con_url: bool) -> None:
             log = {"pubblicazioni": []}
 
         log["pubblicazioni"].insert(0, voce)
-        log["pubblicazioni"] = log["pubblicazioni"][:MAX_COSTI_X_GIORNI]
+        log["pubblicazioni"] = taglia_per_giorni(log["pubblicazioni"], voce.get("data"))
 
         with open(COSTI_X_FILE, "w", encoding="utf-8") as f:
             json.dump(log, f, ensure_ascii=False, indent=2)
