@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-13",
+      "slug": "accordo-sindacati-imprese-salario-giusto-dicembre-2026",
+      "categoria": "Economia",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-13",
       "slug": "allarmi-bomba-scuole-prefetto-decide-evacuazioni",
       "categoria": "Politica Nazionale",
       "evidenza": false,
