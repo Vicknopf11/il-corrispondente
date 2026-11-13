@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-13",
+      "slug": "strage-via-damelio-perquisizioni-de-gennaro-borsellino",
+      "categoria": "Cronaca",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-13",
       "slug": "musetti-semifinale-stoccolma-atp-250-fritz",
       "categoria": "Sport",
       "evidenza": false,
