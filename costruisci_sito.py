@@ -93,8 +93,57 @@ def formatta_data(data_str: str) -> str:
         return data_str or ""
 
 
+_COSTI_CACHE = None
+
+
+def costo_edizione_eur(data_str: str):
+    """Costo dell'intera edizione in euro, dal log pubblico dei costi; None se manca."""
+    global _COSTI_CACHE
+    if _COSTI_CACHE is None:
+        try:
+            with open(os.path.join("docs", "costi_categoria.json"), encoding="utf-8") as f:
+                _COSTI_CACHE = {g.get("data"): g for g in json.load(f).get("generazioni", [])}
+        except (OSError, ValueError):
+            _COSTI_CACHE = {}
+    g = _COSTI_CACHE.get(data_str) or {}
+    usd, cambio = g.get("costo_stimato_usd"), g.get("cambio_usd_per_eur")
+    if isinstance(usd, (int, float)) and isinstance(cambio, (int, float)) and cambio > 0:
+        return usd / cambio
+    return None
+
+
+def minuti_di_lettura(*testi) -> int:
+    parole = sum(len((t or "").split()) for t in testi)
+    return max(1, round(parole / 200))
+
+
+def calcola_correlati(archivio: dict, massimo: int = 4) -> dict:
+    """Per ogni articolo della finestra rolling: gli altri articoli più recenti della
+    stessa sezione, come link interni. Chiave: (data, slug)."""
+    per_cat = {}
+    for ed in archivio.get("edizioni", []):
+        d = ed.get("data", "")
+        parti = d.split("-")
+        if len(parti) != 3:
+            continue
+        for p in ed.get("post", []):
+            if p.get("slug") and p.get("titolo"):
+                per_cat.setdefault(p.get("categoria", ""), []).append((d, parti, p))
+    out = {}
+    for cat, voci in per_cat.items():
+        for d, parti, p in voci:
+            altri = [(dd, pp, post) for dd, pp, post in voci if post.get("slug") != p.get("slug")][:massimo]
+            out[(d, p["slug"])] = [
+                {"titolo": post["titolo"],
+                 "href": f"{pp[0]}/{pp[1]}/{pp[2]}/{post['slug']}/",
+                 "data": f"{int(pp[2])} {MESI_IT[int(pp[1])][:3]}"}
+                for dd, pp, post in altri
+            ]
+    return out
+
+
 def costruisci_pagina(post: dict, data_str: str, anno: str, mese: str, giorno: str,
-                       og_image_url: str = OG_IMAGE) -> str:
+                       og_image_url: str = OG_IMAGE, correlati: list = None) -> str:
     cat = post.get("categoria", "")
     cat_slug = slug_categoria(cat)
     titolo = post.get("titolo", "")
@@ -139,6 +188,57 @@ def costruisci_pagina(post: dict, data_str: str, anno: str, mese: str, giorno: s
       <div class="implicazioni-testo">{esc(implicazioni)}</div>
       <div class="editoriale-disclaimer">{esc(DISCLAIMER_EDITORIALE)}</div>
     </div>"""
+
+    # ── Formato nuovo (dal 10/11/2026): fatti con fonte, lettura, cosa non sappiamo,
+    # come è stato generato. Gli articoli senza i campi nuovi restano come prima.
+    nuovo_formato = isinstance(post.get("fatti"), list)
+    meta_html = f'<div class="post-data">{esc(data_leggibile)}</div>'
+    lettura_html = f'<div class="post-testo">{esc(testo)}</div>'
+    fatti_html = incerto_html = generato_html = correlati_html = ""
+    if nuovo_formato:
+        fatti = [f for f in post.get("fatti") if isinstance(f, dict) and f.get("testo")]
+        incerto = [t for t in (post.get("incerto") or []) if isinstance(t, str) and t.strip()]
+        prosp_testi = " ".join(pr.get("testo", "") for pr in (post.get("prospettive") or [])
+                               if isinstance(pr, dict))
+        minuti = minuti_di_lettura(testo, " ".join(f["testo"] for f in fatti),
+                                   prosp_testi, post.get("implicazioni"))
+        meta_html = (f'<div class="post-data">{esc(data_leggibile)} <span class="meta-sep">&middot;</span> '
+                     f'Commento IA <span class="meta-sep">&middot;</span> {minuti} min di lettura</div>')
+        if fatti:
+            voci = []
+            for f in fatti:
+                url = str(f.get("url") or "")
+                if url.startswith(("http://", "https://")):
+                    voci.append(f'<li>{esc(f["testo"])} <a class="fonte-link" href="{esc(url)}" '
+                                f'target="_blank" rel="noopener">{esc(f.get("fonte") or "fonte")} &#8599;</a></li>')
+                else:
+                    voci.append(f'<li>{esc(f["testo"])}</li>')
+            fatti_html = f"""<section class="blocco fatti">
+      <h2>I fatti</h2>
+      <ul>{"".join(voci)}</ul>
+      <p class="nota-blocco">Ogni fatto rimanda alla pagina in cui è stato trovato.</p>
+    </section>"""
+        lettura_html = f"""<section class="blocco lettura">
+      <h2>La lettura</h2>
+      <p class="nota-blocco">Commento di un'IA. La domanda è sempre la stessa: chi ci guadagna?</p>
+      <div class="post-testo">{esc(testo)}</div>
+    </section>"""
+        if incerto:
+            incerto_html = ('<section class="blocco incerto"><h2>Cosa non sappiamo</h2><ul>'
+                            + "".join(f"<li>{esc(t)}</li>" for t in incerto) + "</ul></section>")
+        costo = costo_edizione_eur(data_str)
+        costo_txt = (f" Costo dell'intera edizione: &euro; {format(costo, '.2f').replace('.', ',')}."
+                     if costo is not None else "")
+        generato_html = f"""<section class="blocco generato">
+      <h2>Come è stato generato</h2>
+      <p>Scritto da un'intelligenza artificiale (Claude, Anthropic) il {int(giorno)} {MESI_IT[int(mese)]} {anno}, a partire da notizie di {esc(fonte or "varie fonti")}.{costo_txt}</p>
+      <p class="link-riga"><a href="{ROOT_REL}prompt.html">Il prompt</a><a href="{ROOT_REL}costi.html">Costi</a></p>
+    </section>"""
+    if correlati:
+        voci_c = "".join(
+            f'<li><a href="{ROOT_REL}{esc(c["href"])}">{esc(c["titolo"])}</a>'
+            f'<span class="corr-data">{esc(c["data"])}</span></li>' for c in correlati)
+        correlati_html = f'<section class="blocco correlati"><h2>Altri articoli di {esc(cat)}</h2><ul>{voci_c}</ul></section>'
 
     json_ld = {
         "@context": "https://schema.org",
@@ -406,6 +506,30 @@ def costruisci_pagina(post: dict, data_str: str, anno: str, mese: str, giorno: s
 
     .torna-edizioni:hover {{ color: #c0392b; }}
 
+    :root {{ --accento: #c0392b; }}
+    .meta-sep {{ color: #bbb; margin: 0 0.2rem; font-style: normal; }}
+    .blocco {{ margin-top: 1.8rem; }}
+    .blocco h2 {{ font-family: Arial, sans-serif; font-size: 0.78rem; letter-spacing: 0.1em; text-transform: uppercase; color: #444; margin-bottom: 0.6rem; }}
+    .nota-blocco {{ font-family: Arial, sans-serif; font-size: 0.8rem; color: #666; line-height: 1.5; margin-bottom: 0.8rem; }}
+    .blocco.fatti {{ background: #fbf8f2; border: 1px solid #d9d2c3; padding: 1.1rem 1.3rem; }}
+    .blocco.fatti .nota-blocco {{ margin: 0.8rem 0 0; }}
+    .blocco.fatti ul {{ padding-left: 1.1rem; }}
+    .blocco.fatti li {{ margin-bottom: 0.6rem; line-height: 1.55; }}
+    .fonte-link {{ font-family: Arial, sans-serif; font-size: 0.75rem; color: #666; text-decoration: none; border-bottom: 1px dotted #999; white-space: nowrap; }}
+    .fonte-link:hover {{ color: var(--accento); }}
+    .blocco.lettura h2 {{ color: var(--accento); margin-bottom: 0.2rem; }}
+    .blocco.incerto {{ background: #eae3d5; padding: 1rem 1.3rem; }}
+    .blocco.incerto ul {{ padding-left: 1.1rem; }}
+    .blocco.incerto li {{ margin-bottom: 0.4rem; line-height: 1.5; }}
+    .blocco.generato {{ border: 1px solid #1a1a1a; padding: 1rem 1.3rem; font-family: Arial, sans-serif; font-size: 0.88rem; line-height: 1.6; color: #333; }}
+    .blocco.generato .link-riga {{ margin-top: 0.6rem; }}
+    .blocco.generato .link-riga a {{ margin-right: 1.2rem; color: #1a1a1a; font-weight: bold; }}
+    .blocco.correlati ul {{ list-style: none; padding: 0; }}
+    .blocco.correlati li {{ padding: 0.55rem 0; border-bottom: 1px solid #e3dccd; display: flex; justify-content: space-between; gap: 1rem; line-height: 1.4; }}
+    .blocco.correlati a {{ color: #1a1a1a; text-decoration: none; }}
+    .blocco.correlati a:hover {{ color: var(--accento); }}
+    .corr-data {{ font-family: Arial, sans-serif; font-size: 0.75rem; color: #888; white-space: nowrap; }}
+
     footer {{
       text-align: center;
       padding: 2rem;
@@ -425,7 +549,7 @@ def costruisci_pagina(post: dict, data_str: str, anno: str, mese: str, giorno: s
 
 <header>
   <p class="testata"><a href="{ROOT_REL}index.html">Il Corrispondente IA</a></p>
-  <p class="organo">Organo Ufficiale della Satira Artificialmente Ragionata &mdash; Fondato per necessità e per noia</p>
+  <p class="organo">Organo Ufficiale del Commento Artificialmente Ragionato &mdash; Fondato per necessità e per noia</p>
   <nav>
     <a href="{ROOT_REL}index.html">Edizioni</a>
     <a href="{ROOT_REL}chi-siamo.html">Chi siamo</a>
@@ -443,9 +567,13 @@ def costruisci_pagina(post: dict, data_str: str, anno: str, mese: str, giorno: s
   <article class="{cat_slug}">
     <div class="categoria-label {cat_slug}">{esc(cat)}</div>
     <h1 class="post-titolo">{esc(titolo)}</h1>
-    <div class="post-data">{esc(data_leggibile)}</div>
-    <div class="post-testo">{esc(testo)}</div>
+    {meta_html}
+    {fatti_html}
+    {lettura_html}
     {editoriale_html}
+    {incerto_html}
+    {generato_html}
+    {correlati_html}
     {tag_html}
     <div class="post-footer">
       <span class="post-fonte">{fonte_html}</span>
@@ -576,7 +704,7 @@ def pagina_archivio(titolo: str, descrizione: str, canonical: str, corpo: str, r
 
 <header>
   <p class="testata"><a href="{root_rel}index.html">Il Corrispondente IA</a></p>
-  <p class="organo">Organo Ufficiale della Satira Artificialmente Ragionata &mdash; Fondato per necessità e per noia</p>
+  <p class="organo">Organo Ufficiale del Commento Artificialmente Ragionato &mdash; Fondato per necessità e per noia</p>
   <nav>
     <a href="{root_rel}index.html">Edizioni</a>
     <a href="{root_rel}chi-siamo.html">Chi siamo</a>
@@ -747,6 +875,7 @@ def main():
     with open(POSTS_FILE, encoding="utf-8") as f:
         archivio = json.load(f)
 
+    correlati_per_post = calcola_correlati(archivio)
     n_pagine = 0
     n_saltate = 0
     for edizione in archivio.get("edizioni", []):
@@ -777,7 +906,16 @@ def main():
                 # meglio l'anteprima generica che un'edizione mancata.
                 print(f"  ⚠ Immagine OG non generata per '{slug}' ({e}) — uso il fallback generico")
 
-            html = costruisci_pagina(post, data_str, anno, mese, giorno, og_image_url=og_url)
+            try:
+                html = costruisci_pagina(post, data_str, anno, mese, giorno, og_image_url=og_url,
+                                         correlati=correlati_per_post.get((data_str, slug)))
+            except Exception as e:
+                # Un difetto nel formato nuovo non deve costare l'edizione del giorno:
+                # si ricostruisce la pagina senza i campi nuovi e si segnala nel log.
+                print(f"  ⚠ Pagina '{slug}': formato nuovo non riuscito ({type(e).__name__}: {e}) "
+                      f"— uso il formato semplice")
+                semplice = {k: v for k, v in post.items() if k not in ("fatti", "incerto")}
+                html = costruisci_pagina(semplice, data_str, anno, mese, giorno, og_image_url=og_url)
             with open(path, "w", encoding="utf-8") as f:
                 f.write(html)
             n_pagine += 1
@@ -789,8 +927,11 @@ def main():
     if n_orfane:
         print(f"✓ Rimosse {n_orfane} pagine orfane")
 
-    n_mesi, n_art_arch = costruisci_archivio()
-    print(f"✓ Archivio costruito ({n_mesi} mesi, {n_art_arch} articoli)")
+    try:
+        n_mesi, n_art_arch = costruisci_archivio()
+        print(f"✓ Archivio costruito ({n_mesi} mesi, {n_art_arch} articoli)")
+    except Exception as e:
+        print(f"⚠ Archivio non costruito ({type(e).__name__}: {e}): le pagine restano quelle di ieri.")
 
     sitemap_xml = costruisci_sitemap(archivio)
     with open(SITEMAP_FILE, "w", encoding="utf-8") as f:

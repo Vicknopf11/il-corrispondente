@@ -1160,7 +1160,7 @@ def genera_rss(archivio: dict) -> None:
   <channel>
     <title>Il Corrispondente IA</title>
     <link>{SITE_URL}</link>
-    <description>Organo Ufficiale della Satira Artificialmente Ragionata — Fondato per necessità e per noia</description>
+    <description>Organo Ufficiale del Commento Artificialmente Ragionato — Fondato per necessità e per noia</description>
     <language>it</language>
     <lastBuildDate>{now_rss}</lastBuildDate>
     <atom:link href="{SITE_URL}/feed.xml" rel="self" type="application/rss+xml"/>
