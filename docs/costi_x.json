@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-13",
+      "slug": "giornata-mondiale-gentilezza-benessere-industria",
+      "categoria": "Wellness",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-13",
       "slug": "nvidia-huang-dimissioni-spia-cinese-amd-borsa",
       "categoria": "AI",
       "evidenza": false,
