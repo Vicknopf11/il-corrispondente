@@ -1,14 +1,6 @@
 {
-  "generato": "2026-11-12T18:31:07.076121+00:00",
+  "generato": "2026-11-13T06:31:03.916977+00:00",
   "item": [
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Pétanque, ecco la nuova Serie A: regole e protagonisti del 2026-2027",
-      "link": "https://www.gazzetta.it/bocce/12-11-2026/petanque-ecco-la-nuova-serie-a-regole-e-protagonisti-del-2026-2027.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-11-12"
-    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
@@ -26,20 +18,28 @@
       "data_evento": "2026-11-10"
     },
     {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Dikec, il tiratore turco diventato meme: \"Duplantis ed Elon Musk mi imitano? Anche gli avversari sono contenti\"",
-      "link": "https://www.gazzetta.it/Sport-Vari/07-11-2026/yusuf-dikec-la-mano-in-tasca-diventata-un-meme-mi-viene-da-sorridere-quando-mi-imitano.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-11-07"
-    },
-    {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
       "titolo": "Italrugby-Argentina a Genova: Quesada ne cambia 5, dentro Allan e Varney",
       "link": "https://www.gazzetta.it/Rugby/12-11-2026/rugby-italia-argentina-a-genova-quesada-schiera-titolari-allan-e-varney.shtml",
       "fonte": "Gazzetta — Rugby",
       "data_evento": "2026-11-12"
+    },
+    {
+      "sottocategoria": "Atletica",
+      "tipo": "notizia",
+      "titolo": "A Larissa Iapichino il Premio Cannavò 2026: \"Un onore, trampolino di lancio verso il futuro\"",
+      "link": "https://www.gazzetta.it/Atletica/12-11-2026/larissa-iapichino-vince-il-premio-cannavo-2026.shtml",
+      "fonte": "Gazzetta — Atletica",
+      "data_evento": "2026-11-12"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Musetti-Humbert, highlights: super rovescio da fondocampo di Lorenzo",
+      "link": "https://video.gazzetta.it/tennis/atp/highlights/video-musetti-humbert-highlights-stoccolma-super-rovescio-di-lorenzo-da-fondocampo/b4aa9e45-bf36-41f2-8980-4b8f4a820xlk",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-11-13"
     }
   ]
 }
