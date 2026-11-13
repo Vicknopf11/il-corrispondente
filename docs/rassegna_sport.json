@@ -1,22 +1,6 @@
 {
-  "generato": "2026-11-13T12:31:03.790987+00:00",
+  "generato": "2026-11-13T18:31:07.507255+00:00",
   "item": [
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Pétanque, ecco la nuova Serie A: regole e protagonisti del 2026-2027",
-      "link": "https://www.gazzetta.it/bocce/12-11-2026/petanque-ecco-la-nuova-serie-a-regole-e-protagonisti-del-2026-2027.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-11-12"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Lindsey Vonn sui social: \"Ho tolto tutta questa me**a dalla mia gamba\"",
-      "link": "https://video.gazzetta.it/sport-invernali/video-lindsey-vonn-sui-social-ho-tolto-tutta-questa-me-a-dalla-mia-gamba/a12789f1-e029-4973-8a79-1c3b3121cxlk",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-11-12"
-    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
@@ -39,6 +23,22 @@
       "titolo": "Fineanganofo sbocciato nel Seven. Ora sfida l'Inghilterra: in ballo un Mondiale con gli All Blacks",
       "link": "https://www.gazzetta.it/Rugby/13-11-2026/rugby-fineanganofo-sfida-l-inghilterra-con-gli-all-blacks.shtml",
       "fonte": "Gazzetta — Rugby",
+      "data_evento": "2026-11-13"
+    },
+    {
+      "sottocategoria": "Atletica",
+      "tipo": "notizia",
+      "titolo": "A Larissa Iapichino il Premio Cannavò 2026: \"Un onore, trampolino di lancio verso il futuro\"",
+      "link": "https://www.gazzetta.it/Atletica/12-11-2026/larissa-iapichino-vince-il-premio-cannavo-2026.shtml",
+      "fonte": "Gazzetta — Atletica",
+      "data_evento": "2026-11-12"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Musetti, niente finale a Stoccolma: Fritz domina in due set e si prende la rivincita",
+      "link": "https://www.gazzetta.it/Tennis/ATP/13-11-2026/musetti-ko-in-semifinale-a-stoccolma-vince-fritz-6-4-6-2.shtml",
+      "fonte": "Gazzetta — Tennis",
       "data_evento": "2026-11-13"
     }
   ]
