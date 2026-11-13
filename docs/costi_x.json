@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-13",
+      "slug": "allarmi-bomba-scuole-prefetto-decide-evacuazioni",
+      "categoria": "Politica Nazionale",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-13",
       "slug": "ucraina-europa-negoziati-cremlino-non-conferma",
       "categoria": "Politica Internazionale",
       "evidenza": true,
@@ -1431,14 +1439,6 @@
       "evidenza": true,
       "tipo_richiesta": "ContentCreateWithUrl",
       "costo_usd": 0.2
-    },
-    {
-      "data": "2026-10-23",
-      "slug": "premio-tenco-2026-dio-e-morto-ariston-canzone-autore",
-      "categoria": "Cultura",
-      "evidenza": false,
-      "tipo_richiesta": "PostCreate",
-      "costo_usd": 0.015
     }
   ]
 }
