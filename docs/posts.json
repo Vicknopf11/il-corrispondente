@@ -1,6 +1,404 @@
 {
   "edizioni": [
     {
+      "data": "2026-11-13",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Ucraina: Europa al tavolo dei negoziati, ma il Cremlino non conferma",
+          "slug": "ucraina-europa-negoziati-cremlino-non-conferma",
+          "tag": [
+            "ucraina",
+            "russia",
+            "negoziati",
+            "geopolitica"
+          ],
+          "evidenza": true,
+          "fonte": "tp24.it / 10things.news",
+          "cerca_url": "https://www.google.com/search?q=Ucraina+negoziati+Europa+Witkoff+Kushner+Putin+13+novembre+2026",
+          "post_x": "Witkoff e Kushner volano da Putin a Mosca, poi da Zelensky a Dublino. L'Europa «parteciperà ai negoziati». Il Cremlino non conferma. Chi ci guadagna dalla pace? Chiedere ai contractor della difesa. #Ucraina",
+          "post_sito": "Gli inviati di Trump, Steve Witkoff e Jared Kushner, hanno incontrato Putin al Cremlino e poi Zelensky a Dublino, annunciando che i Paesi europei «parteciperanno al prossimo round di negoziati» sulla guerra in Ucraina. Il Cremlino tace: nessuna conferma ufficiale. Nel frattempo Kiev segnala per la seconda volta restrizioni all'accesso a Starlink, che qualcuno legge come pressione americana sul tavolo. Il coro mediatico celebra il «disgelo», ma pochi chiedono: a che condizioni? Putin ha detto di essere disposto solo a una tregua localizzata, sul modello di Oleshky — non a una pace. E mentre si negozia, un drone ucraino colpisce una nave da guerra russa nel Baltico. Sullo sfondo, l'industria della difesa europea — che ha appena moltiplicato i suoi ordini — non ha alcun interesse che la guerra finisca davvero in fretta.",
+          "fatti": [
+            {
+              "testo": "Gli inviati statunitensi Steve Witkoff e Jared Kushner hanno incontrato Vladimir Putin a Mosca, poi Zelensky a Dublino: Witkoff ha annunciato che i Paesi europei parteciperanno al prossimo round di negoziati.",
+              "fonte": "zerosette.it",
+              "url": "https://www.zerosette.it/2026/11/parma-italia-e-mondo-notizie-brevi-del-13-11-26/"
+            },
+            {
+              "testo": "Il presidente ucraino Zelensky ha dichiarato che l'Europa si unirà al prossimo round negoziale, ma il Cremlino non ha confermato la sua partecipazione.",
+              "fonte": "10things.news",
+              "url": "https://www.10things.news/p/10-things-global-news-13th-november-797"
+            },
+            {
+              "testo": "Putin si è detto disposto solo a una tregua localizzata, sul modello di Oleshky, secondo quanto riportato dalla stampa italiana.",
+              "fonte": "tp24.it",
+              "url": "https://tp24.it/2026/11/13/cronaca/13-novembre-vince-l-italia-banche-contro-la-manovra-scandalo-nvidia/242130"
+            },
+            {
+              "testo": "Kiev ha segnalato per la seconda volta restrizioni all'accesso a Starlink e al servizio militare Starshield, suggerendo una possibile forma di pressione da parte di Washington nelle trattative.",
+              "fonte": "focusamerica.it",
+              "url": "https://focusamerica.it/la-rassegna-stampa-di-venerdi-13-novembre-2026/"
+            }
+          ],
+          "incerto": [
+            "Il Cremlino non ha confermato ufficialmente la partecipazione europea ai negoziati.",
+            "Le condizioni di un'eventuale tregua o accordo di pace non sono ancora note."
+          ],
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La versione di Washington",
+              "testo": "L'amministrazione Trump presenta l'iniziativa diplomatica come un successo della sua strategia di pressione bilaterale: dopo l'incontro di Abu Dhabi — il primo contatto diretto russo-ucraino in nove mesi — Witkoff e Kushner hanno portato al tavolo anche la promessa di un allargamento alla partecipazione europea. Trump avrebbe personalmente telefonato a Putin per sbloccare l'impasse. Per Washington si tratta di un passo verso la fine di un conflitto che ha già costato miliardi di dollari in aiuti militari."
+            },
+            {
+              "etichetta": "La posizione di Mosca",
+              "testo": "Putin ha incontrato gli inviati americani con sorrisi, ma ha comunicato una disponibilità limitata: solo una tregua localizzata, non un accordo di pace generale. Il Cremlino non ha confermato formalmente la partecipazione europea al prossimo round, lasciando aperta la possibilità di usarla come leva negoziale. Mosca considera da mesi il coinvolgimento europeo come un elemento da regolare a proprio vantaggio, non come una concessione scontata."
+            },
+            {
+              "etichetta": "L'Europa divisa",
+              "testo": "I leader europei riuniti a Dublino per il Consiglio informale sono definiti «sulla buona strada» ma «divisi». Nessun Paese ha ancora designato un rappresentante ufficiale per i negoziati. L'UE teme di arrivare a un tavolo dove le decisioni principali siano già state prese da Washington e Mosca, e di dover ratificare condizioni non favorevoli a Kiev."
+            },
+            {
+              "etichetta": "La prospettiva ucraina",
+              "testo": "Zelensky ha dichiarato che l'Europa parteciperà, ma ha denunciato la riduzione dello scudo antimissile americano e le restrizioni a Starlink come segnali di pressione indebita. Per Kiev, ogni negoziato che non preveda il ritiro completo delle truppe russe dai territori occupati rischia di cristallizzare una sconfitta de facto, anche se presentata come accordo di pace."
+            }
+          ],
+          "implicazioni": "Se l'Europa riuscisse a ottenere un seggio formale al tavolo, cambierebbe l'equilibrio diplomatico della crisi: Bruxelles potrebbe vincolare qualsiasi accordo alla restituzione dei territori ucraini e alle garanzie di sicurezza post-conflitto. In caso contrario, una tregua localizzata imposta da Washington e Mosca potrebbe congelare le linee del fronte senza risolvere le cause del conflitto, lasciando l'Ucraina in una posizione di vulnerabilità permanente.",
+          "redattore": "Il Corrispondente Estero 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Allarmi bomba in 3.778 scuole: ora decide il prefetto, non il preside",
+          "slug": "allarmi-bomba-scuole-prefetto-decide-evacuazioni",
+          "tag": [
+            "sicurezza",
+            "scuole",
+            "governo",
+            "cybersicurezza"
+          ],
+          "evidenza": false,
+          "fonte": "Sarno Notizie / Sky TG24",
+          "cerca_url": "https://www.google.com/search?q=allarmi+bomba+scuole+3778+prefetto+evacuazioni+13+novembre+2026",
+          "post_x": "3.778 scuole minacciate via mail. Soluzione del governo: da oggi decide il prefetto, non il preside. Anni di tagli alla cybersicurezza e il problema si risolve spostando la firma. #scuola #sicurezza",
+          "post_sito": "Per la seconda volta in pochi giorni, oltre 3.700 istituti scolastici italiani hanno ricevuto email anonime con false minacce di attentato. Il governo ha risposto spostando la responsabilità delle evacuazioni dai dirigenti scolastici ai prefetti: niente evacuazioni automatiche per una mail. Meloni ha convocato le opposizioni per un fronte unitario — raro momento di civiltà istituzionale, o mossa per blindarsi da ogni critica? La domanda che nessuno fa è: perché le scuole italiane sono così vulnerabili a questo tipo di attacchi di massa? E mentre il governo annuncia nuove misure di sicurezza informatica, Schlein chiede di spostare fondi dalle armi alla cybersicurezza — proposta che almeno ha il pregio della coerenza, anche se arriva quando le mail sono già partite. Chi ci guadagna dal panico? Chi vende soluzioni di sicurezza informatica alla pubblica amministrazione lo sa benissimo.",
+          "fatti": [
+            {
+              "testo": "Una seconda ondata di minacce via mail ha coinvolto 3.778 istituti scolastici italiani il 12 novembre 2026; le evacuazioni sono state solo 77.",
+              "fonte": "Sarno Notizie",
+              "url": "https://www.sarnonotizie.it/rassegna-stampa-13-novembre-2026/"
+            },
+            {
+              "testo": "Il governo ha stabilito che d'ora in poi le decisioni di evacuazione spetteranno ai prefetti, caso per caso, e non ai dirigenti scolastici.",
+              "fonte": "tp24.it",
+              "url": "https://tp24.it/2026/11/13/cronaca/13-novembre-vince-l-italia-banche-contro-la-manovra-scandalo-nvidia/242130"
+            },
+            {
+              "testo": "La premier Meloni ha incontrato i rappresentanti dell'opposizione per affrontare unitariamente l'emergenza sicurezza nelle scuole.",
+              "fonte": "Sky TG24",
+              "url": "https://tg24.sky.it/cronaca/2026/11/13/prime-pagine-quotidiani-oggi-13-novembre"
+            },
+            {
+              "testo": "Analoghi allarmi bomba via mail hanno colpito diversi istituti scolastici in Francia nella stessa giornata.",
+              "fonte": "zerosette.it",
+              "url": "https://www.zerosette.it/2026/11/parma-italia-e-mondo-notizie-brevi-del-13-11-26/"
+            }
+          ],
+          "incerto": [
+            "Non è ancora nota l'origine degli attacchi informatici alle scuole, né se siano coordinati a livello internazionale."
+          ],
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Accordo storico sindacati-imprese sul salario giusto: firma il 14 dicembre",
+          "slug": "accordo-sindacati-imprese-salario-giusto-dicembre-2026",
+          "tag": [
+            "salari",
+            "sindacati",
+            "contratti",
+            "lavoro"
+          ],
+          "evidenza": false,
+          "fonte": "AGI / Sky TG24",
+          "cerca_url": "https://www.google.com/search?q=accordo+salario+giusto+sindacati+imprese+CGIL+CISL+UIL+novembre+2026",
+          "post_x": "«Accordo storico» su salari e contratti: Cgil, Cisl, Uil e 13 associazioni datoriali firmano dopo 18 ore di trattativa. La firma vera è il 14 dicembre. Intanto i salari reali restano sotto l'inflazione del 2022-2024. #lavoro #salari",
+          "post_sito": "All'alba del 12 novembre, dopo quasi diciotto ore di trattativa, Cgil, Cisl, Uil e tredici associazioni datoriali — tra cui Confindustria e Confcommercio — hanno siglato un'ipotesi di accordo quadro su salari, rappresentanza e contrattazione collettiva. Tutti lo definiscono «storico». La firma formale è attesa il 14 dicembre. L'accordo introduce tempi certi per i rinnovi contrattuali, verifica periodica sull'inflazione e una stretta sui contratti pirata — meccanismi che esistono in quasi tutta Europa da decenni. Il contesto rimosso dal racconto dominante è che i salari reali italiani hanno perso potere d'acquisto negli anni dell'inflazione alta, e che questo accordo arriva quando il danno è già fatto. La ministra del Lavoro Calderone lo definisce un «atto di responsabilità»: il che è vero, ma non risponde alla domanda su chi abbia beneficiato del ritardo. I contratti pirata che si vogliono battere hanno prosperato con la complicità di chi li stipulava.",
+          "fatti": [
+            {
+              "testo": "Cgil, Cisl, Uil e 13 associazioni datoriali hanno siglato il 12 novembre 2026 un'ipotesi di accordo quadro sulla rappresentanza, i salari e la contrattazione collettiva, dopo circa 18 ore di trattativa.",
+              "fonte": "AGI",
+              "url": "https://www.agi.it/economia/news/2026-11-12/salari-contratti-accordo-cgil-cisl-uil-imprese-39991061/"
+            },
+            {
+              "testo": "La firma ufficiale dell'accordo da parte dei presidenti di tutte le organizzazioni firmatarie è prevista per il 14 dicembre 2026.",
+              "fonte": "Sky TG24",
+              "url": "https://tg24.sky.it/economia/2026/11/12/salari-contratti-accordo-sindacati-imprese-cosa-prevede"
+            },
+            {
+              "testo": "L'accordo si aggancia al DL 62/2026 (cosiddetto «decreto Primo Maggio») e prevede un anticipo salariale dopo 9 mesi di contratto scaduto e una stretta sui contratti pirata.",
+              "fonte": "money.it",
+              "url": "https://www.money.it/contratto-scaduto-inflazione-busta-paga-accordo-sindacati-imprese"
+            }
+          ],
+          "incerto": [
+            "L'accordo è ancora un'ipotesi: la firma formale è attesa il 14 dicembre dopo le consultazioni interne delle organizzazioni firmatarie.",
+            "Non è ancora chiaro in tempi concreti quanto tempo impiegherà l'intesa a tradursi in aumenti effettivi in busta paga."
+          ],
+          "editoriale": false,
+          "redattore": "L'Analista 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Musetti in semifinale a Stoccolma: sfida Fritz sul cemento indoor",
+          "slug": "musetti-semifinale-stoccolma-atp-250-fritz",
+          "tag": [
+            "tennis",
+            "musetti",
+            "atp-stoccolma",
+            "fritz"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Sky Sport",
+          "cerca_url": "https://www.google.com/search?q=Musetti+semifinale+ATP+Stoccolma+2026+Fritz",
+          "post_x": "Musetti batte Humbert 7-6 3-6 6-4 e vola in semifinale a Stoccolma. La stessa sera l'Italia batteva la Francia 3-1. Una serata azzurra che il calcio si prende tutto il titolo, ma il tennis c'era. #Musetti #ATPStoccolma",
+          "post_sito": "Lorenzo Musetti, 24 anni, numero 25 del mondo, ha superato ai quarti di finale dell'ATP 250 di Stoccolma il francese Ugo Humbert con il punteggio di 7-6, 3-6, 6-4 in due ore e mezza di gioco, centrando la sua 27esima semifinale nel circuito maggiore. Oggi affronterà Taylor Fritz, numero 1 del seeding. È la terza semifinale stagionale per il carrarino, e arriva in un finale d'anno che lo vede in forma crescente: dieci vittorie nelle ultime 30 giornate. La notizia è stata quasi sepolta dalla vittoria della Nazionale di calcio contro la Francia, ma il tennis italiano — sport che esiste anche fuori dai Grand Slam e dalle Finals di Torino — continua a produrre risultati di rilievo nel circuito internazionale. Musetti gioca su Sky Sport, non in chiaro: chi vuole seguirlo paga. Chi invece preferisce aspettare le interviste lo trovava gratis sulle news. Il solito racconto del tifo televisivo che si accende solo quando si vince.",
+          "fatti": [
+            {
+              "testo": "Lorenzo Musetti ha battuto Ugo Humbert 7-6, 3-6, 6-4 in due ore e mezza di gioco, qualificandosi per la semifinale dell'ATP 250 di Stoccolma.",
+              "fonte": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/12/tennis-stoccolma-musetti-supera-humbert-e-va-in-semifinale_8c2edb84-43b8-4117-9325-50f9fc5155c1.html"
+            },
+            {
+              "testo": "Musetti (n. 25 ATP, terza testa di serie) affronterà in semifinale Taylor Fritz, numero 1 del seeding; il match è in programma oggi 13 novembre.",
+              "fonte": "Sky Sport",
+              "url": "https://sport.sky.it/tennis/2026/11/12/musetti-humbert-atp-stoccolma-risultato"
+            },
+            {
+              "testo": "La semifinale di Stoccolma è la 27esima semifinale in carriera sul circuito maggiore per Musetti, e la sua 30esima vittoria stagionale.",
+              "fonte": "Sky Sport",
+              "url": "https://sport.sky.it/tennis/2026/11/12/musetti-humbert-atp-stoccolma-risultato"
+            }
+          ],
+          "incerto": [
+            "Il risultato della semifinale contro Fritz non è ancora noto al momento della pubblicazione."
+          ],
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Strage di via D'Amelio: perquisizioni all'ex capo della Polizia De Gennaro",
+          "slug": "strage-via-damelio-perquisizioni-de-gennaro-borsellino",
+          "tag": [
+            "borsellino",
+            "mafia",
+            "depistaggio",
+            "agenda-rossa"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Il Fatto Quotidiano",
+          "cerca_url": "https://www.google.com/search?q=perquisizioni+De+Gennaro+via+D%27Amelio+Borsellino+Caltanissetta+2026",
+          "post_x": "Il ROS perquisisce l'ex capo della Polizia De Gennaro nell'inchiesta sul depistaggio di via D'Amelio e l'agenda rossa di Borsellino. Trentatré anni dopo. Il tempo della giustizia italiana: un caso a sé. #Borsellino #AgendaRossa",
+          "post_sito": "I carabinieri del ROS hanno eseguito il 12 novembre sei decreti di perquisizione in provincia di Roma, emessi dalla Procura di Caltanissetta, nell'ambito dell'inchiesta sul depistaggio delle indagini sulla strage di via D'Amelio e sulla scomparsa dell'agenda rossa del giudice Paolo Borsellino. Tra le persone perquisite c'è l'ex capo della Polizia Gianni De Gennaro, insieme al pentito Salvatore Contorno e ad alcuni ex collaboratori di De Gennaro. La Procura ha precisato con cura che De Gennaro non è indagato per il reato di strage: le perquisizioni riguardano l'ipotesi che egli si sia adoperato per impedire a Contorno di rendere dichiarazioni ai magistrati nisseni. È il 2026, siamo a trentaquattro anni da quella strage, e l'agenda rossa di Borsellino — sparita in pochi minuti dopo l'attentato davanti agli occhi di tutti — non è ancora stata trovata. La causa strutturale rimossa da questa notizia è una sola: i depistaggi sulle stragi del 1992 non sono stati un incidente, ma un sistema che ha coinvolto apparati istituzionali la cui identità completa è ancora da accertare.",
+          "fatti": [
+            {
+              "testo": "I carabinieri del ROS hanno eseguito sei decreti di perquisizione in provincia di Roma emessi dalla Procura di Caltanissetta nell'ambito dell'inchiesta sulla strage di via D'Amelio e la scomparsa dell'agenda rossa di Borsellino.",
+              "fonte": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/la-strage-di-via-damelio-perquisizioni-allex-capo-della-polizia-gianni-de-gennaro_4f725d2f-4016-4316-9cbb-d99677d42f7c.html"
+            },
+            {
+              "testo": "Le perquisizioni hanno riguardato l'ex capo della Polizia Gianni De Gennaro, il pentito Salvatore Contorno e tre ex collaboratori di De Gennaro: Donatella Peruzzi, Massimo Carnicelli e Francesco Pacetto.",
+              "fonte": "Il Fatto Quotidiano",
+              "url": "https://www.ilfattoquotidiano.it/2026/11/12/depistaggio-borsellino-de-gennaro-perquisizioni-notizie/8569902/"
+            },
+            {
+              "testo": "La Procura di Caltanissetta ha precisato che De Gennaro e gli altri destinatari delle perquisizioni non sono indagati per il reato di strage.",
+              "fonte": "tp24.it",
+              "url": "https://tp24.it/2026/11/13/antimafia/depistaggio-via-d-amelio-perquisizioni-per-l-ex-capo-della-polizia-de-gennaro/242129"
+            },
+            {
+              "testo": "Secondo la Procura, De Gennaro si sarebbe adoperato, anche attraverso collaboratori, per impedire a Contorno di rendere dichiarazioni ai magistrati nisseni.",
+              "fonte": "Sky TG24",
+              "url": "https://tg24.sky.it/cronaca/2026/11/12/strage-via-damelio-perquisizioni-de-gennaro-borsellino"
+            }
+          ],
+          "incerto": [
+            "De Gennaro non è indagato per il reato di strage: il procedimento è a carico di ignoti.",
+            "Non sono ancora noti gli esiti delle perquisizioni né il materiale eventualmente trovato."
+          ],
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Scienza",
+          "titolo": "COP31 ad Antalya: Guterres chiede 80 milioni di km di reti elettriche entro il 2040",
+          "slug": "cop31-antalya-guterres-reti-elettriche-80-milioni-km",
+          "tag": [
+            "cop31",
+            "clima",
+            "energia",
+            "elettrificazione"
+          ],
+          "evidenza": false,
+          "fonte": "Anadolu Agency / greenreport.it",
+          "cerca_url": "https://www.google.com/search?q=COP31+Antalya+Guterres+reti+elettriche+80+milioni+km+2040",
+          "post_x": "Guterres alla COP31: servono 80 milioni di km di nuove reti elettriche entro il 2040. Chi costruirà quelle reti? Le stesse multinazionali energetiche che finora hanno costruito gasdotti. Il cerchio si chiude. #COP31 #clima",
+          "post_sito": "Alla conferenza ONU sul clima COP31 di Antalya, il segretario generale António Guterres ha chiesto di costruire o ammodernare oltre 80 milioni di chilometri di linee elettriche entro il 2040, e di aumentare del 50% gli investimenti globali nelle reti entro il 2030. La ragione: circa 3.000 gigawatt di progetti rinnovabili già pronti aspettano di essere collegati alla rete. L'obiettivo dichiarato dalla presidenza turco-australiana è portare la quota di elettricità nei consumi globali dal 23% attuale al 35% entro il 2035. Il beneficio taciuto: chi realizzerà fisicamente queste infrastrutture sono i grandi gruppi dell'energia e delle costruzioni — gli stessi che per decenni hanno costruito gasdotti e centrali a carbone. La transizione energetica non abolisce i grandi contractor: li riconverte. E per ogni dollaro investito in rinnovabili, secondo i dati della conferenza, ne arrivano ancora due dai fossili. L'urgenza è reale; chi ci guadagna dalla soluzione lo è altrettanto.",
+          "fatti": [
+            {
+              "testo": "Il segretario generale ONU Guterres ha dichiarato alla COP31 di Antalya che raggiungere gli obiettivi di elettrificazione richiede costruire o ammodernare oltre 80 milioni di chilometri di linee elettriche entro il 2040.",
+              "fonte": "Anadolu Agency",
+              "url": "https://www.aa.com.tr/en/turkiye/un-chief-warns-grid-bottlenecks-stall-clean-energy-transition-at-cop31/4122347"
+            },
+            {
+              "testo": "Circa 3.000 gigawatt di progetti di energia rinnovabile e sistemi a batteria in fase avanzata di sviluppo restano in attesa di connessione alla rete.",
+              "fonte": "Anadolu Agency",
+              "url": "https://www.aa.com.tr/en/turkiye/un-chief-warns-grid-bottlenecks-stall-clean-energy-transition-at-cop31/4122347"
+            },
+            {
+              "testo": "La presidenza turca della COP31 ha proposto l'obiettivo «35x35»: portare la quota di elettricità nei consumi primari globali al 35% entro il 2035, contro l'attuale 23%.",
+              "fonte": "greenreport.it",
+              "url": "https://www.greenreport.it/news/crisi-climatica-e-adattamento/64867-lera-dellelettricita-alla-cop31-tra-ambizioni-resistenze-e-moniti-guterres-i-fossili-devono-sparire-come-i-dinosauri"
+            },
+            {
+              "testo": "Guterres ha invitato le istituzioni finanziarie ad aumentare del 50% gli investimenti globali nelle reti entro il 2030.",
+              "fonte": "Anadolu Agency",
+              "url": "https://www.aa.com.tr/en/turkiye/un-chief-warns-grid-bottlenecks-stall-clean-energy-transition-at-cop31/4122347"
+            }
+          ],
+          "incerto": [
+            "L'obiettivo «35x35» della presidenza turca non è ancora stato inserito formalmente nell'agenda ufficiale della COP31.",
+            "I costi complessivi per raggiungere gli obiettivi di elettrificazione proposti sono stimati in circa 3.500 miliardi di dollari l'anno, contro i 1.800 attuali, ma restano cifre da negoziare."
+          ],
+          "editoriale": false,
+          "redattore": "Il Metodico 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "AI",
+          "titolo": "Nvidia in caduta libera: Huang lascia, AMD guadagna il 5,9% in borsa",
+          "slug": "nvidia-huang-dimissioni-spia-cinese-amd-borsa",
+          "tag": [
+            "nvidia",
+            "jensen-huang",
+            "semiconduttori",
+            "spionaggio"
+          ],
+          "evidenza": false,
+          "fonte": "Il Post / Adnkronos",
+          "cerca_url": "https://www.google.com/search?q=Jensen+Huang+dimissioni+Nvidia+Alice+Huang+spia+cinese+novembre+2026",
+          "post_x": "Huang lascia Nvidia dopo la spia cinese. AMD sale del 5,9%. Il titolo Nvidia crolla. Chi ci guadagna da uno scandalo sessuale che è anche un caso di sicurezza nazionale? Chiedere ai concorrenti. E a Huawei. #Nvidia #AI",
+          "post_sito": "Jensen Huang, cofondatore e amministratore delegato di Nvidia da 33 anni, si è dimesso con effetto immediato da tutte le cariche dopo lo scandalo della sua relazione con Alice Huang — dirigente cinese di Megaspeed, sospettata dai servizi USA di essere un'agente del Ministero della Sicurezza di Stato di Pechino — e di una seconda relazione con una manager interna. Il titolo Nvidia ha perso oltre il 10% a Wall Street; AMD è salita del 5,9%. Chi ci guadagna è scritto nei grafici di borsa. Alice Huang avrebbe avuto partecipazioni in società legate a Huawei, il principale concorrente cinese di Nvidia: se confermato, sarebbe uno dei più gravi casi di spionaggio industriale nel settore dei semiconduttori, l'infrastruttura materiale dell'intelligenza artificiale globale. Trump aveva telefonato personalmente a Huang chiedendogli di resistere; ora scarica la responsabilità sul segretario al Commercio Lutnick, accusato di aver ammorbidito i controlli sulle esportazioni di chip verso la Cina. Il Congresso vuole sapere. Alice Huang è a Pechino. Presunzione di innocenza per tutti i non ancora condannati — la vicenda è ancora in corso di accertamento.",
+          "fatti": [
+            {
+              "testo": "Jensen Huang si è dimesso con effetto immediato da tutte le cariche di Nvidia — CEO, presidente del CdA e membro del board — dopo la rivelazione di due relazioni extraconiugali, una delle quali con Alice Huang, sospettata dai servizi USA di essere una spia cinese.",
+              "fonte": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/12/nvidia-dimissioni-jensen-huang/"
+            },
+            {
+              "testo": "Nel pre-market del Nasdaq, il titolo Nvidia ha ceduto il 10,56% dopo l'annuncio delle dimissioni; AMD è salita del 5,9% nella stessa seduta.",
+              "fonte": "open.online",
+              "url": "https://www.open.online/2026/11/12/alice-huang-cina-pechino-jensen-huang-cda-nvidia/"
+            },
+            {
+              "testo": "Colette Kress, già CFO di Nvidia, ha assunto la carica di CEO ad interim; Harvey Jones è il nuovo presidente del CdA, secondo il modulo 8-K depositato alla SEC.",
+              "fonte": "SEC.gov",
+              "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"
+            },
+            {
+              "testo": "Secondo quanto scoperto dalla società di intelligence Tesari e reso pubblico dalla CNBC, Alice Huang ha detenuto partecipazioni in società che hanno tratto beneficio da Huawei, principale concorrente di Nvidia in Cina.",
+              "fonte": "Sky TG24",
+              "url": "https://tg24.sky.it/mondo/2026/11/12/jensen-huang-nvidia-dimissioni-ceo"
+            }
+          ],
+          "incerto": [
+            "Alice Huang si trova a Pechino; non è chiaro se si trovi sotto protezione delle autorità cinesi.",
+            "Le accuse di spionaggio nei confronti di Alice Huang non hanno ancora prodotto incriminazioni formali."
+          ],
+          "editoriale": false,
+          "redattore": "Il Futurologo 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Wellness",
+          "titolo": "Giornata mondiale della gentilezza: l'industria del benessere scopre che sorridere fa bene (e non costa nulla)",
+          "slug": "giornata-mondiale-gentilezza-benessere-industria",
+          "tag": [
+            "gentilezza",
+            "benessere",
+            "salute",
+            "marketing"
+          ],
+          "evidenza": false,
+          "fonte": "Quotidiano Nazionale",
+          "cerca_url": "https://www.google.com/search?q=Giornata+mondiale+gentilezza+13+novembre+2026+benessere+salute",
+          "post_x": "Oggi è la Giornata mondiale della gentilezza. L'unica giornata del calendario del benessere che non richiede un abbonamento, un integratore o un influencer. Irripetibile. #gentilezza #wellness",
+          "post_sito": "Il 13 novembre si celebra la Giornata mondiale della gentilezza, istituita nel 1998 dal World Kindness Movement. I media wellness si affrettano a ricordarci che essere gentili «fa bene al cuore», «riduce lo stress» e «migliora il benessere soggettivo». Tutto vero — e anche verificabile dalla letteratura scientifica sul tema. Ma vale la pena notare l'imbarazzo dell'industria del benessere di fronte a questa ricorrenza: è una delle poche pratiche di cura di sé che non si può vendere, non ha un prezzo, non richiede una app, non genera dati da profilare. Nessun integratore, nessuna membership, nessun retreat. Il paradosso è che il mercato del wellness — stimato in centinaia di miliardi di dollari globalmente — costruisce il proprio business sulla vendita di soluzioni a problemi di isolamento e stress che nascono spesso proprio dalla competizione individuale che lo stesso mercato alimenta. La gentilezza gratuita è, in questo senso, il sovversivo silenzioso della giornata.",
+          "fatti": [
+            {
+              "testo": "Il 13 novembre si celebra la Giornata mondiale della gentilezza, istituita nel 1998 dal World Kindness Movement.",
+              "fonte": "Quotidiano Nazionale",
+              "url": "https://www.quotidiano.net/salute/news/essere-gentili-ci-fa-stare-meglio-che-cosa-dice-la-scienza-su-stress-cuore-e-benessere-ig7gcq5p"
+            },
+            {
+              "testo": "Il collegamento tra gentilezza, riduzione dello stress e salute cardiovascolare è un campo di ricerca scientifica in evoluzione, con risultati che indicano effetti positivi sul benessere di chi compie gesti di cura verso gli altri.",
+              "fonte": "Quotidiano Nazionale",
+              "url": "https://www.quotidiano.net/salute/news/essere-gentili-ci-fa-stare-meglio-che-cosa-dice-la-scienza-su-stress-cuore-e-benessere-ig7gcq5p"
+            }
+          ],
+          "incerto": [],
+          "editoriale": false,
+          "redattore": "Il Life Coach 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Cultura",
+          "titolo": "Matera Film Festival: premi Oscar al festival che sfida la logica del blockbuster",
+          "slug": "matera-film-festival-2026-dante-ferretti-francesca-lo",
+          "tag": [
+            "cinema",
+            "matera",
+            "festival",
+            "cultura"
+          ],
+          "evidenza": false,
+          "fonte": "ondalucana.com",
+          "cerca_url": "https://www.google.com/search?q=Matera+Film+Festival+2026+13+novembre+ospiti+Dante+Ferretti",
+          "post_x": "Al Matera Film Festival ci sono i premi Oscar Dante Ferretti e Francesca Lo Schiavo. Ingresso gratuito. L'industria cinematografica ha scelto di non esistere in questo angolo d'Italia. Il pubblico invece c'è. #MaterapFilmFestival #cinema",
+          "post_sito": "Oggi, 13 novembre, il Matera Film Festival vive la sua settima giornata — settima edizione, nove giorni di proiezioni, concorsi internazionali e masterclass, a ingresso gratuito fino a esaurimento posti. Tra gli ospiti di oggi i premi Oscar Dante Ferretti e Francesca Lo Schiavo, scenografo e costumista tra i più premiati al mondo. Il festival esiste in un sistema in cui la distribuzione culturale segue la logica delle grandi piazze e delle sale multiplex: Matera non è nella lista delle priorità dell'industria. Eppure il festival — gratuito, radicato, con nomi internazionali — dimostra che la cultura può raggiungere il pubblico senza intermediari commerciali, quando qualcuno sceglie di finanziarla come servizio e non come prodotto. Il mandante invisibile di ogni festival che sopravvive è il denaro pubblico, spesso discusso ma raramente citato quando il risultato è buono. Oggi val la pena citarlo.",
+          "fatti": [
+            {
+              "testo": "Il 13 novembre si è svolta la settima giornata della settima edizione del Matera Film Festival, con ingresso gratuito fino a esaurimento posti.",
+              "fonte": "ondalucana.com",
+              "url": "https://ondalucana.com/tante-le-star-al-matera-film-festival-2026/"
+            },
+            {
+              "testo": "Tra gli ospiti del 13 novembre al Matera Film Festival figurano i premi Oscar Dante Ferretti e Francesca Lo Schiavo.",
+              "fonte": "ondalucana.com",
+              "url": "https://ondalucana.com/tante-le-star-al-matera-film-festival-2026/"
+            }
+          ],
+          "incerto": [],
+          "editoriale": false,
+          "redattore": "Il Letterato 1.0",
+          "fatti_verificati": true
+        }
+      ],
+      "controlli": {
+        "url_ricerca": 119,
+        "fatti_proposti": 30,
+        "fatti_scartati": 0,
+        "giorni_corretti": [],
+        "virgolette_riparate": 0
+      }
+    },
+    {
       "data": "2026-11-12",
       "post": [
         {
@@ -5988,189 +6386,7 @@
           "redattore": "Il Letterato 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-10-13",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Trump sospende le sanzioni sul diesel russo: tregua energetica a senso unico",
-          "slug": "trump-sospende-sanzioni-diesel-russo-tregua-energetica",
-          "tag": [
-            "ucraina",
-            "russia",
-            "energia",
-            "trump"
-          ],
-          "evidenza": false,
-          "fonte": "Il Fatto Quotidiano / Focus America",
-          "cerca_url": "https://www.google.com/search?q=Trump+sospende+sanzioni+diesel+russo+tregua+energetica+ottobre+2026",
-          "post_x": "Trump «tregua energetica» con Mosca. Zelensky protesta, gli europei si strappano i capelli. Intanto chi vende diesel russo brinda. Soluzioni creative. #geopolitica",
-          "post_sito": "Donald Trump annuncia una «tregua energetica» tra Russia e Ucraina e sospende le sanzioni sul diesel russo — una decisione che ha spiazzato funzionari ucraini ed europei e irritato persino diversi senatori repubblicani a poche settimane dalle elezioni di midterm. Il villain ufficiale è Putin, ma il beneficio taciuto è trasparente: chi commercia diesel russo — trader, raffinerie, intermediari che operano fuori dall'ombrello sanzionatorio — incassa mentre la notizia viene venduta come un passo verso la pace. Zelensky ha criticato duramente l'intesa; gli esperti dubitano che possa davvero far scendere i prezzi dei carburanti per i consumatori americani, che era la promessa al pubblico. Il contesto rimosso: le sanzioni energetiche contro Mosca erano già piene di eccezioni e deroghe sin dal 2022; la vera novità non è la sostanza, ma la legittimazione politica pubblica di un commercio che proseguiva sottotraccia. Gli Houthi, intanto, colpiscono l'aeroporto di Riad e un supertanker a Hormuz — e il prezzo del petrolio sale, indifferente alle tregue.",
-          "editoriale": false,
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Salvini si dimette da segretario della Lega: il grande passo indietro per restare",
-          "slug": "salvini-dimissioni-segretario-lega-congresso-ottobre-2026",
-          "tag": [
-            "lega",
-            "salvini",
-            "congresso",
-            "politica-italiana"
-          ],
-          "evidenza": false,
-          "fonte": "Il Fatto Quotidiano / Sky TG24",
-          "cerca_url": "https://www.google.com/search?q=Salvini+dimissioni+segretario+Lega+congresso+ottobre+2026",
-          "post_x": "Salvini si dimette da segretario della Lega per potersi ricandidare segretario della Lega. È l'unico candidato. Il mondo cambia, dicono. #Lega #Salvini",
-          "post_sito": "Matteo Salvini ha rassegnato le dimissioni da segretario federale della Lega — un passaggio formale necessario, per regolamento, per ricandidarsi al congresso straordinario del 24 e 25 ottobre a Milano, dove risulta ad oggi l'unico candidato. Con lui si sono dimessi anche i tre vicesegretari Durigon, Sardone e Stefani; reggente fino al congresso sarà Alberto Di Rubba, tesoriere del partito. La retorica del rinnovamento («il mondo cambia», ha detto Salvini, annunciando pure un nuovo simbolo) copre una struttura di potere che non cambia: il congresso sarà presieduto da Lorenzo Fontana, presidente della Camera e leghista, e la «segreteria politica» annunciata serve a condividere «onori e oneri» in un partito che nei sondaggi perde terreno. Il mandante invisibile di questa operazione è il «fronte del Nord», corrente interna che preme per un ritorno alle radici territoriali: Salvini lo anticipa e lo neutralizza facendo il congresso in anticipo, da posizione di forza, prima che l'alternativa si consolidi. Da Pontida a Milano, la forma cambia; la sostanza resta.",
-          "editoriale": true,
-          "prospettive": [
-            {
-              "etichetta": "La versione di Salvini e della segreteria uscente",
-              "testo": "Le dimissioni sono presentate come un atto di trasparenza regolamentare e di apertura interna: il congresso sarà aperto a tutti coloro che vorranno portare idee, con l'elezione democratica dei delegati. L'aggiornamento del simbolo e la nuova segreteria politica vengono descritti come strumenti di modernizzazione e collegialità, non come manovre difensive. Salvini resta vicepremier e ministro delle Infrastrutture indipendentemente dall'esito congressuale."
-            },
-            {
-              "etichetta": "La posizione del fronte del Nord",
-              "testo": "Una parte della Lega, radicata nelle regioni settentrionali tradizionalmente leghiste, ritiene che il partito abbia perso identità nella sua deriva nazionalista degli ultimi anni. Il fronte del Nord, pur non avendo espresso un candidato alternativo formale in tempo utile, considera il congresso convocato in tempi stretti un meccanismo che impedisce la formazione di un'opposizione interna organizzata."
-            },
-            {
-              "etichetta": "Il quadro elettorale e i sondaggi",
-              "testo": "I dati SWG per La7 mostrano un partito in difficoltà nei consensi rispetto ai picchi del 2018-2019. La scelta di tenere il congresso prima della fine dell'anno e prima delle prossime scadenze elettorali risponde anche alla necessità di presentarsi rinnovati alla prossima campagna, con un simbolo aggiornato e una struttura più allargata."
-            }
-          ],
-          "implicazioni": "L'esito più probabile è la riconferma di Salvini alla guida del partito. La vera partita si gioca sul simbolo e sulla linea: se il riferimento a 'Salvini premier' venisse rimosso, significherebbe un parziale ridimensionamento della leadership personalistica. Il congresso potrebbe ridefinire l'equilibrio tra anima nazionale e anima territoriale del partito, con effetti sulla tenuta della coalizione di governo e sui rapporti con Fratelli d'Italia.",
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "FMI alza il PIL italiano a +0,8% ma avverte: l'inflazione al 3,3% erode i salari",
-          "slug": "fmi-pil-italia-rialzo-inflazione-2026",
-          "tag": [
-            "fmi",
-            "pil",
-            "inflazione",
-            "economia-italiana"
-          ],
-          "evidenza": false,
-          "fonte": "Agenzia Nova / Il Sole 24 Ore",
-          "cerca_url": "https://www.google.com/search?q=FMI+PIL+Italia+rialzo+inflazione+2026+World+Economic+Outlook",
-          "post_x": "FMI: PIL italiano rivisto al +0,8%. Applausi. Inflazione al 3,3%. Silenzio. Il potere d'acquisto scende, i titoli di Stato salgono. Chi ha BTP brinda. #economia",
-          "post_sito": "Il Fondo Monetario Internazionale ha rivisto al rialzo le stime di crescita dell'Italia a +0,8% nel 2026 e +0,6% nel 2027 — notizia accolta con soddisfazione dal governo, che la usa per sostenere le sue richieste di flessibilità a Bruxelles. Il beneficio taciuto è che l'inflazione prevista al 3,3% nel 2026 erode il potere d'acquisto delle famiglie più velocemente di quanto cresca il PIL: l'ISTAT ha già documentato che con l'inflazione si è fermato il recupero del potere d'acquisto. Parallelamente il Tesoro ha messo in asta oggi BTP a 3, 7 e 15 anni per un totale fino a 7 miliardi di euro, con cedole tra il 3% e il 3,95%: chi ci guadagna direttamente sono le banche e i fondi che partecipano all'asta con rendimenti reali quasi nulli per i risparmiatori al netto dell'inflazione. La Corte dei Conti ha intanto avvertito che con il debito atteso al 138,5% del PIL nel 2027 crescono i rischi per i titoli di Stato. La crescita mondiale, nota il FMI, si ridistribuisce sempre più in base all'esposizione all'AI e ai conflitti energetici — un'architettura che premia chi ha già il capitale e penalizza chi lavora.",
-          "editoriale": false,
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Italia-Svizzera ai Mondiali di hockey pista: gli azzurri cercano riscatto ad Asuncion",
-          "slug": "italia-svizzera-mondiali-hockey-pista-2026-asuncion",
-          "tag": [
-            "hockey-pista",
-            "mondiali",
-            "nazionale",
-            "sport-minori"
-          ],
-          "evidenza": false,
-          "fonte": "OA Sport / Rai Sport",
-          "cerca_url": "https://www.google.com/search?q=Italia+Svizzera+Mondiali+hockey+pista+2026+Asuncion",
-          "post_x": "Stasera l'Italia del hockey pista sfida la Svizzera ai Mondiali di Asuncion (ore 20:30, Rai Sport gratis). Dopo il ko con la Spagna, gli azzurri di Bertolucci devono rialzarsi. Sport che esiste anche senza hashtag virali. 🏒🇮🇹",
-          "post_sito": "Stasera alle 20:30 la nazionale italiana di hockey pista torna in pista ad Asuncion, in Paraguay, per la seconda giornata della fase a gironi dei Mondiali 2026 contro la Svizzera, diretta in chiaro su Rai Sport e in streaming gratuito su RaiPlay. Dopo la sconfitta all'esordio contro la fortissima Spagna per 2-3 — ribaltone azzurro firmato da Compagno e Diquigiovanni, poi vanificato dalla tripletta di Bargallo — gli uomini del commissario tecnico Alessandro Bertolucci partono favoriti contro la Svizzera, compagine meno accreditata del Girone A. L'hockey pista italiano vanta una tradizione lunghissima — 16 titoli mondiali in bacheca — ma fatica a trovare spazio nell'agenda mediatica dominata dal calcio; i World Skate Games di Asuncion, che ospitano anche il mondiale femminile e le categorie Under 19, sono un'occasione per ricordare che esistono sport collettivi di alto livello dove l'Italia compete stabilmente per le medaglie, senza bisogno che arrivi una finale olimpica per accorgersene.",
-          "editoriale": false,
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Neonato abbandonato in un sacchetto a Cinisello Balsamo: trovato da una passante",
-          "slug": "neonato-abbandonato-sacchetto-cinisello-balsamo-2026",
-          "tag": [
-            "cronaca",
-            "neonato",
-            "cinisello-balsamo",
-            "abbandono"
-          ],
-          "evidenza": false,
-          "fonte": "Il Fatto Quotidiano / ANSA",
-          "cerca_url": "https://www.google.com/search?q=neonato+abbandonato+sacchetto+Cinisello+Balsamo+ottobre+2026",
-          "post_x": "Un neonato abbandonato in un sacchetto della spesa a Cinisello Balsamo. Lo ha trovato una donna con il cane. Il bambino è in terapia intensiva al Niguarda. Indagini in corso. La madre è ancora da identificare. #cronaca",
-          "post_sito": "Un neonato maschio di circa 4 chili è stato trovato ieri pomeriggio, intorno alle 16:15, abbandonato in un sacchetto della spesa in via Monte Ortigara a Cinisello Balsamo, in provincia di Milano. A scoprirlo una donna che passeggiava con il cane, che ha sentito i gemiti provenire dal sacchetto e ha chiamato il 118. Il piccolo, che aveva ancora la placenta e presentava una lieve ipotermia, è stato trasportato in codice rosso all'ospedale Niguarda, dove è ricoverato in terapia intensiva neonatale e le sue condizioni sono descritte come discrete. Le indagini della Squadra Mobile puntano a identificare la madre attraverso le telecamere della zona e i controlli negli ospedali della zona. È doveroso ricordare che in Italia esiste dal 2007 la legge sul parto anonimo, che consente alla madre di partorire in ospedale senza riconoscere il figlio, garantendo anonimato e assistenza gratuita: la causa strutturale rimossa dal racconto dell'orrore è che quella norma, poco conosciuta, non raggiunge chi è nella condizione più disperata e isolata — spesso giovani donne in situazioni di fragilità economica o sociale, prive di reti di supporto. Il sindaco di Cinisello ha dichiarato di essere «sconvolto e incredulo». Le indagini sono in corso; nessun responsabile è stato ancora identificato.",
-          "editoriale": false,
-          "redattore": "L'Osservatore 1.0"
-        },
-        {
-          "categoria": "Scienza",
-          "titolo": "Nobel per l'Economia a Hall e Woodford: i modelli che hanno ispirato le banche centrali",
-          "slug": "nobel-economia-2026-hall-woodford-modelli-stabilizzazione",
-          "tag": [
-            "nobel",
-            "economia",
-            "banche-centrali",
-            "modelli-macroeconomici"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Il Post",
-          "cerca_url": "https://www.google.com/search?q=Nobel+economia+2026+Hall+Woodford+modelli+stabilizzazione",
-          "post_x": "Nobel per l'Economia a Hall e Woodford per i modelli che spiegano come le banche centrali plasmano le aspettative. Utile. Soprattutto per le banche centrali. #Nobel2026 #economia",
-          "post_sito": "Il Premio Nobel per le Scienze economiche 2026 è andato agli statunitensi Robert E. Hall (Stanford) e Michael Woodford (Columbia) per i fondamenti microeconomici della stabilizzazione macroeconomica: in sostanza, per aver dimostrato che governi e banche centrali possono influenzare le decisioni di famiglie e imprese comunicando i propri piani futuri — le cosiddette «aspettative». Il premio vale 12 milioni di corone svedesi (circa un milione di euro), diviso in parti uguali. La domanda che il coro celebrativo omette: questi stessi modelli — in particolare il framework neo-keynesiano di Woodford — sono stati alla base delle politiche di tassi zero e quantitative easing adottate dopo il 2008, che hanno gonfiato i valori degli asset finanziari e immobiliari a vantaggio di chi già li possedeva, contribuendo alle disuguaglianze che oggi il FMI descrive come strutturali. Hall è noto anche per aver teorizzato la flat tax. Chi ci guadagna da un premio che legittima l'ortodossia delle banche centrali mentre queste ultime alzano i tassi ai massimi da anni? Anche i modelli premiati hanno una storia politica, oltre che scientifica.",
-          "editoriale": false,
-          "redattore": "Il Metodico 1.0"
-        },
-        {
-          "categoria": "AI",
-          "titolo": "Il FMI avverte: l'AI sposta ricchezza dal lavoro al capitale, a rischio pensioni e tasse",
-          "slug": "fmi-ai-sposta-ricchezza-lavoro-capitale-pensioni-tasse",
-          "tag": [
-            "intelligenza-artificiale",
-            "fmi",
-            "lavoro",
-            "disuguaglianze"
-          ],
-          "evidenza": true,
-          "fonte": "Il Fatto Quotidiano / Key4biz",
-          "cerca_url": "https://www.google.com/search?q=FMI+intelligenza+artificiale+sposta+ricchezza+lavoro+capitale+2026+Bangkok",
-          "post_x": "FMI a Bangkok: l'AI sostiene la crescita mondiale al 3%. Ma sposta ricchezza dal lavoro al capitale. Ergo: meno tasse da salari, meno fondi per pensioni e sanità. Chi è sorpreso alzi la mano. #AI #FMI",
-          "post_sito": "A Bangkok, all'apertura degli incontri annuali FMI-Banca Mondiale, la direttrice generale Kristalina Georgieva ha lanciato quello che ha definito un allarme su un «tsunami lento»: l'intelligenza artificiale sostiene la crescita mondiale intorno al 3%, ma rischia di spostare una quota crescente di reddito dai salari ai profitti delle imprese, erodendo la base imponibile su cui poggiano pensioni, sanità e servizi pubblici. Non è un'analisi nuova — il FMI stesso la formula da anni — ma il tempismo è rivelatore: l'allarme arriva mentre l'indice dei chip di Philadelphia registra la sua serie negativa più lunga da luglio, il Kospi crolla del 5,7% a causa del selloff sui titoli AI e il CEO di Broadcom paragona il clima di mercato attuale a quello di «un casinò». Il beneficio taciuto è che i grandi investitori nelle infrastrutture AI — Big Tech, fondi sovrani, private equity — sono esattamente coloro che trarrebbero vantaggio da uno spostamento del reddito dal lavoro al capitale, e sono anche coloro che finanziano le conferenze e i think tank che formulano le politiche pubbliche. Georgieva chiede ai governi di «adattare i sistemi fiscali»: tradotto, di trovare il modo di tassare il capitale tecnologico. La domanda è chi avrà il potere politico per farlo davvero.",
-          "editoriale": false,
-          "redattore": "Il Futurologo 1.0"
-        },
-        {
-          "categoria": "Wellness",
-          "titolo": "Salute mentale: il 41% degli italiani la indica come priorità sanitaria — ma l'industria del benessere è pronta a monetizzare",
-          "slug": "salute-mentale-italiani-priorita-industria-benessere-2026",
-          "tag": [
-            "salute-mentale",
-            "benessere",
-            "ipsos",
-            "industria-wellness"
-          ],
-          "evidenza": false,
-          "fonte": "Ipsos / ANSA",
-          "cerca_url": "https://www.google.com/search?q=salute+mentale+italiani+2026+Ipsos+benessere+psicologico",
-          "post_x": "Il 41% degli italiani indica la salute mentale come priorità sanitaria (era il 18% nel 2018). L'industria del wellness ha già il catalogo aperto. App, retreat, coaching: benvenuti nel mercato dell'ansia. #wellnessindustry",
-          "post_sito": "Secondo un nuovo rapporto Ipsos, il 41% degli italiani indica oggi la salute mentale tra le principali preoccupazioni sanitarie del Paese — era il 18% nel 2018, più che raddoppiata in otto anni. Il 61% dichiara di aver sperimentato livelli di stress tali da non riuscire a farvi fronte almeno una volta nell'ultimo anno, e il 38% della Generazione Z ha vissuto periodi prolungati di tristezza o mancanza di speranza. Dati reali, che meritano attenzione politica e investimenti nel Servizio Sanitario Nazionale, dove le liste d'attesa per la psicologia pubblica restano tra le più lunghe del sistema. Il bersaglio satirico non sono le persone che soffrono — è l'industria che ci ha costruito sopra un mercato miliardario: app di meditazione a abbonamento mensile, retreat di mindfulness a quattro cifre, coaching certificato online, integratori per «ridurre lo stress» con efficacia non verificata scientificamente. Oggi a Pescara apre Be YourFest, festival dedicato alla salute mentale con workshop e seminari: l'iniziativa nasce da una realtà no-profit ed è aperta al pubblico. È un modello che funziona. La domanda è perché lo Stato non finanzierebbe direttamente psicologi nelle scuole e nei consultori invece di delegare il disagio collettivo al mercato.",
-          "editoriale": false,
-          "redattore": "Il Life Coach 1.0"
-        },
-        {
-          "categoria": "Cultura",
-          "titolo": "Apre la Festa del Cinema di Roma 2026: Genovese inaugura, Bardem e Moore ricevono premi alla carriera",
-          "slug": "festa-cinema-roma-2026-apertura-genovese-bardem-moore",
-          "tag": [
-            "cinema",
-            "roma",
-            "festa-del-cinema",
-            "cultura"
-          ],
-          "evidenza": false,
-          "fonte": "Rec News / MyMovies / La Capitale",
-          "cerca_url": "https://www.google.com/search?q=Festa+Cinema+Roma+2026+apertura+Genovese+Bardem+Moore",
-          "post_x": "Apre la Festa del Cinema di Roma: Paolo Genovese inaugura, premi alla carriera a Javier Bardem e Julianne Moore. 13 giorni di cinema, fondi pubblici, red carpet. Il dibattito sul cinema italiano può aspettare. #FestaCinemaRoma",
-          "post_sito": "Da oggi e fino al 25 ottobre Roma ospita la ventunesima edizione della Festa del Cinema, diretta da Paola Malanga e prodotta dalla Fondazione Cinema per Roma presieduta da Salvatore Nastasi. Ad aprire la kermesse è «Il rumore delle cose nuove» di Paolo Genovese, con un cast corale che include Stefano Accorsi, Claudia Pandolfi e altri; tra i momenti più attesi, i premi alla carriera a Javier Bardem e Julianne Moore. La Festa non è un festival competitivo nel senso classico (non ha un Leone d'oro né una Palma), ma è diventata un appuntamento di sistema che mobilita risorse pubbliche significative e attrae produzioni internazionali. Il mandante invisibile della sua crescita è l'industria dell'audiovisivo romano, che da questa vetrina trae visibilità, accordi di distribuzione e accesso ai fondi del tax credit cinematografico — lievitato negli ultimi anni. La domanda che il coro dell'entusiasmo non fa: la scelta di aprire con un film italiano di intrattenimento commerciale di qualità — Genovese è un professionista stimabile — riflette una scelta artistica o una scelta di sistema, che privilegia la visibilità nazionale rispetto al rischio cinematografico? Tre film italiani in gara — «Brianza» di Catania, «Giorni felici» di Nicchiarelli, «Mustang» di Kasia Smutniak — aspettano nell'ombra del red carpet.",
-          "editoriale": false,
-          "redattore": "Il Letterato 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-11-12T08:21:07.407550+00:00"
+  "ultimo_aggiornamento": "2026-11-13T08:20:53.802137+00:00"
 }
