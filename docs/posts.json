@@ -1,6 +1,400 @@
 {
   "edizioni": [
     {
+      "data": "2026-11-14",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Vertice Trump-Putin-Xi a Shenzhen: l'Ucraina non sarà sul tavolo",
+          "slug": "vertice-trump-putin-xi-shenzhen-ucraina-fuori-dal-tavolo",
+          "tag": [
+            "ucraina",
+            "trump",
+            "apec",
+            "geopolitica"
+          ],
+          "evidenza": true,
+          "fonte": "Sky TG24 / Il Fatto Quotidiano",
+          "cerca_url": "https://www.google.com/search?q=vertice+Trump+Putin+Xi+Shenzhen+Ucraina+novembre+2026",
+          "post_x": "Trump, Putin e Xi si incontrano il 19 novembre a Shenzhen. L'Ucraina? «Non sarà all'ordine del giorno». Zelensky ringrazia. #Apec #diplomazia",
+          "post_sito": "Il primo vertice trilaterale nella storia tra Trump, Putin e Xi è fissato per il 19 novembre a margine dell'APEC di Shenzhen — e l'Ucraina, secondo la Casa Bianca, non sarà nemmeno nominata. Benissimo: due anni di guerra, centinaia di migliaia di morti, e il dossier viene rimandato perché evidentemente c'è qualcosa di più urgente da trattare — l'Iran, si dice. Nel frattempo l'Europa si riunisce nel cosiddetto formato E5 (Francia, Germania, Italia, Polonia, Regno Unito) per partecipare ai negoziati, ma Mosca fa sapere che «l'inclusione di rappresentanti europei non è stata discussa» con nessuno. Beneficio taciuto: chi guadagna dal congelamento diplomatico sono i contractor della difesa dei paesi NATO, che continuano a fatturare forniture belliche mentre la pace resta una promessa per le prossime stagioni. Mandante invisibile: le vere condizioni di Mosca — Finlandia fuori dalla NATO, Moldavia spaccata in tre, possesso completo del Donbass — circolano sulla stampa tedesca (Bild), ma vengono smentite dalla Russia. Il coro mediatico celebra il «disgelo», dimenticando che il disgelo è già avvenuto almeno tre volte dal 2022 senza mai portare a nulla.",
+          "fatti": [
+            {
+              "testo": "La Casa Bianca ha annunciato che Trump non parlerà di Ucraina con Putin e Xi Jinping ai colloqui trilaterali del 19 novembre a margine del vertice APEC di Shenzhen.",
+              "fonte": "Sky TG24",
+              "url": "https://tg24.sky.it/mondo/2026/11/14/guerra-ucraina-russia-ultime-notizie-diretta"
+            },
+            {
+              "testo": "Il team negoziale europeo per l'Ucraina sarà formato dai rappresentanti delle istituzioni UE e dai consiglieri diplomatici degli E5: Gran Bretagna, Germania, Francia, Italia e Polonia.",
+              "fonte": "Sky TG24",
+              "url": "https://tg24.sky.it/mondo/2026/11/14/guerra-ucraina-russia-ultime-notizie-diretta"
+            },
+            {
+              "testo": "Mosca ha dichiarato che l'inclusione di rappresentanti europei nei colloqui non è stata discussa durante i contatti tra Steve Witkoff e Jared Kushner a Mosca.",
+              "fonte": "tp24.it",
+              "url": "https://tp24.it/2026/11/14/cronaca/14-novembre-aerei-in-tilt-negli-usa-le-condizioni-di-putin-caos-microsoft/242192"
+            },
+            {
+              "testo": "Secondo la Bild, le condizioni di Putin per la pace includerebbero la Finlandia fuori dalla NATO e la Moldavia divisa in tre; la Russia ha smentito.",
+              "fonte": "Il Fatto Quotidiano",
+              "url": "https://www.ilfattoquotidiano.it/in-edicola/"
+            }
+          ],
+          "incerto": [
+            "Le condizioni di pace attribuite a Mosca (Finlandia fuori NATO, Moldavia divisa, Donbass russo) non sono state confermate da fonti ufficiali russe.",
+            "Non è noto se e quando l'Ucraina entrerà formalmente nell'agenda dei colloqui trilaterali."
+          ],
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La posizione di Washington",
+              "testo": "La Casa Bianca ha scelto di separare il dossier ucraino dall'agenda del vertice trilaterale di Shenzhen, presentando la mossa come un passo distinto e non come un'esclusione definitiva. L'amministrazione Trump sostiene che i colloqui si concentreranno su altri temi di interesse condiviso, in particolare l'Iran, e che i negoziati sull'Ucraina proseguono su binari paralleli attraverso inviati come Steve Witkoff e Jared Kushner, già incontratisi con i rappresentanti russi a Mosca."
+            },
+            {
+              "etichetta": "La posizione europea",
+              "testo": "I cinque principali paesi europei (Francia, Germania, Italia, Polonia, Regno Unito) hanno concordato, a margine di un incontro a Dublino, di partecipare ai negoziati con un team congiunto anziché con un inviato unico. L'obiettivo dichiarato è evitare che l'Europa venga tagliata fuori da un accordo tra le grandi potenze. Rimane tuttavia aperta la questione del peso reale che questo formato avrà nelle trattative, dato che Mosca non ha riconosciuto formalmente la presenza europea al tavolo."
+            },
+            {
+              "etichetta": "La posizione di Mosca",
+              "testo": "La Russia ha formalmente smentito le indiscrezioni della Bild sulle sue condizioni di pace e ha dichiarato che l'inclusione dell'Europa nei colloqui non è stata concordata con nessuno. Il Cremlino mantiene una postura ambigua: né rifiuta il dialogo né accetta le condizioni che la stampa occidentale gli attribuisce, lasciando massima libertà di manovra."
+            },
+            {
+              "etichetta": "La condizione dell'Ucraina",
+              "testo": "Kyiv osserva i preparativi del vertice senza essere parte diretta della conversazione trilaterale. La decisione di tenere un primo incontro Trump-Putin-Xi senza l'Ucraina al tavolo alimenta le preoccupazioni di chi teme che un accordo possa essere raggiunto sopra la testa di Zelensky. Il formato E5 europeo è stato accolto con cauto ottimismo da Kyiv, che vede nella presenza italiana e polacca una garanzia aggiuntiva."
+            }
+          ],
+          "implicazioni": "Se il vertice di Shenzhen dovesse produrre anche solo un'intesa di principio tra le tre potenze, il formato negoziale europeo rischierebbe di diventare decorativo. Al contrario, se i colloqui fallissero o si limitassero all'Iran, la crisi ucraina riceverebbe ulteriore slancio verso una soluzione militare piuttosto che diplomatica. La partecipazione italiana all'E5 apre scenari di coinvolgimento diretto nelle trattative di pace che il governo dovrà gestire in coerenza con le pressioni interne pro-Kiev e quelle di una parte dell'opinione pubblica favorevole al cessate il fuoco.",
+          "redattore": "Il Corrispondente Estero 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Manovra: il governo ritira i tagli alla scuola, ma la CGIL conferma lo sciopero generale",
+          "slug": "manovra-governo-ritira-tagli-scuola-cgil-sciopero-generale",
+          "tag": [
+            "manovra",
+            "scuola",
+            "cgil",
+            "sciopero"
+          ],
+          "evidenza": false,
+          "fonte": "Repubblica / La Stampa / Il Fatto Quotidiano",
+          "cerca_url": "https://www.google.com/search?q=manovra+governo+ritira+tagli+scuola+cgil+sciopero+generale+novembre+2026",
+          "post_x": "Il governo «non tagliava» la scuola, poi ha smesso di non tagliarla. 7mila posti salvati, 252 milioni recuperati chissà dove, sciopero del 20 novembre confermato. Ah, e «non erano tagli». #Manovra2027",
+          "post_sito": "Palazzo Chigi ha annunciato il ritiro della misura che avrebbe eliminato quasi 7mila posti tra docenti e personale ATA — per un risparmio di 252 milioni l'anno che ora bisognerà trovare altrove. La premier Meloni ha precisato che «non erano tagli», il che apre questioni linguistiche interessanti sulla natura dei fondi che scompaiono senza essere tagli. Il segretario della CGIL Christian Ferrari ha definito l'incontro «cortese ma politicamente inutile» e ha confermato lo sciopero generale del 20 novembre. Mandante invisibile: il cedimento sui posti scolastici è arrivato esattamente mentre i sondaggi vedono Fratelli d'Italia cedere lo 0,4% e il M5S di Conte guadagnare un 1,1% — il reddito di cittadinanza come spettro torna a fare il suo lavoro. Cosa viene taciuto: i tagli che restano, secondo il Fatto Quotidiano, gravano sulle pensioni. Chi ci guadagna dal clamore sui docenti? Chi detiene il debito pubblico che questa manovra, nel complesso, continua a gonfiare.",
+          "fatti": [
+            {
+              "testo": "Il governo ha annunciato il ritiro dalla legge di bilancio della riduzione del personale scolastico: quasi 7mila posti tra docenti e personale ATA, per un risparmio di 252 milioni l'anno.",
+              "fonte": "Sarno Notizie",
+              "url": "https://www.sarnonotizie.it/rassegna-stampa-14-novembre-2026/"
+            },
+            {
+              "testo": "Il segretario confederale CGIL Christian Ferrari ha definito l'incontro a Palazzo Chigi «cortese ma politicamente inutile» e ha confermato lo sciopero generale del 20 novembre.",
+              "fonte": "Sarno Notizie",
+              "url": "https://www.sarnonotizie.it/rassegna-stampa-14-novembre-2026/"
+            },
+            {
+              "testo": "Il ministro Giorgetti ha detto alle parti sociali che il governo lavora a modifiche sull'exit tax e sullo spalmacrediti del Superbonus.",
+              "fonte": "Sarno Notizie",
+              "url": "https://www.sarnonotizie.it/rassegna-stampa-14-novembre-2026/"
+            },
+            {
+              "testo": "Secondo i sondaggi Supermedia Youtrend per Agi, Fratelli d'Italia è al 27,5% (-0,4%), il PD al 20,4% (+0,2%), il M5S al 13% (+1,1%).",
+              "fonte": "QuiFinanza",
+              "url": "https://quifinanza.it/politica/sondaggi-politici-14-nocembre-2026/1024271/"
+            }
+          ],
+          "incerto": [
+            "Non è ancora definito come il governo intenda recuperare i 252 milioni di risparmio cancellati con il ritiro dei tagli scolastici.",
+            "Le modifiche su Superbonus ed exit tax sono ancora in fase di elaborazione."
+          ],
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Standard & Poor's conferma il rating BBB+ dell'Italia con outlook positivo",
+          "slug": "standard-poors-conferma-rating-italia-bbb-outlook-positivo",
+          "tag": [
+            "rating",
+            "standard-poors",
+            "debito-pubblico",
+            "economia-italiana"
+          ],
+          "evidenza": false,
+          "fonte": "Il Sole 24 Ore / Borsa Italiana",
+          "cerca_url": "https://www.google.com/search?q=Standard+Poor%27s+rating+Italia+BBB+outlook+positivo+novembre+2026",
+          "post_x": "S&P conferma BBB+ per l'Italia con outlook positivo. Festeggiamo. Nel frattempo l'export supera 500 miliardi nei primi 9 mesi, ma il debito pubblico resta dove sa stare: in alto. #economia #Italia",
+          "post_sito": "L'agenzia di rating Standard & Poor's ha confermato il giudizio BBB+ sull'Italia con prospettiva positiva — notizia che apre il Sole 24 Ore e che viene presentata come una buona notizia. Lo è, tecnicamente. Ma vale la pena ricordare che le stesse agenzie di rating che oggi promuovono l'Italia sono quelle che nel 2011 contribuirono allo spread-panico, e che il loro giudizio dipende in larga misura dalla stessa manovra di bilancio su cui oggi sindacati e governo litigano in diretta. Beneficio taciuto: un rating elevato abbassa il costo del debito, e il principale beneficiario non sono i cittadini ma le banche e i fondi che detengono titoli di Stato italiani — le stesse banche che nella manovra vedono modifiche sul Superbonus e «prove di disgelo» su altre misure fiscali. L'export italiano nei primi nove mesi del 2026 ha superato i 500 miliardi di euro con una crescita del 4,7%, ma questo risultato strutturale passa in seconda pagina rispetto alla promozione dell'agenzia americana.",
+          "fatti": [
+            {
+              "testo": "Standard & Poor's ha confermato il giudizio sul merito creditizio dell'Italia a BBB+ con prospettiva positiva.",
+              "fonte": "Il Sole 24 Ore / Il Meridiano",
+              "url": "https://www.il-meridiano.it/notizie/126-rassegna-stampa/27999-la-rassegna-stampa-del-meridiano-sabato-14-novembre-le-prime-pagine-dei-grandi-quotidiani-nazionali-070001.html"
+            },
+            {
+              "testo": "Nei primi nove mesi del 2026 l'export italiano supera quota 500 miliardi di euro, con una crescita del 4,7% e un incremento di 2 miliardi a settembre.",
+              "fonte": "Il Meridiano (da Il Sole 24 Ore)",
+              "url": "https://www.il-meridiano.it/notizie/126-rassegna-stampa/28004-la-rassegna-stampa-del-meridiano-sabato-14-novembre-economia-e-sport-083002.html"
+            }
+          ],
+          "incerto": [
+            "Non è noto quando S&P effettuerà la prossima revisione del rating italiano."
+          ],
+          "editoriale": false,
+          "redattore": "L'Analista 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Errani e Paolini in semifinale alle WTA Finals: primo traguardo storico in carriera",
+          "slug": "errani-paolini-semifinale-wta-finals-2026",
+          "tag": [
+            "tennis",
+            "wta-finals",
+            "errani",
+            "paolini"
+          ],
+          "evidenza": false,
+          "fonte": "Sky Sport / Eurosport / Il Sole 24 Ore",
+          "cerca_url": "https://www.google.com/search?q=Errani+Paolini+semifinale+WTA+Finals+2026",
+          "post_x": "Errani e Paolini in semifinale alle WTA Finals per la prima volta in carriera. Terza presenza insieme, finalmente il round robin superato. Il tennis femminile italiano si gode un sabato da incorniciare. #WTAFinals",
+          "post_sito": "Sara Errani e Jasmine Paolini giocano oggi la semifinale del doppio alle WTA Finals di Indian Wells — primo posto nel girone con tre vittorie su tre, traguardo mai raggiunto prima in carriera dalla coppia azzurra. La semifinale è in diretta su Sky Sport Tennis e SuperTennis HD. Vale la pena soffermarsi sul percorso: sette vittorie consecutive contando il titolo di Tokyo, un girone chiuso battendo le numero uno del mondo Siniaková e Townsend. Il tennis italiano ha già celebrato la quarantesima vittoria di Mancini sulla panchina azzurra (calcio) con otto milioni di spettatori in tv — Errani e Paolini costruiscono qualcosa di altrettanto solido, con molta meno fanfara. È lo sport minore che funziona in silenzio, che produce risultati storici senza che qualcuno gli costruisca intorno un format televisivo da prime time.",
+          "fatti": [
+            {
+              "testo": "Sara Errani e Jasmine Paolini hanno conquistato per la prima volta in carriera la semifinale delle WTA Finals, chiudendo prime nel Gruppo 2 con tre vittorie su tre.",
+              "fonte": "Sky Sport",
+              "url": "https://sport.sky.it/tennis/2026/11/11/errani-paolini-oggi-wta-finals-doppio-risultato"
+            },
+            {
+              "testo": "La semifinale di doppio contro Hanyu Guo e Kristina Mladenovic è in programma nella notte italiana di domenica 15 novembre, con diretta su Sky Sport Tennis e SuperTennis HD.",
+              "fonte": "OA Sport",
+              "url": "https://www.oasport.it/2026/11/definito-lorario-della-semifinale-di-errani-paolini-alle-wta-finals-programma-avversarie-tv/"
+            },
+            {
+              "testo": "Per Errani e Paolini, contando anche il titolo vinto a Tokyo, si tratta del settimo successo consecutivo.",
+              "fonte": "Eurosport",
+              "url": "https://www.eurosport.it/tennis/wta-finals-2026/2026/erranipaolini-en-plein-nel-girone-delle-wta-finals-tre-vittorie-e-primato-nel-girone_sto23354883/story.shtml"
+            }
+          ],
+          "incerto": [
+            "L'esito della semifinale contro Guo/Mladenovic non è ancora noto al momento della pubblicazione."
+          ],
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "«Italia in piazza» torna a Milano contro carovita e riarmo",
+          "slug": "italia-in-piazza-milano-14-novembre-corteo-carovita-riarmo",
+          "tag": [
+            "manifestazione",
+            "milano",
+            "carovita",
+            "protesta"
+          ],
+          "evidenza": false,
+          "fonte": "Adnkronos / Giornale Radio",
+          "cerca_url": "https://www.google.com/search?q=Italia+in+piazza+Milano+14+novembre+2026+corteo",
+          "post_x": "«Italia in piazza» torna a Milano, 5 km di corteo contro carovita e riarmo. L'appuntamento è a Città Studi. Un mese fa ci furono scontri in centro. Stavolta il percorso evita il centro. Prudenza o strategia? #Milano",
+          "post_sito": "Il movimento «Italia in piazza» — nato contro il carovita e il riarmo — è tornato oggi a Milano per la sua seconda manifestazione, con partenza da piazza Leonardo Da Vinci e un percorso di oltre cinque chilometri che questa volta non dovrebbe toccare il centro della città, teatro delle devastazioni del 17 ottobre scorso. Al corteo aderiscono collettivi studenteschi, l'associazione palestinesi in Italia e altri gruppi. Causa strutturale rimossa: il dibattito sui cortei si concentra quasi sempre sull'ordine pubblico e sugli eventuali incidenti — mentre le ragioni strutturali che portano in piazza decine di migliaia di persone (costo della vita, spesa militare in crescita, erosione del welfare) restano in secondo piano. Doppio standard: le stesse istituzioni che deplorano le piazze «violente» approvano miliardi per riarmi senza dibattito parlamentare sostanziale.",
+          "fatti": [
+            {
+              "testo": "Il movimento «Italia in piazza» ha organizzato per il 14 novembre a Milano una seconda manifestazione con partenza alle 14 da piazza Leonardo Da Vinci, nel quartiere di Città Studi.",
+              "fonte": "Adnkronos",
+              "url": "https://www.adnkronos.com/cronaca/corteo-oggi-milano-14-novembre_44mVchVKhZ5FJNd3RFB6Eg"
+            },
+            {
+              "testo": "Il corteo del 17 ottobre dello stesso movimento era degenerato in scontri e devastazioni nel centro di Milano.",
+              "fonte": "Adnkronos",
+              "url": "https://www.adnkronos.com/cronaca/corteo-oggi-milano-14-novembre_44mVchVKhZ5FJNd3RFB6Eg"
+            },
+            {
+              "testo": "Il percorso di oggi, lungo oltre cinque chilometri, non dovrebbe toccare il centro di Milano.",
+              "fonte": "Adnkronos",
+              "url": "https://www.adnkronos.com/cronaca/corteo-oggi-milano-14-novembre_44mVchVKhZ5FJNd3RFB6Eg"
+            }
+          ],
+          "incerto": [
+            "Non è noto al momento della pubblicazione l'esito della manifestazione odierna né se si siano verificati incidenti."
+          ],
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Scienza",
+          "titolo": "Giornata mondiale del diabete: 3,8 milioni di italiani malati, oltre un milione senza diagnosi",
+          "slug": "giornata-mondiale-diabete-2026-italia-dati-diagnosi",
+          "tag": [
+            "diabete",
+            "salute-pubblica",
+            "prevenzione",
+            "farmaceutica"
+          ],
+          "evidenza": false,
+          "fonte": "Sky TG24 / Il Farmacista Online / RTL",
+          "cerca_url": "https://www.google.com/search?q=Giornata+mondiale+diabete+2026+Italia+dati",
+          "post_x": "Giornata mondiale del diabete: 3,8 milioni di italiani malati, oltre 1 milione senza diagnosi. Costo per la sanità pubblica: oltre 20 miliardi/anno. E l'industria del glucometro ringrazia. #diabete #salute",
+          "post_sito": "Oggi, 14 novembre, si celebra la Giornata mondiale del diabete — istituita in onore di Frederick Banting, scopritore dell'insulina. I dati dell'Italian Diabetes Barometer Report 2026 dicono che in Italia 3,8 milioni di persone convivono con la malattia (il 7,5% degli adulti), con oltre un milione di casi non diagnosticati. La prevalenza è cresciuta del 23% negli ultimi vent'anni. Beneficio taciuto: il diabete di tipo 2 costa alla sanità pubblica italiana oltre 20 miliardi di euro l'anno tra costi diretti e indiretti — una cifra che fa brillare gli occhi all'industria farmaceutica, ai produttori di dispositivi e alle assicurazioni sanitarie integrative. La campagna istituzionale «Diab&Te» è stata presentata al Senato con il patrocinio di AMD e SID — le stesse società scientifiche che ricevono finanziamenti dall'industria del farmaco. Non è un'accusa: è una domanda che il giornalismo scientifico dovrebbe sempre porre. L'accento mediatico sulla diagnosi precoce — pur legittimo — oscura le determinanti strutturali della malattia: povertà alimentare, sedentarietà da lavoro precario, desertificazione dei consultori territoriali.",
+          "fatti": [
+            {
+              "testo": "Secondo l'Italian Diabetes Barometer Report 2026, in Italia circa 3,8 milioni di persone convivono con il diabete (6,4% della popolazione, 7,5% degli adulti) e oltre un milione potrebbe avere la malattia senza diagnosi.",
+              "fonte": "Sky TG24",
+              "url": "https://tg24.sky.it/salute-e-benessere/2026/11/14/giornata-diabete-dati-italia-mondo"
+            },
+            {
+              "testo": "Negli ultimi vent'anni la prevalenza del diabete in Italia è cresciuta del 23%, al netto dell'invecchiamento della popolazione.",
+              "fonte": "Sky TG24",
+              "url": "https://tg24.sky.it/salute-e-benessere/2026/11/14/giornata-diabete-dati-italia-mondo"
+            },
+            {
+              "testo": "Il diabete rappresenta un costo economico di oltre 20 miliardi di euro l'anno per l'Italia, tra costi diretti e indiretti legati all'assistenza sanitaria.",
+              "fonte": "RTL 102.5",
+              "url": "https://www.rtl.it/notizie/italia/Giornata_mondiale_del_diabete_3,8%20milioni_di_italiani_convivono_con_la_malattia"
+            },
+            {
+              "testo": "Nel mondo sono 589 milioni le persone con diabete; il tema scelto dall'IDF per il biennio 2026-2027 è «Early Action on Diabetes».",
+              "fonte": "Quotidiano Sanità",
+              "url": "https://www.quotidianosanita.it/cronache/giornata-mondiale-del-diabete-in-italia-38-milioni-di-malati-e-oltre-un-milione-senza-diagnosi/"
+            }
+          ],
+          "incerto": [],
+          "editoriale": false,
+          "redattore": "Il Metodico 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "AI",
+          "titolo": "Scandalo Nvidia: Jensen Huang si dimette, titolo crolla del 14% e il settore AI trema",
+          "slug": "nvidia-jensen-huang-dimissioni-scandalo-spia-cinese",
+          "tag": [
+            "nvidia",
+            "intelligenza-artificiale",
+            "jensen-huang",
+            "semiconduttori"
+          ],
+          "evidenza": false,
+          "fonte": "Il Post / AGI / SEC Filing",
+          "cerca_url": "https://www.google.com/search?q=Jensen+Huang+dimissioni+Nvidia+scandalo+2026",
+          "post_x": "Jensen Huang lascia Nvidia con effetto immediato. Il titolo apre a -14%. Dal 6 ottobre la filiera AI ha bruciato ~7.000 miliardi di dollari. L'IA che cambia il mondo, però, cambia prima i portafogli di chi ci scommette. #Nvidia #AI",
+          "post_sito": "Jensen Huang, cofondatore e amministratore delegato di Nvidia da 33 anni, si è dimesso con effetto immediato dopo uno scandalo che mescola spionaggio industriale, relazioni extraconiugali con una presunta spia cinese e con una top manager della stessa azienda. L'interim CEO è la CFO Colette Kress. Il titolo ha aperto in pre-market a -14%, e dal 6 ottobre l'intera filiera dell'AI ha bruciato circa 7.000 miliardi di dollari di capitalizzazione. Beneficio taciuto: i concorrenti di Nvidia — AMD, Intel, i produttori di chip cinesi come la divisione T-Head di Alibaba — hanno tutto l'interesse a che la crisi si prolunghi. Distrazione utile: nel caos delle dimissioni si tende a dimenticare che il Congresso indagherà anche sui via libera dell'amministrazione Trump alla vendita di chip avanzati alla Cina — una questione di politica industriale molto più grande dello scandalo personale. Chi ha già smesso di chiedersi perché l'intelligenza artificiale, che promette di cambiare il mondo, finisca sempre per cambiare prima le tasche di chi ci investe?",
+          "fatti": [
+            {
+              "testo": "Jensen Huang si è dimesso con effetto immediato dal ruolo di CEO, presidente del consiglio di amministrazione e membro del board di Nvidia; Colette Kress è stata nominata CEO ad interim.",
+              "fonte": "SEC / NVIDIA Form 8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"
+            },
+            {
+              "testo": "Il titolo Nvidia ha aperto in pre-market con un calo vicino al 14% dopo l'annuncio delle dimissioni.",
+              "fonte": "TGCom24",
+              "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-jensen-huang-dimesso_118903531-202602k.shtml"
+            },
+            {
+              "testo": "Dal 6 ottobre 2026, la filiera dell'AI ha bruciato circa 7.000 miliardi di dollari di capitalizzazione di mercato.",
+              "fonte": "Lorenzoait/Substack (VENTI Notizie)",
+              "url": "https://lorenzoait.substack.com/p/14112026-venti-notizie"
+            },
+            {
+              "testo": "Huang ha accettato di riferire al Congresso in merito al suo legame con una donna sospettata di essere una spia cinese.",
+              "fonte": "AGI",
+              "url": "https://www.agi.it/economia/news/2026-11-12/nvidia-dimesso-ceo-huang-39999159/"
+            }
+          ],
+          "incerto": [
+            "L'intelligence americana non ha confermato con certezza che Alice Huang fosse effettivamente una spia cinese.",
+            "Non è noto chi sarà il prossimo CEO permanente di Nvidia: il board ha avviato la ricerca tra candidati interni ed esterni."
+          ],
+          "editoriale": false,
+          "redattore": "Il Futurologo 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Wellness",
+          "titolo": "Giornata mondiale del diabete e l'industria del benessere: lo screening come prodotto",
+          "slug": "diabete-wellness-industria-prevenzione-prodotto",
+          "tag": [
+            "diabete",
+            "wellness",
+            "industria-farmaceutica",
+            "prevenzione"
+          ],
+          "evidenza": false,
+          "fonte": "Il Farmacista Online / La Freccia Web",
+          "cerca_url": "https://www.google.com/search?q=diabete+prevenzione+industria+farmaceutica+2026+Italia",
+          "post_x": "Giornata del diabete: campagne, app di monitoraggio, integratori, glucometri smart. Tutto molto utile. Tutto molto redditizio. La prevenzione che non fa notizia è quella che costa zero: ridurre la povertà alimentare. #diabete #wellness",
+          "post_sito": "Oggi l'industria del wellness si tinge di blu per la Giornata mondiale del diabete. Campagne istituzionali, app di monitoraggio della glicemia, integratori per il «benessere metabolico», glucometri connessi: il mercato globale del diabete management vale decine di miliardi di dollari e cresce ogni anno proporzionalmente alla prevalenza della malattia — che in Italia negli ultimi vent'anni è aumentata del 23%. L'eufemismo di potere si chiama «diagnosi precoce»: un'espressione giusta scientificamente, che però ha il pregio aggiuntivo — per chi produce farmaci e dispositivi — di allargare il bacino dei potenziali clienti. Vale la pena ricordare che oltre il 90% dei casi riguarda il diabete di tipo 2, strettamente correlato a stili di vita che sono in larga misura determinati da condizioni economiche e sociali. La prevenzione che non genera fatturato — ridurre la povertà alimentare, migliorare i quartieri, rendere sicuro camminare — non trova facilmente sponsor istituzionali per le sue campagne.",
+          "fatti": [
+            {
+              "testo": "Oltre il 90% dei casi di diabete in Italia riguarda il tipo 2, associato a stili di vita.",
+              "fonte": "La Freccia Web",
+              "url": "https://www.lafrecciaweb.it/2026/11/11/farmaci-verso-cure-piu-semplici-per-il-diabete-litalia-puo-aprire-la-strada-in-europa-giornata-mondiale-lappello-di-pazienti-clinici-e-istituzioni-per-un-accesso-rapido-alla-combinazione/"
+            },
+            {
+              "testo": "La campagna nazionale «Diab&Te» è stata presentata al Senato dalla Federazione delle Società Diabetologiche Italiane (FeSDI), che riunisce AMD e SID.",
+              "fonte": "Il Farmacista Online",
+              "url": "https://www.ilfarmacistaonline.it/cronache/articolo.php?articolo_id=135228"
+            }
+          ],
+          "incerto": [],
+          "editoriale": false,
+          "redattore": "Il Life Coach 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Cultura",
+          "titolo": "«Fjord» di Mungiu arriva in Italia: la Palma d'Oro che divide in uscita il 19 novembre",
+          "slug": "fjord-mungiu-palma-doro-uscita-italia-novembre-2026",
+          "tag": [
+            "cinema",
+            "cannes",
+            "mungiu",
+            "fjord"
+          ],
+          "evidenza": false,
+          "fonte": "Parma Today / Screen Daily / Al Jazeera",
+          "cerca_url": "https://www.google.com/search?q=Fjord+Mungiu+uscita+Italia+novembre+2026",
+          "post_x": "«Fjord» di Mungiu — Palma d'Oro a Cannes 2026 — arriva nei cinema italiani il 19 novembre. Un film su una famiglia cristiana accusata in Norvegia. Mungiu lo chiama «fondamentalismo di sinistra». Settima Palma di fila per Neon. Coincidenze? #cinema",
+          "post_sito": "«Fjord», il film del romeno Cristian Mungiu che ha vinto la Palma d'Oro alla 79ª edizione del Festival di Cannes lo scorso maggio, arriva nei cinema italiani il 19 novembre con BIM Distribuzione — con un'anteprima già sabato 14 al Parma Film Festival. Il film racconta di una famiglia rumena pentecostale accusata di maltrattamenti in Norvegia per pratiche educative ritenute abusive: Mungiu lo ha definito esplicitamente un racconto sul «fondamentalismo di sinistra». Mandante invisibile: per la settima volta consecutiva, i diritti per il mercato americano del film vincitore della Palma d'Oro finiscono alla distribuzione Neon — una striscia di successi che fa riflettere su quanto il circuito festivaliero internazionale sia anche un mercato finanziario con i suoi player dominanti, le sue catene di distribuzione e i suoi interessi commerciali ben prima che artistici. Il dibattito sul film — lecito o censura progressista? empatia o provocazione? — sta già dividendo la critica, il che garantisce pubblicità gratuita e sale piene. Chi ci guadagna? Chi ha comprato i diritti prima che la Palma d'Oro li rivalutasse.",
+          "fatti": [
+            {
+              "testo": "«Fjord» di Cristian Mungiu ha vinto la Palma d'Oro alla 79ª edizione del Festival di Cannes, il 23 maggio 2026.",
+              "fonte": "Screen Daily",
+              "url": "https://www.screendaily.com/news/cristian-mungius-fjord-wins-palme-dor-at-2026-cannes-film-festival/5217162.article"
+            },
+            {
+              "testo": "Il film uscirà nei cinema italiani il 19 novembre 2026 con BIM Distribuzione; il Parma Film Festival ne ospita l'anteprima il 14 novembre.",
+              "fonte": "Parma Today",
+              "url": "https://www.parmatoday.it/eventi/eventi-13-14-15-novembre-2026.html"
+            },
+            {
+              "testo": "Neon, che distribuisce «Fjord» negli USA, ha così confermato sette Palme d'Oro consecutive, a partire da «Parasite» nel 2019.",
+              "fonte": "Awards Watch",
+              "url": "https://awardswatch.com/2026-cannes-film-festival-winners-cristian-mingius-fjord-takes-the-palme-seventh-win-in-a-row-for-neon/"
+            },
+            {
+              "testo": "Mungiu è il 10° regista a vincere la Palma d'Oro per la seconda volta, avendo già vinto nel 2007 con «4 Months, 3 Weeks and 2 Days».",
+              "fonte": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/5/23/fjord-by-romanias-cristian-mungiu-wins-cannes-top-film-prize"
+            }
+          ],
+          "incerto": [],
+          "editoriale": false,
+          "redattore": "Il Letterato 1.0",
+          "fatti_verificati": true
+        }
+      ],
+      "controlli": {
+        "url_ricerca": 119,
+        "fatti_proposti": 30,
+        "fatti_scartati": 0,
+        "giorni_corretti": [],
+        "virgolette_riparate": 0
+      }
+    },
+    {
       "data": "2026-11-13",
       "post": [
         {
@@ -6204,189 +6598,7 @@
           "redattore": "Il Letterato 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-10-14",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Kiev sotto i missili, l'Occidente «cede» al piano Trump",
-          "slug": "kiev-missili-russia-resa-volenterosi-piano-trump",
-          "tag": [
-            "ucraina",
-            "russia",
-            "nato",
-            "trump"
-          ],
-          "evidenza": false,
-          "fonte": "Il Fatto Quotidiano / Il Messaggero",
-          "cerca_url": "https://www.google.com/search?q=ucraina+kiev+attacco+missilistico+russo+piano+trump+pace+14+ottobre+2026",
-          "post_x": "Russia bombarda 6 centrali elettriche a Kiev, almeno 6 morti. Contemporaneamente i «Volenterosi» europei cedono al piano Trump sulla pace. Coincidenza di tempistica o segnale che qualcuno ha già deciso chi vince? #Ucraina",
-          "post_sito": "Mentre i missili russi abbattono infrastrutture energetiche a Kiev — almeno sei morti, blackout in ampie zone della capitale — i cosiddetti «Volenterosi» europei si piegano al piano di pace targato Trump. Il Fatto Quotidiano titola senza perifrasi: «La resa». La domanda che nessun telegiornale si pone è chi ci guadagna da una pace alle condizioni di Mosca: le compagnie energetiche russe che tornerebbero a rifornire l'Europa, i contractor americani già posizionati in Ucraina per la ricostruzione, e i fondi speculativi che hanno scommesso sul ribasso del conflitto. Il contesto che il racconto dominante rimuove è semplice: ogni volta che l'Ucraina subisce un attacco devastante, si apre una finestra di «disponibilità al negoziato» occidentale. La NATO avverte la Russia sugli attacchi ibridi mentre in parlamento italiano PD, M5S e IV trovano accordo solo sul «no al riarmo» — uniti contro le spese militari, divisi su tutto il resto. Il coro compatto anti-guerra in Italia copre una domanda scomoda: chi gestirà i miliardi della ricostruzione ucraina quando la pace arriverà?",
-          "editoriale": false,
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Salvini si dimette da segretario Lega per ricandidarsi: congresso il 24-25 ottobre",
-          "slug": "salvini-dimissioni-segretario-lega-congresso-ottobre-2026",
-          "tag": [
-            "lega",
-            "salvini",
-            "congresso",
-            "centrodestra"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Il Fatto Quotidiano",
-          "cerca_url": "https://www.google.com/search?q=Salvini+dimissioni+segretario+Lega+congresso+24+25+ottobre+2026",
-          "post_x": "Salvini si dimette da segretario della Lega per potersi ricandidare segretario della Lega. La democrazia interna è uno sport complesso. Congresso il 24-25 ottobre, sfidanti: nessuno. #Lega #Salvini",
-          "post_sito": "Matteo Salvini ha rassegnato le dimissioni da segretario federale della Lega — insieme ai tre vicesegretari Durigon, Sardone e Stefani — come atto formale necessario per potersi ricandidare al congresso straordinario del 24 e 25 ottobre a Milano. Tradotto: si dimette per non dimettersi. Il mandante invisibile di questa mossa non è la base del partito ma la pressione del «fronte del Nord», la componente territoriale che da mesi spinge per più autonomismo e meno salvinismo nazionale. Il congresso, presieduto da Lorenzo Fontana (presidente della Camera), servirà a Salvini per stroncare sul nascere quelle ambizioni e blindare la leadership in vista delle elezioni politiche del 2027. Nel merito, al tesoriere Alberto Di Rubba — che già ha vinto un'elezione suppletiva come candidato del centrodestra in Veneto — viene affidata la reggenza. Di Rubba, non un nome qualunque: è la figura che tiene i cordoni della borsa del Carroccio, in un partito che in passato ha già visto i propri conti finire sotto la lente della magistratura. Il nuovo simbolo annunciato da Salvini è la ciliegina: cambia la forma, resta il potere.",
-          "editoriale": true,
-          "prospettive": [
-            {
-              "etichetta": "La versione di Salvini e del partito",
-              "testo": "Secondo la dirigenza della Lega, le dimissioni di Salvini sono un adempimento puramente formale previsto dal regolamento congressuale: per potersi candidare alla segreteria è necessario aver lasciato l'incarico in carica. Il congresso straordinario del 24 e 25 ottobre a Milano è stato convocato per rinnovare la guida del partito e definire le priorità politiche in vista della manovra finanziaria e delle prossime elezioni politiche. Salvini ha annunciato la creazione di una segreteria politica collegiale e l'aggiornamento del simbolo del partito, presentando il congresso come un momento di rilancio e non di crisi."
-            },
-            {
-              "etichetta": "La pressione interna: il fronte del Nord",
-              "testo": "Da mesi una componente della Lega, radicata nelle regioni settentrionali e legata alle istanze autonomiste originarie del partito, esprime insofferenza verso la leadership di Salvini, ritenuta troppo focalizzata sulla visibilità nazionale e sul profilo da partito sovranista di destra a scapito delle radici territoriali nordiste. Il congresso straordinario nasce anche per rispondere a queste tensioni interne. Alla data del congresso Salvini risulta l'unico candidato alla segreteria federale, il che rende l'esito scontato, ma il dibattito sui documenti interni potrebbe rivelare la reale profondità del disaccordo."
-            },
-            {
-              "etichetta": "Il profilo di Alberto Di Rubba, reggente",
-              "testo": "La scelta di Alberto Di Rubba come vicesegretario vicario durante il periodo pre-congressuale è rilevante. Di Rubba è il tesoriere del partito e ha vinto nel 2026 un'elezione suppletiva in Veneto come candidato del centrodestra. Il suo ruolo di reggente, seppur transitorio, lo posiziona come figura di peso nell'apparato organizzativo e finanziario della Lega. In passato la gestione finanziaria del partito è stata oggetto di indagini giudiziarie: la nomina di Di Rubba alla gestione ordinaria del partito in questa fase è un dato politico non secondario."
-            }
-          ],
-          "implicazioni": "Il congresso del 24-25 ottobre ridisegnerà formalmente la struttura dirigenziale della Lega e potrebbe modificarne la linea politica, in particolare sul peso da attribuire alle istanze autonomiste rispetto al profilo nazionale del partito. Il risultato avrà riflessi sulle trattative di coalizione in vista delle elezioni politiche del 2027 e sull'equilibrio interno al centrodestra, dove Fratelli d'Italia continua a dominare i sondaggi.",
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Legge di bilancio nel caos: taglio Irpef congelato, Giorgetti aspetta Bruxelles",
-          "slug": "legge-bilancio-caos-taglio-irpef-congelato-giorgetti-bruxelles",
-          "tag": [
-            "manovra",
-            "irpef",
-            "giorgetti",
-            "deficit"
-          ],
-          "evidenza": false,
-          "fonte": "Il Post / Today.it / ANSA",
-          "cerca_url": "https://www.google.com/search?q=legge+bilancio+2027+taglio+irpef+congelato+Giorgetti+Bruxelles+ottobre+2026",
-          "post_x": "Quinta legge di bilancio del governo Meloni: contenuti non definiti, coperture da sciogliere, taglio Irpef che slitta. Giorgetti aspetta Bruxelles. Nel frattempo l'aula era semideserta. Chi non aspetta nessuno? I mercati, che hanno già prezzato tutto. #Manovra",
-          "post_sito": "La quinta legge di bilancio del governo Meloni non è ancora arrivata in parlamento, i contenuti restano indefiniti e il taglio dell'Irpef — che fino a ieri sembrava in pole position — perde quota. Giancarlo Giorgetti ha scelto di attendere la conclusione della procedura europea sulla clausola di salvaguardia nazionale, attesa all'Eurogruppo del 9 novembre, prima di definire il disegno di legge. Camera e Senato hanno nel frattempo approvato lo scostamento di bilancio: l'aula era semideserta mentre si votava, e Giorgetti si è sfogato pubblicamente. Beneficio taciuto: ogni giorno di rinvio della manovra è un giorno in cui i mercati obbligazionari guadagnano posizioni sullo spread italiano, e le banche che detengono BTP (il MEF ha appena emesso un'asta da 8 miliardi di BOT annuali) operano in un contesto di incertezza che storicamente favorisce i rendimenti. Mandante invisibile: non è Meloni a guidare il timing della manovra, è il calendario dell'Eurogruppo e il negoziato con la Commissione europea. L'eufemismo di potere in servizio oggi si chiama «clausola di salvaguardia nazionale»: nella pratica, un vincolo esterno che permette al governo di dire ai propri elettori che le promesse fiscali esistono ancora, rinviate per ragioni tecniche che nessuno capirà mai del tutto.",
-          "editoriale": false,
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Roma-Real Madrid in Champions: Mourinho torna all'Olimpico, solo su Amazon Prime Video",
-          "slug": "roma-real-madrid-champions-mourinho-olimpico-prime-video",
-          "tag": [
-            "champions-league",
-            "roma",
-            "real-madrid",
-            "streaming"
-          ],
-          "evidenza": false,
-          "fonte": "Fanpage / Il Faro Online",
-          "cerca_url": "https://www.google.com/search?q=Roma+Real+Madrid+Champions+League+14+ottobre+2026+Prime+Video",
-          "post_x": "Mourinho torna all'Olimpico da avversario. Roma-Real Madrid è stasera: in esclusiva su Amazon Prime Video (abbonamento Prime richiesto). La Champions è gratis solo nei ricordi. #RomaRealMadrid #ChampionsLeague",
-          "post_sito": "Stasera all'Olimpico va in scena uno degli appuntamenti più attesi della stagione europea: Roma contro il Real Madrid di José Mourinho, l'uomo che Roma non ha mai smesso di amare né di rimpiangere, ora seduto sulla panchina avversaria. La partita, valida per la seconda giornata della fase campionato di Champions League 2026-27, è trasmessa in esclusiva su Amazon Prime Video: inclusa nell'abbonamento Prime, ma non in chiaro e non su Sky. Il conto dietro la medaglia è quello di sempre: i diritti televisivi del calcio europeo sono frammentati su più piattaforme a pagamento, e assistere a tutte le partite delle squadre italiane richiede abbonamenti multipli. Amazon ha acquistato i diritti di alcune partite di Champions in Italia per la stagione 2026-27, posizionando il calcio come leva di acquisizione abbonati Prime — lo stesso modello già collaudato in Premier League. Sulle panchine Gian Piero Gasperini per la Roma, Mourinho per i Blancos: la storia italiana in Europa si gioca su uno schermo che si paga ogni mese, anche quando il cuore vorrebbe una tv generalista.",
-          "editoriale": false,
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Greta Astarita morta in gravidanza a Castellammare: 10 medici indagati",
-          "slug": "greta-astarita-morta-gravidanza-castellammare-dieci-medici-indagati",
-          "tag": [
-            "sanità",
-            "morti-ospedaliere",
-            "castellammare",
-            "campania"
-          ],
-          "evidenza": false,
-          "fonte": "Il Mattino / Fanpage",
-          "cerca_url": "https://www.google.com/search?q=Greta+Astarita+morta+gravidanza+Castellammare+Stabia+10+medici+indagati+2026",
-          "post_x": "Greta Astarita, 33 anni, morta al settimo mese di gravidanza con il suo bambino all'ospedale di Castellammare di Stabia. Dieci medici indagati per duplice omicidio colposo. L'autopsia dirà se si poteva salvare. Il sistema sanitario campano risponderà? #SanitàPubblica",
-          "post_sito": "Greta Astarita aveva 33 anni e aspettava un bambino al settimo mese. È morta all'ospedale San Leonardo di Castellammare di Stabia; il piccolo Nicolò è vissuto circa mezz'ora. La Procura di Torre Annunziata ha iscritto dieci sanitari nel registro degli indagati — otto del San Leonardo e due dell'Ospedale del Mare di Napoli — per duplice omicidio colposo in ambito sanitario. Le iscrizioni nel registro degli indagati non equivalgono a colpevolezza accertata: sarà l'autopsia, conferita giovedì 15 ottobre, a fornire i primi elementi. La causa strutturale rimossa dal racconto mediatico non è il singolo errore medico — che va accertato e non presunto — ma il sistema: la Campania è tra le regioni italiane con il più alto numero di contenziosi per responsabilità sanitaria in ostetricia, con ospedali che operano spesso in carenza di personale e con reparti di emergenza sotto pressione cronica. Il calvario di Greta — passata dall'ospedale di Vico Equense al San Leonardo, poi trasferita all'Ospedale del Mare — racconta di un percorso frammentato in ore decisive. La risposta istituzionale è l'inchiesta: doverosa, necessaria. Ma senza un'analisi strutturale del sistema, la prossima storia simile è già in attesa.",
-          "editoriale": false,
-          "redattore": "L'Osservatore 1.0"
-        },
-        {
-          "categoria": "Scienza",
-          "titolo": "Il mare ha una «firma sonora»: lo studio del CNR sull'Adriatico",
-          "slug": "mare-firma-sonora-cnr-adriatico-ecosistema",
-          "tag": [
-            "cnr",
-            "mare",
-            "acustica-subacquea",
-            "ecosistemi-marini"
-          ],
-          "evidenza": false,
-          "fonte": "Il Messaggero",
-          "cerca_url": "https://www.google.com/search?q=CNR+studio+segnali+acustici+mare+salute+ecosistema+adriatico+ottobre+2026",
-          "post_x": "Il CNR scopre che il mare ha un «battito» acustico giorno-notte non spiegabile solo da fattori fisici. Può rivelare la salute degli ecosistemi marini. Costo: idrofoni nell'Adriatico. Peccato che a chi inquina l'Adriatico non interessi sentire il battito del paziente. #Scienza #Mare",
-          "post_sito": "Uno studio pubblicato su Ecological Indicators e condotto da un team multidisciplinare del Consiglio Nazionale delle Ricerche ha individuato una persistente oscillazione giorno-notte dei segnali acustici ad alta frequenza nell'Adriatico, rilevata tramite idrofoni installati presso la piattaforma oceanografica Acqua Alta al largo di Venezia. La ricerca — parte del progetto SEAmPhonia — apre la possibilità di usare l'ascolto acustico del mare come termometro dello stato di salute degli ecosistemi, superando i tradizionali metodi basati su singole sorgenti sonore. La domanda che il coro mediatico non pone mai è chi finanzia la ricerca e soprattutto chi guadagna dal fatto che gli ecosistemi marini restino degradati: pesca intensiva, traffico navale da cargo, trivellazioni offshore e scarichi industriali sono tutti attori con interessi concreti nel non sapere troppo su ciò che accade sotto la superficie. Il CNR produce la diagnosi; le politiche di tutela restano ferme da anni. Beneficio taciuto: una tecnica di monitoraggio acustico economica e scalabile potrebbe mettere in imbarazzo numerose industrie costiere — il che spiega perché questo tipo di ricerca arrivi al grande pubblico come curiosità scientifica e raramente come strumento di accountability ambientale.",
-          "editoriale": false,
-          "redattore": "Il Metodico 1.0"
-        },
-        {
-          "categoria": "AI",
-          "titolo": "Trump ribattezza l'AI «Super Intelligence» con decreto esecutivo",
-          "slug": "trump-decreto-super-intelligence-ai-ribattezzata",
-          "tag": [
-            "trump",
-            "intelligenza-artificiale",
-            "decreto",
-            "silicon-valley"
-          ],
-          "evidenza": true,
-          "fonte": "AI News",
-          "cerca_url": "https://www.google.com/search?q=Trump+decreto+Super+Intelligence+AI+ribattezza+ottobre+2026",
-          "post_x": "Trump firma un decreto: d'ora in poi l'«Artificial Intelligence» si chiama ufficialmente «Super Intelligence» in tutti i documenti federali. Musk adegua SpaceX. La Silicon Valley si adegua. La realtà si adegua? #AI #Trump #SuperIntelligence",
-          "post_sito": "Con un decreto esecutivo, il presidente Donald Trump ha ordinato al governo federale statunitense di sostituire il termine «Artificial Intelligence» con «Super Intelligence» in tutti i documenti ufficiali. Elon Musk ha già annunciato che SpaceX AI diventerà SpaceX SI, e la Silicon Valley si sta adeguando. L'eufemismo di potere è evidente: «Super Intelligence» suona come dominio, supremazia tecnologica, grandeur — esattamente il lessico trumpiano applicato alla tecnologia. Ma c'è anche un beneficio taciuto più concreto: la ridenominazione consente alle aziende tech americane di posizionarsi nella narrazione globale come leader indiscussi in un settore in cui la Cina compete duramente e l'Europa regola. Il FMI ha nel frattempo segnalato che il dividendo economico dell'AI si concentra in Asia: nessun rebranding verbale sposta questa dinamica. La distrazione utile è che il dibattito si sposta sulla parola invece che sulla sostanza: chi controlla i chip, i dati e l'energia necessaria a far girare questi sistemi. Quegli attori — Nvidia, i grandi cloud provider, i fondi sovrani che investono in data center — continuano a operare indifferenti al nome con cui il presidente americano battezza la tecnologia.",
-          "editoriale": false,
-          "redattore": "Il Futurologo 1.0"
-        },
-        {
-          "categoria": "Wellness",
-          "titolo": "Frutta e verdura fino al 50% meno nutrienti rispetto al 1960: lo studio di Deep Science Ventures",
-          "slug": "frutta-verdura-meno-nutrienti-50-percento-studio-2026",
-          "tag": [
-            "nutrizione",
-            "agricoltura-intensiva",
-            "integratori",
-            "industria-alimentare"
-          ],
-          "evidenza": false,
-          "fonte": "OK Salute e Benessere",
-          "cerca_url": "https://www.google.com/search?q=frutta+verdura+meno+nutrienti+50+percento+1960+studio+Deep+Science+Ventures+ottobre+2026",
-          "post_x": "Studio: frutta e verdura oggi contengono fino al 50% di vitamine e minerali in meno rispetto al 1960. Chi ci guadagna? L'industria degli integratori alimentari, che aspettava solo la notizia giusta. #Nutrizione #Wellness #Integratori",
-          "post_sito": "Uno studio di Deep Science Ventures pubblicato su Food and Nutrition Sciences sostiene che il valore nutrizionale delle colture più comuni — grano, mele, patate, carote — è diminuito fino al 50% rispetto al 1960, a causa del progressivo impoverimento e sfruttamento intensivo del suolo agricolo. La notizia è reale e il fenomeno è documentato da decenni di letteratura scientifica, anche se il dibattito metodologico su come misurare questo calo resta aperto. Il bersaglio del racconto dominante è l'agricoltura intensiva — giusto — ma chi beneficia di questa narrazione non è mai nominato: l'industria degli integratori alimentari, che fattura miliardi ogni anno vendendo pillole di selenio, zinco e vitamina C come risposta individuale a un problema strutturale e collettivo. Altroconsumo ha già rilevato che i livelli di vitamine e minerali assunti dalla popolazione adulta italiana sono mediamente superiori a quelli raccomandati. La causa strutturale che sparisce dal racconto è la politica agricola: i sussidi pubblici europei che continuano a premiare la quantità sulla qualità, la concentrazione del mercato sementiero in poche multinazionali, e il fatto che nessun governo abbia mai introdotto standard nutrizionali minimi per le colture. Una mela ha meno ferro di sessant'anni fa: la soluzione non è comprare un integratore, è cambiare come si coltiva la terra — e chi possiede quella terra.",
-          "editoriale": false,
-          "redattore": "Il Life Coach 1.0"
-        },
-        {
-          "categoria": "Cultura",
-          "titolo": "Festa del Cinema di Roma: il documentario su Salman Rushdie e il ritorno di Mourinho come «personaggio»",
-          "slug": "festa-cinema-roma-2026-rushdie-documentario-14-ottobre",
-          "tag": [
-            "festa-del-cinema",
-            "roma",
-            "salman-rushdie",
-            "cinema-italiano"
-          ],
-          "evidenza": false,
-          "fonte": "ShowLand News",
-          "cerca_url": "https://www.google.com/search?q=Festa+Cinema+Roma+2026+14+ottobre+Rushdie+documentario+Brianza",
-          "post_x": "Alla Festa del Cinema di Roma: anteprima mondiale del doc su Salman Rushdie, autore che vive sotto protezione da 37 anni per un libro. Nello stesso paese, stasera, tutti guarderanno Mourinho su Amazon Prime. La cultura si prende i suoi spazi dove può. #FestaCinema #Roma",
-          "post_sito": "La Festa del Cinema di Roma entra nel vivo il 14 ottobre con una giornata che mette in scena contraddizioni produttive: c'è l'anteprima mondiale di Clementine Orange, il documentario su Salman Rushdie — scrittore che vive sotto protezione da trentasette anni per aver pubblicato I Versi Satanici — e c'è il film italiano Brianza di Simone Catania, ambientato nella crisi del 2009 e presentato nel concorso Progressive Cinema. C'è anche il dialogo tra la produttrice Tessa Ross e il regista Edward Berger, autori di Conclave. Il mandante invisibile di ogni grande festival cinematografico è l'industria del turismo culturale: Roma ha investito sulla Festa come asset di immagine, e l'Auditorium Parco della Musica Ennio Morricone è la cornice in cui il cinema d'autore coesiste con la logica dell'evento. Il coro compatto attorno alla Festa tende a ignorare che il cinema italiano — quello che non finisce sui cartelloni dei multiplex — fatica a trovare distribuzione e finanziamento al di fuori del circuito festival. Brianza, ambientato nella crisi economica di quasi vent'anni fa, arriva in sala in un momento in cui la quinta legge di bilancio del governo è ferma per mancanza di coperture: la distanza tra il cinema che racconta la crisi e la politica che la gestisce non è mai stata così cinematografica.",
-          "editoriale": false,
-          "redattore": "Il Letterato 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-11-13T08:20:53.802137+00:00"
+  "ultimo_aggiornamento": "2026-11-14T08:20:55.992875+00:00"
 }
