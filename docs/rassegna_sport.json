@@ -1,6 +1,22 @@
 {
-  "generato": "2026-11-14T06:31:04.373744+00:00",
+  "generato": "2026-11-14T12:31:03.324396+00:00",
   "item": [
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Pétanque, ecco la nuova Serie A: regole e protagonisti del 2026-2027",
+      "link": "https://www.gazzetta.it/bocce/12-11-2026/petanque-ecco-la-nuova-serie-a-regole-e-protagonisti-del-2026-2027.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-11-12"
+    },
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Slalom di Levi, senza Shiffrin comanda Aicher davanti a Colturi. Della Mea migliore delle azzurre",
+      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/Coppa-Mondo-Sci/14-11-2026/coppa-mondo-sci-alpino-slalom-levi-risultati.shtml",
+      "fonte": "Gazzetta — Sport Invernali",
+      "data_evento": "2026-11-14"
+    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
@@ -23,22 +39,6 @@
       "titolo": "Fineanganofo sbocciato nel Seven. Ora sfida l'Inghilterra: in ballo un Mondiale con gli All Blacks",
       "link": "https://www.gazzetta.it/Rugby/13-11-2026/rugby-fineanganofo-sfida-l-inghilterra-con-gli-all-blacks.shtml",
       "fonte": "Gazzetta — Rugby",
-      "data_evento": "2026-11-13"
-    },
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "Larissa Iapichino: \"2026 anno di rivalsa. Los Angeles 2028? Il pensiero c'è già\"",
-      "link": "https://video.gazzetta.it/atletica/video-larissa-iapichino-2026-anno-di-rivalsa-los-angeles-2028-il-pensiero-c-e-gia/19739c01-9df5-4852-a359-da4bf9d1bxlk",
-      "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-11-13"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Wta Finals, Sabalenka ko contro Svitolina. Andreeva domina Shnaider e vola in semifinale",
-      "link": "https://www.gazzetta.it/Tennis/WTA/13-11-2026/wta-finals-andreeva-batte-shnaider.shtml",
-      "fonte": "Gazzetta — Tennis",
       "data_evento": "2026-11-13"
     }
   ]
