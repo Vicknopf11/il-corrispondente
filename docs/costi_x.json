@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-14",
+      "slug": "giornata-mondiale-diabete-2026-italia-dati-diagnosi",
+      "categoria": "Scienza",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-14",
       "slug": "italia-in-piazza-milano-14-novembre-corteo-carovita-riarmo",
       "categoria": "Cronaca",
       "evidenza": false,
