@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-14",
+      "slug": "standard-poors-conferma-rating-italia-bbb-outlook-positivo",
+      "categoria": "Economia",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-14",
       "slug": "manovra-governo-ritira-tagli-scuola-cgil-sciopero-generale",
       "categoria": "Politica Nazionale",
       "evidenza": false,
