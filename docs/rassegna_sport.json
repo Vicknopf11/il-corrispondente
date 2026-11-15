@@ -1,6 +1,22 @@
 {
-  "generato": "2026-11-15T06:31:03.915362+00:00",
+  "generato": "2026-11-15T12:31:11.767869+00:00",
   "item": [
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Pétanque, ecco la nuova Serie A: regole e protagonisti del 2026-2027",
+      "link": "https://www.gazzetta.it/bocce/12-11-2026/petanque-ecco-la-nuova-serie-a-regole-e-protagonisti-del-2026-2027.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-11-12"
+    },
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Braathen accende lo slalom di Levi: in testa dopo la prima manche davanti a Noel. Vinatzer a 1\"80",
+      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/Coppa-Mondo-Sci/15-11-2026/sci-alpino-slalom-levi-risultati.shtml",
+      "fonte": "Gazzetta — Sport Invernali",
+      "data_evento": "2026-11-15"
+    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
@@ -23,22 +39,6 @@
       "titolo": "Disastro All Blacks: il Galles batte la Nuova Zelanda dopo 73 anni. Impresa Francia contro il Sudafrica",
       "link": "https://www.gazzetta.it/Rugby/14-11-2026/rugby-nations-championship-galles-nuova-zelanda-35-28-francia-sudafrica-21-19.shtml",
       "fonte": "Gazzetta — Rugby",
-      "data_evento": "2026-11-14"
-    },
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "Larissa Iapichino: \"2026 anno di rivalsa. Los Angeles 2028? Il pensiero c'è già\"",
-      "link": "https://video.gazzetta.it/atletica/video-larissa-iapichino-2026-anno-di-rivalsa-los-angeles-2028-il-pensiero-c-e-gia/19739c01-9df5-4852-a359-da4bf9d1bxlk",
-      "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-11-13"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Wta Finals, Andreeva batte anche Pegula: in finale troverà Svitolina",
-      "link": "https://www.gazzetta.it/Tennis/WTA/14-11-2026/tennis-wta-finals-andreeva-prima-finalista.shtml",
-      "fonte": "Gazzetta — Tennis",
       "data_evento": "2026-11-14"
     }
   ]
