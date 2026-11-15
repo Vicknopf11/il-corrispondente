@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-15",
+      "slug": "errani-paolini-finale-wta-finals-2026-indian-wells",
+      "categoria": "Sport",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-15",
       "slug": "garante-privacy-multa-meta-805-milioni-foto-android",
       "categoria": "Economia",
       "evidenza": false,
