@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-15",
+      "slug": "nvidia-jensen-huang-dimissioni-scandalo-spia-cinese",
+      "categoria": "AI",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-15",
       "slug": "cop31-antalya-seconda-settimana-elettrificazione-clima",
       "categoria": "Scienza",
       "evidenza": false,
