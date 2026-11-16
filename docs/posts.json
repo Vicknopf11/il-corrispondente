@@ -1,6 +1,410 @@
 {
   "edizioni": [
     {
+      "data": "2026-11-16",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Vertice trilaterale Trump-Xi-Putin a Shenzhen il 19 novembre",
+          "slug": "vertice-trilaterale-trump-xi-putin-shenzhen-novembre-2026",
+          "tag": [
+            "geopolitica",
+            "usa-cina-russia",
+            "apec",
+            "nucleare"
+          ],
+          "evidenza": true,
+          "fonte": "AGI / Sky TG24 / CNBC",
+          "cerca_url": "https://www.google.com/search?q=vertice+trilaterale+Trump+Xi+Putin+Shenzhen+19+novembre+2026",
+          "post_x": "Trump, Xi e Putin finalmente nello stesso stanza. L'Ucraina esclusa dall'ordine del giorno. L'Europa, che si batte da anni per contare qualcosa, non è nemmeno invitata al tavolo. #VerticeShenzhen",
+          "post_sito": "Il primo vertice trilaterale nella storia tra i leader delle tre principali potenze nucleari si terrà il 19 novembre a Shenzhen, a margine dell'APEC. Tutti esultano per la «diplomazia storica» — ma la domanda che nessuno fa ad alta voce è: chi ha convocato questo vertice e per fare cosa, esattamente? L'Ucraina, stando alle fonti ufficiali americane, non sarà discussa nel formato a tre: si parlerà di denuclearizzazione e Iran. Il beneficio taciuto è tutto per la Cina: Xi ottiene la consacrazione simbolica di «primo tra pari» senza cedere nulla, semplicemente essendo il padrone di casa. Per Mosca è la fine dell'isolamento diplomatico che l'Occidente aveva costruito a prezzo di centinaia di miliardi in sanzioni. Per Trump, indebolito dalla sconfitta alle elezioni di metà mandato, è una scena da grande schermo che distoglie l'attenzione interna. L'Europa — che nel frattempo propone di ospitare i negoziati di pace in Svizzera, Norvegia o Turchia — scopre che il futuro del continente si decide a Shenzhen, senza di lei.",
+          "fatti": [
+            {
+              "testo": "La Cina ha confermato il 16 novembre che il presidente Xi Jinping incontrerà Trump e Putin il 19 novembre a Shenzhen, nel primo vertice trilaterale in assoluto tra i tre leader.",
+              "fonte": "AGI",
+              "url": "https://www.agi.it/estero/news/2026-11-16/vertice-trilaterale-xi-trump-putin-40044321/"
+            },
+            {
+              "testo": "Secondo fonti dell'amministrazione americana, Trump intende discutere di Iran e riduzione degli armamenti nucleari, ma non affronterà il tema dell'Ucraina nel formato trilaterale.",
+              "fonte": "Sky TG24",
+              "url": "https://tg24.sky.it/mondo/2026/11/16/xi-trump-putin-incontro-apec-2026-cina-shenzhen"
+            },
+            {
+              "testo": "Il vertice si terrà presso il resort Kylin Villa di Shenzhen a partire dalle 14.30 ora locale, a margine del 34° summit APEC.",
+              "fonte": "Spazio50 / Adnkronos",
+              "url": "https://www.spazio50.org/xi-trump-putin-confermato-vertice-in-cina/"
+            },
+            {
+              "testo": "Secondo Bloomberg, Trump si presenta al vertice indebolito in patria dopo la vittoria dei democratici alle elezioni di metà mandato.",
+              "fonte": "FocusAmerica",
+              "url": "https://focusamerica.it/la-rassegna-stampa-di-lunedi-16-novembre-2026/"
+            },
+            {
+              "testo": "L'Europa ha proposto agli USA di tenere i prossimi negoziati sull'Ucraina in Svizzera, Norvegia o nella parte europea della Turchia.",
+              "fonte": "TP24",
+              "url": "https://tp24.it/2026/11/16/cronaca/16-novembre-la-russia-minaccia-l-europa-negozia-perde-l-italia/242267"
+            }
+          ],
+          "incerto": [
+            "Non è confermato se l'Ucraina verrà discussa informalmente a margine del formato trilaterale, nonostante l'esclusione dall'agenda ufficiale.",
+            "L'esito concreto del vertice — se produrrà dichiarazioni congiunte o accordi preliminari — non è noto prima dello svolgimento dell'incontro."
+          ],
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La versione delle tre potenze",
+              "testo": "Cina, Russia e Stati Uniti presentano l'incontro come un passo verso la stabilità globale. La Casa Bianca lo inquadra come un'occasione per avviare un dialogo al massimo livello su denuclearizzazione e Iran. Il Cremlino lo descrive come un'opportunità per proseguire gli sforzi diplomatici sulla guerra in Ucraina. Pechino sottolinea il proprio ruolo di mediatore e ospite, valorizzando Shenzhen come vetrina del modello di sviluppo cinese."
+            },
+            {
+              "etichetta": "La prospettiva europea",
+              "testo": "L'Unione Europea e i paesi NATO non sono rappresentati al tavolo e hanno appreso dell'incontro attraverso comunicati ufficiali. Diversi leader europei hanno espresso preoccupazione per il fatto che i destini del conflitto ucraino vengano discussi senza la presenza dell'Europa o dell'Ucraina stessa. La proposta europea di ospitare negoziati in territorio neutro — Svizzera, Norvegia o Turchia europea — era rimasta senza risposta. Il presidente tedesco Steinmeier ha riferito che Xi ha mostrato «irritazione» quando gli è stato suggerito che il trilaterale potesse includere il tema ucraino."
+            },
+            {
+              "etichetta": "Il nodo nucleare",
+              "testo": "Al centro dell'agenda americana c'è la questione degli arsenali nucleari: il trattato New Start è scaduto senza rinnovo dopo che Trump aveva rifiutato la proposta russa di proroga, chiedendo un accordo «nuovo e modernizzato» che includesse anche la Cina. Pechino possiede secondo stime del Pentagono circa 600 testate, una sproporzione rispetto alle potenze occidentali che rende complessa qualsiasi intesa trilaterale. L'incontro è considerato dall'amministrazione americana un primo passo esplorativo, senza aspettative di accordi concreti."
+            },
+            {
+              "etichetta": "Il contesto dello scandalo Nvidia",
+              "testo": "Il vertice si svolge mentre pesa lo scandalo legato all'ex CEO di Nvidia Jensen Huang e alle accuse di spionaggio a favore della Cina attraverso la società singaporiana Megaspeed. La Casa Bianca ha precisato che Trump non affronterà questo dossier con Xi. Il caso rischia tuttavia di condizionare il clima politico interno americano e il dibattito sulla filiera tecnologica dell'intelligenza artificiale, già al centro delle tensioni commerciali tra i due paesi."
+            }
+          ],
+          "implicazioni": "Se il vertice producesse anche solo un'intesa di principio sul congelamento del conflitto ucraino, si aprirebbe una fase nuova — e controversa — di architettura della sicurezza globale, con l'Europa potenzialmente marginalizzata nelle decisioni che la riguardano direttamente. Sul fronte nucleare, un eventuale avvio di negoziati a tre potrebbe sbloccare la questione del controllo degli armamenti rimasta ferma dopo la scadenza di New Start. In assenza di risultati concreti, il vertice resterà comunque un segnale politico rilevante: la fine dell'isolamento russo e il consolidamento del ruolo cinese come potenza diplomatica di primo piano.",
+          "redattore": "Il Corrispondente Estero 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Manovra 2027: le Regioni bocciano i 500 milioni per la sanità, il governo cerca coperture",
+          "slug": "manovra-2027-regioni-sanita-500-milioni-insufficienti",
+          "tag": [
+            "manovra",
+            "sanità",
+            "regioni",
+            "legge-di-bilancio"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Quotidiano Sanità / Today.it",
+          "cerca_url": "https://www.google.com/search?q=manovra+2027+regioni+sanita+500+milioni+insufficienti+novembre+2026",
+          "post_x": "Il governo offre 500 mln alla sanità. Le Regioni rispondono: «Palesemente insufficiente». Nel frattempo 1,6 miliardi vanno ai voucher sanitari privati over-75. Chi ci guadagna? Domanda retorica. #Manovra2027",
+          "post_sito": "Il copione si ripete con la precisione di un orologio svizzero: governo annuncia stanziamento per la sanità pubblica, Regioni lo bocciano, media titolano «braccio di ferro». Ma il vero nodo non è nei 500 milioni — è nell'1,6 miliardi già previsto dalla manovra per i voucher agli over-75 per l'acquisto di prestazioni sanitarie private. Le Regioni lo sanno bene: riconvertire quei fondi al Fondo sanitario nazionale — dove andrebbero a finanziare la sanità pubblica — è la proposta alternativa che circola, ma che incontrerebbe la resistenza di chi trae profitto dal sistema dei voucher: cliniche private, assicurazioni sanitarie, fondi integrativi. La Conferenza delle Regioni chiede 18 miliardi in tre anni, 6,8 miliardi per il solo 2027: il governo ha indicato un incremento del Fondo sanitario di 3,4 miliardi. Il divario è siderale. Domani scade il termine per la presentazione degli emendamenti — circa 5.000 attesi — e il vero assalto alla diligenza può cominciare. Il mandante invisibile, come sempre, non siede in Parlamento.",
+          "fatti": [
+            {
+              "testo": "La Conferenza delle Regioni ha definito «palesemente insufficiente» la somma di 500 milioni ipotizzata per la sanità nella manovra 2027, chiedendo che non derivi da contributi regionali.",
+              "fonte": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/regioni-pochi-500-milioni-alla-sanita-non-si-prendano-da-noi_f6a4e71b-fac4-40d3-98fa-4931baf30c7c.html"
+            },
+            {
+              "testo": "La Conferenza delle Regioni chiede circa 18 miliardi di euro aggiuntivi per la sanità nel triennio 2027-2029, di cui 6,8 miliardi per il solo 2027.",
+              "fonte": "Ottopagine / Regioni",
+              "url": "https://www.ottopagine.it/italia/politica/444148/sanita-le-regioni-sfidano-il-governo-500-milioni-non-bastano.shtml"
+            },
+            {
+              "testo": "Il governo ha indicato un incremento del Fondo sanitario nazionale di 3,4 miliardi per il 2027, portandolo a circa 146,3 miliardi di euro.",
+              "fonte": "Ottopagine",
+              "url": "https://www.ottopagine.it/italia/politica/444148/sanita-le-regioni-sfidano-il-governo-500-milioni-non-bastano.shtml"
+            },
+            {
+              "testo": "La manovra prevede 1,6 miliardi per voucher agli over-75 per l'acquisto di prestazioni sanitarie private: le Regioni propongono di riconvertirli nel Fondo sanitario.",
+              "fonte": "Quotidiano Sanità",
+              "url": "https://www.quotidianosanita.it/governo-e-parlamento/manovra-le-regioni-i-500-milioni-aggiuntivi-sono-insufficienti-riconvertire-il-voucher-over-75-nel-fondo-sanitario/"
+            },
+            {
+              "testo": "Medici e infermieri hanno proclamato uno sciopero per il 5 dicembre; domani scade il termine per la presentazione degli emendamenti alla manovra, con circa 5.000 attesi.",
+              "fonte": "Today.it",
+              "url": "https://www.today.it/rassegna/start/ultime-notizie-oggi-16-novembre-2026.html"
+            }
+          ],
+          "incerto": [
+            "Non è ancora confermato se i 500 milioni aggiuntivi saranno formalmente inseriti nella manovra, né quale sarà la loro copertura definitiva.",
+            "L'esito del vertice di maggioranza tra Meloni, Tajani, Salvini e Giorgetti previsto tra oggi e domani non è noto."
+          ],
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Juventus lancia aumento di capitale da 200 milioni, Bitcoin ai minimi da 4 mesi a 62.000 dollari",
+          "slug": "juventus-aumento-capitale-bitcoin-minimi-novembre-2026",
+          "tag": [
+            "juventus",
+            "borsa",
+            "bitcoin",
+            "mercati"
+          ],
+          "evidenza": false,
+          "fonte": "SoldiOnline / ANSA",
+          "cerca_url": "https://www.google.com/search?q=Juventus+aumento+capitale+borsa+novembre+2026+Bitcoin+62000",
+          "post_x": "Oggi la Juve chiede soldi agli azionisti: 208 milioni di nuove azioni a 0,96 euro l'una. Sul campo perde, in borsa raccoglie. Intanto Bitcoin crolla a 62.000$. Il mercato ha i suoi criteri. #Juve #Bitcoin",
+          "post_sito": "Due segnali economici affiancati che dicono molto sull'economia dell'attenzione: la Juventus FC avvia oggi un aumento di capitale da oltre 200 milioni di euro — 208.516.998 nuove azioni a 0,96 euro — mentre Bitcoin tocca i minimi da quattro mesi a 62.000 dollari. La squadra bianconera, che continua a galleggiare tra risultati sportivi ondivaghi e conti in rosso strutturali, torna a chiedere denaro fresco ai mercati: è il meccanismo noto — beneficio taciuto — per cui i club calcistici quotati trasferiscono il rischio finanziario dagli azionisti di controllo (Exor/Elkann) ai mercati pubblici, mentre i brand rimangono in mano alla famiglia. Sul fronte crypto, il tonfo di Bitcoin a 62.000 dollari arriva a ridosso dell'apertura dei mercati asiatici già in calo per i timori sull'intelligenza artificiale dopo il caso Nvidia: chi ci guadagna dal panico? Come sempre, chi riesce a comprare durante il ribasso.",
+          "fatti": [
+            {
+              "testo": "Prende il via oggi l'aumento di capitale di Juventus FC: 208.516.998 nuove azioni ordinarie nel rapporto di una ogni 2 azioni detenute, al prezzo di 0,96 euro. L'operazione termina il 1° dicembre 2026.",
+              "fonte": "SoldiOnline",
+              "url": "https://www.soldionline.it/notizie/economia-politica/agenda-economica-del-16-novembre-2026"
+            },
+            {
+              "testo": "Bitcoin scende a 62.000 dollari, raggiungendo i minimi da 4 mesi.",
+              "fonte": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/economia/economia.shtml"
+            },
+            {
+              "testo": "Il FTSEMib apre la settimana in calo dello 0,4% a 51.649 punti, con il settore tecnologico in negativo.",
+              "fonte": "SoldiOnline",
+              "url": "https://www.soldionline.it/notizie/azioni-italia/borsa-italiana-commento-giornata-16-novembre-2026"
+            }
+          ],
+          "incerto": [
+            "L'esito dell'aumento di capitale Juventus dipenderà dall'adesione degli azionisti entro il 1° dicembre 2026.",
+            "L'andamento di Bitcoin nelle prossime sedute è incerto in relazione all'evoluzione del caso Nvidia e al sentiment generale sui mercati tech."
+          ],
+          "editoriale": false,
+          "redattore": "L'Analista 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Sir Perugia vince l'ottava Supercoppa italiana di volley, quinta consecutiva: rimonta epica su Civitanova",
+          "slug": "sir-perugia-ottava-supercoppa-volley-rimonta-civitanova-2026",
+          "tag": [
+            "volley",
+            "sir-perugia",
+            "supercoppa",
+            "pallavolo"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / OA Sport / La Nazione",
+          "cerca_url": "https://www.google.com/search?q=Sir+Perugia+Supercoppa+volley+2026+Civitanova+ottava",
+          "post_x": "Sotto 0-2 e 11-16, la Sir Perugia rimonta e vince l'ottava Supercoppa di volley — la quinta di fila. Record assoluto. Mentre il calcio occupa 16 prime pagine, il volley maschile più titolato d'Italia gioca al PalaRaschi di Parma davanti a un tutto esaurito. #Volley #SirPerugia",
+          "post_sito": "Mentre i quotidiani sportivi riempiono le prime pagine con il 4-1 dell'Italia contro il Belgio in Nations League, la Sir Susa Scai Perugia compie al PalaRaschi di Parma un'impresa che non ha precedenti nella storia della pallavolo italiana: ottava Supercoppa in bacheca, quinta consecutiva, record assoluto staccando Treviso fermo a quota sette. La finale contro la Cucine Lube Civitanova — sotto per 0-2 e 11-16 nel terzo set — è stata ribaltata in oltre due ore e mezza di battaglia, con il tie-break chiuso 15-13. La finale era trasmessa su RaiPlay Sport: nessun abbonamento richiesto per seguire il volley che domina l'Europa e il mondo, campione in carica di scudetto, Champions e Mondiale per club. Il conto dietro la medaglia esiste eccome — Perugia è una realtà sostenuta da un'imprenditoria locale solida e da sponsorizzazioni industriali — ma questa volta la storia parla da sola, senza bisogno di cercare l'ombra.",
+          "fatti": [
+            {
+              "testo": "La Sir Susa Scai Perugia ha vinto la Supercoppa Italiana 2026 di volley maschile battendo la Cucine Lube Civitanova per 3-2 (21-25, 22-25, 25-22, 25-22, 15-13) al PalaRaschi di Parma il 15 novembre.",
+              "fonte": "ANSA",
+              "url": "https://www.ansa.it/umbria/notizie/2026/11/15/sir-susa-scai-perugia-ha-vinto-a-parma-la-supercoppa-di-volley-maschile_e669ee9c-83e2-4050-a6ab-b3f0630ab022.html"
+            },
+            {
+              "testo": "Per Perugia è l'ottava Supercoppa della storia, la quinta consecutiva: il club diventa la squadra più titolata nella storia della competizione, staccando Treviso (7 titoli).",
+              "fonte": "OA Sport",
+              "url": "https://www.oasport.it/2026/11/perugia-inscena-una-rimonta-surreale-e-vince-la-supercoppa-italiana-giannelli-direttore-civitanova-sciupa/amp/"
+            },
+            {
+              "testo": "Durante la finale, Perugia si è trovata sotto 0-2 e 11-16 prima di ribaltare la partita e vincere il tie-break.",
+              "fonte": "La Nazione",
+              "url": "https://www.lanazione.it/umbria/sport/volley-supercoppa-perugia-macerata-ow14gm39"
+            }
+          ],
+          "incerto": [],
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Sciopero generale CGIL il 20 novembre: settimana di mobilitazioni al via oggi",
+          "slug": "sciopero-generale-cgil-20-novembre-2026-settimana-mobilitazioni",
+          "tag": [
+            "sciopero",
+            "cgil",
+            "lavoro",
+            "cooperative"
+          ],
+          "evidenza": false,
+          "fonte": "QuiFinanza / GiornaLeSM",
+          "cerca_url": "https://www.google.com/search?q=sciopero+generale+CGIL+20+novembre+2026",
+          "post_x": "Oggi sciopero cooperative e ANM Napoli. Venerdì sciopero generale CGIL. Sabato sciopero aerei. Una settimana intera di protesta — mentre il Parlamento aspetta 5.000 emendamenti alla manovra. Il dialogo sociale italiano, nella sua forma più espressiva. #ScioperoGenerale",
+          "post_sito": "La settimana che apre si preannuncia come un calendario di mobilitazioni a cadenza quotidiana: oggi sciopero delle cooperative sociali in tutta Italia e dei trasporti pubblici a Napoli (ANM); venerdì 20 novembre lo sciopero generale proclamato dalla CGIL; sabato 22 scioperi locali negli aeroporti. Il tutto si svolge mentre la manovra finanziaria 2027 è nel pieno dell'assalto emendativo — circa 5.000 modifiche attese — e mentre i sindaci segnalano che i fondi per la sanità sono insufficienti. La causa strutturale rimossa nel racconto dominante è semplice: la striscia di scioperi non è un capriccio estivo ma la risposta a una manovra che i lavoratori del pubblico e del sociale leggono come un progressivo svuotamento dei servizi. L'indignazione a costo zero — dei politici che esprimono «comprensione» per le ragioni dei lavoratori senza toccare la sostanza della manovra — è il corollario prevedibile.",
+          "fatti": [
+            {
+              "testo": "Il 16 novembre si fermano le cooperative sociali in tutta Italia e il trasporto pubblico (ANM) a Napoli per l'intera giornata.",
+              "fonte": "QuiFinanza",
+              "url": "https://quifinanza.it/info-utili/scioperi/scioperi-16-22-novembre-2026/1024314"
+            },
+            {
+              "testo": "La CGIL ha proclamato 24 ore di sciopero generale per venerdì 20 novembre, giornata centrale di una settimana di agitazioni nei servizi pubblici e privati.",
+              "fonte": "GiornaLeSM",
+              "url": "https://giornalesm.com/italia-le-5-notizie-di-questa-mattina/"
+            }
+          ],
+          "incerto": [
+            "Non sono noti i livelli di adesione effettiva agli scioperi del 16 novembre nelle cooperative e nei trasporti di Napoli."
+          ],
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Scienza",
+          "titolo": "SpaceX recupera per la prima volta lo stadio superiore di Starship dopo 22 ore in orbita",
+          "slug": "spacex-starship-primo-recupero-orbita-15-novembre-2026",
+          "tag": [
+            "spazio",
+            "spacex",
+            "starship",
+            "elon-musk"
+          ],
+          "evidenza": false,
+          "fonte": "Adnkronos / Washington Post / Il Fatto Quotidiano",
+          "cerca_url": "https://www.google.com/search?q=SpaceX+Starship+primo+recupero+orbita+novembre+2026",
+          "post_x": "SpaceX recupera Starship dall'orbita: impresa storica, certo. Ma la stessa Starship durante il rientro ha sorvolato zone abitate del Texas e del Messico. «Tutto sotto controllo», dice SpaceX. Perché crederle? #Starship #SpaceX",
+          "post_sito": "Il 14-15 novembre 2026 SpaceX ha scritto davvero una pagina di storia: per la prima volta, lo stadio superiore di un razzo orbitale — Starship, 124 metri, il più grande e potente mai costruito — è rientrato intatto dalla missione e stato afferrato dalle braccia meccaniche della torre di lancio a Starbase, Texas, dopo 22 ore e mezza in orbita e il rilascio di 26 satelliti Starlink. Il risultato è tecnico e reale. Ma alcune domande sono altrettanto reali: il rientro ha comportato il sorvolo di zone abitate del Texas e del Messico — SpaceX stessa lo ha ammesso — senza che nessuna autorità indipendente abbia certificato la sicurezza di quelle traiettorie. Il primo stadio Super Heavy, ancora una volta, non è tornato alla torre. E soprattutto: i satelliti Starlink lanciati durante il volo rappresentano il vero motore economico dell'intera operazione. Ogni lancio «storico» è anche un espansione di una costellazione commerciale privata che modifica l'accesso allo spazio orbitale basso — risorsa finita — senza che l'umanità abbia mai votato su chi la gestisce.",
+          "fatti": [
+            {
+              "testo": "Il 15 novembre 2026 SpaceX ha recuperato per la prima volta lo stadio superiore del razzo Starship, dopo circa 22 ore e mezza in orbita, usando le braccia meccaniche della torre di lancio a Starbase, Texas.",
+              "fonte": "Adnkronos",
+              "url": "https://www.adnkronos.com/internazionale/esteri/space-x-starhip-storia_2eSugFL6HXTOUCaHDTxRtN"
+            },
+            {
+              "testo": "Durante il volo — il 15° volo sperimentale del sistema Starship — sono stati rilasciati 26 satelliti Starlink in orbita bassa.",
+              "fonte": "Washington Post",
+              "url": "https://www.washingtonpost.com/technology/2026/11/15/spacex-catches-starship-rocket-return-earth/"
+            },
+            {
+              "testo": "Il primo stadio Super Heavy non è riuscito a tornare alla torre di lancio durante questa missione.",
+              "fonte": "Virgilio",
+              "url": "https://www.virgilio.it/video/spacex-starship-primo-recupero-orbita-torre-lancio-235238"
+            },
+            {
+              "testo": "Il rientro di Starship ha comportato il sorvolo di aree abitate del Texas e del Messico, come ammesso da SpaceX stessa.",
+              "fonte": "Il Fatto Quotidiano",
+              "url": "https://www.ilfattoquotidiano.it/2026/11/15/starship-spacex-recupero-storico-notizie/8572597/"
+            }
+          ],
+          "incerto": [
+            "Il recupero non equivale ancora a riutilizzo immediato del veicolo: i tempi per il rilancio operativo di questo stadio superiore specifico non sono stati comunicati."
+          ],
+          "editoriale": false,
+          "redattore": "Il Metodico 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "AI",
+          "titolo": "Anthropic verso l'IPO al Nasdaq il 19 novembre: valutazione fino a 1.400 miliardi, ma ha perso 104 miliardi in 9 mesi",
+          "slug": "anthropic-ipo-nasdaq-19-novembre-2026-valutazione-1400-miliardi",
+          "tag": [
+            "anthropic",
+            "ipo",
+            "intelligenza-artificiale",
+            "nasdaq"
+          ],
+          "evidenza": false,
+          "fonte": "Il Post / Wall Street Italia / Capitalist.it",
+          "cerca_url": "https://www.google.com/search?q=Anthropic+IPO+Nasdaq+19+novembre+2026+valutazione",
+          "post_x": "Anthropic va in borsa a 1.400 miliardi di dollari. Ha perso 104 miliardi in 9 mesi. I ricavi crescono del 1.200%. Goldman Sachs e Morgan Stanley guidano l'offerta. L'AI è il tulipano del 2026? Domanda aperta. #Anthropic #IPO",
+          "post_sito": "Anthropic — l'azienda che ha costruito Claude, concorrente di ChatGPT, fondata da ex dipendenti di OpenAI preoccupati per la sicurezza dell'AI — si quota al Nasdaq il 19 novembre puntando a una valutazione fino a 1.410 miliardi di dollari. Sarà la prima società dedicata esclusivamente all'AI a debuttare in borsa. I numeri fanno girare la testa in entrambe le direzioni: i ricavi nei primi nove mesi del 2026 sono cresciuti del 1.200% rispetto all'anno precedente, ma la perdita netta nello stesso periodo è di 104 miliardi di dollari. L'operazione è guidata da Goldman Sachs e Morgan Stanley — i mandanti invisibili dietro ogni grande IPO tech — e beneficia di un collocamento privato da 26 miliardi sottoscritto da AMD, Broadcom, Google, Micron, Microsoft, Nvidia e TSMC: le stesse aziende che usano e finanziano Claude sono anche i primi azionisti. Il beneficio taciuto di questa IPO non è per Anthropic — che non ha ancora dimostrato un modello sostenibile — ma per chi ha investito negli ultimi round e incassa la liquidità che il mercato pubblico fornisce. Il coro compatto di analisti entusiasti arriva, come di consueto, poco prima che qualcuno si accorga del prezzo.",
+          "fatti": [
+            {
+              "testo": "Anthropic punta a quotarsi al Nasdaq il 19 novembre 2026 con il ticker ANT, con un'offerta di 825 milioni di azioni a un prezzo indicativo tra 70 e 78 dollari, puntando a una valutazione fino a 1.410 miliardi di dollari.",
+              "fonte": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/10/anthropic-quotazione-borsa-ipo/"
+            },
+            {
+              "testo": "Nei primi nove mesi del 2026 Anthropic ha generato 33,24 miliardi di dollari di ricavi (+1.200% rispetto all'anno prima), ma ha registrato una perdita netta di circa 104 miliardi.",
+              "fonte": "Capitalist.it",
+              "url": "https://capitalist.it/anthropic-ipo-nasdaq-valutazione-ricavi-intelligenza-artificiale/"
+            },
+            {
+              "testo": "L'operazione comprende un collocamento privato da 26 miliardi di dollari riservato a AMD, Broadcom, Google, Micron, Microsoft, Nvidia e TSMC.",
+              "fonte": "Wall Street Italia",
+              "url": "https://www.wallstreetitalia.com/anthropic-scopre-le-carte-sullipo-debutto-al-nasdaq-il-19-novembre/"
+            },
+            {
+              "testo": "L'IPO è guidata da Goldman Sachs e Morgan Stanley; il prezzo definitivo è atteso per il 18 novembre.",
+              "fonte": "Forbes Italia",
+              "url": "https://forbes.it/2026/10/26/anthropic-avvia-ipo-cosa-da-sapere/"
+            }
+          ],
+          "incerto": [
+            "Il prezzo definitivo dell'IPO non è ancora fissato: potrebbe discostarsi dalla forchetta indicativa di 70-78 dollari in base alla domanda degli investitori.",
+            "Non è confermato se la quotazione avverrà effettivamente il 19 novembre o se slitterà per motivi regolatori o di mercato."
+          ],
+          "editoriale": false,
+          "redattore": "Il Futurologo 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Wellness",
+          "titolo": "L'economia del benessere vale 7,5 trilioni di dollari: +49% dal 2019, e punta a 11 trilioni entro il 2030",
+          "slug": "wellness-economy-75-trilioni-dollari-crescita-49-percento-2026",
+          "tag": [
+            "wellness",
+            "economia-benessere",
+            "turismo-benessere",
+            "global-wellness-institute"
+          ],
+          "evidenza": false,
+          "fonte": "Global Wellness Institute / TravelDailyNews / Agenzia di Viaggi Magazine",
+          "cerca_url": "https://www.google.com/search?q=global+wellness+economy+monitor+2026+7.5+trilioni+crescita",
+          "post_x": "L'industria del benessere vale 7,5 trilioni di dollari. Cresce del 49% dal 2019. È più grande dell'industria farmaceutica globale. Volete stare bene? Pagate. Chi ci guadagna? Chi vi vende l'ansia di non star bene abbastanza. #Wellness #WellnessEconomy",
+          "post_sito": "Il Global Wellness Institute ha appena pubblicato il suo rapporto 2026: l'economia globale del benessere ha raggiunto i 7,5 trilioni di dollari nel 2025, con una crescita dell'8,9% in un anno e del 49% dal 2019. È più grande, ci informa il report, dell'industria farmaceutica mondiale. Il dato è reale e va letto con attenzione: l'industria del wellness — dall'immobiliare «wellness-oriented» ai ritiri termali, dai supplementi al mental wellness coaching — è cresciuta quattro volte rispetto al 2013, quando il GWI ha cominciato a misurarla. L'eufemismo di potere qui è il termine stesso «benessere»: un contenitore che racchiude bisogni autentici (salute mentale, longevità, prevenzione) e prodotti costruiti ad hoc per monetizzare l'insicurezza. Il turismo del benessere da solo dovrebbe crescere del 7,1% annuo fino al 2030. L'immobiliare wellness crescerà del 15,3%. Chi ci guadagna? Non tanto chi vuole stare bene — quanto chi vende l'idea che tu non stia ancora abbastanza bene da solo.",
+          "fatti": [
+            {
+              "testo": "Secondo il Global Wellness Economy Monitor 2026 del Global Wellness Institute, il mercato globale del benessere ha raggiunto 7,5 trilioni di dollari nel 2025, con una crescita dell'8,9% rispetto all'anno precedente.",
+              "fonte": "TravelDailyNews",
+              "url": "https://traveldailynews.com/statistics-trends/global-wellness-economy-growth-2030/"
+            },
+            {
+              "testo": "Il mercato del wellness è cresciuto del 49% rispetto al 2019 e potrebbe raggiungere 10,9 trilioni di dollari entro il 2030, con una crescita media annua del 7,7%.",
+              "fonte": "PR Newswire / Global Wellness Institute",
+              "url": "https://www.prnewswire.com/news-releases/the-global-wellness-economy-hits-new-record-of-7-5-trillion-and-is-forecast-to-reach-10-9-trillion-by-2030--302932781.html"
+            },
+            {
+              "testo": "Il settore immobiliare legato al wellness è il comparto a crescita più rapida, con una previsione di +15,3% annuo fino al 2030; il mental wellness segue con +12,6% annuo.",
+              "fonte": "TravelMole",
+              "url": "https://travelmole.com/news/global-wellness-economy-surges-to-a-record-us-7-5-trillion"
+            }
+          ],
+          "incerto": [
+            "Le proiezioni al 2030 (10,9 trilioni) sono stime basate su trend attuali e potrebbero essere influenzate da rallentamenti economici globali o cambiamenti nei comportamenti di consumo."
+          ],
+          "editoriale": false,
+          "redattore": "Il Life Coach 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Cultura",
+          "titolo": "Al via la Milano Music Week 2026: Stefano De Martino apre con il tributo a Ornella Vanoni e svela le novità di Sanremo 2027",
+          "slug": "milano-music-week-2026-de-martino-ornella-vanoni-sanremo-2027",
+          "tag": [
+            "milano-music-week",
+            "musica",
+            "sanremo",
+            "ornella-vanoni"
+          ],
+          "evidenza": false,
+          "fonte": "Il Giorno",
+          "cerca_url": "https://www.google.com/search?q=Milano+Music+Week+2026+De+Martino+Ornella+Vanoni+Sanremo+2027",
+          "post_x": "Inizia la Milano Music Week 2026: tributo a Ornella Vanoni e anticipazioni su Sanremo 2027 da Stefano De Martino. La musica si fa evento, l'evento si fa brand, il brand si fa notizia. Il ciclo è completo. #MilanoMusicWeek #Sanremo2027",
+          "post_sito": "Prende il via oggi la Milano Music Week 2026, diretta da Linus: la prima serata è nel segno di Ornella Vanoni, scomparsa un anno fa a 91 anni, con lo show «Ornella Não Tem Fim» condotto da Nicola Savino. A chiudere la serata, Stefano De Martino che — in quanto conduttore di Sanremo 2027 — svelerà alcune anticipazioni sul Festival. Ecco il meccanismo culturale da osservare: la Milano Music Week nasce come iniziativa dell'industria musicale per promuovere la città come polo del settore, ma il suo motore reale è la moltiplicazione di eventi-vetrina in cui i brand (Linus è anche direttore artistico di Radio DeeJay, gruppo GEDI) incrociano i palcoscenici istituzionali. Il tributo a Vanoni è autentico — è una delle artiste più importanti del Novecento italiano — ma il contesto è una macchina economica che trasforma il lutto culturale in contenuto marketizzabile. E le anticipazioni su Sanremo dal vivo a Milano servono a tenere alta l'attenzione mediatica nei mesi di silenzio tra un Festival e l'altro: il mandante invisibile è sempre la RAI, che gestisce il Festival come asset commerciale e reputazionale.",
+          "fatti": [
+            {
+              "testo": "La Milano Music Week 2026, diretta da Linus, prende il via oggi 16 novembre con lo show «Ornella Não Tem Fim», condotto da Nicola Savino, in tributo a Ornella Vanoni scomparsa a 91 anni il 21 novembre 2025.",
+              "fonte": "Il Giorno",
+              "url": "https://ilgiorno.it/cultura/milano-music-week-2026-programma-prima-giornata-pzo6kbd4"
+            },
+            {
+              "testo": "Stefano De Martino, conduttore di Sanremo 2027, svelerà durante la prima serata della Milano Music Week alcune novità sul Festival.",
+              "fonte": "Il Giorno",
+              "url": "https://ilgiorno.it/cultura/milano-music-week-2026-programma-prima-giornata-pzo6kbd4"
+            }
+          ],
+          "incerto": [
+            "I contenuti specifici delle anticipazioni su Sanremo 2027 che De Martino rivelerà stasera non sono ancora noti."
+          ],
+          "editoriale": false,
+          "redattore": "Il Letterato 1.0",
+          "fatti_verificati": true
+        }
+      ],
+      "controlli": {
+        "url_ricerca": 125,
+        "fatti_proposti": 31,
+        "fatti_scartati": 0,
+        "giorni_corretti": [],
+        "virgolette_riparate": 0
+      }
+    },
+    {
       "data": "2026-11-15",
       "post": [
         {
@@ -6617,193 +7021,7 @@
           "redattore": "Il Letterato 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-10-17",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Trump sospende le sanzioni alla Russia: interesse nazionale o benzina elettorale?",
-          "slug": "trump-sospende-sanzioni-russia-graham-act",
-          "tag": [
-            "trump",
-            "russia",
-            "ucraina",
-            "midterm"
-          ],
-          "evidenza": true,
-          "fonte": "Sky TG24 / Focus America",
-          "cerca_url": "https://www.google.com/search?q=Trump+sospende+sanzioni+Russia+Graham+Act+ottobre+2026",
-          "post_x": "Trump blocca le sanzioni alla Russia pochi giorni prima che entrassero in vigore. Ufficialmente: \"interesse nazionale\". Traduzione: il diesel costa troppo e si vota a novembre. Il Cremlino applaude. Coincidenze. #Trump #Russia #Midterm",
-          "post_sito": "Con un ordine esecutivo firmato venerdì sera, Donald Trump ha sospeso le sanzioni e i dazi sull'export russo previsti dal Graham Act — una legge bipartisan intitolata al senatore appena scomparso — pochi giorni prima della loro entrata in vigore. La motivazione ufficiale è l'\"interesse nazionale\": traduzione più onesta, il provvedimento avrebbe fatto salire il prezzo del diesel a tre settimane dalle elezioni di metà mandato, dove si decide chi controlla il Congresso. Il Cremlino ha applaudito prontamente, mentre Zelensky si rivolge all'Europa come unico baluardo. Il contesto taciuto: il Brent ha toccato i 110 dollari al barile — ai massimi da maggio — e le major petrolifere americane che importano greggio russo stanno beneficiando del vuoto normativo. Chi ci guadagna economicamente lo si legge nel bilancio trimestrale delle compagnie energetiche, non nei comunicati della Casa Bianca. La pace, nel frattempo, aspetta.",
-          "editoriale": true,
-          "prospettive": [
-            {
-              "etichetta": "La posizione dell'amministrazione Trump",
-              "testo": "La Casa Bianca sostiene che la sospensione risponde all'interesse nazionale: le sanzioni avrebbero aumentato il costo dei carburanti per i consumatori americani in un momento economicamente delicato. Trump ha argomentato che abbassare il prezzo del diesel è una priorità concreta per le famiglie, indipendentemente dal contesto geopolitico. L'ordine esecutivo non annulla definitivamente il Graham Act, ma ne congela l'applicazione in attesa di una valutazione."
-            },
-            {
-              "etichetta": "La prospettiva di Kiev e degli alleati europei",
-              "testo": "L'Ucraina e i governi europei considerano la mossa un segnale di cedimento nei confronti di Mosca in un momento critico del conflitto. Zelensky, al Consiglio Europeo di Bruxelles, ha avvertito che senza sostegno adeguato un'escalation russa è probabile e che in caso di caduta ucraina fino a 20 milioni di profughi potrebbero raggiungere l'Europa. Il ministro della Difesa italiano Crosetto ha definito la limitazione dell'accesso ai sistemi satellitari per Kiev un \"grave errore\" da parte degli Stati Uniti."
-            },
-            {
-              "etichetta": "Il nodo economico: chi guadagna",
-              "testo": "Con il Brent a 110 dollari al barile — massimo da maggio — e le sanzioni energetiche sospese, le compagnie di import-export di derivati petroliferi russi operanti negli Stati Uniti si trovano in una finestra normativa favorevole. Analisti di Bloomberg e Financial Times segnalano che i titoli energetici americani hanno parzialmente recuperato nelle sedute successive all'annuncio. La sospensione dura almeno fino a dopo le elezioni di metà mandato di novembre, quando il quadro politico americano potrebbe cambiare significativamente."
-            },
-            {
-              "etichetta": "Il fronte del Congresso",
-              "testo": "Il Graham Act era una legge bipartisan, approvata anche da senatori repubblicani moderati. La sospensione per via esecutiva crea una tensione istituzionale: il Congresso aveva votato il testo proprio per vincolare l'esecutivo. Alcuni senatori repubblicani hanno espresso disagio privato, ma nessuno ha avviato formalmente un'azione di contrasto. Il voto di metà mandato — che si svolge a novembre — rende politicamente difficile qualsiasi opposizione interna al partito."
-            }
-          ],
-          "implicazioni": "Se le elezioni di metà mandato rafforzassero la posizione di Trump al Congresso, la sospensione potrebbe trasformarsi in un'abrogazione definitiva del Graham Act o in una sua riscrittura sostanziale. Per l'Ucraina, il segnale politico è che il sostegno americano è condizionato al calendario elettorale interno agli USA, non alla situazione sul campo. L'Europa potrebbe essere chiamata ad aumentare il proprio contributo militare ed economico per compensare il disimpegno americano — con costi da distribuire tra i bilanci nazionali già sotto pressione.",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "No Meloni Day: 400mila studenti in piazza, tre minorenni arrestati a Torino",
-          "slug": "no-meloni-day-studenti-piazza-scontri-torino",
-          "tag": [
-            "studenti",
-            "proteste",
-            "meloni",
-            "scuola"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Giornale La Voce",
-          "cerca_url": "https://www.google.com/search?q=No+Meloni+Day+studenti+piazza+scontri+Torino+17+ottobre+2026",
-          "post_x": "400mila studenti in piazza, tre minorenni arrestati a Torino, una decina di agenti feriti. Meloni chiede condanna alla sinistra. La sinistra chiede risposte sul caro-affitti. Nel frattempo i tir bloccano il Sud per il caro gasolio. Due Italie, stessa benzina cara. #NoMeloniDay",
-          "post_sito": "Il \"No Meloni Day\" ha portato in piazza — secondo gli organizzatori — oltre 400mila studenti in decine di città italiane: da Torino a Napoli, da Roma a Cagliari. Le richieste: più fondi alla scuola, meno spese militari, caro-affitti, decreto sul tetto agli stranieri. A Torino la situazione è degenerata: sassi e torce di segnalazione contro le forze dell'ordine, idranti e lacrimogeni, tre minorenni arrestati e oltre 50 manifestanti identificati. Il copione della risposta politica è uguale da vent'anni: Meloni chiede condanna alla sinistra, la sinistra chiede risposte agli studenti, nessuno parla di strutturale sotto-finanziamento dell'istruzione pubblica (-0,4% di PIL rispetto alla media OCSE). Il meccanismo è quello della distrazione utile: mentre il dibattito si polarizza sulle violenze di pochi, le richieste di fondo — edilizia scolastica fatiscente, caro-vita, diritto allo studio — restano senza risposta. Da sabato la mobilitazione si estende, con convergenza con lo sciopero CGIL: il costo politico potrebbe crescere più degli idranti.",
-          "editoriale": false,
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Brent a 110 dollari: petrolio ai massimi da maggio mentre l'Italia tratta il decreto bollette con Bruxelles",
-          "slug": "brent-110-dollari-barile-decreto-bollette-ue",
-          "tag": [
-            "petrolio",
-            "bollette",
-            "energia",
-            "inflazione"
-          ],
-          "evidenza": false,
-          "fonte": "Focus America / Il Post",
-          "cerca_url": "https://www.google.com/search?q=Brent+110+dollari+barile+ottobre+2026+decreto+bollette+Italia+Ue",
-          "post_x": "Il Brent a 110 dollari — massimo da maggio. Trump sospende le sanzioni energetiche alla Russia. L'Italia festeggia l'accordo europeo sul decreto bollette. Chi paga la differenza è sempre lo stesso soggetto: il consumatore finale. #energia #bollette #petrolio",
-          "post_sito": "Il Brent ha toccato i 110 dollari al barile — i livelli più alti da maggio 2026 — alimentato dalle tensioni geopolitiche: la guerra russo-ucraina da una parte, la pressione su Teheran dall'altra. Nello stesso giorno, il governo italiano annuncia di aver raggiunto l'accordo con la Commissione Europea sul cosiddetto decreto bollette, presentato come una vittoria. Il contesto omesso: il rincaro dell'energia è strutturalmente alimentato da scelte politiche precise — la mancata diversificazione energetica, la dipendenza da mercati volatili, la lentezza nelle rinnovabili — che nessun decreto a Bruxelles corregge. Chi ci guadagna mentre le famiglie pagano di più? I trader di materie prime energetiche, i fondi speculativi esposti al petrolio e i produttori di gas naturale liquefatto americano, che vendono a prezzi indicizzati al Brent. La Fed americana, intanto, segnala che l'inflazione core è risalita al 2,6%: i tassi difficilmente scenderanno presto, e i mutui a tasso variabile europei continuano a pesare sui bilanci delle famiglie. Il decreto bollette è un cerotto su una ferita strutturale.",
-          "editoriale": false,
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Jonathan Milan oro mondiale nell'inseguimento individuale a Shanghai: l'Italia del ciclismo su pista torna a brillare",
-          "slug": "jonathan-milan-oro-mondiale-ciclismo-pista-shanghai",
-          "tag": [
-            "ciclismo",
-            "mondiali",
-            "pista",
-            "milan"
-          ],
-          "evidenza": false,
-          "fonte": "Sky Sport / Eurosport",
-          "cerca_url": "https://www.google.com/search?q=Jonathan+Milan+oro+mondiale+inseguimento+individuale+Shanghai+2026",
-          "post_x": "Jonathan Milan oro mondiale nell'inseguimento individuale a Shanghai, con record del mondo. Filippo Ganna bronzo. L'Italia del ciclismo su pista è quarta nel medagliere: 1 oro, 2 argenti, 1 bronzo. Uno sport che esiste anche fuori da luglio. #Mondiali #Ciclismo #Milan",
-          "post_sito": "Jonathan Milan ha vinto il titolo mondiale nell'inseguimento individuale ai Mondiali di ciclismo su pista di Shanghai, battendo il danese Madsen e firmando il record del mondo nella sessione del mattino. Filippo Ganna ha conquistato il bronzo nella stessa gara, completando una doppietta azzurra che riporta l'Italia al quarto posto nel medagliere generale. È una vittoria che vale più di quel che sembra: il ciclismo su pista è uno degli sport più tecnici e meno mediatizzati d'Italia, capace di raccogliere attenzione solo in prossimità dei Giochi olimpici. Eppure la pista è la fucina dove si forgiano i campioni della strada — Milan e Ganna saranno compagni alla Lidl-Trek dal 2027 — e Shanghai 2026 è una tappa nel percorso verso Los Angeles 2028. Le gare si possono seguire in diretta su Discovery+ e HBO Max, ma non su canali gratuiti generalisti: l'invisibilità mediatica di questi sport è, anche, una scelta industriale.",
-          "editoriale": false,
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "RSA abusiva a Taranto: anziani maltrattati e derubati, tre ai domiciliari e 300mila euro sequestrati",
-          "slug": "rsa-abusiva-taranto-anziani-maltrattati-nas",
-          "tag": [
-            "anziani",
-            "rsa",
-            "maltrattamenti",
-            "taranto"
-          ],
-          "evidenza": false,
-          "fonte": "TGCom24 / Fanpage",
-          "cerca_url": "https://www.google.com/search?q=RSA+abusiva+Taranto+anziani+maltrattati+NAS+arresti+2026",
-          "post_x": "Taranto: RSA abusiva, anziani con gravi patologie lasciati senza cure, maltrattati e derubati dei risparmi. Tre ai domiciliari, sequestri per 300mila euro. Non è una notizia nuova: è una notizia ricorrente. Il sistema è il problema. #anziani #RSA #cronaca",
-          "post_sito": "I Carabinieri del NAS di Taranto hanno scoperto una residenza per anziani completamente abusiva, priva di qualsiasi autorizzazione, gestita da un uomo che si spacciava per operatore socio-sanitario senza titolo alcuno. Gli ospiti — tutti con gravi patologie fisiche e psichiche certificate — venivano maltrattati, lasciati senza assistenza medica e derubati sistematicamente dei propri risparmi: in un caso documentato, oltre 40mila euro sottratti a un singolo anziano. Tre persone sono agli arresti domiciliari, una quarta indagata per ricettazione; sequestrati beni per oltre 300mila euro. La presunzione di innocenza rimane, in attesa di giudizio definitivo. Il punto che il coro mediatico tende a omettere è la causa strutturale: ogni anno i NAS scoprono decine di strutture simili in tutta Italia. Il motivo è che la domanda di assistenza agli anziani cresce — l'Italia ha la seconda popolazione più vecchia d'Europa — mentre l'offerta pubblica di RSA autorizzate è cronicamente insufficiente e le liste d'attesa spingono le famiglie verso il mercato grigio. Il villain di oggi è il gestore abusivo. Il mandante invisibile è un sistema che non investe abbastanza nell'assistenza agli anziani non autosufficienti.",
-          "editoriale": false,
-          "redattore": "L'Osservatore 1.0"
-        },
-        {
-          "categoria": "Scienza",
-          "titolo": "Microplastiche nell'acqua: uno studio su Nature svela che reagiscono con l'acqua stessa producendo specie ossidanti",
-          "slug": "microplastiche-acqua-reazione-chimica-nature-2026",
-          "tag": [
-            "microplastiche",
-            "acqua",
-            "salute",
-            "inquinamento"
-          ],
-          "evidenza": false,
-          "fonte": "Mondo Sanità / Scienze Notizie",
-          "cerca_url": "https://www.google.com/search?q=microplastiche+acqua+reazione+chimica+Nature+ottobre+2026",
-          "post_x": "Uno studio su Nature: le microplastiche non se ne stanno ferme nell'acqua — reagiscono, producendo specie ossidanti potenzialmente dannose per le cellule. Nel frattempo l'industria della plastica fattura 600 miliardi l'anno. Buona fortuna con il bollitore. #microplastiche #salute",
-          "post_sito": "Uno studio pubblicato su Nature il 14 ottobre 2026 (Qian et al.) rivela un comportamento inatteso delle microplastiche: a contatto con l'acqua, sulla loro superficie si generano specie reattive dell'ossigeno — sostanze chimiche potenzialmente in grado di danneggiare le cellule biologiche. Non è più solo una questione di ingerire particelle di plastica: la plastica reagisce attivamente con l'ambiente acquatico. Il tempismo è interessante: nello stesso periodo circola ampiamente la notizia — basata su uno studio cinese del 2024 pubblicato su Environmental Science & Technology Letters — che bollire e filtrare l'acqua del rubinetto riduce le microplastiche fino al 90% nei test di laboratorio. Il condizionale è d'obbligo: quell'efficacia vale principalmente per acque molto dure, e i risultati derivano da prove in vitro, non da condizioni d'uso quotidiane reali. Chi ci guadagna dall'attenzione mediatica concentrata su soluzioni individuali (bollire l'acqua, comprare filtri) piuttosto che su soluzioni sistemiche (ridurre la produzione di plastica monouso)? L'industria dei sistemi di filtrazione domestica, che in Europa vale miliardi. La fonte del problema — la produzione globale di plastica — resta fuori dal dibattito pubblico.",
-          "editoriale": false,
-          "redattore": "Il Metodico 1.0"
-        },
-        {
-          "categoria": "AI",
-          "titolo": "Getty Images verso il Chapter 11: la narrazione «è colpa dell'IA» nasconde 2,1 miliardi di debiti e una fusione fallita",
-          "slug": "getty-images-bancarotta-chapter-11-ia-debiti",
-          "tag": [
-            "getty-images",
-            "intelligenza-artificiale",
-            "bancarotta",
-            "fotografia"
-          ],
-          "evidenza": false,
-          "fonte": "FotoCult / Rivista AI / Startmag",
-          "cerca_url": "https://www.google.com/search?q=Getty+Images+bancarotta+Chapter+11+ottobre+2026",
-          "post_x": "Getty Images verso il Chapter 11. Titoli: \"è colpa dell'IA\". Realtà: 2,1 miliardi di debiti, fusione da 3,7 miliardi con Shutterstock saltata per veto antitrust, 108 milioni bruciati in consulenze. L'IA è il villain di comodo. #Getty #AI #bancarotta",
-          "post_sito": "Getty Images ha annunciato l'avvio di una procedura di Chapter 11 negli USA — la bancarotta concordata che permette di ristrutturare i debiti continuando a operare — con un piano da 533 milioni di dollari sostenuto dalla famiglia Getty e da Koch Equity Development. La narrazione dominante attribuisce il collasso alla pressione dell'intelligenza artificiale generativa, che avrebbe eroso il mercato delle immagini stock. È una spiegazione comoda e parziale. I numeri veri: 2,1 miliardi di dollari di debito accumulato, una fusione da 3,7 miliardi con Shutterstock naufragata per veto dell'antitrust britannico, 108 milioni bruciati in spese di consulenza e preparazione dell'operazione, 17 milioni spesi in cause contro Stability AI senza ottenere risultati significativi. L'IA è il villain di comodo: scarica su una tecnologia esterna la responsabilità di scelte strategiche e finanziarie discutibili. Chi ci guadagna dalla ristrutturazione? Koch Equity Development, che entra nel capitale di un asset dal forte brand globale a condizioni favorevoli — pagando, in sostanza, il prezzo di un'azienda a pezzi per rilevarne la rete e i contenuti. I fotografi, nel frattempo, attendono di sapere se i loro contratti saranno onorati.",
-          "editoriale": false,
-          "redattore": "Il Futurologo 1.0"
-        },
-        {
-          "categoria": "Wellness",
-          "titolo": "L'opinione pubblica mondiale si fida sempre meno dell'IA, ma i mercati continuano a scommetterci: il paradosso del consenso a metà",
-          "slug": "ia-opinione-pubblica-fiducia-calo-mercati-sondaggio",
-          "tag": [
-            "intelligenza-artificiale",
-            "fiducia",
-            "industria-tech",
-            "benessere-digitale"
-          ],
-          "evidenza": false,
-          "fonte": "Il Grand Continent",
-          "cerca_url": "https://www.google.com/search?q=intelligenza+artificiale+opinione+pubblica+fiducia+sondaggio+2026",
-          "post_x": "Sondaggio FGS Global in 7 paesi: l'opinione pubblica si fida sempre meno dell'IA. Le aziende tech capitalizzano record. I giovani sono i più favorevoli — fino a quando l'IA non li sostituisce. L'industria del benessere digitale intanto vende app anti-ansia da smartphone. #AI #fiducia",
-          "post_sito": "Un sondaggio condotto da FGS Global in sette paesi rivela che l'intelligenza artificiale sta perdendo il sostegno dell'opinione pubblica mondiale proprio mentre le capitalizzazioni di mercato delle aziende del settore raggiungono livelli record e rappresentano una quota crescente della crescita del PIL americano. Il paradosso è istruttivo: i mercati scommettono sull'IA, i cittadini la temono sempre di più. Chi è più favorevole? I giovani con redditi alti e competenze digitali sviluppate — esattamente la categoria più esposta alla sostituzione lavorativa nel medio periodo. L'industria del wellness digitale — app di mindfulness, strumenti anti-burnout, piattaforme di coaching — continua a vendere soluzioni individuali all'ansia collettiva generata, tra le altre cose, dall'automazione del lavoro. Il bersaglio della satira non è chi scarica un'app per dormire meglio: è l'industria che monetizza l'ansia che essa stessa alimenta, mentre i suoi lobbisti a Bruxelles rallentano le regolamentazioni sull'AI Act. Il decreto italiano di recepimento dell'AI Act europeo (D.lgs. 179/2026) è stato pubblicato in Gazzetta Ufficiale e entra in vigore il 23 ottobre: per i cittadini cambia poco nel breve termine, per le aziende inizia la corsa alla compliance.",
-          "editoriale": false,
-          "redattore": "Il Life Coach 1.0"
-        },
-        {
-          "categoria": "Cultura",
-          "titolo": "Getty Images crolla, i fotografi tremano: quando l'archivio del Novecento finisce in mano a un fondo",
-          "slug": "getty-images-fotografia-cultura-visiva-koch-equity",
-          "tag": [
-            "fotografia",
-            "cultura-visiva",
-            "industria",
-            "getty"
-          ],
-          "evidenza": false,
-          "fonte": "FotoCult / Editorialeitaliano.it",
-          "cerca_url": "https://www.google.com/search?q=Getty+Images+fotografi+cultura+visiva+ristrutturazione+2026",
-          "post_x": "Getty Images va in Chapter 11. La famiglia Getty e Koch Equity rilevano tutto. Trent'anni di memoria visiva globale — guerre, presidenti, cataclismi — finiscono nella cassaforte di un fondo d'investimento. I fotografi aspettano i pagamenti. L'arte aspetta il tribunale. #Getty #fotografia",
-          "post_sito": "La bancarotta concordata di Getty Images non è solo una storia di finanza: è una storia culturale. Getty custodisce decenni di fotogiornalismo globale — conflitti, migrazioni, personaggi storici, momenti che hanno definito la memoria visiva collettiva del Novecento e del Duemila. Quella memoria transiterà, attraverso la procedura del Chapter 11, sotto il controllo congiunto della famiglia Getty e di Koch Equity Development, società d'investimento del magnate Charles Koch, tradizionalmente lontano dagli ambienti artistici e molto vicino ai settori estrattivi e manifatturieri. Il valore economico degli archivi è indiscutibile — ma il mandante invisibile di questa operazione non è l'intelligenza artificiale, come la narrazione dominante vuole: è la struttura di un mercato in cui i prodotti culturali vengono valutati esclusivamente come asset finanziari. I fotografi contribuenti, nel frattempo, sono stati rassicurati: i contratti saranno onorati. Per ora. La storia delle ristrutturazioni insegna che \"per ora\" è la durata media di molte promesse fatte in sede di Chapter 11.",
-          "editoriale": false,
-          "redattore": "Il Letterato 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-11-15T08:21:00.965758+00:00"
+  "ultimo_aggiornamento": "2026-11-16T08:21:24.801207+00:00"
 }
