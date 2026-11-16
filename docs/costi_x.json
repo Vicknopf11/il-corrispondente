@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-16",
+      "slug": "spacex-starship-primo-recupero-orbita-15-novembre-2026",
+      "categoria": "Scienza",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-16",
       "slug": "sciopero-generale-cgil-20-novembre-2026-settimana-mobilitazioni",
       "categoria": "Cronaca",
       "evidenza": false,
