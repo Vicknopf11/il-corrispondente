@@ -1,30 +1,6 @@
 {
-  "generato": "2026-11-16T12:31:07.421553+00:00",
+  "generato": "2026-11-16T18:31:03.847092+00:00",
   "item": [
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Pétanque, ecco la nuova Serie A: regole e protagonisti del 2026-2027",
-      "link": "https://www.gazzetta.it/bocce/12-11-2026/petanque-ecco-la-nuova-serie-a-regole-e-protagonisti-del-2026-2027.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-11-12"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Braathen accende lo slalom di Levi: secondo trionfo di fila. Rimontona Vinatzer: è quinto",
-      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/Coppa-Mondo-Sci/15-11-2026/sci-alpino-slalom-levi-risultati.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-11-15"
-    },
-    {
-      "sottocategoria": "Combattimento",
-      "tipo": "notizia",
-      "titolo": "Ike Ibeabuchi: ascesa e caduta di \"The President\", sconfitto solo dal nemico interiore",
-      "link": "https://www.gazzetta.it/Sport-Vari/11-11-2026/ike-ibeabuchi-ascesa-e-caduta-di-the-president.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-11-11"
-    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
@@ -40,6 +16,30 @@
       "link": "https://www.gazzetta.it/Rugby/14-11-2026/rugby-nations-championship-galles-nuova-zelanda-35-28-francia-sudafrica-21-19.shtml",
       "fonte": "Gazzetta — Rugby",
       "data_evento": "2026-11-14"
+    },
+    {
+      "sottocategoria": "Atletica",
+      "tipo": "notizia",
+      "titolo": "Battocletti: \"Voglio la tripletta. Il mio motore cresce ogni anno, vado sempre più veloce\"",
+      "link": "https://www.gazzetta.it/Atletica/16-11-2026/nadia-battocletti-intervista-voglio-la-tripletta-il-mio-motore-cresce-ogni-anno.shtml",
+      "fonte": "Gazzetta — Atletica",
+      "data_evento": "2026-11-16"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "LIVE Atp Finals: Alle 20.30 Cobolli scende in campo contro Medvedev",
+      "link": "https://www.gazzetta.it/Tennis/ATP/16-11-2026/cobolli-medvedev-atp-finals-live-diretta-risultato.shtml",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-11-16"
+    },
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Pétanque, ecco la nuova Serie A: regole e protagonisti del 2026-2027",
+      "link": "https://www.gazzetta.it/bocce/12-11-2026/petanque-ecco-la-nuova-serie-a-regole-e-protagonisti-del-2026-2027.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-11-12"
     }
   ]
 }
