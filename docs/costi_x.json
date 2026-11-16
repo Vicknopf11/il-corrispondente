@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-16",
+      "slug": "wellness-economy-75-trilioni-dollari-crescita-49-percento-2026",
+      "categoria": "Wellness",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-16",
       "slug": "anthropic-ipo-nasdaq-19-novembre-2026-valutazione-1400-miliardi",
       "categoria": "AI",
       "evidenza": false,
