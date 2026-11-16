@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-16",
+      "slug": "milano-music-week-2026-de-martino-ornella-vanoni-sanremo-2027",
+      "categoria": "Cultura",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-16",
       "slug": "wellness-economy-75-trilioni-dollari-crescita-49-percento-2026",
       "categoria": "Wellness",
       "evidenza": false,
