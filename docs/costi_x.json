@@ -1,6 +1,14 @@
 {
   "pubblicazioni": [
     {
+      "data": "2026-11-16",
+      "slug": "vertice-trilaterale-trump-xi-putin-shenzhen-novembre-2026",
+      "categoria": "Politica Internazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
       "data": "2026-11-15",
       "slug": "elisa-30-anni-album-kintsugi-che-tempo-che-fa",
       "categoria": "Cultura",
