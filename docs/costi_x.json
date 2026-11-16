@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-16",
+      "slug": "manovra-2027-regioni-sanita-500-milioni-insufficienti",
+      "categoria": "Politica Nazionale",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-16",
       "slug": "vertice-trilaterale-trump-xi-putin-shenzhen-novembre-2026",
       "categoria": "Politica Internazionale",
       "evidenza": true,
