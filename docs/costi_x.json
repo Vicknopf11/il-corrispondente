@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-17",
+      "slug": "robert-pattinson-nuovo-james-bond-007-amazon-mgm-villeneuve",
+      "categoria": "Cultura",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-17",
       "slug": "wellness-foundation-medici-esercizio-fisico-ssn-arretra",
       "categoria": "Wellness",
       "evidenza": false,
