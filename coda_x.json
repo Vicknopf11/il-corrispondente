@@ -1,77 +1,77 @@
 {
-  "data": "2026-11-16",
+  "data": "2026-11-17",
   "tweet": [
     {
-      "testo": "Trump, Xi e Putin finalmente nello stesso stanza. L'Ucraina esclusa dall'ordine del giorno. L'Europa, che si batte da anni per contare qualcosa, non è nemmeno invitata al tavolo. #VerticeShenzhen",
-      "url": "https://corrispondente.filoclastos.it/2026/11/16/vertice-trilaterale-trump-xi-putin-shenzhen-novembre-2026/",
-      "slug": "vertice-trilaterale-trump-xi-putin-shenzhen-novembre-2026",
+      "testo": "Trump, Putin e Xi si siedono allo stesso tavolo il 19 novembre a Shenzhen. L'Europa aspetta fuori dalla porta. Qualcuno le chiederà scusa dopo. #Shenzhen #Geopolitica",
+      "url": "https://corrispondente.filoclastos.it/2026/11/17/vertice-trilaterale-trump-putin-xi-shenzhen-novembre-2026/",
+      "slug": "vertice-trilaterale-trump-putin-xi-shenzhen-novembre-2026",
       "categoria": "Politica Internazionale",
       "evidenza": true,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Il governo offre 500 mln alla sanità. Le Regioni rispondono: «Palesemente insufficiente». Nel frattempo 1,6 miliardi vanno ai voucher sanitari privati over-75. Chi ci guadagna? Domanda retorica. #Manovra2027",
-      "url": "https://corrispondente.filoclastos.it/2026/11/16/manovra-2027-regioni-sanita-500-milioni-insufficienti/",
-      "slug": "manovra-2027-regioni-sanita-500-milioni-insufficienti",
+      "testo": "FdI vuole riaprire il condono del 2003 per la Campania. 50mila ordinanze di abbattimento in sospeso. La scadenza per gli emendamenti è oggi alle 18. Puntualità italiana. #Manovra2027",
+      "url": "https://corrispondente.filoclastos.it/2026/11/17/condono-edilizio-fdi-manovra-2027-campania/",
+      "slug": "condono-edilizio-fdi-manovra-2027-campania",
       "categoria": "Politica Nazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Oggi la Juve chiede soldi agli azionisti: 208 milioni di nuove azioni a 0,96 euro l'una. Sul campo perde, in borsa raccoglie. Intanto Bitcoin crolla a 62.000$. Il mercato ha i suoi criteri. #Juve #Bitcoin",
-      "url": "https://corrispondente.filoclastos.it/2026/11/16/juventus-aumento-capitale-bitcoin-minimi-novembre-2026/",
-      "slug": "juventus-aumento-capitale-bitcoin-minimi-novembre-2026",
+      "testo": "Nel 2025 gli italiani hanno pagato di tasca propria 49,2 miliardi per curarsi (+6,1%). Dal 2016 la spesa privata è cresciuta del 75%, quella pubblica del 27,5%. Non è un dato: è una politica. #Sanità",
+      "url": "https://corrispondente.filoclastos.it/2026/11/17/spesa-sanitaria-privata-50-miliardi-ssn-2026/",
+      "slug": "spesa-sanitaria-privata-50-miliardi-ssn-2026",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Sotto 0-2 e 11-16, la Sir Perugia rimonta e vince l'ottava Supercoppa di volley — la quinta di fila. Record assoluto. Mentre il calcio occupa 16 prime pagine, il volley maschile più titolato d'Italia gioca al PalaRaschi di Parma davanti a un tutto esaurito. #Volley #SirPerugia",
-      "url": "https://corrispondente.filoclastos.it/2026/11/16/sir-perugia-ottava-supercoppa-volley-rimonta-civitanova-2026/",
-      "slug": "sir-perugia-ottava-supercoppa-volley-rimonta-civitanova-2026",
+      "testo": "Stasera alle 20:30 Zverev sfida Shelton alle ATP Finals di Torino. Ieri Cobolli ha ceduto a Medvedev 7-6, 6-3 al debutto. Il torneo più ricco dello sport di racchetta si gioca sulla porta di casa. Seguilo su Sky e Italia 1. #ATPFinals",
+      "url": "https://corrispondente.filoclastos.it/2026/11/17/atp-finals-torino-2026-zverev-shelton-cobolli/",
+      "slug": "atp-finals-torino-2026-zverev-shelton-cobolli",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Oggi sciopero cooperative e ANM Napoli. Venerdì sciopero generale CGIL. Sabato sciopero aerei. Una settimana intera di protesta — mentre il Parlamento aspetta 5.000 emendamenti alla manovra. Il dialogo sociale italiano, nella sua forma più espressiva. #ScioperoGenerale",
-      "url": "https://corrispondente.filoclastos.it/2026/11/16/sciopero-generale-cgil-20-novembre-2026-settimana-mobilitazioni/",
-      "slug": "sciopero-generale-cgil-20-novembre-2026-settimana-mobilitazioni",
+      "testo": "Revolut commissariata per un anno a Milano. I pm: falle antiriciclaggio su 76,5 milioni, con clienti indagati per mafia. L'app «per ragazzi» aveva costruito un modello gestionale stabile per non fare domande. #Revolut #Mafia",
+      "url": "https://corrispondente.filoclastos.it/2026/11/17/revolut-commissariata-milano-antiriciclaggio-mafia-2026/",
+      "slug": "revolut-commissariata-milano-antiriciclaggio-mafia-2026",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "SpaceX recupera Starship dall'orbita: impresa storica, certo. Ma la stessa Starship durante il rientro ha sorvolato zone abitate del Texas e del Messico. «Tutto sotto controllo», dice SpaceX. Perché crederle? #Starship #SpaceX",
-      "url": "https://corrispondente.filoclastos.it/2026/11/16/spacex-starship-primo-recupero-orbita-15-novembre-2026/",
-      "slug": "spacex-starship-primo-recupero-orbita-15-novembre-2026",
+      "testo": "77 Nobel scrivono all'UE: «Dateci 200 miliardi per la ricerca 2028-2034». Bruxelles ne aveva proposti 175, poi tagliati a 158. La risposta ufficiale: silenzio. #Scienza #Europa",
+      "url": "https://corrispondente.filoclastos.it/2026/11/17/77-nobel-ue-200-miliardi-ricerca-2028-2034/",
+      "slug": "77-nobel-ue-200-miliardi-ricerca-2028-2034",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Anthropic va in borsa a 1.400 miliardi di dollari. Ha perso 104 miliardi in 9 mesi. I ricavi crescono del 1.200%. Goldman Sachs e Morgan Stanley guidano l'offerta. L'AI è il tulipano del 2026? Domanda aperta. #Anthropic #IPO",
-      "url": "https://corrispondente.filoclastos.it/2026/11/16/anthropic-ipo-nasdaq-19-novembre-2026-valutazione-1400-miliardi/",
-      "slug": "anthropic-ipo-nasdaq-19-novembre-2026-valutazione-1400-miliardi",
+      "testo": "Stasera Nvidia presenta i conti senza Jensen Huang per la prima volta dalla fondazione. Ricavi attesi a 109 mld. Il titolo ha perso oltre il 40% dal massimo storico. Il re è nudo o solo in trasferta? #Nvidia #AI",
+      "url": "https://corrispondente.filoclastos.it/2026/11/17/nvidia-trimestrale-novembre-2026-senza-huang/",
+      "slug": "nvidia-trimestrale-novembre-2026-senza-huang",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "L'industria del benessere vale 7,5 trilioni di dollari. Cresce del 49% dal 2019. È più grande dell'industria farmaceutica globale. Volete stare bene? Pagate. Chi ci guadagna? Chi vi vende l'ansia di non star bene abbastanza. #Wellness #WellnessEconomy",
-      "url": "https://corrispondente.filoclastos.it/2026/11/16/wellness-economy-75-trilioni-dollari-crescita-49-percento-2026/",
-      "slug": "wellness-economy-75-trilioni-dollari-crescita-49-percento-2026",
+      "testo": "La Wellness Foundation investe nella formazione dei medici sull'esercizio fisico. Lodevole. Ma mentre il SSN arretra e la spesa privata supera i 49 miliardi, il «benessere» diventa un mercato. Chi non se lo può permettere resta fuori. #Wellness",
+      "url": "https://corrispondente.filoclastos.it/2026/11/17/wellness-foundation-medici-esercizio-fisico-ssn-arretra/",
+      "slug": "wellness-foundation-medici-esercizio-fisico-ssn-arretra",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Inizia la Milano Music Week 2026: tributo a Ornella Vanoni e anticipazioni su Sanremo 2027 da Stefano De Martino. La musica si fa evento, l'evento si fa brand, il brand si fa notizia. Il ciclo è completo. #MilanoMusicWeek #Sanremo2027",
-      "url": "https://corrispondente.filoclastos.it/2026/11/16/milano-music-week-2026-de-martino-ornella-vanoni-sanremo-2027/",
-      "slug": "milano-music-week-2026-de-martino-ornella-vanoni-sanremo-2027",
+      "testo": "Robert Pattinson è il nuovo James Bond. Amazon MGM ha deciso. Denis Villeneuve dirige. La notizia culturale del decennio o il lancio del prodotto più redditizio di Hollywood? Entrambe le cose, probabilmente. #Bond26 #007",
+      "url": "https://corrispondente.filoclastos.it/2026/11/17/robert-pattinson-nuovo-james-bond-007-amazon-mgm-villeneuve/",
+      "slug": "robert-pattinson-nuovo-james-bond-007-amazon-mgm-villeneuve",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }

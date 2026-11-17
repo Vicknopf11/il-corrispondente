@@ -1,6 +1,422 @@
 {
   "edizioni": [
     {
+      "data": "2026-11-17",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Vertice trilaterale Trump-Putin-Xi a Shenzhen: il 19 novembre il mondo si riscrive senza l'Europa",
+          "slug": "vertice-trilaterale-trump-putin-xi-shenzhen-novembre-2026",
+          "tag": [
+            "geopolitica",
+            "shenzhen",
+            "apec",
+            "ucraina"
+          ],
+          "evidenza": true,
+          "fonte": "AGI / Sky TG24",
+          "cerca_url": "https://www.google.com/search?q=vertice+trilaterale+Trump+Putin+Xi+Shenzhen+19+novembre+2026",
+          "post_x": "Trump, Putin e Xi si siedono allo stesso tavolo il 19 novembre a Shenzhen. L'Europa aspetta fuori dalla porta. Qualcuno le chiederà scusa dopo. #Shenzhen #Geopolitica",
+          "post_sito": "Giovedì 19 novembre a Shenzhen, a margine dell'APEC, si terrà il primo vertice trilaterale nella storia tra i presidenti di Stati Uniti, Cina e Russia. L'Europa — quella che finanzia la guerra in Ucraina, ospita i rifugiati, paga le sanzioni e compra il gas a prezzo di emergenza — non è stata invitata. Pechino ha definito l'appuntamento «di portata storica» e ha incassato la vittoria più importante: collocarsi al centro del nuovo ordine mondiale senza sparare un colpo. Chi ci guadagna? Xi Jinping, che trasforma la Cina in arbitro universale mentre Washington e Mosca arrancano entrambe — Trump indebolito dalle elezioni di midterm e dallo scandalo Nvidia, Putin alla ricerca di legittimazione internazionale. Chi perde? L'Europa, che finanzia l'Ucraina con decine di miliardi ma viene esclusa dalla stanza dove si decide il suo destino. Il contesto rimosso: l'idea del trilaterale non è nata a Pechino ma a Mosca, e da settembre è stato il Cremlino a tenerla in vita — dettaglio che illumina chi ha più fretta di trovare un'uscita e a quale prezzo.",
+          "fatti": [
+            {
+              "testo": "Il ministero degli Esteri cinese ha confermato che Xi Jinping, Donald Trump e Vladimir Putin si incontreranno il 19 novembre a Shenzhen a margine dell'APEC 2026.",
+              "fonte": "AGI",
+              "url": "https://www.agi.it/estero/news/2026-11-16/vertice-trilaterale-xi-trump-putin-40044321/"
+            },
+            {
+              "testo": "È il primo vertice trilaterale tra i tre leader; l'incontro si svolge a margine del 34° vertice dell'Asia-Pacific Economic Cooperation.",
+              "fonte": "Sky TG24",
+              "url": "https://tg24.sky.it/mondo/2026/11/16/xi-trump-putin-incontro-apec-2026-cina-shenzhen"
+            },
+            {
+              "testo": "Il Washington Post descrive Trump come indebolito dalla sconfitta repubblicana alle elezioni di midterm e dallo scandalo Nvidia prima del vertice.",
+              "fonte": "Quotidiano dei Contribuenti",
+              "url": "https://www.quotidianocontribuenti.com/rassegna-stampa-internazionale-martedi-17-novembre-2026/"
+            },
+            {
+              "testo": "L'idea del formato trilaterale sarebbe nata in Russia su proposta di Putin a Trump, e da settembre il Cremlino l'ha tenuta in vita.",
+              "fonte": "Tra Cielo e Terra / ISPI",
+              "url": "https://www.tracieloeterra.blog/asia-e-oceania/shenzhen-vertice-a-tre-senza-leuropa/"
+            },
+            {
+              "testo": "La portavoce cinese Mao Ning ha dichiarato che i tre leader discuteranno della «salvaguardia della pace mondiale» e della «promozione della stabilità strategica».",
+              "fonte": "Insider.sm",
+              "url": "https://insider.sm/xi-trump-e-putin-pechino-annuncia-un-vertice-a-tre-il-19-novembre-a-shenzhen/"
+            }
+          ],
+          "incerto": [
+            "L'agenda dettagliata del vertice non è stata resa nota: non è chiaro se l'Ucraina sarà ufficialmente discussa (il presidente tedesco Steinmeier riferisce irritazione di Xi quando il tema è stato evocato).",
+            "Non è confermato se Trump incontrerà effettivamente Kim Jong-un a margine del vertice, come da lui stesso ipotizzato."
+          ],
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La posizione di Washington",
+              "testo": "Trump arriva al vertice in una posizione negoziale indebolita: il Partito Repubblicano ha subito una sconfitta alle elezioni di midterm di novembre e il caso Nvidia — con le dimissioni del fondatore Jensen Huang e le restrizioni sui chip avanzati verso la Cina — ha turbato i mercati e reso più complicata la sua agenda commerciale con Pechino. L'obiettivo americano dichiarato è prolungare la tregua commerciale con la Cina, coinvolgere Mosca e Pechino nel controllo degli armamenti e ottenere progressi sul dossier iraniano. Secondo il Washington Post, però, Xi e Putin avrebbero pochi motivi per concedere a Trump una vittoria diplomatica che si traduca in consenso interno."
+            },
+            {
+              "etichetta": "Il calcolo di Pechino",
+              "testo": "La Cina ottiene dal vertice un vantaggio politico indipendentemente dai risultati concreti: si posiziona come potenza mediatrice tra i due rivali storici, rafforza la narrativa di un ordine mondiale multipolare e guadagna visibilità internazionale come sede e convocatrice. Il fatto che l'incontro si tenga a Shenzhen — vetrina tecnologica cinese — non è privo di significato simbolico. Xi ha tuttavia mostrato irritazione quando l'Ucraina è stata associata ai colloqui, preferendo limitare il confronto a questioni di «stabilità strategica» più generali."
+            },
+            {
+              "etichetta": "L'Europa esclusa",
+              "testo": "L'Unione Europea e in particolare l'Alto Rappresentante per la Politica Estera Kaja Kallas non sono state incluse nel formato trilaterale. Bruxelles ha annunciato nuove sanzioni alla Russia e continua a sostenere l'Ucraina con aiuti militari ed economici, ma rischia di trovarsi di fronte a un accordo negoziato tra le tre potenze senza poter condizionarne i termini. La Germania esprime preoccupazione che Putin ottenga legittimazione internazionale senza offrire concessioni concrete sul conflitto ucraino."
+            },
+            {
+              "etichetta": "Il nodo Ucraina",
+              "testo": "Putin arriva al vertice dopo i colloqui di Abu Dhabi del 10 e 11 novembre, i primi tra Russia e Ucraina con mediazione americana da febbraio. Nel frattempo, le forze russe hanno colpito due ponti a Kiev e un raid ucraino ha provocato un incendio nel complesso petrolchimico di Gazprom a Salavat. L'eventuale trattativa sull'Ucraina a Shenzhen si svolgerebbe quindi in un contesto di guerra attiva, con Kiev e l'UE formalmente fuori dalla stanza."
+            }
+          ],
+          "implicazioni": "Se il vertice producesse anche solo un'intesa di principio sul congelamento del conflitto ucraino, l'Europa si troverebbe di fronte a un accordo che coinvolge il proprio continente negoziato senza la sua partecipazione. Sul piano commerciale, un allentamento delle tensioni tra Washington e Pechino potrebbe ridurre la pressione sulle catene di fornitura globali, ma a condizioni definite dalle tre potenze. La riuscita diplomatica cinese come «convocatrice» del vertice consoliderebbe ulteriormente il ruolo di Pechino come polo indispensabile dell'ordine internazionale emergente.",
+          "redattore": "Il Corrispondente Estero 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Condono edilizio FdI in manovra: la Campania aspetta da vent'anni, la scadenza è oggi",
+          "slug": "condono-edilizio-fdi-manovra-2027-campania",
+          "tag": [
+            "manovra",
+            "condono-edilizio",
+            "fratelli-ditalia",
+            "campania"
+          ],
+          "evidenza": false,
+          "fonte": "Repubblica / La Presse",
+          "cerca_url": "https://www.google.com/search?q=condono+edilizio+FdI+emendamento+manovra+2027+Campania+novembre+2026",
+          "post_x": "FdI vuole riaprire il condono del 2003 per la Campania. 50mila ordinanze di abbattimento in sospeso. La scadenza per gli emendamenti è oggi alle 18. Puntualità italiana. #Manovra2027",
+          "post_sito": "Oggi alle 18 scade il termine per depositare gli emendamenti alla legge di bilancio 2027 — se ne attendono almeno 5mila. Tra questi, Fratelli d'Italia porta al tavolo la riapertura del condono edilizio del 2003 per la Campania, regione che all'epoca non aveva aderito alla sanatoria del governo Berlusconi. In gioco ci sarebbero circa 50mila ordinanze di abbattimento rimaste in sospeso per vent'anni. Il meccanismo è di rara eleganza politica: l'input viene dal centrodestra nazionale, ma l'approvazione pratica spetterebbe alla giunta regionale di centrosinistra guidata da Roberto Fico, che avrebbe 60 giorni per aderire o no. La responsabilità si spalma convenientemente su tutti. Va ricordato che questo stesso emendamento era già stato presentato nella manovra precedente e poi dichiarato inammissibile nel Milleproroghe: il terzo tentativo non è necessariamente quello giusto, ma il tentativo c'è. Chi ci guadagna economicamente? Costruttori, agenzie immobiliari e proprietari di immobili con difformità — un bacino elettorale significativo in una regione che FdI vuole ancora conquistare.",
+          "fatti": [
+            {
+              "testo": "Fratelli d'Italia lavora a un emendamento alla manovra 2027 per riaprire i termini del condono edilizio del 2003, pensato specificamente per la Campania che all'epoca non vi aveva aderito.",
+              "fonte": "La Presse",
+              "url": "https://www.lapresse.it/politica/2026/11/03/manovra-2027-governo-al-lavoro-per-riaprire-i-termini-per-il-condono-edilizio/"
+            },
+            {
+              "testo": "Gli emendamenti alla legge di bilancio vanno presentati in commissione Bilancio alla Camera entro le 18 del 17 novembre 2026 e se ne attendono almeno 5mila.",
+              "fonte": "Sarno Notizie",
+              "url": "https://www.sarnonotizie.it/rassegna-stampa-17-novembre-2026/"
+            },
+            {
+              "testo": "Secondo la deputata FdI Imma Vietri, in Campania ci sarebbero circa 50mila ordinanze di abbattimento di immobili legati ad abusi edilizi.",
+              "fonte": "Edilportale",
+              "url": "https://www.edilportale.com/news/2026/11/normativa/condono-edilizio-2003-emendamento-fdi-alla-manovra_112631_15.html"
+            },
+            {
+              "testo": "Se approvato, la Regione Campania guidata da Roberto Fico avrebbe 60 giorni per aderire o meno al condono.",
+              "fonte": "QuiFinanza",
+              "url": "https://quifinanza.it/economia/manovra-2027-condono-edilizio-campania/1022641/"
+            }
+          ],
+          "incerto": [
+            "L'emendamento non era ancora stato formalmente depositato al momento della scadenza: la sua ammissibilità non è garantita, come già avvenuto nel Milleproroghe 2026.",
+            "Non è chiaro se la misura riguarderà solo la Campania o potrebbe allargarsi a piccole difformità su tutto il territorio nazionale."
+          ],
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Spesa sanitaria privata italiana vicina a 50 miliardi: il SSN si ritira, il mercato avanza",
+          "slug": "spesa-sanitaria-privata-50-miliardi-ssn-2026",
+          "tag": [
+            "sanità",
+            "spesa-privata",
+            "ssn",
+            "ragioneria-dello-stato"
+          ],
+          "evidenza": false,
+          "fonte": "Ragioneria Generale dello Stato / Quotidiano Sanità",
+          "cerca_url": "https://www.google.com/search?q=spesa+sanitaria+privata+50+miliardi+Italia+2026+Ragioneria+Stato",
+          "post_x": "Nel 2025 gli italiani hanno pagato di tasca propria 49,2 miliardi per curarsi (+6,1%). Dal 2016 la spesa privata è cresciuta del 75%, quella pubblica del 27,5%. Non è un dato: è una politica. #Sanità",
+          "post_sito": "Il rapporto «Il monitoraggio della spesa sanitaria 2026» della Ragioneria Generale dello Stato fotografa una tendenza strutturale: nel 2025 la spesa sanitaria privata ha raggiunto 49,2 miliardi di euro, con una crescita del 6,1% in un anno e del 75% in dieci anni, contro il 27,5% della spesa pubblica nello stesso periodo. Chi ci guadagna? Le strutture sanitarie private, le assicurazioni sanitarie integrative, i fondi di categoria e, in misura più raffinata, le grandi piattaforme di prenotazione digitale che intermediano il mercato. La causa strutturale rimossa dalla narrazione dominante — che parla di «libera scelta» — è che 5,8 milioni di italiani rinunciano alle cure non per libertà ma per impossibilità economica di accedere al pubblico. Il dato numerico che non si dice: la quota di famiglie che spende privatamente per la sanità è salita dal 50,8% degli anni '80 all'attuale 70%. Non è un'anomalia: è il risultato di decenni di sottofinanziamento del SSN, con la spesa pubblica italiana inferiore del 45% alla media europea.",
+          "fatti": [
+            {
+              "testo": "Nel 2025 la spesa sanitaria privata rilevata dal Sistema Tessera Sanitaria ha raggiunto 49,24 miliardi di euro, il 6,1% in più rispetto ai 46,41 miliardi del 2024.",
+              "fonte": "Quotidiano Sanità",
+              "url": "https://www.quotidianosanita.it/governo-e-parlamento/la-spesa-sanitaria-sfiora-i-193-miliardi-ma-quella-privata-dei-cittadini-corre-piu-del-doppio-della-pubblica-e-arriva-a-492-miliardi-esplodono-i-disavanzi-delle-regioni-superati-i-35-miliardi-ec/"
+            },
+            {
+              "testo": "Dal 2016 al 2025 la spesa sanitaria privata è cresciuta del 75%, mentre quella pubblica è aumentata del 27,5%.",
+              "fonte": "Riparte l'Italia",
+              "url": "https://www.ripartelitalia.it/spesa-sanitaria-privata-50-miliardi/"
+            },
+            {
+              "testo": "Se il ritmo del 2025 si confermasse, nel 2026 la spesa sanitaria privata a carico delle famiglie supererebbe i 50 miliardi di euro.",
+              "fonte": "Juorno.it",
+              "url": "https://www.juorno.it/sanita-492-miliardi-di-tasca-propria-nel-2025-spesa-delle-famiglie-su-del-61/"
+            }
+          ],
+          "incerto": [
+            "I dati definitivi sulla spesa privata nel 2026 non sono ancora disponibili: la proiezione a 50 miliardi è una stima basata sul trend 2025."
+          ],
+          "editoriale": false,
+          "redattore": "L'Analista 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "ATP Finals Torino: Zverev-Shelton oggi, Cobolli cerca riscatto dopo il ko con Medvedev",
+          "slug": "atp-finals-torino-2026-zverev-shelton-cobolli",
+          "tag": [
+            "tennis",
+            "atp-finals",
+            "torino",
+            "cobolli"
+          ],
+          "evidenza": false,
+          "fonte": "DAZN / Fanpage",
+          "cerca_url": "https://www.google.com/search?q=ATP+Finals+Torino+2026+risultati+17+novembre",
+          "post_x": "Stasera alle 20:30 Zverev sfida Shelton alle ATP Finals di Torino. Ieri Cobolli ha ceduto a Medvedev 7-6, 6-3 al debutto. Il torneo più ricco dello sport di racchetta si gioca sulla porta di casa. Seguilo su Sky e Italia 1. #ATPFinals",
+          "post_sito": "Le ATP Finals 2026 di Torino sono entrate nel vivo: lunedì 16 Flavio Cobolli ha esordito all'Inalpi Arena contro Daniil Medvedev, cedendo in due set 7-6, 6-3 in un'ora e 25 minuti di gioco. Una sconfitta onorevole per l'azzurro alla prima partecipazione assoluta alle Finals, che nel primo set ha annullato cinque palle break prima del tiebreak. Stasera alle 20:30 — trasmesso su Sky Sport Uno e Sky Sport Tennis in diretta, con possibilità di seguirlo anche su Italia 1 — tocca a Alexander Zverev contro Ben Shelton nel secondo turno del girone. Il torneo, che mette in palio un montepremi complessivo di 15,75 milioni di dollari (l'1,61% in più rispetto al 2025), è già stato segnato dall'impresa di Alcaraz, che ha demolito Tiafoe 6-2, 6-2 nella sessione pomeridiana di lunedì. Il beneficio taciuto di cui parlano poco i commentatori: Torino incassa ogni anno un indotto turistico e mediatico di primissimo livello grazie a un accordo di sede che non è eterno — e che ogni anno deve essere confermato.",
+          "fatti": [
+            {
+              "testo": "Flavio Cobolli ha perso il suo esordio alle ATP Finals 2026 contro Daniil Medvedev con il punteggio di 7-6, 6-3 in un'ora e 25 minuti.",
+              "fonte": "DAZN",
+              "url": "https://www.dazn.com/it-IT/news/tennis/medvedev-cobolli-live-risultato-statistiche-e-aggiornamenti-della-partita/15sjdqmaor6w511ltw0ffcup00"
+            },
+            {
+              "testo": "Carlos Alcaraz ha battuto Frances Tiafoe 6-2, 6-2 nella prima giornata delle ATP Finals 2026.",
+              "fonte": "Sky Sport",
+              "url": "https://sport.sky.it/tennis/2026/11/16/alcaraz-tiafoe-atp-finals-risultato"
+            },
+            {
+              "testo": "Le ATP Finals 2026 hanno un montepremi totale di 15,75 milioni di dollari, il 1,61% in più rispetto al 2025.",
+              "fonte": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/2026_ATP_Finals"
+            },
+            {
+              "testo": "La partita Zverev-Shelton è in programma oggi, martedì 17 novembre, alle 20:30 su Sky Sport Uno e Sky Sport Tennis; la trasmissione è disponibile anche su Italia 1.",
+              "fonte": "CronacaPop",
+              "url": "https://cpop.it/notizie/sport-in-tv-oggi-martedi-17-novembre-2026-orari-e-canali-di-calcio-tennis-e-basket"
+            }
+          ],
+          "incerto": [
+            "Non è ancora noto se Cobolli riuscirà a qualificarsi alla semifinale: la sua partita contro Tiafoe, in programma nelle prossime giornate, sarà decisiva."
+          ],
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Revolut commissariata a Milano: falle antiriciclaggio su 76,5 milioni, nel mirino soggetti legati alla mafia",
+          "slug": "revolut-commissariata-milano-antiriciclaggio-mafia-2026",
+          "tag": [
+            "revolut",
+            "antiriciclaggio",
+            "mafia",
+            "tribunale-milano"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Il Messaggero",
+          "cerca_url": "https://www.google.com/search?q=Revolut+commissariata+Milano+antiriciclaggio+mafia+76+milioni+2026",
+          "post_x": "Revolut commissariata per un anno a Milano. I pm: falle antiriciclaggio su 76,5 milioni, con clienti indagati per mafia. L'app «per ragazzi» aveva costruito un modello gestionale stabile per non fare domande. #Revolut #Mafia",
+          "post_sito": "Il Tribunale di Milano, su richiesta del pm Paolo Storari, ha disposto l'amministrazione giudiziaria per un anno nei confronti della filiale italiana di Revolut Bank UAB, banca digitale lituana autorizzata dalla BCE con oltre 50 milioni di clienti nel mondo e più di 5 milioni in Italia. Secondo la Procura, il modello antiriciclaggio della banca era così lacunoso da essere diventato, nelle parole dei giudici, «un modello gestionale stabile» che ha consentito l'occultamento e il trasferimento di capitali per 76,5 milioni di euro, di cui 4,6 milioni sottratti a misure cautelari patrimoniali. Tra i clienti figurano soggetti legati a contesti mafiosi, compresa la 'ndrangheta. La causa strutturale rimossa: Revolut ha costruito il proprio successo sulla frizione zero — apertura di conto in tre minuti, nessuna filiale, controlli automatizzati — e la stessa velocità che la rendeva attraente per i giovani la rendeva vulnerabile al riciclaggio. Il paradosso è che era autorizzata dalla BCE, l'ente che dovrebbe vigilare sull'intero sistema.",
+          "fatti": [
+            {
+              "testo": "La Sezione misure di prevenzione del Tribunale di Milano ha disposto l'amministrazione giudiziaria per un anno nei confronti di Revolut Bank UAB su richiesta del pm Paolo Storari, in base all'articolo 34 del Codice Antimafia.",
+              "fonte": "Borsa Italiana / Il Sole 24 Ore Radiocor",
+              "url": "https://www.borsaitaliana.it/borsa/notizie/radiocor/prima-pagina/dettaglio/revolut-commissariata-per-1-anno-riciclaggio-con-aggravante-mafiosa-nRC_16112026_1110_221158924.html"
+            },
+            {
+              "testo": "La Guardia di Finanza ha ricostruito operazioni di trasferimento, occultamento o distrazione di capitali per complessivi 76,5 milioni di euro.",
+              "fonte": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/16/riciclaggio-con-aggravante-mafiosa-amministrazione-giudiziaria-per-revolut_826ace80-1187-47af-9cab-866fe3539d56.html"
+            },
+            {
+              "testo": "L'elusione degli obblighi antiriciclaggio è diventata per Revolut un «modello gestionale stabile» che ha favorito l'occultamento di flussi finanziari per quasi 42 milioni di euro tra il 2021 e il 2026.",
+              "fonte": "Il Messaggero",
+              "url": "https://www.ilmessaggero.it/economia/news/revolut_commissariata_riciclaggio_mafia_amministrazione_giudiziaria-9893001.html"
+            },
+            {
+              "testo": "Su 24 clienti indagati a Milano per riciclaggio, Revolut non ha mai inoltrato segnalazioni di operazioni sospette, secondo il pm Storari.",
+              "fonte": "Giornale di Sicilia",
+              "url": "https://gds.it/articoli/cronaca/2026/11/16/commissariata-la-banca-revolut-rapporti-con-indagati-per-mafia-06b40192-eb5f-44a3-a0a1-1c7e1a6dcbfc/"
+            }
+          ],
+          "incerto": [
+            "Le accuse sono oggetto di procedimento giudiziario: Revolut ha dichiarato di collaborare pienamente con le autorità e le responsabilità individuali non sono ancora accertate in sede penale.",
+            "Non è ancora noto quale sarà la composizione dell'organo di amministrazione giudiziaria nominato dal Tribunale e le sue prime misure operative."
+          ],
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Scienza",
+          "titolo": "77 Nobel all'UE: «200 miliardi per la ricerca o il futuro va a Washington e Pechino»",
+          "slug": "77-nobel-ue-200-miliardi-ricerca-2028-2034",
+          "tag": [
+            "ricerca",
+            "unione-europea",
+            "finanziamenti",
+            "nobel"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA Scienza",
+          "cerca_url": "https://www.google.com/search?q=77+Nobel+appello+UE+200+miliardi+ricerca+2026",
+          "post_x": "77 Nobel scrivono all'UE: «Dateci 200 miliardi per la ricerca 2028-2034». Bruxelles ne aveva proposti 175, poi tagliati a 158. La risposta ufficiale: silenzio. #Scienza #Europa",
+          "post_sito": "Settantasette premi Nobel europei — tra cui Giorgio Parisi, Carlo Rubbia e Mario Capecchi — hanno firmato una lettera aperta ai capi di Stato e di governo dell'Unione Europea chiedendo di destinare almeno 200 miliardi di euro al prossimo programma quadro per la ricerca 2028-2034. La Commissione aveva proposto 175 miliardi, poi ridotti a circa 158 nelle trattative di bilancio — 42 miliardi in meno di quanto i Nobel considerano il minimo necessario per competere con Stati Uniti e Cina. Il beneficio taciuto di questa storia è speculare a quello della ricerca stessa: chi ci guadagna dal sottofinanziamento della scienza europea? Chi produce e brevetta altrove ciò che la ricerca di base europea ha concepito — spesso con fondi pubblici. Il mandante invisibile del taglio non è l'indifferenza ma l'austerità di bilancio, che tratta la ricerca come spesa e non come investimento. La domanda che nessuno pone: perché lo stesso appello di Mario Draghi a raddoppiare i fondi per la ricerca — richiamato esplicitamente dai Nobel — è rimasto lettera morta?",
+          "fatti": [
+            {
+              "testo": "Settantasette premi Nobel hanno firmato una lettera aperta ai capi di Stato dell'UE chiedendo almeno 200 miliardi di euro per il programma quadro per la ricerca 2028-2034; tra i firmatari Giorgio Parisi, Carlo Rubbia e Mario Capecchi.",
+              "fonte": "ANSA Scienza",
+              "url": "https://www.ansa.it/canale_scienza/notizie/ricerca_istituzioni/2026/11/15/da-77-nobel-un-appello-alla-ue-200-miliardi-per-la-ricerca_71fe7427-69ab-4501-bf49-43de5c7e1ff9.html"
+            },
+            {
+              "testo": "La Commissione europea aveva inizialmente proposto 175 miliardi di euro per il programma, poi rivisto al ribasso a circa 158 miliardi nelle trattative di bilancio.",
+              "fonte": "Quotidiano dei Contribuenti",
+              "url": "https://www.quotidianocontribuenti.com/europa-77-premi-nobel-lanciano-lallarme-senza-200-miliardi-per-la-ricerca-rischiamo-di-perdere-il-futuro/"
+            },
+            {
+              "testo": "La richiesta dei Nobel comporterebbe un incremento di circa 42 miliardi rispetto alla cifra attualmente sul tavolo (158 miliardi).",
+              "fonte": "Mondosanità",
+              "url": "https://www.mondosanita.it/news/studi-e-ricerca/115612/ricerca-77-premi-nobel-chiedono-all-europa-200-miliardi-e-in-gioco-il-nostro-futuro.html"
+            }
+          ],
+          "incerto": [
+            "Non è ancora noto se e come l'UE risponderà formalmente all'appello dei Nobel prima della chiusura dei negoziati sul bilancio a lungo termine."
+          ],
+          "editoriale": false,
+          "redattore": "Il Metodico 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "AI",
+          "titolo": "Nvidia presenta i conti senza Jensen Huang: ricavi record attesi, ma il titolo ha già perso il 40% dal massimo",
+          "slug": "nvidia-trimestrale-novembre-2026-senza-huang",
+          "tag": [
+            "nvidia",
+            "ai",
+            "semiconduttori",
+            "trimestrale"
+          ],
+          "evidenza": false,
+          "fonte": "Forbes Italia / Borsainside",
+          "cerca_url": "https://www.google.com/search?q=Nvidia+trimestrale+17+novembre+2026+senza+Jensen+Huang",
+          "post_x": "Stasera Nvidia presenta i conti senza Jensen Huang per la prima volta dalla fondazione. Ricavi attesi a 109 mld. Il titolo ha perso oltre il 40% dal massimo storico. Il re è nudo o solo in trasferta? #Nvidia #AI",
+          "post_sito": "Questa sera, dopo la chiusura di Wall Street, Nvidia presenta per la prima volta i risultati trimestrali senza il fondatore e storico CEO Jensen Huang, dimessosi il 12 novembre 2026 in seguito a uno scandalo. Gli analisti si aspettano ricavi intorno a 109 miliardi di dollari — +90% su base annua — e un utile per azione di circa 2,47 dollari; la guidance interna della società indicava 108 miliardi. La narrativa dominante parla di «solidità dei fondamentali» nonostante l'incertezza manageriale. Il bastian contrario la guarda diversamente: il titolo ha già perso oltre il 40% rispetto al massimo storico di 243,37 dollari toccato a ottobre, e Wall Street ieri ha chiuso con il Nasdaq a -2,49%. Chi ci guadagna dall'attenzione concentrata sui risultati trimestrali? Chi vende le storie di resilienza istituzionale ai mercati, e chi — come i grandi fondi — compra in calo aspettando il rimbalzo. Il mandante invisibile della crisi Nvidia non è lo scandalo in sé, ma le restrizioni statunitensi sull'export di chip avanzati verso la Cina: una variabile politica che pesa più dei bilanci.",
+          "fatti": [
+            {
+              "testo": "Nvidia pubblicherà i risultati del terzo trimestre fiscale 2027 il 17 novembre 2026 dopo la chiusura dei mercati; è la prima trimestrale senza il fondatore Jensen Huang dalla nascita dell'azienda nel 1993.",
+              "fonte": "Forbes Italia",
+              "url": "https://forbes.it/2026/11/16/trimestrale-nvidia-senza-jensen-huang/"
+            },
+            {
+              "testo": "Le stime degli analisti indicano ricavi trimestrali di circa 108,8-109,3 miliardi di dollari, in crescita di circa il 90% su base annua, e un utile per azione di 2,47 dollari.",
+              "fonte": "Borsainside",
+              "url": "https://www.borsainside.com/news/nvidia-trimestrale-novembre-2026-ricavi-datacenter-huang-previsioni/"
+            },
+            {
+              "testo": "Il titolo Nvidia aveva perso oltre il 40% rispetto al massimo storico di 243,37 dollari toccato a ottobre 2026 e nella seduta del 16 novembre ha registrato un calo del 4,12%.",
+              "fonte": "Soldionline",
+              "url": "https://www.soldionline.it/notizie/azioni-italia/borsa-italiana-commento-giornata-17-novembre-2026"
+            },
+            {
+              "testo": "Gli Stati Uniti hanno intensificato gli sforzi per limitare l'accesso della Cina ai chip avanzati per l'AI, appesantendo i titoli tecnologici europei e statunitensi.",
+              "fonte": "Milano Finanza",
+              "url": "https://www.milanofinanza.it/news/borse-oggi-diretta-17-novembre-2026-chiusura-apertura-europee-borsa-milano-ftse-mib-piazza-affari-202611170748049119"
+            }
+          ],
+          "incerto": [
+            "I risultati effettivi della trimestrale saranno noti solo a mercati chiusi: l'impatto sul titolo e sulla guidance per il Q4 non è prevedibile.",
+            "Non è ancora chiaro chi succederà stabilmente a Jensen Huang come CEO: il CdA non sta valutando il suo ritorno, secondo fonti CNBC citate dal Financial Times."
+          ],
+          "editoriale": false,
+          "redattore": "Il Futurologo 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Wellness",
+          "titolo": "La spesa privata sanitaria sfiora 50 miliardi: l'industria del benessere cresce mentre il SSN arretra",
+          "slug": "wellness-foundation-medici-esercizio-fisico-ssn-arretra",
+          "tag": [
+            "wellness",
+            "sanita-privata",
+            "industria-benessere",
+            "ssn"
+          ],
+          "evidenza": false,
+          "fonte": "Blog.it / Benessere Magazine",
+          "cerca_url": "https://www.google.com/search?q=Wellness+Foundation+formazione+medici+esercizio+fisico+novembre+2026",
+          "post_x": "La Wellness Foundation investe nella formazione dei medici sull'esercizio fisico. Lodevole. Ma mentre il SSN arretra e la spesa privata supera i 49 miliardi, il «benessere» diventa un mercato. Chi non se lo può permettere resta fuori. #Wellness",
+          "post_sito": "Oggi la Wellness Foundation annuncia un investimento nella formazione dei medici attraverso il percorso «Exercise 4 Health», accreditato ECM e ospitato nella sede Technogym di Milano: cinque moduli per tradurre le evidenze scientifiche sull'esercizio fisico nella pratica clinica. L'iniziativa è genuinamente utile — le prove sul ruolo dell'attività fisica nella prevenzione delle malattie croniche sono solide. La domanda che il comunicato stampa non pone è: chi produce i macchinari che i medici consiglieranno ai pazienti? Technogym, che ospita il corso, è il principale produttore mondiale di attrezzature per il fitness professionale. L'eufemismo di potere si chiama «formazione scientifica», il beneficio taciuto si chiama posizionamento commerciale. Il problema più ampio: in un paese dove la spesa sanitaria privata ha già raggiunto 49,2 miliardi nel 2025 e 5,8 milioni di persone rinunciano alle cure, l'industria del benessere cresce proprio nel vuoto lasciato dal pubblico — riempiendo lo spazio con offerte accessibili solo a chi può permettersele.",
+          "fatti": [
+            {
+              "testo": "La Wellness Foundation ha annunciato il 17 novembre 2026 un investimento nella formazione dei medici attraverso cinque moduli del percorso «Exercise 4 Health», ospitati presso la sede Technogym di Milano e accreditati ECM.",
+              "fonte": "Blog.it",
+              "url": "https://blog.it/esercizio-fisico-wellness-foundation-investe-nella-formazione-dei-medici"
+            },
+            {
+              "testo": "Nel 2025, secondo il rapporto GIMBE, oltre 5,8 milioni di italiani hanno rinunciato alle cure sanitarie.",
+              "fonte": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/economia/2026/10/15/cresce-spesa-privata-in-sanita-le-imprese-fanno-da-ammortizzatore_8546b3ff-7322-4778-9e41-b4319f02f1dc.html"
+            }
+          ],
+          "incerto": [
+            "Non sono disponibili dati sull'impatto clinico effettivo di percorsi analoghi di formazione medica sull'esercizio fisico sulla salute della popolazione."
+          ],
+          "editoriale": false,
+          "redattore": "Il Life Coach 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Cultura",
+          "titolo": "Robert Pattinson è il nuovo James Bond: Amazon MGM sceglie 007, Denis Villeneuve dirige",
+          "slug": "robert-pattinson-nuovo-james-bond-007-amazon-mgm-villeneuve",
+          "tag": [
+            "cinema",
+            "james-bond",
+            "amazon",
+            "pattinson"
+          ],
+          "evidenza": false,
+          "fonte": "CNBC / La Nouvelle Vague",
+          "cerca_url": "https://www.google.com/search?q=Robert+Pattinson+James+Bond+annuncio+ufficiale+novembre+2026",
+          "post_x": "Robert Pattinson è il nuovo James Bond. Amazon MGM ha deciso. Denis Villeneuve dirige. La notizia culturale del decennio o il lancio del prodotto più redditizio di Hollywood? Entrambe le cose, probabilmente. #Bond26 #007",
+          "post_sito": "Il 16 novembre Amazon MGM Studios ha annunciato che Robert Pattinson sarà il settimo interprete di James Bond nel ventiseiesimo film della saga, diretto da Denis Villeneuve con sceneggiatura di Steven Knight. L'annuncio — diffuso via Instagram con il messaggio «Identity confirmed» — chiude anni di speculazione dopo il ritiro di Daniel Craig nel 2021. Il coro mediatico celebra la scelta: Pattinson è un attore di rango, Villeneuve ha firmato «Dune» e «Blade Runner 2049», Knight ha scritto «Peaky Blinders». Ma il mandante invisibile di questa storia è Amazon, che ha acquisito MGM nel 2022 e stava aspettando il momento giusto per rilanciare il franchise come motore del proprio ecosistema di contenuti. Bond 26 non è solo un film: è l'ancora di una strategia di abbonamenti Prime Video, merchandise, videogiochi e licensing globale. Il beneficio taciuto: la saga 007 appartiene formalmente agli eredi di Ian Fleming attraverso EON Productions, ma le decisioni commerciali strategiche si prendono a Seattle. Il cinema europeo perde un'altra bandiera britannica nella grammatica di Hollywood.",
+          "fatti": [
+            {
+              "testo": "Amazon MGM Studios ha annunciato il 16 novembre 2026 che Robert Pattinson sarà il nuovo James Bond nel 26° film della saga, il primo sotto la guida di Amazon MGM.",
+              "fonte": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html"
+            },
+            {
+              "testo": "Il film sarà diretto da Denis Villeneuve con sceneggiatura di Steven Knight; Pattinson è il settimo attore a interpretare 007.",
+              "fonte": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html"
+            },
+            {
+              "testo": "L'annuncio è arrivato il 16 novembre 2026 da Amazon MGM Studios tramite i canali ufficiali con il messaggio «Identity confirmed».",
+              "fonte": "La Nouvelle Vague",
+              "url": "https://www.lanouvellevague.it/robert-pattinson-e-il-nuovo-james-bond/"
+            },
+            {
+              "testo": "Daniel Craig aveva interpretato Bond per cinque film, dal 2006 con «Casino Royale» fino al 2021 con «No Time to Die».",
+              "fonte": "Variety",
+              "url": "https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/"
+            }
+          ],
+          "incerto": [
+            "Non è ancora stata annunciata una data di uscita per Bond 26, né sono noti i dettagli del cast o le locations di produzione."
+          ],
+          "editoriale": false,
+          "redattore": "Il Letterato 1.0",
+          "fatti_verificati": true
+        }
+      ],
+      "controlli": {
+        "url_ricerca": 148,
+        "fatti_proposti": 33,
+        "fatti_scartati": 0,
+        "giorni_corretti": [],
+        "virgolette_riparate": 0
+      }
+    },
+    {
       "data": "2026-11-16",
       "post": [
         {
@@ -6835,193 +7251,7 @@
           "redattore": "Il Letterato 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-10-18",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Trump congela le sanzioni alla Russia per 60 giorni",
-          "slug": "trump-congela-sanzioni-russia-graham-act",
-          "tag": [
-            "ucraina",
-            "russia",
-            "trump",
-            "sanzioni"
-          ],
-          "evidenza": true,
-          "fonte": "La Stampa / focusamerica.it",
-          "cerca_url": "https://www.google.com/search?q=Trump+sospende+sanzioni+Russia+Graham+Act+ottobre+2026",
-          "post_x": "Trump congela le sanzioni alla Russia «per i negoziati di pace». Coincidenza: le elezioni di midterm sono a novembre e il gasolio costa troppo. Il Graham Act se l'era fatto firmare lui stesso a settembre. #Ucraina",
-          "post_sito": "Donald Trump ha sospeso per 60 giorni l'applicazione del Graham Act, il pacchetto di sanzioni contro Mosca che lui stesso aveva promulgato appena un mese fa. La motivazione ufficiale è favorire i negoziati per la pace in Ucraina — quella ufficiosa, taciuta dai titoli, è che le elezioni americane di midterm si avvicinano e contenere il prezzo del gasolio vale più di qualunque principio atlantista. Chi ci guadagna? Le compagnie petrolifere americane e i trader di commodity che operano sul mercato russo, per i quali ogni finestra di deroga alle sanzioni è pura linfa. Zelensky protesta, l'Europa abbozza, Mosca esulta definendo la decisione «un momento storico»: tre segnali che indicano chi ha vinto questa manche. Il coro mediatico occidentale grida al tradimento — ma nessuno ricorda che le sanzioni del 2022 non hanno impedito alla Russia di finanziare la guerra per oltre quattro anni, mentre le economie europee pagavano bollette record. Il mandante invisibile di questa mossa non è solo la Casa Bianca: sono le lobby energetiche americane e i fondi speculativi che da mesi scommettono sul riavvicinamento tra Washington e Mosca.",
-          "editoriale": true,
-          "prospettive": [
-            {
-              "etichetta": "La posizione della Casa Bianca",
-              "testo": "L'amministrazione Trump, tramite il segretario di Stato Marco Rubio, ha motivato la sospensione con la necessità di valutare le conseguenze economiche globali delle sanzioni e di creare spazio per i negoziati in corso tra le parti. La Casa Bianca sostiene che la misura è temporanea — 60 giorni — e che le sanzioni precedenti al Graham Act restano pienamente in vigore."
-            },
-            {
-              "etichetta": "La reazione di Kiev e degli alleati europei",
-              "testo": "Il presidente ucraino Zelensky ha espresso protesta pubblica, interpretando la mossa come un segnale negativo per Kiev alla vigilia di un possibile vertice trilaterale. Diversi senatori repubblicani, tra cui Thom Tillis e John Cornyn, che avevano sostenuto il Graham Act, hanno criticato la sospensione come contraddittoria rispetto agli impegni assunti. L'Unione europea non ha emesso una posizione unitaria immediata."
-            },
-            {
-              "etichetta": "Il contesto economico e elettorale",
-              "testo": "La sospensione arriva poche settimane prima delle elezioni americane di midterm di novembre, in un momento in cui i prezzi dell'energia restano un tema sensibile per l'elettorato. Osservatori indipendenti notano la coincidenza tra la decisione e la pressione delle lobby petrolifere per allentare le restrizioni che incidono sui mercati energetici globali. Trump ha anche dichiarato pubblicamente di voler spingere l'Europa a riprendere gli acquisti di gas russo."
-            },
-            {
-              "etichetta": "Il quadro legale e istituzionale",
-              "testo": "La sospensione avviene tramite ordine esecutivo presidenziale, uno strumento che consente all'esecutivo di ritardare l'applicazione di leggi pur senza abrogarle formalmente. Critici legali sottolineano la tensione tra questa prassi e il principio di separazione dei poteri, dato che il Graham Act era stato approvato con ampio sostegno bipartisan dal Congresso."
-            }
-          ],
-          "implicazioni": "Se la sospensione non venisse rinnovata dopo 60 giorni, le sanzioni tornerebbero in vigore automaticamente. Nel frattempo, aziende con esposizione ai mercati russi potrebbero sfruttare la finestra per rinegoziare contratti. Sul piano diplomatico, la mossa rafforza la posizione negoziale russa e indebolisce quella ucraina in un momento in cui si discute di un possibile vertice di pace. Per l'Europa, l'invito esplicito di Trump a riprendere gli acquisti di gas russo ripropone un dibattito che Bruxelles considerava chiuso dopo il 2022.",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Schlein si candida premier «con o senza le primarie», guerriglia nelle piazze italiane",
-          "slug": "schlein-candidata-premier-piazze-guerriglia-sciopero-cgil",
-          "tag": [
-            "schlein",
-            "pd",
-            "cgil",
-            "sciopero-generale"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Corriere della Sera",
-          "cerca_url": "https://www.google.com/search?q=Schlein+candidata+premier+primarie+assemblea+PD+ottobre+2026",
-          "post_x": "Schlein si candida premier «con o senza primarie». Traduzione: senza primarie. Landini annuncia lo sciopero generale. Milano è guerriglia. Tutti urlano. Nessuno parla di cosa c'è nella manovra. Perfetto. #ItaliaInPiazza",
-          "post_sito": "Domenica storica, ci dicono: Elly Schlein si dichiara candidata premier dal palco dell'assemblea PD alla Nuvola dell'Eur — con o senza primarie, dettaglio non secondario che svela più della dichiarazione stessa. Nel frattempo, a Milano, Torino e Bologna, circa 50 fermati (quasi la metà minorenni) nelle manifestazioni contro il carovita: il Corriere titola «guerriglia in piazza Duomo», Libero «scemenza generale», Il Giornale «guerriglia rossa». Tre versioni, zero contesto. Nessuno spiega che le proteste nascono da una pressione fiscale reale su salari reali fermi, mentre l'indice del carovita ha consumato il potere d'acquisto delle famiglie più esposte. La vera notizia sepolta sotto la guerriglia è lo sciopero generale della Cgil annunciato per il 20 novembre: quello sì potrebbe costare qualcosa al governo. La candidatura di Schlein, invece, è un segnale di consolidamento personale in un partito dove le correnti — mai davvero sopite — si stanno già riposizionando in vista di un'elezione politica ancora lontana ma sempre più percepita come vicina. Chi ci guadagna dal clamore sulle piazze? Il governo, che può presentarsi come garante dell'ordine contro l'«estremismo», e chi vuole che si parli di scontri invece che di manovra.",
-          "editoriale": false,
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Bitcoin recupera terreno, bollette in calo, manovra sotto pressione da Bruxelles",
-          "slug": "bitcoin-recupera-bollette-calo-manovra-bruxelles",
-          "tag": [
-            "bitcoin",
-            "bollette",
-            "manovra",
-            "bruxelles"
-          ],
-          "evidenza": false,
-          "fonte": "Il Sole 24 Ore",
-          "cerca_url": "https://www.google.com/search?q=Bitcoin+recupera+bollette+meno+care+manovra+Bruxelles+ottobre+2026",
-          "post_x": "Bitcoin risale, bollette giù, Bruxelles vuole mettere le mani sulla manovra. Chi festeggia? I trader crypto, le utility energetiche e i commissari europei — non necessariamente nell'ordine che vi aspettate. #Economia",
-          "post_sito": "Il Sole 24 Ore apre sull'economia con tre notizie apparentemente distinte che raccontano in realtà la stessa storia: il Bitcoin «recupera trainato dai tassi», le bollette calano (Libero annuncia risparmi, senza specificare per chi e di quanto), e La Verità denuncia che «la manovra è presa in ostaggio da Bruxelles». Il filo che le unisce è il costo del denaro: quando i tassi scendono, i capitali tornano verso asset rischiosi come le criptovalute — vantaggio per i fondi speculativi con portafogli crypto. Sul fronte energetico, il calo delle bollette riflette in parte la trattativa europea sull'energia che prosegue in sordina, mentre il dibattito pubblico è assorbito dalle piazze. La pressione di Bruxelles sulla manovra italiana è il capitolo meno raccontato: riguarda la flessibilità dei conti pubblici, un negoziato dove i grandi Stati — Germania e Francia — hanno sempre ottenuto più margine rispetto agli altri. Il beneficio taciuto di ogni «crisi di bilancio» tra Roma e Bruxelles è per i mercati obbligazionari, che in periodi di incertezza sul debito italiano praticano spread più alti: denaro vero, non retorica.",
-          "editoriale": false,
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Mondiali di ginnastica artistica a Rotterdam: gli azzurri in pedana, Targhetta già in finale",
-          "slug": "mondiali-ginnastica-artistica-rotterdam-2026-italia",
-          "tag": [
-            "ginnastica-artistica",
-            "mondiali",
-            "rotterdam",
-            "los-angeles-2028"
-          ],
-          "evidenza": false,
-          "fonte": "OA Sport / Ginnasticando.it",
-          "cerca_url": "https://www.google.com/search?q=Mondiali+ginnastica+artistica+Rotterdam+2026+Italia+qualifiche",
-          "post_x": "A Rotterdam i Mondiali di ginnastica artistica: Targhetta già qualificato alla finale al cavallo, le Fate in pedana stasera. L'Italia c'è — ma i giornali sportivi sono tutti sulla Serie A. Strano, no? #Ginnastica #Rotterdam2026",
-          "post_sito": "Mentre i quotidiani sportivi italiani riempiono le prime pagine con Juventus-Lazio e Milan-Atalanta, all'Ahoy Arena di Rotterdam si stanno giocando i Campionati del Mondo di ginnastica artistica — primo grande appuntamento sulla strada per Los Angeles 2028. La squadra maschile ha completato le qualifiche con Gabriele Targhetta già matematicamente in finale al cavallo con maniglie grazie al terzo punteggio di giornata, mentre Yumin Abbadini si è guadagnato la finale alla sbarra. Le azzurre — il quintetto composto da Esposito, Iorio, Perotti, Marano e Tonelli — sono scese in pedana stasera per le qualifiche: Manila Esposito, campionessa europea al corpo libero e alla trave, è la carta di punta per una medaglia individuale. Questi atleti si allenano per anni in relativo silenzio, ottengono risultati di caratura mondiale, e trovano spazio nei giornali solo quando vincono oro olimpico. Il conto dietro la medaglia — quando arriva — è fatto di anni di strutture sportive sottofinanziate, contratti federali al limite, e visibilità che conta zero fino all'impresa. Le qualifiche sono trasmesse su Eurovision Sport, le finali su RaiSport: non serve un abbonamento aggiuntivo per seguire entrambe.",
-          "editoriale": false,
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Roma: 89enne uccide la moglie malata oncologica e si suicida",
-          "slug": "roma-89enne-uccide-moglie-malata-oncologica-suicidio",
-          "tag": [
-            "fine-vita",
-            "oncologia",
-            "cure-palliative",
-            "cronaca"
-          ],
-          "evidenza": false,
-          "fonte": "Adnkronos / L'Italiano News",
-          "cerca_url": "https://www.google.com/search?q=Roma+89enne+uccide+moglie+malata+oncologica+suicidio+18+ottobre+2026",
-          "post_x": "Roma: 89enne uccide la moglie malata di cancro e si toglie la vita. Cronaca nera, dicono. Oppure: l'ennesima storia di un sistema sanitario che lascia soli chi soffre e chi se ne prende cura.",
-          "post_sito": "Un uomo di 89 anni ha ucciso la moglie 88enne, malata oncologica, in un appartamento di Viale dei Colli Portuensi a Roma, per poi togliersi la vita. Ha chiamato il figlio della coppia a dare l'allarme. I giornali la archivieranno come cronaca nera, qualcuno come «tragedia familiare». Quello che il racconto dominante rimuove è la causa strutturale che rende questi fatti possibili e purtroppo non rari: un sistema di cure palliative domiciliari ancora frammentato e disomogeneo sul territorio nazionale, dove il carico della malattia terminale cade quasi interamente sulle famiglie — spesso anziane come in questo caso — senza adeguato supporto psicologico, assistenziale e farmacologico. L'eufemismo di potere qui si chiama «presa in carico territoriale», locuzione che nel Sud e nelle periferie delle grandi città copre spesso un vuoto reale. Il dolore di queste storie non è riducibile a un'analisi sistemica, e non va strumentalizzato: ma ignorare il sistema che le rende probabili sarebbe un'omissione altrettanto grave.",
-          "editoriale": false,
-          "redattore": "L'Osservatore 1.0"
-        },
-        {
-          "categoria": "Scienza",
-          "titolo": "L'orologio atomico al lutezio-176 stabilisce il record mondiale di precisione",
-          "slug": "orologio-atomico-lutezio-176-record-singapore",
-          "tag": [
-            "fisica",
-            "metrologia",
-            "orologio-atomico",
-            "singapore"
-          ],
-          "evidenza": false,
-          "fonte": "Il Sole 24 Ore / Nature",
-          "cerca_url": "https://www.google.com/search?q=orologio+atomico+lutezio-176+record+Singapore+Nature+2026",
-          "post_x": "Singapore batte il record mondiale di precisione con un orologio al lutezio: un secondo di errore ogni 260 miliardi di anni. La corsa per ridefinire il «secondo» internazionale si decide a Versailles a novembre. Chi controlla il tempo, controlla tutto.",
-          "post_sito": "Il Centre for Quantum Technologies della National University of Singapore ha pubblicato su Nature i risultati di un orologio atomico ottico basato su ioni di lutezio-176 che stabilisce il nuovo record mondiale di precisione: un'incertezza di circa 1,2 parti su dieci miliardi di miliardi, equivalente a uno scarto di un secondo in circa 260 miliardi di anni — quasi venti volte l'età dell'universo osservabile. Il Sole 24 Ore ne dà oggi risalto, e la notizia merita attenzione non solo per il fascino del numero. La vera posta in gioco è politica e industriale: a novembre 2026, a Versailles, la 28ª Conferenza generale dei pesi e delle misure dovrà scegliere quale isotopo adottare come nuovo standard del secondo in sostituzione del cesio, in vigore dal 1967. Singapore — e il lutezio — è ora in pole position, ma Vienna e Pechino stanno sviluppando orologi concorrenti al torio-229. Chi definisce il secondo controlla i protocolli di sincronizzazione di GPS, reti di comunicazione, sistemi finanziari e infrastrutture critiche globali: non è metrologia astratta, è potere. Il mandante invisibile di questa corsa non sono solo i fisici — sono i governi e le industrie che dipendono da standard temporali che nessun altro può contestare.",
-          "editoriale": false,
-          "redattore": "Il Metodico 1.0"
-        },
-        {
-          "categoria": "AI",
-          "titolo": "Getty Images in bancarotta: l'IA come capro espiatorio di un crollo finanziario più antico",
-          "slug": "getty-images-bancarotta-chapter-11-ia-fotografi",
-          "tag": [
-            "getty-images",
-            "intelligenza-artificiale",
-            "bancarotta",
-            "diritti-immagine"
-          ],
-          "evidenza": false,
-          "fonte": "Foto Cult / Rivista AI",
-          "cerca_url": "https://www.google.com/search?q=Getty+Images+bancarotta+Chapter+11+intelligenza+artificiale+2026",
-          "post_x": "Getty Images dichiara bancarotta (Chapter 11) con 2,1 miliardi di debiti. Tutti danno la colpa all'IA. Qualcuno ricorda la fusione da 3,7 miliardi con Shutterstock saltata per veti antitrust? No. Più comodo il villain digitale.",
-          "post_sito": "Getty Images ha avviato la procedura di bancarotta concordata secondo il Chapter 11 americano: 2,1 miliardi di dollari di debito, 533 milioni di nuovo capitale iniettato dalla famiglia Getty e dal gruppo Koch, uscita dalla borsa prevista entro fine 2026. Il coro mediatico ha già il suo villain di comodo: l'intelligenza artificiale, che avrebbe sottratto valore alle immagini stock. Il racconto è comodo ma parziale. Il vero cronoprogramma del disastro parte dalla fusione fallita con Shutterstock — un'operazione da 3,7 miliardi bloccata dalle autorità antitrust britanniche che esigevano la cessione dell'intera divisione editoriale di Shutterstock — costata oltre 108 milioni di spese cash tra il 2024 e il 2026. A questo si sommano 156 milioni di interessi sul debito nel primo semestre 2026, cresciuti del 61% su base annua, e 17 milioni spesi in cause legali contro Stability AI senza ottenere risultati significativi. L'IA incide — la divisione iStock ha perso abbonati, passati da 320.000 a 240.000 in un anno — ma è l'ultimo fattore di una crisi strutturale che affonda le radici nella finanziarizzazione del settore fotografico e nella gestione del debito post-IPO via SPAC del 2022, quando l'azienda fu quotata a circa 4,8 miliardi e oggi vale sostanzialmente zero in borsa. Chi ci guadagna? Koch Equity Development, che entra nel capitale a condizioni favorevoli, e la famiglia Getty, che riprende il controllo dell'eredità senza i vincoli della quotazione pubblica. I fotografi, per ora, vengono rassicurati: nessun impatto operativo. Per ora.",
-          "editoriale": false,
-          "redattore": "Il Futurologo 1.0"
-        },
-        {
-          "categoria": "Wellness",
-          "titolo": "Tirzepatide e semaglutide: il congresso sull'obesità finanziato da Lilly racconta la «cura personalizzata»",
-          "slug": "tirzepatide-semaglutide-obesita-congresso-lilly",
-          "tag": [
-            "obesita",
-            "semaglutide",
-            "tirzepatide",
-            "farmaindustria"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA Salute",
-          "cerca_url": "https://www.google.com/search?q=congresso+obesita+Palermo+tirzepatide+semaglutide+Lilly+ottobre+2026",
-          "post_x": "Il congresso nazionale sull'obesità a Palermo «con il contributo di Lilly» presenta tirzepatide come «nuova frontiera». Notizia: Lilly produce tirzepatide. Questo si chiama conflitto di interessi, non personalizzazione della cura.",
-          "post_sito": "Al congresso nazionale della Società Italiana dell'Obesità a Palermo, svoltosi «con il contributo dell'azienda farmaceutica Lilly», il messaggio centrale è stato che le nuove terapie incretiniche — da semaglutide a tirzepatide, quest'ultima prodotta proprio da Lilly — segnano il passaggio verso «percorsi terapeutici personalizzati». Il beneficio taciuto è trasparente quanto raramente viene nominato: Lilly produce tirzepatide (Mounjaro/Zepbound), farmaco che in pochi anni è diventato uno dei più venduti al mondo, e finanzia il convegno dove esperti indipendenti ne discutono l'efficacia. I dati scientifici su questi farmaci sono reali e significativi — riduzioni del peso corporeo rilevanti, effetti positivi su comorbidità cardiovascolari e apnee del sonno, pubblicati su riviste peer-reviewed — ma il contesto in cui vengono presentati non è neutro. L'industria del wellness e della farmacologia dell'obesità vale centinaia di miliardi a livello globale, e ogni congresso «con contributo» è anche un'operazione di marketing istituzionale verso i medici prescrittori. Il bersaglio satirico non è chi soffre di obesità — malattia cronica reale — né i medici che cercano strumenti efficaci: è il meccanismo industriale che trasforma congressi scientifici in vetrine commerciali, e che ha tutto l'interesse a presentare farmaci cronici e costosi come «cura personalizzata» piuttosto che come impegno terapeutico a lungo termine con tutto ciò che comporta, incluso il costo per il sistema sanitario pubblico.",
-          "editoriale": false,
-          "redattore": "Il Life Coach 1.0"
-        },
-        {
-          "categoria": "Cultura",
-          "titolo": "Festa del Cinema di Roma 2026: Sorogoyen, Luchetti e Javier Bardem — chi porta i soldi dietro la kermesse",
-          "slug": "festa-cinema-roma-2026-sorogoyen-luchetti-bardem",
-          "tag": [
-            "festa-del-cinema",
-            "roma",
-            "cinema-italiano",
-            "industria-culturale"
-          ],
-          "evidenza": false,
-          "fonte": "Movieplayer / Libero",
-          "cerca_url": "https://www.google.com/search?q=Festa+Cinema+Roma+2026+programma+18+ottobre+Sorogoyen+Luchetti",
-          "post_x": "Alla Festa del Cinema di Roma masterclass di Sorogoyen, il film di Luchetti con Elio Germano, Javier Bardem Premio alla Carriera. Chi paga tutto questo? Roma Capitale e il Ministero della Cultura. Cultura pubblica, glamour privato.",
-          "post_sito": "La 21ª edizione della Festa del Cinema di Roma entra nel vivo con il regista spagnolo Rodrigo Sorogoyen protagonista di una masterclass — autore di «As bestas» e «Il regno», acclamato a Cannes con «El ser querido» con Javier Bardem, Premio alla Carriera di questa edizione. Nel pomeriggio, il film di Daniele Luchetti «Noi, un po' meglio» con Elio Germano e Maria Chiara Giannetta attorno al nodo dell'adozione. La Festa è un prodotto culturale di qualità, e non è questo il punto. Il punto è il meccanismo industriale e istituzionale che la sostiene: finanziamenti pubblici di Roma Capitale, del Ministero della Cultura e della Regione Lazio, a cui si sommano sponsor privati il cui logo appare nei materiali ufficiali. Il modello — denaro pubblico che attrae glamour internazionale, che attrae turismo, che genera ritorno economico per l'indotto alberghiero, della ristorazione e dei media — funziona, ma raramente viene descritto come tale. La selezione dei film in programma risponde a logiche industriali oltre che artistiche: le major americane e le produzioni europee più finanziate hanno accesso più facile alle sale principali, mentre il cinema indipendente e i documentari vivono nelle sezioni laterali. Il restauro di «Paz!» di Renato De Maria e l'omaggio al produttore Fulvio Lucisano sono le eccezioni che confermano la regola: la memoria cinematografica è benvenuta finché non costa troppo.",
-          "editoriale": false,
-          "redattore": "Il Letterato 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-11-16T08:21:24.801207+00:00"
+  "ultimo_aggiornamento": "2026-11-17T08:25:22.326084+00:00"
 }
