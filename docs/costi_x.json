@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-17",
+      "slug": "spesa-sanitaria-privata-50-miliardi-ssn-2026",
+      "categoria": "Economia",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-17",
       "slug": "condono-edilizio-fdi-manovra-2027-campania",
       "categoria": "Politica Nazionale",
       "evidenza": false,
