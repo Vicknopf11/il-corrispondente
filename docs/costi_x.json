@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-17",
+      "slug": "revolut-commissariata-milano-antiriciclaggio-mafia-2026",
+      "categoria": "Cronaca",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-17",
       "slug": "atp-finals-torino-2026-zverev-shelton-cobolli",
       "categoria": "Sport",
       "evidenza": false,
