@@ -1,21 +1,13 @@
 {
-  "generato": "2026-11-17T12:31:06.718800+00:00",
+  "generato": "2026-11-17T18:31:06.045660+00:00",
   "item": [
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Braathen accende lo slalom di Levi: secondo trionfo di fila. Rimontona Vinatzer: è quinto",
-      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/Coppa-Mondo-Sci/15-11-2026/sci-alpino-slalom-levi-risultati.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-11-15"
-    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
-      "titolo": "D'Ambrosio dice no agli Usa: \"Verona è la mia America. Il mio idolo Phelps e il tifo per Napoli...\"",
-      "link": "https://www.gazzetta.it/Nuoto/15-11-2026/carlos-d-ambrosio-intervista-usa-verona-phelps-napoli.shtml",
-      "fonte": "Gazzetta — Nuoto e Pallanuoto",
-      "data_evento": "2026-11-15"
+      "titolo": "Mondiali di surf, Fioravanti si ferma a un passo dalla finale",
+      "link": "https://www.gazzetta.it/Sport-Vari/17-11-2026/mondiali-di-surf-fioravanti-si-ferma-a-un-passo-dalla-finale.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-11-17"
     },
     {
       "sottocategoria": "Squadra",
@@ -36,9 +28,17 @@
     {
       "sottocategoria": "Racchette e precisione",
       "tipo": "notizia",
-      "titolo": "Atp Finals, con \"Come and Play\" i tifosi scendono in campo con le stelle del tennis",
-      "link": "https://www.gazzetta.it/Tennis/ATP/17-11-2026/atp-finals-con-come-and-play-il-pubblico-scende-in-campo-con-i-protagonisti-del-tennis.shtml",
+      "titolo": "Tutti i segreti nascosti dietro il trofeo delle Finals: perché la coppa ha questa forma?",
+      "link": "https://video.gazzetta.it/video-atp-finals-tutti-i-segreti-del-torneo-e-del-trofeo/c5cc62bf-872a-4b28-8661-2c49e8433xlk",
       "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-11-17"
+    },
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Ferro e precisione: l'Italia delle bocce chiude i Mondiali di Volo Senior con sei medaglie",
+      "link": "https://www.gazzetta.it/bocce/17-11-2026/bocce-l-italia-chiude-i-mondiali-di-fiume-con-sei-medaglie.shtml",
+      "fonte": "Gazzetta — Bocce",
       "data_evento": "2026-11-17"
     }
   ]
