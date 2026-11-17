@@ -1,6 +1,14 @@
 {
   "pubblicazioni": [
     {
+      "data": "2026-11-17",
+      "slug": "vertice-trilaterale-trump-putin-xi-shenzhen-novembre-2026",
+      "categoria": "Politica Internazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
       "data": "2026-11-16",
       "slug": "milano-music-week-2026-de-martino-ornella-vanoni-sanremo-2027",
       "categoria": "Cultura",
