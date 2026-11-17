@@ -1,6 +1,14 @@
 {
-  "generato": "2026-11-17T06:30:59.380092+00:00",
+  "generato": "2026-11-17T12:31:06.718800+00:00",
   "item": [
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Braathen accende lo slalom di Levi: secondo trionfo di fila. Rimontona Vinatzer: è quinto",
+      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/Coppa-Mondo-Sci/15-11-2026/sci-alpino-slalom-levi-risultati.shtml",
+      "fonte": "Gazzetta — Sport Invernali",
+      "data_evento": "2026-11-15"
+    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
@@ -28,18 +36,10 @@
     {
       "sottocategoria": "Racchette e precisione",
       "tipo": "notizia",
-      "titolo": "Cobolli-Medvedev, Atp Finals highlights: il punto del torneo? Pubblico in visibilio per l'azzurro",
-      "link": "https://video.gazzetta.it/tennis/atp/highlights/video-cobolli-medvedev-highlights-atp-finals-l-azzurro-fa-il-punto-del-torneo/3457a1c6-b78b-4204-bcba-ce1d53e1dxlk",
+      "titolo": "Atp Finals, con \"Come and Play\" i tifosi scendono in campo con le stelle del tennis",
+      "link": "https://www.gazzetta.it/Tennis/ATP/17-11-2026/atp-finals-con-come-and-play-il-pubblico-scende-in-campo-con-i-protagonisti-del-tennis.shtml",
       "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-11-16"
-    },
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Pétanque, ecco la nuova Serie A: regole e protagonisti del 2026-2027",
-      "link": "https://www.gazzetta.it/bocce/12-11-2026/petanque-ecco-la-nuova-serie-a-regole-e-protagonisti-del-2026-2027.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-11-12"
+      "data_evento": "2026-11-17"
     }
   ]
 }
