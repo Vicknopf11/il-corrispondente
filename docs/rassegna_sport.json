@@ -1,6 +1,14 @@
 {
-  "generato": "2026-11-17T18:31:06.045660+00:00",
+  "generato": "2026-11-18T06:31:05.040512+00:00",
   "item": [
+    {
+      "sottocategoria": "Combattimento",
+      "tipo": "notizia",
+      "titolo": "F1: Las Vegas aspetta il circus, Antonelli vuole la decima",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/11/17/f1-las-vegas-aspetta-il-circus-antonelli-vuole-la-decima_31f8835a-ac03-412b-b0b2-51558a665061.html",
+      "fonte": "ANSA Sport",
+      "data_evento": "2026-11-17"
+    },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
@@ -28,17 +36,9 @@
     {
       "sottocategoria": "Racchette e precisione",
       "tipo": "notizia",
-      "titolo": "Tutti i segreti nascosti dietro il trofeo delle Finals: perché la coppa ha questa forma?",
-      "link": "https://video.gazzetta.it/video-atp-finals-tutti-i-segreti-del-torneo-e-del-trofeo/c5cc62bf-872a-4b28-8661-2c49e8433xlk",
+      "titolo": "Zverev-Shelton: highlights Atp Finals",
+      "link": "https://video.gazzetta.it/tennis/atp/highlights/video-zverev-shelton-highlights-atp-finals/32edea0e-2fad-4f4e-b1ab-8033cea7fxlk",
       "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-11-17"
-    },
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Ferro e precisione: l'Italia delle bocce chiude i Mondiali di Volo Senior con sei medaglie",
-      "link": "https://www.gazzetta.it/bocce/17-11-2026/bocce-l-italia-chiude-i-mondiali-di-fiume-con-sei-medaglie.shtml",
-      "fonte": "Gazzetta — Bocce",
       "data_evento": "2026-11-17"
     }
   ]
