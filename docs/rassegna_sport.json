@@ -1,13 +1,21 @@
 {
-  "generato": "2026-11-18T06:31:05.040512+00:00",
+  "generato": "2026-11-18T12:31:18.411445+00:00",
   "item": [
     {
-      "sottocategoria": "Combattimento",
+      "sottocategoria": "Mente e nicchia",
       "tipo": "notizia",
-      "titolo": "F1: Las Vegas aspetta il circus, Antonelli vuole la decima",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/11/17/f1-las-vegas-aspetta-il-circus-antonelli-vuole-la-decima_31f8835a-ac03-412b-b0b2-51558a665061.html",
-      "fonte": "ANSA Sport",
+      "titolo": "Ferro e precisione: l'Italia delle bocce chiude i Mondiali di Volo Senior con sei medaglie",
+      "link": "https://www.gazzetta.it/bocce/17-11-2026/bocce-l-italia-chiude-i-mondiali-di-fiume-con-sei-medaglie.shtml",
+      "fonte": "Gazzetta — Bocce",
       "data_evento": "2026-11-17"
+    },
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Braathen accende lo slalom di Levi: secondo trionfo di fila. Rimontona Vinatzer: è quinto",
+      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/Coppa-Mondo-Sci/15-11-2026/sci-alpino-slalom-levi-risultati.shtml",
+      "fonte": "Gazzetta — Sport Invernali",
+      "data_evento": "2026-11-15"
     },
     {
       "sottocategoria": "Acqua",
@@ -32,14 +40,6 @@
       "link": "https://video.gazzetta.it/atletica/video-crolla-negli-ultimi-400-metri-cosi-un-altro-atleta-la-sorregge-fino-all-arrivo/cbef01ea-8291-47dd-a61f-4073a3d2cxlk",
       "fonte": "Gazzetta — Atletica",
       "data_evento": "2026-11-16"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Zverev-Shelton: highlights Atp Finals",
-      "link": "https://video.gazzetta.it/tennis/atp/highlights/video-zverev-shelton-highlights-atp-finals/32edea0e-2fad-4f4e-b1ab-8033cea7fxlk",
-      "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-11-17"
     }
   ]
 }
