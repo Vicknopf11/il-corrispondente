@@ -1,21 +1,13 @@
 {
-  "generato": "2026-11-18T12:31:18.411445+00:00",
+  "generato": "2026-11-18T18:31:10.185709+00:00",
   "item": [
     {
-      "sottocategoria": "Mente e nicchia",
+      "sottocategoria": "Combattimento",
       "tipo": "notizia",
-      "titolo": "Ferro e precisione: l'Italia delle bocce chiude i Mondiali di Volo Senior con sei medaglie",
-      "link": "https://www.gazzetta.it/bocce/17-11-2026/bocce-l-italia-chiude-i-mondiali-di-fiume-con-sei-medaglie.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-11-17"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Braathen accende lo slalom di Levi: secondo trionfo di fila. Rimontona Vinatzer: è quinto",
-      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/Coppa-Mondo-Sci/15-11-2026/sci-alpino-slalom-levi-risultati.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
-      "data_evento": "2026-11-15"
+      "titolo": "L'eleganza sul ring: Bruno Visintin, il gentiluomo che conquistò l'Europa",
+      "link": "https://www.gazzetta.it/Sport-Vari/18-11-2026/bruno-visintin-pugile-gentiluomo-eleganza-ring-europa.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-11-18"
     },
     {
       "sottocategoria": "Acqua",
@@ -40,6 +32,14 @@
       "link": "https://video.gazzetta.it/atletica/video-crolla-negli-ultimi-400-metri-cosi-un-altro-atleta-la-sorregge-fino-all-arrivo/cbef01ea-8291-47dd-a61f-4073a3d2cxlk",
       "fonte": "Gazzetta — Atletica",
       "data_evento": "2026-11-16"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Black Friday Gazzetta: la Digital Edition del giornale a 1 euro per il primo mese. Scopri l'offerta",
+      "link": "https://www.gazzetta.it/Calcio/18-11-2026/black-friday-gazzetta-digital-edition-a-1-euro-per-il-primo-mese-in-promozione.shtml",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-11-18"
     }
   ]
 }
