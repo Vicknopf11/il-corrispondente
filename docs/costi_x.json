@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-18",
+      "slug": "deutsche-bank-leak-epstein-trump-file-segreti",
+      "categoria": "Economia",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-18",
       "slug": "manovra-condono-edilizio-2003-emendamento-fdi",
       "categoria": "Politica Nazionale",
       "evidenza": false,
