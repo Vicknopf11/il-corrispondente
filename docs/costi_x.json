@@ -1,6 +1,14 @@
 {
   "pubblicazioni": [
     {
+      "data": "2026-11-18",
+      "slug": "vertice-apec-shenzhen-putin-xi-trump-golfo-persico",
+      "categoria": "Politica Internazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
       "data": "2026-11-17",
       "slug": "robert-pattinson-nuovo-james-bond-007-amazon-mgm-villeneuve",
       "categoria": "Cultura",
