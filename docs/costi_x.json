@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-19",
+      "slug": "fdi-condono-demolizioni-campania-manovra-2026",
+      "categoria": "Politica Nazionale",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-19",
       "slug": "vertice-trump-xi-putin-shenzhen-europa-esclusa",
       "categoria": "Politica Internazionale",
       "evidenza": true,
