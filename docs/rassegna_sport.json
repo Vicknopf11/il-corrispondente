@@ -1,13 +1,29 @@
 {
-  "generato": "2026-11-19T06:31:04.592620+00:00",
+  "generato": "2026-11-19T12:31:10.757975+00:00",
   "item": [
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Ferro e precisione: l'Italia delle bocce chiude i Mondiali di Volo Senior con sei medaglie",
+      "link": "https://www.gazzetta.it/bocce/17-11-2026/bocce-l-italia-chiude-i-mondiali-di-fiume-con-sei-medaglie.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-11-17"
+    },
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Braathen accende lo slalom di Levi: secondo trionfo di fila. Rimontona Vinatzer: è quinto",
+      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/Coppa-Mondo-Sci/15-11-2026/sci-alpino-slalom-levi-risultati.shtml",
+      "fonte": "Gazzetta — Sport Invernali",
+      "data_evento": "2026-11-15"
+    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
-      "titolo": "Dalla Serie A al tennis, tra telecamere immersive e AI: così Haier guarda al futuro dello sport",
-      "link": "https://www.gazzetta.it/Calcio/Serie-A/18-11-2026/dalla-serie-a-al-tennis-tra-telecamere-immersive-e-ai-haier-guarda-al-futuro-dello-sport.shtml",
+      "titolo": "Topuria a cuore aperto: \"Se Dio frantuma i miei piani, è perché quei piani potevano frantumare me\"",
+      "link": "https://www.gazzetta.it/active/19-11-2026/ilia-topuria-la-rivincita-con-gaethje-pimblett-e-il-fratello-aleksandre.shtml",
       "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-11-18"
+      "data_evento": "2026-11-19"
     },
     {
       "sottocategoria": "Acqua",
@@ -24,22 +40,6 @@
       "link": "https://www.gazzetta.it/Rugby/14-11-2026/rugby-nations-championship-galles-nuova-zelanda-35-28-francia-sudafrica-21-19.shtml",
       "fonte": "Gazzetta — Rugby",
       "data_evento": "2026-11-14"
-    },
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "Crolla negli ultimi 400 metri e un altro atleta la sorregge fino all'arrivo: il meraviglioso gesto",
-      "link": "https://video.gazzetta.it/atletica/video-crolla-negli-ultimi-400-metri-cosi-un-altro-atleta-la-sorregge-fino-all-arrivo/cbef01ea-8291-47dd-a61f-4073a3d2cxlk",
-      "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-11-16"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Sinner, lavoro in palestra e nuovi controlli in programma. Ma sul rientro ci sono ancora incognite",
-      "link": "https://www.gazzetta.it/Tennis/ATP/19-11-2026/sinner-quando-rientra-previsioni-recupero-nuovi-controlli.shtml",
-      "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-11-19"
     }
   ]
 }
