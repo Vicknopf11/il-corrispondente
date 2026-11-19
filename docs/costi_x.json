@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-19",
+      "slug": "atp-finals-torino-cobolli-eliminato-zverev-fils",
+      "categoria": "Sport",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-19",
       "slug": "anthropic-ipo-nasdaq-81-miliardi-record",
       "categoria": "Economia",
       "evidenza": false,
