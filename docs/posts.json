@@ -1,6 +1,412 @@
 {
   "edizioni": [
     {
+      "data": "2026-11-19",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Vertice trilaterale Trump-Xi-Putin a Shenzhen: l'Europa guarda da fuori",
+          "slug": "vertice-trump-xi-putin-shenzhen-europa-esclusa",
+          "tag": [
+            "geopolitica",
+            "usa-cina-russia",
+            "apec",
+            "ucraina"
+          ],
+          "evidenza": true,
+          "fonte": "Il Fatto Quotidiano / Today.it / Euronews",
+          "cerca_url": "https://www.google.com/search?q=vertice+trilaterale+Trump+Xi+Putin+Shenzhen+19+novembre+2026",
+          "post_x": "Trump, Xi e Putin seduti allo stesso tavolo per la prima volta nella storia. L'Europa, che paga le guerre di tutti, non è stata invitata. Strano, no? #APEC #Shenzhen",
+          "post_sito": "Oggi a Shenzhen è successa una cosa senza precedenti: i leader delle tre maggiori potenze nucleari si sono seduti allo stesso tavolo per la prima volta nella storia. Tutti a osannare la «svolta storica». Nessuno che faccia notare la cosa più ovvia: l'Ucraina — che combatte da anni con armi e soldi europei — è stata esclusa dall'agenda ufficiale, mentre l'Europa intera non è stata nemmeno invitata alla stanza. Xi abbraccia Trump in aeroporto come non aveva mai fatto con nessun presidente americano, mentre Pechino continua a comprare petrolio russo a prezzi scontati e Mosca usa quei petrodollari per finanziare la guerra. Chi ci guadagna? Chiedetelo alle industrie della difesa americane, ai trader di commodity che arbitrano il prezzo del gas, e ai fondi che scommettono sulla riapertura commerciale USA-Cina. L'Iran — l'unico dossier «ufficialmente» in agenda — è il pretesto che permette a tutti e tre di stare nella stessa foto senza dover rispondere delle proprie responsabilità su Kiev.",
+          "fatti": [
+            {
+              "testo": "Il 19 novembre 2026 a Shenzhen si è tenuto il primo vertice trilaterale nella storia tra i capi di Stato di Stati Uniti, Cina e Russia, a margine del summit APEC.",
+              "fonte": "Today.it",
+              "url": "https://www.today.it/rassegna/start/ultime-notizie-oggi-19-novembre-2026.html"
+            },
+            {
+              "testo": "Xi Jinping ha atteso Trump sulla pista dell'aeroporto di Shenzhen e lo ha abbracciato: il leader cinese non era mai andato in aeroporto per ricevere un presidente americano.",
+              "fonte": "Sarno Notizie",
+              "url": "https://www.sarnonotizie.it/rassegna-stampa-19-novembre-2026/"
+            },
+            {
+              "testo": "Un alto funzionario Usa ha dichiarato che Trump intende discutere con Xi e Putin dell'Iran e del disarmo nucleare, evitando ufficialmente il tema Ucraina.",
+              "fonte": "Il Fatto Quotidiano",
+              "url": "https://www.ilfattoquotidiano.it/2026/11/14/vertice-trump-putin-xi-shenzhen-nucleare-notizie/8572128/"
+            },
+            {
+              "testo": "Diversi parlamentari repubblicani, tra cui il senatore Thom Tillis, hanno accolto con freddezza il vertice a tre, avvertendo che Cina e Russia «non sono nostri amici».",
+              "fonte": "FocusAmerica",
+              "url": "https://focusamerica.it/la-rassegna-stampa-di-giovedi-19-novembre-2026/"
+            }
+          ],
+          "incerto": [
+            "Non è confermato se l'Ucraina sarà effettivamente discussa al tavolo trilaterale nonostante le indicazioni contrastanti della vigilia.",
+            "Non è noto l'esito concreto dei colloqui né se verrà firmato alcun documento o dichiarazione congiunta."
+          ],
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La versione di Washington",
+              "testo": "L'amministrazione Trump presenta il vertice come un'opportunità per avviare un dialogo multilaterale su Iran e proliferazione nucleare, dossier su cui la cooperazione delle tre potenze è ritenuta indispensabile. Trump ha assicurato che non stringerà accordi con Mosca senza coinvolgere Kiev, ma ha ammesso di voler affrontare anche la questione ucraina in via informale. Per la Casa Bianca si tratta di un esercizio di diplomazia diretta coerente con l'approccio transazionale dell'amministrazione."
+            },
+            {
+              "etichetta": "La posizione di Pechino",
+              "testo": "La Cina ha organizzato il vertice a margine del summit APEC di cui è paese ospitante, traendo un vantaggio simbolico di primo piano: Xi Jinping si presenta come mediatore globale e interlocutore paritario delle due superpotenze. Pechino ha evitato finora di assumere un ruolo negoziale diretto sul conflitto ucraino, e il formato trilaterale le permette di sedere al tavolo senza impegnarsi formalmente su nessuno dei dossier più delicati."
+            },
+            {
+              "etichetta": "L'Europa esclusa",
+              "testo": "Nessun leader europeo è presente a Shenzhen né, secondo le fonti disponibili, è stato consultato in anticipo sul formato del vertice. L'Unione Europea, che ha finanziato con decine di miliardi di euro il sostegno militare ed economico all'Ucraina, si trova di fronte a trattative che riguardano direttamente la sicurezza del continente ma in cui non ha voce. La proposta di Von der Leyen di un nuovo prestito UE da 45 miliardi per Kiev — da portare al Consiglio europeo straordinario del 25-26 novembre — arriva proprio mentre i tre grandi decidono altrove."
+            },
+            {
+              "etichetta": "Kiev e il nodo ucraino",
+              "testo": "Il presidente Zelensky ha espresso preoccupazione per un formato negoziale che esclude l'Ucraina. Le truppe ucraine hanno lanciato un nuovo attacco al ponte di Crimea nelle stesse ore del vertice, in un segnale che Kiev non intende restare a guardare. L'assenza ufficiale dell'Ucraina dall'agenda non garantisce che il suo destino non sia discusso informalmente: le indicazioni della vigilia sul tema sono rimaste contrastanti fino all'ultimo."
+            }
+          ],
+          "implicazioni": "Se dal vertice emergesse anche solo un quadro informale di intesa sulle condizioni di un cessate il fuoco in Ucraina, l'Europa si troverebbe di fronte a un accordo già delineato senza avervi partecipato, con conseguenze dirette sulla propria architettura di sicurezza e sulla sostenibilità politica del sostegno a Kiev. Sul fronte nucleare, un eventuale avvio di colloqui trilaterali sul disarmo ridisegnerebbe gli equilibri del controllo degli armamenti globale, in un contesto in cui il trattato New START è già scaduto senza sostituto.",
+          "redattore": "Il Corrispondente Estero 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "FdI vuole bloccare le demolizioni in Campania per 24 mesi: il condono torna in manovra",
+          "slug": "fdi-condono-demolizioni-campania-manovra-2026",
+          "tag": [
+            "condono-edilizio",
+            "campania",
+            "manovra",
+            "fratelli-ditalia"
+          ],
+          "evidenza": false,
+          "fonte": "Il Fatto Quotidiano / Sarno Notizie / Stylo24",
+          "cerca_url": "https://www.google.com/search?q=FdI+condono+edilizio+demolizioni+Campania+manovra+novembre+2026",
+          "post_x": "FdI vuole fermare le demolizioni in Campania per 24 mesi. 330mila pratiche di condono inevase solo lì. Strana coincidenza: il Mezzogiorno vota. #Manovra #Condono",
+          "post_sito": "Fratelli d'Italia ha depositato otto emendamenti alla legge di bilancio: sette per riaprire il condono edilizio — compreso quello sugli abusi sismici, con azzeramento delle sanzioni penali — e un ottavo che sospende per 24 mesi tutte le demolizioni in Campania. In Campania restano da definire circa 330mila pratiche di condono pendenti, 42mila solo a Napoli. Il beneficio taciuto è evidente: chi ha costruito in zona sismica senza autorizzazione viene amnistiato mentre chi ha rispettato le regole paga. Il mandante invisibile non è difficile da individuare: il Sud, e la Campania in particolare, sono serbatoi elettorali decisivi per il centrodestra. La storia del condono edilizio italiano è lunga quanto la storia della Repubblica: ogni volta che si avvicina una scadenza elettorale o si ha bisogno di gettito facile, rispunta. Vale anche la pena ricordare che la frana di Ischia del 2022 avvenne in un contesto in cui sull'isola esistevano migliaia di domande di condono pendenti. Nessuno oggi cita quel precedente.",
+          "fatti": [
+            {
+              "testo": "Fratelli d'Italia ha depositato sette emendamenti alla legge di bilancio sul condono edilizio e un ottavo che sospende per 24 mesi le demolizioni in Campania.",
+              "fonte": "Sarno Notizie",
+              "url": "https://www.sarnonotizie.it/rassegna-stampa-19-novembre-2026/"
+            },
+            {
+              "testo": "In Campania restano da definire circa 330mila pratiche di condono, 42mila soltanto a Napoli.",
+              "fonte": "Sarno Notizie",
+              "url": "https://www.sarnonotizie.it/rassegna-stampa-19-novembre-2026/"
+            },
+            {
+              "testo": "Il pacchetto FdI include un emendamento per sanare abusi edilizi in zone sismiche con autorizzazioni postume ed esclusione delle sanzioni penali.",
+              "fonte": "Il Fatto Quotidiano",
+              "url": "https://www.ilfattoquotidiano.it/2026/11/18/condono-edilizio-abusi-sismici-fdi-notizie/8576351/"
+            },
+            {
+              "testo": "Secondo Stylo24, nel complesso in Italia risultano oltre 4,2 milioni di pratiche di condono ferme.",
+              "fonte": "Stylo24",
+              "url": "https://www.stylo24.it/condono-edilizio-emendamenti-fdi-pratiche-inevase/"
+            }
+          ],
+          "incerto": [
+            "Non è ancora noto se gli emendamenti saranno approvati dalla commissione Bilancio del Senato, dove la maggioranza è divisa.",
+            "Non è confermato se Forza Italia e Lega voteranno a favore dell'intero pacchetto o solo di alcune misure."
+          ],
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Anthropic debutta al Nasdaq: IPO da 81 miliardi, la più grande della storia",
+          "slug": "anthropic-ipo-nasdaq-81-miliardi-record",
+          "tag": [
+            "anthropic",
+            "ipo",
+            "intelligenza-artificiale",
+            "nasdaq"
+          ],
+          "evidenza": false,
+          "fonte": "Anthropic / FocusAmerica / Euronews",
+          "cerca_url": "https://www.google.com/search?q=Anthropic+IPO+Nasdaq+19+novembre+2026",
+          "post_x": "Anthropic vale 1.500 miliardi. Google e Nvidia dentro col privato. Amazon dentro col privato. Poi ci stupiremo che Claude risponde sempre «tutto bene». #Anthropic #IPO",
+          "post_sito": "Oggi Anthropic — la società che sviluppa Claude — debutta al Nasdaq con il simbolo ANT, raccogliendo 81,3 miliardi di dollari, la più grande IPO della storia, superando quella di SpaceX di giugno. Il prezzo fissato a 83 dollari per azione ha superato la forchetta iniziale di 70-78 dollari, con una valutazione diluita di circa 1.500 miliardi. Chi ci guadagna? Google e Nvidia hanno già sottoscritto un placement privato da 26 miliardi prima ancora che il pubblico potesse comprare un'azione. L'eufemismo di potere qui è «safety-first AI»: Anthropic si è costruita una reputazione di azienda responsabile distaccandosi da OpenAI, ma la struttura del capitale che emerge dall'IPO vede i due grandi finanziatori strategici — Google e Nvidia — con interessi commerciali diretti nelle scelte di sviluppo. La domanda che nessuno pone: un'AI «sicura» il cui principale investitore è anche il suo principale cliente commerciale è davvero indipendente?",
+          "fatti": [
+            {
+              "testo": "Anthropic ha fissato il prezzo delle azioni a 83 dollari, sopra la forchetta di 70-78 dollari, raccogliendo 81,3 miliardi di dollari nella IPO.",
+              "fonte": "FocusAmerica",
+              "url": "https://focusamerica.it/la-rassegna-stampa-di-giovedi-19-novembre-2026/"
+            },
+            {
+              "testo": "Le azioni Anthropic hanno iniziato a essere scambiate sul Nasdaq il 19 novembre 2026 con il simbolo ANT.",
+              "fonte": "Anthropic",
+              "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+            },
+            {
+              "testo": "La valutazione diluita di Anthropic è di circa 1.500 miliardi di dollari, superando l'IPO di SpaceX come la più grande quotazione di sempre.",
+              "fonte": "FocusAmerica",
+              "url": "https://focusamerica.it/la-rassegna-stampa-di-giovedi-19-novembre-2026/"
+            },
+            {
+              "testo": "Il placement privato da 26 miliardi di Google e Nvidia è stato sottoscritto contestualmente all'IPO pubblica.",
+              "fonte": "CryptoBriefing",
+              "url": "https://cryptobriefing.com/anthropic-ipo-november-19-trillion-valuation/"
+            }
+          ],
+          "incerto": [
+            "Non è ancora noto il prezzo di apertura effettivo delle azioni sul mercato secondario dopo l'inizio delle contrattazioni."
+          ],
+          "editoriale": false,
+          "redattore": "L'Analista 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "ATP Finals Torino: Cobolli eliminato, Zverev-Fils decide il gruppo McEnroe",
+          "slug": "atp-finals-torino-cobolli-eliminato-zverev-fils",
+          "tag": [
+            "tennis",
+            "atp-finals",
+            "cobolli",
+            "zverev"
+          ],
+          "evidenza": false,
+          "fonte": "Sky Sport / OA Sport / Sportpress24",
+          "cerca_url": "https://www.google.com/search?q=ATP+Finals+Torino+Cobolli+eliminato+19+novembre+2026",
+          "post_x": "Cobolli fuori dalle ATP Finals. Tiafoe vince 7-6 6-0. Stasera Zverev-Fils su Italia 1 in chiaro. Il tennis è ancora gratis, ogni tanto. #ATPFinals #Torino",
+          "post_sito": "Flavio Cobolli saluta le ATP Finals di Torino con due sconfitte su due: Frances Tiafoe lo elimina con il punteggio di 7-6 6-0, rifilando un bagel nel secondo set. La notizia buona — verificata — è che la partita serale tra il numero 1 del mondo Alexander Zverev e il giovane talento francese Arthur Fils, che vale la qualificazione alla semifinale del gruppo McEnroe, è trasmessa in chiaro su Italia 1 alle 20.30. In un panorama dove quasi tutto lo sport di vertice richiede abbonamenti multipli, le ATP Finals restano un'eccezione parziale: il segnale in chiaro esiste, e va detto. La sconfitta di Cobolli è comunque una storia sportiva reale: la prima qualificazione alle Finals di un italiano della nuova generazione, con tutto il peso di un palcoscenico che brucia più del solito.",
+          "fatti": [
+            {
+              "testo": "Flavio Cobolli è stato eliminato dalle ATP Finals 2026 di Torino dopo due sconfitte su due partite nel girone.",
+              "fonte": "OA Sport",
+              "url": "https://www.oasport.it/2026/11/sport-in-tv-oggi-giovedi-19-novembre-orari-e-programma-completo-come-vedere-gli-eventi-in-streaming-2/"
+            },
+            {
+              "testo": "Frances Tiafoe ha battuto Cobolli con il punteggio di 7-6(6) 6-0.",
+              "fonte": "Sportpress24",
+              "url": "https://www.sportpress24.com/2026/11/18/le-prime-pagine-di-sportpress24-giovedi-19-novembre-2026/"
+            },
+            {
+              "testo": "La partita Zverev-Fils, decisiva per il gruppo McEnroe, è trasmessa in chiaro su Italia 1 alle 20.30.",
+              "fonte": "Lopinionista.it",
+              "url": "https://lopinionista.it/programmi-tv-19-novembre-2026-232148.html"
+            },
+            {
+              "testo": "Alexander Zverev è già qualificato alla semifinale delle ATP Finals 2026.",
+              "fonte": "Sky Sport",
+              "url": "https://sport.sky.it/tennis/2026/11/19/atp-finals-2026-partite-oggi-19-novembre"
+            }
+          ],
+          "incerto": [
+            "Non è ancora noto il risultato della partita Zverev-Fils, in programma serale."
+          ],
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Ultraleggero precipita a Lonato del Garda: morto il pilota",
+          "slug": "ultraleggero-precipita-lonato-garda-pilota-morto",
+          "tag": [
+            "incidente-aereo",
+            "lonato-del-garda",
+            "aviazione-leggera",
+            "brescia"
+          ],
+          "evidenza": false,
+          "fonte": "Italpress / Pavia Uno TV",
+          "cerca_url": "https://www.google.com/search?q=ultraleggero+precipita+Lonato+Garda+19+novembre+2026",
+          "post_x": "Un ultraleggero precipita a Lonato del Garda, pilota morto. L'aviazione leggera ha regole di sicurezza che si discutono da anni. Se ne riparlerà per un giorno, poi si dimentica. #Brescia",
+          "post_sito": "Un aeromobile ultraleggero è precipitato nella frazione Barcuzzi di Lonato del Garda, in provincia di Brescia, nel pomeriggio del 19 novembre. Il pilota ha perso la vita. L'aviazione leggera è un settore dove la causa strutturale rimossa torna puntuale dopo ogni incidente: le norme sui requisiti tecnici e di manutenzione per gli ultraleggeri italiani sono oggetto di dibattito da anni tra i sostenitori di una regolamentazione più stringente e chi ritiene le attuali sufficienti. Ogni volta che accade una tragedia il dibattito dura qualche ora, poi sparisce. Le dinamiche dell'incidente sono ancora al vaglio delle autorità competenti.",
+          "fatti": [
+            {
+              "testo": "Un ultraleggero è precipitato nella frazione Barcuzzi di Lonato del Garda (Brescia) nel pomeriggio del 19 novembre 2026, causando la morte del pilota.",
+              "fonte": "Pavia Uno TV / Italpress",
+              "url": "https://www.paviaunotv.it/radio-pavia-breakfast-news-19-novembre-2026/"
+            }
+          ],
+          "incerto": [
+            "Le cause e la dinamica dell'incidente sono ancora al vaglio delle autorità competenti.",
+            "Non è stata ancora diffusa l'identità del pilota."
+          ],
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Scienza",
+          "titolo": "Hayabusa2 cambia asteroide-bersaglio: il motore ionico cede dopo 12 anni",
+          "slug": "hayabusa2-cambia-asteroide-bersaglio-motore-guasto",
+          "tag": [
+            "spazio",
+            "jaxa",
+            "hayabusa2",
+            "asteroide"
+          ],
+          "evidenza": false,
+          "fonte": "JAXA / Japan Times / Meteoweb",
+          "cerca_url": "https://www.google.com/search?q=Hayabusa2+cambia+asteroide+motore+guasto+novembre+2026",
+          "post_x": "Hayabusa2 vaga nello spazio da 12 anni, il motore cede e deve cambiare asteroide. JAXA rilancia: «missione più difficile del mondo». Rispetto. #Hayabusa2 #JAXA",
+          "post_sito": "La sonda giapponese Hayabusa2, lanciata nel 2014 e già protagonista del ritorno di campioni dall'asteroide Ryugu nel 2020, ha dovuto cambiare obiettivo: il guasto all'unico motore ionico ancora funzionante, scoperto ad agosto 2026, le impedisce di eseguire la manovra gravitazionale attorno alla Terra necessaria per raggiungere l'asteroide 1998 KY26 nel 2031 come previsto. JAXA ha annunciato un flyby dell'asteroide 2015 BM510 nell'aprile 2028, descritto dal responsabile della missione come «una delle missioni di sorvolo più difficili al mondo». C'è qualcosa di genuinamente commovente in questa storia: una sonda che ha già fatto l'impossibile, che invecchia nello spazio come invecchiamo noi, e che i tecnici cercano di tenere viva a costo di riscrivere il piano di volo. Il sospetto verso l'hype scientifico non si applica qui — questa è semplicemente scienza che si adatta alla realtà dei motori usurati.",
+          "fatti": [
+            {
+              "testo": "JAXA ha annunciato che Hayabusa2 non raggiungerà l'asteroide 1998 KY26 nel 2031 a causa di un guasto al motore ionico scoperto ad agosto 2026.",
+              "fonte": "Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/11/17/japan/science-health/hayabusa2-probe-changes-course/"
+            },
+            {
+              "testo": "Il nuovo obiettivo è un flyby ad alta velocità dell'asteroide 2015 BM510, previsto per aprile 2028.",
+              "fonte": "Nippon.com / Jiji Press",
+              "url": "https://www.nippon.com/en/articles/-/57606"
+            },
+            {
+              "testo": "Hayabusa2 era stata lanciata nel 2014 e aveva riportato campioni dall'asteroide Ryugu nel 2020.",
+              "fonte": "Meteoweb",
+              "url": "https://www.meteoweb.eu/2026/11/problemi-ai-motori-la-sonda-hayabusa-costretta-a-cambiare-asteroide-bersaglio/1002005069/"
+            }
+          ],
+          "incerto": [
+            "Non è ancora noto se la sonda disporrà di sufficiente propulsione residua per completare il flyby del 2028."
+          ],
+          "editoriale": false,
+          "redattore": "Il Metodico 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "AI",
+          "titolo": "Anthropic sbarca in Borsa: la «AI sicura» vale 1.500 miliardi, Google e Nvidia già dentro",
+          "slug": "anthropic-borsa-ipo-sicura-google-nvidia",
+          "tag": [
+            "anthropic",
+            "intelligenza-artificiale",
+            "ipo",
+            "big-tech"
+          ],
+          "evidenza": false,
+          "fonte": "Anthropic / CNBC / Euronews",
+          "cerca_url": "https://www.google.com/search?q=Anthropic+IPO+AI+sicura+Google+Nvidia+novembre+2026",
+          "post_x": "Anthropic: «AI sicura e responsabile». Google dentro. Nvidia dentro. Amazon dentro. 81 miliardi raccolti. La sicurezza rende bene. #Claude #AIHype",
+          "post_sito": "Oggi debutta in Borsa Anthropic, la società fondata da ex-OpenAI che ha costruito il proprio brand sulla «sicurezza dell'intelligenza artificiale». La valutazione diluita tocca 1.500 miliardi di dollari, l'IPO è la più grande della storia. Il beneficio taciuto è scritto nel capitale: Google e Nvidia hanno sottoscritto un placement privato da 26 miliardi di dollari parallelo all'offerta pubblica. Detto in altre parole: i due principali fornitori di infrastruttura AI del pianeta sono anche i principali investitori dell'unica grande AI company che si presenta al mercato come «alternativa etica» a OpenAI. Il coro compatto dei media saluta l'IPO come una vittoria della «responsible AI». Vale la pena ricordare che Anthropic è stata fondata cinque anni fa da persone che avevano lasciato OpenAI per motivi di sicurezza, e che ora ottengono le stesse valutazioni miliardarie per gli stessi motivi che dicevano di voler evitare. La storia si ripete, solo con più marketing sulla sicurezza.",
+          "fatti": [
+            {
+              "testo": "Anthropic ha prezzato la sua IPO a 83 dollari per azione, raccogliendo 81,3 miliardi di dollari, superando SpaceX come più grande quotazione della storia.",
+              "fonte": "Anthropic",
+              "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+            },
+            {
+              "testo": "La valutazione diluita di Anthropic è di circa 1.500 miliardi di dollari.",
+              "fonte": "FocusAmerica",
+              "url": "https://focusamerica.it/la-rassegna-stampa-di-giovedi-19-novembre-2026/"
+            },
+            {
+              "testo": "Google e Nvidia hanno sottoscritto un placement privato da 26 miliardi di dollari contestualmente all'IPO pubblica di Anthropic.",
+              "fonte": "CryptoBriefing",
+              "url": "https://cryptobriefing.com/anthropic-ipo-november-19-trillion-valuation/"
+            },
+            {
+              "testo": "L'ultima valutazione privata di Anthropic risaliva al maggio 2026 ed era di 965 miliardi di dollari.",
+              "fonte": "CryptoBriefing",
+              "url": "https://cryptobriefing.com/anthropic-ipo-november-19-trillion-valuation/"
+            }
+          ],
+          "incerto": [
+            "Non è ancora noto il prezzo di mercato effettivo delle azioni nelle prime ore di contrattazione."
+          ],
+          "editoriale": false,
+          "redattore": "Il Futurologo 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Wellness",
+          "titolo": "RFK Jr. liberalizza i peptidi sperimentali: dimagrire, ringiovanire, tutto senza approvazione FDA",
+          "slug": "rfk-peptidi-sperimentali-fda-usa-wellness",
+          "tag": [
+            "peptidi",
+            "fda",
+            "rfk-jr",
+            "wellness-industry"
+          ],
+          "evidenza": false,
+          "fonte": "The Conversation / US News / tp24.it",
+          "cerca_url": "https://www.google.com/search?q=RFK+peptidi+FDA+liberalizzazione+novembre+2026",
+          "post_x": "RFK Jr. liberalizza 6 peptidi sperimentali: dimagrire, ringiovanire, muscoli, sesso. Nessuna prova di sicurezza. Gli scienziati FDA contrari. Il mercato esulta. #MAHA #Peptidi",
+          "post_sito": "Il segretario alla Salute americano Robert F. Kennedy Jr. ha annunciato che le farmacie specializzate potranno vendere sei peptidi finora non autorizzati — tra cui BPC-157 e TB-500 — promossi nell'industria del wellness per perdita di peso, ringiovanimento della pelle, aumento della massa muscolare e miglioramento delle performance sessuali. Il tutto senza che nessuno di questi composti abbia superato i test di sicurezza ed efficacia della FDA. Anzi: secondo AP, gli scienziati della FDA erano contrari alla decisione e avevano avuto pochissimo peso nel processo. Il beneficio taciuto è evidente: alcuni dei principali promotori del movimento MAHA (Make America Healthy Again) di cui Kennedy è il simbolo vendono già peptidi e integratori. La decisione trasforma un mercato grigio in un mercato ufficiale, con profitto diretto per chi era già posizionato. L'industria del wellness non vende salute — vende l'insicurezza di non averla abbastanza.",
+          "fatti": [
+            {
+              "testo": "Una policy HHS del 29 ottobre 2026, promossa da RFK Jr., consente alle farmacie specializzate di produrre e vendere sei peptidi finora non approvati dalla FDA, tra cui BPC-157 e TB-500.",
+              "fonte": "The Conversation",
+              "url": "https://theconversation.com/rfk-jr-loosens-access-to-unapproved-peptides-a-health-law-scholar-explains-what-consumers-need-to-know-295526"
+            },
+            {
+              "testo": "Secondo AP, gli scienziati della FDA hanno avuto scarso peso nel processo decisionale e si sono opposti alle modifiche.",
+              "fonte": "US News / AP",
+              "url": "https://www.usnews.com/news/business/articles/2026-10-28/fda-scientists-opposed-the-trump-administrations-effort-to-ease-peptides-access"
+            },
+            {
+              "testo": "I peptidi oggetto della policy sono promossi per dimagrire, ringiovanire la pelle, aumentare la massa muscolare e migliorare le performance sessuali.",
+              "fonte": "tp24.it",
+              "url": "https://www.tp24.it/notizie-inchieste-eventi-a-trapani/19-novembre-vertice-usa-russia-cina-alta-tensione-con-teheran-i-dem-vincono-in-alaska/242420"
+            }
+          ],
+          "incerto": [
+            "Non sono ancora disponibili dati su eventuali effetti avversi segnalati dopo l'entrata in vigore della policy.",
+            "Non è noto se altri paesi seguiranno l'approccio americano alla liberalizzazione dei peptidi."
+          ],
+          "editoriale": false,
+          "redattore": "Il Life Coach 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Cultura",
+          "titolo": "GTA 6 esce oggi dopo 13 anni: Vice City torna, con due rinvii e 212 GB da scaricare",
+          "slug": "gta-6-uscita-19-novembre-2026-vice-city",
+          "tag": [
+            "gta6",
+            "rockstar",
+            "videogiochi",
+            "take-two"
+          ],
+          "evidenza": false,
+          "fonte": "Sky TG24 / Rockstar Games / ItaliaTopGames",
+          "cerca_url": "https://www.google.com/search?q=GTA+6+uscita+19+novembre+2026",
+          "post_x": "GTA 6 esce oggi dopo 4.811 giorni di attesa, due rinvii e 212 GB di spazio. Nessuna data per PC. Take-Two ringrazia, le tasche dei giocatori meno. #GTA6 #ViceCity",
+          "post_sito": "Oggi, 19 novembre 2026, Grand Theft Auto VI arriva su PS5 e Xbox Series X|S dopo tredici anni dall'uscita di GTA V, due rinvii (prima al maggio 2026, poi a novembre) e un preload da 212 gigabyte. Il coro compatto dei media lo celebra come evento culturale del decennio. Un angolo meno celebrato: la versione PC non ha ancora una data ufficiale, il che significa che chi vuole giocare deve comprare ora una console di ultima generazione oppure aspettare — mesi o anni — per la versione desktop. Rockstar e la casa madre Take-Two non l'hanno annunciato per caso: il gap console-PC è uno strumento di monetizzazione collaudato che massimizza le vendite hardware delle console partner. Detto questo, 4.811 giorni di attesa sono una storia culturale reale: GTA V è stato il prodotto d'intrattenimento più venduto al mondo per oltre un decennio. Se GTA VI manterrà anche solo metà di quella longevità, le entrate di Take-Two nei prossimi anni saranno difficili da immaginare.",
+          "fatti": [
+            {
+              "testo": "Grand Theft Auto VI è uscito il 19 novembre 2026 su PlayStation 5 e Xbox Series X|S, dopo due rinvii rispetto alla finestra iniziale del 2025.",
+              "fonte": "Rockstar Games",
+              "url": "https://www.rockstargames.com/it/newswire/article/ak3ak31a49a221/grand-theft-auto-vi-is-now-set-to-launch-november-19-2026"
+            },
+            {
+              "testo": "Tra l'uscita di GTA V il 17 settembre 2013 e quella di GTA VI il 19 novembre 2026 sono trascorsi 4.811 giorni.",
+              "fonte": "ItaliaTopGames",
+              "url": "https://www.italiatopgames.it/articoli/news/gta-6-finalmente-ci-siamo-la-storia-infinita-dallannuncio-alluscita-del-19-novembre-2026/161687/"
+            },
+            {
+              "testo": "Il precaricamento digitale di GTA 6 richiede fino a 212 GB di spazio su disco.",
+              "fonte": "PopTalks",
+              "url": "https://www.poptalks.it/gta-6-data-di-uscita/"
+            },
+            {
+              "testo": "Non è stata annunciata una data di uscita per la versione PC di GTA 6.",
+              "fonte": "Sky TG24",
+              "url": "https://tg24.sky.it/tecnologia/2026/11/18/gta-6-uscita-numeri-curiosita"
+            }
+          ],
+          "incerto": [
+            "Non è stata ancora annunciata una data ufficiale per la versione PC di GTA 6."
+          ],
+          "editoriale": false,
+          "redattore": "Il Letterato 1.0",
+          "fatti_verificati": true
+        }
+      ],
+      "controlli": {
+        "url_ricerca": 111,
+        "fatti_proposti": 31,
+        "fatti_scartati": 0,
+        "giorni_corretti": [],
+        "virgolette_riparate": 0
+      }
+    },
+    {
       "data": "2026-11-18",
       "post": [
         {
@@ -7306,193 +7712,7 @@
           "redattore": "Il Letterato 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-10-20",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Trump, Putin e Xi a tre intorno al tavolo: Zelensky fuori dalla porta",
-          "slug": "trump-putin-xi-vertice-tre-ucraina-zelensky-escluso",
-          "tag": [
-            "ucraina",
-            "guerra",
-            "trump",
-            "geopolitica"
-          ],
-          "evidenza": true,
-          "fonte": "Sky TG24 / Focus America",
-          "cerca_url": "https://www.google.com/search?q=Trump+Putin+Xi+vertice+tre+Ucraina+Zelensky+Oslo+ottobre+2026",
-          "post_x": "Trump apre al vertice con Putin e Xi per «chiudere» la guerra. Zelensky non è invitato. La pace si fa senza chi la subisce: ormai è una tradizione consolidata. #Ucraina",
-          "post_sito": "L'inviato Usa Steve Witkoff vola a Oslo per incontrare Zelensky, poi si sposterà a Mosca per sondare Putin — il viaggio del commesso viaggiatore della pace altrui. Nel frattempo Trump apre pubblicamente a un vertice trilaterale con Putin e Xi a Shenzhen, sullo sfondo dell'Apec di novembre, per «discutere di denuclearizzazione e della fine della guerra». Zelensky intanto denuncia che gli Usa ritardano la consegna dei Patriot già pagati e che Starlink viene limitato proprio sui settori del fronte più caldi: beneficio taciuto, l'industria bellica americana incassa i contratti e decide i rubinetti. La domanda che il coro mediatico non pone mai è chi ci guadagna da una guerra che dura: i contractor della difesa Usa hanno moltiplicato i ricavi negli ultimi due anni, e una pace «alle condizioni di Mosca» — come scrive il Wall Street Journal — è anche una pace che spalanca il mercato della ricostruzione ucraina agli stessi attori che oggi vendono le armi.",
-          "editoriale": true,
-          "prospettive": [
-            {
-              "etichetta": "La posizione di Washington",
-              "testo": "L'amministrazione Trump presenta il vertice trilaterale come un'iniziativa diplomatica per fermare un conflitto che costa vite e risorse. L'invio di Witkoff a Oslo risponde alle pressioni bipartisan al Congresso, dove cresce l'insofferenza per i costi del sostegno a Kiev. Trump sostiene che un accordo negoziato — anche se sfavorevole all'Ucraina sul piano territoriale — sia preferibile alla prosecuzione delle ostilità."
-            },
-            {
-              "etichetta": "La posizione di Kiev",
-              "testo": "Zelensky denuncia apertamente di non essere stato informato degli attacchi missilistici notturni sulla capitale e accusa Washington di tagliare Starlink e l'intelligence proprio nei settori più critici del fronte. Kiev considera inaccettabile qualsiasi accordo negoziato senza la sua partecipazione diretta e senza garanzie di sicurezza concrete, e teme che il formato trilaterale Russia-Usa-Cina la escluda di fatto dalle decisioni sul proprio futuro."
-            },
-            {
-              "etichetta": "Il nodo economico invisibile",
-              "testo": "La ricostruzione dell'Ucraina è stimata da diverse fonti tra i 400 e i 500 miliardi di dollari. I principali attori che si candidano a gestirne i contratti — fondi di investimento, società di infrastrutture e banche d'affari occidentali — hanno interessi diretti sia nella durata del conflitto sia nella forma della pace. Il mercato assicurativo e finanziario ha già sviluppato strumenti di copertura legati agli scenari post-conflitto."
-            },
-            {
-              "etichetta": "La lettura europea",
-              "testo": "I governi europei guardano con crescente preoccupazione a un formato negoziale che li esclude. Un accordo imposto da Washington e Mosca — con la Cina come garante — ridisegnerebbe gli equilibri di sicurezza del continente senza che i paesi direttamente esposti al confine orientale abbiano voce in capitolo. La credibilità della Nato come deterrente dipende anche dall'esito di questo processo."
-            }
-          ],
-          "implicazioni": "Se il vertice trilaterale si concretizzasse, l'Ucraina si troverebbe davanti a una scelta difficile: accettare un accordo negoziato da altri, rifiutarlo a costo di perdere il sostegno americano, oppure cercare una sponda europea che al momento non ha la forza politica per imporsi. La forma della pace che emergerà determinerà anche chi controllerà i contratti della ricostruzione — una posta economica di primissimo ordine.",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Decreto sicurezza post-Milano: 500 militari, fermo per i minorenni, poteri di polizia all'Esercito",
-          "slug": "decreto-sicurezza-milano-500-militari-fermo-minorenni",
-          "tag": [
-            "sicurezza",
-            "milano",
-            "decreto",
-            "meloni"
-          ],
-          "evidenza": false,
-          "fonte": "Il Politico Web / Sky TG24",
-          "cerca_url": "https://www.google.com/search?q=decreto+sicurezza+500+militari+Milano+fermo+minorenni+CdM+20+ottobre+2026",
-          "post_x": "Guerriglia a Milano → decreto sicurezza varato in 48 ore. 500 militari con poteri di polizia, fermo per i minorenni. Il governo che ci mette mesi per la manovra fa i decreto legge nel weekend. #Milano #Sicurezza",
-          "post_sito": "Il Consiglio dei ministri straordinario del 20 ottobre vara un decreto che manda 500 militari a Milano con funzioni di polizia giudiziaria per tre mesi, estende il fermo preventivo ai minorenni tra i 14 e i 18 anni portandolo da 12 a 24 ore, introduce il reato di danneggiamento aggravato di gruppo con pene da un anno e mezzo a cinque anni e consente l'arresto differito entro 48 ore. Velocità record per un governo che aspetta l'Ue da settimane per varare la legge di bilancio: la distrazione utile funziona, perché mentre si parla di «maranza» e di coprifuoco nessuno chiede conto del taglio alle pensioni che il quotidiano Italia Oggi calcola già concretamente. Il mandante invisibile di questa stretta è anche elettorale: con le elezioni all'orizzonte, la legge e l'ordine vale consensi che non si trovano altrove. Da notare che Crosetto ha dovuto gelare pubblicamente Salvini — «annunciare militari inutili se non hanno i poteri per agire» — segno che il decreto nasce da una trattativa interna ancora non chiusa, e che le correnti di governo tirano in direzioni diverse anche su questo.",
-          "editoriale": false,
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Il debito dell'IA fa tremare le Borse: mille miliardi bruciati, tensione sui BTP con effetto-Francia",
-          "slug": "debito-ia-crollo-borse-tech-btp-tensione",
-          "tag": [
-            "intelligenza-artificiale",
-            "borse",
-            "btp",
-            "debito"
-          ],
-          "evidenza": false,
-          "fonte": "Milano Finanza / AI4Business",
-          "cerca_url": "https://www.google.com/search?q=debito+AI+crollo+borse+tech+BTP+tensione+ottobre+2026",
-          "post_x": "Il Nasdaq ha bruciato oltre mille miliardi di capitalizzazione in una settimana per i «timori sul debito AI». Traduzione: i mercati si sono accorti che i data center costano prima che i ricavi arrivino. Sorpresa. #Borse #AI",
-          "post_sito": "La settimana precedente ha visto il Nasdaq perdere oltre il 4,4% e mille miliardi di dollari di capitalizzazione nel settore tech evaporare in una seduta, mentre il Brent ha superato i 110 dollari al barile. Il meccanismo è semplice e viene taciuto dal coro dell'hype: le grandi aziende tecnologiche hanno contratto centinaia di miliardi di debiti per costruire infrastrutture AI — data center, chip, energia — e i mercati stanno adesso chiedendo quando arriveranno i ricavi reali a remunerare quell'investimento. Nel frattempo, in Italia la tensione sui BTP si alimenta dell'«effetto Francia» — dove il premier Lecornu non esclude lo stato d'emergenza — e i Paesi ad alto debito come l'Italia restano sotto i riflettori degli operatori. Beneficio taciuto: chi vende le assicurazioni contro il default delle società tech AI — i CDS — ci guadagna ogni volta che la narrativa si incrina. E la narrativa si sta incrinando.",
-          "editoriale": false,
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Mondiali di ciclismo su pista a Shanghai: Milan oro con record del mondo, Italia chiude con 4 medaglie",
-          "slug": "mondiali-ciclismo-pista-shanghai-2026-milan-oro-italia-medaglie",
-          "tag": [
-            "ciclismo",
-            "pista",
-            "mondiali",
-            "jonathan-milan"
-          ],
-          "evidenza": false,
-          "fonte": "Sky Sport / Sportface",
-          "cerca_url": "https://www.google.com/search?q=Mondiali+ciclismo+pista+Shanghai+2026+Italia+medaglie+Milan+oro",
-          "post_x": "Jonathan Milan: oro mondiale nell'inseguimento su pista con record del mondo. L'Italia chiude Shanghai con 4 medaglie. Il ciclismo su pista esiste, anche quando i quotidiani sportivi aprono con la crisi Juventus. #Ciclismo #Mondiali",
-          "post_sito": "I Mondiali di ciclismo su pista di Shanghai 2026 si sono chiusi con un bilancio azzurro di quattro medaglie: l'oro di Jonathan Milan nell'inseguimento individuale con record del mondo, il bronzo di Filippo Ganna nella stessa specialità e i due argenti dei quartetti maschile e femminile nell'inseguimento a squadre. La spedizione italiana torna a casa sesta nel medagliere, prima della Gran Bretagna (6 ori) e dell'Olanda (5 ori). Il dato rilevante — sistematicamente oscurato dai giornali che aprono con la crisi Juventus — è che questi Mondiali erano anche il primo appuntamento valido per la qualificazione olimpica a Los Angeles 2028: ogni piazzamento conta, e l'Italia ha raccolto punti preziosi. Il conto dietro la medaglia resta però aperto: Milan, Ganna e le altre stelle della pista sono professionisti della strada che dedicano alla pista solo finestre ridotte della stagione. Quanta struttura, quanti investimenti, quanti tecnici dedicati ci sono dietro? La risposta è meno di quanto servirebbe.",
-          "editoriale": false,
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Scontri di Milano: 271 accompagnati in questura, 34 minorenni arrestati, negozi chiusi per paura",
-          "slug": "scontri-milano-271-questura-minori-negozi-chiusi",
-          "tag": [
-            "milano",
-            "ordine-pubblico",
-            "violenza-urbana",
-            "minori"
-          ],
-          "evidenza": false,
-          "fonte": "Sky TG24 / Fanpage",
-          "cerca_url": "https://www.google.com/search?q=scontri+Milano+271+questura+34+minorenni+negozi+chiusi+ottobre+2026",
-          "post_x": "Milano: 271 in questura, 34 minori arrestati, negozi chiusi. Il racconto dominante è «maranza contro civiltà». Quello che si tace: inflazione al 4%, emergenza casa, una generazione senza prospettive. #Milano",
-          "post_sito": "Dopo gli scontri del fine settimana a Milano, il bilancio è di 271 persone accompagnate in questura, 34 minori arrestati e 14 operatori delle forze dell'ordine feriti. Diversi negozi del centro sono rimasti chiusi per paura di nuovi saccheggi. Il racconto dominante cerca il villain di comodo nella figura del «maranza» — parola già diventata brand politico — mentre la causa strutturale rimossa è quella di una città in cui l'emergenza abitativa è diventata una bomba sociale segnalata da Fanpage già settimane fa, in cui l'inflazione al 4% ha eroso i redditi più bassi e in cui una parte della gioventù delle periferie si definisce «inesistente prima di sabato». Questo non giustifica nulla — la violenza è violenza, le responsabilità penali sono individuali — ma spiega perché 500 militari e un decreto legge fotografino il sintomo e non la malattia.",
-          "editoriale": false,
-          "redattore": "L'Osservatore 1.0"
-        },
-        {
-          "categoria": "Scienza",
-          "titolo": "Il Giappone lancia la sonda MMX verso Phobos: primo tentativo al mondo di riportare campioni da una luna di Marte",
-          "slug": "giappone-sonda-mmx-phobos-marte-lancio-2026",
-          "tag": [
-            "spazio",
-            "giappone",
-            "jaxa",
-            "marte"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Gazzetta di Parma",
-          "cerca_url": "https://www.google.com/search?q=sonda+MMX+Giappone+Phobos+Marte+lancio+20+ottobre+2026",
-          "post_x": "Il Giappone lancia MMX verso Phobos, luna di Marte. Prima missione al mondo a tentare il recupero di campioni da un satellite marziano. Rientro previsto nel 2031. Nel frattempo noi discutiamo di militari a Milano. #Spazio #MMX",
-          "post_sito": "Dal Centro Spaziale di Tanegashima, alle 21:41 ora italiana del 19 ottobre (4:41 del 20 in Giappone), la JAXA ha lanciato con successo la sonda MMX — Martian Moons eXploration — a bordo del razzo H3. La missione punta a Phobos, la luna più grande di Marte, con l'obiettivo di raccogliere almeno 10 grammi di campioni e riportarli sulla Terra entro il 2031: nessuno ci ha mai provato prima. La sonda pesa 4.480 chilogrammi, arriverà nel sistema marziano nell'agosto 2027 e trascorrerà tre anni in orbita prima del rientro. Il lancio era previsto originariamente per il 2024, rinviato dopo il fallimento del volo inaugurale del razzo H3 — dettaglio che il clamore odierno tende a dimenticare. Chi ci guadagna? La risposta stavolta è meno cinica del solito: JAXA, Mitsubishi Heavy Industries che costruisce l'H3, e — nel lungo periodo — chiunque voglia capire se Phobos sia un asteroide catturato o un frammento strappato a Marte, con implicazioni decisive sull'intera storia del sistema solare.",
-          "editoriale": false,
-          "redattore": "Il Metodico 1.0"
-        },
-        {
-          "categoria": "AI",
-          "titolo": "Le grandi società di consulenza nell'era dell'IA: il modello che mangiava i junior è già in crisi",
-          "slug": "consulenza-ia-modello-business-crisi-junior-automazione",
-          "tag": [
-            "intelligenza-artificiale",
-            "consulenza",
-            "lavoro",
-            "automazione"
-          ],
-          "evidenza": false,
-          "fonte": "Ripart'Italia / Financial Times (scenario citato)",
-          "cerca_url": "https://www.google.com/search?q=intelligenza+artificiale+societa+consulenza+modello+business+crisi+2026",
-          "post_x": "L'IA sta «sfidando il modello di business» delle grandi società di consulenza. Traduzione: il lavoro a basso valore che i junior facevano a 80€/ora — e che veniva rivenduto a 400 — ora lo fa un modello linguistico. Il sistema era già rotto prima. #AI #Consulenza",
-          "post_sito": "Il Financial Times — ripreso oggi da più testate italiane — fotografa una crisi strutturale nei grandi studi di consulenza: le imprese internalizzano i lavori di base e li affidano all'IA, eliminando la voce di costo dei consulenti junior che storicamente sovvenzionava il lavoro complesso dei senior. Mandante invisibile: non è l'intelligenza artificiale a aver rotto il modello — è che il modello era già insostenibile, costruito su una piramide in cui il lavoro banale veniva inflazionato e venduto a peso d'oro per finanziare le fee delle partnership. L'IA ha solo reso visibile la frode tariffaria. Il dato Istat citato in settimana segnala che nel 2025 solo il 16,4% delle imprese italiane utilizzava soluzioni AI, con il Nord Ovest al 19,3%: il fossato tra chi può investire e chi resta fuori si allarga, e le piccole imprese rischiano di pagare il conto di una disruption che non hanno scelto e che i grandi player stanno usando per consolidare ulteriormente il loro vantaggio.",
-          "editoriale": false,
-          "redattore": "Il Futurologo 1.0"
-        },
-        {
-          "categoria": "Wellness",
-          "titolo": "Giornata mondiale dell'osteoporosi: l'IA nelle radiografie per trovare le ossa fragili. L'industria ci crede, i fondi pubblici meno",
-          "slug": "osteoporosi-giornata-mondiale-ia-diagnosi-radiografie",
-          "tag": [
-            "osteoporosi",
-            "salute",
-            "intelligenza-artificiale",
-            "diagnosi"
-          ],
-          "evidenza": false,
-          "fonte": "Qui Salute Magazine / Ok Salute",
-          "cerca_url": "https://www.google.com/search?q=giornata+mondiale+osteoporosi+20+ottobre+2026+intelligenza+artificiale+diagnosi",
-          "post_x": "Giornata mondiale dell'osteoporosi: l'IA può già individuare ossa fragili nelle radiografie di routine. Tecnologia promettente. Chi la pagherà nella sanità pubblica è ancora tutto da scrivere. #Osteoporosi #Salute",
-          "post_sito": "Il 20 ottobre è la Giornata mondiale dell'osteoporosi. Quest'anno la notizia scientificamente più concreta è quella dello screening opportunistico basato su IA: algoritmi che analizzano radiografie e TC già presenti nella cartella clinica del paziente, individuando segnali di fragilità ossea senza esami aggiuntivi. Una revisione sistematica pubblicata nel 2026 su Frontiers in Medicine ha esaminato 57 studi sull'argomento. Tecnologia promettente, quindi. Ma il meccanismo del beneficio taciuto funziona anche qui: chi sviluppa questi algoritmi — aziende medtech private — ha tutto l'interesse a presentarli come rivoluzionari prima che la validazione clinica completa sia disponibile; i sistemi sanitari pubblici, già sotto pressione, sono lenti ad adottarli; e nel frattempo l'industria degli integratori di calcio e vitamina D — mercato da miliardi — continua a occupare ogni campagna di sensibilizzazione. La densitometria ossea DXA resta l'esame di riferimento, ma non tutti i pazienti a rischio ci arrivano in tempo: questo è il problema reale, e non si risolve con un algoritmo né con un integratore.",
-          "editoriale": false,
-          "redattore": "Il Life Coach 1.0"
-        },
-        {
-          "categoria": "Cultura",
-          "titolo": "Festa del Cinema di Roma: Einaudi, Jeunet e il film su Pino Daniele — ma chi decide cosa arriva al grande pubblico?",
-          "slug": "festa-cinema-roma-2026-einaudi-jeunet-pino-daniele",
-          "tag": [
-            "cinema",
-            "cultura",
-            "festa-del-cinema",
-            "roma"
-          ],
-          "evidenza": false,
-          "fonte": "Libero / Almanacco Cinema",
-          "cerca_url": "https://www.google.com/search?q=Festa+Cinema+Roma+2026+programma+20+ottobre+Einaudi+Jeunet+Pino+Daniele",
-          "post_x": "Alla Festa del Cinema di Roma: Ludovico Einaudi che rivisita i suoi luoghi, Jean-Pierre Jeunet con il nuovo film, e il biopic su Pino Daniele in sala. Cultura alta. Nel frattempo la compagna di Pino dice che «ne sarebbe inorridito». #FestaCinema #Roma",
-          "post_sito": "La 21ª Festa del Cinema di Roma prosegue oggi con una giornata densa: il documentario su Ludovico Einaudi e i luoghi dove nacque il suo disco più noto, il nuovo film di Jean-Pierre Jeunet adattato da un bestseller di Valérie Perrin, e il biopic «Je so' pazzo» su Pino Daniele già in sala. Su quest'ultimo, però, la compagna del cantautore ha dichiarato pubblicamente che Pino «ne sarebbe inorridito» — primo in sala ma ultimo per verosimiglianza secondo chi lo ha conosciuto. La Festa del Cinema è un momento in cui l'industria culturale si racconta a se stessa: il mandante invisibile è il sistema dei finanziamenti pubblici al cinema italiano — Ministero della Cultura, tax credit, quote di programmazione — che determina quali storie vengono prodotte e quali no, molto prima che un regista metta mano alla sceneggiatura. Il biopic sul musicista scomparso, già al botteghino, è anche un prodotto industriale: i diritti musicali, le royalty e il merchandising legato a un'opera cinematografica su un artista amato valgono molto di più del biglietto del cinema.",
-          "editoriale": false,
-          "redattore": "Il Letterato 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-11-18T08:21:25.404015+00:00"
+  "ultimo_aggiornamento": "2026-11-19T08:20:37.736406+00:00"
 }
