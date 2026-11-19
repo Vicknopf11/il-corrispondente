@@ -1,6 +1,14 @@
 {
   "pubblicazioni": [
     {
+      "data": "2026-11-19",
+      "slug": "vertice-trump-xi-putin-shenzhen-europa-esclusa",
+      "categoria": "Politica Internazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
       "data": "2026-11-18",
       "slug": "cliff-booth-fincher-tarantino-pitt-netflix-premiere",
       "categoria": "Cultura",
