@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-20",
+      "slug": "premio-sakurai-laporta-remiddi-fisica-teorica-particelle",
+      "categoria": "Scienza",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-20",
       "slug": "aeroporto-genova-chiuso-droni-sicurezza-aerea",
       "categoria": "Cronaca",
       "evidenza": false,
