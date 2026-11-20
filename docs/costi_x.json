@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-20",
+      "slug": "morte-corrado-augias-91-anni-giornalista-scrittore",
+      "categoria": "Cultura",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-20",
       "slug": "mercato-wellness-2700-miliardi-investitori-mckinsey",
       "categoria": "Wellness",
       "evidenza": false,
