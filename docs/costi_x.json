@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-20",
+      "slug": "aeroporto-genova-chiuso-droni-sicurezza-aerea",
+      "categoria": "Cronaca",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-20",
       "slug": "atp-finals-torino-2026-cobolli-alcaraz-medvedev-tiafoe-semifinale",
       "categoria": "Sport",
       "evidenza": false,
