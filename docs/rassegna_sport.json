@@ -1,22 +1,6 @@
 {
-  "generato": "2026-11-20T12:31:07.164326+00:00",
+  "generato": "2026-11-20T18:31:05.481928+00:00",
   "item": [
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Pétanque, Mondiali Senior 2026: una giovane Italia a caccia di medaglie in Thailandia",
-      "link": "https://www.gazzetta.it/bocce/19-11-2026/bocce-petanque-mondiali-senior-2026-italia-a-caccia-di-medaglie-in-thailandia.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-11-19"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Serie C, fascia da capitano rossa per dire no alla violenza sulle donne",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/20/serie-c-fascia-da-capitano-rossa-per-dire-no-alla-violenza-sulle-donne_4e3199a4-1c93-4748-b025-a24ec93571d5.html",
-      "fonte": "ANSA Sport",
-      "data_evento": "2026-11-20"
-    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
@@ -36,10 +20,26 @@
     {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
-      "titolo": "Italia-Figi: Quesada cerca riscatto e si affida a Miotti. In seconda linea ecco Ortombina",
-      "link": "https://www.gazzetta.it/Rugby/19-11-2026/italia-figi-quesada-si-affida-a-miotti-e-ortombina.shtml",
+      "titolo": "Dalla canna da zucchero all'oro olimpico, la morte del figlio al Mondiale: Tuisova sfida l'Italrugby",
+      "link": "https://www.gazzetta.it/Rugby/20-11-2026/rugby-italia-figi-tuisova-tagliava-canna-da-zucchero-poi-vinse-le-olimpiadi.shtml",
       "fonte": "Gazzetta — Rugby",
+      "data_evento": "2026-11-20"
+    },
+    {
+      "sottocategoria": "Atletica",
+      "tipo": "notizia",
+      "titolo": "Jepchirchir shock! La campionessa mondiale in carica ammette l'uso di Epo: squalificata per 3 anni",
+      "link": "https://www.gazzetta.it/Atletica/19-11-2026/jepchirchir-shock-la-campionessa-mondiale-in-carica-ammette-l-uso-di-epo-squalificata-pe.shtml",
+      "fonte": "Gazzetta — Atletica",
       "data_evento": "2026-11-19"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Atp Finals, chi partecipava al torneo ai tempi dell'uscita di Gta V?",
+      "link": "https://video.gazzetta.it/tennis/atp/video-atp-finals-chi-partecipava-al-torneo-ai-tempi-dell-uscita-di-gta-v/22f20284-314c-4358-9ffa-9a1df5f78xlk",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-11-20"
     }
   ]
 }
