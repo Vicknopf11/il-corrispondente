@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-20",
+      "slug": "atp-finals-torino-2026-cobolli-alcaraz-medvedev-tiafoe-semifinale",
+      "categoria": "Sport",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-20",
       "slug": "anthropic-ipo-record-nasdaq-107-miliardi-conti-rosso",
       "categoria": "Economia",
       "evidenza": false,
