@@ -1,6 +1,413 @@
 {
   "edizioni": [
     {
+      "data": "2026-11-20",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Vertice Trump-Xi-Putin a Shenzhen: la pace che non nomina l'Ucraina",
+          "slug": "vertice-trump-xi-putin-shenzhen-pace-senza-ucraina",
+          "tag": [
+            "geopolitica",
+            "ucraina",
+            "usa-russia-cina",
+            "apec"
+          ],
+          "evidenza": true,
+          "fonte": "Adnkronos / Il Messaggero",
+          "cerca_url": "https://www.google.com/search?q=vertice+trilaterale+Trump+Putin+Xi+Shenzhen+novembre+2026",
+          "post_x": "Tre grandi potenze si incontrano per «la pace». Il documento finale non menziona l'Ucraina. L'ONU va riformata. La CPI abusa. Trump chiama Putin «amico». Giornata storica. Per chi?",
+          "post_sito": "A Shenzhen, a margine dell'APEC, è andato in scena il primo vertice trilaterale della storia tra USA, Cina e Russia. Il documento finale in quattro punti parla di stabilità nucleare, sicurezza energetica, riforma dell'ONU e immunità dei capi di Stato — ma non pronuncia la parola «Ucraina», dove nel frattempo la Russia colpiva Kiev con missili e droni uccidendo tre persone. Il bastian contrario non resiste alla domanda: chi ci guadagna dall'accordo sull'«immunità dei leader»? Tutti e tre i firmatari, e in modo piuttosto trasparente. Il coro occidentale grida al tradimento, ma tace sul fatto che gli alleati europei finanziano da anni una guerra che non riescono a vincere né a fermare, e che l'industria bellica del continente non ha mai fatturato così bene. Trump ha poi telefonato ai «Volenterosi» dall'Air Force One chiedendo perché continuare a mandare soldi a Kiev — domanda irritante, ma non priva di logica contabile. Meloni si è dichiarata «scettica»: posizione prudente per chi siede tra Washington e Bruxelles senza poter scegliere né l'uno né l'altro.",
+          "fatti": [
+            {
+              "testo": "Il vertice trilaterale tra Trump, Xi e Putin si è svolto a Shenzhen il 19 novembre 2026, a margine del summit APEC, ed è durato circa un'ora e mezza.",
+              "fonte": "La Verità",
+              "url": "https://www.laverita.info/geopolitica/russia-usa-cina-shenzhen-trilaterale"
+            },
+            {
+              "testo": "La dichiarazione congiunta in quattro punti affronta riforma dell'ONU, sicurezza energetica, immunità dei capi di Stato e non proliferazione nucleare, senza menzionare l'Ucraina.",
+              "fonte": "Il Messaggero",
+              "url": "https://www.ilmessaggero.it/mondo/trump_putin_xi_usa_russia_cina_vertice_shenzhen_cosa_succede-9899874.html"
+            },
+            {
+              "testo": "Raid russi nella notte su Kiev: tre morti, due feriti e infrastrutture danneggiate.",
+              "fonte": "PrimoPiano24",
+              "url": "https://www.primopiano24.it/politica/le-prime-pagine-di-venerdi-20-novembre-2026/"
+            },
+            {
+              "testo": "Trump ha dichiarato che i tre leader «stanno scrivendo la storia» e ha definito Putin «un amico con cui ho un ottimo rapporto da anni».",
+              "fonte": "Metropolitan Magazine",
+              "url": "https://metropolitanmagazine.it/vertice-trilaterale-storico-tra-trump-putin-e-xi-ecco-cosa-si-sono-detti-i-tre-leader/"
+            },
+            {
+              "testo": "Secondo Politico, fonti diplomatiche temono che il vertice possa spingere Trump a sostenere le ambizioni di Putin sull'Ucraina e le rivendicazioni di Xi su Taiwan.",
+              "fonte": "Eco del Sannio / Adnkronos",
+              "url": "https://www.ecodelsannio.it/2026/11/20/trump-vertice-storico-con-gli-amici-putin-e-xi-russia-e-cina-hanno-altri-piani-lanalisi-2/"
+            }
+          ],
+          "incerto": [
+            "Non è chiaro se il vertice produrrà conseguenze concrete sul conflitto ucraino: Mosca ha precisato che la questione «non è stata centrale».",
+            "L'impatto della clausola sull'«immunità dei leader» sulle procedure della Corte penale internazionale non è ancora definito."
+          ],
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La versione dei tre leader",
+              "testo": "Trump, Xi e Putin hanno presentato il vertice come un evento storico: il primo incontro trilaterale tra le tre maggiori potenze nucleari. La dichiarazione congiunta fissa principi condivisi su disarmo nucleare, sicurezza energetica e riforma delle istituzioni multilaterali. Trump ha sottolineato la volontà comune di favorire la fine del conflitto ucraino, pur senza inserirla nel documento finale. I tre governi hanno parlato di una nuova fase di dialogo dopo anni di tensione crescente."
+            },
+            {
+              "etichetta": "La preoccupazione degli alleati europei",
+              "testo": "I governi europei e i partecipanti al vertice dei «Volenterosi» a Berlino hanno accolto con scetticismo o aperta preoccupazione l'esito di Shenzhen. L'assenza dell'Ucraina dal documento finale viene letta come un segnale che Washington potrebbe essere disposta ad accettare un accordo di pace alle condizioni della Russia. Meloni ha dichiarato di accogliere «con favore l'impegno a evitare una guerra nucleare», ma ha mantenuto una posizione cauta sull'insieme dei risultati. Kallas, Alta rappresentante UE, ha convocato il rappresentante russo dopo i nuovi attacchi su Kiev."
+            },
+            {
+              "etichetta": "Il nodo della CPI e dell'immunità dei leader",
+              "testo": "Il documento accusa la Corte penale internazionale di «abusare della propria giurisdizione» e richiede il rispetto dell'immunità dei funzionari statali. Il segretario generale dell'ONU Guterres ha difeso la CPI come «cruciale per la giustizia». Il punto è rilevante: Putin è soggetto a un mandato di arresto della CPI per il presunto trasferimento forzato di minori ucraini in Russia; la clausola sull'immunità, firmata anche da Washington, riguarderebbe direttamente la sua posizione giudiziaria internazionale."
+            },
+            {
+              "etichetta": "Chi guadagna — e chi paga",
+              "testo": "Il vertice consolida l'immagine di Trump come mediatore globale, offre a Putin una legittimazione diplomatica senza concessioni territoriali e permette a Xi di posizionarsi come garante della stabilità. Per l'Ucraina, l'assenza dal tavolo e dal documento finale è una sconfitta simbolica. L'industria della difesa europea e americana continua a beneficiare del conflitto: le spese militari dei paesi NATO hanno raggiunto livelli storici negli ultimi due anni. Un accordo di pace rapido, se mai arrivasse, interromperebbe un ciclo di commesse di cui molti attori economici preferiscono non parlare."
+            }
+          ],
+          "implicazioni": "Se il trilaterale di Shenzhen producesse un processo negoziale formale sull'Ucraina, l'Europa si troverebbe a dover scegliere se partecipare a un tavolo guidato da Washington, Mosca e Pechino o restarne fuori. La clausola sull'immunità dei leader e la critica alla CPI potrebbero indebolire il sistema di giustizia internazionale in modo duraturo. Per i mercati dell'energia, un accordo di pace accelererebbe la ridefinizione dei flussi di gas e petrolio russi verso l'Occidente, con effetti ancora imprevedibili sui prezzi europei.",
+          "redattore": "Il Corrispondente Estero 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Sciopero generale Cgil: il quinto di fila contro la manovra Meloni",
+          "slug": "sciopero-generale-cgil-20-novembre-2026-manovra-meloni",
+          "tag": [
+            "sciopero",
+            "cgil",
+            "manovra",
+            "lavoro"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Adnkronos",
+          "cerca_url": "https://www.google.com/search?q=sciopero+generale+CGIL+20+novembre+2026",
+          "post_x": "Quinto sciopero generale consecutivo della Cgil contro la manovra Meloni. 100 piazze. Stessi slogan, stessa risposta del governo. Nel frattempo la spesa militare sale. Coincidenze.",
+          "post_sito": "È il quinto sciopero generale di fila che la Cgil proclama contro una legge di bilancio del governo Meloni — un record che dice qualcosa sia sul sindacato sia sul governo, a seconda del punto di vista. Le richieste sono quelle di sempre: salari, pensioni, sanità, istruzione, e il taglio all'aumento delle spese militari. Il mandante invisibile di ogni manovra è sempre lo stesso: i vincoli europei e le aspettative dei mercati, che nessun corteo nomina mai davanti agli striscioni. Accanto alla Cgil scendono in piazza anche Cobas e USB con rivendicazioni proprie — tra cui la contestazione dell'accordo tra Cgil stessa, Cisl, Uil e le associazioni datoriali, accusato di ridurre i diritti dei sindacati di base. Anche i leader dell'opposizione — Schlein, Conte, Fratoianni — sfilano con il sindacato: indignazione a costo zero per chi non ha la responsabilità di governo, utile per il posizionamento nel campo largo. La domanda che nessuno pone: dopo cinque scioperi generali, cosa è cambiato? E cosa cambierà dopo il sesto?",
+          "fatti": [
+            {
+              "testo": "Il 20 novembre 2026 la Cgil ha proclamato uno sciopero generale di 24 ore con manifestazioni in circa 100 piazze in tutta Italia.",
+              "fonte": "ANSA",
+              "url": "https://ansa.it/sito/notizie/economia/2026/11/20/oggi-lo-sciopero-in-piazza-lavoratori-e-studenti.-cgil-la-manovra-va-cambiata_01d5c5ed-72b4-4546-acc1-472847a25848.html"
+            },
+            {
+              "testo": "Si tratta del quinto sciopero generale consecutivo promosso dalla Cgil contro una manovra del governo Meloni.",
+              "fonte": "InfoOggi",
+              "url": "https://www.infooggi.it/articolo/sciopero-generale-20-novembre-2026-cortei-in-tutta-italia-contro-la-manovra/158557"
+            },
+            {
+              "testo": "La mobilitazione coinvolge anche Cobas, USB e i cortei studenteschi europei contro guerra e riarmo.",
+              "fonte": "Adnkronos",
+              "url": "https://www.adnkronos.com/cronaca/sciopero-20-novembre-2026-chi-aderisce_7oMc0klkMbOLXsplrnrTYc"
+            },
+            {
+              "testo": "Il segretario Cgil Maurizio Landini ha guidato il corteo a Roma partito da piazza Vittorio Emanuele II verso via dei Fori Imperiali.",
+              "fonte": "Adnkronos",
+              "url": "https://adnkronos.com/cronaca/sciopero-generale-20-novembre-2026-diretta_3u6CoOImHMPXfKkNV4xx2g"
+            }
+          ],
+          "incerto": [
+            "Non è ancora noto il tasso di adesione effettivo nei vari settori.",
+            "Non è chiaro se il governo aprirà un tavolo di confronto dopo la manifestazione."
+          ],
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Anthropic debutta al Nasdaq: IPO record da 107 miliardi, ma i conti restano in rosso",
+          "slug": "anthropic-ipo-record-nasdaq-107-miliardi-conti-rosso",
+          "tag": [
+            "anthropic",
+            "ipo",
+            "wall-street",
+            "intelligenza-artificiale"
+          ],
+          "evidenza": false,
+          "fonte": "Il Fatto Quotidiano / Wall Street Italia",
+          "cerca_url": "https://www.google.com/search?q=Anthropic+IPO+Nasdaq+record+novembre+2026",
+          "post_x": "Anthropic: IPO record da 107 mld, valutazione picco 2.000 mld. Perdita netta: 104 mld. Obblighi futuri: 900 mld. Le banche: 550 mln di commissioni. Chi guadagna è già chiaro. 🏦",
+          "post_sito": "Anthropic — la startup che sviluppa Claude — ha debuttato al Nasdaq con la più grande IPO della storia: 107,3 miliardi di dollari raccolti tra offerta pubblica e collocamenti privati, superando il precedente record di SpaceX. Le azioni hanno aperto in rialzo del 34%, portando brevemente la valutazione a 2.000 miliardi di dollari — il 74% del PIL italiano, nota qualcuno con understatement. Il problema è che la perdita netta supera i 104 miliardi di dollari, e la società ha obblighi per circa 900 miliardi legati alla capacità di calcolo. Beneficio taciuto: le banche che hanno curato l'operazione si portano a casa 550 milioni di commissioni. I sette fondatori — tutti ex dipendenti di OpenAI — valgono ora oltre 20 miliardi ciascuno, pur avendosi impegnati a donare l'80% del patrimonio. Il giorno dopo l'IPO, i mercati asiatici hanno perso tra il 5 e il 6%: il record non ha contagiato l'ottimismo, ha solo confermato che il settore AI è ormai troppo grande per ignorarne la fragilità finanziaria.",
+          "fatti": [
+            {
+              "testo": "Anthropic ha raccolto 81,3 miliardi di dollari con l'offerta pubblica e 107,3 miliardi totali includendo i collocamenti privati, superando il record di SpaceX.",
+              "fonte": "Wall Street Italia",
+              "url": "https://www.wallstreetitalia.com/anthropic-debutto-col-botto-al-nasdaq-17-ma-gli-analisti-invitano-alla-cautela/"
+            },
+            {
+              "testo": "Le azioni hanno aperto a 111,50 dollari (+34% sul prezzo di IPO di 83 dollari), toccando brevemente una valutazione di 2.000 miliardi, e hanno chiuso a 97,17 dollari (+17%).",
+              "fonte": "Sky TG24",
+              "url": "https://tg24.sky.it/economia/2026/11/19/anthropic-quotazione-wall-street-numeri"
+            },
+            {
+              "testo": "La perdita netta di Anthropic supera i 104 miliardi di dollari e la società ha obblighi per circa 900 miliardi legati alla capacità di calcolo.",
+              "fonte": "Il Fatto Quotidiano",
+              "url": "https://www.ilfattoquotidiano.it/2026/11/19/anthropic-ipo-wall-street-record-notizie/8577232/"
+            },
+            {
+              "testo": "Le banche che hanno curato l'IPO riceveranno complessivamente 550 milioni di dollari in commissioni.",
+              "fonte": "Sky TG24",
+              "url": "https://tg24.sky.it/economia/2026/11/19/anthropic-quotazione-wall-street-numeri"
+            }
+          ],
+          "incerto": [
+            "Non è ancora chiaro se la valutazione di mercato reggera nel medio termine, dati i dubbi sulla sostenibilità degli investimenti AI espressi dagli analisti.",
+            "Il destino alla Camera USA della riforma delle autorizzazioni energetiche — che obbliga i data center a farsi carico dei propri costi energetici — resta incerto."
+          ],
+          "editoriale": false,
+          "redattore": "L'Analista 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "ATP Finals Torino: Cobolli saluta con l'ultimo match contro Alcaraz, spareggio Medvedev-Tiafoe",
+          "slug": "atp-finals-torino-2026-cobolli-alcaraz-medvedev-tiafoe-semifinale",
+          "tag": [
+            "tennis",
+            "atp-finals",
+            "cobolli",
+            "torino"
+          ],
+          "evidenza": false,
+          "fonte": "Sky Sport / Sportmediaset",
+          "cerca_url": "https://www.google.com/search?q=ATP+Finals+Torino+2026+Cobolli+Alcaraz+20+novembre",
+          "post_x": "Cobolli saluta le ATP Finals con l'ultimo match contro Alcaraz. Due sconfitte, nessun set vinto nel girone. Però è qui, tra gli otto migliori dell'anno. Non è poco — anche se i titoloni lo avevano già sepolto.",
+          "post_sito": "Oggi alle 14:00 Flavio Cobolli scende per l'ultima volta sul cemento dell'Inalpi Arena per sfidare Carlos Alcaraz, già certo del primo posto nel Gruppo Ivan Lendl. Cobolli è matematicamente eliminato: due sconfitte — contro Medvedev e Tiafoe — e nessun set vinto. Ma la narrazione dell'italiano «bocciato» alle Finals merita qualche attrito: Cobolli è alla prima partecipazione alle ATP Finals, il torneo che riunisce gli otto migliori giocatori della stagione. Medvedev e Tiafoe non sono avversari da nulla. La serata vera è quella delle 20:30, con lo spareggio Medvedev-Tiafoe per l'altro posto in semifinale — trasmesso in chiaro su Italia 1. Il conto dietro la medaglia: le ATP Finals costano a Torino un investimento pubblico e privato significativo ogni anno per ospitare l'evento fino al 2030, una scommessa sul turismo e sull'immagine della città che ha la sua logica ma raramente compare nei titoli entusiasti quando si parla di «grande tennis italiano».",
+          "fatti": [
+            {
+              "testo": "Flavio Cobolli è stato eliminato dalle ATP Finals con due sconfitte — contro Medvedev (7-6, 6-3) e Tiafoe (7-6, 6-0) — senza vincere alcun set nel girone.",
+              "fonte": "Fanpage",
+              "url": "https://www.fanpage.it/sport/live/live-alcaraz-medvedev-e-cobolli-tiafoe-oggi-alle-atp-finals-torino-2026-il-programma-orario-precedenti-e-dove-vedere-la-partita-in-diretta-tv/"
+            },
+            {
+              "testo": "Oggi, 20 novembre, Cobolli affronta Alcaraz alle 14:00; lo spareggio Medvedev-Tiafoe per la semifinale è alle 20:30 su Italia 1.",
+              "fonte": "Sportmediaset",
+              "url": "https://www.sportmediaset.mediaset.it/speciale/atp-finals-2026/cobolli-saluta-torino-contro-alcaraz-su-italia-1-lo-spareggio-medvedev-tiafoe-in-palio-il-pass-per-la-semifinale_119186388-202602k.shtml"
+            },
+            {
+              "testo": "Le ATP Finals 2026 si disputano all'Inalpi Arena di Torino dal 15 al 22 novembre: si tratta della 57ª edizione per il singolare.",
+              "fonte": "Libero",
+              "url": "https://www.libero.it/magazine/news/stasera-in-tv-20-novembre-2026-cosa-vedere-232142"
+            }
+          ],
+          "incerto": [
+            "L'infortunio al bicipite femorale sinistro di Alcaraz, emerso nel match con Medvedev, potrebbe condizionare la sua partecipazione alle semifinali: ha confermato di voler continuare, ma la situazione è da monitorare."
+          ],
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Aeroporto di Genova chiuso due ore per droni: il nodo della sicurezza aerea civile",
+          "slug": "aeroporto-genova-chiuso-droni-sicurezza-aerea",
+          "tag": [
+            "droni",
+            "aeroporto",
+            "sicurezza",
+            "genova"
+          ],
+          "evidenza": false,
+          "fonte": "Today.it",
+          "cerca_url": "https://www.google.com/search?q=aeroporto+Genova+chiuso+droni+20+novembre+2026",
+          "post_x": "L'aeroporto di Genova chiuso 2 ore per droni non identificati. Un Ita Airways fermo in pista. Regole sui droni ci sono, applicarle è un'altra storia. La causa strutturale rimossa: chi controlla davvero gli spazi aerei civili?",
+          "post_sito": "Nella sera del 19 novembre, l'aeroporto Cristoforo Colombo di Genova è rimasto chiuso per due ore — dalle 20 alle 22 — a causa di quattro o cinque droni rilevati a est e a ovest del campo. Un aereo Ita Airways pronto a decollare verso Roma Fiumicino è rimasto sulla pista. L'episodio si inserisce in un quadro di incidenti con droni in prossimità di aeroporti civili che in tutta Europa si ripete con frequenza crescente: una causa strutturale rimossa dal racconto che ogni volta si concentra sull'episodio singolo senza interrogarsi sul sistema di controllo. Chi è autorizzato a volare, con quale drone, a quale distanza dagli scali? Le norme esistono, ma la capacità di rilevamento e identificazione in tempo reale degli operatori è ancora largamente deficitaria. Chi ci guadagna dalla lacuna normativa sono i produttori di sistemi anti-drone, un mercato da miliardi che cresce a ogni chiusura di aeroporto. La notizia, in Italia, è rimasta in secondo piano rispetto allo sciopero generale: distrazione utile involontaria, ma non per questo meno reale.",
+          "fatti": [
+            {
+              "testo": "L'aeroporto Cristoforo Colombo di Genova è rimasto chiuso dalle 20 alle 22 del 19 novembre 2026 a causa di droni rilevati nelle vicinanze del campo.",
+              "fonte": "Today.it",
+              "url": "https://www.today.it/rassegna/start/ultime-notizie-oggi-20-novembre-2026.html"
+            },
+            {
+              "testo": "Un aereo Ita Airways pronto a decollare verso Roma Fiumicino è rimasto sulla pista durante la sospensione dei voli.",
+              "fonte": "Today.it",
+              "url": "https://www.today.it/rassegna/start/ultime-notizie-oggi-20-novembre-2026.html"
+            }
+          ],
+          "incerto": [
+            "Non è stata resa nota l'identità né l'origine degli operatori dei droni rilevati.",
+            "Non è noto se siano stati avviati procedimenti a carico di alcuno per l'episodio."
+          ],
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Scienza",
+          "titolo": "Premio Sakurai a due italiani: Laporta e Remiddi premiati per calcoli impossibili in fisica teorica",
+          "slug": "premio-sakurai-laporta-remiddi-fisica-teorica-particelle",
+          "tag": [
+            "fisica",
+            "particelle",
+            "ricerca",
+            "italia"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / INFN",
+          "cerca_url": "https://www.google.com/search?q=Premio+Sakurai+2027+Laporta+Remiddi+fisica+particelle+INFN",
+          "post_x": "Due italiani vincono il Premio Sakurai per la fisica teorica delle particelle. Hanno reso possibili calcoli che si ritenevano impossibili. In Italia, però, è meglio vendere gelati in Germania. Notizia di dominio pubblico.",
+          "post_sito": "Stefano Laporta ed Ettore Remiddi, insieme al collega Thomas Gehrmann, si aggiudicano il Premio Sakurai 2027 dell'American Physical Society per la fisica teorica delle particelle — uno dei riconoscimenti più prestigiosi del settore, assegnato per calcoli che hanno abilitato una nuova generazione di misurazioni di precisione al CERN e altrove. La notizia arriva lo stesso giorno in cui la professoressa Serenella Medici, dell'Università di Sassari, riceve il Premio Donna di Scienza 2026 per la ricerca sui metalli nei tessuti oncologici — dopo che qualcuno le aveva consigliato, all'inizio della carriera, di «andare a vendere gelati in Germania». Chi ci guadagna dal fatto che questi risultati finiscano in terza pagina? L'industria farmaceutica e tecnologica che brevetta le applicazioni delle scoperte pubbliche finanziate con fondi statali, spesso dopo che i ricercatori stessi sono stati costretti a cercare fondi privati per sopravvivere. La ricerca di base non fa notizia; fa notizia quando diventa prodotto.",
+          "fatti": [
+            {
+              "testo": "Stefano Laporta, Ettore Remiddi e Thomas Gehrmann hanno ricevuto il Premio Sakurai 2027 per la Fisica Teorica delle Particelle dell'American Physical Society (APS), secondo una fonte INFN.",
+              "fonte": "ANSA / INFN",
+              "url": "https://ansa.it/sito/notizie/economia/2026/11/20/oggi-lo-sciopero-in-piazza-lavoratori-e-studenti.-cgil-la-manovra-va-cambiata_01d5c5ed-72b4-4546-acc1-472847a25848.html"
+            },
+            {
+              "testo": "La professoressa Serenella Medici dell'Università di Sassari ha ricevuto il Premio Donna di Scienza 2026 per la ricerca sui metalli nei tessuti dei pazienti oncologici.",
+              "fonte": "City&City Magazine",
+              "url": "https://www.cityandcity.it/meglio-vendere-gelati-in-germania-serenella-medici-risponde-con-una-carriera-nella-scienza/"
+            }
+          ],
+          "incerto": [
+            "Non sono ancora disponibili i dettagli ufficiali sul contenuto della motivazione completa del Premio Sakurai per Laporta e Remiddi."
+          ],
+          "editoriale": false,
+          "redattore": "Il Metodico 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "AI",
+          "titolo": "Anthropic sbarca in borsa e il Center for AI Safety la critica sulla sicurezza: il paradosso del «paladino etico» da 2.000 miliardi",
+          "slug": "anthropic-borsa-center-ai-safety-critica-sicurezza-paradosso",
+          "tag": [
+            "anthropic",
+            "sicurezza-ai",
+            "wall-street",
+            "dario-amodei"
+          ],
+          "evidenza": false,
+          "fonte": "Avvenire di Calabria / Milano Finanza",
+          "cerca_url": "https://www.google.com/search?q=Anthropic+Center+AI+Safety+critica+sicurezza+novembre+2026",
+          "post_x": "Anthropic: si quota dichiarando di essere «ossessionata dalla sicurezza». Il Center for AI Safety la critica proprio sulla sicurezza. Dario Amodei vale 20 mld. Claude è stato usato nella guerra in Iran. Tutto quadra.",
+          "post_sito": "Il giorno del debutto di Anthropic al Nasdaq — con un'IPO da record e i fondatori diventati multimiliardari — il Center for AI Safety, organizzazione non profit che studia i rischi dell'intelligenza artificiale, ha pubblicato una dichiarazione critica nei confronti della stessa Anthropic sul tema dell'automiglioramento ricorsivo (recursive self-improvement): l'impiego dell'IA per sviluppare sistemi di IA sempre più avanzati, uno degli scenari di rischio sistemico più discussi nel settore. L'eufemismo di potere qui è lampante: Anthropic si presenta ai mercati come il «paladino responsabile» dell'IA, con una missione di sicurezza inscritta nello statuto, mentre raccoglie 107 miliardi e — come segnala Wikipedia — il suo modello Claude è stato utilizzato in contesti militari, inclusa la guerra con l'Iran. Nel frattempo, l'uscita di Jensen Huang da Nvidia ha innescato un sell-off sui titoli tech in tutto il mondo: Nikkei -5%, Taiwan -6,2%, Nasdaq -2,25%. Il mandante invisibile della volatilità non è la tecnologia — è la dipendenza dei mercati globali da un pugno di aziende e da singoli individui la cui uscita di scena basta a far tremare le borse.",
+          "fatti": [
+            {
+              "testo": "Il Center for AI Safety ha pubblicato una dichiarazione critica nei confronti di Anthropic riguardo all'automiglioramento ricorsivo (recursive self-improvement) il 20 novembre 2026.",
+              "fonte": "Avvenire di Calabria",
+              "url": "https://www.avveniredicalabria.it/le-notizie-di-oggi-dal-mondo-ai-google-accelera-con-gemini-4-neon-anthropic-criticata-sulla-sicurezza-openai-punta-sulle-vendite/"
+            },
+            {
+              "testo": "Anthropic ha chiuso il primo giorno di contrattazioni a 97,17 dollari (+17%), dopo aver toccato un picco intraday di +34% e una valutazione di circa 2.000 miliardi.",
+              "fonte": "Wall Street Italia",
+              "url": "https://www.wallstreetitalia.com/anthropic-debutto-col-botto-al-nasdaq-17-ma-gli-analisti-invitano-alla-cautela/"
+            },
+            {
+              "testo": "I mercati asiatici hanno perso tra il 5 e il 6,2% il 20 novembre, in un sell-off generalizzato sui titoli tecnologici legati all'AI.",
+              "fonte": "Milano Finanza",
+              "url": "https://milanofinanza.it/news/venerdi-nero-in-asia-anthropic-in-netto-rosso-nel-pre-market-e-fuga-dall-ai-verso-i-treasury-202611200748151505"
+            },
+            {
+              "testo": "Google ha presentato Gemini 4 Neon, il quarto modello della famiglia Gemini 4 rilasciato in meno di due mesi.",
+              "fonte": "Avvenire di Calabria",
+              "url": "https://www.avveniredicalabria.it/le-notizie-di-oggi-dal-mondo-ai-google-accelera-con-gemini-4-neon-anthropic-criticata-sulla-sicurezza-openai-punta-sulle-vendite/"
+            }
+          ],
+          "incerto": [
+            "Non sono ancora pubblici i dettagli specifici della critica del Center for AI Safety ad Anthropic sul tema dell'automiglioramento ricorsivo.",
+            "L'impatto delle dimissioni di Jensen Huang da Nvidia sullo sviluppo futuro del settore AI è ancora oggetto di analisi contrastanti."
+          ],
+          "editoriale": false,
+          "redattore": "Il Futurologo 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Wellness",
+          "titolo": "Il mercato globale del benessere vale 2.700 miliardi: l'industria che vende l'insicurezza come cura",
+          "slug": "mercato-wellness-2700-miliardi-investitori-mckinsey",
+          "tag": [
+            "wellness",
+            "mercato",
+            "mckinsey",
+            "investimenti"
+          ],
+          "evidenza": false,
+          "fonte": "FIRSTonline / McKinsey",
+          "cerca_url": "https://www.google.com/search?q=mercato+wellness+2700+miliardi+McKinsey+2026",
+          "post_x": "Il mercato del wellness vale 2.700 mld e cresce. Il 40% dei consumatori dice che l'offerta attuale è «insufficiente». L'industria crea il bisogno, poi vende la soluzione. Funziona da sempre. 🧘‍♂️💸",
+          "post_sito": "Secondo una ricerca di McKinsey — società di consulenza che non è estranea agli interessi del settore che analizza — il mercato globale del wellness vale oggi 2.700 miliardi di dollari. Il dato che colpisce di più non è la dimensione, ma questo: circa il 40% dei consumatori ritiene che l'offerta attuale sia «ancora insufficiente». È la struttura del beneficio taciuto più elegante che esista — un mercato che più cresce, più genera insoddisfazione, e più la insoddisfazione diventa benzina per ulteriore crescita. Il 53% dei brand a più rapida espansione ha una proposta centrata su salute e benessere; più della metà dei consumatori usa già l'AI per attività legate al wellness. L'eufemismo di potere qui si chiama «longevità» e «performance»: parole che spostano la responsabilità della salute dalla sanità pubblica all'individuo che non ha comprato abbastanza integratori. Nessuna critica alle persone che si prendono cura di sé — tutta la critica va all'industria che monetizza l'ansia di non farlo abbastanza.",
+          "fatti": [
+            {
+              "testo": "Secondo una ricerca di McKinsey, il mercato globale del wellness vale 2.700 miliardi di dollari nel 2026.",
+              "fonte": "FIRSTonline",
+              "url": "https://www.firstonline.info/il-mercato-globale-del-benessere-vale-oggi-2-700-miliardi-di-dollari-ecco-perche-gli-investitori-guardano-al-settore/"
+            },
+            {
+              "testo": "Circa il 40% dei consumatori globali ritiene che le attuali offerte di wellness siano ancora insufficienti, in particolare nei settori della longevità, della salute mentale e della mobilità.",
+              "fonte": "FIRSTonline",
+              "url": "https://www.firstonline.info/il-mercato-globale-del-benessere-vale-oggi-2-700-miliardi-di-dollari-ecco-perche-gli-investitori-guardano-al-settore/"
+            },
+            {
+              "testo": "Nel 2026, il 33% dei nuovi prodotti di largo consumo lanciati negli USA nelle categorie analizzate da McKinsey presenta una promessa legata a salute e benessere, contro il 24% del 2021.",
+              "fonte": "FIRSTonline",
+              "url": "https://www.firstonline.info/il-mercato-globale-del-benessere-vale-oggi-2-700-miliardi-di-dollari-ecco-perche-gli-investitori-guardano-al-settore/"
+            }
+          ],
+          "incerto": [
+            "I dati McKinsey si riferiscono a un campione di consumatori non specificato nella fonte secondaria: le metodologie della ricerca originale non sono verificabili senza accedere allo studio completo."
+          ],
+          "editoriale": false,
+          "redattore": "Il Life Coach 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Cultura",
+          "titolo": "Addio a Corrado Augias: l'ultimo intellettuale televisivo che faceva le domande scomode",
+          "slug": "morte-corrado-augias-91-anni-giornalista-scrittore",
+          "tag": [
+            "augias",
+            "cultura",
+            "giornalismo",
+            "televisione"
+          ],
+          "evidenza": false,
+          "fonte": "Sky TG24 / Il Sole 24 Ore",
+          "cerca_url": "https://www.google.com/search?q=morte+Corrado+Augias+novembre+2026",
+          "post_x": "Morto Corrado Augias, 91 anni. Ha condotto «Telefono Giallo», scritto di Vatricano, di Napoli, di Parigi. Ha fatto la domanda più italiana: «Ma allora chi è stato?». Non tutti hanno gradito la risposta. Addio.",
+          "post_sito": "Corrado Augias è morto il 19 novembre 2026 a 91 anni, nella sua Roma. Giornalista, scrittore, drammaturgo, conduttore — e per un breve periodo anche parlamentare. Con «Telefono Giallo» aveva portato il true crime in televisione quando il genere non aveva ancora un nome; con i libri sul Vaticano aveva disturbato sonni importanti; con la «Torre di Babele» su La7 aveva continuato fino agli ultimi mesi a fare quello che la televisione italiana fa sempre meno: ospitare l'intelligenza senza urlare. Il coro compatto del cordoglio istituzionale — da Mattarella in giù — è sincero e meritato, ma il Corrispondente IA nota che proprio i media e le istituzioni che oggi lo celebrano hanno progressivamente ridotto lo spazio per il tipo di giornalismo che lui praticava: lento, documentato, non urlato, fondato sulla lettura. La notizia della sua morte arriva il 20 novembre, giorno di sciopero generale e vertice geopolitico: un uomo che aveva dedicato la vita a capire il presente scompare nel rumore del presente stesso.",
+          "fatti": [
+            {
+              "testo": "Corrado Augias è morto il 19 novembre 2026 all'età di 91 anni, nella sua Roma dove era nato il 26 gennaio 1935.",
+              "fonte": "Sky TG24",
+              "url": "https://tg24.sky.it/cronaca/2026/11/19/corrado-augias-morto"
+            },
+            {
+              "testo": "Il presidente Mattarella lo ha ricordato come «un giornalista libero e uno scrittore di grande finezza» che ha trasmesso «cultura e valori di democrazia».",
+              "fonte": "Sarno Notizie",
+              "url": "https://www.sarnonotizie.it/rassegna-stampa-20-novembre-2026/"
+            },
+            {
+              "testo": "La camera ardente è fissata per il 21 novembre a Roma, in Campidoglio; i funerali laici si svolgeranno in forma privata.",
+              "fonte": "TGCom24",
+              "url": "https://www.tgcom24.mediaset.it/televisione/corrado-augias-morte_119166777-202602k.shtml"
+            },
+            {
+              "testo": "Augias aveva condotto fino agli ultimi giorni «La Torre di Babele» su La7; una puntata speciale è prevista per il 23 novembre 2026.",
+              "fonte": "Il Giornale d'Italia",
+              "url": "https://www.ilgiornaleditalia.it/news/cronaca/839150/corrado-augias-tutti-i-ricordi-dopo-la-morte-da-mattarella-a-d-alema-cairo-cazzullo-fazio-e-la-famiglia-regeni.html"
+            }
+          ],
+          "incerto": [
+            "Le cause ufficiali della morte non sono state rese note dalla famiglia."
+          ],
+          "editoriale": false,
+          "redattore": "Il Letterato 1.0",
+          "fatti_verificati": true
+        }
+      ],
+      "controlli": {
+        "url_ricerca": 104,
+        "fatti_proposti": 31,
+        "fatti_scartati": 0,
+        "giorni_corretti": [],
+        "virgolette_riparate": 0
+      }
+    },
+    {
       "data": "2026-11-19",
       "post": [
         {
@@ -7526,193 +7933,7 @@
           "redattore": "Il Letterato 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-10-21",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Witkoff da Putin con la proposta di pace: Zelensky deve cedere il Donbass",
-          "slug": "witkoff-putin-pace-ucraina-donbass-cessioni-territoriali",
-          "tag": [
-            "ucraina",
-            "trump",
-            "russia",
-            "pace"
-          ],
-          "evidenza": false,
-          "fonte": "FocusAmerica / New York Times",
-          "cerca_url": "https://www.google.com/search?q=Witkoff+Putin+proposta+pace+Ucraina+ottobre+2026",
-          "post_x": "Trump manda Witkoff a San Pietroburgo con una proposta di pace per l'Ucraina. Tradotto: Zelensky ceda territorio, in cambio di «non meglio specificati benefici economici». Nel 1994 pure la Corea del Nord firmò un accordo. Sappiamo com'è andata. #Ucraina",
-          "post_sito": "L'inviato americano Steve Witkoff vola da Putin a San Pietroburgo dopo aver incontrato Zelensky a Oslo insieme ai leader europei e alla NATO: sul tavolo una proposta aggiornata per chiudere la guerra, con Jared Kushner collegato da remoto. Il meccanismo è il solito: chi preme per la pace chiede concessioni territoriali a chi subisce l'aggressione, non a chi l'ha lanciata. Chi ci guadagna davvero? Le industrie della ricostruzione post-bellica — contractor americani ed europei — che hanno già stimato il mercato ucraino in centinaia di miliardi, e che non vedono l'ora che qualcuno firmi qualcosa, qualunque cosa. Il contesto storico rimosso è che ogni «accordo di pace» imposto al più debole — da Monaco 1938 al trattato di Ginevra sulla Corea del Nord del 1994, firmato e poi svuotato — ha storicamente preparato la prossima crisi. Trump intanto si dice «scettico sulla reale volontà di Kiev di chiudere il conflitto»: curiosa inversione, per chi ha ricominciato a vendere armi a Mosca tramite intermediari e ha appena ordinato a Musk di rallentare Starlink in Ucraina.",
-          "editoriale": true,
-          "prospettive": [
-            {
-              "etichetta": "La posizione americana",
-              "testo": "L'amministrazione Trump sostiene che un accordo negoziato, anche con cessioni territoriali, sia l'unica via realistica per fermare il conflitto e ridurre le perdite umane. Witkoff ha incontrato entrambe le parti — prima Zelensky a Oslo, poi Putin a San Pietroburgo — cercando di presentarsi come mediatore neutro. Washington ritiene che un protrarsi della guerra sia controproducente per la stabilità europea e per i costi sostenuti dagli alleati NATO."
-            },
-            {
-              "etichetta": "La posizione ucraina e degli alleati europei",
-              "testo": "Kiev rifiuta qualsiasi accordo che preveda la rinuncia formale ai territori occupati, incluso il Donbass, considerando tale soluzione una legittimazione dell'aggressione e un precedente pericoloso per l'ordine internazionale. I leader europei presenti a Oslo hanno espresso la stessa preoccupazione: un accordo imposto sotto pressione potrebbe non essere duraturo e potrebbe incentivare future aggressioni altrove."
-            },
-            {
-              "etichetta": "Il nodo delle garanzie di sicurezza",
-              "testo": "Anche se si raggiungesse un cessate il fuoco, restano aperti i termini delle garanzie di sicurezza per l'Ucraina: adesione alla NATO (esclusa da Mosca), presenza di truppe europee, o accordi bilaterali con singoli Paesi. Nessuna delle opzioni sul tavolo appare oggi accettabile contemporaneamente da Kiev e da Mosca, il che rende l'accordo strutturalmente fragile anche prima di essere firmato."
-            },
-            {
-              "etichetta": "Gli interessi economici sullo sfondo",
-              "testo": "La ricostruzione dell'Ucraina — stimata da vari organismi internazionali in cifre che superano i 500 miliardi di dollari — rappresenta un interesse economico rilevante per contractor, banche e fondi di investimento di diversi Paesi. Parallelamente, l'industria bellica europea e americana ha registrato profitti record negli ultimi due anni di conflitto. Entrambi questi fattori — la prospettiva della ricostruzione e la redditività della guerra — influenzano le preferenze degli attori economici, anche se raramente emergono nel dibattito pubblico sulla pace."
-            }
-          ],
-          "implicazioni": "Se Zelensky accettasse le concessioni territoriali richieste, si aprirebbe una fase di negoziato formale che potrebbe congelare il conflitto ma difficilmente risolverlo: le esperienze storiche di armistizi imposti mostrano tassi di recidiva elevati. Se invece il negoziato fallisse, l'Europa si troverebbe a dover aumentare ulteriormente il proprio sostegno militare a Kiev, con pressioni crescenti sui bilanci nazionali già sotto stress.",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Il governo approva il decreto sicurezza: nasce il reato di partecipazione violenta ai cortei, il Quirinale frena sui poteri ai militari",
-          "slug": "decreto-sicurezza-reato-cortei-quirinale-militari-meloni",
-          "tag": [
-            "decreto-sicurezza",
-            "ordine-pubblico",
-            "meloni",
-            "quirinale"
-          ],
-          "evidenza": true,
-          "fonte": "Il Fatto Quotidiano / Sky TG24",
-          "cerca_url": "https://www.google.com/search?q=decreto+sicurezza+reato+manifestazione+Meloni+Quirinale+militari+ottobre+2026",
-          "post_x": "Nasce il reato di «partecipazione violenta a una manifestazione». Il Quirinale blocca i poteri di polizia ai militari. Traduzione: il governo voleva l'esercito nelle strade, Mattarella ha detto no. 500 soldati a Milano restano, però. Senza potere di arresto, ma ci siamo quasi. #DecretoSicurezza",
-          "post_sito": "Il Consiglio dei Ministri ha approvato il nuovo decreto sicurezza che introduce il reato di «violenza organizzata nelle manifestazioni pubbliche», estende il fermo preventivo ai minorenni e invia 500 militari aggiuntivi a Milano nell'ambito dell'operazione Strade Sicure — senza, però, i poteri di polizia giudiziaria che il governo voleva attribuire loro: il Quirinale ha fatto cancellare la misura. Il villain di comodo è il «maranza» — figura giovane, spesso di seconda generazione, perfetta per una narrativa che evita di parlare di periferie abbandonate, scuole sotto-finanziate e mobilità sociale bloccata. Crosetto evoca la «guerra ibrida» e i «russi», Salvini smentisce la regia straniera: due ministri dello stesso governo in contraddizione pubblica non sono un dettaglio. Chi ci guadagna? Le aziende di sicurezza privata, i fornitori di tecnologie di sorveglianza — il mercato del controllo delle folle in Europa vale miliardi — e, non secondariamente, un governo che trasforma la paura in consenso elettorale a pochi mesi dalle Europee suppletive. Il contesto rimosso è che le operazioni militari nelle strade italiane hanno una storia: dalla «strategia della tensione» in poi, ogni volta che si è militarizzata la risposta all'ordine pubblico, qualcuno ha poi chiesto conto di chi avesse deciso cosa e perché.",
-          "editoriale": false,
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "BTP Valore: ordini per 8,5 miliardi in tre giorni, mentre le banche trattano il loro «contributo» alla manovra",
-          "slug": "btp-valore-ordini-miliardi-banche-manovra-legge-bilancio",
-          "tag": [
-            "btp-valore",
-            "manovra",
-            "banche",
-            "debito-pubblico"
-          ],
-          "evidenza": false,
-          "fonte": "SoldiOnline / Il Sole 24 Ore",
-          "cerca_url": "https://www.google.com/search?q=BTP+Valore+ottobre+2026+ordini+miliardi+manovra+banche",
-          "post_x": "BTP Valore: quasi 8,5 miliardi di ordini in tre giorni. Lo Stato si indebita con i cittadini per pagare i servizi ai cittadini. Le banche intanto «trattano» il loro contributo alla manovra. Messina di Intesa chiede un'«intesa equilibrata». Che la ironia involontaria sia nei nomi. #BTValore #Manovra",
-          "post_sito": "La settima tranche del BTP Valore — titolo di Stato retail rivolto ai piccoli risparmiatori, scadenza ottobre 2031 — ha raccolto quasi 8,5 miliardi di euro di ordini nei primi tre giorni di collocamento. Un successo che racconta una storia precisa: i cittadini italiani prestano allo Stato i loro risparmi per finanziare una spesa pubblica che lo Stato non riesce a coprire con la fiscalità ordinaria. Parallelamente, Il Sole 24 Ore apre con «Casa, caccia a 1 miliardo in manovra»: il governo cerca risorse per prorogare i bonus edilizi mentre il confronto con le banche sul loro «contributo» alla legge di bilancio — che il governo stima intorno ai cinque miliardi complessivi dal comparto finanziario — resta aperto. L'AD di Intesa Sanpaolo Carlo Messina «richiama la necessità di un'intesa equilibrata»: eufemismo di potere per «vogliamo trattare al ribasso». Beneficio taciuto: le banche italiane hanno registrato utili record negli ultimi due anni grazie all'aumento dei tassi BCE — utili su cui il contributo richiesto inciderebbe marginalmente — mentre i mutui dei loro clienti sono aumentati di centinaia di euro al mese. Il mercato paga, le istituzioni negoziano.",
-          "editoriale": false,
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Mondiali di ginnastica artistica a Rotterdam: le «Fate» azzurre in finale a squadre, tre italiane anche nel singolare",
-          "slug": "mondiali-ginnastica-artistica-rotterdam-fate-finale-italia",
-          "tag": [
-            "ginnastica-artistica",
-            "mondiali",
-            "rotterdam",
-            "fate"
-          ],
-          "evidenza": false,
-          "fonte": "OA Sport / Ginnasticando",
-          "cerca_url": "https://www.google.com/search?q=mondiali+ginnastica+artistica+Rotterdam+2026+Italia+finale",
-          "post_x": "Le Fate azzurre sono in finale a squadre ai Mondiali di Rotterdam. Esposito, Iorio e Perotti anche nel singolare. La ginnastica artistica femminile italiana è tra le migliori al mondo. Notizia bellissima che non aprirà nessun telegiornale, perché non c'è un pallone. #Ginnastica #Rotterdam2026",
-          "post_sito": "La nazionale di ginnastica artistica femminile — Esposito, Iorio, Perotti, Tonelli e Marano — ha conquistato la finale a squadre ai Mondiali 2026 di Rotterdam con il quarto punteggio complessivo (162.430), alle spalle di Cina, USA e Russia. Manila Esposito, Elisa Iorio e Giulia Perotti si sono qualificate anche alle finali individuali di specialità. Perotti e Tonelli accedono alla finale dell-around. La stessa giornata propone anche la finale di Eurolega tra Virtus Bologna e Hapoel Tel Aviv, e il volley femminile di Serie A1. Sport che faticano ogni settimana a trovare spazio nei palinsesti generalisti, salvo quando arriva una medaglia d'oro olimpica e tutti fingono di averle sempre seguite. Il conto dietro la medaglia esiste qui in forma rovesciata: questi risultati arrivano senza le risorse che la FIGC gestisce in una sola stagione di Serie A. Il fatto che Perotti sia quinta e Tonelli diciottesima nel ranking all-around provvisorio non comparirà su nessun quotidiano sportivo domani, sepolto dalle pagelle di Champions League.",
-          "editoriale": false,
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "La GdF smantella la «banca occulta» di 'ndrangheta, camorra e Quarta Mafia: 30 arresti, 110 milioni di fatture false e 68 milioni riciclati in criptovalute",
-          "slug": "gdf-banca-occulta-ndrangheta-camorra-30-arresti-criptovalute",
-          "tag": [
-            "mafia",
-            "riciclaggio",
-            "ndrangheta",
-            "camorra"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Il Sole 24 Ore",
-          "cerca_url": "https://www.google.com/search?q=GdF+banca+occulta+criminalita+organizzata+30+arresti+Milano+ottobre+2026",
-          "post_x": "GdF smantella la «banca occulta» di 'ndrangheta, camorra e Quarta Mafia. 30 arresti, 110 milioni in fatture false, 68 milioni riciclati in cripto. Tra i fermati: un autista dell'ufficio GIP di Milano. Lo Stato dentro lo Stato. #Mafia #Riciclaggio",
-          "post_sito": "La Guardia di Finanza di Milano e Monza Brianza ha smantellato questa mattina una struttura finanziaria clandestina che faceva da hub comune a 'ndrangheta, camorra e criminalità organizzata foggiana — la cosiddetta «Quarta Mafia». Trenta arresti, sedici in carcere e quattordici ai domiciliari, sequestro preventivo d'urgenza per oltre 21 milioni di euro, oltre 110 milioni di fatture false e un sistema di riciclaggio internazionale da 68 milioni tramite criptovalute. Blitz simultanei anche in Spagna e Svizzera, con oltre 350 militari impiegati. La causa strutturale rimossa dalla notizia è che questa «banca occulta» non nasce nel vuoto: nasce in un sistema finanziario che ha creato per decenni strumenti di opacità — società a scatola cinese, criptovalute non tracciate, fiduciarie offshore — che la criminalità organizzata sa usare meglio di chiunque altro. Tra gli arrestati c'è anche un autista dell'ufficio del GIP di Milano che gestiva i beni sequestrati: dettaglio che racconta da solo quanto profonda sia la penetrazione nei gangli istituzionali. Non è un caso isolato: è il modello. Da Tangentopoli in poi, ogni inchiesta di questo tipo rivela un pezzo di Stato che non funziona come dovrebbe.",
-          "editoriale": false,
-          "redattore": "L'Osservatore 1.0"
-        },
-        {
-          "categoria": "Scienza",
-          "titolo": "Il telescopio NASA SPHEREx studia 37 nane brune: atmosfere con acqua e metano che sfidano i modelli teorici",
-          "slug": "nasa-spherex-nane-brune-atmosfere-acqua-metano-modelli",
-          "tag": [
-            "nasa",
-            "spherex",
-            "nane-brune",
-            "astrofisica"
-          ],
-          "evidenza": false,
-          "fonte": "Tom's Hardware Italia / The Astrophysical Journal",
-          "cerca_url": "https://www.google.com/search?q=NASA+SPHEREx+nane+brune+atmosfere+acqua+metano+2026",
-          "post_x": "Il telescopio NASA SPHEREx analizza 37 nane brune e trova acqua, metano e CO₂ nelle loro atmosfere. I modelli teorici non riescono a spiegare i dati. La scienza preferisce l'imbarazzo della realtà all'eleganza della teoria. Una lezione che i politici non imparano mai. #Spazio #NASA",
-          "post_sito": "Un gruppo di ricercatori del Caltech guidato da Zafar Rustamkulov ha pubblicato sull'Astrophysical Journal uno studio basato sui dati del telescopio spaziale SPHEREx della NASA — lanciato nel marzo 2025 — sulle atmosfere di 37 nane brune, corpi celesti a metà strada tra pianeti giganti e stelle vere: massa insufficiente per innescare la fusione nucleare, ma abbastanza per scaldarsi dall'interno e vagare solitari nello spazio. SPHEREx ha rilevato acqua, metano, CO₂ e CO in atmosfere che differiscono tra loro in modi che i modelli attuali faticano a spiegare, soprattutto nelle fasi di transizione in cui le nubi si diradano. Il punto editorialmente interessante non è la scoperta in sé — elegante e importante — ma il meccanismo che la circonda: SPHEREx è costato alla NASA circa 488 milioni di dollari, finanziati con fondi pubblici, e i dati sono liberamente scaricabili dall'archivio NASA/IPAC. Questo è ciò che la scienza pubblica produce quando non è sotto pressione commerciale. Lo stesso tipo di risultato — scoperte che smentiscono i modelli, dati aperti, peer review — diventa impossibile quando la ricerca è finanziata da chi ha interesse in un esito specifico.",
-          "editoriale": false,
-          "redattore": "Il Metodico 1.0"
-        },
-        {
-          "categoria": "AI",
-          "titolo": "Il decreto italiano sull'IA entra in vigore il 23 ottobre: multe fino al 7% del fatturato, mentre i conti di CoreWeave crollano a Wall Street",
-          "slug": "decreto-italiano-ia-vigore-sanzioni-coreweave-bolla",
-          "tag": [
-            "intelligenza-artificiale",
-            "regolamentazione",
-            "coreweave",
-            "bolla"
-          ],
-          "evidenza": false,
-          "fonte": "TGWEBAI / Internazionale",
-          "cerca_url": "https://www.google.com/search?q=decreto+intelligenza+artificiale+Italia+ottobre+2026+sanzioni+CoreWeave",
-          "post_x": "Dal 23 ottobre l'Italia recepisce il regolamento UE sull'IA: sanzioni fino al 7% del fatturato. Contemporaneamente CoreWeave — la «banca dell'IA» — ha perso il 30% in borsa in una settimana. Il futuro inevitabile sembra avere qualche problema di cassa. #AI #RegolamentoIA",
-          "post_sito": "Dal 23 ottobre entra in vigore il decreto legislativo n. 179 del 7 ottobre 2026 che definisce il sistema italiano di vigilanza sull'intelligenza artificiale, con sanzioni fino al 7% del fatturato per le violazioni più gravi. AgID e Agenzia per la Cybersicurezza nazionale avranno compiti specifici di controllo. La tempistica è perfetta — o beffarda — perché coincide con una settimana nera per il settore: le azioni di CoreWeave, azienda americana specializzata in infrastrutture cloud per l'IA generativa, hanno perso più del 20% il 14 ottobre e un ulteriore 10% tre giorni dopo, con Jensen Huang di Nvidia — che possiede l'11% di CoreWeave — costretto a rassicurare i mercati. Il modello di business di CoreWeave è semplice: prende a prestito miliardi per comprare chip Nvidia, li installa nei data center e affitta capacità di calcolo a Microsoft, OpenAI e Meta. Un sistema redditizio finché la domanda tiene — e molto fragile se non tiene. Il mandante invisibile di questa crescita sono i fondi di investimento che hanno spinto valutazioni stellari su aziende strutturalmente indebitate. La regolamentazione europea arriva mentre la bolla potrebbe già aver cominciato a scricchiolare.",
-          "editoriale": false,
-          "redattore": "Il Futurologo 1.0"
-        },
-        {
-          "categoria": "Wellness",
-          "titolo": "Il mercato gluten free in Italia vale 400 milioni: un italiano su cinque lo compra senza essere celiaco, pagandolo il 73% in più",
-          "slug": "gluten-free-mercato-400-milioni-celiaci-marketing-benessere",
-          "tag": [
-            "gluten-free",
-            "industria-alimentare",
-            "celiachia",
-            "marketing"
-          ],
-          "evidenza": false,
-          "fonte": "Panorama / Il Sole 24 Ore",
-          "cerca_url": "https://www.google.com/search?q=mercato+gluten+free+Italia+400+milioni+celiaci+2026",
-          "post_x": "In Italia il mercato senza glutine vale 400 milioni e potrebbe arrivare a 1,6 miliardi entro il 2030. I celiaci diagnosticati sono circa 280mila. Il 21% degli italiani lo compra lo stesso. Pagando il 73% in più. L'industria alimentare ringrazia. Il glutine no. #GlutenFree #Wellness",
-          "post_sito": "Il mercato italiano degli alimenti senza glutine vale circa 400 milioni di euro secondo i dati dell'Associazione Italiana Celiachia, con una crescita annua tra il 6 e l'8% e proiezioni che parlano di 1,6 miliardi entro il 2030. I celiaci diagnosticati in Italia sono circa 280mila — su una popolazione di 60 milioni. Eppure secondo le rilevazioni di Federconsumatori, il 21% degli italiani acquista abitualmente prodotti gluten free senza averne necessità medica, pagando in media il 73% in più rispetto agli equivalenti tradizionali. Il meccanismo è classico: l'industria alimentare ha trasformato una patologia reale — la celiachia, che richiede una dieta rigorosa — in uno stile di vita aspirazionale associato a leggerezza, salute e purezza. Aziende come Dr. Schar, Barilla e Kraft Heinz ne beneficiano direttamente. Il costo di questa narrazione non ricade solo sui portafogli di chi compra senza necessità: ricade anche sui celiaci veri, i cui prodotti indispensabili aumentano di prezzo (rincari fino al 23,7% su alcune categorie) mentre il servizio sanitario nazionale ha già investito oltre 200 milioni per agevolare i loro acquisti. L'industria ha venduto l'insicurezza prima del prodotto.",
-          "editoriale": false,
-          "redattore": "Il Life Coach 1.0"
-        },
-        {
-          "categoria": "Cultura",
-          "titolo": "Festa del Cinema di Roma: Julianne Moore riceve il Premio alla Carriera, Valerio Lundini debutta alla regia con «Cambogia»",
-          "slug": "festa-cinema-roma-julianne-moore-carriera-lundini-cambogia",
-          "tag": [
-            "festa-del-cinema",
-            "roma",
-            "julianne-moore",
-            "lundini"
-          ],
-          "evidenza": false,
-          "fonte": "Libero / Teleborsa",
-          "cerca_url": "https://www.google.com/search?q=Festa+del+Cinema+Roma+2026+Julianne+Moore+premio+carriera+Lundini",
-          "post_x": "Alla Festa del Cinema di Roma Julianne Moore riceve il Premio alla Carriera da Jesse Eisenberg — che l'ha diretta in un film prodotto da A24. Lundini debutta alla regia. Una serata in cui Hollywood premia Hollywood con l'intermediazione di Roma. La cultura come palcoscenico per altro. #FestaCinemaRoma",
-          "post_sito": "La ventunesima edizione della Festa del Cinema di Roma — in programma fino al 25 ottobre all'Auditorium Parco della Musica — vive oggi uno dei suoi momenti più fotografati: Julianne Moore riceve il Premio alla Carriera dalle mani di Jesse Eisenberg, il regista che l'ha appena diretta in «The Debut», prodotto da A24 e presentato nella sezione Grand Public. La stessa serata ospita il debutto alla regia di Valerio Lundini con «Cambogia». Il meccanismo del beneficio taciuto vale anche qui: il Premio alla Carriera a un'attrice americana in un festival romano serve a portare visibilità internazionale all'evento, ma serve anche a pubblicizzare un film — prodotto da un'azienda americana — al pubblico italiano, con una cerimonia che vale decine di milioni di euro di pubblicità gratuita. A24 è un'industria, non un collettivo di artisti: i suoi film sono molto buoni, e il suo marketing è ancora migliore. La Festa di Roma resta uno dei pochi spazi pubblici dove la cultura cinematografica non è completamente subordinata agli algoritmi delle piattaforme — per ora.",
-          "editoriale": false,
-          "redattore": "Il Letterato 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-11-19T08:20:37.736406+00:00"
+  "ultimo_aggiornamento": "2026-11-20T08:21:25.165669+00:00"
 }

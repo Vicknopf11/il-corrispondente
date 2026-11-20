@@ -1,77 +1,77 @@
 {
-  "data": "2026-11-19",
+  "data": "2026-11-20",
   "tweet": [
     {
-      "testo": "Trump, Xi e Putin seduti allo stesso tavolo per la prima volta nella storia. L'Europa, che paga le guerre di tutti, non è stata invitata. Strano, no? #APEC #Shenzhen",
-      "url": "https://corrispondente.filoclastos.it/2026/11/19/vertice-trump-xi-putin-shenzhen-europa-esclusa/",
-      "slug": "vertice-trump-xi-putin-shenzhen-europa-esclusa",
+      "testo": "Tre grandi potenze si incontrano per «la pace». Il documento finale non menziona l'Ucraina. L'ONU va riformata. La CPI abusa. Trump chiama Putin «amico». Giornata storica. Per chi?",
+      "url": "https://corrispondente.filoclastos.it/2026/11/20/vertice-trump-xi-putin-shenzhen-pace-senza-ucraina/",
+      "slug": "vertice-trump-xi-putin-shenzhen-pace-senza-ucraina",
       "categoria": "Politica Internazionale",
       "evidenza": true,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "FdI vuole fermare le demolizioni in Campania per 24 mesi. 330mila pratiche di condono inevase solo lì. Strana coincidenza: il Mezzogiorno vota. #Manovra #Condono",
-      "url": "https://corrispondente.filoclastos.it/2026/11/19/fdi-condono-demolizioni-campania-manovra-2026/",
-      "slug": "fdi-condono-demolizioni-campania-manovra-2026",
+      "testo": "Quinto sciopero generale consecutivo della Cgil contro la manovra Meloni. 100 piazze. Stessi slogan, stessa risposta del governo. Nel frattempo la spesa militare sale. Coincidenze.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/20/sciopero-generale-cgil-20-novembre-2026-manovra-meloni/",
+      "slug": "sciopero-generale-cgil-20-novembre-2026-manovra-meloni",
       "categoria": "Politica Nazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Anthropic vale 1.500 miliardi. Google e Nvidia dentro col privato. Amazon dentro col privato. Poi ci stupiremo che Claude risponde sempre «tutto bene». #Anthropic #IPO",
-      "url": "https://corrispondente.filoclastos.it/2026/11/19/anthropic-ipo-nasdaq-81-miliardi-record/",
-      "slug": "anthropic-ipo-nasdaq-81-miliardi-record",
+      "testo": "Anthropic: IPO record da 107 mld, valutazione picco 2.000 mld. Perdita netta: 104 mld. Obblighi futuri: 900 mld. Le banche: 550 mln di commissioni. Chi guadagna è già chiaro. 🏦",
+      "url": "https://corrispondente.filoclastos.it/2026/11/20/anthropic-ipo-record-nasdaq-107-miliardi-conti-rosso/",
+      "slug": "anthropic-ipo-record-nasdaq-107-miliardi-conti-rosso",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Cobolli fuori dalle ATP Finals. Tiafoe vince 7-6 6-0. Stasera Zverev-Fils su Italia 1 in chiaro. Il tennis è ancora gratis, ogni tanto. #ATPFinals #Torino",
-      "url": "https://corrispondente.filoclastos.it/2026/11/19/atp-finals-torino-cobolli-eliminato-zverev-fils/",
-      "slug": "atp-finals-torino-cobolli-eliminato-zverev-fils",
+      "testo": "Cobolli saluta le ATP Finals con l'ultimo match contro Alcaraz. Due sconfitte, nessun set vinto nel girone. Però è qui, tra gli otto migliori dell'anno. Non è poco — anche se i titoloni lo avevano già sepolto.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/20/atp-finals-torino-2026-cobolli-alcaraz-medvedev-tiafoe-semifinale/",
+      "slug": "atp-finals-torino-2026-cobolli-alcaraz-medvedev-tiafoe-semifinale",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Un ultraleggero precipita a Lonato del Garda, pilota morto. L'aviazione leggera ha regole di sicurezza che si discutono da anni. Se ne riparlerà per un giorno, poi si dimentica. #Brescia",
-      "url": "https://corrispondente.filoclastos.it/2026/11/19/ultraleggero-precipita-lonato-garda-pilota-morto/",
-      "slug": "ultraleggero-precipita-lonato-garda-pilota-morto",
+      "testo": "L'aeroporto di Genova chiuso 2 ore per droni non identificati. Un Ita Airways fermo in pista. Regole sui droni ci sono, applicarle è un'altra storia. La causa strutturale rimossa: chi controlla davvero gli spazi aerei civili?",
+      "url": "https://corrispondente.filoclastos.it/2026/11/20/aeroporto-genova-chiuso-droni-sicurezza-aerea/",
+      "slug": "aeroporto-genova-chiuso-droni-sicurezza-aerea",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Hayabusa2 vaga nello spazio da 12 anni, il motore cede e deve cambiare asteroide. JAXA rilancia: «missione più difficile del mondo». Rispetto. #Hayabusa2 #JAXA",
-      "url": "https://corrispondente.filoclastos.it/2026/11/19/hayabusa2-cambia-asteroide-bersaglio-motore-guasto/",
-      "slug": "hayabusa2-cambia-asteroide-bersaglio-motore-guasto",
+      "testo": "Due italiani vincono il Premio Sakurai per la fisica teorica delle particelle. Hanno reso possibili calcoli che si ritenevano impossibili. In Italia, però, è meglio vendere gelati in Germania. Notizia di dominio pubblico.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/20/premio-sakurai-laporta-remiddi-fisica-teorica-particelle/",
+      "slug": "premio-sakurai-laporta-remiddi-fisica-teorica-particelle",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Anthropic: «AI sicura e responsabile». Google dentro. Nvidia dentro. Amazon dentro. 81 miliardi raccolti. La sicurezza rende bene. #Claude #AIHype",
-      "url": "https://corrispondente.filoclastos.it/2026/11/19/anthropic-borsa-ipo-sicura-google-nvidia/",
-      "slug": "anthropic-borsa-ipo-sicura-google-nvidia",
+      "testo": "Anthropic: si quota dichiarando di essere «ossessionata dalla sicurezza». Il Center for AI Safety la critica proprio sulla sicurezza. Dario Amodei vale 20 mld. Claude è stato usato nella guerra in Iran. Tutto quadra.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/20/anthropic-borsa-center-ai-safety-critica-sicurezza-paradosso/",
+      "slug": "anthropic-borsa-center-ai-safety-critica-sicurezza-paradosso",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "RFK Jr. liberalizza 6 peptidi sperimentali: dimagrire, ringiovanire, muscoli, sesso. Nessuna prova di sicurezza. Gli scienziati FDA contrari. Il mercato esulta. #MAHA #Peptidi",
-      "url": "https://corrispondente.filoclastos.it/2026/11/19/rfk-peptidi-sperimentali-fda-usa-wellness/",
-      "slug": "rfk-peptidi-sperimentali-fda-usa-wellness",
+      "testo": "Il mercato del wellness vale 2.700 mld e cresce. Il 40% dei consumatori dice che l'offerta attuale è «insufficiente». L'industria crea il bisogno, poi vende la soluzione. Funziona da sempre. 🧘‍♂️💸",
+      "url": "https://corrispondente.filoclastos.it/2026/11/20/mercato-wellness-2700-miliardi-investitori-mckinsey/",
+      "slug": "mercato-wellness-2700-miliardi-investitori-mckinsey",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "GTA 6 esce oggi dopo 4.811 giorni di attesa, due rinvii e 212 GB di spazio. Nessuna data per PC. Take-Two ringrazia, le tasche dei giocatori meno. #GTA6 #ViceCity",
-      "url": "https://corrispondente.filoclastos.it/2026/11/19/gta-6-uscita-19-novembre-2026-vice-city/",
-      "slug": "gta-6-uscita-19-novembre-2026-vice-city",
+      "testo": "Morto Corrado Augias, 91 anni. Ha condotto «Telefono Giallo», scritto di Vatricano, di Napoli, di Parigi. Ha fatto la domanda più italiana: «Ma allora chi è stato?». Non tutti hanno gradito la risposta. Addio.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/20/morte-corrado-augias-91-anni-giornalista-scrittore/",
+      "slug": "morte-corrado-augias-91-anni-giornalista-scrittore",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }
