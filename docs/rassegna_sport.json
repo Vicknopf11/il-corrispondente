@@ -1,20 +1,12 @@
 {
-  "generato": "2026-11-21T12:31:06.083355+00:00",
+  "generato": "2026-11-21T18:31:06.632519+00:00",
   "item": [
     {
-      "sottocategoria": "Mente e nicchia",
+      "sottocategoria": "Calcio femminile",
       "tipo": "notizia",
-      "titolo": "Pétanque, Mondiali Senior 2026: una giovane Italia a caccia di medaglie in Thailandia",
-      "link": "https://www.gazzetta.it/bocce/19-11-2026/bocce-petanque-mondiali-senior-2026-italia-a-caccia-di-medaglie-in-thailandia.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-11-19"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Slalom di Gurgl, Della Mea terza dopo la prima manche. Guida Swenn Larsson davanti a Colturi",
-      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/Coppa-Mondo-Sci/21-11-2026/slalom-gurgl-risultati-della-mea-colturi.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
+      "titolo": "La fabbrica dei campioni di Kim Jong-un: lo sport al servizio del regime in Corea del Nord",
+      "link": "https://www.gazzetta.it/Sport-Vari/21-11-2026/kim-jong-un-e-lo-sport-in-corea-del-nord-tra-propaganda-e-successi-mondiali.shtml",
+      "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-11-21"
     },
     {
@@ -40,6 +32,14 @@
       "link": "https://www.gazzetta.it/Sport-Vari/17-11-2026/mondiali-di-surf-fioravanti-si-ferma-a-un-passo-dalla-finale.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-11-17"
+    },
+    {
+      "sottocategoria": "Squadra",
+      "tipo": "notizia",
+      "titolo": "L'Inghilterra è una furia! All Blacks affondati e ancora ko: neozelandesi fuori dalla finale?",
+      "link": "https://www.gazzetta.it/Rugby/21-11-2026/rugby-inghilterra-all-blacks-37-12.shtml",
+      "fonte": "Gazzetta — Rugby",
+      "data_evento": "2026-11-21"
     }
   ]
 }
