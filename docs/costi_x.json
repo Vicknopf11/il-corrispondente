@@ -1,6 +1,14 @@
 {
   "pubblicazioni": [
     {
+      "data": "2026-11-21",
+      "slug": "vertice-trump-xi-putin-shenzhen-dichiarazione-pace",
+      "categoria": "Politica Internazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
       "data": "2026-11-20",
       "slug": "morte-corrado-augias-91-anni-giornalista-scrittore",
       "categoria": "Cultura",
