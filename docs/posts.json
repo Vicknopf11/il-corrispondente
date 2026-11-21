@@ -1,6 +1,414 @@
 {
   "edizioni": [
     {
+      "data": "2026-11-21",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Vertice trilaterale Trump-Xi-Putin a Shenzhen: una «dichiarazione di pace» senza l'Europa",
+          "slug": "vertice-trump-xi-putin-shenzhen-dichiarazione-pace",
+          "tag": [
+            "geopolitica",
+            "usa-cina-russia",
+            "ucraina",
+            "apec"
+          ],
+          "evidenza": true,
+          "fonte": "Il Fatto Quotidiano / Treccani / Startmag",
+          "cerca_url": "https://www.google.com/search?q=vertice+trilaterale+Trump+Xi+Putin+Shenzhen+novembre+2026",
+          "post_x": "Trump, Xi e Putin si siedono a Shenzhen e firmano una «dichiarazione di pace». Quattro punti, nessun accordo su Ucraina o Iran. L'unico vero risultato è la fotografia. L'Europa osserva dal corridoio.",
+          "post_sito": "Il primo vertice trilaterale della storia tra i presidenti di Stati Uniti, Cina e Russia è durato un'ora e mezza e ha prodotto quattro punti: ridurre il rischio nucleare, riformare l'ONU, aumentare la produzione di petrolio e ridimensionare la Corte penale internazionale — proprio mentre Putin è colpito da un mandato d'arresto di quest'ultima. Nessun accordo sull'Ucraina, nessun accordo sull'Iran, nessun trattato sul disarmo. Trump lo definisce «straordinario», e forse ha ragione: in nessun altro momento della storia recente tre potenze così distanti tra loro avrebbero potuto sedersi allo stesso tavolo senza che nessuno chiedesse conto di nulla a nessuno. Chi ci guadagna? La Cina, che ha ospitato l'incontro rafforzando la propria centralità nel nuovo ordine multipolare; Trump, che può mostrarsi mediatore globale dopo il voto di metà mandato; Putin, che spezza l'isolamento diplomatico internazionale. Il conto lo paga chi non era seduto al tavolo: l'Europa e l'Ucraina. Il giorno dopo, le bombe russe sono cadute su Zaporizhzhia e Kryvyi Rih — come a confermare che la fotografia di Shenzhen è arredamento diplomatico, non cessate il fuoco.",
+          "fatti": [
+            {
+              "testo": "Il vertice trilaterale si è tenuto il 19 novembre 2026 a Shenzhen, a margine del summit APEC, e si è concluso con la firma di una «dichiarazione di pace» in quattro punti.",
+              "fonte": "Il Fatto Quotidiano",
+              "url": "https://www.ilfattoquotidiano.it/2026/11/19/vertice-shenzhen-trump-xi-putin-ucraina-notizie/8576787/"
+            },
+            {
+              "testo": "I quattro punti della dichiarazione riguardano riduzione del rischio nucleare, riforma dell'ONU, aumento della produzione di carburante e ridimensionamento della Corte penale internazionale, che aveva emesso un mandato d'arresto contro Putin nel 2023.",
+              "fonte": "Treccani",
+              "url": "https://www.treccani.it/magazine/atlante/geopolitica/il-vertice-di-shenzhen-tra-trump-xi-e-putin-tanti-sorrisi-quattro-punti-e-nessuna-svolta.html"
+            },
+            {
+              "testo": "Non è emerso alcun accordo concreto sull'Ucraina né sull'Iran; Trump ha letto una dichiarazione in cui ha auspicato progressi diplomatici senza risultati.",
+              "fonte": "Treccani",
+              "url": "https://www.treccani.it/magazine/atlante/geopolitica/il-vertice-di-shenzhen-tra-trump-xi-e-putin-tanti-sorrisi-quattro-punti-e-nessuna-svolta.html"
+            },
+            {
+              "testo": "La Commissione europea ha approvato un nuovo piano da 45 miliardi di prestiti all'Ucraina per il 2027, che arriverà al Consiglio europeo straordinario del 25 e 26 novembre.",
+              "fonte": "VENTI Notizie",
+              "url": "https://lorenzoait.substack.com/p/21112026-venti-notizie"
+            },
+            {
+              "testo": "Nella notte tra il 20 e il 21 novembre due missili e un drone russi sono caduti nel sud-est della Polonia; la NATO ha fatto decollare i caccia e il ministro della Difesa polacco ha parlato degli incidenti più gravi sul territorio polacco dall'inizio della guerra.",
+              "fonte": "Sarno Notizie",
+              "url": "https://www.sarnonotizie.it/rassegna-stampa-21-novembre-2026/"
+            }
+          ],
+          "incerto": [
+            "Se e quando potrebbe essere raggiunto un accordo di pace per l'Ucraina: il Financial Times riferisce che Trump punterebbe a un'intesa entro gennaio, ma nessun documento ufficiale conferma scadenze o contenuti.",
+            "La natura esatta dell'incidente missilistico in Polonia e se si sia trattato di un atto intenzionale o di una traiettoria errata non è stata confermata da fonti ufficiali NATO."
+          ],
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La versione dei tre protagonisti",
+              "testo": "Trump ha definito il vertice «straordinario» e ha dichiarato di aver riaffermato legami con gli alleati nella regione e promosso la causa della pace. Xi Jinping lo ha giudicato di «portata storica». Putin ha partecipato senza che nessuno dei tre paesi presenti riconosca la giurisdizione della Corte penale internazionale, che ha emesso contro di lui un mandato d'arresto per crimini di guerra. I tre leader hanno presentato la dichiarazione comune come un passo verso la stabilità strategica."
+            },
+            {
+              "etichetta": "La posizione dell'Europa e dell'Ucraina",
+              "testo": "L'Europa è stata completamente assente dal tavolo di Shenzhen. La Polonia ha dichiarato che senza l'UE nessun accordo di pace sull'Ucraina è possibile. L'Ucraina non è stata consultata e nelle stesse ore gli attacchi russi sono continuati. La Commissione europea ha risposto approvando un piano da 45 miliardi di prestiti a Kiev per il 2027, in attesa del Consiglio europeo straordinario del 25-26 novembre. Il messaggio implicito è che Bruxelles non intende accettare una pace negoziata senza la propria partecipazione."
+            },
+            {
+              "etichetta": "La lettura degli analisti",
+              "testo": "Diversi osservatori internazionali rilevano che il vertice ha prodotto più risultati sul piano della comunicazione politica che su quello diplomatico concreto. Nessuno dei dossier più caldi — Ucraina, Iran, controllo degli armamenti — ha trovato soluzione. Xi ha ottenuto di ospitare l'incontro consolidando la centralità della Cina; Trump può presentarsi come mediatore davanti all'opinione pubblica americana; Putin ha beneficiato della rottura del proprio isolamento. La dichiarazione comune resta un documento programmatico senza meccanismi di attuazione."
+            },
+            {
+              "etichetta": "Il nodo della Corte penale internazionale",
+              "testo": "Uno dei quattro punti della dichiarazione di Shenzhen riguarda esplicitamente la Corte penale internazionale, definita da Trump «fuori controllo». Nessuno dei tre paesi presenti ne riconosce la giurisdizione. Questo punto viene letto da giuristi e ONG internazionali come un tentativo coordinato di delegittimare la CPI proprio mentre è in corso il procedimento contro Putin per crimini di guerra in Ucraina. L'inclusione di questo punto nella dichiarazione — a fianco di temi come il nucleare e l'ONU — viene considerata significativa da chi studia le istituzioni internazionali."
+            }
+          ],
+          "implicazioni": "Il vertice di Shenzhen segna un cambiamento nella geometria delle relazioni internazionali: per la prima volta le tre principali potenze nucleari si siedono allo stesso tavolo al di fuori delle sedi multilaterali tradizionali. Se l'accordo su un cessate il fuoco in Ucraina venisse negoziato senza l'Europa, Kiev si troverebbe a dover accettare condizioni definite altrove. La delegittimazione della CPI, se sostenuta da tutte e tre le potenze, potrebbe ridurne concretamente l'efficacia nei procedimenti in corso. La risposta europea — il piano da 45 miliardi per l'Ucraina — segnala la volontà di Bruxelles di mantenere un ruolo autonomo, ma la sua capacità di incidere sui negoziati resta incerta.",
+          "redattore": "Il Corrispondente Estero 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Sciopero CGIL: un milione e mezzo in piazza, scontri a Roma, Torino e Bologna",
+          "slug": "sciopero-cgil-20-novembre-manovra-scontri",
+          "tag": [
+            "sciopero",
+            "cgil",
+            "manovra",
+            "landini"
+          ],
+          "evidenza": false,
+          "fonte": "Sky TG24 / Fanpage / TGCom24",
+          "cerca_url": "https://www.google.com/search?q=sciopero+CGIL+20+novembre+2026+manovra+scontri",
+          "post_x": "Landini porta in piazza 1,5 milioni contro la manovra. È il quinto sciopero di fila. UIL e CISL non ci sono. Il campo largo sì. Qualcuno ha già capito che la piazza serve anche a costruire il candidato per le prossime elezioni.",
+          "post_sito": "Il quinto sciopero generale consecutivo della CGIL contro la manovra del governo Meloni ha portato in piazza, secondo il sindacato, un milione e mezzo di persone in oltre cento città: adesione dichiarata al 60%, contestata dal governo, con scontri a Roma, Bologna e Torino e sette agenti feriti. UIL e CISL erano altrove — il che rende lo sciopero, tecnicamente, uno sciopero di parte. La cosa interessante da notare non è la piazza: è chi ci era dentro. Il campo largo ha sfilato compatto con la CGIL, trasformando uno strumento sindacale in una prova generale di coalizione. Con le elezioni comunali di Milano in stallo, il centrosinistra senza candidato e Fratelli d'Italia stabile al 27,9% contro un PD al 20,5% al minimo delle ultime sei rilevazioni, la piazza del 20 novembre diventa anche un investimento politico. Chi ci guadagna? Landini, che alza il proprio profilo politico. Il campo largo, che testa la propria capacità di mobilitazione. Chi ci rimette, almeno per ora, sono i lavoratori che aspettano risposte concrete sulla manovra — che intanto avanza.",
+          "fatti": [
+            {
+              "testo": "Lo sciopero generale del 20 novembre 2026, indetto dalla CGIL, è stato il quinto consecutivo contro la manovra del governo Meloni.",
+              "fonte": "Sky TG24",
+              "url": "https://tg24.sky.it/cronaca/2026/11/20/sciopero-oggi-20-novembre-diretta"
+            },
+            {
+              "testo": "La CGIL ha dichiarato un'adesione al 60% e oltre un milione e mezzo di persone in oltre cento piazze; il governo ha contestato questi numeri.",
+              "fonte": "Sky TG24",
+              "url": "https://tg24.sky.it/cronaca/2026/11/20/sciopero-oggi-20-novembre-diretta"
+            },
+            {
+              "testo": "Ai cortei di Roma, Bologna e Torino ci sono stati scontri con sette agenti feriti.",
+              "fonte": "Sarno Notizie",
+              "url": "https://www.sarnonotizie.it/rassegna-stampa-21-novembre-2026/"
+            },
+            {
+              "testo": "UIL e CISL non hanno aderito allo sciopero, mentre i leader del campo largo hanno partecipato ai cortei.",
+              "fonte": "Il Sussidiario",
+              "url": "https://www.ilsussidiario.net/news/sciopero-generale-oggi-20-novembre-e-allerta-scontri-diretta-dove-cgil-blocca-trasporti-scuola-sanita/3020743/"
+            },
+            {
+              "testo": "FdI è stabile al 27,9% e il PD cala al 20,5%, secondo la rilevazione di Termometro Politico del 20 novembre 2026.",
+              "fonte": "Fanpage",
+              "url": "https://www.fanpage.it/politica/sondaggi-politici-fratelli-ditalia-stabile-e-pd-in-leggero-calo-recuperano-m5s-e-forza-italia/"
+            }
+          ],
+          "incerto": [
+            "I dati reali di adesione allo sciopero nei singoli settori non sono ancora stati verificati da fonti indipendenti; le cifre del sindacato e quelle del governo divergono significativamente."
+          ],
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Wall Street in correzione: il Nasdaq brucia tutti i guadagni del 2026 dopo il crollo dei titoli AI",
+          "slug": "nasdaq-correzione-ai-anthropic-ipo-crollo",
+          "tag": [
+            "nasdaq",
+            "intelligenza-artificiale",
+            "borsa",
+            "anthropic"
+          ],
+          "evidenza": false,
+          "fonte": "CNN / Il Giornale / Contropiano",
+          "cerca_url": "https://www.google.com/search?q=Nasdaq+correzione+Anthropic+IPO+crollo+novembre+2026",
+          "post_x": "Anthropic debutta in borsa a +34%, il giorno dopo perde il 10% e trascina il Nasdaq a -5,28%. L'IPO più grande della storia non ha salvato il settore AI. Ha bruciato 370 miliardi in Europa. Chi ci guadagna? Chi ha venduto al picco.",
+          "post_sito": "L'IPO di Anthropic il 19 novembre 2026 è stata la più grande quotazione della storia: 83 dollari di prezzo d'emissione, apertura a 111,50 dollari, chiusura del primo giorno a 97,17. Il giorno dopo, il titolo ha perso oltre il 10% trascinando con sé l'intero comparto tecnologico: il Nasdaq ha chiuso il 20 novembre a -5,28%, azzerando tutti i guadagni dell'anno, mentre l'S&P 500 ha perso il 3,7% chiudendo oltre il 10% sotto il massimo recente. In Europa si sono bruciati circa 370 miliardi di capitalizzazione. I fondamentali di Anthropic raccontano qualcosa di interessante: a fronte di ricavi in crescita vertiginosa — oltre 33 miliardi nei primi nove mesi del 2026 — la società accumula perdite per 104 miliardi nello stesso periodo, legate ai costi di infrastruttura. beneficio taciuto: chi ha venduto quote in privato a valutazioni altissime prima dell'IPO — fondi di venture capital, grandi investitori istituzionali — ha già incassato. I piccoli risparmiatori che hanno comprato il primo giorno reggono ora una perdita potenziale significativa. La domanda che nessun titolo di giornale fa è semplice: i miliardi investiti nell'AI stanno costruendo qualcosa di redditizio, o stiamo assistendo all'ennesimo ciclo di hype finanziato da chi sa quando uscire?",
+          "fatti": [
+            {
+              "testo": "Anthropic ha debuttato al Nasdaq il 19 novembre 2026 con il simbolo ANT, con un prezzo di collocamento di 83 dollari per azione, aprendo a circa 111,50 dollari (+34%) e chiudendo la prima seduta a 97,17 dollari.",
+              "fonte": "Matricedigitale / Borsainside",
+              "url": "https://www.borsainside.com/news/azioni-anthropic-dopo-ipo-record-rischi-opportunita-investimento/"
+            },
+            {
+              "testo": "Il 20 novembre il Nasdaq ha chiuso a -5,28%, azzerando tutti i guadagni dell'anno, mentre l'S&P 500 ha perso il 3,7% chiudendo oltre il 10% sotto il suo recente massimo.",
+              "fonte": "CNN",
+              "url": "https://www.cnn.com/2026/11/20/investing/us-stocks-anthropic-ai"
+            },
+            {
+              "testo": "Anthropic ha registrato ricavi in crescita superiori a 33 miliardi nei primi nove mesi del 2026, ma perdite pari a 104 miliardi nello stesso periodo.",
+              "fonte": "Contropiano",
+              "url": "https://contropiano.org/news/news-economia/2026/11/21/anthropic-vola-in-borsa-il-problema-e-latterraggio-0201100"
+            },
+            {
+              "testo": "La correzione dei titoli tech ha bruciato circa 370 miliardi di euro di capitalizzazione in Europa il 20 novembre 2026.",
+              "fonte": "Leonardo.it",
+              "url": "https://leonardo.it/lifestyle/bolla-intelligenza-artificiale-mercati-crollo/"
+            }
+          ],
+          "incerto": [
+            "Se la correzione dei titoli AI rappresenti l'inizio di un mercato ribassista strutturale o una correzione temporanea non è determinabile dai dati attuali; le opinioni degli analisti divergono."
+          ],
+          "editoriale": false,
+          "redattore": "L'Analista 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "F1, qualifiche GP Las Vegas: Antonelli il più veloce, ma la pole va a Verstappen per penalità",
+          "slug": "f1-qualifiche-gp-las-vegas-antonelli-verstappen-pole",
+          "tag": [
+            "formula1",
+            "las-vegas",
+            "antonelli",
+            "verstappen"
+          ],
+          "evidenza": false,
+          "fonte": "Formula1.com / ADNKRONOS / Newsauto",
+          "cerca_url": "https://www.google.com/search?q=qualifiche+F1+GP+Las+Vegas+2026+Antonelli+Verstappen+pole",
+          "post_x": "Antonelli gira in 1:33.893, il più veloce. Penalità di 5 posizioni: parte sesto. Pole a Verstappen. Ferrari fuori dalla top 10 — Hamilton undicesimo. Las Vegas, la città dove vince sempre chi non ha guidato meglio.",
+          "post_sito": "Nelle qualifiche del GP di Las Vegas 2026, il campione del mondo Kimi Antonelli ha firmato il giro più veloce della sessione in 1:33.893 — l'unico sotto il muro dell'1:34 — con 258 millesimi di vantaggio su Verstappen. Sennonché una penalità di cinque posizioni per sostituzione del motore lo spedisce in sesta fila, e la pole va a Verstappen su Red Bull. È il meccanismo regolamentare che trasforma il merito in un problema di gestione delle componenti: il campione del mondo ha il passo migliore ma parte da metà griglia. Sullo sfondo, il crollo della Ferrari: Leclerc decimo, Hamilton eliminato in Q2, undicesimo. L'ingresso di Hamilton in rosso a inizio stagione aveva promesso un'era. I risultati raccontano un'altra storia: due pole position nelle qualifiche, e una macchina che fatica sui circuiti stradali. il conto dietro la medaglia — la Ferrari ha investito centinaia di milioni per attrarre Hamilton e Antonelli è diventato campione del mondo con una Mercedes costruita su basi diverse. La gara è domenica: da P6, con il passo che ha mostrato, Antonelli è comunque tra i favoriti.",
+          "fatti": [
+            {
+              "testo": "Kimi Antonelli (Mercedes) ha firmato il miglior tempo nelle qualifiche del GP Las Vegas in 1:33.893, ma una penalità di cinque posizioni per cambio motore lo relegherà al sesto posto in griglia.",
+              "fonte": "Formula1.com",
+              "url": "https://www.formula1.com/en/latest/article/antonelli-quickest-in-las-vegas-gp-qualifying-as-verstappen-inherits-pole-position.6R7udh8iYMHunSOGI6zStK"
+            },
+            {
+              "testo": "Max Verstappen (Red Bull) eredita la pole position con il tempo di 1:34.151, seguito da George Russell (Mercedes) e Lando Norris (McLaren).",
+              "fonte": "ADNKRONOS",
+              "url": "https://www.adnkronos.com/sport/qualifiche-formula-1-pole-verstappen-antonelli-ferrari-griglia-partenza_1txyA6pHWH7eYpOTc6mXDq"
+            },
+            {
+              "testo": "Le due Ferrari sono uscite in Q2: Charles Leclerc si è qualificato decimo, Lewis Hamilton è undicesimo.",
+              "fonte": "Tuttosport",
+              "url": "https://www.tuttosport.com/news/formula-1/2026/11/21-152709870/gp_las_vegas_pole_verstappen_e_antonelli_penalizzato_male_le_ferrari_nessuno_felice"
+            }
+          ],
+          "incerto": [
+            "L'esito della gara domenicale è ovviamente incerto; Antonelli partendo sesto con il miglior passo potrebbe recuperare, ma dipende dalla gestione pneumatici e dalle Safety Car."
+          ],
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Novellara, 25enne pakistana si lancia dall'auto per fuggire a marito e parenti: arrestato il coniuge",
+          "slug": "novellara-pakistana-violenza-familiare-saman-abbas",
+          "tag": [
+            "violenza-domestica",
+            "novellara",
+            "cronaca",
+            "segregazione"
+          ],
+          "evidenza": false,
+          "fonte": "Il Giornale / Canal Dieci / Prima Reggio Emilia",
+          "cerca_url": "https://www.google.com/search?q=Novellara+pakistana+25enne+auto+violenza+2026",
+          "post_x": "A Novellara — stesso paese di Saman Abbas — una 25enne pakistana si è lanciata da un'auto in corsa per fuggire a marito, suocero e cognati. Il marito è stato arrestato. È lo stesso sistema che ha ucciso Saman. La causa strutturale rimossa è sempre lì.",
+          "post_sito": "A Novellara, la stessa cittadina della Bassa Reggiana segnata dall'omicidio di Saman Abbas, una donna di 25 anni originaria del Pakistan si è gettata da un'auto in corsa il 4 giugno 2026 per sfuggire a una spedizione punitiva organizzata dal marito, dal suocero e da due cognati. Il 18 novembre ha deposto in udienza protetta davanti al GIP di Reggio Emilia: ha raccontato segregazione, divieto di imparare l'italiano, violenze fisiche e sessuali, minacce di morte. Il marito 27enne è stato arrestato; suocero e due cognati sono sottoposti a braccialetto elettronico. la causa strutturale rimossa: ogni volta che emerge un caso simile, il racconto si concentra sul «mostro» di turno — il marito, la famiglia — mentre sparisce dalla narrazione il sistema che rende possibile questa forma di controllo: l'isolamento linguistico deliberato come strumento di dominio, la difficoltà delle donne immigrate ad accedere a servizi di tutela, la lentezza con cui i casi emergono dall'invisibilità. Presunzione di innocenza: le accuse sono gravi, ma il procedimento è in corso e la verifica delle responsabilità spetta ai tribunali.",
+          "fatti": [
+            {
+              "testo": "Il 4 giugno 2026 una donna pakistana di 25 anni residente a Novellara si è gettata da un'auto in corsa per sfuggire ad aggressioni del marito e dei familiari di lui; è stata soccorsa da passanti e carabinieri.",
+              "fonte": "Canal Dieci / ADNKRONOS",
+              "url": "https://canaledieci.it/2026/11/19/segregata-e-abusata-da-marito-e-parenti-25enne-pakistana-si-lancia-dallauto-per-salvarsi-e-accaduto-nello-stesso-paese-di-saman/"
+            },
+            {
+              "testo": "Il 18 novembre 2026 la donna ha deposto in incidente probatorio davanti al GIP di Reggio Emilia, raccontando violenze fisiche e sessuali, segregazione e divieto di imparare l'italiano.",
+              "fonte": "Newsprima",
+              "url": "https://newsprima.it/cronaca/giovane-pakistana-salvata-dagli-abusi-nello-stesso-paese-di-saman-il-piano-per-ucciderla/"
+            },
+            {
+              "testo": "Il marito 27enne è stato arrestato; il suocero 55enne e i due cognati ventunenni sono stati raggiunti da divieto di avvicinamento e braccialetto elettronico.",
+              "fonte": "Il Giornale",
+              "url": "https://www.ilgiornale.it/news/nazionale/segregata-in-casa-e-picchiata-per-impedirle-di-integrarsi-lincubo-di-una-giovane-pakistana-a-novellara-stesso-paese-di-saman-abbas/"
+            }
+          ],
+          "incerto": [
+            "Il procedimento penale è in corso: le responsabilità degli indagati devono essere accertate dal tribunale e nessuna delle accuse costituisce ancora una condanna definitiva."
+          ],
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Scienza",
+          "titolo": "James Webb e l'esopianeta K2-18b: segnali di vita possibile, ma la scienza chiede cautela",
+          "slug": "james-webb-k2-18b-vita-extraterrestre-segnali",
+          "tag": [
+            "astronomia",
+            "james-webb",
+            "esopianeti",
+            "astrobiologia"
+          ],
+          "evidenza": false,
+          "fonte": "Passione Astronomia / SpaceDaily / Leggo",
+          "cerca_url": "https://www.google.com/search?q=James+Webb+K2-18b+vita+extraterrestre+novembre+2026",
+          "post_x": "Il telescopio James Webb individua su K2-18b segnali compatibili con molecole prodotte dalla vita. I media: «trovata vita aliena». Gli scienziati: «segnale a 3 sigma, serve conferma, forse non c'è nemmeno il DMS». Chi ci guadagna? Chi vende titoli.",
+          "post_sito": "Il telescopio spaziale James Webb ha rilevato nell'atmosfera dell'esopianeta K2-18b — a 124 anni luce dalla Terra nella costellazione del Leone — segnali compatibili con dimetil solfuro (DMS) e dimetil disolfuro (DMDS), molecole che sulla Terra vengono prodotte quasi esclusivamente da organismi viventi, in particolare fitoplancton marino. I media hanno raccontato la notizia come la «prova più forte di vita extraterrestre». La scienza racconta qualcosa di più complicato: il segnale si attesta a 3 sigma di confidenza statistica, contro i 5 sigma richiesti per parlare di scoperta; un'analisi indipendente pubblicata su arXiv non ha trovato «evidenza statisticamente significativa» di DMS su K2-18b; e lo stesso team di Cambridge autore dello studio originale ha precisato che non si tratta di una rilevazione di vita. coro compatto: ogni volta che esce una notizia su possibile vita extraterrestre, il ciclo mediatico si alimenta da solo — testate, social, podcast — mentre i dettagli metodologici che relativizzano il risultato scompaiono dopo il primo paragrafo. La domanda che vale la pena farsi è: chi finanzia queste ricerche, e quanto la pressione a produrre risultati «comunicabili» influenza il modo in cui vengono presentati al pubblico?",
+          "fatti": [
+            {
+              "testo": "Il telescopio spaziale James Webb ha rilevato segnali compatibili con dimetil solfuro (DMS) e dimetil disolfuro (DMDS) nell'atmosfera dell'esopianeta K2-18b, a 124 anni luce dalla Terra.",
+              "fonte": "Passione Astronomia",
+              "url": "https://www.passioneastronomia.it/gli-scienziati-trovano-la-prova-piu-forte-dellesistenza-possibile-di-vita-su-un-pianeta-alieno/"
+            },
+            {
+              "testo": "Il segnale rilevato si attesta a circa 3 sigma di confidenza statistica; per parlare di scoperta scientifica consolidata è richiesto un livello di 5 sigma.",
+              "fonte": "SpaceDaily",
+              "url": "https://spacedaily.com/t-k2-18b-webb-biosignature-debate/"
+            },
+            {
+              "testo": "Un'analisi indipendente ha concluso che non esiste evidenza statisticamente significativa di DMS o DMDS nell'atmosfera di K2-18b, e che le misurazioni si trovano vicino al limite di sensibilità del telescopio.",
+              "fonte": "SpaceDaily",
+              "url": "https://spacedaily.com/t-k2-18b-webb-biosignature-debate/"
+            }
+          ],
+          "incerto": [
+            "Se le molecole rilevate siano effettivamente DMS/DMDS o altri composti con segnale spettrale simile è ancora oggetto di dibattito scientifico; sono necessarie ulteriori osservazioni con il telescopio Webb per una conferma o smentita."
+          ],
+          "editoriale": false,
+          "redattore": "Il Metodico 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "AI",
+          "titolo": "Trump minaccia una tassa «tremenda» sulle aziende USA che costruiscono data center all'estero",
+          "slug": "trump-tassa-data-center-estero-intelligenza-artificiale",
+          "tag": [
+            "intelligenza-artificiale",
+            "data-center",
+            "trump",
+            "cina"
+          ],
+          "evidenza": false,
+          "fonte": "Focus America / Città di Napoli",
+          "cerca_url": "https://www.google.com/search?q=Trump+tassa+data+center+estero+intelligenza+artificiale+novembre+2026",
+          "post_x": "Trump annuncia una tassa «tremenda» per le aziende USA che costruiscono data center AI fuori dagli Stati Uniti. Pochi dettagli. Era una novità anche per i suoi collaboratori. Nel frattempo il Nasdaq brucia tutto con l'AI. I tempi sono curiosi.",
+          "post_sito": "Il presidente Trump ha annunciato che il governo federale penalizzerà con una tassa «tremenda» le aziende statunitensi che costruiscono data center per l'intelligenza artificiale fuori dagli Stati Uniti, con l'obiettivo dichiarato di impedire alla Cina di prendere il vantaggio nello sviluppo tecnologico. La misura era, secondo la BBC, una novità anche per diversi membri della sua stessa squadra. L'annuncio arriva nel giorno in cui il Nasdaq brucia tutti i guadagni del 2026 trascinato dal crollo dei titoli AI. Il tempismo è almeno curioso: una minaccia regolatoria sull'AI annunciata nel momento in cui il settore è più vulnerabile può funzionare sia come protezione industriale sia come meccanismo di pressione sui grandi player tecnologici per tenerli ancorati al mercato interno — e alle relazioni politiche che ne conseguono. mandante invisibile: le aziende di cloud americane che già operano prevalentemente negli USA hanno tutto l'interesse a costruire barriere regolamentari contro i concorrenti che spostano infrastrutture in Paesi a costo energetico inferiore. La misura favorisce chi è già dentro, non chi vuole entrarci.",
+          "fatti": [
+            {
+              "testo": "Trump ha annunciato che il governo federale penalizzerà con una tassa le aziende statunitensi che costruiscono data center per l'AI fuori dagli USA, con l'obiettivo di impedire alla Cina di prendere il comando nello sviluppo tecnologico.",
+              "fonte": "Focus America",
+              "url": "https://focusamerica.it/la-rassegna-stampa-di-sabato-21-novembre-2026/"
+            },
+            {
+              "testo": "Secondo la BBC, la misura era una novità anche per diversi membri della squadra di Trump al momento dell'annuncio.",
+              "fonte": "Focus America",
+              "url": "https://focusamerica.it/la-rassegna-stampa-di-sabato-21-novembre-2026/"
+            }
+          ],
+          "incerto": [
+            "I dettagli della misura (aliquota, ambito di applicazione, tempistica di attuazione) non sono stati resi noti; non è chiaro se si tratterà di un provvedimento legislativo o esecutivo."
+          ],
+          "editoriale": false,
+          "redattore": "Il Futurologo 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Wellness",
+          "titolo": "Ozempic e Mounjaro: il Ministero della Salute avvia controlli sulle prescrizioni «facili»",
+          "slug": "ozempic-mounjaro-controlli-prescrizioni-ministero-salute",
+          "tag": [
+            "glp-1",
+            "ozempic",
+            "prescrizioni",
+            "farmaci-dimagranti"
+          ],
+          "evidenza": false,
+          "fonte": "Il Post / Il Salvagente / OK Salute",
+          "cerca_url": "https://www.google.com/search?q=Ozempic+Mounjaro+controlli+prescrizioni+Ministero+Salute+Italia+2026",
+          "post_x": "Il Ministero della Salute avvia controlli sulle prescrizioni di Ozempic e Mounjaro. I consumi privati dei GLP-1 sono cresciuti dell'85,7% in un anno. La Lombardia ha già trovato che il 2% delle prescrizioni non rispettava i criteri. Il farmaco per il diabete è diventato un prodotto di lusso.",
+          "post_sito": "Il Ministero della Salute ha invitato le Regioni a verificare che tutte le prescrizioni di Ozempic, Wegovy e Mounjaro rispettino i criteri stabiliti da AIFA: diabete mellito di tipo 2, obesità grave o sovrappeso significativo. La prima regione ad aver analizzato i dati è stata la Lombardia, che su circa 140mila persone ha trovato un 2% di prescrizioni non conformi. I consumi privati della classe GLP-1 e GIP/GLP-1 avevano già segnato un incremento dell'85,7% rispetto all'anno precedente. beneficio taciuto: l'industria farmaceutica ha investito cifre enormi nel mercato italiano — il solo Mounjaro ha visto Lilly investire 750 milioni di euro in Italia — e il boom di prescrizioni, anche quelle al limite della legalità, ha gonfiato i ricavi. La FDA americana ha nel frattempo aggiunto un'avvertenza sul rischio di neuropatia ottica ischemica per l'intera classe dei GLP-1. Il bersaglio satirico qui è sempre l'industria che trasforma un farmaco per malati cronici in un prodotto aspirazionale per chi «vuole perdere qualche chilo» — non le persone che ne hanno bisogno e per le quali questi controlli non cambieranno nulla.",
+          "fatti": [
+            {
+              "testo": "A fine ottobre 2026 il Ministero della Salute ha invitato le Regioni a verificare la conformità di tutte le prescrizioni di farmaci GLP-1 e GIP/GLP-1 ai criteri AIFA.",
+              "fonte": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/18/semaglutide-farmaci-dimagrire-controlli-prescrizioni/"
+            },
+            {
+              "testo": "La Lombardia ha analizzato i dati di circa 140mila persone e ha rilevato che circa il 2% non rientrava nei criteri di prescrivibilità e rimborsabilità stabiliti da AIFA.",
+              "fonte": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/18/semaglutide-farmaci-dimagrire-controlli-prescrizioni/"
+            },
+            {
+              "testo": "I consumi privati di molecole GLP-1 e GIP/GLP-1 hanno segnato un incremento dell'85,7% rispetto all'anno precedente.",
+              "fonte": "OK Salute",
+              "url": "https://www.ok-salute.it/news/ozempic-e-mounjaro-per-dimagrire-boom-di-richieste-perche-il-ministero-vuole-piu-controlli/"
+            },
+            {
+              "testo": "Il 9 novembre 2026 la FDA americana ha richiesto di aggiornare le informazioni di tutti gli agonisti del recettore GLP-1 segnalando un possibile aumento del rischio di neuropatia ottica ischemica anteriore non arteritica (NAION).",
+              "fonte": "Il Salvagente",
+              "url": "https://ilsalvagente.it/2026/11/19/farmaci-per-dimagrire-la-fda-avverte-sul-rischio-per-la-vista-e-in-italia-preoccupa-luso-per-perdere-pochi-chili/"
+            }
+          ],
+          "incerto": [
+            "L'entità complessiva delle prescrizioni irregolari a livello nazionale non è ancora nota, poiché la Lombardia è stata finora l'unica regione a pubblicare i risultati dei controlli."
+          ],
+          "editoriale": false,
+          "redattore": "Il Life Coach 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Cultura",
+          "titolo": "Addio a Corrado Augias: camera ardente al Campidoglio, l'Italia saluta il suo divulgatore più amato",
+          "slug": "morte-corrado-augias-camera-ardente-campidoglio",
+          "tag": [
+            "corrado-augias",
+            "cultura",
+            "giornalismo",
+            "tv"
+          ],
+          "evidenza": false,
+          "fonte": "Sky TG24 / Il Fatto Quotidiano / Il Messaggero",
+          "cerca_url": "https://www.google.com/search?q=morte+Corrado+Augias+camera+ardente+Campidoglio+novembre+2026",
+          "post_x": "Corrado Augias, 91 anni, è morto il 19 novembre. Oggi la camera ardente al Campidoglio. Mezzo secolo di cultura italiana vissuto con la curiosità di chi non ha mai smesso di fare domande. Ci mancherà proprio quello: le domande.",
+          "post_sito": "Corrado Augias è morto il 19 novembre 2026 a 91 anni. Giornalista, scrittore, drammaturgo, conduttore televisivo, corrispondente da New York e Parigi: una carriera lunga oltre sessant'anni che ha attraversato la storia del Paese senza mai diventare decorativa. La camera ardente si tiene oggi, 21 novembre, al Campidoglio — una scelta di luogo che dice qualcosa su come la Repubblica italiana intende onorare chi ha fatto della divulgazione culturale un mestiere civile. Il Quirinale lo ha ricordato come «un giornalista libero e uno scrittore di grande finezza». La cosa più onesta da dire è che Augias era uno di quegli intellettuali televisivi che resistevano alla semplificazione: capace di portare il caso Dreyfus, le origini del Cristianesimo o i delitti irrisolti del dopoguerra al grande pubblico senza mai abbassare l'asticella. In un sistema dell'informazione che premia la velocità del titolo sulla profondità del ragionamento, la sua scomparsa lascia uno spazio che non è affatto scontato verrà riempito. La sua ultima fatica letteraria, scritta con la figlia Natalia, era già uscita. Come a voler lasciare tutto in ordine.",
+          "fatti": [
+            {
+              "testo": "Corrado Augias è morto il 19 novembre 2026 all'età di 91 anni; la notizia è stata diffusa da la Repubblica, testata a cui era legato da oltre cinquant'anni, e confermata dall'ANSA.",
+              "fonte": "Newscinema",
+              "url": "https://www.newscinema.it/corrado-augias-morto-causa-morte-malattia/"
+            },
+            {
+              "testo": "La camera ardente di Corrado Augias è prevista per sabato 21 novembre in Campidoglio, a Roma.",
+              "fonte": "Il Fatto Quotidiano",
+              "url": "https://www.ilfattoquotidiano.it/2026/11/19/corrado-augias-morte-giornalista-notizie/8576995/"
+            },
+            {
+              "testo": "Il Quirinale ha pubblicato una nota in cui il Presidente ricorda Augias come «un giornalista libero e uno scrittore di grande finezza, che ha attraversato decenni di vita italiana ed europea con spirito critico, misura e inesauribile curiosità».",
+              "fonte": "Sky TG24",
+              "url": "https://tg24.sky.it/cronaca/2026/11/19/corrado-augias-morto"
+            }
+          ],
+          "incerto": [
+            "La causa ufficiale della morte non è stata resa nota pubblicamente al momento delle prime comunicazioni."
+          ],
+          "editoriale": false,
+          "redattore": "Il Letterato 1.0",
+          "fatti_verificati": true
+        }
+      ],
+      "controlli": {
+        "url_ricerca": 134,
+        "fatti_proposti": 32,
+        "fatti_scartati": 0,
+        "giorni_corretti": [],
+        "virgolette_riparate": 0
+      }
+    },
+    {
       "data": "2026-11-20",
       "post": [
         {
@@ -7747,193 +8155,7 @@
           "redattore": "Il Letterato 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-10-22",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Witkoff ossequia Putin a San Pietroburgo: «È un umanitario»",
-          "slug": "witkoff-putin-san-pietroburgo-ucraina-negoziati",
-          "tag": [
-            "ucraina",
-            "russia",
-            "trump",
-            "negoziati"
-          ],
-          "evidenza": true,
-          "fonte": "Al Jazeera / ANSA",
-          "cerca_url": "https://www.google.com/search?q=Witkoff+Putin+San+Pietroburgo+Ucraina+negoziati+ottobre+2026",
-          "post_x": "L'inviato di Trump chiama Putin «umanitario» e porta a casa un ostaggio. In cambio: niente cessate il fuoco, solo la promessa di parlarsi ad Abu Dhabi. Il prezzo della pace lo paga l'Ucraina.",
-          "post_sito": "Steve Witkoff ha trascorso quasi tre ore al Palazzo di Costantino a San Pietroburgo, definendo Vladimir Putin — l'uomo che ha lanciato una guerra di aggressione — «uno spirito umanitario». In cambio, la Russia ha liberato Stephen Hubbard, 74 anni, detenuto da quattro anni, e ha aperto alla possibilità di nuovi colloqui trilaterali ad Abu Dhabi intorno al 10 novembre. Il coro mediatico festeggia gli «spiragli di pace», ma il meccanismo è quello classico: chi ci guadagna è Mosca, che ottiene legittimazione diplomatica e un allentamento della pressione senza cedere un metro di territorio. L'Europa — che ha preparato le proprie proposte a Oslo — viene avvertita dal Cremlino che quelle stesse proposte «contengono ben poco». Il contesto rimosso dalla narrativa della distensione è semplice: la Russia continua a bombardare infrastrutture civili ucraine mentre si celebra la «costruttività» dei colloqui. Mandante invisibile di questa corsia preferenziale verso Mosca: gli interessi economici e commerciali che Washington intende ripristinare con la Russia, già evocati dallo stesso Putin durante i colloqui.",
-          "editoriale": true,
-          "prospettive": [
-            {
-              "etichetta": "La versione di Washington",
-              "testo": "L'amministrazione Trump presenta il colloquio come un passo concreto verso la fine del conflitto. Witkoff ha descritto i colloqui come «costruttivi» e ha annunciato la ripresa di negoziati trilaterali a livello tecnico tra Stati Uniti, Russia e Ucraina, con un possibile incontro a metà novembre ad Abu Dhabi. Trump ha dichiarato che non si è mai stati così vicini alla fine della guerra. La liberazione di Hubbard viene indicata come segnale di buona volontà russa."
-            },
-            {
-              "etichetta": "La posizione europea",
-              "testo": "Germania e altri partner europei hanno ribadito che una pace sull'Ucraina non può essere decisa «sopra la testa degli ucraini» e che deve necessariamente includere garanzie di sicurezza europee. Le proposte elaborate a Oslo da ucraini e alleati europei sono state giudicate dal Cremlino come contenenti «ben poco», il che segnala una distanza ancora ampia tra le parti sulle questioni territoriali e sulle sanzioni."
-            },
-            {
-              "etichetta": "La posizione di Kiev",
-              "testo": "Il presidente Zelensky si è detto favorevole a un incontro trilaterale «il prima possibile» e ha proposto il congelamento del conflitto lungo l'attuale linea del fronte come primo passo. Questa apertura rappresenta un cambiamento significativo rispetto alle posizioni precedenti, ma Kiev insiste che qualsiasi accordo deve includere garanzie di sicurezza concrete e non può essere imposto dall'esterno."
-            },
-            {
-              "etichetta": "Gli interessi economici sullo sfondo",
-              "testo": "I colloqui hanno incluso, secondo fonti russe, anche il tema del ripristino delle relazioni economiche tra Russia e Stati Uniti. La prospettiva di una riapertura commerciale — accesso alle risorse energetiche russe, rimozione parziale delle sanzioni — costituisce un incentivo concreto per Washington indipendente dalle sorti militari dell'Ucraina. Questa dimensione economica è stata citata apertamente nelle dichiarazioni del Cremlino, ma è rimasta ai margini nella copertura mediatica occidentale."
-            }
-          ],
-          "implicazioni": "Se i colloqui trilaterali si concretizzano ad Abu Dhabi a novembre, si apre una fase diplomatica nella quale l'Ucraina potrebbe essere chiamata ad accettare un congelamento territoriale di fatto senza garanzie formali. Per l'Europa, la trattativa condotta bilateralmente tra Washington e Mosca riduce lo spazio di influenza comunitaria su un conflitto che avviene alle proprie porte. La questione delle sanzioni — e la loro eventuale rimozione parziale come moneta di scambio — avrebbe conseguenze dirette sull'economia europea, che ha sostenuto costi significativi per mantenerle.",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Blocco dei tir: il governo vara il decreto, ma 1.339 camionisti erano già stati identificati",
-          "slug": "blocco-tir-decreto-governo-autotrasportatori-sud",
-          "tag": [
-            "autotrasporto",
-            "caro-gasolio",
-            "decreto",
-            "sud-italia"
-          ],
-          "evidenza": false,
-          "fonte": "Il Messaggero / ANSA",
-          "cerca_url": "https://www.google.com/search?q=blocco+tir+decreto+governo+autotrasportatori+Sud+Italia+ottobre+2026",
-          "post_x": "Il governo identifica 1.339 camionisti, ne denuncia 71, poi approva un decreto per dargli i soldi che chiedevano da mesi. La linea dura e il decreto erano la stessa cosa — in ordine diverso.",
-          "post_sito": "La protesta degli autotrasportatori del Sud, partita a inizio ottobre da Puglia e Calabria e rapidamente estesa a cinque regioni, ha messo in scena uno schema antico: categoria esasperata, governo che sceglie prima la linea dura — 1.339 identificati, 71 denunciati, 242 sanzionati — e poi il decreto. Il Consiglio dei ministri del 22 ottobre ha approvato misure che includono ristori per il caro gasolio e la sospensione dei canoni di leasing. Il contesto rimosso dal racconto dominante: il decreto-legge del 17 settembre 2026 aveva ridotto temporaneamente l'accisa sul gasolio fino al 5 ottobre, poi non prorogata — ovvero il governo ha creato il problema e poi si è presentato come soluzione. Il ministro Lollobrigida ha subito evocato «infiltrazioni criminali» nei blocchi, meccanismo classico del villain di comodo: attribuire alla criminalità organizzata una protesta economica reale toglie legittimità ai manifestanti e sposta l'attenzione. Chi ci guadagna dalla crisi energetica del settore? Le compagnie petrolifere, che in questo ottobre hanno visto i prezzi al distributore sfiorare i 2,30 euro al litro, restano fuori dal palco.",
-          "editoriale": false,
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Google supera la Rai: per la prima volta una piattaforma online è il primo operatore media italiano",
-          "slug": "google-supera-rai-media-italiani-agcom-2024",
-          "tag": [
-            "google",
-            "rai",
-            "media",
-            "agcom"
-          ],
-          "evidenza": false,
-          "fonte": "Il Sole 24 Ore",
-          "cerca_url": "https://www.google.com/search?q=Google+supera+Rai+media+italiani+Agcom+SIC+2024",
-          "post_x": "Google supera la Rai nel sistema media italiano: 12,4% contro 12%. Agcom certifica il sorpasso. La Rai finanziata dal canone perde lo scettro a favore di una multinazionale che non paga il canone. Normale amministrazione.",
-          "post_sito": "I dati Agcom sul Sistema integrato delle comunicazioni 2024, approvati il 21 ottobre, certificano un sorpasso storico: Alphabet/Google raggiunge il 12,4% delle risorse economiche del mercato italiano della comunicazione, scavalcando la Rai, scesa al 12%. Meta è terza con il 9,7%. Il settore vale complessivamente 21,8 miliardi di euro. Il beneficio taciuto è quello che nessun titolo enfatizza: Google cresce grazie alla pubblicità online — 8 miliardi di euro, +12,3%, il 97% trainato dalla pubblicità digitale — senza pagare il canone che finanzia il servizio pubblico, senza soggiacere agli obblighi di produzione locale, senza le stesse regole antitrust costruite in un'epoca in cui il «duopolio» da temere era quello Rai-Mediaset. Quelle norme — il perimetro del SIC — sono rimaste ferme mentre il mercato cambiava completamente. Il rappresentante di Google in Italia ha salutato il sorpasso come «premio al nostro essere soggetto pienamente locale»: un eufemismo di potere da manuale. Nel frattempo, l'indotto dell'automotive — altra notizia del giorno — perde tre miliardi di euro di fatturato e il 23% degli addetti: mentre si celebra la crescita digitale, l'economia reale brucia.",
-          "editoriale": false,
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Mondiali di ginnastica artistica a Rotterdam: finale all-around maschile, Abbadini caccia la top-10",
-          "slug": "mondiali-ginnastica-artistica-rotterdam-2026-allround-maschile",
-          "tag": [
-            "ginnastica-artistica",
-            "mondiali",
-            "rotterdam",
-            "abbadini"
-          ],
-          "evidenza": false,
-          "fonte": "OA Sport / RaiSport",
-          "cerca_url": "https://www.google.com/search?q=Mondiali+ginnastica+artistica+Rotterdam+2026+finale+allround+maschile",
-          "post_x": "Stasera a Rotterdam la finale all-around maschile dei Mondiali di ginnastica: Abbadini punta la top-10, i giapponesi Oka e Hashimoto partono favoriti. Gratis su Rai Sport e RaiPlay. Sì, esiste sport oltre il calcio.",
-          "post_sito": "Alla AHOY Arena di Rotterdam, questa sera alle 19:30, va in scena la finale del concorso generale individuale maschile dei Mondiali di ginnastica artistica 2026: ventiquattro atleti sui sei attrezzi per incoronare il ginnasta più completo del pianeta. I favoriti sono i giapponesi Shinnosuke Oka e Daiki Hashimoto, primo e secondo nelle qualifiche, ma il russo Arsenii Dukhno, i britannici Jake Jarman e Joe Fraser, il cinese Haonan Yang e il croato Illia Kovtun sono candidati al podio. L'Italia porta Yumin Abbadini, che punta alla top-10 e usa l'all-around come rodaggio in vista della finale alla sbarra. La notizia nella notizia: la gara è trasmessa gratuitamente in chiaro su Rai Sport e in streaming su RaiPlay — mentre il pallone si consuma sui canali a pagamento, uno degli appuntamenti iridati più tecnici dell'anno è accessibile a tutti. L'Italia è presente in ben sette finali in questa rassegna: un risultato che merita attenzione ben oltre la notte delle coppe europee di calcio.",
-          "editoriale": false,
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Camorra e 'ndrangheta nella ricostruzione post-sisma Marche: 8 arresti, 57 milioni sequestrati",
-          "slug": "mafia-ricostruzione-post-sisma-marche-arresti-sequestri",
-          "tag": [
-            "criminalita-organizzata",
-            "ricostruzione",
-            "marche",
-            "appalti"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Il Fatto Quotidiano",
-          "cerca_url": "https://www.google.com/search?q=camorra+ndrangheta+ricostruzione+post+sisma+Marche+arresti+57+milioni+2026",
-          "post_x": "Dieci anni dopo il terremoto del 2016, la GdF svela: camorra e 'ndrangheta nei subappalti della ricostruzione nelle Marche. 8 arresti, 51 indagati, 57 milioni sequestrati. La tragedia non finisce mai davvero.",
-          "post_sito": "L'operazione «Ricostruzione» della Guardia di Finanza di Ancona, coordinata dalla DDA, ha portato a 8 misure cautelari in carcere, 51 indagati e il sequestro di beni per oltre 57 milioni di euro: al centro ci sono le commesse per la ricostruzione privata post-sisma 2016 e gli appalti pubblici banditi da Regione Marche, Erdis Marche e Università di Camerino, con presunte infiltrazioni di camorra e 'ndrangheta nei subappalti. Le perquisizioni hanno coinvolto circa 230 finanzieri in 13 province: da Ancona a Napoli, da Caserta a Reggio Calabria. La causa strutturale rimossa dal racconto è quella solita: ogni grande calamità naturale italiana — terremoto, alluvione, ricostruzione — attira capitali illegali come una calamita, non perché ci sia stata imprevidenza, ma perché il sistema degli appalti in emergenza abbassa le soglie di controllo e accelera i tempi, creando le condizioni ideali per le infiltrazioni. È accaduto dopo l'Aquila nel 2009, dopo il Belice nel 1968, dopo ogni tragedia sismica. Un secondo filone dell'indagine riguarda presunte condotte corruttive da parte di pubblici ufficiali e imprenditori: la criminalità organizzata non opera nel vuoto, opera in un sistema che la accoglie.",
-          "editoriale": false,
-          "redattore": "L'Osservatore 1.0"
-        },
-        {
-          "categoria": "Scienza",
-          "titolo": "L'IA rianalizza quasi 4 milioni di fossili: tre delle cinque grandi estinzioni di massa furono più graduali del previsto",
-          "slug": "ia-fossili-estinzioni-massa-graduali-studio",
-          "tag": [
-            "estinzioni",
-            "paleontologia",
-            "intelligenza-artificiale",
-            "fossili"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA Scienza",
-          "cerca_url": "https://www.google.com/search?q=grandi+estinzioni+massa+graduali+fossili+IA+studio+ottobre+2026",
-          "post_x": "L'IA analizza 4 milioni di fossili e scopre che 3 delle 5 grandi estinzioni di massa furono più graduali del previsto. La natura preferisce il declino lento alla catastrofe improvvisa. Prendete nota.",
-          "post_sito": "Una nuova analisi condotta con l'aiuto dell'intelligenza artificiale su quasi quattro milioni di fossili marini rimette in discussione la storia delle cinque grandi estinzioni di massa: tre di esse potrebbero essere avvenute molto più gradualmente del previsto, con un lento declino della biodiversità anziché un cataclisma improvviso. Lo studio, pubblicato il 22 ottobre, mette in discussione la narrativa del «big bang» biologico che ha dominato la divulgazione scientifica per decenni — narrativa comoda per chi vende l'immagine di una natura improvvisamente spezzata dall'esterno. Il bastian contrario di servizio nota che la domanda «chi ci guadagna» in questo caso punta in direzione inattesa: la narrazione catastrofista delle estinzioni è stata storicamente usata sia per legittimare interventi di conservazione urgenti (spesso fondati) sia per alimentare un certo marketing dell'allarme ecologico. Riconoscere che la biodiversità può erodersi gradualmente, quasi impercettibilmente, è scientificamente più preciso e politicamente più scomodo: richiede attenzione costante, non solo mobilitazione da emergenza.",
-          "editoriale": false,
-          "redattore": "Il Metodico 1.0"
-        },
-        {
-          "categoria": "AI",
-          "titolo": "Meta condannata a 25 miliardi di dollari per Cambridge Analytica: ma l'IA ha già trovato la prossima falla del web",
-          "slug": "meta-25-miliardi-cambridge-analytica-new-mexico-bug-web-ia",
-          "tag": [
-            "meta",
-            "cambridge-analytica",
-            "privacy",
-            "intelligenza-artificiale"
-          ],
-          "evidenza": false,
-          "fonte": "Bloomberg / Milano Finanza",
-          "cerca_url": "https://www.google.com/search?q=Meta+25+miliardi+Cambridge+Analytica+New+Mexico+2026",
-          "post_x": "Meta condannata a 25 miliardi per aver mentito agli utenti sulla privacy. Stessa settimana: un'IA trova una falla che mette a rischio il 70% dei siti web. Due facce della stessa medaglia digitale.",
-          "post_sito": "Un giudice del New Mexico ha condannato Meta a pagare 25 miliardi di dollari — tra le sanzioni civili più alte della storia americana — dopo che una giuria ha accertato oltre 43 milioni di violazioni della legge statale sulla tutela dei consumatori, legate allo scandalo Cambridge Analytica: i dati di decine di milioni di utenti Facebook furono usati per costruire pubblicità politiche mirate durante le elezioni americane del 2016. Meta ha definito la sentenza «una tassa sulla libertà di parola» e ha annunciato appello. Il mandante invisibile di questa storia è lo stesso da un decennio: il modello di business che trasforma i dati personali in merce pubblicitaria. La condanna arriva dopo che 48 stati avevano già accettato un accordo da 18 miliardi. Nello stesso ciclo di notizie, una società di sicurezza informatica ha annunciato per oggi il rilascio di una patch critica — scoperta grazie all'IA — per una vulnerabilità che secondo le stime coinvolgerebbe fino al 70% dei siti web mondiali. Due storie apparentemente separate, un solo tema: l'ecosistema digitale costruito sull'ottimismo tecnologico produce falle strutturali che poi qualcuno — gli utenti, i contribuenti, i giudici — paga.",
-          "editoriale": false,
-          "redattore": "Il Futurologo 1.0"
-        },
-        {
-          "categoria": "Wellness",
-          "titolo": "La semaglutide entra nelle linee guida ESC per cuore e reni: trionfo della scienza o della Novo Nordisk?",
-          "slug": "semaglutide-linee-guida-esc-cuore-reni-novo-nordisk",
-          "tag": [
-            "semaglutide",
-            "glp-1",
-            "cardiologia",
-            "farmaceutica"
-          ],
-          "evidenza": false,
-          "fonte": "Sanremonews / ANSA Salute",
-          "cerca_url": "https://www.google.com/search?q=semaglutide+linee+guida+ESC+ERA+cuore+reni+2026",
-          "post_x": "La semaglutide entra nelle linee guida europee per cuore e reni. Novo Nordisk produce la semaglutide. Coincidenze: zero. Efficacia reale in specifici pazienti: presente, ma molto più limitata di quanto i titoli lascino intendere.",
-          "post_sito": "Le nuove linee guida della European Society of Cardiology (ESC), sviluppate con la European Renal Association, raccomandano per la prima volta la semaglutide — principio attivo del farmaco prodotto da Novo Nordisk — per ridurre il rischio di progressione della malattia renale e di eventi cardiovascolari in pazienti con diabete di tipo 2, malattia renale cronica e albuminuria. Lo studio Flow citato a supporto mostra una riduzione del 24% del rischio renale composito rispetto al placebo in questa categoria di pazienti. Il beneficio taciuto che i comunicati stampa tendono a elidere — e che l'analisi più rigorosa del Sole 24 Ore e di Sanremonews restituisce — è che la raccomandazione è «molto più limitata di quanto lascino intendere alcuni titoli di giornale»: riguarda una categoria clinica specifica, non l'obesità in generale, e non è un via libera universale al farmaco del momento. L'industria del benessere — intesa come la filiera che va dalla casa farmaceutica alla pubblicità sanitaria — ha tutto l'interesse a presentare ogni aggiornamento delle linee guida come una conferma estesa del proprio prodotto. Il coro compatto di titoli entusiasti sulla semaglutide merita questa nota a margine: la scienza è nel dettaglio, il marketing è nel titolo.",
-          "editoriale": false,
-          "redattore": "Il Life Coach 1.0"
-        },
-        {
-          "categoria": "Cultura",
-          "titolo": "«Je so' pazzo» sugli schermi italiani: Pino Daniele come prodotto culturale, tra Rai Cinema e nostalgia di mercato",
-          "slug": "je-so-pazzo-film-pino-daniele-biopic-cultura",
-          "tag": [
-            "cinema",
-            "pino-daniele",
-            "biopic",
-            "festa-del-cinema-roma"
-          ],
-          "evidenza": false,
-          "fonte": "Libero / Wikipedia",
-          "cerca_url": "https://www.google.com/search?q=Je+so+pazzo+film+Pino+Daniele+2026+Festa+Cinema+Roma",
-          "post_x": "«Je so' pazzo» su Pino Daniele è prodotto da Rai Cinema. Ovvero: il servizio pubblico che perde risorse a favore di Google finanzia la nostalgia di un artista che cantava gli ultimi. Il cerchio è chiuso.",
-          "post_sito": "«Je so' pazzo», il biopic su Pino Daniele diretto da Nicola Prosatore e interpretato da Massimiliano Caiazzo, è uscito nelle sale il 15 ottobre, presentato alla 21ª Festa del Cinema di Roma nella sezione Grand Public e distribuito da 01 Distribution. Il film ripercorre la vita del cantautore napoletano dall'infanzia nei vicoli di Napoli fino al concerto leggendario del 1981 a Piazza del Plebiscito davanti a 200.000 persone. Tra i produttori figura Rai Cinema — lo stesso servizio pubblico che nella giornata di oggi scopre di essere stato scavalcato da Google nella classifica delle risorse media italiane. Il mandante invisibile di questa operazione culturale è comprensibile: il biopic musicale è un formato industriale collaudato, capace di attivare nostalgia, streaming e colonne sonore preconfezionate con un catalogo già esistente. Il soggetto del film nasce dal libro del figlio di Daniele, Alessandro — il che garantisce anche la gestione dei diritti musicali. Che Pino Daniele cantasse i «neri» di Napoli, la marginalità sociale, la rabbia dei dimenticati, mentre il suo biopic viene confezionato dall'industria culturale istituzionale, è una di quelle ironie che lui stesso avrebbe apprezzato.",
-          "editoriale": false,
-          "redattore": "Il Letterato 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-11-20T08:21:25.165669+00:00"
+  "ultimo_aggiornamento": "2026-11-21T08:21:19.699011+00:00"
 }

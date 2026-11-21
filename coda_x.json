@@ -1,77 +1,77 @@
 {
-  "data": "2026-11-20",
+  "data": "2026-11-21",
   "tweet": [
     {
-      "testo": "Tre grandi potenze si incontrano per «la pace». Il documento finale non menziona l'Ucraina. L'ONU va riformata. La CPI abusa. Trump chiama Putin «amico». Giornata storica. Per chi?",
-      "url": "https://corrispondente.filoclastos.it/2026/11/20/vertice-trump-xi-putin-shenzhen-pace-senza-ucraina/",
-      "slug": "vertice-trump-xi-putin-shenzhen-pace-senza-ucraina",
+      "testo": "Trump, Xi e Putin si siedono a Shenzhen e firmano una «dichiarazione di pace». Quattro punti, nessun accordo su Ucraina o Iran. L'unico vero risultato è la fotografia. L'Europa osserva dal corridoio.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/21/vertice-trump-xi-putin-shenzhen-dichiarazione-pace/",
+      "slug": "vertice-trump-xi-putin-shenzhen-dichiarazione-pace",
       "categoria": "Politica Internazionale",
       "evidenza": true,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Quinto sciopero generale consecutivo della Cgil contro la manovra Meloni. 100 piazze. Stessi slogan, stessa risposta del governo. Nel frattempo la spesa militare sale. Coincidenze.",
-      "url": "https://corrispondente.filoclastos.it/2026/11/20/sciopero-generale-cgil-20-novembre-2026-manovra-meloni/",
-      "slug": "sciopero-generale-cgil-20-novembre-2026-manovra-meloni",
+      "testo": "Landini porta in piazza 1,5 milioni contro la manovra. È il quinto sciopero di fila. UIL e CISL non ci sono. Il campo largo sì. Qualcuno ha già capito che la piazza serve anche a costruire il candidato per le prossime elezioni.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/21/sciopero-cgil-20-novembre-manovra-scontri/",
+      "slug": "sciopero-cgil-20-novembre-manovra-scontri",
       "categoria": "Politica Nazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Anthropic: IPO record da 107 mld, valutazione picco 2.000 mld. Perdita netta: 104 mld. Obblighi futuri: 900 mld. Le banche: 550 mln di commissioni. Chi guadagna è già chiaro. 🏦",
-      "url": "https://corrispondente.filoclastos.it/2026/11/20/anthropic-ipo-record-nasdaq-107-miliardi-conti-rosso/",
-      "slug": "anthropic-ipo-record-nasdaq-107-miliardi-conti-rosso",
+      "testo": "Anthropic debutta in borsa a +34%, il giorno dopo perde il 10% e trascina il Nasdaq a -5,28%. L'IPO più grande della storia non ha salvato il settore AI. Ha bruciato 370 miliardi in Europa. Chi ci guadagna? Chi ha venduto al picco.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/21/nasdaq-correzione-ai-anthropic-ipo-crollo/",
+      "slug": "nasdaq-correzione-ai-anthropic-ipo-crollo",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Cobolli saluta le ATP Finals con l'ultimo match contro Alcaraz. Due sconfitte, nessun set vinto nel girone. Però è qui, tra gli otto migliori dell'anno. Non è poco — anche se i titoloni lo avevano già sepolto.",
-      "url": "https://corrispondente.filoclastos.it/2026/11/20/atp-finals-torino-2026-cobolli-alcaraz-medvedev-tiafoe-semifinale/",
-      "slug": "atp-finals-torino-2026-cobolli-alcaraz-medvedev-tiafoe-semifinale",
+      "testo": "Antonelli gira in 1:33.893, il più veloce. Penalità di 5 posizioni: parte sesto. Pole a Verstappen. Ferrari fuori dalla top 10 — Hamilton undicesimo. Las Vegas, la città dove vince sempre chi non ha guidato meglio.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/21/f1-qualifiche-gp-las-vegas-antonelli-verstappen-pole/",
+      "slug": "f1-qualifiche-gp-las-vegas-antonelli-verstappen-pole",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "L'aeroporto di Genova chiuso 2 ore per droni non identificati. Un Ita Airways fermo in pista. Regole sui droni ci sono, applicarle è un'altra storia. La causa strutturale rimossa: chi controlla davvero gli spazi aerei civili?",
-      "url": "https://corrispondente.filoclastos.it/2026/11/20/aeroporto-genova-chiuso-droni-sicurezza-aerea/",
-      "slug": "aeroporto-genova-chiuso-droni-sicurezza-aerea",
+      "testo": "A Novellara — stesso paese di Saman Abbas — una 25enne pakistana si è lanciata da un'auto in corsa per fuggire a marito, suocero e cognati. Il marito è stato arrestato. È lo stesso sistema che ha ucciso Saman. La causa strutturale rimossa è sempre lì.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/21/novellara-pakistana-violenza-familiare-saman-abbas/",
+      "slug": "novellara-pakistana-violenza-familiare-saman-abbas",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Due italiani vincono il Premio Sakurai per la fisica teorica delle particelle. Hanno reso possibili calcoli che si ritenevano impossibili. In Italia, però, è meglio vendere gelati in Germania. Notizia di dominio pubblico.",
-      "url": "https://corrispondente.filoclastos.it/2026/11/20/premio-sakurai-laporta-remiddi-fisica-teorica-particelle/",
-      "slug": "premio-sakurai-laporta-remiddi-fisica-teorica-particelle",
+      "testo": "Il telescopio James Webb individua su K2-18b segnali compatibili con molecole prodotte dalla vita. I media: «trovata vita aliena». Gli scienziati: «segnale a 3 sigma, serve conferma, forse non c'è nemmeno il DMS». Chi ci guadagna? Chi vende titoli.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/21/james-webb-k2-18b-vita-extraterrestre-segnali/",
+      "slug": "james-webb-k2-18b-vita-extraterrestre-segnali",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Anthropic: si quota dichiarando di essere «ossessionata dalla sicurezza». Il Center for AI Safety la critica proprio sulla sicurezza. Dario Amodei vale 20 mld. Claude è stato usato nella guerra in Iran. Tutto quadra.",
-      "url": "https://corrispondente.filoclastos.it/2026/11/20/anthropic-borsa-center-ai-safety-critica-sicurezza-paradosso/",
-      "slug": "anthropic-borsa-center-ai-safety-critica-sicurezza-paradosso",
+      "testo": "Trump annuncia una tassa «tremenda» per le aziende USA che costruiscono data center AI fuori dagli Stati Uniti. Pochi dettagli. Era una novità anche per i suoi collaboratori. Nel frattempo il Nasdaq brucia tutto con l'AI. I tempi sono curiosi.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/21/trump-tassa-data-center-estero-intelligenza-artificiale/",
+      "slug": "trump-tassa-data-center-estero-intelligenza-artificiale",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Il mercato del wellness vale 2.700 mld e cresce. Il 40% dei consumatori dice che l'offerta attuale è «insufficiente». L'industria crea il bisogno, poi vende la soluzione. Funziona da sempre. 🧘‍♂️💸",
-      "url": "https://corrispondente.filoclastos.it/2026/11/20/mercato-wellness-2700-miliardi-investitori-mckinsey/",
-      "slug": "mercato-wellness-2700-miliardi-investitori-mckinsey",
+      "testo": "Il Ministero della Salute avvia controlli sulle prescrizioni di Ozempic e Mounjaro. I consumi privati dei GLP-1 sono cresciuti dell'85,7% in un anno. La Lombardia ha già trovato che il 2% delle prescrizioni non rispettava i criteri. Il farmaco per il diabete è diventato un prodotto di lusso.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/21/ozempic-mounjaro-controlli-prescrizioni-ministero-salute/",
+      "slug": "ozempic-mounjaro-controlli-prescrizioni-ministero-salute",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Morto Corrado Augias, 91 anni. Ha condotto «Telefono Giallo», scritto di Vatricano, di Napoli, di Parigi. Ha fatto la domanda più italiana: «Ma allora chi è stato?». Non tutti hanno gradito la risposta. Addio.",
-      "url": "https://corrispondente.filoclastos.it/2026/11/20/morte-corrado-augias-91-anni-giornalista-scrittore/",
-      "slug": "morte-corrado-augias-91-anni-giornalista-scrittore",
+      "testo": "Corrado Augias, 91 anni, è morto il 19 novembre. Oggi la camera ardente al Campidoglio. Mezzo secolo di cultura italiana vissuto con la curiosità di chi non ha mai smesso di fare domande. Ci mancherà proprio quello: le domande.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/21/morte-corrado-augias-camera-ardente-campidoglio/",
+      "slug": "morte-corrado-augias-camera-ardente-campidoglio",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }
