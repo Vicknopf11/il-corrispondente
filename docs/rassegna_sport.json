@@ -1,6 +1,30 @@
 {
-  "generato": "2026-11-21T06:31:04.607522+00:00",
+  "generato": "2026-11-21T12:31:06.083355+00:00",
   "item": [
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Pétanque, Mondiali Senior 2026: una giovane Italia a caccia di medaglie in Thailandia",
+      "link": "https://www.gazzetta.it/bocce/19-11-2026/bocce-petanque-mondiali-senior-2026-italia-a-caccia-di-medaglie-in-thailandia.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-11-19"
+    },
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Slalom di Gurgl, Della Mea terza dopo la prima manche. Guida Swenn Larsson davanti a Colturi",
+      "link": "https://www.gazzetta.it/Sport-Invernali/Sci-Alpino/Coppa-Mondo-Sci/21-11-2026/slalom-gurgl-risultati-della-mea-colturi.shtml",
+      "fonte": "Gazzetta — Sport Invernali",
+      "data_evento": "2026-11-21"
+    },
+    {
+      "sottocategoria": "Atletica",
+      "tipo": "notizia",
+      "titolo": "Il povero Zverev e quei numeri 1 con l'asterisco",
+      "link": "https://www.gazzetta.it/Tennis/ATP/21-11-2026/il-povero-zverev-e-quei-numeri-1-con-l-asterisco.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-11-21"
+    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
@@ -16,30 +40,6 @@
       "link": "https://www.gazzetta.it/Sport-Vari/17-11-2026/mondiali-di-surf-fioravanti-si-ferma-a-un-passo-dalla-finale.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-11-17"
-    },
-    {
-      "sottocategoria": "Squadra",
-      "tipo": "notizia",
-      "titolo": "Dalla canna da zucchero all'oro olimpico, la morte del figlio al Mondiale: Tuisova sfida l'Italrugby",
-      "link": "https://www.gazzetta.it/Rugby/20-11-2026/rugby-italia-figi-tuisova-tagliava-canna-da-zucchero-poi-vinse-le-olimpiadi.shtml",
-      "fonte": "Gazzetta — Rugby",
-      "data_evento": "2026-11-20"
-    },
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "Correre con Honor una mezza maratona",
-      "link": "https://www.gazzetta.it/Atletica/21-11-2026/honor-robotics-d1-il-robot-umanoide-corre-a-milano.shtml",
-      "fonte": "Gazzetta — Atletica",
-      "data_evento": "2026-11-21"
-    },
-    {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Cahill su Sinner: \"Un piccolo problema lo tiene fermo da così tanto. È frustrante\"",
-      "link": "https://www.gazzetta.it/Tennis/ATP/21-11-2026/cahill-sull-infortunio-di-sinner-e-frustrante-restare-fermi-per-cosi-tanto.shtml",
-      "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-11-21"
     }
   ]
 }
