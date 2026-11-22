@@ -1,77 +1,77 @@
 {
-  "data": "2026-11-21",
+  "data": "2026-11-22",
   "tweet": [
     {
-      "testo": "Trump, Xi e Putin si siedono a Shenzhen e firmano una «dichiarazione di pace». Quattro punti, nessun accordo su Ucraina o Iran. L'unico vero risultato è la fotografia. L'Europa osserva dal corridoio.",
-      "url": "https://corrispondente.filoclastos.it/2026/11/21/vertice-trump-xi-putin-shenzhen-dichiarazione-pace/",
-      "slug": "vertice-trump-xi-putin-shenzhen-dichiarazione-pace",
+      "testo": "COP31: la bozza finale non cita i «fossili» ma promuove la CCUS — la tecnologia di cattura del carbonio cara alle compagnie petrolifere. Chi ci guadagna? Indizio: non il clima. #COP31 #Antalya",
+      "url": "https://corrispondente.filoclastos.it/2026/11/22/cop31-antalya-bozza-fossili-ccus/",
+      "slug": "cop31-antalya-bozza-fossili-ccus",
       "categoria": "Politica Internazionale",
-      "evidenza": true,
-      "pubblicato": true
-    },
-    {
-      "testo": "Landini porta in piazza 1,5 milioni contro la manovra. È il quinto sciopero di fila. UIL e CISL non ci sono. Il campo largo sì. Qualcuno ha già capito che la piazza serve anche a costruire il candidato per le prossime elezioni.",
-      "url": "https://corrispondente.filoclastos.it/2026/11/21/sciopero-cgil-20-novembre-manovra-scontri/",
-      "slug": "sciopero-cgil-20-novembre-manovra-scontri",
-      "categoria": "Politica Nazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Anthropic debutta in borsa a +34%, il giorno dopo perde il 10% e trascina il Nasdaq a -5,28%. L'IPO più grande della storia non ha salvato il settore AI. Ha bruciato 370 miliardi in Europa. Chi ci guadagna? Chi ha venduto al picco.",
-      "url": "https://corrispondente.filoclastos.it/2026/11/21/nasdaq-correzione-ai-anthropic-ipo-crollo/",
-      "slug": "nasdaq-correzione-ai-anthropic-ipo-crollo",
+      "testo": "De Gennaro si uccide mentre è indagato per via D'Amelio. La destra grida al «processo mediatico». I pm di Caltanissetta: andiamo avanti. I misteri d'Italia non muoiono mai — anzi, qualcuno li porta con sé.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/22/de-gennaro-suicidio-via-damelio-scontro-politica-magistratura/",
+      "slug": "de-gennaro-suicidio-via-damelio-scontro-politica-magistratura",
+      "categoria": "Politica Nazionale",
+      "evidenza": true,
+      "pubblicato": false
+    },
+    {
+      "testo": "Pellet +34%, gas +55%, gasolio +47% in un anno. Le famiglie italiane pagano la bolletta della crisi energetica. Il Sole 24 Ore lo mette in prima pagina: poi si parla d'altro. #energia #rincari",
+      "url": "https://corrispondente.filoclastos.it/2026/11/22/pellet-rincaro-34-percento-gas-55-percento-inverno-2026/",
+      "slug": "pellet-rincaro-34-percento-gas-55-percento-inverno-2026",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Antonelli gira in 1:33.893, il più veloce. Penalità di 5 posizioni: parte sesto. Pole a Verstappen. Ferrari fuori dalla top 10 — Hamilton undicesimo. Las Vegas, la città dove vince sempre chi non ha guidato meglio.",
-      "url": "https://corrispondente.filoclastos.it/2026/11/21/f1-qualifiche-gp-las-vegas-antonelli-verstappen-pole/",
-      "slug": "f1-qualifiche-gp-las-vegas-antonelli-verstappen-pole",
+      "testo": "Finale ATP Finals: Alcaraz vs Zverev, n.2 contro n.1 del mondo, all'Inalpi Arena di Torino. In chiaro su Italia 1. Sinner assente. Il torneo va avanti, l'arena è piena, il business pure. #ATPFinals",
+      "url": "https://corrispondente.filoclastos.it/2026/11/22/atp-finals-finale-alcaraz-zverev-torino-2026/",
+      "slug": "atp-finals-finale-alcaraz-zverev-torino-2026",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "A Novellara — stesso paese di Saman Abbas — una 25enne pakistana si è lanciata da un'auto in corsa per fuggire a marito, suocero e cognati. Il marito è stato arrestato. È lo stesso sistema che ha ucciso Saman. La causa strutturale rimossa è sempre lì.",
-      "url": "https://corrispondente.filoclastos.it/2026/11/21/novellara-pakistana-violenza-familiare-saman-abbas/",
-      "slug": "novellara-pakistana-violenza-familiare-saman-abbas",
+      "testo": "Francesco Schettino esce dal carcere dopo più di 9 anni. Costa Concordia, 32 morti, 2012. Oggi: servizi sociali. Le 32 vittime restano 32. L'eufemismo di potere si chiama «fine pena».",
+      "url": "https://corrispondente.filoclastos.it/2026/11/22/schettino-libero-carcere-servizi-sociali-concordia/",
+      "slug": "schettino-libero-carcere-servizi-sociali-concordia",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Il telescopio James Webb individua su K2-18b segnali compatibili con molecole prodotte dalla vita. I media: «trovata vita aliena». Gli scienziati: «segnale a 3 sigma, serve conferma, forse non c'è nemmeno il DMS». Chi ci guadagna? Chi vende titoli.",
-      "url": "https://corrispondente.filoclastos.it/2026/11/21/james-webb-k2-18b-vita-extraterrestre-segnali/",
-      "slug": "james-webb-k2-18b-vita-extraterrestre-segnali",
+      "testo": "La bozza COP31 promuove la CCUS — cattura e stoccaggio del carbonio. Tecnologia promossa da chi? Dalle compagnie petrolifere. Chi la finanzia? Le stesse. Chi ci guadagna se funziona? Indovinate. #COP31 #CCUS #clima",
+      "url": "https://corrispondente.filoclastos.it/2026/11/22/cop31-ccus-cattura-carbonio-petrolifere-finanziamenti/",
+      "slug": "cop31-ccus-cattura-carbonio-petrolifere-finanziamenti",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Trump annuncia una tassa «tremenda» per le aziende USA che costruiscono data center AI fuori dagli Stati Uniti. Pochi dettagli. Era una novità anche per i suoi collaboratori. Nel frattempo il Nasdaq brucia tutto con l'AI. I tempi sono curiosi.",
-      "url": "https://corrispondente.filoclastos.it/2026/11/21/trump-tassa-data-center-estero-intelligenza-artificiale/",
-      "slug": "trump-tassa-data-center-estero-intelligenza-artificiale",
+      "testo": "Anthropic: 81,3 miliardi di IPO, record assoluto. Perdita operativa 2026: 1,3 miliardi di dollari. La matematica dell'AI non è quella del resto del mondo. #Anthropic #IPO #AI",
+      "url": "https://corrispondente.filoclastos.it/2026/11/22/anthropic-ipo-borsa-81-miliardi-perdita/",
+      "slug": "anthropic-ipo-borsa-81-miliardi-perdita",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Il Ministero della Salute avvia controlli sulle prescrizioni di Ozempic e Mounjaro. I consumi privati dei GLP-1 sono cresciuti dell'85,7% in un anno. La Lombardia ha già trovato che il 2% delle prescrizioni non rispettava i criteri. Il farmaco per il diabete è diventato un prodotto di lusso.",
-      "url": "https://corrispondente.filoclastos.it/2026/11/21/ozempic-mounjaro-controlli-prescrizioni-ministero-salute/",
-      "slug": "ozempic-mounjaro-controlli-prescrizioni-ministero-salute",
+      "testo": "Uno studente su quattro passa più di 4 ore al giorno sui social. 208mila in uso a rischio. Le piattaforme guadagnano da questa dipendenza: questo il CNR non lo chiede. #social #adolescenti #salute",
+      "url": "https://corrispondente.filoclastos.it/2026/11/22/social-media-adolescenti-uso-rischio-208mila-cnr-espad-2026/",
+      "slug": "social-media-adolescenti-uso-rischio-208mila-cnr-espad-2026",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Corrado Augias, 91 anni, è morto il 19 novembre. Oggi la camera ardente al Campidoglio. Mezzo secolo di cultura italiana vissuto con la curiosità di chi non ha mai smesso di fare domande. Ci mancherà proprio quello: le domande.",
-      "url": "https://corrispondente.filoclastos.it/2026/11/21/morte-corrado-augias-camera-ardente-campidoglio/",
-      "slug": "morte-corrado-augias-camera-ardente-campidoglio",
+      "testo": "GTA VI: 3,79 miliardi di dollari in 24 ore. Record assoluto nell'intrattenimento. Sviluppato da Rockstar con 1,5 miliardi di investimento e 10 anni di lavoro. Hollywood fa 400 milioni in un weekend e pensa di avere successo. #GTAVI",
+      "url": "https://corrispondente.filoclastos.it/2026/11/22/gta-vi-379-miliardi-lancio-record-intrattenimento/",
+      "slug": "gta-vi-379-miliardi-lancio-record-intrattenimento",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }
