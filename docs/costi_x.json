@@ -1,6 +1,14 @@
 {
   "pubblicazioni": [
     {
+      "data": "2026-11-22",
+      "slug": "cop31-antalya-bozza-fossili-ccus",
+      "categoria": "Politica Internazionale",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
       "data": "2026-11-21",
       "slug": "morte-corrado-augias-camera-ardente-campidoglio",
       "categoria": "Cultura",
