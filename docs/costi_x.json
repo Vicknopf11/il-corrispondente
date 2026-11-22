@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-22",
+      "slug": "pellet-rincaro-34-percento-gas-55-percento-inverno-2026",
+      "categoria": "Economia",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-22",
       "slug": "de-gennaro-suicidio-via-damelio-scontro-politica-magistratura",
       "categoria": "Politica Nazionale",
       "evidenza": true,
