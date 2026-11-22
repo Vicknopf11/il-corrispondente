@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-22",
+      "slug": "de-gennaro-suicidio-via-damelio-scontro-politica-magistratura",
+      "categoria": "Politica Nazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
+      "data": "2026-11-22",
       "slug": "cop31-antalya-bozza-fossili-ccus",
       "categoria": "Politica Internazionale",
       "evidenza": false,
