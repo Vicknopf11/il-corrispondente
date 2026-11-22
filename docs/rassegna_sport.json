@@ -1,6 +1,14 @@
 {
-  "generato": "2026-11-21T18:31:06.632519+00:00",
+  "generato": "2026-11-22T06:31:03.828323+00:00",
   "item": [
+    {
+      "sottocategoria": "Combattimento",
+      "tipo": "notizia",
+      "titolo": "Russo torna sul ring a 44 anni, ma l'esordio tra i pro dura solo tre round: poi il ko tecnico",
+      "link": "https://www.gazzetta.it/Sport-Vari/21-11-2026/clemente-russo-torna-boxe-incontro-elmaghraby-round.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-11-21"
+    },
     {
       "sottocategoria": "Calcio femminile",
       "tipo": "notizia",
@@ -18,14 +26,6 @@
       "data_evento": "2026-11-21"
     },
     {
-      "sottocategoria": "Combattimento",
-      "tipo": "notizia",
-      "titolo": "Roma incorona i campioni d’Italia del taekwondo alle Finals",
-      "link": "https://www.gazzetta.it/Sport-Vari/20-11-2026/taekwondo-ecco-i-campioni-d-italia-che-hanno-vinto-a-roma.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-11-20"
-    },
-    {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
       "titolo": "Mondiali di surf, Fioravanti si ferma a un passo dalla finale",
@@ -36,8 +36,8 @@
     {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
-      "titolo": "L'Inghilterra è una furia! All Blacks affondati e ancora ko: neozelandesi fuori dalla finale?",
-      "link": "https://www.gazzetta.it/Rugby/21-11-2026/rugby-inghilterra-all-blacks-37-12.shtml",
+      "titolo": "La Francia doma i Pumas: la finale del Championship è Bleus-Springboks. Ecco le sfide di Twickenham",
+      "link": "https://www.gazzetta.it/Rugby/21-11-2026/rugby-francia-argentina-45-17-galles-australia-26-29.shtml",
       "fonte": "Gazzetta — Rugby",
       "data_evento": "2026-11-21"
     }
