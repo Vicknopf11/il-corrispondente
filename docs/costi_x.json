@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-23",
+      "slug": "anthropic-claude-ipotesi-riemann-dimostrazione-2026",
+      "categoria": "Scienza",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-23",
       "slug": "bombardamento-russo-dymer-kiev-morti-novembre-2026",
       "categoria": "Cronaca",
       "evidenza": false,
