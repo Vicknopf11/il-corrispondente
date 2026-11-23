@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-23",
+      "slug": "la7-docuserie-p2-ombra-sulle-stragi-didi-gnocchi",
+      "categoria": "Cultura",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-23",
       "slug": "integratori-longevita-under-35-industria-benessere-2026",
       "categoria": "Wellness",
       "evidenza": false,
