@@ -1,19 +1,11 @@
 {
-  "generato": "2026-11-23T13:24:12.978064+00:00",
+  "generato": "2026-11-23T13:31:45.874467+00:00",
   "item": [
-    {
-      "sottocategoria": "Equitazione e ippica",
-      "tipo": "notizia",
-      "titolo": "Equitazione: Global Champions Playoff, Verona incorona gli Istanbul Warriors",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/22/equitazione-global-champions-playoff-verona-incorona-gli-istanbul-warriors_5bc5119a-3365-43ed-b67a-9522b8a7b0d6.html",
-      "fonte": "ANSA Sport",
-      "data_evento": "2026-11-22"
-    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
-      "titolo": "Tennis: a BolognaFiere squadre pronte per la Davis, il torneo nella nuova Arena",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/23/tennis-a-bolognafiere-squadre-pronte-per-la-davis-il-torneo-nella-nuova-arena_d1658124-ef61-410b-b5f9-671df43026d0.html",
+      "titolo": "Pugilato: Fury rivela, \"mi diagnosticarono la schizofrenia dopo il titolo mondiale\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/23/pugilato-fury-rivela-mi-diagnosticarono-la-schizofrenia-dopo-il-titolo-mondiale_7485ae79-a75d-4c4d-8b4f-b87d53063b9b.html",
       "fonte": "ANSA Sport",
       "data_evento": "2026-11-23"
     },
@@ -26,11 +18,11 @@
       "data_evento": "2026-11-21"
     },
     {
-      "sottocategoria": "Atletica",
+      "sottocategoria": "Racchette e precisione",
       "tipo": "notizia",
-      "titolo": "Ad Andy Diaz il \"Fiore d'Inverno\". Premio Agnolin all'arbitro Zufferli, sul palco il milanista Musah",
-      "link": "https://www.gazzetta.it/Atletica/23-11-2026/a-castelfranco-veneto-premiati-il-triplista-diaz-la-ciclista-ballan-e-l-arbitro-zufferli.shtml",
-      "fonte": "Gazzetta — Atletica",
+      "titolo": "Sinner, parla l'esperto: \"Che cos'è la sindrome della bandelletta e perché si sceglie l'operazione\"",
+      "link": "https://www.gazzetta.it/Tennis/23-11-2026/sinner-infortunio-sindrome-bandelletta-perche-operazione.shtml",
+      "fonte": "Gazzetta — Tennis",
       "data_evento": "2026-11-23"
     },
     {
@@ -50,6 +42,14 @@
       "data_evento": "2026-11-23"
     },
     {
+      "sottocategoria": "Atletica",
+      "tipo": "notizia",
+      "titolo": "LIVE Atletica, Cross Atapuerca 2026 in DIRETTA: Nadia Battocletti si deve accontentare del quinto posto. Si impone Cherop",
+      "link": "https://www.oasport.it/2026/11/live-atletica-cross-atapuerca-2026-in-diretta-nadia-battocletti-si-scalda-verso-gli-europei/",
+      "fonte": "OA Sport — Atletica",
+      "data_evento": "2026-11-22"
+    },
+    {
       "sottocategoria": "Mente e nicchia",
       "tipo": "notizia",
       "titolo": "Scacchi: Gukesh, Sindarov, a voi la parola! L’indiano difende il titolo di Campione del Mondo dall’assalto dell’uzbeko",
@@ -60,8 +60,8 @@
     {
       "sottocategoria": "Invernali",
       "tipo": "notizia",
-      "titolo": "Calendario sport invernali (23-29 novembre): orari, tv, programma, streaming. Si entra nel vivo",
-      "link": "https://www.oasport.it/2026/11/calendario-sport-invernali-23-29-novembre-orari-tv-programma-streaming-si-entra-nel-vivo/",
+      "titolo": "Sci di fondo, i convocati dell’Italia per Ruka. Inizia l’era del post-Pellegrino",
+      "link": "https://www.oasport.it/2026/11/sci-di-fondo-i-convocati-dellitalia-per-ruka-inizia-lera-del-post-pellegrino/",
       "fonte": "OA Sport — Sport invernali",
       "data_evento": "2026-11-23"
     }
