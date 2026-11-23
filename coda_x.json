@@ -1,77 +1,77 @@
 {
-  "data": "2026-11-22",
+  "data": "2026-11-23",
   "tweet": [
     {
-      "testo": "COP31: la bozza finale non cita i «fossili» ma promuove la CCUS — la tecnologia di cattura del carbonio cara alle compagnie petrolifere. Chi ci guadagna? Indizio: non il clima. #COP31 #Antalya",
-      "url": "https://corrispondente.filoclastos.it/2026/11/22/cop31-antalya-bozza-fossili-ccus/",
-      "slug": "cop31-antalya-bozza-fossili-ccus",
+      "testo": "COP31 fallita. Il vertice più lungo di sempre non ha partorito nulla. Stupore collettivo. Ma qualcuno — le compagnie petrolifere, i petrostati, i fondi legati ai fossili — stasera festeggia. #COP31 #clima",
+      "url": "https://corrispondente.filoclastos.it/2026/11/23/cop31-fallisce-antalya-nessun-accordo-fossili/",
+      "slug": "cop31-fallisce-antalya-nessun-accordo-fossili",
       "categoria": "Politica Internazionale",
-      "evidenza": false,
-      "pubblicato": true
-    },
-    {
-      "testo": "De Gennaro si uccide mentre è indagato per via D'Amelio. La destra grida al «processo mediatico». I pm di Caltanissetta: andiamo avanti. I misteri d'Italia non muoiono mai — anzi, qualcuno li porta con sé.",
-      "url": "https://corrispondente.filoclastos.it/2026/11/22/de-gennaro-suicidio-via-damelio-scontro-politica-magistratura/",
-      "slug": "de-gennaro-suicidio-via-damelio-scontro-politica-magistratura",
-      "categoria": "Politica Nazionale",
       "evidenza": true,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Pellet +34%, gas +55%, gasolio +47% in un anno. Le famiglie italiane pagano la bolletta della crisi energetica. Il Sole 24 Ore lo mette in prima pagina: poi si parla d'altro. #energia #rincari",
-      "url": "https://corrispondente.filoclastos.it/2026/11/22/pellet-rincaro-34-percento-gas-55-percento-inverno-2026/",
-      "slug": "pellet-rincaro-34-percento-gas-55-percento-inverno-2026",
+      "testo": "De Gennaro muore con tre lettere in mano — una per i familiari, una per il procuratore, una «per chi vorrà pubblicarla». Trent'anni di verità sulle stragi di mafia che non hanno trovato un'aula di tribunale. Trovano una poltrona in Maremma.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/23/morte-de-gennaro-lettere-hard-disk-funerali-stato/",
+      "slug": "morte-de-gennaro-lettere-hard-disk-funerali-stato",
+      "categoria": "Politica Nazionale",
+      "evidenza": false,
+      "pubblicato": false
+    },
+    {
+      "testo": "Oggi le banche italiane staccano cedole per 9,7 miliardi. I risparmiatori: «Meno male, così recupero sul conto corrente». Le banche: «Prego». Il Nasdaq: «Noi recuperiamo dalla bolla AI». I chip Nvidia: «Non commentiamo.»",
+      "url": "https://corrispondente.filoclastos.it/2026/11/23/piazza-affari-stacco-cedole-banche-rimbalzo-sell-off-ai/",
+      "slug": "piazza-affari-stacco-cedole-banche-rimbalzo-sell-off-ai",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Finale ATP Finals: Alcaraz vs Zverev, n.2 contro n.1 del mondo, all'Inalpi Arena di Torino. In chiaro su Italia 1. Sinner assente. Il torneo va avanti, l'arena è piena, il business pure. #ATPFinals",
-      "url": "https://corrispondente.filoclastos.it/2026/11/22/atp-finals-finale-alcaraz-zverev-torino-2026/",
-      "slug": "atp-finals-finale-alcaraz-zverev-torino-2026",
+      "testo": "Alcaraz batte Zverev 6-2 7-6 e vince le ATP Finals per la prima volta. Career Super Slam completato. Montepremi: oltre 5 milioni. Sinner guarda da casa con il ginocchio in dubbio. La vita è bella per qualcuno.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/23/alcaraz-vince-atp-finals-torino-2026-career-super-slam/",
+      "slug": "alcaraz-vince-atp-finals-torino-2026-career-super-slam",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Francesco Schettino esce dal carcere dopo più di 9 anni. Costa Concordia, 32 morti, 2012. Oggi: servizi sociali. Le 32 vittime restano 32. L'eufemismo di potere si chiama «fine pena».",
-      "url": "https://corrispondente.filoclastos.it/2026/11/22/schettino-libero-carcere-servizi-sociali-concordia/",
-      "slug": "schettino-libero-carcere-servizi-sociali-concordia",
+      "testo": "Dymer, regione di Kiev: 11 morti, un bambino salvato dopo 14 ore sotto le macerie. La notizia dura un ciclo di news. Poi si torna a parlare di emendamenti alla manovra. La distanza geografica è un ottimo anestetico.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/23/bombardamento-russo-dymer-kiev-morti-novembre-2026/",
+      "slug": "bombardamento-russo-dymer-kiev-morti-novembre-2026",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "La bozza COP31 promuove la CCUS — cattura e stoccaggio del carbonio. Tecnologia promossa da chi? Dalle compagnie petrolifere. Chi la finanzia? Le stesse. Chi ci guadagna se funziona? Indovinate. #COP31 #CCUS #clima",
-      "url": "https://corrispondente.filoclastos.it/2026/11/22/cop31-ccus-cattura-carbonio-petrolifere-finanziamenti/",
-      "slug": "cop31-ccus-cattura-carbonio-petrolifere-finanziamenti",
+      "testo": "Un matematico di Anthropic dice che Claude ha dimostrato l'ipotesi di Riemann. La notizia arriva pochi giorni dopo l'IPO da 81 miliardi di Anthropic. Coincidenze belle, coincidenze.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/23/anthropic-claude-ipotesi-riemann-dimostrazione-2026/",
+      "slug": "anthropic-claude-ipotesi-riemann-dimostrazione-2026",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Anthropic: 81,3 miliardi di IPO, record assoluto. Perdita operativa 2026: 1,3 miliardi di dollari. La matematica dell'AI non è quella del resto del mondo. #Anthropic #IPO #AI",
-      "url": "https://corrispondente.filoclastos.it/2026/11/22/anthropic-ipo-borsa-81-miliardi-perdita/",
-      "slug": "anthropic-ipo-borsa-81-miliardi-perdita",
+      "testo": "Anthropic: IPO da 81 miliardi, valutazione da 1.500 miliardi. Claude dimostrerebbe l'ipotesi di Riemann. I mercati crollano del 10% sul Nasdaq. Ma oggi rimbalzano. L'eufemia di potere si chiama «correzione tecnica».",
+      "url": "https://corrispondente.filoclastos.it/2026/11/23/anthropic-ipo-nasdaq-81-miliardi-bolla-ai-2026/",
+      "slug": "anthropic-ipo-nasdaq-81-miliardi-bolla-ai-2026",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Uno studente su quattro passa più di 4 ore al giorno sui social. 208mila in uso a rischio. Le piattaforme guadagnano da questa dipendenza: questo il CNR non lo chiede. #social #adolescenti #salute",
-      "url": "https://corrispondente.filoclastos.it/2026/11/22/social-media-adolescenti-uso-rischio-208mila-cnr-espad-2026/",
-      "slug": "social-media-adolescenti-uso-rischio-208mila-cnr-espad-2026",
+      "testo": "Uno su tre under-35 compra integratori anti-invecchiamento. L'indagine è promossa da SirtLife, che vende integratori anti-invecchiamento. Una coincidenza meravigliosa, scientificamente parlando.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/23/integratori-longevita-under-35-industria-benessere-2026/",
+      "slug": "integratori-longevita-under-35-industria-benessere-2026",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "GTA VI: 3,79 miliardi di dollari in 24 ore. Record assoluto nell'intrattenimento. Sviluppato da Rockstar con 1,5 miliardi di investimento e 10 anni di lavoro. Hollywood fa 400 milioni in un weekend e pensa di avere successo. #GTAVI",
-      "url": "https://corrispondente.filoclastos.it/2026/11/22/gta-vi-379-miliardi-lancio-record-intrattenimento/",
-      "slug": "gta-vi-379-miliardi-lancio-record-intrattenimento",
+      "testo": "Stasera su La7: «P2, ombra sulle stragi». La docuserie sulla loggia massonica più potente della Repubblica italiana debutta la sera in cui De Gennaro è in prima pagina. Il palinsesto ha un senso dell'ironia che nessun autore potrebbe permettersi.",
+      "url": "https://corrispondente.filoclastos.it/2026/11/23/la7-docuserie-p2-ombra-sulle-stragi-didi-gnocchi/",
+      "slug": "la7-docuserie-p2-ombra-sulle-stragi-didi-gnocchi",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }

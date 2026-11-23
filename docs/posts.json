@@ -1,6 +1,404 @@
 {
   "edizioni": [
     {
+      "data": "2026-11-23",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "COP31 fallisce ad Antalya: nessun accordo sui combustibili fossili",
+          "slug": "cop31-fallisce-antalya-nessun-accordo-fossili",
+          "tag": [
+            "clima",
+            "cop31",
+            "combustibili-fossili",
+            "geopolitica"
+          ],
+          "evidenza": true,
+          "fonte": "ANSA / Il Fatto Quotidiano / Linkiesta",
+          "cerca_url": "https://www.google.com/search?q=COP31+Antalya+fallimento+accordo+fossili+novembre+2026",
+          "post_x": "COP31 fallita. Il vertice più lungo di sempre non ha partorito nulla. Stupore collettivo. Ma qualcuno — le compagnie petrolifere, i petrostati, i fondi legati ai fossili — stasera festeggia. #COP31 #clima",
+          "post_sito": "La COP31 di Antalya si è chiusa senza un accordo politico complessivo: la conferenza sul clima più lunga di sempre ha superato di quarantaquattro ore la scadenza prevista, per poi collassare sul nodo dei combustibili fossili — parole che non compaiono nemmeno una volta nel testo finale. L'UE ha rovesciato il tavolo, Cina e Russia hanno tenuto la posizione, e i petrostati hanno incassato. Il beneficio taciuto è evidente: ogni anno senza impegni vincolanti vale miliardi in estrazione e infrastrutture fossili non dismesse. Vale la pena ricordare che anche il vertice di Copenaghen del 2009 finì così — e nei quindici anni successivi le emissioni globali sono aumentate. La storia si ripete, e chi ci guadagna lo sa benissimo.",
+          "fatti": [
+            {
+              "testo": "La COP31 di Antalya si è chiusa il 22 novembre 2026 senza un accordo politico complessivo, prima volta dal vertice di Copenaghen del 2009.",
+              "fonte": "Linkiesta",
+              "url": "https://www.linkiesta.it/2026/11/cop31-accordo-turchia/"
+            },
+            {
+              "testo": "La bozza finale non conteneva le parole «petrolio», «carbone» e «gas»; l'UE e circa quaranta Paesi hanno respinto il testo.",
+              "fonte": "Linkiesta",
+              "url": "https://www.linkiesta.it/2026/11/cop31-accordo-turchia/"
+            },
+            {
+              "testo": "Il presidente turco della conferenza Murat Kurum ha riconosciuto che non c'erano le condizioni per adottare il testo finale.",
+              "fonte": "Linkiesta",
+              "url": "https://www.linkiesta.it/2026/11/cop31-accordo-turchia/"
+            },
+            {
+              "testo": "I negoziati vengono congelati e rinviati alla COP32, in programma l'anno prossimo in Etiopia.",
+              "fonte": "Contropiano",
+              "url": "https://contropiano.org/news/ambiente-news/2026/11/23/fallisce-la-cop31-di-antalya-nessuna-intesa-sulleconomia-fossile-0201189"
+            },
+            {
+              "testo": "In Turchia non erano presenti nemmeno i leader di Stati Uniti, Cina, India, Germania, Francia e Italia.",
+              "fonte": "Il Fatto Quotidiano",
+              "url": "https://www.ilfattoquotidiano.it/2026/11/22/cop31-fallimento-accordo-clima-notizie/8580274/"
+            }
+          ],
+          "incerto": [
+            "Non è chiaro se e come la COP32 in Etiopia potrà recuperare il terreno perduto senza la partecipazione attiva degli USA.",
+            "Non è noto quali accordi settoriali raggiunti ad Antalya abbiano effettiva forza vincolante."
+          ],
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La posizione dell'Unione Europea",
+              "testo": "L'UE ha rifiutato di firmare un documento finale che non menzionasse esplicitamente petrolio, gas e carbone. La posizione europea si basa sull'impegno già assunto alla COP28 di Dubai del 2023, che prevedeva un abbandono graduale dei combustibili fossili. Bruxelles ritiene che accettare un testo che ignori quella clausola avrebbe costituito un passo indietro rispetto agli accordi precedenti, indebolendo la credibilità dell'intero processo negoziale."
+            },
+            {
+              "etichetta": "Il fronte dei petrostati e il silenzio della Cina",
+              "testo": "Paesi come Arabia Saudita, Russia e diversi esportatori di idrocarburi hanno bloccato ogni riferimento esplicito ai fossili nel documento finale. La Cina, principale emettitore mondiale, ha assunto una posizione defilata. Questi attori sostengono che un abbandono rapido dei combustibili fossili penalizzerebbe le economie in via di sviluppo e che le tecnologie di cattura del carbonio rappresentano un percorso alternativo legittimo."
+            },
+            {
+              "etichetta": "Le conseguenze per il clima",
+              "testo": "Secondo il Programma delle Nazioni Unite per l'Ambiente, le politiche attuali proiettano il pianeta verso un riscaldamento di 2,8 gradi a fine secolo, già oltre la soglia di 1,5 gradi fissata dall'Accordo di Parigi. Il fallimento di Antalya lascia senza risposta la richiesta dei Paesi più vulnerabili di ricevere finanziamenti concreti per l'adattamento climatico. L'Accordo di Parigi rimane in vigore, ma senza nuovi impegni operativi."
+            },
+            {
+              "etichetta": "Chi paga il conto",
+              "testo": "I Paesi a basso reddito e le piccole isole del Pacifico — che contribuiscono marginalmente alle emissioni globali — sono i più esposti alle conseguenze del mancato accordo. Le organizzazioni non governative presenti ad Antalya hanno denunciato che la voce dei Paesi vulnerabili è stata sistematicamente marginalizzata nelle trattative, dominate da grandi potenze con interessi economici nella continuazione dell'uso dei fossili."
+            }
+          ],
+          "implicazioni": "Il fallimento della COP31 lascia il quadro diplomatico sul clima privo di nuovi impegni vincolanti fino alla COP32 in Etiopia, prevista per il 2027. Nel frattempo, i piani nazionali di riduzione delle emissioni rimangono quelli esistenti, spesso insufficienti rispetto agli obiettivi dell'Accordo di Parigi. La doppia frattura — tra Paesi industrializzati e petrostati, e tra Nord e Sud del mondo sul tema dei finanziamenti — rischia di rendere ancora più difficile il negoziato successivo.",
+          "redattore": "Il Corrispondente Estero 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Morte di De Gennaro: le lettere, l'hard disk e il no ai funerali di Stato",
+          "slug": "morte-de-gennaro-lettere-hard-disk-funerali-stato",
+          "tag": [
+            "de-gennaro",
+            "via-damelio",
+            "antimafia",
+            "depistaggio"
+          ],
+          "evidenza": false,
+          "fonte": "Il Post / Open / Il Fatto Quotidiano",
+          "cerca_url": "https://www.google.com/search?q=De+Gennaro+morte+lettere+indagini+funerali+stato+novembre+2026",
+          "post_x": "De Gennaro muore con tre lettere in mano — una per i familiari, una per il procuratore, una «per chi vorrà pubblicarla». Trent'anni di verità sulle stragi di mafia che non hanno trovato un'aula di tribunale. Trovano una poltrona in Maremma.",
+          "post_sito": "Gianni De Gennaro, già capo della polizia, direttore dei servizi segreti, presidente di Leonardo-Finmeccanica, si è tolto la vita nella sua casa in Maremma mentre era indagato per depistaggio nella strage di via D'Amelio del 1992. Accanto al corpo: una pistola, appunti per la difesa, tre lettere — una destinata, secondo le ricostruzioni, «a chi vorrà pubblicarla». Il contenuto è sequestrato dalla procura di Grosseto, coordinata con la DDA di Firenze, che indaga per istigazione al suicidio. Palazzo Chigi ha negato i funerali di Stato, decisione che ha già spaccato la politica. La domanda che il racconto dominante evita è semplice: in trent'anni di processi sulle stragi del 1992, quante verità sono rimaste nelle mani di uomini delle istituzioni che non hanno mai parlato davvero in un'aula? E quante di quelle verità sono oggi in buste sequestrate a Grosseto?",
+          "fatti": [
+            {
+              "testo": "Gianni De Gennaro, 78 anni, si è tolto la vita tra la sera del 20 novembre e la mattina del 21 novembre 2026 nella sua casa di campagna in Maremma, provincia di Grosseto.",
+              "fonte": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/22/gianni-de-gennaro-suicidio-cosa-sappiamo/"
+            },
+            {
+              "testo": "Sono state trovate almeno tre lettere: una manoscritto per i familiari, una busta per il procuratore di Caltanissetta e una con la dicitura «a chi vorrà pubblicarla».",
+              "fonte": "Open Online",
+              "url": "https://www.open.online/2026/11/23/gianni-de-gennaro-morte-fonteblanda-lettere-finestra/"
+            },
+            {
+              "testo": "La Procura di Grosseto, coordinata dalla DDA di Firenze, ha aperto un fascicolo per istigazione al suicidio contro ignoti.",
+              "fonte": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/23/lettere-gianni-de-gennaro"
+            },
+            {
+              "testo": "Palazzo Chigi ha confermato il no ai funerali di Stato.",
+              "fonte": "Sarno Notizie",
+              "url": "https://www.sarnonotizie.it/rassegna-stampa-23-novembre-2026/"
+            },
+            {
+              "testo": "Gli investigatori hanno sequestrato anche un hard disk che De Gennaro avrebbe affidato al figlio Giulio e il suo smartphone.",
+              "fonte": "Il Fatto Quotidiano",
+              "url": "https://www.ilfattoquotidiano.it/2026/11/22/morte-de-gennaro-suicidio-lettere-hard-disk-notizie/8580220/"
+            }
+          ],
+          "incerto": [
+            "Il contenuto delle lettere sequestrate non è stato reso pubblico e non è noto a chi fossero esattamente rivolte tutte le buste.",
+            "L'ipotesi di istigazione al suicidio è oggetto di indagine: non sono emerse ancora prove di terzi coinvolti."
+          ],
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Piazza Affari: stacco cedole da 9,7 miliardi dalle banche, borse in cerca di rimbalzo dopo sell-off AI",
+          "slug": "piazza-affari-stacco-cedole-banche-rimbalzo-sell-off-ai",
+          "tag": [
+            "borsa",
+            "banche",
+            "intelligenza-artificiale",
+            "mercati"
+          ],
+          "evidenza": false,
+          "fonte": "Milano Finanza / Il Sole 24 Ore",
+          "cerca_url": "https://www.google.com/search?q=Piazza+Affari+stacco+cedole+banche+sell-off+AI+23+novembre+2026",
+          "post_x": "Oggi le banche italiane staccano cedole per 9,7 miliardi. I risparmiatori: «Meno male, così recupero sul conto corrente». Le banche: «Prego». Il Nasdaq: «Noi recuperiamo dalla bolla AI». I chip Nvidia: «Non commentiamo.»",
+          "post_sito": "Lunedì 23 novembre è il «D-Day» di Piazza Affari: solo dalle banche, lo stacco cedole pesa sull'indice FTSE MIB dell'1,4%, con circa 9,7 miliardi distribuiti agli azionisti in un solo giorno. Nel frattempo i futures sul Nasdaq rimbalzano del 2,8% dopo il crollo del 10% della scorsa settimana, tracinato dai titoli tech e dei chip legati all'intelligenza artificiale. Il mandante invisibile di questa volatilità è lo scandalo Nvidia — chip venduti alla Cina attraverso canali aggirati, mentre l'intelligence USA monitorava i contatti di Alice Huang con il ministero della Sicurezza dello Stato di Pechino. La domanda che gli analisti non formulano ad alta voce: se la bolla AI scoppiasse davvero, chi paga? Come sempre, non i fondi che hanno già realizzato, ma i piccoli risparmiatori entrati per ultimi.",
+          "fatti": [
+            {
+              "testo": "Oggi, 23 novembre, lo stacco cedole a Piazza Affari pesa sull'indice FTSE MIB dell'1,4%, con circa 9,7 miliardi distribuiti solo dalle banche.",
+              "fonte": "Milano Finanza",
+              "url": "https://www.milanofinanza.it/news/borse-oggi-diretta-23-novembre-2026-chiusura-apertura-europee-borsa-milano-ftse-mib-piazza-affari-202611230748404021"
+            },
+            {
+              "testo": "I futures sull'S&P500 salgono del 2,21% e quelli sul Nasdaq 100 del 2,8% dopo il calo del 10% registrato la scorsa settimana dall'indice Nasdaq.",
+              "fonte": "Milano Finanza",
+              "url": "https://www.milanofinanza.it/news/borse-oggi-diretta-23-novembre-2026-chiusura-apertura-europee-borsa-milano-ftse-mib-piazza-affari-202611230748404021"
+            },
+            {
+              "testo": "Secondo il NYT, l'intelligence americana avrebbe rilevato contatti tra Alice Huang e il ministero cinese per la Sicurezza dello Stato nel periodo della sua relazione con l'ex AD di Nvidia Jensen Huang.",
+              "fonte": "Focus America",
+              "url": "https://focusamerica.it/la-rassegna-stampa-di-lunedi-23-novembre-2026/"
+            }
+          ],
+          "incerto": [
+            "Non è ancora chiaro se la correzione dei titoli tech si trasformerà in uno scoppio della bolla AI o in un temporaneo sell-off.",
+            "L'esito delle indagini sull'intelligence USA riguardante Nvidia e i chip esportati in Cina non è ancora noto."
+          ],
+          "editoriale": false,
+          "redattore": "L'Analista 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Alcaraz vince le ATP Finals di Torino: Career Super Slam e 5 milioni in tasca",
+          "slug": "alcaraz-vince-atp-finals-torino-2026-career-super-slam",
+          "tag": [
+            "tennis",
+            "atp-finals",
+            "alcaraz",
+            "torino"
+          ],
+          "evidenza": false,
+          "fonte": "Sport Mediaset / Today.it / QS Quotidiano Sportivo",
+          "cerca_url": "https://www.google.com/search?q=Alcaraz+vince+ATP+Finals+Torino+2026+Zverev",
+          "post_x": "Alcaraz batte Zverev 6-2 7-6 e vince le ATP Finals per la prima volta. Career Super Slam completato. Montepremi: oltre 5 milioni. Sinner guarda da casa con il ginocchio in dubbio. La vita è bella per qualcuno.",
+          "post_sito": "Carlos Alcaraz ha battuto Alexander Zverev — numero 1 del mondo — per 6-2, 7-6(7) all'Inalpi Arena di Torino, conquistando le Nitto ATP Finals per la prima volta in carriera. Con questo titolo, lo spagnolo diventa il quarto tennista nella storia a completare il Career Super Slam — tutti e quattro i Major più le Finals — dopo Agassi, Federer e Djokovic. Il montepremi per il vincitore imbattuto supera i 5 milioni di dollari. Il conto dietro la medaglia esiste, ovviamente: Torino ha ospitato le Finals grazie a un accordo con ATP che vale decine di milioni in diritti e indotto turistico — ma è un costo che la città ha scelto consapevolmente, e il ritorno in visibilità è reale. Resta in ombra Jannik Sinner, numero 2 al mondo, che non ha partecipato al torneo: secondo le ultime notizie, è al bivio tra una procedura conservativa e un intervento chirurgico al ginocchio.",
+          "fatti": [
+            {
+              "testo": "Carlos Alcaraz ha vinto le Nitto ATP Finals 2026 battendo Alexander Zverev 6-2, 7-6(7) all'Inalpi Arena di Torino il 22 novembre 2026.",
+              "fonte": "Sport Mediaset",
+              "url": "https://www.sportmediaset.mediaset.it/speciale/atp-finals-2026/zverez-alcaraz-diretta-live-risultato_119267701-202602k.shtml"
+            },
+            {
+              "testo": "Alcaraz è diventato il quarto giocatore di sempre a conquistare tutti e quattro i tornei del Grande Slam e le ATP Finals, dopo Agassi, Federer e Djokovic.",
+              "fonte": "QS Quotidiano Sportivo",
+              "url": "https://sport.quotidiano.net/tennis/alcaraz-vince-le-atp-finals-per-la-prima-volta-zverev-battuto-in-finale-6-2-7-6-o7jjcwco"
+            },
+            {
+              "testo": "Il montepremi per il campione imbattuto delle ATP Finals 2026 supera i 5 milioni di dollari; il prize money totale del torneo è di 15,75 milioni di dollari.",
+              "fonte": "Today.it",
+              "url": "https://www.today.it/sport/atp-tennis/alcaraz-vince-atp-finals-2026-finale-zverev-risultato-montepremi.html"
+            }
+          ],
+          "incerto": [
+            "Le condizioni fisiche di Jannik Sinner — assente dal torneo — non sono ancora chiarite: si valuta tra procedura conservativa e intervento chirurgico."
+          ],
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Bombardamento russo su Dymer, regione di Kiev: almeno 11 morti, bambino salvato dopo 14 ore",
+          "slug": "bombardamento-russo-dymer-kiev-morti-novembre-2026",
+          "tag": [
+            "ucraina",
+            "guerra",
+            "bombardamento",
+            "civili"
+          ],
+          "evidenza": false,
+          "fonte": "Torre Sette News / TRT Italiano",
+          "cerca_url": "https://www.google.com/search?q=bombardamento+russo+Dymer+Kiev+morti+novembre+2026",
+          "post_x": "Dymer, regione di Kiev: 11 morti, un bambino salvato dopo 14 ore sotto le macerie. La notizia dura un ciclo di news. Poi si torna a parlare di emendamenti alla manovra. La distanza geografica è un ottimo anestetico.",
+          "post_sito": "Un bombardamento russo ha colpito Dymer, nella regione di Kiev: almeno 11 persone sono morte e sei sono rimaste ferite. Un bambino è stato estratto vivo dalle macerie dopo quattordici ore. La causa strutturale rimossa è semplice da enunciare e difficile da sostenere: quasi tre anni dopo l'inizio dell'invasione su larga scala, il mondo ha sviluppato una soglia di tolleranza all'orrore che permette a stragi di civili di diventare brevi voci nei notiziari. Nel frattempo la guerra in Ucraina produce un'economia parallela di contractor, produttori di armamenti e fondi legati alla difesa che non hanno alcun interesse a una pace rapida. Chi ci guadagna economicamente da ogni giorno aggiuntivo di conflitto è una domanda che i comunicati istituzionali non formulano mai.",
+          "fatti": [
+            {
+              "testo": "Un bombardamento russo su Dymer, nella regione di Kiev, ha causato almeno 11 morti e 6 feriti.",
+              "fonte": "Torre Sette News",
+              "url": "https://www.torresette.news/24-news/2026/11/23/rassegna-stampa-23-novembre-strage-in-ucraina-manovra-2027-e-tutti-i-risultati-del-calcio"
+            },
+            {
+              "testo": "Un bambino è stato salvato dopo 14 ore sotto le macerie dell'attacco russo.",
+              "fonte": "Torre Sette News",
+              "url": "https://www.torresette.news/24-news/2026/11/23/rassegna-stampa-23-novembre-strage-in-ucraina-manovra-2027-e-tutti-i-risultati-del-calcio"
+            },
+            {
+              "testo": "Secondo TRT Italiano, gli attacchi russi nella regione di Kiev hanno provocato almeno 14 morti in totale.",
+              "fonte": "TRT Italiano",
+              "url": "https://www.trtitaliano.com/audio/2f1740bc64a1"
+            }
+          ],
+          "incerto": [
+            "Il bilancio definitivo delle vittime dell'attacco su Dymer non era ancora confermato al momento della pubblicazione delle prime notizie."
+          ],
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Scienza",
+          "titolo": "Un matematico di Anthropic sostiene che Claude ha dimostrato l'ipotesi di Riemann",
+          "slug": "anthropic-claude-ipotesi-riemann-dimostrazione-2026",
+          "tag": [
+            "matematica",
+            "intelligenza-artificiale",
+            "anthropic",
+            "riemann"
+          ],
+          "evidenza": false,
+          "fonte": "NPR / The Neuron / Euronews",
+          "cerca_url": "https://www.google.com/search?q=Anthropic+Claude+ipotesi+Riemann+dimostrazione+2026",
+          "post_x": "Un matematico di Anthropic dice che Claude ha dimostrato l'ipotesi di Riemann. La notizia arriva pochi giorni dopo l'IPO da 81 miliardi di Anthropic. Coincidenze belle, coincidenze.",
+          "post_sito": "Levent Alpöge, matematico di Anthropic, ha pubblicato una dichiarazione in cui sostiene di aver dimostrato — con l'ausilio del modello Claude — l'ipotesi di Riemann, uno dei problemi irrisolti più celebri della matematica, formulato nel 1859 e oggetto di un premio da un milione di dollari del Clay Mathematics Institute. La prova ammonta a 17 milioni di righe di codice Lean. Stanford ha risposto con una bozza alternativa, tutta umana, poche ore dopo. Il beneficio taciuto è evidente: la notizia arriva a quattro giorni dal debutto in borsa di Anthropic al Nasdaq con un'IPO record da 81,3 miliardi di dollari. Una dimostrazione matematica epocale è la migliore pubblicità possibile per un'azienda appena quotata. La comunità matematica si è divisa tra «svolta storica» e prudenza metodologica: una prova da 17 milioni di righe non si verifica nel giro di un weekend.",
+          "fatti": [
+            {
+              "testo": "Il matematico di Anthropic Levent Alpöge ha dichiarato di aver dimostrato l'ipotesi di Riemann lavorando con il modello AI Claude, pubblicando una prova da 17 milioni di righe di codice Lean.",
+              "fonte": "NPR",
+              "url": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai"
+            },
+            {
+              "testo": "Stanford ha rilasciato una bozza alternativa di dimostrazione, tutta umana, poche ore dopo la pubblicazione di Alpöge.",
+              "fonte": "The Neuron",
+              "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-23-2026/"
+            },
+            {
+              "testo": "Anthropic ha debuttato al Nasdaq il 19 novembre 2026 con l'IPO più grande della storia, raccogliendo 81,3 miliardi di dollari.",
+              "fonte": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+            }
+          ],
+          "incerto": [
+            "La dimostrazione di Alpöge non è stata ancora verificata dalla comunità matematica: una prova di tale lunghezza richiede mesi di revisione.",
+            "Non è confermato se la bozza di Stanford costituisca una dimostrazione completa e indipendente."
+          ],
+          "editoriale": false,
+          "redattore": "Il Metodico 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "AI",
+          "titolo": "Anthropic quota al Nasdaq con IPO record da 81 miliardi: i mercati temono la bolla AI",
+          "slug": "anthropic-ipo-nasdaq-81-miliardi-bolla-ai-2026",
+          "tag": [
+            "anthropic",
+            "ipo",
+            "nasdaq",
+            "bolla-ai"
+          ],
+          "evidenza": false,
+          "fonte": "Focus America / CNBC / Avvenire di Calabria",
+          "cerca_url": "https://www.google.com/search?q=Anthropic+IPO+Nasdaq+81+miliardi+bolla+AI+novembre+2026",
+          "post_x": "Anthropic: IPO da 81 miliardi, valutazione da 1.500 miliardi. Claude dimostrerebbe l'ipotesi di Riemann. I mercati crollano del 10% sul Nasdaq. Ma oggi rimbalzano. L'eufemia di potere si chiama «correzione tecnica».",
+          "post_sito": "Anthropic è sbarcata al Nasdaq il 19 novembre con l'IPO più grande della storia — 81,3 miliardi di dollari, superando anche SpaceX — per una valutazione prossima ai 1.500 miliardi. Il titolo ha chiuso il primo giorno a +17% rispetto al prezzo di collocamento. Nel frattempo il Nasdaq ha perso il 10% nella settimana appena trascorsa, trascinato proprio dai titoli AI e dei chip. Gli analisti di Citi avvertono che se la correzione si trasformasse nello scoppio della bolla AI, la Federal Reserve potrebbe escludere ulteriori rialzi dei tassi. Il mandante invisibile di questa storia è il collocamento privato da 26 miliardi che accompagnava l'IPO pubblica: i sottoscrittori includono Nvidia, Google e Microsoft — tre aziende che hanno tutto l'interesse a tenere alta la narrativa della rivoluzione AI, indipendentemente da quanto sia verificata la sua resa economica reale.",
+          "fatti": [
+            {
+              "testo": "Anthropic ha debuttato al Nasdaq il 19 novembre 2026 con il simbolo ANT, raccogliendo 81,3 miliardi di dollari, l'IPO più grande della storia.",
+              "fonte": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+            },
+            {
+              "testo": "Al collocamento pubblico si affiancava un collocamento privato da 26 miliardi di dollari con Nvidia, Google e Microsoft, portando i proventi complessivi a oltre 107 miliardi.",
+              "fonte": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/anthropic-largest-ipo-in-history/"
+            },
+            {
+              "testo": "Il Nasdaq ha registrato un calo del 10% la scorsa settimana sui titoli tecnologici e dei chip; i futures sull'indice rimbalzano del 2,8% nella mattinata del 23 novembre.",
+              "fonte": "Milano Finanza",
+              "url": "https://www.milanofinanza.it/news/borse-oggi-diretta-23-novembre-2026-chiusura-apertura-europee-borsa-milano-ftse-mib-piazza-affari-202611230748404021"
+            },
+            {
+              "testo": "Gli analisti di Citi ipotizzano che la Federal Reserve potrebbe escludere ulteriori rialzi dei tassi se la correzione dell'azionario dovesse trasformarsi nello scoppio della bolla AI.",
+              "fonte": "Milano Finanza",
+              "url": "https://www.milanofinanza.it/news/borse-oggi-diretta-23-novembre-2026-chiusura-apertura-europee-borsa-milano-ftse-mib-piazza-affari-202611230748404021"
+            }
+          ],
+          "incerto": [
+            "Non è ancora chiaro se il ribasso dei titoli tech rappresenti una correzione temporanea o l'inizio dello sgonfiarsi della bolla AI.",
+            "La valutazione da 1.500 miliardi di Anthropic si basa su un run-rate di ricavi: la sostenibilità di lungo periodo non è verificata."
+          ],
+          "editoriale": false,
+          "redattore": "Il Futurologo 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Wellness",
+          "titolo": "Un under-35 su tre consuma integratori anti-invecchiamento: l'industria della longevità scopre i giovani",
+          "slug": "integratori-longevita-under-35-industria-benessere-2026",
+          "tag": [
+            "longevita",
+            "integratori",
+            "wellness",
+            "industria-benessere"
+          ],
+          "evidenza": false,
+          "fonte": "L'Identità / Adnkronos",
+          "cerca_url": "https://www.google.com/search?q=integratori+longevita+under+35+indagine+2026",
+          "post_x": "Uno su tre under-35 compra integratori anti-invecchiamento. L'indagine è promossa da SirtLife, che vende integratori anti-invecchiamento. Una coincidenza meravigliosa, scientificamente parlando.",
+          "post_sito": "Un'indagine presentata al Milan Longevity Summit — promossa da SirtLife, azienda che produce e commercializza integratori della longevità — rivela che uno su tre consumatori di questi prodotti ha meno di 35 anni. Il dato è presentato come una scoperta: in realtà è un ottimo risultato di mercato per chi lo ha commissionato. L'industria del benessere ha imparato che l'insicurezza non ha età: il bersaglio satirico non è chi compra, ma chi costruisce la narrativa. La promessa di «hackerare il proprio orologio biologico» a 25 anni — riportando l'età biologica a quella di un ventenne — è un eufemismo di potere che trasforma l'incertezza naturale del corpo giovane in un problema da risolvere con un abbonamento mensile a base di polidatina e sirtuine. La comunità scientifica suggerisce prudenza: l'efficacia di questi composti sugli esseri umani in buona salute non ha lo stesso livello di evidenza con cui viene presentata nella comunicazione commerciale.",
+          "fatti": [
+            {
+              "testo": "Una ricerca promossa da SirtLife presentata al Milan Longevity Summit ha rilevato che tra i consumatori di integratori della longevità uno su tre ha meno di 35 anni.",
+              "fonte": "L'Identità",
+              "url": "https://www.lidentita.it/longevita-e-giovani-cresce-il-consumo-dellelisir-di-lunga-vita-tra-gli-under-35/"
+            }
+          ],
+          "incerto": [
+            "L'indagine è stata promossa dall'azienda produttrice SirtLife: metodologia, campione e revisione indipendente non sono pubblicamente disponibili.",
+            "L'efficacia degli integratori a base di sirtuine sugli esseri umani sani non è confermata da studi clinici indipendenti di ampia scala."
+          ],
+          "editoriale": false,
+          "redattore": "Il Life Coach 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Cultura",
+          "titolo": "Su La7 debutta «P2, ombra sulle stragi»: la docuserie sul caso De Gennaro e la loggia massonica",
+          "slug": "la7-docuserie-p2-ombra-sulle-stragi-didi-gnocchi",
+          "tag": [
+            "p2",
+            "stragi",
+            "docuserie",
+            "la7"
+          ],
+          "evidenza": false,
+          "fonte": "Radio Pavia / Today.it / lopinionista.it",
+          "cerca_url": "https://www.google.com/search?q=La7+P2+ombra+sulle+stragi+docuserie+23+novembre+2026",
+          "post_x": "Stasera su La7: «P2, ombra sulle stragi». La docuserie sulla loggia massonica più potente della Repubblica italiana debutta la sera in cui De Gennaro è in prima pagina. Il palinsesto ha un senso dell'ironia che nessun autore potrebbe permettersi.",
+          "post_sito": "Questa sera La7 manda in onda «P2, ombra sulle stragi», docuserie prodotta dalla pavese Didi Gnocchi dedicata a uno dei capitoli più oscuri della storia italiana: la loggia massonica P2 e i suoi presunti legami con le stragi. La data di messa in onda è, diciamo, tempestiva: Gianni De Gennaro — il cui nome compare in quasi trent'anni di inchieste sulle stragi del 1992 — domina le prime pagine di tutti i quotidiani italiani. La distrazione utile funziona anche al contrario: una docuserie può rendere domestico e narrativo un materiale che, nella sua forma giudiziaria, rimane opaco e irrisolto. Il coro compatto attorno alla figura di De Gennaro — tra chi lo vuole martire e chi lo vuole colpevole — rischia di consumarsi in una settimana di televisione, senza che nessuna delle domande strutturali sulle stragi trovi risposta. Il mandante invisibile della storia italiana, in questo caso, è la storia stessa.",
+          "fatti": [
+            {
+              "testo": "Questa sera, 23 novembre 2026, La7 trasmette dalle 21:15 «P2, ombra sulle stragi», speciale di approfondimento dedicato alla loggia massonica P2.",
+              "fonte": "lopinionista.it",
+              "url": "https://lopinionista.it/programmi-tv-23-novembre-2026-232308.html"
+            },
+            {
+              "testo": "La docuserie è prodotta dalla pavese Didi Gnocchi.",
+              "fonte": "Radio Pavia / Pavia Uno TV",
+              "url": "https://www.paviaunotv.it/radio-pavia-breakfast-news-23-novembre-2026/"
+            }
+          ],
+          "incerto": [
+            "Non sono ancora noti gli ascolti né la risposta del pubblico alla docuserie."
+          ],
+          "editoriale": false,
+          "redattore": "Il Letterato 1.0",
+          "fatti_verificati": true
+        }
+      ],
+      "controlli": {
+        "url_ricerca": 112,
+        "fatti_proposti": 29,
+        "fatti_scartati": 0,
+        "giorni_corretti": [],
+        "virgolette_riparate": 0
+      }
+    },
+    {
       "data": "2026-11-22",
       "post": [
         {
@@ -8183,193 +8581,7 @@
           "redattore": "Il Letterato 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-10-24",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Israele al voto il 27 ottobre: Netanyahu minaccia l'Iran a sei giorni dalle urne",
-          "slug": "israele-voto-netanyahu-iran-elezioni-ottobre-2026",
-          "tag": [
-            "israele",
-            "netanyahu",
-            "iran",
-            "elezioni"
-          ],
-          "evidenza": true,
-          "fonte": "Il Post / Il Fatto Quotidiano",
-          "cerca_url": "https://www.google.com/search?q=elezioni+Israele+27+ottobre+2026+Netanyahu+Iran",
-          "post_x": "Israele vota il 27 ottobre e Netanyahu invoca la guerra all'Iran a sei giorni dalle urne. Agenda di governo o agenda elettorale? Queste domande, ovviamente, non si fanno. #Israele #Netanyahu",
-          "post_sito": "Lunedì 27 ottobre Israele vota per la Knesset in quello che tutti descrivono come «un referendum su Netanyahu». Il copione è già scritto: il premier uscente, dato sotto nei sondaggi con la sua coalizione ferma intorno ai 49 seggi su 61 necessari, ha rilasciato nei giorni scorsi dichiarazioni sempre più bellicose sull'Iran — «l'unica soluzione è rovesciare il regime» — mentre il Financial Times rivela che Trump ha bloccato un attacco israeliano il 10 ottobre. Il meccanismo è antico come la politica: nessun leader in difficoltà elettorale ha mai trovato un'agenda di pace. Quel che il coro mediatico tace è il beneficio taciuto di chi lucra sul conflitto: le industrie della difesa americana e israeliana, i produttori di petrolio che incassano a ogni escalation, i fondi speculativi long sull'energia. La domanda che nessuno fa è un'altra: chi guadagna a tenere la tensione alta esattamente fino al giorno del voto — e chi guadagna a farla esplodere il giorno dopo?",
-          "editoriale": true,
-          "prospettive": [
-            {
-              "etichetta": "La posizione di Netanyahu",
-              "testo": "Netanyahu presenta la retorica sul cambio di regime a Teheran come una necessità strategica di sicurezza nazionale, non come strumento elettorale. Il suo governo sostiene che le minacce iraniane — compreso l'allarme intelligence su piani «in fase avanzata» contro funzionari americani — rendono inevitabile mantenere la pressione militare. Il sostegno espresso da Trump è letto dal Likud come conferma della solidità dell'asse con Washington."
-            },
-            {
-              "etichetta": "La lettura dell'opposizione israeliana",
-              "testo": "La coalizione guidata dal generale Gadi Eisenkot sostiene che Netanyahu strumentalizzi la retorica bellica per distogliere l'attenzione dai processi in cui è imputato e dalla gestione del 7 ottobre 2023. Secondo l'opposizione, la guerra in Iran — avviata nel febbraio 2026 — ha prodotto una crisi energetica globale senza realizzare gli obiettivi promessi, e un nuovo attacco sarebbe avventuristico."
-            },
-            {
-              "etichetta": "Il nodo statunitense",
-              "testo": "Secondo quanto riportato dal New York Times e ripreso da Haaretz, Washington e Tel Aviv avrebbero messo a punto piani per eventuali nuovi attacchi all'Iran da eseguire dopo le elezioni americane di medio termine del 3 novembre. Trump ha ufficialmente endorsato Netanyahu, ma il Financial Times riferisce che la Casa Bianca ha già bloccato almeno un'iniziativa militare israeliana il 10 ottobre. Il doppio binario — supporto pubblico, freno privato — riflette le pressioni che la guerra in Iran sta esercitando sul Partito Repubblicano in vista del voto di novembre."
-            },
-            {
-              "etichetta": "Il contesto economico nascosto",
-              "testo": "Il petrolio Wti ha superato i 100 dollari al barile nella settimana in corso, complice la tensione nel Golfo Persico dopo le dichiarazioni del generale iraniano Abdollahi sulle navi americane. L'inflazione energetica europea si attesta su base annua al 18,9% secondo i dati di Startmag. I principali beneficiari di questa dinamica — produttori del Golfo, major petrolifere, fondi speculativi long sull'energia — non compaiono nel racconto delle elezioni israeliane."
-            }
-          ],
-          "implicazioni": "L'esito del voto del 27 ottobre definirà se Israele proseguirà sulla linea di massima pressione militare sull'Iran o imboccherà un percorso negoziale. Una vittoria di Netanyahu aumenta la probabilità di nuove operazioni militari coordinate con gli Stati Uniti dopo le elezioni americane del 3 novembre. Una sconfitta potrebbe aprire uno spazio di trattativa, ma la transizione sarebbe comunque complessa in un contesto di guerra ancora attiva.",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Congresso straordinario della Lega: Salvini sfida Garavaglia per la segreteria",
-          "slug": "congresso-lega-salvini-garavaglia-ottobre-2026",
-          "tag": [
-            "lega",
-            "salvini",
-            "garavaglia",
-            "congresso"
-          ],
-          "evidenza": false,
-          "fonte": "AGI / Sky TG24",
-          "cerca_url": "https://www.google.com/search?q=congresso+straordinario+Lega+Salvini+Garavaglia+24+ottobre+2026",
-          "post_x": "Salvini convoca un congresso straordinario, si dimette da segretario e si ricandida. Nel medesimo movimento si trova la mossa più audace e la più prevedibile della politica italiana. #Lega #Congresso",
-          "post_sito": "Oggi all'Allianz MiCo di Milano si apre il congresso straordinario della Lega, con 705 delegati chiamati a scegliere tra Matteo Salvini e il senatore Massimo Garavaglia, voce dei «nordisti» e già presidente della Commissione Finanze del Senato. La mossa di Salvini — convocare a sorpresa il congresso dal palco di Pontida, dimettersi e ricandidarsi — è la classica fuga in avanti del leader in difficoltà: brucia l'opposizione interna prima che si organizzi. Quel che il palcoscenico non mostra è la partita vera, quella sul federalismo fiscale e sull'autonomia differenziata, dietro la quale si muovono interessi concreti di imprenditoria settentrionale e banche regionali che da anni finanziano il partito. La corrente «nordista» non è un capriccio identitario: è la cinghia di trasmissione di chi vorrebbe una Lega più affidabile per i propri interessi economici e meno esposta alle avventure giudiziarie del leader. Il voto di domani dirà chi ha vinto la battaglia, non la guerra.",
-          "editoriale": false,
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "BTP Valore: raccolta record da 16,6 miliardi, il Tesoro alza i tassi",
-          "slug": "btp-valore-raccolta-16-miliardi-tassi-rialzo-ottobre-2026",
-          "tag": [
-            "btp-valore",
-            "debito-pubblico",
-            "risparmio",
-            "mef"
-          ],
-          "evidenza": false,
-          "fonte": "MEF / Il Sole 24 Ore",
-          "cerca_url": "https://www.google.com/search?q=BTP+Valore+raccolta+16+miliardi+ottobre+2026",
-          "post_sito": "L'emissione doppia del BTP Valore e del BTP Valore Insieme, conclusa il 23 ottobre, ha raccolto 16,62 miliardi di euro da 560.029 sottoscrittori retail — il MEF ha rivisto al rialzo i tassi definitivi fino al 4,75% per il quinto anno. Numeri che fanno notizia come un successo patriottico: i piccoli risparmiatori «credono nell'Italia». Quello che la narrazione trionfale omette è il beneficio taciuto di chi gestisce il collocamento: dealer principali Intesa Sanpaolo e UniCredit, co-dealer Monte dei Paschi e Banco BPM, tutte banche che incassano commissioni di collocamento sull'intero controvalore. Il dato strutturale è un altro: se lo Stato deve offrire il 4,75% lordo ai risparmiatori retail per rifinanziare il proprio debito, lo spread BTP-Bund che durante il collocamento è salito verso 125 punti racconta una storia meno festosa — quella di un paese che paga cara la propria dipendenza dal mercato obbligazionario, proprio mentre i carburanti volano e l'inflazione energetica europea segna +18,9% annuo.",
-          "post_x": "BTP Valore: 16,6 miliardi raccolti, tassi al 4,75%. Festa nazionale. Intanto lo spread era a 125 punti durante il collocamento e le banche che lo gestivano incassavano commissioni. Ma questa è un'altra storia. #BTP",
-          "editoriale": false,
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Mondiali ginnastica artistica Rotterdam: oggi le prime finali di specialità, tre azzurri in gara",
-          "slug": "mondiali-ginnastica-artistica-rotterdam-finali-24-ottobre-2026",
-          "tag": [
-            "ginnastica-artistica",
-            "mondiali",
-            "rotterdam",
-            "targhetta"
-          ],
-          "evidenza": false,
-          "fonte": "OA Sport / Ginnasticando",
-          "cerca_url": "https://www.google.com/search?q=mondiali+ginnastica+artistica+Rotterdam+2026+finali+24+ottobre",
-          "post_x": "A Rotterdam oggi le prime finali mondiali di specialità: Gabriele Targhetta al cavallo con maniglie, Elisa Iorio alle parallele asimmetriche. La ginnastica artistica esiste anche quando non vince una medaglia olimpica. #Ginnastica #Mondiali2026",
-          "post_sito": "Alla AHOY Arena di Rotterdam si disputano oggi le prime finali di specialità dei Mondiali 2026 di ginnastica artistica, con tre azzurri tra i protagonisti. Gabriele Targhetta — campione d'Europa — è tra i grandi favoriti al cavallo con maniglie, dove ha firmato il terzo punteggio di qualificazione con 14.833. Elisa Iorio si presenta alle parallele asimmetriche dopo una settimana in cui l'Italia femminile ha chiuso settima nella finale a squadre — con tre cadute alla trave che hanno costato il podio — mentre la Cina ha stoicamente detronizzato gli USA dopo vent'anni. Che la ginnastica esista solo quando arriva una medaglia olimpica è il pregiudizio più radicato dello sport italiano: questi ragazzi gareggiano ogni anno in eventi mondiali trasmessi in chiaro su RaiSport e in streaming su Rai Play, costruendo risultati che meritano attenzione indipendentemente dal colore del metallo.",
-          "editoriale": false,
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Proteste del Movimento 17 ottobre: città blindate, la Digos perquisisce in 18 città",
-          "slug": "proteste-movimento-17-ottobre-citta-blindate-digos-24-ottobre-2026",
-          "tag": [
-            "proteste",
-            "carovita",
-            "ordine-pubblico",
-            "movimento-17-ottobre"
-          ],
-          "evidenza": false,
-          "fonte": "Sky TG24 / Adnkronos",
-          "cerca_url": "https://www.google.com/search?q=proteste+Movimento+17+ottobre+24+ottobre+2026+citta+blindate",
-          "post_x": "Milano: 1.400 tra agenti e militari per gestire manifestazioni contro il carovita. 51 dei 100 identificati dopo il 17 ottobre sono minorenni. Forse vale la pena chiedersi cosa produce un paese che manda i minori in piazza per la benzina. #Proteste",
-          "post_sito": "Oggi sabato 24 ottobre le principali città italiane — da Milano a Roma, da Bologna a Genova — sono presidiate da circa 1.400 tra agenti e militari nel solo capoluogo lombardo, dopo che il Movimento 17 ottobre ha cancellato i punti di ritrovo preannunciati comunicandoli soltanto a ridosso dell'inizio. La Digos ha effettuato perquisizioni in 18 città nei confronti di circa cento persone identificate negli scontri della settimana scorsa: 51 sono minorenni. Il racconto dominante oscilla tra due versioni ugualmente semplificate: «teppisti organizzati» per il governo, «rivolta spontanea contro il carovita» per parte dell'opposizione. La causa strutturale rimossa è una sola: un paese con inflazione energetica al 18,9% annuo, carburanti sopra ogni soglia storica e autotrasportatori in sciopero non genera proteste per caso. Identificare un «regista» occulto è più comodo che affrontare il perché decine di migliaia di persone — inclusi molti minorenni — trovino nelle piazze l'unica risposta a una crisi che le istituzioni non stanno risolvendo.",
-          "editoriale": false,
-          "redattore": "L'Osservatore 1.0"
-        },
-        {
-          "categoria": "Scienza",
-          "titolo": "Sciame sismico nel Tirreno: oltre 60 scosse in una settimana, la più forte di magnitudo 5.5",
-          "slug": "sciame-sismico-tirreno-meridionale-magnitudo-55-ottobre-2026",
-          "tag": [
-            "terremoto",
-            "tirreno",
-            "ingv",
-            "sicilia"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Giornale di Sicilia",
-          "cerca_url": "https://www.google.com/search?q=sciame+sismico+Tirreno+meridionale+magnitudo+5.5+ottobre+2026",
-          "post_x": "Oltre 60 scosse in una settimana nel Tirreno meridionale, la più forte di magnitudo 5.5 avvertita da Palermo a Catania. Il CNR parla di «nuovo confine tra le placche» tra Eolie e Ustica. Non è un'emergenza finché non crolla qualcosa. #Terremoto #Sicilia",
-          "post_sito": "Lo sciame sismico nel Tirreno meridionale — tra le isole Eolie e Ustica — non si ferma: il sismologo Salvatore Stramondo dell'INGV ha dichiarato all'ANSA che nell'ultima settimana si sono registrate almeno 60 scosse, con la più intensa di magnitudo 5.5 il 23 ottobre a soli 9 chilometri di profondità. La scossa principale è stata avvertita dall'arcipelago eoliano fino a Trapani, Palermo, Catania e Agrigento, con evacuazioni di scuole e uffici pubblici e un'allerta maremoto arancione poi revocata. Lo sciame continua nella notte del 24 ottobre. Il CNR segnala che nell'area si sta formando un nuovo confine tra le placche. L'aspetto che i comunicati istituzionali tendono a minimizzare è la fragilità strutturale del patrimonio edilizio siciliano: la storia sismica della zona è nota, ma la messa in sicurezza degli edifici pubblici e privati resta una promessa ricorrente di ogni campagna elettorale, non un cantiere aperto.",
-          "editoriale": false,
-          "redattore": "Il Metodico 1.0"
-        },
-        {
-          "categoria": "AI",
-          "titolo": "La Svezia blocca ChatGPT e Claude nei ministeri: resta solo Copilot di Microsoft",
-          "slug": "svezia-blocca-chatgpt-claude-governo-copilot-microsoft",
-          "tag": [
-            "intelligenza-artificiale",
-            "svezia",
-            "microsoft",
-            "regolamentazione"
-          ],
-          "evidenza": false,
-          "fonte": "Il Software / Sveriges Radio Ekot",
-          "cerca_url": "https://www.google.com/search?q=Svezia+blocca+ChatGPT+Claude+governo+Copilot+2026",
-          "post_x": "La Svezia blocca ChatGPT e Claude sui PC dei ministeri. Resta solo Copilot di Microsoft. Coincidenza: Microsoft ha già il contratto con il governo. L'IA è permessa — ma solo quella di chi ha firmato nel posto giusto. #AI #Svezia",
-          "post_sito": "Dal 26 ottobre il governo svedese — il Regeringskansliet, che include l'ufficio del primo ministro e tutti i ministeri — blocca l'accesso a ChatGPT e Claude dai computer istituzionali. Il motivo ufficiale è la sicurezza dei dati: l'uso di servizi AI «senza accordo» potrebbe avere «conseguenze per la sicurezza delle informazioni», ha scritto il direttore della digitalizzazione Mikael Wettercrantz sull'intranet governativa. Lo strumento autorizzato in sostituzione è Microsoft Copilot — che di OpenAI utilizza comunque i modelli GPT-4, in forma contrattualizzata. Il meccanismo è il mandante invisibile nella sua forma più lineare: non si vieta l'IA, si vietano le IA che non hanno un contratto con l'amministrazione. Microsoft, che quel contratto lo ha già, esce dal provvedimento come unico vincitore. Anche l'Italia ha appena emanato il decreto legislativo 179/2026, con sanzioni fino a 35 milioni di euro per le pratiche vietate dall'AI Act europeo e vigilanza affidata ad AgID e ACN: le domande su chi controllerà i controllori, e quali aziende si troveranno meglio posizionate nel nuovo ecosistema regolatorio, restano ancora senza risposta.",
-          "editoriale": false,
-          "redattore": "Il Futurologo 1.0"
-        },
-        {
-          "categoria": "Wellness",
-          "titolo": "Ora solare 2026: stanotte si cambia, torna il dibattito tra salute e risparmio energetico",
-          "slug": "ora-solare-2026-cambio-ora-salute-risparmio",
-          "tag": [
-            "ora-solare",
-            "cambio-ora",
-            "benessere",
-            "ritmo-circadiano"
-          ],
-          "evidenza": false,
-          "fonte": "S&H Magazine / Adnkronos",
-          "cerca_url": "https://www.google.com/search?q=ora+solare+2026+cambio+ora+24+ottobre+salute",
-          "post_x": "Stanotte si torna all'ora solare. Da domani si dorme un'ora in più — recita il comunicato ottimista. L'industria dei supplementi per «supportare i ritmi naturali» è già pronta. Non l'ha aspettato nessuno, ma arriva ogni anno. #OraSolare",
-          "post_sito": "Nella notte tra il 24 e il 25 ottobre le lancette tornano indietro di un'ora: è il cambio dall'ora legale all'ora solare, che resterà in vigore fino al 27 marzo 2027. Il rituale si ripete ogni anno accompagnato da due cori paralleli: quello istituzionale sul risparmio energetico e quello dell'industria del benessere, che ogni autunno riscopre i «disturbi del ritmo circadiano», il «deficit di vitamina D» e la «necessità di integratori per affrontare il cambio di stagione». Il mercato dei supplementi legati alla transizione stagionale vale miliardi in tutta Europa; i prodotti venduti in queste settimane — dalla melatonina agli «adattogeni per lo stress da cambio d'ora» — sono spesso sostenuti da studi preliminari che i titoli di giornale trasformano in certezze. Il dibattito reale — quello sull'abolizione definitiva del cambio d'ora, proposta dalla Commissione Europea nel 2018 e mai attuata per mancanza di accordo tra gli Stati membri — langue da anni, mentre chi vende «kit transizione stagionale» ringrazia puntualmente.",
-          "editoriale": false,
-          "redattore": "Il Life Coach 1.0"
-        },
-        {
-          "categoria": "Cultura",
-          "titolo": "Festa del Cinema di Roma: penultimo giorno, ma la manifestazione è sempre più marginale",
-          "slug": "festa-cinema-roma-2026-penultimo-giorno-budget-marginalita",
-          "tag": [
-            "cinema",
-            "roma",
-            "festival",
-            "fondazione-cinema-per-roma"
-          ],
-          "evidenza": false,
-          "fonte": "Il Post / Libero",
-          "cerca_url": "https://www.google.com/search?q=Festa+del+Cinema+Roma+2026+24+ottobre+programma",
-          "post_x": "La Festa del Cinema di Roma è al penultimo giorno. Budget: 10 milioni di euro. Venezia ne ha 8,5, ma conta il doppio. Il nodo è che Roma dipende sempre più da Comune, Regione e Cinecittà — e più dipende, più programma film comodi. #CinemaRoma",
-          "post_sito": "Si avvicina alla conclusione la 21a edizione della Festa del Cinema di Roma, con oggi che porta al red carpet Serena Rossi e una selezione di titoli tra cui un documentario sulla famiglia Panini e opere d'autore internazionali. Quello che la passerella non mostra è il quadro economico e istituzionale che tiene in piedi la manifestazione: la Fondazione Cinema per Roma opera con un budget di circa 10 milioni di euro annui — inferiore a quello delle primissime edizioni — dopo un progressivo ritiro degli sponsor privati, inclusa BNP Paribas che fu il primo finanziatore. Il risultato è una dipendenza crescente da fondi pubblici: Roma Capitale, Regione Lazio, Cinecittà — che rappresenta il Ministero della Cultura — sono oggi i principali promotori. Come ha osservato Il Post, questa contrazione significa che i film prodotti, coprodotti o sostenuti dagli stessi enti che finanziano il festival tendono ad avere una corsia preferenziale. Non è censura: è il meccanismo più sottile del mandante invisibile, quello che trasforma un festival in un vetrina istituzionale mentre tutti applaudono il cinema indipendente.",
-          "editoriale": false,
-          "redattore": "Il Letterato 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-11-22T08:21:15.424150+00:00"
+  "ultimo_aggiornamento": "2026-11-23T08:21:00.795446+00:00"
 }
