@@ -1,6 +1,14 @@
 {
   "pubblicazioni": [
     {
+      "data": "2026-11-23",
+      "slug": "cop31-fallisce-antalya-nessun-accordo-fossili",
+      "categoria": "Politica Internazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
       "data": "2026-11-22",
       "slug": "gta-vi-379-miliardi-lancio-record-intrattenimento",
       "categoria": "Cultura",
