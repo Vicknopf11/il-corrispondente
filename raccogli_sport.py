@@ -21,8 +21,10 @@ futuro smettesse di rispondere o cambiasse URL viene comunque scartato in
 silenzio dalla funzione di fetch, senza bloccare la pipeline.
 """
 
+import html
 import json
 import os
+import re
 import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -31,7 +33,9 @@ from email.utils import parsedate_to_datetime
 
 RASSEGNA_FILE = "docs/rassegna_sport.json"
 COPERTURA_FILE = "docs/copertura_sport.json"
-N_ITEM_FINALI = 5  # "pochi, 3-5 al giorno" — questo è il tetto massimo
+N_ITEM_FINALI = 8  # tetto massimo al giorno (era 5 fino al 23/11/2026)
+MAX_PER_TESTATA = 3  # al massimo 3 voci dalla stessa testata (Gazzetta, OA Sport, ...):
+                     # con 3 testate principali, a 2 non si arriverebbe mai a 8
 TIMEOUT_SECONDI = 8
 FRESCHEZZA_MAX_GIORNI = 4  # scarta voci RSS più vecchie di così — protegge
                            # da feed "morti"/archiviati che rispondono
@@ -65,6 +69,9 @@ SOTTOCATEGORIE_KEYWORD = {
     "Invernali": ["sci", "pattinaggio", "hockey ghiaccio", "curling", "biathlon",
                   "snowboard", "bob", "slittino"],
     "Mente e nicchia": ["scacchi", "dama", "bridge", "bocce", "biliardo"],
+    # Aggiunta il 23/11/2026 insieme al feed "Altri sport" del Corriere dello Sport.
+    "Equitazione e ippica": ["equitazione", "ippica", "salto ostacoli", "dressage",
+                             "galoppo", "trotto", "concorso ippico", "global champions"],
 }
 
 # ── Focus iniziale sugli sport minori (deciso 30/08/2026): Calcio (maschile)
@@ -98,6 +105,10 @@ SOTTOCATEGORIE_ESCLUSE = {"Calcio", "Motori"}
 # keyword dal titolo. Per i feed generalisti/misti (Sport Vari, ANSA Sport,
 # e il transversale Paralimpici, che copre più discipline) la
 # sottocategoria_fissa è None: si classifica per keyword come prima.
+# Valore speciale per la terza colonna di FONTI_RSS: la sottocategoria non è
+# fissa ma si ricava dall'indirizzo della notizia (Corriere dello Sport).
+DA_URL_CDS = "__da_url_cds__"
+
 FONTI_RSS = [
     ("Gazzetta — Sport Vari", "https://www.gazzetta.it/dynamic-feed/rss/section/Sport-Vari.xml", None),
     ("Gazzetta — Nuoto e Pallanuoto", "https://www.gazzetta.it/dynamic-feed/rss/section/Nuoto.xml", "Acqua"),
@@ -116,6 +127,23 @@ FONTI_RSS = [
     ("Gazzetta — Sport Invernali", "https://www.gazzetta.it/dynamic-feed/rss/section/Sport-Invernali.xml", "Invernali"),
     ("Gazzetta — Paralimpici", "https://www.gazzetta.it/dynamic-feed/rss/section/Paralimpici.xml", None),
     ("ANSA Sport", "https://www.ansa.it/sito/notizie/sport/sport_rss.xml", None),
+    # ── Aggiunte il 23/11/2026, feed verificati a mano da Ferruccio lo stesso giorno.
+    # Corriere dello Sport, "Altri sport": la disciplina è nell'indirizzo della
+    # notizia (/altri-sport/<disciplina>/...), quindi la sottocategoria si prende
+    # da lì (vedi sottocategoria_da_url_cds). Escluse /running/ e le notizie senza
+    # disciplina: sono soprattutto comunicati promozionali.
+    ("Corriere dello Sport — Altri sport", "https://www.corrieredellosport.it/rss/altri-sport", DA_URL_CDS),
+    # OA Sport, un feed per disciplina (il feed generale copre solo le ultime 3-4 ore).
+    ("OA Sport — Scherma", "https://www.oasport.it/category/scherma/feed/", "Combattimento"),
+    ("OA Sport — Judo", "https://www.oasport.it/category/judo/feed/", "Combattimento"),
+    ("OA Sport — Pallanuoto", "https://www.oasport.it/category/pallanuoto/feed/", "Acqua"),
+    ("OA Sport — Canottaggio", "https://www.oasport.it/category/canottaggio/feed/", "Acqua"),
+    ("OA Sport — Tuffi", "https://www.oasport.it/category/tuffi/feed/", "Acqua"),
+    ("OA Sport — Pallamano", "https://www.oasport.it/category/pallamano/feed/", "Squadra"),
+    ("OA Sport — Atletica", "https://www.oasport.it/category/atletica/feed/", "Atletica"),
+    ("OA Sport — Scacchi", "https://www.oasport.it/category/scacchi/feed/", "Mente e nicchia"),
+    ("OA Sport — Tiro a volo", "https://www.oasport.it/category/tiro-a-volo/feed/", "Racchette e precisione"),
+    ("OA Sport — Sport invernali", "https://www.oasport.it/category/sport-invernali/feed/", "Invernali"),
 ]
 
 # Nomi fonte per cui, oltre alla sottocategoria, aggiungiamo il flag
@@ -131,6 +159,52 @@ def _fetch_url(url: str, timeout: int = TIMEOUT_SECONDI) -> bytes:
     )
     with urllib.request.urlopen(req, timeout=timeout) as r:
         return r.read()
+
+
+TAG_HTML = re.compile(r"<[^>]+>")
+
+
+def pulisci_testo(testo: str) -> str:
+    """Toglie i pezzi di HTML (<h1>, <p>, <br />...) e decodifica i caratteri
+    (&egrave; → è, &#39; → '), poi compatta gli spazi. Alcuni feed (Corriere
+    dello Sport) mettono HTML dentro i titoli."""
+    t = html.unescape(TAG_HTML.sub(" ", testo or ""))
+    t = html.unescape(t)  # seconda passata: entità codificate due volte
+    return " ".join(t.split())
+
+
+# Disciplina nell'indirizzo del Corriere dello Sport → sottocategoria.
+# None = da escludere (comunicati). Una disciplina non in elenco si classifica
+# per parole chiave sul titolo, come per i feed generalisti.
+CDS_DISCIPLINE = {
+    "equitazione": "Equitazione e ippica", "ippica": "Equitazione e ippica",
+    "rugby": "Squadra", "volley": "Squadra", "basket": "Squadra", "pallamano": "Squadra",
+    "pallanuoto": "Acqua", "nuoto": "Acqua", "vela": "Acqua", "canottaggio": "Acqua",
+    "atletica": "Atletica", "ciclismo": "Atletica",
+    "sci": "Invernali", "sport-invernali": "Invernali",
+    "pugilato": "Combattimento", "boxe": "Combattimento", "judo": "Combattimento",
+    "scherma": "Combattimento", "taekwondo": "Combattimento",
+    "tennis": "Racchette e precisione", "padel": "Racchette e precisione",
+    "golf": "Racchette e precisione",
+    "running": None,
+}
+
+
+def sottocategoria_da_url_cds(link: str, testo: str):
+    """/news/altri-sport/<disciplina>/2026/... → sottocategoria.
+    Senza disciplina (/news/altri-sport/2026/...) o in /running/ → None."""
+    m = re.search(r"/altri-sport/([a-z-]+)/", link or "")
+    if not m:
+        return None  # nessuna disciplina nell'indirizzo: quasi sempre un comunicato
+    disciplina = m.group(1)
+    if disciplina in CDS_DISCIPLINE:
+        return CDS_DISCIPLINE[disciplina]
+    return classifica_sottocategoria(f"{disciplina.replace('-', ' ')} {testo}")
+
+
+def testata(nome_fonte: str) -> str:
+    """"OA Sport — Scherma" → "OA Sport". Serve al tetto per testata."""
+    return nome_fonte.split(" — ")[0].strip()
 
 
 def classifica_sottocategoria(testo: str):
@@ -165,9 +239,9 @@ def estrai_da_rss(nome_fonte: str, url: str, sottocategoria_fissa=None) -> list:
     scartate_per_eta = 0
     scartate_per_classificazione = 0
     for item in root.findall(".//item"):
-        titolo = (item.findtext("title") or "").strip()
+        titolo = pulisci_testo(item.findtext("title"))
         link = (item.findtext("link") or "").strip()
-        descrizione = (item.findtext("description") or "").strip()
+        descrizione = pulisci_testo(item.findtext("description"))
         pub_date_raw = (item.findtext("pubDate") or "").strip()
         categorie_tag = " ".join(
             (c.text or "").strip() for c in item.findall("category")
@@ -193,7 +267,12 @@ def estrai_da_rss(nome_fonte: str, url: str, sottocategoria_fissa=None) -> list:
             except (TypeError, ValueError):
                 pass  # data non parsabile: non blocchiamo, teniamo la voce
 
-        if sottocategoria_fissa:
+        if sottocategoria_fissa == DA_URL_CDS:
+            sottocat = sottocategoria_da_url_cds(link, f"{titolo} {descrizione}")
+            if not sottocat or sottocat in SOTTOCATEGORIE_ESCLUSE:
+                scartate_per_classificazione += 1
+                continue
+        elif sottocategoria_fissa:
             sottocat = sottocategoria_fissa
         else:
             sottocat = classifica_sottocategoria(f"{titolo} {descrizione} {categorie_tag}")
@@ -252,32 +331,34 @@ def seleziona_finali(candidati: list, copertura: dict, n: int = N_ITEM_FINALI) -
         except ValueError:
             return 9999
 
-    # Un solo candidato per sottocategoria. Preferenza, in ordine: un
-    # "risultato" strutturato batte una semplice "notizia"; a parità di
-    # tipo, un candidato paralimpico batte uno non paralimpico — coerente
-    # con la priorità trasversale dichiarata su prompt.html.
+    # Un solo candidato per sottocategoria (la rotazione resta com'era), ma ora
+    # con al massimo MAX_PER_TESTATA voci dalla stessa testata. Per ogni
+    # sottocategoria si tengono tutti i candidati in ordine di preferenza:
+    # un "risultato" strutturato batte una "notizia"; a parità, un candidato
+    # paralimpico batte uno non paralimpico (priorità dichiarata su
+    # prompt.html); a parità ancora, il più recente. Se il preferito è di una
+    # testata già al tetto, si passa al successivo della stessa sottocategoria.
+    def preferenza(c):
+        return (c["tipo"] == "risultato", bool(c.get("paralimpico")), c.get("data_evento", ""))
+
     per_sottocat = {}
     for c in candidati:
-        sc = c["sottocategoria"]
-        attuale = per_sottocat.get(sc)
-        migliore = (
-            attuale is None
-            or (c["tipo"] == "risultato" and attuale["tipo"] != "risultato")
-            or (
-                c["tipo"] == attuale["tipo"]
-                and c.get("paralimpico") and not attuale.get("paralimpico")
-            )
-        )
-        if migliore:
-            per_sottocat[sc] = c
+        per_sottocat.setdefault(c["sottocategoria"], []).append(c)
+    for lista in per_sottocat.values():
+        lista.sort(key=preferenza, reverse=True)
 
-    ordinati = sorted(
-        per_sottocat.items(),
-        key=lambda kv: giorni_da_ultima_copertura(kv[0]),
-        reverse=True,
-    )
+    ordinate = sorted(per_sottocat, key=giorni_da_ultima_copertura, reverse=True)
 
-    scelti = [c for _, c in ordinati[:n]]
+    scelti, per_testata = [], {}
+    for sc in ordinate:
+        if len(scelti) >= n:
+            break
+        for c in per_sottocat[sc]:
+            t = testata(c["fonte"])
+            if per_testata.get(t, 0) < MAX_PER_TESTATA:
+                scelti.append(c)
+                per_testata[t] = per_testata.get(t, 0) + 1
+                break
     for c in scelti:
         copertura[c["sottocategoria"]] = oggi.strftime("%Y-%m-%d")
     return scelti
@@ -297,15 +378,15 @@ def main():
               "esistente resta invariata (non sovrascrivo con un file vuoto).")
         return
 
-    # Deduplica per titolo: la stessa notizia può emergere da più fonti RSS
+    # Deduplica per titolo e per indirizzo: la stessa notizia può emergere da più fonti RSS
     # (es. sia dal feed generalista "Sport Vari" sia da quello monotematico).
     visti = set()
     candidati_unici = []
     for c in candidati:
-        chiave = c["titolo"].strip().lower()
-        if chiave in visti:
+        chiavi = (c["titolo"].strip().lower(), c["link"].strip())
+        if chiavi[0] in visti or chiavi[1] in visti:
             continue
-        visti.add(chiave)
+        visti.update(chiavi)
         candidati_unici.append(c)
     if len(candidati_unici) < len(candidati):
         print(f"  (rimossi {len(candidati) - len(candidati_unici)} duplicati per titolo)")
