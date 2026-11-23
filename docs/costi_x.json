@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-23",
+      "slug": "morte-de-gennaro-lettere-hard-disk-funerali-stato",
+      "categoria": "Politica Nazionale",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-23",
       "slug": "cop31-fallisce-antalya-nessun-accordo-fossili",
       "categoria": "Politica Internazionale",
       "evidenza": true,
