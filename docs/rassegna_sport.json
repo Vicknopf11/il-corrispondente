@@ -1,12 +1,12 @@
 {
-  "generato": "2026-11-23T13:31:45.874467+00:00",
+  "generato": "2026-11-23T18:31:25.528828+00:00",
   "item": [
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
-      "titolo": "Pugilato: Fury rivela, \"mi diagnosticarono la schizofrenia dopo il titolo mondiale\"",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/23/pugilato-fury-rivela-mi-diagnosticarono-la-schizofrenia-dopo-il-titolo-mondiale_7485ae79-a75d-4c4d-8b4f-b87d53063b9b.html",
-      "fonte": "ANSA Sport",
+      "titolo": "Scherma, Italia protagonista al congresso Fie: premiata con 5 Coppe del Mondo e il Grand Prix delle Nazioni",
+      "link": "https://www.gazzetta.it/Sport-Vari/23-11-2026/scherma-italia-al-congresso-fie-premiata-con-5-coppe-del-mondo-e-il-grand-prix-nazioni.shtml",
+      "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-11-23"
     },
     {
@@ -20,23 +20,23 @@
     {
       "sottocategoria": "Racchette e precisione",
       "tipo": "notizia",
-      "titolo": "Sinner, parla l'esperto: \"Che cos'è la sindrome della bandelletta e perché si sceglie l'operazione\"",
-      "link": "https://www.gazzetta.it/Tennis/23-11-2026/sinner-infortunio-sindrome-bandelletta-perche-operazione.shtml",
+      "titolo": "Coppa Davis, Musetti si allena con... il suo prossimo avversario? Il VIDEO da Bologna",
+      "link": "https://video.gazzetta.it/video-coppa-davis-musetti-si-allena-con-il-suo-prossimo-avversario-il-video-da-bologna/4c4abadc-9856-45aa-aded-be43776e6xlk",
       "fonte": "Gazzetta — Tennis",
       "data_evento": "2026-11-23"
     },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
-      "titolo": "SailGP Dubai: trionfo Black Foils. Red Bull Italy è settima",
-      "link": "https://www.gazzetta.it/vela/23-11-2026/sailgp-dubai-trionfo-black-foils-red-bull-italy-e-settima.shtml",
-      "fonte": "Gazzetta — Vela e Nautica",
+      "titolo": "Pallanuoto, i migliori italiani dell’ottava giornata di A1. Occhione trascina il Savona, Condemi brilla nel Recco",
+      "link": "https://www.oasport.it/2026/11/pallanuoto-i-migliori-italiani-dellottava-giornata-di-a1-occhione-trascina-il-savona-condemi-brilla-nel-recco/",
+      "fonte": "OA Sport — Pallanuoto",
       "data_evento": "2026-11-23"
     },
     {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
-      "titolo": "Basket: Nba; Golden State senza Curry batte Boston",
+      "titolo": "Basket: Nba, Golden State senza Curry batte Boston",
       "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/23/basket-nba-golden-state-senza-curry-batte-boston_d5bd986b-fecd-4b4a-97f2-88bdda53b4bc.html",
       "fonte": "ANSA Sport",
       "data_evento": "2026-11-23"
@@ -44,10 +44,10 @@
     {
       "sottocategoria": "Atletica",
       "tipo": "notizia",
-      "titolo": "LIVE Atletica, Cross Atapuerca 2026 in DIRETTA: Nadia Battocletti si deve accontentare del quinto posto. Si impone Cherop",
-      "link": "https://www.oasport.it/2026/11/live-atletica-cross-atapuerca-2026-in-diretta-nadia-battocletti-si-scalda-verso-gli-europei/",
+      "titolo": "Lorenzo Simonelli verso il rientro: “Ripartirò dai 100 metri. Provavo dolore ad ogni allenamento, a casa zoppicavo”",
+      "link": "https://www.oasport.it/2026/11/lorenzo-simonelli-verso-il-rientro-ripartiro-dai-100-metri-provavo-dolore-ad-ogni-allenamento-a-casa-zoppicavo/",
       "fonte": "OA Sport — Atletica",
-      "data_evento": "2026-11-22"
+      "data_evento": "2026-11-23"
     },
     {
       "sottocategoria": "Mente e nicchia",
@@ -60,9 +60,9 @@
     {
       "sottocategoria": "Invernali",
       "tipo": "notizia",
-      "titolo": "Sci di fondo, i convocati dell’Italia per Ruka. Inizia l’era del post-Pellegrino",
-      "link": "https://www.oasport.it/2026/11/sci-di-fondo-i-convocati-dellitalia-per-ruka-inizia-lera-del-post-pellegrino/",
-      "fonte": "OA Sport — Sport invernali",
+      "titolo": "Sul ghiaccio senza barriere con Francesca Lollobrigida",
+      "link": "https://www.corrieredellosport.it/news/altri-sport/pattinaggio/2026/11/23-152786493/sul_ghiaccio_senza_barriere_con_francesca_lollobrigida/",
+      "fonte": "Corriere dello Sport — Altri sport",
       "data_evento": "2026-11-23"
     }
   ]
