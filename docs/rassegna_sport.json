@@ -1,37 +1,21 @@
 {
-  "generato": "2026-11-23T12:31:09.577989+00:00",
+  "generato": "2026-11-23T13:24:12.978064+00:00",
   "item": [
     {
-      "sottocategoria": "Racchette e precisione",
+      "sottocategoria": "Equitazione e ippica",
       "tipo": "notizia",
-      "titolo": "Sinner, parla l'esperto: \"Che cos'è la sindrome della bandelletta e perché si sceglie l'operazione\"",
-      "link": "https://www.gazzetta.it/Tennis/23-11-2026/sinner-infortunio-sindrome-bandelletta-perche-operazione.shtml",
-      "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-11-23"
-    },
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Pétanque, Mondiali Senior 2026: una giovane Italia a caccia di medaglie in Thailandia",
-      "link": "https://www.gazzetta.it/bocce/19-11-2026/bocce-petanque-mondiali-senior-2026-italia-a-caccia-di-medaglie-in-thailandia.shtml",
-      "fonte": "Gazzetta — Bocce",
-      "data_evento": "2026-11-19"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Slalom Gurgl, doppietta norvegese: vince Haugen, Solberg secondo. Lo svizzero Nef è terzo",
-      "link": "https://www.gazzetta.it/Sport-Invernali/22-11-2026/slalom-di-gurgl-risultati-braathen-vinatzer.shtml",
-      "fonte": "Gazzetta — Sport Invernali",
+      "titolo": "Equitazione: Global Champions Playoff, Verona incorona gli Istanbul Warriors",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/22/equitazione-global-champions-playoff-verona-incorona-gli-istanbul-warriors_5bc5119a-3365-43ed-b67a-9522b8a7b0d6.html",
+      "fonte": "ANSA Sport",
       "data_evento": "2026-11-22"
     },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
-      "titolo": "Russo torna sul ring a 44 anni, ma l'esordio tra i pro dura solo tre round: poi il ko tecnico",
-      "link": "https://www.gazzetta.it/Sport-Vari/21-11-2026/clemente-russo-torna-boxe-incontro-elmaghraby-round.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-11-21"
+      "titolo": "Tennis: a BolognaFiere squadre pronte per la Davis, il torneo nella nuova Arena",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/23/tennis-a-bolognafiere-squadre-pronte-per-la-davis-il-torneo-nella-nuova-arena_d1658124-ef61-410b-b5f9-671df43026d0.html",
+      "fonte": "ANSA Sport",
+      "data_evento": "2026-11-23"
     },
     {
       "sottocategoria": "Calcio femminile",
@@ -40,6 +24,46 @@
       "link": "https://www.gazzetta.it/Sport-Vari/21-11-2026/kim-jong-un-e-lo-sport-in-corea-del-nord-tra-propaganda-e-successi-mondiali.shtml",
       "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-11-21"
+    },
+    {
+      "sottocategoria": "Atletica",
+      "tipo": "notizia",
+      "titolo": "Ad Andy Diaz il \"Fiore d'Inverno\". Premio Agnolin all'arbitro Zufferli, sul palco il milanista Musah",
+      "link": "https://www.gazzetta.it/Atletica/23-11-2026/a-castelfranco-veneto-premiati-il-triplista-diaz-la-ciclista-ballan-e-l-arbitro-zufferli.shtml",
+      "fonte": "Gazzetta — Atletica",
+      "data_evento": "2026-11-23"
+    },
+    {
+      "sottocategoria": "Acqua",
+      "tipo": "notizia",
+      "titolo": "SailGP Dubai: trionfo Black Foils. Red Bull Italy è settima",
+      "link": "https://www.gazzetta.it/vela/23-11-2026/sailgp-dubai-trionfo-black-foils-red-bull-italy-e-settima.shtml",
+      "fonte": "Gazzetta — Vela e Nautica",
+      "data_evento": "2026-11-23"
+    },
+    {
+      "sottocategoria": "Squadra",
+      "tipo": "notizia",
+      "titolo": "Basket: Nba; Golden State senza Curry batte Boston",
+      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/23/basket-nba-golden-state-senza-curry-batte-boston_d5bd986b-fecd-4b4a-97f2-88bdda53b4bc.html",
+      "fonte": "ANSA Sport",
+      "data_evento": "2026-11-23"
+    },
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Scacchi: Gukesh, Sindarov, a voi la parola! L’indiano difende il titolo di Campione del Mondo dall’assalto dell’uzbeko",
+      "link": "https://www.oasport.it/2026/11/scacchi-gukesh-sindarov-a-voi-la-parola-lindiano-difende-il-titolo-di-campione-del-mondo-dallassalto-delluzbeko/",
+      "fonte": "OA Sport — Scacchi",
+      "data_evento": "2026-11-23"
+    },
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Calendario sport invernali (23-29 novembre): orari, tv, programma, streaming. Si entra nel vivo",
+      "link": "https://www.oasport.it/2026/11/calendario-sport-invernali-23-29-novembre-orari-tv-programma-streaming-si-entra-nel-vivo/",
+      "fonte": "OA Sport — Sport invernali",
+      "data_evento": "2026-11-23"
     }
   ]
 }
