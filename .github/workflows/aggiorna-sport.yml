@@ -29,10 +29,17 @@ jobs:
           THESPORTSDB_API_KEY: ${{ secrets.THESPORTSDB_API_KEY }}
         run: python raccogli_sport.py
 
+      # Aggiunto il 23/11/2026: la home mostra la rassegna, quindi la si
+      # ricostruisce subito invece di aspettare la generazione del mattino.
+      # Lo script non blocca mai la run: se fallisce, resta la home di prima.
+      - name: Ricostruisci la prima pagina con la rassegna aggiornata
+        run: python costruisci_prima_pagina.py
+
       - name: Commit e push
         run: |
           git config user.name "Il Corrispondente Bot"
           git config user.email "bot@il-corrispondente"
-          git add docs/rassegna_sport.json docs/copertura_sport.json
+          git add docs/rassegna_sport.json docs/copertura_sport.json docs/index.html
+          if [ -d docs/edizioni ]; then git add docs/edizioni; fi
           git diff --staged --quiet || git commit -m "Rassegna sportiva: aggiornamento $(date +'%Y-%m-%d %H:%M')"
           git push

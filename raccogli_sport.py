@@ -45,8 +45,10 @@ FRESCHEZZA_MAX_GIORNI = 4  # scarta voci RSS più vecchie di così — protegge
 # pianificata in roadmap) — assegnazione SEMPRE per keyword via codice, mai
 # a testo libero dal modello: stesso principio già usato per "redattore". ──
 SOTTOCATEGORIE_KEYWORD = {
-    "Calcio femminile": ["calcio femminile", "serie a femminile", "nazionale femminile",
-                          "women's football", "femminile"],
+    # Ristretto il 23/11/2026: "femminile" da solo catturava anche volley,
+    # basket o qualsiasi nazionale femminile.
+    "Calcio femminile": ["calcio femminile", "serie a femminile", "women's football",
+                          "nazionale di calcio femminile"],
     "Calcio": ["calcio", "serie a", "serie b", "champions league", "coppa italia",
                "scudetto", "europa league"],
     "Atletica": ["atletica", "maratona", "100 metri", "salto in alto", "getto del peso",
@@ -66,7 +68,7 @@ SOTTOCATEGORIE_KEYWORD = {
     "Racchette e precisione": ["tennis", "atp", "wta", "slam", "padel", "badminton",
                                 "squash", "tennistavolo", "golf", "tiro a segno",
                                 "tiro con l'arco"],
-    "Invernali": ["sci", "pattinaggio", "hockey ghiaccio", "curling", "biathlon",
+    "Invernali": ["sci", "sciatore", "sciatrice", "sciatori", "sciatrici", "pattinaggio", "hockey ghiaccio", "curling", "biathlon",
                   "snowboard", "bob", "slittino"],
     "Mente e nicchia": ["scacchi", "dama", "bridge", "bocce", "biliardo"],
     # Aggiunta il 23/11/2026 insieme al feed "Altri sport" del Corriere dello Sport.
@@ -216,9 +218,19 @@ def classifica_sottocategoria(testo: str):
     for sottocat, keywords in SOTTOCATEGORIE_KEYWORD.items():
         if sottocat in SOTTOCATEGORIE_ESCLUSE:
             continue
-        if any(k in t for k in keywords):
+        # Parole intere, non pezzi di parola (corretto il 23/11/2026): prima
+        # "mma" scattava dentro "programma" e "sci" dentro "scientifico".
+        if any(re.search(r"(?<!\w)" + re.escape(k) + r"(?!\w)", t) for k in keywords):
             return sottocat
     return None
+
+
+def e_programma_tv(titolo: str, categorie: str) -> bool:
+    """Calendari e guide TV (es. OA Sport, categoria "Sport in tv"): utili ai
+    lettori di quel sito, non sono notizie per la rassegna."""
+    if "sport in tv" in categorie.lower():
+        return True
+    return bool(re.search(r"\borari\b.*\btv\b", titolo.lower()))
 
 
 def estrai_da_rss(nome_fonte: str, url: str, sottocategoria_fissa=None) -> list:
@@ -247,6 +259,8 @@ def estrai_da_rss(nome_fonte: str, url: str, sottocategoria_fissa=None) -> list:
             (c.text or "").strip() for c in item.findall("category")
         )
         if not titolo or not link:
+            continue
+        if e_programma_tv(titolo, categorie_tag):
             continue
 
         # Controllo di freschezza: se il feed dichiara una data e questa è
