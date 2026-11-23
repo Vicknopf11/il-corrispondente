@@ -1,6 +1,30 @@
 {
-  "generato": "2026-11-23T06:31:04.667852+00:00",
+  "generato": "2026-11-23T12:31:09.577989+00:00",
   "item": [
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Sinner, parla l'esperto: \"Che cos'è la sindrome della bandelletta e perché si sceglie l'operazione\"",
+      "link": "https://www.gazzetta.it/Tennis/23-11-2026/sinner-infortunio-sindrome-bandelletta-perche-operazione.shtml",
+      "fonte": "Gazzetta — Tennis",
+      "data_evento": "2026-11-23"
+    },
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Pétanque, Mondiali Senior 2026: una giovane Italia a caccia di medaglie in Thailandia",
+      "link": "https://www.gazzetta.it/bocce/19-11-2026/bocce-petanque-mondiali-senior-2026-italia-a-caccia-di-medaglie-in-thailandia.shtml",
+      "fonte": "Gazzetta — Bocce",
+      "data_evento": "2026-11-19"
+    },
+    {
+      "sottocategoria": "Invernali",
+      "tipo": "notizia",
+      "titolo": "Slalom Gurgl, doppietta norvegese: vince Haugen, Solberg secondo. Lo svizzero Nef è terzo",
+      "link": "https://www.gazzetta.it/Sport-Invernali/22-11-2026/slalom-di-gurgl-risultati-braathen-vinatzer.shtml",
+      "fonte": "Gazzetta — Sport Invernali",
+      "data_evento": "2026-11-22"
+    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
@@ -15,30 +39,6 @@
       "titolo": "La fabbrica dei campioni di Kim Jong-un: lo sport al servizio del regime in Corea del Nord",
       "link": "https://www.gazzetta.it/Sport-Vari/21-11-2026/kim-jong-un-e-lo-sport-in-corea-del-nord-tra-propaganda-e-successi-mondiali.shtml",
       "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-11-21"
-    },
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "Il povero Zverev e quei numeri 1 con l'asterisco",
-      "link": "https://www.gazzetta.it/Tennis/ATP/21-11-2026/il-povero-zverev-e-quei-numeri-1-con-l-asterisco.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-11-21"
-    },
-    {
-      "sottocategoria": "Acqua",
-      "tipo": "notizia",
-      "titolo": "Coppa America a Napoli, il calendario: via il 22 maggio, dal 10 luglio le finali con Team New Zealand",
-      "link": "https://www.gazzetta.it/vela/19-11-2026/coppa-america-a-napoli-il-calendario-della-manifestazione.shtml",
-      "fonte": "Gazzetta — Vela e Nautica",
-      "data_evento": "2026-11-19"
-    },
-    {
-      "sottocategoria": "Squadra",
-      "tipo": "notizia",
-      "titolo": "La Francia doma i Pumas: la finale del Championship è Bleus-Springboks. Ecco le sfide di Twickenham",
-      "link": "https://www.gazzetta.it/Rugby/21-11-2026/rugby-francia-argentina-45-17-galles-australia-26-29.shtml",
-      "fonte": "Gazzetta — Rugby",
       "data_evento": "2026-11-21"
     }
   ]
