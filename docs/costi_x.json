@@ -1,6 +1,14 @@
 {
   "pubblicazioni": [
     {
+      "data": "2026-11-24",
+      "slug": "ucraina-attacca-navi-russe-libia-mediterraneo",
+      "categoria": "Politica Internazionale",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
       "data": "2026-11-23",
       "slug": "la7-docuserie-p2-ombra-sulle-stragi-didi-gnocchi",
       "categoria": "Cultura",
