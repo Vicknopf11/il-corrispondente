@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-24",
+      "slug": "se-domani-non-torno-film-cecchettin-cinema",
+      "categoria": "Cultura",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-24",
       "slug": "cnr-adolescenti-social-media-4-ore-rischio",
       "categoria": "Wellness",
       "evidenza": false,
