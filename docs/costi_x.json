@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-24",
+      "slug": "de-gennaro-lettere-hard-disk-due-inchieste",
+      "categoria": "Politica Nazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
+      "data": "2026-11-24",
       "slug": "ucraina-attacca-navi-russe-libia-mediterraneo",
       "categoria": "Politica Internazionale",
       "evidenza": false,
