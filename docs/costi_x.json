@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-24",
+      "slug": "bepicolombo-orbita-mercurio-esa-jaxa",
+      "categoria": "Scienza",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-24",
       "slug": "sinner-operazione-ginocchio-finlandia-stop",
       "categoria": "Cronaca",
       "evidenza": false,
