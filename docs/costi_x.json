@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-24",
+      "slug": "opas-intesa-mps-adesioni-34-miliardi",
+      "categoria": "Economia",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-24",
       "slug": "de-gennaro-lettere-hard-disk-due-inchieste",
       "categoria": "Politica Nazionale",
       "evidenza": true,
