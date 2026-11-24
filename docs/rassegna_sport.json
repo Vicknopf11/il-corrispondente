@@ -1,13 +1,13 @@
 {
-  "generato": "2026-11-24T12:31:16.509842+00:00",
+  "generato": "2026-11-24T18:31:18.310018+00:00",
   "item": [
     {
-      "sottocategoria": "Equitazione e ippica",
+      "sottocategoria": "Acqua",
       "tipo": "notizia",
-      "titolo": "GC Playoff Verona, Supercoppa a squadre agli Istanbul Warriors",
-      "link": "https://www.corrieredellosport.it/news/altri-sport/equitazione/2026/11/22-152765983/gc_playoff_verona_supercoppa_a_squadre_agli_istanbul_warriors/",
-      "fonte": "Corriere dello Sport — Altri sport",
-      "data_evento": "2026-11-22"
+      "titolo": "Mondiali di surf paralimpico: l’Italia conquista 4 medaglie",
+      "link": "https://www.gazzetta.it/Sport-Vari/24-11-2026/mondiali-di-surf-paralimpico-l-italia-fa-il-pieno-di-medaglie.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-11-24"
     },
     {
       "sottocategoria": "Combattimento",
@@ -28,42 +28,42 @@
     {
       "sottocategoria": "Racchette e precisione",
       "tipo": "notizia",
-      "titolo": "Sinner, operazione al ginocchio riuscita: l'intervento scelto e i tempi di recupero",
-      "link": "https://www.gazzetta.it/Tennis/ATP/24-11-2026/sinner-operazione-ginocchio-riuscita-intervento-condizioni-tempi-recupero.shtml",
+      "titolo": "Binaghi: \"Jannik, fai con calma. Tutto il tennis italiano è al tuo fianco\"",
+      "link": "https://www.gazzetta.it/Tennis/ATP/24-11-2026/binaghi-messaggio-a-sinner.shtml",
       "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-11-24"
-    },
-    {
-      "sottocategoria": "Acqua",
-      "tipo": "notizia",
-      "titolo": "Lewis Pugh nuota nello Stretto di Hormuz, 15km tra droni e petroliere in fiamme",
-      "link": "https://video.gazzetta.it/altri-mondi/video-lewis-pugh-nuota-nello-stretto-di-hormuz-15km-tra-droni-e-petroliere-in-fiamme/c9d5228d-e351-4b5b-b6de-a2e8a7e01xlk",
-      "fonte": "Gazzetta — Nuoto e Pallanuoto",
       "data_evento": "2026-11-24"
     },
     {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
-      "titolo": "Basket: Nba, i Portland Trail Blazers passano a Philadelphia",
-      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/24/basket-nba-i-portland-trail-blazers-passano-a-philadelphia_dcc27e79-5dda-42d2-b5f4-ae042e04f01e.html",
+      "titolo": "Basket: Belinelli, incontrare Jordan la più grande emozione della mia vita",
+      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/24/basket-belinelli-incontrare-jordan-la-piu-grande-emozione-della-mia-vita_c41b4f5a-fa3d-4952-8c2f-8e5f016b6675.html",
       "fonte": "ANSA Sport",
       "data_evento": "2026-11-24"
     },
     {
       "sottocategoria": "Atletica",
       "tipo": "notizia",
-      "titolo": "Lorenzo Simonelli verso il rientro: “Ripartirò dai 100 metri. Provavo dolore ad ogni allenamento, a casa zoppicavo”",
-      "link": "https://www.oasport.it/2026/11/lorenzo-simonelli-verso-il-rientro-ripartiro-dai-100-metri-provavo-dolore-ad-ogni-allenamento-a-casa-zoppicavo/",
+      "titolo": "Idea Pieroni: “Non vedevo più una via d’uscita. Cambierò rincorsa, obiettivo Europei”",
+      "link": "https://www.oasport.it/2026/11/idea-pieroni-non-vedevo-piu-una-via-duscita-cambiero-rincorsa-obiettivo-europei/",
       "fonte": "OA Sport — Atletica",
-      "data_evento": "2026-11-23"
+      "data_evento": "2026-11-24"
     },
     {
-      "sottocategoria": "Mente e nicchia",
+      "sottocategoria": "Invernali",
       "tipo": "notizia",
-      "titolo": "Scacchi: Javokhir Sindarov può superare Magnus Carlsen al numero 1 del mondo? Gli scenari",
-      "link": "https://www.oasport.it/2026/11/scacchi-javokhir-sindarov-puo-superare-magnus-carlsen-al-numero-1-del-mondo-gli-scenari/",
-      "fonte": "OA Sport — Scacchi",
+      "titolo": "L'ennesima rinascita della Brignone dopo l'operazione: \"Sono tornata a scivolare e sono contenta\"",
+      "link": "https://www.corrieredellosport.it/news/altri-sport/sci/2026/11/24-152803118/l_ennesima_rinascita_della_brignone_dopo_l_operazione_sono_tornata_a_scivolare_e_sono_contenta/",
+      "fonte": "Corriere dello Sport — Altri sport",
       "data_evento": "2026-11-24"
+    },
+    {
+      "sottocategoria": "Equitazione e ippica",
+      "tipo": "notizia",
+      "titolo": "GC Playoff Verona, Supercoppa a squadre agli Istanbul Warriors",
+      "link": "https://www.corrieredellosport.it/news/altri-sport/equitazione/2026/11/22-152765983/gc_playoff_verona_supercoppa_a_squadre_agli_istanbul_warriors/",
+      "fonte": "Corriere dello Sport — Altri sport",
+      "data_evento": "2026-11-22"
     }
   ]
 }
