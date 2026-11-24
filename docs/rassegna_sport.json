@@ -1,6 +1,14 @@
 {
-  "generato": "2026-11-24T06:31:30.449418+00:00",
+  "generato": "2026-11-24T12:31:16.509842+00:00",
   "item": [
+    {
+      "sottocategoria": "Equitazione e ippica",
+      "tipo": "notizia",
+      "titolo": "GC Playoff Verona, Supercoppa a squadre agli Istanbul Warriors",
+      "link": "https://www.corrieredellosport.it/news/altri-sport/equitazione/2026/11/22-152765983/gc_playoff_verona_supercoppa_a_squadre_agli_istanbul_warriors/",
+      "fonte": "Corriere dello Sport — Altri sport",
+      "data_evento": "2026-11-22"
+    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
@@ -12,34 +20,34 @@
     {
       "sottocategoria": "Calcio femminile",
       "tipo": "notizia",
-      "titolo": "La fabbrica dei campioni di Kim Jong-un: lo sport al servizio del regime in Corea del Nord",
-      "link": "https://www.gazzetta.it/Sport-Vari/21-11-2026/kim-jong-un-e-lo-sport-in-corea-del-nord-tra-propaganda-e-successi-mondiali.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-11-21"
+      "titolo": "Italia-Finlandia e la Supercoppa Women, Taranto capitale del calcio femminile",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/24/italia-finlandia-e-la-supercoppa-women-taranto-capitale-del-calcio-femminile_243318d0-f709-46ab-b7e1-d68cfbcb57c9.html",
+      "fonte": "ANSA Sport",
+      "data_evento": "2026-11-24"
     },
     {
       "sottocategoria": "Racchette e precisione",
       "tipo": "notizia",
-      "titolo": "Quando torna in campo Sinner? L'ipotesi sul rientro: nel mirino c'è...",
-      "link": "https://www.gazzetta.it/Tennis/ATP/24-11-2026/sinner-quando-torna-in-campo-montecarlo-possibile-punto-di-ripartenza.shtml",
+      "titolo": "Sinner, operazione al ginocchio riuscita: l'intervento scelto e i tempi di recupero",
+      "link": "https://www.gazzetta.it/Tennis/ATP/24-11-2026/sinner-operazione-ginocchio-riuscita-intervento-condizioni-tempi-recupero.shtml",
       "fonte": "Gazzetta — Tennis",
       "data_evento": "2026-11-24"
     },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
-      "titolo": "Pallanuoto femminile, le migliori italiane dell’ottava giornata di A1. Bettini faro dell’Orizzonte. Brillano Bovo e Minuto",
-      "link": "https://www.oasport.it/2026/11/pallanuoto-femminile-le-migliori-italiane-dellottava-giornata-di-a1-bettini-faro-dellorizzonte-brillano-bovo-e-minuto/",
-      "fonte": "OA Sport — Pallanuoto",
-      "data_evento": "2026-11-23"
+      "titolo": "Lewis Pugh nuota nello Stretto di Hormuz, 15km tra droni e petroliere in fiamme",
+      "link": "https://video.gazzetta.it/altri-mondi/video-lewis-pugh-nuota-nello-stretto-di-hormuz-15km-tra-droni-e-petroliere-in-fiamme/c9d5228d-e351-4b5b-b6de-a2e8a7e01xlk",
+      "fonte": "Gazzetta — Nuoto e Pallanuoto",
+      "data_evento": "2026-11-24"
     },
     {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
-      "titolo": "Basket: Nba, Golden State senza Curry batte Boston",
-      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/23/basket-nba-golden-state-senza-curry-batte-boston_d5bd986b-fecd-4b4a-97f2-88bdda53b4bc.html",
+      "titolo": "Basket: Nba, i Portland Trail Blazers passano a Philadelphia",
+      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/24/basket-nba-i-portland-trail-blazers-passano-a-philadelphia_dcc27e79-5dda-42d2-b5f4-ae042e04f01e.html",
       "fonte": "ANSA Sport",
-      "data_evento": "2026-11-23"
+      "data_evento": "2026-11-24"
     },
     {
       "sottocategoria": "Atletica",
@@ -52,18 +60,10 @@
     {
       "sottocategoria": "Mente e nicchia",
       "tipo": "notizia",
-      "titolo": "LIVE Gukesh-Sindarov, Mondiale scacchi 2026 in DIRETTA: due giovani si giocano il titolo iridato",
-      "link": "https://www.oasport.it/2026/11/live-gukesh-sindarov-mondiale-scacchi-2026-in-diretta-inizia-la-lunga-caccia-al-trono/",
+      "titolo": "Scacchi: Javokhir Sindarov può superare Magnus Carlsen al numero 1 del mondo? Gli scenari",
+      "link": "https://www.oasport.it/2026/11/scacchi-javokhir-sindarov-puo-superare-magnus-carlsen-al-numero-1-del-mondo-gli-scenari/",
       "fonte": "OA Sport — Scacchi",
       "data_evento": "2026-11-24"
-    },
-    {
-      "sottocategoria": "Invernali",
-      "tipo": "notizia",
-      "titolo": "Sul ghiaccio senza barriere con Francesca Lollobrigida",
-      "link": "https://www.corrieredellosport.it/news/altri-sport/pattinaggio/2026/11/23-152786493/sul_ghiaccio_senza_barriere_con_francesca_lollobrigida/",
-      "fonte": "Corriere dello Sport — Altri sport",
-      "data_evento": "2026-11-23"
     }
   ]
 }
