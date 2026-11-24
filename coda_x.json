@@ -1,77 +1,77 @@
 {
-  "data": "2026-11-23",
+  "data": "2026-11-24",
   "tweet": [
     {
-      "testo": "COP31 fallita. Il vertice più lungo di sempre non ha partorito nulla. Stupore collettivo. Ma qualcuno — le compagnie petrolifere, i petrostati, i fondi legati ai fossili — stasera festeggia. #COP31 #clima",
-      "url": "https://corrispondente.filoclastos.it/2026/11/23/cop31-fallisce-antalya-nessun-accordo-fossili/",
-      "slug": "cop31-fallisce-antalya-nessun-accordo-fossili",
+      "testo": "Kiev bombarda navi russe a Bengasi e tutti parlano di «escalation». Nessuno parla di cosa ci facessero quelle navi in Libia. Risposta: lo stesso che ci facciamo noi da anni. #Ucraina #Libia",
+      "url": "https://corrispondente.filoclastos.it/2026/11/24/ucraina-attacca-navi-russe-libia-mediterraneo/",
+      "slug": "ucraina-attacca-navi-russe-libia-mediterraneo",
       "categoria": "Politica Internazionale",
-      "evidenza": true,
-      "pubblicato": true
-    },
-    {
-      "testo": "De Gennaro muore con tre lettere in mano — una per i familiari, una per il procuratore, una «per chi vorrà pubblicarla». Trent'anni di verità sulle stragi di mafia che non hanno trovato un'aula di tribunale. Trovano una poltrona in Maremma.",
-      "url": "https://corrispondente.filoclastos.it/2026/11/23/morte-de-gennaro-lettere-hard-disk-funerali-stato/",
-      "slug": "morte-de-gennaro-lettere-hard-disk-funerali-stato",
-      "categoria": "Politica Nazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Oggi le banche italiane staccano cedole per 9,7 miliardi. I risparmiatori: «Meno male, così recupero sul conto corrente». Le banche: «Prego». Il Nasdaq: «Noi recuperiamo dalla bolla AI». I chip Nvidia: «Non commentiamo.»",
-      "url": "https://corrispondente.filoclastos.it/2026/11/23/piazza-affari-stacco-cedole-banche-rimbalzo-sell-off-ai/",
-      "slug": "piazza-affari-stacco-cedole-banche-rimbalzo-sell-off-ai",
+      "testo": "De Gennaro lascia un hard disk sul tavolo — quello che i PM cercavano — come a dire: eccolo, non c'è nulla. Forse. Oppure c'è tutto. Due inchieste aperte, nessuna risposta. L'Italia è sempre stata così. #DeGennaro #ViadAmelio",
+      "url": "https://corrispondente.filoclastos.it/2026/11/24/de-gennaro-lettere-hard-disk-due-inchieste/",
+      "slug": "de-gennaro-lettere-hard-disk-due-inchieste",
+      "categoria": "Politica Nazionale",
+      "evidenza": true,
+      "pubblicato": false
+    },
+    {
+      "testo": "Oggi parte l'OPAS di Intesa su MPS da 34,5 miliardi. La banca più antica del mondo — 554 anni — passa sotto Ca' de Sass. Il MEF aderirà. Lo stesso MEF che l'ha salvata con i soldi pubblici. Cerchio chiuso. #MPS #Intesa",
+      "url": "https://corrispondente.filoclastos.it/2026/11/24/opas-intesa-mps-adesioni-34-miliardi/",
+      "slug": "opas-intesa-mps-adesioni-34-miliardi",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Alcaraz batte Zverev 6-2 7-6 e vince le ATP Finals per la prima volta. Career Super Slam completato. Montepremi: oltre 5 milioni. Sinner guarda da casa con il ginocchio in dubbio. La vita è bella per qualcuno.",
-      "url": "https://corrispondente.filoclastos.it/2026/11/23/alcaraz-vince-atp-finals-torino-2026-career-super-slam/",
-      "slug": "alcaraz-vince-atp-finals-torino-2026-career-super-slam",
+      "testo": "A Ginevra oggi inizia il Mondiale di scacchi più giovane della storia: Gukesh (India) contro Sindarov (Uzbekistan), entrambi 20 anni. 14 partite, 2,5 milioni di dollari in palio, nessuna diretta TV. Il calcio può stare tranquillo. #Scacchi #FIDE",
+      "url": "https://corrispondente.filoclastos.it/2026/11/24/mondiale-scacchi-2026-gukesh-sindarov-ginevra/",
+      "slug": "mondiale-scacchi-2026-gukesh-sindarov-ginevra",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Dymer, regione di Kiev: 11 morti, un bambino salvato dopo 14 ore sotto le macerie. La notizia dura un ciclo di news. Poi si torna a parlare di emendamenti alla manovra. La distanza geografica è un ottimo anestetico.",
-      "url": "https://corrispondente.filoclastos.it/2026/11/23/bombardamento-russo-dymer-kiev-morti-novembre-2026/",
-      "slug": "bombardamento-russo-dymer-kiev-morti-novembre-2026",
+      "testo": "Sinner si opera oggi a Turku da Lempainen per la bandelletta ileotibiale. Stop stimato 3-4 mesi, Australian Open saltati. La vera notizia: il numero 1 al mondo aveva giocato per mesi con questo problema. Nessuno l'ha fermato prima. #Sinner #Tennis",
+      "url": "https://corrispondente.filoclastos.it/2026/11/24/sinner-operazione-ginocchio-finlandia-stop/",
+      "slug": "sinner-operazione-ginocchio-finlandia-stop",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Un matematico di Anthropic dice che Claude ha dimostrato l'ipotesi di Riemann. La notizia arriva pochi giorni dopo l'IPO da 81 miliardi di Anthropic. Coincidenze belle, coincidenze.",
-      "url": "https://corrispondente.filoclastos.it/2026/11/23/anthropic-claude-ipotesi-riemann-dimostrazione-2026/",
-      "slug": "anthropic-claude-ipotesi-riemann-dimostrazione-2026",
+      "testo": "BepiColombo è entrata in orbita attorno a Mercurio dopo 8 anni e 10,2 miliardi di km. Missione ESA-JAXA, budget ~1,65 miliardi di euro. Seconda sonda nella storia ad orbitare Mercurio. Prima che qualcuno dica che «i soldi servivano ad altro». #BepiColombo #Spazio",
+      "url": "https://corrispondente.filoclastos.it/2026/11/24/bepicolombo-orbita-mercurio-esa-jaxa/",
+      "slug": "bepicolombo-orbita-mercurio-esa-jaxa",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Anthropic: IPO da 81 miliardi, valutazione da 1.500 miliardi. Claude dimostrerebbe l'ipotesi di Riemann. I mercati crollano del 10% sul Nasdaq. Ma oggi rimbalzano. L'eufemia di potere si chiama «correzione tecnica».",
-      "url": "https://corrispondente.filoclastos.it/2026/11/23/anthropic-ipo-nasdaq-81-miliardi-bolla-ai-2026/",
-      "slug": "anthropic-ipo-nasdaq-81-miliardi-bolla-ai-2026",
+      "testo": "Amazon paga 7,5 miliardi per Decart, startup israeliana di 3 anni. Obiettivo: far girare l'AI sui chip Trainium invece che su quelli Nvidia. Nel frattempo Nvidia è tornata al +30% con il CEO salvato da Trump. Tutto torna. #Amazon #Nvidia #AI",
+      "url": "https://corrispondente.filoclastos.it/2026/11/24/amazon-acquisisce-decart-ai-75-miliardi/",
+      "slug": "amazon-acquisisce-decart-ai-75-miliardi",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Uno su tre under-35 compra integratori anti-invecchiamento. L'indagine è promossa da SirtLife, che vende integratori anti-invecchiamento. Una coincidenza meravigliosa, scientificamente parlando.",
-      "url": "https://corrispondente.filoclastos.it/2026/11/23/integratori-longevita-under-35-industria-benessere-2026/",
-      "slug": "integratori-longevita-under-35-industria-benessere-2026",
+      "testo": "CNR: il 27,4% degli studenti tra 15 e 19 anni passa più di 4 ore al giorno sui social anche nei giorni di scuola. L'11,5% supera le 6 ore. 208mila «a rischio». Le piattaforme: «Stiamo lavorando sulla sicurezza». Da 20 anni. #Adolescenti #SocialMedia",
+      "url": "https://corrispondente.filoclastos.it/2026/11/24/cnr-adolescenti-social-media-4-ore-rischio/",
+      "slug": "cnr-adolescenti-social-media-4-ore-rischio",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Stasera su La7: «P2, ombra sulle stragi». La docuserie sulla loggia massonica più potente della Repubblica italiana debutta la sera in cui De Gennaro è in prima pagina. Il palinsesto ha un senso dell'ironia che nessun autore potrebbe permettersi.",
-      "url": "https://corrispondente.filoclastos.it/2026/11/23/la7-docuserie-p2-ombra-sulle-stragi-didi-gnocchi/",
-      "slug": "la7-docuserie-p2-ombra-sulle-stragi-didi-gnocchi",
+      "testo": "«Se domani non torno», film su Giulia Cecchettin, è ancora in sala a tre settimane dall'uscita. Prodotto da Notorious Pictures con Mediaset e Sky. Il dolore di una famiglia trasformato in prodotto culturale — e questa volta con la benedizione della famiglia stessa. Questione aperta. #Cinema #Cecchettin",
+      "url": "https://corrispondente.filoclastos.it/2026/11/24/se-domani-non-torno-film-cecchettin-cinema/",
+      "slug": "se-domani-non-torno-film-cecchettin-cinema",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }
