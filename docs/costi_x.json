@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-24",
+      "slug": "mondiale-scacchi-2026-gukesh-sindarov-ginevra",
+      "categoria": "Sport",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-24",
       "slug": "opas-intesa-mps-adesioni-34-miliardi",
       "categoria": "Economia",
       "evidenza": false,
