@@ -1,21 +1,13 @@
 {
-  "generato": "2026-11-25T12:31:26.806526+00:00",
+  "generato": "2026-11-25T18:31:34.383302+00:00",
   "item": [
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "LIVE Gukesh-Sindarov, Mondiale scacchi 2026 in DIRETTA: chi romperà l’equilibrio?",
-      "link": "https://www.oasport.it/2026/11/live-gukesh-sindarov-mondiale-scacchi-2026-in-diretta-va-in-scena-la-seconda-sfida/",
-      "fonte": "OA Sport — Scacchi",
-      "data_evento": "2026-11-25"
-    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
-      "titolo": "Lotta all'antisemitismo, presentata la strategia nazionale. Abodi: \"C'è tanto da fare\"",
-      "link": "https://www.gazzetta.it/Sport-Vari/24-11-2026/lotta-all-antisemitismo-presentata-la-strategia-nazionale-abodi-c-e-tanto-da-fare.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-11-24"
+      "titolo": "Scherma: Musumeci Greco, un italiano firma i duelli dei 'Tre Moschettieri' a Tolosa",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/25/scherma-musumeci-greco-un-italiano-firma-i-duelli-dei-tre-moschettieri-a-tolosa_d2ec02ef-2d73-447b-88a6-4d6725dca142.html",
+      "fonte": "ANSA Sport",
+      "data_evento": "2026-11-25"
     },
     {
       "sottocategoria": "Acqua",
@@ -36,34 +28,42 @@
     {
       "sottocategoria": "Racchette e precisione",
       "tipo": "notizia",
-      "titolo": "Volandri: \"La chat con Sinner e l'obiettivo Coppa Davis. Su Musetti e Berrettini...\"",
-      "link": "https://www.gazzetta.it/Tennis/Coppa-Davis/25-11-2026/volandri-intervista-sinner-coppa-davis-musetti-berrettini.shtml",
+      "titolo": "Zverev: \"Non sono preoccupato per la nuova denuncia della mia ex. Gaudenzi? Il suo un commento ingiusto\"",
+      "link": "https://www.gazzetta.it/Tennis/25-11-2026/zverev-denuncia-ex-non-sono-preoccupato-e-risponde-anche-a-guadenzi.shtml",
       "fonte": "Gazzetta — Tennis",
       "data_evento": "2026-11-25"
     },
     {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
-      "titolo": "Basket: domani Italia-Turchia a Roma, Banchi 'presenza Mattarella una spinta in più'",
-      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/25/basket-domani-italia-turchia-a-roma-banchi-presenza-mattarella-una-spinta_4504c1af-9519-412b-a2e9-b333a566cfed.html",
-      "fonte": "ANSA Sport",
+      "titolo": "All Blacks, è crisi nera: ora sono quinti nel ranking. Cosa succede alla squadra faro del rugby?",
+      "link": "https://www.gazzetta.it/Rugby/25-11-2026/rugby-all-blacks-in-crisi-cosa-succede.shtml",
+      "fonte": "Gazzetta — Rugby",
       "data_evento": "2026-11-25"
     },
     {
       "sottocategoria": "Atletica",
       "tipo": "notizia",
-      "titolo": "Idea Pieroni: “Non vedevo più una via d’uscita. Cambierò rincorsa, obiettivo Europei”",
-      "link": "https://www.oasport.it/2026/11/idea-pieroni-non-vedevo-piu-una-via-duscita-cambiero-rincorsa-obiettivo-europei/",
+      "titolo": "Manuel Lando: “Italia la migliore nel salto in alto: giusto che sia rimasto a casa. Rinuncio a qualcosa oggi pensando ai Giochi”",
+      "link": "https://www.oasport.it/2026/11/manuel-lando-italia-la-migliore-nel-salto-in-alto-giusto-che-sia-rimasto-a-casa-rinuncio-a-qualcosa-oggi-pensando-ai-giochi/",
       "fonte": "OA Sport — Atletica",
-      "data_evento": "2026-11-24"
+      "data_evento": "2026-11-25"
     },
     {
       "sottocategoria": "Invernali",
       "tipo": "notizia",
-      "titolo": "L'ennesima rinascita della Brignone dopo l'operazione: \"Sono tornata a scivolare e sono contenta\"",
-      "link": "https://www.corrieredellosport.it/news/altri-sport/sci/2026/11/24-152803118/l_ennesima_rinascita_della_brignone_dopo_l_operazione_sono_tornata_a_scivolare_e_sono_contenta/",
+      "titolo": "Brignone shock, annuncia il ritiro: \"La gamba fa troppo male, non posso continuare\"",
+      "link": "https://www.corrieredellosport.it/news/altri-sport/sci/2026/11/25-152830190/brignone_shock_annuncia_il_ritiro_la_gamba_fa_troppo_male_non_posso_continuare/",
       "fonte": "Corriere dello Sport — Altri sport",
-      "data_evento": "2026-11-24"
+      "data_evento": "2026-11-25"
+    },
+    {
+      "sottocategoria": "Equitazione e ippica",
+      "tipo": "notizia",
+      "titolo": "GC Playoff Verona, Supercoppa a squadre agli Istanbul Warriors",
+      "link": "https://www.corrieredellosport.it/news/altri-sport/equitazione/2026/11/22-152765983/gc_playoff_verona_supercoppa_a_squadre_agli_istanbul_warriors/",
+      "fonte": "Corriere dello Sport — Altri sport",
+      "data_evento": "2026-11-22"
     }
   ]
 }
