@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-25",
+      "slug": "wellness-kpi-aziendale-produttivita-industria",
+      "categoria": "Wellness",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-25",
       "slug": "tidal-ban-musica-ai-generata-dicembre-2026",
       "categoria": "AI",
       "evidenza": false,
