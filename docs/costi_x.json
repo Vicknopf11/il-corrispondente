@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-25",
+      "slug": "manovra-ue-promuove-forza-italia-extraprofitti",
+      "categoria": "Politica Nazionale",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-25",
       "slug": "ucraina-attacco-droni-bengasi-libia-italia",
       "categoria": "Politica Internazionale",
       "evidenza": true,
