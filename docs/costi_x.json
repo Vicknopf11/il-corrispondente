@@ -1,6 +1,14 @@
 {
   "pubblicazioni": [
     {
+      "data": "2026-11-25",
+      "slug": "ucraina-attacco-droni-bengasi-libia-italia",
+      "categoria": "Politica Internazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
       "data": "2026-11-24",
       "slug": "se-domani-non-torno-film-cecchettin-cinema",
       "categoria": "Cultura",
