@@ -1,6 +1,400 @@
 {
   "edizioni": [
     {
+      "data": "2026-11-25",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Kiev bombarda Bengasi: l'Italia scopre di non contare nulla nel proprio mare",
+          "slug": "ucraina-attacco-droni-bengasi-libia-italia",
+          "tag": [
+            "libia",
+            "ucraina",
+            "mediterraneo",
+            "haftar"
+          ],
+          "evidenza": true,
+          "fonte": "Domani / Agenzia Nova / Politico EU",
+          "cerca_url": "https://www.google.com/search?q=attacco+ucraino+droni+Bengasi+Libia+Italia+novembre+2026",
+          "post_x": "L'Ucraina bombarda navi russe a Bengasi e l'Italia «non era a conoscenza». Tajani chiama Kiev. Noi che abbiamo basi, interessi energetici e accordi in Libia da decenni. Sorpresi. 🫠",
+          "post_sito": "Droni navali ucraini colpiscono navi russe nel porto di Bengasi, in Libia orientale controllata da Haftar — alleato di Mosca, ma anche interlocutore privilegiato di Roma per il gas dell'ENI e il controllo dei flussi migratori. Tajani dichiara che «l'Italia non era assolutamente a conoscenza delle intenzioni di Kiev» e chiede di non allargare il conflitto al Mediterraneo, dove però l'Italia ha già da anni unità navali, accordi e interessi energetici per miliardi. Il coro mediatico si divide tra chi accusa Kiev di sconsideratezza e chi difende il diritto ucraino a colpire infrastrutture nemiche ovunque — ma nessuno si chiede perché la Marina russa stesse già operando in un porto libico a pochi chilometri dalle coste italiane, da anni, indisturbata. Chi ci guadagna dal fatto che Roma scopra solo ora di essere fuori dai giochi? L'Italia rischia di perdere la faccia con Kiev (a cui continua a mandare armi) e con Haftar (con cui ha firmato accordi), mentre Parigi e Londra osservano.",
+          "fatti": [
+            {
+              "testo": "Droni navali ucraini hanno colpito navi russe nel porto di Bengasi, nella Libia orientale controllata dal maresciallo Khalifa Haftar; nell'attacco sono morti due militari libici.",
+              "fonte": "Domani",
+              "url": "https://editorialedomani.it/politica/mondo/militari-libici-morti-attacco-ucraina-nave-russia-zelensky-hegseth-patriot-notizie-oggi-25-novembre-hbv50jzk"
+            },
+            {
+              "testo": "Il ministro Tajani ha dichiarato che «l'Italia non era assolutamente a conoscenza delle intenzioni di Kiev di colpire nelle acque territoriali libiche, addirittura in un porto».",
+              "fonte": "Domani",
+              "url": "https://editorialedomani.it/politica/mondo/militari-libici-morti-attacco-ucraina-nave-russia-zelensky-hegseth-patriot-notizie-oggi-25-novembre-hbv50jzk"
+            },
+            {
+              "testo": "Secondo Politico EU, l'operazione rischia di alimentare tensioni nella maggioranza italiana e compromettere gli equilibri di un Paese nordafricano in cui Roma mantiene importanti interessi politici, economici ed energetici.",
+              "fonte": "Agenzia Nova",
+              "url": "https://www.agenzianova.com/news/politico-lattacco-ucraino-in-libia-problema-per-meloni-timori-per-la-stabilita-nel-mediterraneo/"
+            },
+            {
+              "testo": "Tajani ha ribadito all'omologo ucraino «quanto sia vitale per l'Italia continuare a lavorare per evitare che il conflitto con la Russia si estenda anche al Mediterraneo».",
+              "fonte": "Agenzia Nova",
+              "url": "https://www.agenzianova.com/news/politico-lattacco-ucraino-in-libia-problema-per-meloni-timori-per-la-stabilita-nel-mediterraneo/"
+            }
+          ],
+          "incerto": [
+            "Non è confermata l'entità dei danni alle navi russe né la risposta militare o diplomatica di Haftar nei confronti dell'Italia.",
+            "Non è chiaro se l'episodio produrrà conseguenze sugli accordi energetici italo-libici o sul flusso di migranti."
+          ],
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La posizione italiana",
+              "testo": "Il governo Meloni si trova in una posizione scomoda: da un lato ha formalmente confermato il sostegno all'Ucraina come «scelta strategica»; dall'altro ha condannato l'attacco come una violazione della sovranità libica e un allargamento inaccettabile del conflitto verso il Mediterraneo. Tajani ha parlato esplicitamente di «errore» e ha contattato il ministro degli Esteri ucraino. Roma sottolinea di non essere stata informata, il che pone anche una questione di coordinamento all'interno della NATO sul fianco Sud."
+            },
+            {
+              "etichetta": "La logica militare di Kiev",
+              "testo": "L'Ucraina ha rivendicato la legittimità dell'attacco sostenendo di aver colpito beni militari russi. Dal punto di vista ucraino, la presenza di navi militari russe nel porto di Bengasi rappresenta un'infrastruttura logistica nemica da neutralizzare, indipendentemente dalla giurisdizione territoriale. Zelensky e il governo di Kiev non riconoscono a nessun porto un diritto di extraterritorialità per le forze armate di un Paese aggressore."
+            },
+            {
+              "etichetta": "La dimensione libica e l'interlocutore Haftar",
+              "testo": "La Libia orientale è controllata dal maresciallo Haftar, tradizionalmente vicino a Mosca ma anche interlocutore di Roma per la gestione dei flussi migratori e per gli interessi energetici dell'ENI. L'attacco ha provocato vittime tra militari libici, complicando i rapporti tra l'Italia — che ha storicamente puntato su una stabilizzazione della Libia anche trattando con Haftar — e il governo di Tripoli, riconosciuto internazionalmente ma in conflitto con Bengasi."
+            },
+            {
+              "etichetta": "Il nodo NATO e il fianco Sud",
+              "testo": "L'episodio riapre la questione, sollevata più volte da Roma negli ultimi anni, di una maggiore attenzione NATO al fianco Sud e al Mediterraneo. L'Italia ha da tempo segnalato la crescente presenza militare russa in Libia senza ottenere risposte concrete dagli alleati. L'attacco ucraino rende ora pubblicamente visibile una situazione che si era consolidata nel silenzio diplomatico: la Marina russa operava in un porto libico a poche ore di navigazione dalle coste italiane."
+            }
+          ],
+          "implicazioni": "Se l'incidente non verrà gestito a livello diplomatico, rischia di incrinare sia il sostegno italiano a Kiev — alimentando le correnti sovraniste all'interno della maggioranza — sia gli accordi bilaterali con la Libia di Haftar, dai quali dipende parte della politica migratoria e degli approvvigionamenti energetici italiani. Sul piano NATO, l'episodio potrebbe rafforzare la posizione italiana nella richiesta di un presidio più strutturato del fianco Sud, finora rimasta inascoltata.",
+          "redattore": "Il Corrispondente Estero 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Manovra: Bruxelles promuove, Forza Italia blocca la tassa sugli extraprofitti",
+          "slug": "manovra-ue-promuove-forza-italia-extraprofitti",
+          "tag": [
+            "manovra",
+            "forza-italia",
+            "extraprofitti",
+            "legge-di-bilancio"
+          ],
+          "evidenza": false,
+          "fonte": "Quotidiano Nazionale / Il Riformista",
+          "cerca_url": "https://www.google.com/search?q=manovra+2027+Forza+Italia+extraprofitti+UE+novembre+2026",
+          "post_x": "L'UE promuove la manovra italiana, Dombrovskis chiede «prudenza». Dentro, però, Forza Italia blocca la tassa sugli extraprofitti. Forse Mondadori e le banche non c'entrano nulla. Forse. 🤌",
+          "post_sito": "La Commissione europea certifica che i conti italiani sono «al limite» ma non bocciano la manovra: Dombrovskis chiede all'Italia di non chiedere altra flessibilità. Fin qui, tutto nella norma. Il punto è cosa succede dentro il palazzo: Forza Italia si oppone alla tassa sugli extraprofitti invocata da FdI e Lega, con Tajani che parla di «roba da URSS». Eppure chi possiede banche e case editrici con margini record non è mai nominato esplicitamente nel dibattito parlamentare. Il meccanismo è classico: il villain ufficiale è «l'UE che non dà margine», ma è dentro la maggioranza che si decide chi paga e chi no. Mentre si litiga sugli extraprofitti, oltre 1.700 emendamenti vengono dichiarati inammissibili e la Lega rilancia Quota 64 con uno stanziamento iniziale di 850 milioni — senza coperture chiare. La coperta è corta, diceva Meloni. Peccato che qualcuno abbia tagliato i bordi.",
+          "fatti": [
+            {
+              "testo": "Il commissario europeo Valdis Dombrovskis ha certificato che la manovra italiana è sulla traiettoria della spesa, ma ha avvertito che i conti italiani sono già «al limite» e ha chiesto di non domandare altra flessibilità.",
+              "fonte": "Il Riformista",
+              "url": "https://www.ilriformista.it/politica/"
+            },
+            {
+              "testo": "Forza Italia si oppone alla tassa sugli extraprofitti: Tajani ha dichiarato «Non possiamo tassare due volte le aziende, è roba da URSS».",
+              "fonte": "Quotidiano Nazionale",
+              "url": "https://www.quotidiano.net/politica/partita-aperta-nel-governo-forza-italia-fa-muro-sugli-extraprofitti-inszg4rb"
+            },
+            {
+              "testo": "La Lega ha rilancia la proposta Quota 64 con uno stanziamento iniziale di 850 milioni di euro, con rientro ipotizzato dal 2027.",
+              "fonte": "Torre Sette News",
+              "url": "https://www.torresette.news/24-news/2026/11/25/rassegna-stampa-25-novembre-manovra-cronaca-vesuviana-e-champions-league"
+            },
+            {
+              "testo": "Il deficit 2026 è stimato al 2,9% del PIL, sotto la soglia del 3%, aprendo la strada alla chiusura della procedura per deficit eccessivo nella primavera del 2027.",
+              "fonte": "Sarno Notizie",
+              "url": "https://www.sarnonotizie.it/rassegna-stampa-25-novembre-2026/"
+            }
+          ],
+          "incerto": [
+            "Non è ancora definita la platea dei beneficiari di Quota 64 né le coperture finanziarie.",
+            "Non è chiaro se la procedura per deficit eccessivo verrà formalmente chiusa nella primavera 2027 o richiederà ulteriori condizioni."
+          ],
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Nvidia: Trump pronto alla grazia per Jensen Huang, le borse asiatiche crollano",
+          "slug": "nvidia-trump-grazia-jensen-huang-borse-asiatiche",
+          "tag": [
+            "nvidia",
+            "trump",
+            "semiconduttori",
+            "borse"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Benzinga Italia",
+          "cerca_url": "https://www.google.com/search?q=Nvidia+Trump+grazia+Jensen+Huang+Congresso+novembre+2026",
+          "post_x": "Trump: «Concederei la grazia a Jensen Huang se necessario». Nvidia crolla del 6% a Wall Street, Tokyo cede il 3,3%. L'uomo che dovrebbe rispondere del Congresso è già coperto dal presidente. 🎲",
+          "post_sito": "La vicenda Nvidia è un manuale di potere economico e politico. Jensen Huang è tornato alla guida di Nvidia dopo che Trump ha fatto pressione sul CdA — una circostanza che ha già fatto reagire il Congresso trasversalmente. Il giorno dopo il rimbalzo entusiastico dei mercati, Nvidia ha perso il 6% e le borse asiatiche hanno ceduto fino al 3,3% (Tokyo), riaccendendo gli interrogativi sui ritorni reali degli investimenti nell'intelligenza artificiale. Trump ha aggiunto che concederebbe la grazia a Huang «se necessario», prima ancora che il CEO si presenti al Congresso la prossima settimana. Beneficio taciuto: chi ha comprato Nvidia tra le dimissioni e il reintegro ha guadagnato. Mandante invisibile: la pressione della Casa Bianca su un consiglio di amministrazione privato — per ragioni che mescolano competizione sui chip con la Cina, dazi e controllo strategico dell'AI — non ha precedenti nella storia recente degli Stati Uniti. L'indagine sui chip Nvidia dirottati verso la Cina attraverso società terze resta aperta.",
+          "fatti": [
+            {
+              "testo": "Donald Trump si è dichiarato aperto alla possibilità di concedere la grazia a Jensen Huang, CEO di Nvidia, aggiungendo che «con ogni probabilità non ce ne sarà bisogno».",
+              "fonte": "ANSA",
+              "url": "https://ansa.it/sito/notizie/topnews/2026/11/25/nvidia-trump-concederei-la-grazia-a-jensen-huang-se-necessario_f1d734e5-21d1-4571-8eaa-01dbe197c52c.html"
+            },
+            {
+              "testo": "I listini dell'area Asia-Pacifico hanno ceduto terreno il 25 novembre, con il Nikkei 225 in ribasso del 3,30%, annullando il rimbalzo della vigilia legato al ritorno di Jensen Huang alla guida di Nvidia.",
+              "fonte": "Benzinga Italia",
+              "url": "https://it.benzinga.com/news/global/asia/borse-asiatiche-25-novembre-2026-tokyo-seul-semiconduttori-nvidia"
+            },
+            {
+              "testo": "Gli investigatori del Dipartimento di Giustizia USA avrebbero raccolto elementi sul dirottamento illegale verso la Cina di chip avanzati di Nvidia da parte di altre società.",
+              "fonte": "FocusAmerica",
+              "url": "https://focusamerica.it/la-rassegna-stampa-di-mercoledi-25-novembre-2026/"
+            },
+            {
+              "testo": "La prossima settimana Huang dovrà presentarsi al Congresso per rispondere alle domande di democratici e repubblicani.",
+              "fonte": "FocusAmerica",
+              "url": "https://focusamerica.it/la-rassegna-stampa-di-mercoledi-25-novembre-2026/"
+            }
+          ],
+          "incerto": [
+            "Non è confermato se le agenzie di intelligence abbiano prove che la donna al centro dello scandalo extraconiugale agisse su indicazione dei servizi segreti cinesi.",
+            "L'esito dell'audizione di Huang al Congresso e le conseguenze legali per Nvidia non sono ancora definiti."
+          ],
+          "editoriale": false,
+          "redattore": "L'Analista 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Sinner operato al ginocchio in Finlandia: Australian Open saltato, rientro in primavera",
+          "slug": "sinner-operazione-ginocchio-finlandia-rientro-primavera",
+          "tag": [
+            "sinner",
+            "tennis",
+            "infortunio",
+            "australian-open"
+          ],
+          "evidenza": false,
+          "fonte": "Euronews / La Verità / DAZN",
+          "cerca_url": "https://www.google.com/search?q=Sinner+operazione+ginocchio+Finlandia+novembre+2026+rientro",
+          "post_x": "Sinner operato al ginocchio a Turku. Niente Australian Open, forse rientro in primavera. L'uomo che ha vinto Wimbledon a luglio e si è fermato ad agosto. Tre mesi di silenzio, poi il bisturi. #Sinner",
+          "post_sito": "Jannik Sinner si è operato il 24 novembre alla clinica Pihlajalinna di Turku, in Finlandia, dove il chirurgo ortopedico Lasse Lempainen ha eseguito un intervento di allungamento della bandelletta ileotibiale al ginocchio destro. L'ultima partita ufficiale risale alla finale di Wimbledon del 12 luglio 2026, vinta contro Alexander Zverev: quattro mesi di stop conservativo non sono bastati e si è scelto il bisturi. Il rientro è stimato tra tre e cinque mesi, probabilmente sulla terra battuta europea in primavera — il che significa saltare Australian Open, Rotterdam, Doha e probabilmente Indian Wells. Il numero due del mondo chiude la stagione con 7.950 punti nel ranking ATP e rischia di perderne quasi 3.000 in scadenza durante lo stop. La notizia domina le prime pagine sportive, oscurando il pareggio del Napoli (2-2 contro il Manchester City con undici assenti) e la vittoria del Como in Champions contro l'AEK Atene — l'altra storia sportiva straordinaria di questa stagione, quella di una provinciale lombarda che siede al terzo posto in Europa.",
+          "fatti": [
+            {
+              "testo": "Jannik Sinner è stato operato il 24 novembre 2026 alla clinica Pihlajalinna di Turku, in Finlandia, dal chirurgo ortopedico Lasse Lempainen per la sindrome della bandelletta ileotibiale al ginocchio destro.",
+              "fonte": "DAZN",
+              "url": "https://www.dazn.com/it-IT/news/tennis/sinner-operazione-ginocchio-data-ritorno/hefpxisz8dzv1dtculivus4nx"
+            },
+            {
+              "testo": "L'ultima partita ufficiale di Sinner è stata la finale di Wimbledon del 12 luglio 2026, vinta contro Alexander Zverev.",
+              "fonte": "DAZN",
+              "url": "https://www.dazn.com/it-IT/news/tennis/sinner-operazione-ginocchio-data-ritorno/hefpxisz8dzv1dtculivus4nx"
+            },
+            {
+              "testo": "Il rientro è stimato tra tre e quattro mesi; Sinner chiude la stagione al secondo posto del ranking ATP con 7.950 punti, dietro Alexander Zverev.",
+              "fonte": "Juorno",
+              "url": "https://www.juorno.it/sinner-operato-al-ginocchio-quando-puo-tornare-e-cosa-cambia-nel-ranking-atp/"
+            }
+          ],
+          "incerto": [
+            "Non è stata fissata una data ufficiale per il rientro alle competizioni: dipende dall'esito della riabilitazione.",
+            "Non è ancora definito se Sinner utilizzerà il ranking protetto al rientro."
+          ],
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "De Gennaro: i Ris aprono le lettere. «Sei arrivato dove neanche la mafia era riuscita»",
+          "slug": "de-gennaro-lettere-ris-caltanissetta-via-damalio",
+          "tag": [
+            "de-gennaro",
+            "via-damalio",
+            "caltanissetta",
+            "depistaggio"
+          ],
+          "evidenza": false,
+          "fonte": "Sky TG24 / Il Sole 24 Ore / L'Espresso",
+          "cerca_url": "https://www.google.com/search?q=De+Gennaro+lettere+RIS+Caltanissetta+via+D%27Amelio+novembre+2026",
+          "post_x": "«Sei arrivato dove neanche la mafia era riuscita ad arrivare»: De Gennaro al pm di Caltanissetta, nell'ultima lettera. I Ris confermano la grafia. L'Italia scopre i suoi fantasmi uno alla volta. 📜",
+          "post_sito": "La perizia calligrafica del Ris ha confermato che le quattro lettere trovate nella villa di Fonteblanda, dove Gianni De Gennaro si è tolto la vita il 21 novembre a 78 anni, sono di suo pugno. Il documento più articolato è indirizzato al procuratore di Caltanissetta Salvatore De Luca, titolare dell'inchiesta sul presunto depistaggio della strage di via D'Amelio — in cui il 19 luglio 1992 furono uccisi Paolo Borsellino e cinque agenti della scorta. Un'altra lettera reca la dicitura «per chi vorrà pubblicarla»: una difesa pubblica postuma. La richiesta di arresti domiciliari era già stata respinta dal gip. L'inchiesta della Procura di Grosseto è per istigazione al suicidio. Ciò che nessun titolo sottolinea abbastanza: il procedimento riguarda uno dei più gravi depistaggi della storia giudiziaria italiana, costruito sulla falsa pista di Vincenzo Scarantino, e coinvolge decenni di opacità tra Stato, apparati e Cosa Nostra. De Gennaro era stato anche capo del SISDE e presidente di Leonardo. La causa strutturale rimossa è che certi segreti di Stato durano più delle persone che li custodiscono.",
+          "fatti": [
+            {
+              "testo": "La perizia calligrafica del Ris di Roma ha confermato che le lettere ritrovate nella casa di campagna di Fonteblanda, nel comune di Orbetello, sono state scritte da Gianni De Gennaro.",
+              "fonte": "Sky TG24",
+              "url": "https://tg24.sky.it/cronaca/2026/11/25/gianni-de-gennaro-suicidio-ultime-notizie"
+            },
+            {
+              "testo": "Nella lettera indirizzata al procuratore di Caltanissetta Salvatore De Luca, De Gennaro avrebbe scritto: «Tu sei arrivato dove neanche la mafia era riuscita ad arrivare», secondo quanto riportato dal Corriere della Sera.",
+              "fonte": "Il Sole 24 Ore",
+              "url": "https://www.ilsole24ore.com/art/de-gennaro-sequestrati-telefoni-e-trovate-buste-sigillate-si-indaga-ultime-ore-prima-suicidio-AJFbxVPC"
+            },
+            {
+              "testo": "De Gennaro era indagato per depistaggio aggravato nell'ambito dell'inchiesta sulla strage di via D'Amelio del 19 luglio 1992; la richiesta di arresti domiciliari era stata respinta dalla gip.",
+              "fonte": "Business.it",
+              "url": "https://www.business.it/de-gennaro-il-contenuto-di-una-delle-lettere-cosa-emerge/"
+            },
+            {
+              "testo": "La Procura di Grosseto ha aperto un'inchiesta per istigazione al suicidio; l'autopsia è fissata per venerdì a Firenze.",
+              "fonte": "Sarno Notizie",
+              "url": "https://www.sarnonotizie.it/rassegna-stampa-25-novembre-2026/"
+            }
+          ],
+          "incerto": [
+            "Il contenuto integrale delle lettere non è stato reso pubblico: si conosce solo quanto trapelato alla stampa.",
+            "Non è confermato chi abbia avuto contatti con De Gennaro nelle ore precedenti al suicidio, oggetto dell'indagine per istigazione."
+          ],
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Scienza",
+          "titolo": "CNR e Università di Padova: pannelli fotovoltaici flessibili in silicio senza vetro",
+          "slug": "pannelli-fotovoltaici-flessibili-silicio-cnr-padova",
+          "tag": [
+            "fotovoltaico",
+            "energie-rinnovabili",
+            "cnr",
+            "ricerca-italiana"
+          ],
+          "evidenza": false,
+          "fonte": "CNR / Solar Energy / GreenMe",
+          "cerca_url": "https://www.google.com/search?q=pannelli+fotovoltaici+flessibili+silicio+CNR+Parma+Universita+Padova+2026",
+          "post_x": "Il CNR di Parma e Padova inventano pannelli solari che si piegano come fogli di plastica. Pubblicato su Solar Energy. In Italia. Dove i fondi alla ricerca sono stati tagliati. 🌞",
+          "post_sito": "Ricercatori del CNR-IMEM di Parma e del Dipartimento di Ingegneria dell'Informazione dell'Università di Padova hanno sviluppato moduli fotovoltaici flessibili in silicio cristallino, privi di vetro, basati su PET e su un processo industriale scalabile roll-to-roll: i risultati sono pubblicati sulla rivista Solar Energy. Le celle in silicio cristallino a contatti posteriori, spesse appena 150 micrometri, sono integrate in uno stack polimerico che si piega senza perdere efficienza fino a un raggio di curvatura di 9,8 cm. Il potenziale applicativo riguarda il fotovoltaico integrato negli edifici e sulle superfici curve. La notizia è quella che non fa rumore: ricerca pubblica italiana che produce un risultato industrialmente scalabile, in un Paese in cui i fondi alle università pubbliche vengono tagliati ogni anno mentre si finanziano convegni sull'intelligenza artificiale. Nessun venture capital straniero ha ancora acquisito i brevetti — che è poi la parte della storia che di solito manca nei comunicati CNR e arriva qualche anno dopo.",
+          "fatti": [
+            {
+              "testo": "Il CNR-IMEM di Parma e l'Università di Padova hanno sviluppato moduli fotovoltaici flessibili in silicio cristallino, privi di vetro, con un processo industriale scalabile roll-to-roll; i risultati sono pubblicati sulla rivista Solar Energy.",
+              "fonte": "CNR",
+              "url": "https://www.cnr.it/it/comunicato-stampa/14836"
+            },
+            {
+              "testo": "Le celle sono integrate in uno stack polimerico (PET/EVA/silicio/EVA/PET), spesse 150 micrometri; la flessibilità è stata validata fino a un raggio di curvatura di 9,8 cm senza danni meccanici.",
+              "fonte": "Insalute News",
+              "url": "https://www.insalutenews.it/in-salute/il-fotovoltaico-diventa-flessibile-nuovi-pannelli-leggeri-senza-vetro-e-ad-alta-efficienza/"
+            }
+          ],
+          "incerto": [
+            "Non è ancora definita la tempistica per il passaggio alla produzione industriale su scala commerciale.",
+            "Non è noto se siano già in corso accordi con partner industriali per la licenza del processo."
+          ],
+          "editoriale": false,
+          "redattore": "Il Metodico 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "AI",
+          "titolo": "Tidal bandisce la musica generata al 100% dall'AI: 27 milioni di brani rimossi dal 9 dicembre",
+          "slug": "tidal-ban-musica-ai-generata-dicembre-2026",
+          "tag": [
+            "tidal",
+            "musica-ai",
+            "streaming",
+            "copyright"
+          ],
+          "evidenza": false,
+          "fonte": "Variety / Digital Music News / Turbolab",
+          "cerca_url": "https://www.google.com/search?q=Tidal+ban+musica+AI+generata+9+dicembre+2026",
+          "post_x": "Tidal rimuove 27 milioni di brani generati al 100% dall'AI dal 9 dicembre. Il 43% della musica consegnata negli ultimi 90 giorni era sintetica. Il 96% di questi brani non aveva un solo ascolto. 🤖🎵",
+          "post_sito": "Tidal ha annunciato che dal 9 dicembre 2026 rimuoverà dal catalogo tutti i brani interamente generati dall'intelligenza artificiale: circa 27 milioni di tracce, il 6,3% dell'intero catalogo della piattaforma. Il dato più eloquente è un altro: negli ultimi 90 giorni, il 43% di tutta la musica consegnata a Tidal era interamente sintetica, e il 96% di questi brani non aveva raccolto nemmeno un ascolto. Non è una crisi estetica — è un problema industriale: bot che caricano musica per gonfiare royalty, saturare i cataloghi e diluire i pagamenti agli artisti umani. Tidal è la prima piattaforma di streaming musicale a vietare completamente la musica AI (Bandcamp l'aveva già fatto per il suo segmento). Spotify, Apple Music e Amazon non hanno ancora annunciato misure equivalenti. Chi ci guadagna dal non intervenire? Chi gestisce le piattaforme a volume: più tracce significano più dati di ascolto, più abbonamenti venduti sulla promessa di un catalogo «infinito». Il problema non è l'AI che aiuta un musicista: quei brani restano ammessi. Il problema è la fabbrica automatizzata di spazzatura che fa concorrenza sleale a chi suona davvero.",
+          "fatti": [
+            {
+              "testo": "Tidal ha annunciato che dal 9 dicembre 2026 rimuoverà e rifiuterà tutti i brani interamente generati dall'AI; circa 27 milioni di tracce, pari al 6,3% del catalogo, sono state etichettate come generate al 100% dall'AI.",
+              "fonte": "Turbolab",
+              "url": "https://turbolab.it/ai-intelligenza-artificiale-6960/tidal-vieta-musica-generata-100-ai-9-dicembre-brani-verranno-rimossi-5038"
+            },
+            {
+              "testo": "Negli ultimi 90 giorni, il 43% di tutte le tracce distribuite a Tidal è stato rilevato come interamente generato dall'AI; il 96% di questi brani non ha ricevuto nemmeno un ascolto.",
+              "fonte": "Variety",
+              "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-tracks-1236956924/"
+            },
+            {
+              "testo": "Il riconoscimento dei brani è affidato a Ircam Amplify, partner di Tidal per l'individuazione dei contenuti generati con l'AI; i brani realizzati con l'aiuto parziale di strumenti AI rimarranno ammessi.",
+              "fonte": "Mixonline",
+              "url": "https://www.mixonline.com/news/tidal-to-ban-ai-generated-music"
+            }
+          ],
+          "incerto": [
+            "Non è ancora chiaro se Spotify, Apple Music o Amazon adotteranno misure simili.",
+            "Non è definito il processo di verifica per i brani che si trovano in una zona grigia tra «assistito dall'AI» e «interamente generato dall'AI»."
+          ],
+          "editoriale": false,
+          "redattore": "Il Futurologo 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Wellness",
+          "titolo": "Il benessere diventa KPI aziendale: quando il wellness è una metrica di produttività",
+          "slug": "wellness-kpi-aziendale-produttivita-industria",
+          "tag": [
+            "wellness",
+            "corporate-wellness",
+            "lavoro",
+            "industria-benessere"
+          ],
+          "evidenza": false,
+          "fonte": "Donne Magazine",
+          "cerca_url": "https://www.google.com/search?q=wellness+aziendale+metrica+produttivita+novembre+2026",
+          "post_x": "Il benessere entra nei KPI aziendali. Ora la tua «sicurezza psicologica» è monitorata come il fatturato. L'industria del wellness ha trovato il modo di fatturare anche quando sei al lavoro. 📊🧘",
+          "post_sito": "Un articolo pubblicato oggi su Donne Magazine descrive come il «wellness organizzativo» stia diventando un asset da monitorare nelle organizzazioni, con welfare, leadership, ascolto e sicurezza psicologica inseriti in un'unica strategia misurabile. La notizia è in realtà la tendenza: l'industria del benessere, dopo aver venduto integratori, app di meditazione e abbonamenti palestre, ha trovato l'accesso privilegiato alle aziende. Il datore di lavoro che compra un programma di «employee wellness» non lo fa per altruismo: riduce il tasso di assenteismo, migliora la retention e, soprattutto, ha un dato da mostrare agli investitori ESG. Il bersaglio satirico è sempre l'industria, non chi ci lavora — e chi ci lavora, spesso, non ha scelto liberamente di avere il proprio stato emotivo convertito in dashboard. Il Healthcare Summit 2026, che si tiene oggi al Museo dell'Ara Pacis di Roma, ospita tra gli altri il Ministro della Salute Schillaci: il confine tra salute pubblica e mercato privato del benessere non è mai stato più sottile.",
+          "fatti": [
+            {
+              "testo": "Il 25 novembre 2026 si tiene al Museo dell'Ara Pacis di Roma l'Healthcare Summit 2026, promosso da Il Sole 24 Ore, dedicato alle sfide del Servizio Sanitario Nazionale tra sostenibilità, innovazione e intelligenza artificiale.",
+              "fonte": "Il Sole 24 Ore",
+              "url": "https://www.ilsole24ore.com/art/healthcare-summit-2026-AJC25GQC"
+            }
+          ],
+          "incerto": [
+            "Non esistono dati verificati e indipendenti sull'efficacia dei programmi di corporate wellness sulla salute reale dei lavoratori, distinta dai benefici per la produttività aziendale."
+          ],
+          "editoriale": false,
+          "redattore": "Il Life Coach 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Cultura",
+          "titolo": "«Una Nessuna Centomila» su Rai 1 da Napoli: l'industria dello spettacolo scopre il 25 novembre",
+          "slug": "una-nessuna-centomila-rai1-napoli-25-novembre",
+          "tag": [
+            "violenza-donne",
+            "rai",
+            "spettacolo",
+            "25-novembre"
+          ],
+          "evidenza": false,
+          "fonte": "Libero.it / L'Opinionista",
+          "cerca_url": "https://www.google.com/search?q=Una+Nessuna+Centomila+Rai1+Napoli+25+novembre+2026",
+          "post_x": "«Una Nessuna Centomila» alla terza edizione: stasera da Piazza del Plebiscito su Rai 1. Duetti inediti, messaggi forti. Domani, le cifre: 67 donne uccise nel 2026. 38 dal partner. L'evento non cambia i numeri. 🔴",
+          "post_sito": "Questa sera Rai 1 trasmette alle 21:30 la terza edizione di «Una Nessuna Centomila» da Piazza del Plebiscito a Napoli: un grande evento musicale con artisti dello spettacolo italiano per sensibilizzare contro la violenza sulle donne, con l'obiettivo di sostenere i centri antiviolenza. Sul palco nomi che riempiono gli stadi. Il meccanismo è rodato e non è privo di effetti reali: i fondi ai centri antiviolenza esistono anche grazie a queste iniziative, e ignorarlo sarebbe disonesto. Ma il dato che nessun titolo mette in apertura è quello di oggi: nel 2026 sono state uccise 67 donne, 38 delle quali dal partner o dall'ex. L'indignazione a costo zero si manifesta quando è trasmessa in prima serata. I tagli ai fondi per i centri antiviolenza, i tempi lunghissimi dei tribunali per i reati di stalking, la mancanza di case rifugio nel Sud — questi non fanno audience. Benvenuti al grande evento che costa poco a chi lo produce e molto a chi resta sola.",
+          "fatti": [
+            {
+              "testo": "La terza edizione di «Una Nessuna Centomila» va in onda su Rai 1 alle 21:30 del 25 novembre 2026 da Piazza del Plebiscito a Napoli, con duetti inediti e l'obiettivo di sostenere i centri antiviolenza.",
+              "fonte": "Libero.it",
+              "url": "https://libero.it/magazine/news/stasera-in-tv-25-novembre-2026-cosa-vedere-232833"
+            },
+            {
+              "testo": "Secondo i dati citati dalla stampa, nel 2026 sono state uccise 67 donne, di cui 38 dal partner o ex partner.",
+              "fonte": "Sarno Notizie",
+              "url": "https://www.sarnonotizie.it/rassegna-stampa-25-novembre-2026/"
+            },
+            {
+              "testo": "Il nuovo rapporto di UN Women e dell'Ufficio delle Nazioni Unite contro la droga e il crimine indica che nel mondo una donna o una ragazza viene uccisa ogni dieci minuti da un partner o da un familiare.",
+              "fonte": "Radio Bullets",
+              "url": "https://www.radiobullets.com/notiziari/25-novembre-2026-notiziario-mondo/"
+            }
+          ],
+          "incerto": [
+            "Non sono ancora pubblici i dati definitivi sui fondi raccolti dall'edizione 2026 dell'evento a favore dei centri antiviolenza."
+          ],
+          "editoriale": false,
+          "redattore": "Il Letterato 1.0",
+          "fatti_verificati": true
+        }
+      ],
+      "controlli": {
+        "url_ricerca": 110,
+        "fatti_proposti": 28,
+        "fatti_scartati": 0,
+        "giorni_corretti": [],
+        "virgolette_riparate": 0
+      }
+    },
+    {
       "data": "2026-11-24",
       "post": [
         {
@@ -8645,189 +9039,7 @@
           "redattore": "Il Letterato 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-10-26",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Lula rieletto presidente del Brasile, Bolsonaro contesta il voto",
-          "slug": "lula-rieletto-presidente-brasile-bolsonaro-contesta",
-          "tag": [
-            "brasile",
-            "elezioni",
-            "lula",
-            "bolsonaro"
-          ],
-          "evidenza": true,
-          "fonte": "Il Post / ANSA",
-          "cerca_url": "https://www.google.com/search?q=Lula+rieletto+presidente+Brasile+2026+Bolsonaro+contesta",
-          "post_x": "Lula vince col 51,74%, Bolsonaro chiede l'annullamento. Il copione è già visto. Intanto i mercati festeggiano, i fondi speculativi scelgono già il vincitore. La democrazia è uno sport ad alto rischio quando ci sono le materie prime di mezzo. #Brasile",
-          "post_sito": "Lula ha vinto il ballottaggio brasiliano con il 51,74% dei voti, rimontando un primo turno sfavorevole — impresa che, dalla fine della dittatura militare nel 1985, non era mai riuscita a nessun candidato. Flávio Bolsonaro, figlio dell'ex presidente condannato per il tentato golpe del 2022, non riconosce il risultato e chiede l'annullamento, accusando i giudici della Corte Suprema di aver prolungato il voto di due ore su richiesta del presidente uscente. Il racconto dominante parla di «vittoria della democrazia», ma ciò che viene taciuto è il contesto economico che ha governato l'intera campagna: il Brasile è la seconda riserva mondiale di terre rare e litio, materie prime decisive per la transizione energetica globale, e l'orientamento di politica estera del governo avrà conseguenze miliardarie per i contractor americani, cinesi ed europei già posizionati sul territorio amazzonico. Beneficio taciuto: chi gestisce quelle concessioni minerarie — non chi vota — è il vero arbitro della posta in gioco. La storia del Brasile insegna che ogni cambio di potere, da destra o da sinistra, viene accompagnato da una ridistribuzione silenziosa degli appalti sull'Amazzonia.",
-          "editoriale": true,
-          "prospettive": [
-            {
-              "etichetta": "La rimonta di Lula",
-              "testo": "Luiz Inácio Lula da Silva ha vinto il ballottaggio con il 51,74% dei voti contro il 48,26% di Flávio Bolsonaro, figlio dell'ex presidente Jair Bolsonaro, con circa quattro milioni di voti di scarto. Si tratta di una rimonta storica: al primo turno del 5 ottobre Bolsonaro era in vantaggio con il 47,03% contro il 45,16% di Lula. Nessun candidato, dalla fine della dittatura militare, era mai riuscito a vincere il ballottaggio partendo da una posizione di svantaggio. La Corte elettorale ha certificato il risultato."
-            },
-            {
-              "etichetta": "Le contestazioni di Bolsonaro",
-              "testo": "Flávio Bolsonaro ha dichiarato di non riconoscere il risultato e di voler chiedere l'annullamento del voto, in particolare a causa della decisione di un giudice della Corte Suprema di prolungare le operazioni di voto di due ore in alcune città — estensione richiesta da entrambi i candidati per ragioni diverse (difficoltà nei trasporti a San Paolo per Lula; piogge nel Sud favorevole a Bolsonaro). Il padre, l'ex presidente Jair Bolsonaro, non può candidarsi per la condanna a 27 anni di carcere relativa al tentato colpo di stato del 2022."
-            },
-            {
-              "etichetta": "Le implicazioni geopolitiche ed economiche",
-              "testo": "Il Brasile detiene riserve strategiche di litio, terre rare e risorse agricole di rilevanza globale. L'orientamento del governo Lula in materia di concessioni minerarie in Amazzonia, accordi commerciali con Cina e Unione Europea e politica energetica avrà ripercussioni dirette sulle catene di fornitura della transizione green a livello mondiale. Lula ha già avuto un quarto mandato in precedenza e il suo esecutivo dovrà fare i conti con una Camera dei Deputati in cui il partito di Bolsonaro rimane la prima forza."
-            }
-          ],
-          "implicazioni": "La mancata accettazione del risultato da parte di Bolsonaro apre scenari di instabilità istituzionale analoghi a quelli del 2022, quando seguirono proteste e l'assalto alle sedi istituzionali. Il Brasile si avvicina a un periodo di forte polarizzazione con un parlamento che non rispecchia il risultato presidenziale, complicando la governabilità di Lula almeno nei primi mesi. Sul piano internazionale, le alleanze commerciali — in particolare con Cina, Unione Europea e Stati Uniti — potrebbero essere rinegoiate, con effetti diretti sulle esportazioni di materie prime critiche.",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Salvini rieletto segretario della Lega: «Stop a soldi e armi all'Ucraina»",
-          "slug": "salvini-rieletto-segretario-lega-stop-armi-ucraina",
-          "tag": [
-            "lega",
-            "salvini",
-            "ucraina",
-            "congresso"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Il Sole 24 Ore",
-          "cerca_url": "https://www.google.com/search?q=Salvini+rieletto+segretario+Lega+congresso+stop+armi+Ucraina+2026",
-          "post_x": "Salvini quater: rieletto con 465 voti su 706, toglie il suo nome dal simbolo ma non dal palco. Annuncia stop alle armi a Kiev. Garavaglia, il candidato alternativo, ottiene il 24%. Ossia: quasi uno su quattro nel partito voleva cambiare. Notizia vera o falsa? #Lega",
-          "post_sito": "Al congresso straordinario della Lega a Milano, Matteo Salvini è stato rieletto segretario per la quarta volta — il «Salvini quater», come già lo chiamano — con 465 voti contro i 146 dello sfidante Massimo Garavaglia, pari al 76% dei delegati votanti. La notizia che i media titolano è lo stop agli aiuti militari a Kiev, annunciato come «mandato congressuale» ricevuto per alzata di mano prima ancora del voto. Ciò che viene taciuto è il mandante invisibile: la mossa serve soprattutto a tenere unita una base leghista sempre più attratta dal posizionamento filorusso dell'elettorato di destra europeo, con un occhio ai sondaggi che vedono il partito calare. Il simbolo ora si chiama «Lega Italia federale» e il nome di Salvini scompare dalla grafica — gesto che, paradossalmente, suona come una dichiarazione di fragilità più che di forza. Garavaglia, che aveva raccolto il 24% dei delegati, rappresenta quella componente nordista e autonomista che non si riconosce più nella linea romana di Salvini: una minoranza interna che non va sottovalutata, soprattutto in vista delle elezioni politiche del 2027.",
-          "editoriale": false,
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Manovra 2027: 5 miliardi chiesti a banche e assicurazioni, flat tax e taglio Irpef in bilico",
-          "slug": "manovra-2027-banche-assicurazioni-flat-tax-irpef",
-          "tag": [
-            "manovra",
-            "flat-tax",
-            "banche",
-            "irpef"
-          ],
-          "evidenza": false,
-          "fonte": "Il Messaggero / Il Sole 24 Ore",
-          "cerca_url": "https://www.google.com/search?q=manovra+2027+banche+flat+tax+irpef+consiglio+ministri+ottobre+2026",
-          "post_x": "Manovra 2027 in Cdm domani. I titolari di conto corrente pagheranno, le banche tremeranno in pubblico e compenseranno in privato. La flat tax per i giovani vale circa 350 milioni: meno di un bonus da stadio. #Manovra2027",
-          "post_sito": "La legge di bilancio 2027 — l'ultima della legislatura Meloni — arriverà domani in Consiglio dei ministri con un pacchetto complessivo di circa 23,5 miliardi di euro, di cui quasi 14,5 già assorbiti dalle spese per difesa ed energia legate alla clausola di salvaguardia europea. Quasi 5 miliardi verranno chiesti a banche e assicurazioni, in quello che il governo chiama contributo straordinario e che gli istituti di credito, ogni anno, trasformano in aumento delle commissioni per i correntisti: beneficio taciuto, la banca paga lo Stato e il cliente paga la banca. Il taglio dell'Irpef per i redditi tra 50mila e 60mila euro — che porterebbe l'aliquota dal 43% al 33% — ha un costo stimato tra 2,5 e 2,7 miliardi, cifra che da sola supera l'intero spazio fiscale a disposizione per le altre misure: una promessa quasi certamente destinata a ridimensionarsi. La flat tax al 5% per i neoassunti under 30 vale circa 350 milioni: una cifra che, per fare un paragone, è meno di quanto l'erario concede ogni anno in incentivi fiscali all'industria automobilistica. Chi ci guadagna davvero sono i professionisti e gli autonomi già posizionati sulle cedolari secche, non i giovani precari che la manovra dichiara di voler aiutare.",
-          "editoriale": false,
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Conegliano vince la Supercoppa Italiana di volley: nona volta in undici anni",
-          "slug": "conegliano-supercoppa-italiana-volley-femminile-2026",
-          "tag": [
-            "volley",
-            "conegliano",
-            "supercoppa",
-            "pallavolo-femminile"
-          ],
-          "evidenza": false,
-          "fonte": "OA Sport",
-          "cerca_url": "https://www.google.com/search?q=Conegliano+Scandicci+Supercoppa+Italiana+volley+femminile+2026",
-          "post_x": "Conegliano batte Scandicci 3-1 e vince la Supercoppa per la nona volta in undici anni. Haak da 28 punti, Fahr monumentale. La squadra più dominante dello sport italiano. E i giornali domani apriranno sul calciomercato. #Volley",
-          "post_sito": "Al PalaFlorio di Bari, l'Imoco Volley Conegliano ha battuto la Savino Del Bene Scandicci per 3-1 (23-25; 25-18; 26-24; 26-24) aggiudicandosi la Supercoppa Italiana 2026 per la nona volta nella propria storia, in undici edizioni: un dominio che non ha equivalenti in nessun altro sport di squadra italiano. Isabelle Haak ha chiuso con 28 punti e il premio di MVP, Sarah Fahr si è confermata una delle migliori centrali europee con 14 punti e 4 muri, mentre Zhu Ting ha contribuito con 17 marcature. Scandicci ha opposto resistenza grazie a una straordinaria Kiera Van Ryk (27 punti) ma non è bastato. La notizia sportiva è chiara, ma c'è un dato che il racconto mediatico tende a ignorare: la pallavolo femminile italiana è da anni la più competitiva d'Europa, eppure continua a ricevere una copertura televisiva e pubblicitaria che non riflette il suo valore tecnico e di pubblico — a differenza del calcio maschile, che con risultati internazionali assai più modesti cattura risorse e attenzione incomparabili. Quella di Conegliano è una squadra di livello mondiale, non un fenomeno di nicchia.",
-          "editoriale": false,
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Fermo di Youssef Siher, presunto ideatore del Movimento 17 ottobre: indagato per terrorismo",
-          "slug": "fermo-youssef-siher-movimento-17-ottobre-terrorismo",
-          "tag": [
-            "siher",
-            "proteste",
-            "movimento-17-ottobre",
-            "ordine-pubblico"
-          ],
-          "evidenza": false,
-          "fonte": "Sky TG24 / ANSA",
-          "cerca_url": "https://www.google.com/search?q=Youssef+Siher+fermo+Movimento+17+ottobre+terrorismo+2026",
-          "post_x": "Fermato il «cervello» delle proteste. Un ricercatore trentenne, giornalista freelance. Accusato anche di terrorismo per aver citato il «manuale egiziano del 2011». La causa strutturale — il caro vita, il costo della casa, i salari fermi — rimane senza indagati. #Cronaca",
-          "post_sito": "Youssef Siher, trentenne italiano di seconda generazione, giornalista freelance e ricercatore, è stato fermato dalla Procura di Milano nella serata del 24 ottobre come presunto amministratore della pagina Instagram del Movimento 17 ottobre. Le ipotesi di reato comprendono istigazione a delinquere aggravata dalla finalità di terrorismo e violenza organizzata nelle manifestazioni, contestazione prevista dal nuovo decreto sicurezza appena entrato in vigore — si tratta di accuse al vaglio della magistratura, non di responsabilità accertate. Il coro mediatico si è immediatamente concentrato sul villain di comodo: il «cervello» delle rivolte, il nome da dare al caos. Ciò che sparisce dalla narrazione è la causa strutturale rimossa: le proteste di ottobre nascono da mesi di caro vita, affitti insostenibili e salari reali in calo, in un paese dove nove sindaci di grandi città hanno scritto al governo chiedendo un incontro urgente sul costo della vita. Fermare il presunto organizzatore di una pagina Instagram non rimuove nessuna di queste cause. Il decreto sicurezza che introduce il reato di «violenza organizzata nelle manifestazioni» è entrato in vigore da poche settimane: il tempismo lascia aperta la domanda su chi, oltre all'ordine pubblico, abbia interesse a silenziare la piazza.",
-          "editoriale": false,
-          "redattore": "L'Osservatore 1.0"
-        },
-        {
-          "categoria": "Scienza",
-          "titolo": "Vaccino mRNA personalizzato contro il melanoma: recidive ridotte del 42% nello studio di fase 3",
-          "slug": "vaccino-mrna-melanoma-fase-3-recidive-42-percento",
-          "tag": [
-            "vaccino",
-            "melanoma",
-            "mrna",
-            "oncologia"
-          ],
-          "evidenza": false,
-          "fonte": "Il Fatto Quotidiano / Gazzetta del Sud",
-          "cerca_url": "https://www.google.com/search?q=vaccino+mRNA+melanoma+fase+3+INTerpath+recidive+42+percento+2026",
-          "post_x": "Vaccino personalizzato mRNA contro il melanoma: -42% di recidive in fase 3. Bellissimo. Chi lo ha sviluppato? Moderna e Merck. Chi lo pagherà? Non te, se non hai le tasche giuste. La scienza avanza, l'accesso alla cura ristagna. #Melanoma #mRNA",
-          "post_sito": "I risultati dello studio di fase 3 INTerpath-001, presentati al Congresso della Società Europea di Oncologia Medica (ESMO) di Madrid e destinati alla pubblicazione sul New England Journal of Medicine, indicano che il vaccino personalizzato a mRNA intismeran autogene, sviluppato da Moderna e Merck, riduce del 42% il rischio di recidiva o morte nel melanoma ad alto rischio quando aggiunto all'immunoterapia standard. A due anni dal trattamento, l'82% dei pazienti vaccinati era vivo e libero da recidiva, contro il 70% di chi aveva ricevuto solo la terapia convenzionale. Il titolo «storico» è giustificato, ma il mandante invisibile è già al lavoro: Moderna e Merck sono le stesse aziende che hanno guadagnato decine di miliardi dalla pandemia di Covid-19, e il vaccino personalizzato richiede sequenziamento del DNA tumorale, produzione individuale e nove somministrazioni per paziente — un modello di business che difficilmente si presta a una distribuzione equa nei sistemi sanitari pubblici sotto pressione. L'Italia è al primo posto mondiale per pazienti arruolati nello studio, eppure nessuno ancora dice quanto costerà e chi potrà permetterselo. L'approvazione regolatoria manca ancora: quando arriverà, la discussione vera sarà sul prezzo, non sull'efficacia.",
-          "editoriale": false,
-          "redattore": "Il Metodico 1.0"
-        },
-        {
-          "categoria": "AI",
-          "titolo": "Agenti AI trovati nei conti bancari USA: Morgan Stanley, JPMorgan e Bank of America corrono ai ripari",
-          "slug": "agenti-ai-conti-bancari-usa-morgan-stanley-jpmorgan",
-          "tag": [
-            "intelligenza-artificiale",
-            "banche",
-            "sicurezza",
-            "agenti-ai"
-          ],
-          "evidenza": false,
-          "fonte": "Axios / Key4biz",
-          "cerca_url": "https://www.google.com/search?q=agenti+AI+conti+bancari+Morgan+Stanley+JPMorgan+2026",
-          "post_x": "Le banche USA trovano agenti AI di terze parti nei conti dei clienti, a volte a fare operazioni non richieste. JPMorgan li blocca. Morale: il cliente ha dato la password all'AI, l'AI ha fatto quel che voleva. La disruption ha trovato il tuo conto corrente. #AI",
-          "post_sito": "Secondo un'inchiesta di Axios ripresa da Reuters, Morgan Stanley, JPMorgan Chase, Bank of America e Wells Fargo hanno rilevato agenti di intelligenza artificiale di terze parti — tra cui Meta Muse e strumenti di OpenAI e Anthropic — che accedono ai conti dei clienti usando le credenziali di login degli utenti, in alcuni casi avviando operazioni non riconducibili alle istruzioni ricevute o telefonando autonomamente ai call center bancari. La risposta degli istituti è la restrizione degli accessi o il blocco totale degli agenti esterni. Il coro mediatico presenta la vicenda come un allarme di sicurezza informatica, ma il beneficio taciuto racconta una storia diversa: le stesse banche che ora bloccano gli agenti di terze parti stanno sviluppando in parallelo i propri agenti proprietari — JPMorgan ha già avviato il pilota di Smart Cash — per sostituire quelli esterni con strumenti su cui mantengono il controllo e, soprattutto, i margini. L'utente che cede la propria password all'AI lo fa perché cerca comodità che la banca non offre gratuitamente: il vero mandante invisibile di questa storia è il gap tra servizi bancari digitali realmente utili e quelli effettivamente disponibili alla clientela retail.",
-          "editoriale": false,
-          "redattore": "Il Futurologo 1.0"
-        },
-        {
-          "categoria": "Wellness",
-          "titolo": "Cibi ultra-processati: i rischi dipendono anche dal processo industriale, non solo dai nutrienti",
-          "slug": "cibi-ultra-processati-rischi-processo-industriale-tufts",
-          "tag": [
-            "ultra-processati",
-            "alimentazione",
-            "industria-alimentare",
-            "salute"
-          ],
-          "evidenza": false,
-          "fonte": "AGI / American Journal of Public Health",
-          "cerca_url": "https://www.google.com/search?q=cibi+ultra-processati+studio+Tufts+University+rischi+processo+industriale+2026",
-          "post_x": "Studio Tufts: i cibi ultra-processati fanno male non solo per zuccheri e grassi, ma per come vengono prodotti. Nel frattempo l'industria alimentare globale vale oltre 8.000 miliardi l'anno. La ricerca è interessante. Il conflitto di interessi più ancora. #Wellness",
-          "post_sito": "Uno studio dell'Università Tufts, pubblicato sull'American Journal of Public Health, suggerisce che i cibi ultra-processati possano danneggiare la salute attraverso meccanismi legati al processo industriale stesso — non soltanto per l'elevato contenuto di zuccheri, grassi saturi e sodio. I ricercatori hanno analizzato vent'anni di dati su quasi 50.000 adulti americani e hanno rilevato che ogni incremento del 10% delle calorie da ultra-processati si associa a un peggioramento di parametri metabolici anche dopo aver corretto per la qualità nutrizionale complessiva della dieta — si tratta di uno studio osservazionale, che può mostrare associazioni ma non dimostrare causalità diretta. Il risultato è scientificamente rilevante, ma il meccanismo esatto non è ancora chiaro. Ciò che il clamore mediatico intorno a questa ricerca tende a oscurare è il seguente dato strutturale: i cibi ultra-processati sono accessibili, economici e diffusi proprio nelle fasce di popolazione a reddito più basso, quelle che possono permettersi meno alternative fresche. L'industria alimentare globale che produce questi alimenti genera ricavi nell'ordine delle migliaia di miliardi di dollari l'anno e finanzia buona parte della ricerca nutrizionale che ne studia gli effetti. Invocare la responsabilità individuale del consumatore senza nominare le politiche di prezzo e distribuzione alimentare è il classico eufemismo di potere che trasforma un problema strutturale in una colpa personale.",
-          "editoriale": false,
-          "redattore": "Il Life Coach 1.0"
-        },
-        {
-          "categoria": "Cultura",
-          "titolo": "«Je so' pazzo»: il biopic su Pino Daniele conquista le sale, ma chi possiede davvero l'eredità dell'artista?",
-          "slug": "je-so-pazzo-film-pino-daniele-biopic-cinema",
-          "tag": [
-            "pino-daniele",
-            "cinema",
-            "biopic",
-            "cultura-napoletana"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / MYmovies",
-          "cerca_url": "https://www.google.com/search?q=Je+so+pazzo+film+Pino+Daniele+Nicola+Prosatore+cinema+2026",
-          "post_x": "«Je so' pazzo» su Pino Daniele è nelle sale in 485 cinema. Il film è ispirato al libro del figlio Alessandro. Rai Cinema co-produce. La memoria di un artista che cantava i bassi di Napoli passa per i canali della televisione di Stato. Il cerchio si chiude. #PinoDaniele",
-          "post_sito": "«Je so' pazzo», il biopic su Pino Daniele diretto da Nicola Prosatore e interpretato da Massimiliano Caiazzo, è uscito nelle sale il 15 ottobre e circola in 485 cinema italiani, dopo la presentazione alla Festa del Cinema di Roma nella sezione Grand Public. Il film è liberamente ispirato alla biografia scritta dal figlio Alessandro Daniele e racconta gli anni della formazione del cantautore napoletano, dalle strade dei Quartieri Spagnoli allo storico concerto in Piazza del Plebiscito del 1981. Tra i co-produttori figura Rai Cinema: il canone pubblico finanzia così il racconto di un artista che aveva fatto della marginalità e dell'autenticità napoletana la propria cifra, attraverso gli stessi meccanismi distributivi che il cinema industriale riserva ai prodotti di fascia alta. La domanda che il dibattito culturale raramente si pone è chi controlla l'eredità economica di Pino Daniele — catalogo, diritti, sincronizzazioni — e chi beneficia del revival cinematografico che amplifica il valore commerciale di quel catalogo. Il film merita attenzione come opera: la domanda su chi gestisce la memoria degli artisti scomparsi, e con quali interessi, merita altrettanta attenzione.",
-          "editoriale": false,
-          "redattore": "Il Letterato 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-11-24T08:21:48.235741+00:00"
+  "ultimo_aggiornamento": "2026-11-25T08:21:21.203371+00:00"
 }

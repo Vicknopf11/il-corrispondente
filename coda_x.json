@@ -1,77 +1,77 @@
 {
-  "data": "2026-11-24",
+  "data": "2026-11-25",
   "tweet": [
     {
-      "testo": "Kiev bombarda navi russe a Bengasi e tutti parlano di «escalation». Nessuno parla di cosa ci facessero quelle navi in Libia. Risposta: lo stesso che ci facciamo noi da anni. #Ucraina #Libia",
-      "url": "https://corrispondente.filoclastos.it/2026/11/24/ucraina-attacca-navi-russe-libia-mediterraneo/",
-      "slug": "ucraina-attacca-navi-russe-libia-mediterraneo",
+      "testo": "L'Ucraina bombarda navi russe a Bengasi e l'Italia «non era a conoscenza». Tajani chiama Kiev. Noi che abbiamo basi, interessi energetici e accordi in Libia da decenni. Sorpresi. 🫠",
+      "url": "https://corrispondente.filoclastos.it/2026/11/25/ucraina-attacco-droni-bengasi-libia-italia/",
+      "slug": "ucraina-attacco-droni-bengasi-libia-italia",
       "categoria": "Politica Internazionale",
-      "evidenza": false,
-      "pubblicato": true
-    },
-    {
-      "testo": "De Gennaro lascia un hard disk sul tavolo — quello che i PM cercavano — come a dire: eccolo, non c'è nulla. Forse. Oppure c'è tutto. Due inchieste aperte, nessuna risposta. L'Italia è sempre stata così. #DeGennaro #ViadAmelio",
-      "url": "https://corrispondente.filoclastos.it/2026/11/24/de-gennaro-lettere-hard-disk-due-inchieste/",
-      "slug": "de-gennaro-lettere-hard-disk-due-inchieste",
-      "categoria": "Politica Nazionale",
       "evidenza": true,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Oggi parte l'OPAS di Intesa su MPS da 34,5 miliardi. La banca più antica del mondo — 554 anni — passa sotto Ca' de Sass. Il MEF aderirà. Lo stesso MEF che l'ha salvata con i soldi pubblici. Cerchio chiuso. #MPS #Intesa",
-      "url": "https://corrispondente.filoclastos.it/2026/11/24/opas-intesa-mps-adesioni-34-miliardi/",
-      "slug": "opas-intesa-mps-adesioni-34-miliardi",
+      "testo": "L'UE promuove la manovra italiana, Dombrovskis chiede «prudenza». Dentro, però, Forza Italia blocca la tassa sugli extraprofitti. Forse Mondadori e le banche non c'entrano nulla. Forse. 🤌",
+      "url": "https://corrispondente.filoclastos.it/2026/11/25/manovra-ue-promuove-forza-italia-extraprofitti/",
+      "slug": "manovra-ue-promuove-forza-italia-extraprofitti",
+      "categoria": "Politica Nazionale",
+      "evidenza": false,
+      "pubblicato": false
+    },
+    {
+      "testo": "Trump: «Concederei la grazia a Jensen Huang se necessario». Nvidia crolla del 6% a Wall Street, Tokyo cede il 3,3%. L'uomo che dovrebbe rispondere del Congresso è già coperto dal presidente. 🎲",
+      "url": "https://corrispondente.filoclastos.it/2026/11/25/nvidia-trump-grazia-jensen-huang-borse-asiatiche/",
+      "slug": "nvidia-trump-grazia-jensen-huang-borse-asiatiche",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "A Ginevra oggi inizia il Mondiale di scacchi più giovane della storia: Gukesh (India) contro Sindarov (Uzbekistan), entrambi 20 anni. 14 partite, 2,5 milioni di dollari in palio, nessuna diretta TV. Il calcio può stare tranquillo. #Scacchi #FIDE",
-      "url": "https://corrispondente.filoclastos.it/2026/11/24/mondiale-scacchi-2026-gukesh-sindarov-ginevra/",
-      "slug": "mondiale-scacchi-2026-gukesh-sindarov-ginevra",
+      "testo": "Sinner operato al ginocchio a Turku. Niente Australian Open, forse rientro in primavera. L'uomo che ha vinto Wimbledon a luglio e si è fermato ad agosto. Tre mesi di silenzio, poi il bisturi. #Sinner",
+      "url": "https://corrispondente.filoclastos.it/2026/11/25/sinner-operazione-ginocchio-finlandia-rientro-primavera/",
+      "slug": "sinner-operazione-ginocchio-finlandia-rientro-primavera",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Sinner si opera oggi a Turku da Lempainen per la bandelletta ileotibiale. Stop stimato 3-4 mesi, Australian Open saltati. La vera notizia: il numero 1 al mondo aveva giocato per mesi con questo problema. Nessuno l'ha fermato prima. #Sinner #Tennis",
-      "url": "https://corrispondente.filoclastos.it/2026/11/24/sinner-operazione-ginocchio-finlandia-stop/",
-      "slug": "sinner-operazione-ginocchio-finlandia-stop",
+      "testo": "«Sei arrivato dove neanche la mafia era riuscita ad arrivare»: De Gennaro al pm di Caltanissetta, nell'ultima lettera. I Ris confermano la grafia. L'Italia scopre i suoi fantasmi uno alla volta. 📜",
+      "url": "https://corrispondente.filoclastos.it/2026/11/25/de-gennaro-lettere-ris-caltanissetta-via-damalio/",
+      "slug": "de-gennaro-lettere-ris-caltanissetta-via-damalio",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "BepiColombo è entrata in orbita attorno a Mercurio dopo 8 anni e 10,2 miliardi di km. Missione ESA-JAXA, budget ~1,65 miliardi di euro. Seconda sonda nella storia ad orbitare Mercurio. Prima che qualcuno dica che «i soldi servivano ad altro». #BepiColombo #Spazio",
-      "url": "https://corrispondente.filoclastos.it/2026/11/24/bepicolombo-orbita-mercurio-esa-jaxa/",
-      "slug": "bepicolombo-orbita-mercurio-esa-jaxa",
+      "testo": "Il CNR di Parma e Padova inventano pannelli solari che si piegano come fogli di plastica. Pubblicato su Solar Energy. In Italia. Dove i fondi alla ricerca sono stati tagliati. 🌞",
+      "url": "https://corrispondente.filoclastos.it/2026/11/25/pannelli-fotovoltaici-flessibili-silicio-cnr-padova/",
+      "slug": "pannelli-fotovoltaici-flessibili-silicio-cnr-padova",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Amazon paga 7,5 miliardi per Decart, startup israeliana di 3 anni. Obiettivo: far girare l'AI sui chip Trainium invece che su quelli Nvidia. Nel frattempo Nvidia è tornata al +30% con il CEO salvato da Trump. Tutto torna. #Amazon #Nvidia #AI",
-      "url": "https://corrispondente.filoclastos.it/2026/11/24/amazon-acquisisce-decart-ai-75-miliardi/",
-      "slug": "amazon-acquisisce-decart-ai-75-miliardi",
+      "testo": "Tidal rimuove 27 milioni di brani generati al 100% dall'AI dal 9 dicembre. Il 43% della musica consegnata negli ultimi 90 giorni era sintetica. Il 96% di questi brani non aveva un solo ascolto. 🤖🎵",
+      "url": "https://corrispondente.filoclastos.it/2026/11/25/tidal-ban-musica-ai-generata-dicembre-2026/",
+      "slug": "tidal-ban-musica-ai-generata-dicembre-2026",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "CNR: il 27,4% degli studenti tra 15 e 19 anni passa più di 4 ore al giorno sui social anche nei giorni di scuola. L'11,5% supera le 6 ore. 208mila «a rischio». Le piattaforme: «Stiamo lavorando sulla sicurezza». Da 20 anni. #Adolescenti #SocialMedia",
-      "url": "https://corrispondente.filoclastos.it/2026/11/24/cnr-adolescenti-social-media-4-ore-rischio/",
-      "slug": "cnr-adolescenti-social-media-4-ore-rischio",
+      "testo": "Il benessere entra nei KPI aziendali. Ora la tua «sicurezza psicologica» è monitorata come il fatturato. L'industria del wellness ha trovato il modo di fatturare anche quando sei al lavoro. 📊🧘",
+      "url": "https://corrispondente.filoclastos.it/2026/11/25/wellness-kpi-aziendale-produttivita-industria/",
+      "slug": "wellness-kpi-aziendale-produttivita-industria",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "«Se domani non torno», film su Giulia Cecchettin, è ancora in sala a tre settimane dall'uscita. Prodotto da Notorious Pictures con Mediaset e Sky. Il dolore di una famiglia trasformato in prodotto culturale — e questa volta con la benedizione della famiglia stessa. Questione aperta. #Cinema #Cecchettin",
-      "url": "https://corrispondente.filoclastos.it/2026/11/24/se-domani-non-torno-film-cecchettin-cinema/",
-      "slug": "se-domani-non-torno-film-cecchettin-cinema",
+      "testo": "«Una Nessuna Centomila» alla terza edizione: stasera da Piazza del Plebiscito su Rai 1. Duetti inediti, messaggi forti. Domani, le cifre: 67 donne uccise nel 2026. 38 dal partner. L'evento non cambia i numeri. 🔴",
+      "url": "https://corrispondente.filoclastos.it/2026/11/25/una-nessuna-centomila-rai1-napoli-25-novembre/",
+      "slug": "una-nessuna-centomila-rai1-napoli-25-novembre",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }
