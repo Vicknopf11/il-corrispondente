@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-26",
+      "slug": "goldman-sachs-pil-italia-frenata-2027",
+      "categoria": "Economia",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-26",
       "slug": "meloni-arretrati-magistrati-consiglio-di-stato",
       "categoria": "Politica Nazionale",
       "evidenza": false,
