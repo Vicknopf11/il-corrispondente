@@ -1,14 +1,6 @@
 {
-  "generato": "2026-11-26T12:31:31.479654+00:00",
+  "generato": "2026-11-26T18:31:24.682772+00:00",
   "item": [
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "LIVE Gukesh-Sindarov, Mondiale scacchi 2026 in DIRETTA: dalla terza partita si attendono scintille",
-      "link": "https://www.oasport.it/2026/11/live-gukesh-sindarov-mondiale-scacchi-2026-in-diretta-dalla-terza-partita-si-attendono-scintille/",
-      "fonte": "OA Sport — Scacchi",
-      "data_evento": "2026-11-26"
-    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
@@ -20,32 +12,24 @@
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
-      "titolo": "Pallanuoto, i migliori italiani della nona giornata di A1: l’uragano Manzi non salva il C.C. Napoli. De Robertis trascina l’Olympic",
-      "link": "https://www.oasport.it/2026/11/pallanuoto-i-migliori-italiani-della-nona-giornata-di-a1-luragano-manzi-non-salva-il-c-c-napoli-de-robertis-trascina-lolympic/",
-      "fonte": "OA Sport — Pallanuoto",
+      "titolo": "Ferrari Hypersail, annunciata la partnership con lo Yacht Club italiano e un nuovo ingresso nel team",
+      "link": "https://www.gazzetta.it/vela/26-11-2026/ferrari-hypersail-elkannn-presenta-l-equipaggio-per-attentare-al-record-del-jules-verne.shtml",
+      "fonte": "Gazzetta — Vela e Nautica",
       "data_evento": "2026-11-26"
-    },
-    {
-      "sottocategoria": "Calcio femminile",
-      "tipo": "notizia",
-      "titolo": "La fabbrica dei campioni di Kim Jong-un: lo sport al servizio del regime in Corea del Nord",
-      "link": "https://www.gazzetta.it/Sport-Vari/21-11-2026/kim-jong-un-e-lo-sport-in-corea-del-nord-tra-propaganda-e-successi-mondiali.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-11-21"
     },
     {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
-      "titolo": "NBA, top 5 della notte: Wembanyama senza senso, Bridges segna da \"fuori campo\"",
-      "link": "https://video.gazzetta.it/basket/nba/video-nba-top-5-della-notte-wembanyama-senza-senso-bridges-segna-da-fuori-campo/899003f2-a48b-4616-b0b0-b6f4d367fxlk",
-      "fonte": "Gazzetta — Basket",
+      "titolo": "I formidabili tre giorni di Twickenham: 6 finali, a Londra un weekend che sa di Mondiale",
+      "link": "https://www.gazzetta.it/Rugby/26-11-2026/rugby-finali-nations-championship-a-twickenham-il-programma.shtml",
+      "fonte": "Gazzetta — Rugby",
       "data_evento": "2026-11-26"
     },
     {
       "sottocategoria": "Atletica",
       "tipo": "notizia",
-      "titolo": "A Scaloni non basta il Mondiale con l'Argentina: si qualifica a quello del Gran Fondo. Quanti big in bici con lui",
-      "link": "https://www.gazzetta.it/Ciclismo/26-11-2026/scaloni-altro-mondiale-il-ct-dell-argentina-si-qualifica-ai-gran-fondo-2027-in-bici.shtml",
+      "titolo": "Dai due Mondiali all’addio senza ultimo ballo: perché è finita tra Bagnaia e Ducati",
+      "link": "https://www.gazzetta.it/Moto/moto-GP/26-11-2026/bagnaia-ducati-perche-e-finita-dall-arrivo-di-marquez-all-addio-di-pecco.shtml",
       "fonte": "Gazzetta — Ciclismo",
       "data_evento": "2026-11-26"
     },
@@ -64,6 +48,22 @@
       "link": "https://www.corrieredellosport.it/news/altri-sport/sci/2026/11/26-152846318/un_futuro_scritto_dalla_culla_e_quel_talento_e_grinta_naturale_lindimenticabile_successo_di_federica_brignone/",
       "fonte": "Corriere dello Sport — Altri sport",
       "data_evento": "2026-11-26"
+    },
+    {
+      "sottocategoria": "Calcio femminile",
+      "tipo": "notizia",
+      "titolo": "Calcio: Abodi, 'con l'1% ai dilettanti rispettiamo gli impegni'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/26/calcio-abodi-con-l1-ai-dilettanti-rispettiamo-gli-impegni_1ef9f4a4-756e-4268-bace-d0cabd82ef50.html",
+      "fonte": "ANSA Sport",
+      "data_evento": "2026-11-26"
+    },
+    {
+      "sottocategoria": "Equitazione e ippica",
+      "tipo": "notizia",
+      "titolo": "GC Playoff Verona, Supercoppa a squadre agli Istanbul Warriors",
+      "link": "https://www.corrieredellosport.it/news/altri-sport/equitazione/2026/11/22-152765983/gc_playoff_verona_supercoppa_a_squadre_agli_istanbul_warriors/",
+      "fonte": "Corriere dello Sport — Altri sport",
+      "data_evento": "2026-11-22"
     }
   ]
 }
