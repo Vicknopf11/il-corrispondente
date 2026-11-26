@@ -1,6 +1,403 @@
 {
   "edizioni": [
     {
+      "data": "2026-11-26",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Dazi Trump al 15-20% sull'Europa: il Consiglio europeo straordinario sotto scacco",
+          "slug": "dazi-trump-europa-consiglio-europeo-straordinario",
+          "tag": [
+            "dazi",
+            "trump",
+            "unione-europea",
+            "commercio"
+          ],
+          "evidenza": true,
+          "fonte": "Corriere della Sera / Focus America",
+          "cerca_url": "https://www.google.com/search?q=dazi+Trump+Europa+15+percent+novembre+2026",
+          "post_x": "Trump annuncia dazi al 15% sull'UE mentre i leader europei sono riuniti a Bruxelles per parlare di… bilanci. Tempismo impeccabile. Chi ci guadagna? Come sempre, chi produce in America e vende in Europa. #dazi #Trump",
+          "post_sito": "Mentre i leader europei siedono a Bruxelles per il Consiglio straordinario sul quadro finanziario 2028-2034 e sui fondi all'Ucraina, Washington annuncia dazi al 15% sulle importazioni dall'UE e fino al 20% su altri partner, accusandoli di «eccesso di capacità produttiva globale». Il tempismo non è casuale: indebolire il potere negoziale europeo nel momento in cui è già diviso sul bilancio è una mossa da manuale. Chi ci guadagna? L'industria manifatturiera americana protetta dalla concorrenza, i contractor della difesa che vedono l'Europa spendere di più per armarsi, e i fondi speculativi che scommettono sulla volatilità delle Borse — ieri in ribasso, oggi rimbalzate a +2,32% a Milano: qualcuno ha comprato al ribasso. La Commissione UE respinge le conclusioni americane, il Brasile dice «non cederemo», la Cina parla di «manipolazione politica». Tutti indignati, nessuno che ricordi come l'UE abbia fatto esattamente la stessa cosa — in forme diverse — con i dazi sull'acciaio cinese. Il rappresentante commerciale Greer precisa che le misure non entreranno in vigore prima di due mesi: abbastanza tempo per negoziare, o abbastanza tempo per farsi trovare divisi.",
+          "fatti": [
+            {
+              "testo": "Gli Stati Uniti hanno proposto dazi del 15% sulle importazioni dall'Unione europea e fino al 20% su Singapore, accusando 14 economie di contribuire a un eccesso globale di capacità produttiva.",
+              "fonte": "Focus America",
+              "url": "https://focusamerica.it/la-rassegna-stampa-di-giovedi-26-novembre-2026/"
+            },
+            {
+              "testo": "Il rappresentante commerciale Jamieson Greer ha precisato che le misure non entreranno in vigore prima di un paio di mesi.",
+              "fonte": "Focus America",
+              "url": "https://focusamerica.it/la-rassegna-stampa-di-giovedi-26-novembre-2026/"
+            },
+            {
+              "testo": "Il Consiglio europeo straordinario del 26-27 novembre discute il quadro finanziario pluriennale 2028-2034 e i finanziamenti all'Ucraina per il 2027.",
+              "fonte": "Teleborsa",
+              "url": "https://www.teleborsa.it/News/2026/11/26/eventi-e-scadenze-del-26-novembre-2026-17.html"
+            },
+            {
+              "testo": "Le Borse europee hanno aperto in forte rialzo il 26 novembre, con Milano migliore a +2,32%, dopo le forti perdite del giorno precedente causate dall'annuncio dei dazi.",
+              "fonte": "QuiFinanza",
+              "url": "https://quifinanza.it/dirette/borsa-ultime-notizie-26-novembre-2026/1025825/"
+            }
+          ],
+          "incerto": [
+            "Se e quando i dazi entreranno effettivamente in vigore, e quale risposta concreta adotterà la Commissione europea dopo il Consiglio straordinario."
+          ],
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La posizione di Washington",
+              "testo": "L'amministrazione Trump giustifica i nuovi dazi con l'accusa alle 14 economie colpite di contribuire a un eccesso globale di capacità produttiva che danneggerebbe l'industria americana. Il rappresentante commerciale Greer ha chiarito che le misure non sono immediate: i dazi non scatteranno prima di due mesi, lasciando aperta una finestra negoziale. La Casa Bianca inquadra la mossa come una risposta a pratiche commerciali sleali e non come una rottura dei rapporti multilaterali."
+            },
+            {
+              "etichetta": "La risposta europea",
+              "testo": "La Commissione europea ha respinto le conclusioni dell'indagine americana, definendole infondate. I leader dell'UE si trovano in una posizione negoziale complicata: il Consiglio europeo straordinario del 26-27 novembre è già impegnato su dossier divisivi come il bilancio pluriennale e i fondi per l'Ucraina. L'UE ha già fronteggiato tariffe americane in passato — sull'acciaio e l'alluminio — e ogni volta ha risposto con ritorsioni mirate, ma raramente senza danni collaterali per le proprie esportazioni, in particolare il settore automobilistico e manifatturiero."
+            },
+            {
+              "etichetta": "Chi ci rimette",
+              "testo": "Le economie europee più esposte alle esportazioni verso gli USA — Germania, Italia, Francia — rischiano contraccolpi nel settore manifatturiero e automotive. Le Borse europee hanno già reagito negativamente all'annuncio, con un forte ribasso seguito da un rimbalzo tecnico. Il Brasile, colpito su zucchero e aerei, ha dichiarato che non cederà. L'impatto reale dipenderà dalla risposta negoziale dei prossimi due mesi e da quanto l'UE riuscirà a presentarsi unita."
+            },
+            {
+              "etichetta": "Il contesto geopolitico",
+              "testo": "L'annuncio avviene mentre Trump e il segretario generale NATO Rutte, in un incontro in Florida, chiedono alla Russia di non estendere il conflitto in Ucraina. L'Europa si trova così contemporaneamente sotto pressione commerciale da Washington e dipendente dalla garanzia di sicurezza americana nel quadro NATO. Questa doppia leva — commerciale e militare — riduce il margine di risposta autonoma dell'UE e rafforza il potere negoziale americano."
+            }
+          ],
+          "implicazioni": "Se i dazi entrassero in vigore, le esportazioni europee verso gli USA — in particolare auto, macchinari e prodotti agroalimentari — subirebbero un aumento del costo competitivo stimabile in miliardi di euro. L'UE potrebbe rispondere con tariffe di ritorsione, innescando un'escalation commerciale in un momento già difficile per la crescita europea. Per l'Italia, il cui PIL è atteso rallentare allo 0,5% nel 2027 secondo Goldman Sachs, un ulteriore shock esterno potrebbe risultare particolarmente gravoso.",
+          "redattore": "Il Corrispondente Estero 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Meloni sfida il Consiglio di Stato: «Non paghiamo gli arretrati ai magistrati»",
+          "slug": "meloni-arretrati-magistrati-consiglio-di-stato",
+          "tag": [
+            "magistratura",
+            "meloni",
+            "stipendi",
+            "governo"
+          ],
+          "evidenza": false,
+          "fonte": "Today.it / La Stampa",
+          "cerca_url": "https://www.google.com/search?q=Meloni+arretrati+magistrati+Consiglio+Stato+novembre+2026",
+          "post_x": "Il Consiglio di Stato ordina a Meloni di firmare il decreto sugli arretrati ai magistrati entro gennaio. Lei dice no. 50 milioni totali, ~5mila euro a testa. Lo scontro è politico, non economico. #magistratura #governo",
+          "post_sito": "Il Consiglio di Stato ha dato ragione ai magistrati: il governo deve pagare gli arretrati relativi all'adeguamento retributivo, calcolato al 6,22% per il triennio in questione — circa 50 milioni complessivi, con una media di poco più di cinquemila euro a testa. Meloni ha risposto con un no pubblico, e non parteciperà nemmeno al congresso dell'ANM a Napoli. Se non firmerà entro il 31 gennaio 2027, scatterà la nomina di un commissario ad acta. La cifra è irrisoria per un bilancio statale: il vero posta in gioco è il controllo del campo. Governo e magistratura si fronteggiano da mesi — tra riforme della giustizia, procedimenti penali che sfiorano l'area di governo e la riforma costituzionale sulla separazione delle carriere già respinta dal referendum. Chi ci guadagna dallo scontro permanente? Entrambe le parti: il governo raccoglie consenso presso chi vede i giudici come una casta privilegiata, la magistratura si compatta attorno a una narrazione di resistenza istituzionale. La causa strutturale rimossa è che nessuno parla della crisi profonda del sistema giustizia italiano: organici insufficienti, tempi biblici, carichi insostenibili. Cinquemila euro di arretrati fanno notizia; trecentomila cause in attesa, no.",
+          "fatti": [
+            {
+              "testo": "Il Consiglio di Stato ha stabilito che la premier Meloni deve firmare entro il 31 gennaio 2027 il decreto per il ricalcolo degli stipendi dei magistrati; in caso di inadempienza scatterà la nomina di un commissario ad acta.",
+              "fonte": "Today.it",
+              "url": "https://www.today.it/rassegna/start/ultime-notizie-oggi-26-novembre-2026.html"
+            },
+            {
+              "testo": "La percentuale degli arretrati per il triennio in questione è stata calcolata al 6,22%, per un totale di circa 50 milioni di euro, con una media di poco più di cinquemila euro a testa.",
+              "fonte": "Today.it",
+              "url": "https://www.today.it/rassegna/start/ultime-notizie-oggi-26-novembre-2026.html"
+            },
+            {
+              "testo": "La premier non sembra intenzionata a firmare il decreto e avrebbe deciso di non partecipare al congresso dell'ANM in programma a Napoli.",
+              "fonte": "Today.it",
+              "url": "https://www.today.it/rassegna/start/ultime-notizie-oggi-26-novembre-2026.html"
+            }
+          ],
+          "incerto": [
+            "Se il governo ricorrerà contro la sentenza del Consiglio di Stato o si adeguerà entro la scadenza del 31 gennaio 2027."
+          ],
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Goldman Sachs: PIL Italia frenata allo 0,5% nel 2027, sotto la media eurozona",
+          "slug": "goldman-sachs-pil-italia-frenata-2027",
+          "tag": [
+            "pil",
+            "goldman-sachs",
+            "economia-italiana",
+            "inflazione"
+          ],
+          "evidenza": false,
+          "fonte": "Salernonotizie / SoldiOnline",
+          "cerca_url": "https://www.google.com/search?q=Goldman+Sachs+PIL+Italia+0.5+2027+novembre+2026",
+          "post_x": "Goldman Sachs: PIL Italia +0,8% nel 2026, poi frenata allo 0,5% nel 2027. Colpa di inflazione e fine fondi UE. Chi ci guadagna dal rallentamento? Chi vende sanità privata e chi gestisce fondi pensione integrativi. #economia #Italia",
+          "post_sito": "Nel rapporto mensile «Global Economics Wrap-Up», Goldman Sachs stima per l'Italia una crescita dello 0,8% nel 2026 seguita da una frenata allo 0,5% nel 2027 — sotto la media dell'eurozona, stimata all'1% nel 2026 e 0,9% nel 2027. Le cause citate: inflazione che erode il potere d'acquisto e progressivo esaurimento dei fondi europei post-pandemia. Nessuno nella comunicazione ufficiale del governo cita che quegli stessi fondi europei hanno gonfiato artificialmente le cifre di crescita degli anni precedenti, e che senza quella droga il corpo produttivo italiano era già debilitato. Il beneficio taciuto sta altrove: ogni volta che il SSN si inceppa per mancanza di risorse e le liste d'attesa si allungano — quasi 3 milioni di italiani hanno già aspettato oltre i tempi garantiti nel solo primo semestre 2026 — il mercato della sanità privata cresce. Mediobanca stima per il 2026 un aumento del 3,7% del settore, con ricavi complessivi dei principali operatori privati vicini ai 13,4 miliardi di euro. La stagnazione non è un incidente: è un ecosistema.",
+          "fatti": [
+            {
+              "testo": "Goldman Sachs stima per l'Italia una crescita del PIL dello 0,8% nel 2026 e dello 0,5% nel 2027, secondo il rapporto mensile «Global Economics Wrap-Up».",
+              "fonte": "SoldiOnline",
+              "url": "https://www.soldionline.it/notizie/macroeconomia/goldman-sachs-vede-litalia-rallentare-perche-il-pil-scende-allo-05"
+            },
+            {
+              "testo": "Goldman Sachs indica tra le cause del rallentamento italiano l'inflazione che erode il potere d'acquisto e l'esaurimento del sostegno di bilancio europeo.",
+              "fonte": "SoldiOnline",
+              "url": "https://www.soldionline.it/notizie/macroeconomia/goldman-sachs-vede-litalia-rallentare-perche-il-pil-scende-allo-05"
+            },
+            {
+              "testo": "L'area euro è attesa crescere all'1% nel 2026 e allo 0,9% nel 2027: l'Italia risulterebbe sotto la media dell'eurozona.",
+              "fonte": "SoldiOnline",
+              "url": "https://www.soldionline.it/notizie/macroeconomia/goldman-sachs-vede-litalia-rallentare-perche-il-pil-scende-allo-05"
+            },
+            {
+              "testo": "Nei primi sei mesi del 2026, quasi 2,8 milioni di italiani hanno atteso più del dovuto per una visita medica o un esame nel servizio sanitario, secondo il bollettino Agenas.",
+              "fonte": "ANSA",
+              "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/07/21/migliorano-le-liste-dattesa-ma-quasi-3-milioni-di-italiani-attendono-piu-del-dovuto_bba4f583-0b4a-49a4-bc83-ab96070b500a.html"
+            }
+          ],
+          "incerto": [
+            "Se i dazi americani appena annunciati sull'UE si tradurranno in un ulteriore peggioramento delle stime di crescita italiane già nel 2026."
+          ],
+          "editoriale": false,
+          "redattore": "L'Analista 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Federica Brignone si ritira: doppio oro olimpico, poi la gamba che non guarisce",
+          "slug": "federica-brignone-ritiro-sci-alpino",
+          "tag": [
+            "sci-alpino",
+            "brignone",
+            "ritiro",
+            "milano-cortina"
+          ],
+          "evidenza": false,
+          "fonte": "AGI / Il Post",
+          "cerca_url": "https://www.google.com/search?q=Federica+Brignone+ritiro+sci+novembre+2026",
+          "post_x": "Brignone vince due ori a Milano-Cortina con un ginocchio rattoppato, torna sugli sci 91 giorni dopo l'operazione e si arrende al dolore. 37 vittorie in Coppa del Mondo, 5 medaglie olimpiche. E ora chi vende le scarpe da sci sponsor? #Brignone #sci",
+          "post_sito": "Federica Brignone ha annunciato il ritiro il 25 novembre in un video pubblicato sulla Federsci: a 36 anni, con 37 vittorie in Coppa del Mondo, 85 podi e cinque medaglie olimpiche — tra cui i due ori nel superG e nello slalom gigante a Milano-Cortina 2026 — la gamba sinistra non guarisce. L'aveva fratturata in modo composto nell'aprile 2025, era tornata in tempo per le Olimpiadi e aveva compiuto un'impresa sportiva senza precedenti: vincere l'oro dieci mesi dopo una frattura scomposta del piatto tibiale, con i legamenti al limite. Il conto dietro la medaglia è scritto sul suo corpo: 91 giorni dopo l'ennesimo intervento per rimuovere placca e viti, due giorni di test a Cervinia e la risposta del ginocchio è stata no. Nessuna storia di sacrificio e coraggio cambia i numeri: diciotto anni di carriera, un sistema dello sport d'élite che richiede ai corpi più di quanto possano dare, e poi la gestione dell'uscita — con la stessa discrezione con cui Brignone ha sempre corso, lontana dalle narrative trionfalistiche. Ha detto che vuole fare un'ultima gara per salutare. Almeno questo.",
+          "fatti": [
+            {
+              "testo": "Federica Brignone ha annunciato il ritiro il 25 novembre 2026 in un video pubblicato sulla sua pagina Instagram e sul sito della Federsci, a 36 anni.",
+              "fonte": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/25/federica-brignone-ritiro-sci-ultima-gara/"
+            },
+            {
+              "testo": "Brignone conta 37 vittorie nel massimo circuito internazionale, 85 podi complessivi e cinque medaglie olimpiche, tra cui due ori nel superG e nello slalom gigante a Milano-Cortina 2026.",
+              "fonte": "AGI",
+              "url": "https://www.agi.it/sport/news/2026-11-25/federica-brignone-ritiro-annuncio-40187342/"
+            },
+            {
+              "testo": "Il 25 agosto 2026 si era sottoposta a un nuovo intervento per rimuovere placca e viti dal ginocchio, ed era tornata sugli sci a Cervinia il 24 novembre, 91 giorni dopo l'operazione.",
+              "fonte": "Sport Mediaset",
+              "url": "https://www.sportmediaset.mediaset.it/sci/federica-brignone-ritiro-carriera-vittorie-record-infortunio_119409753-202602k.shtml"
+            },
+            {
+              "testo": "Brignone ha dichiarato di voler fare un'ultima gara per salutare il mondo dello sci, ma non è ancora stato reso noto quando e dove si terrà.",
+              "fonte": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/25/federica-brignone-ritiro-sci-ultima-gara/"
+            }
+          ],
+          "incerto": [
+            "Data e sede dell'ultima gara in carriera di Brignone, che ha espresso il desiderio di salutare i tifosi con un'ultima competizione."
+          ],
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Le lettere di De Gennaro: «Io, condannato a morte» — e la pista nera torna in Parlamento",
+          "slug": "lettere-de-gennaro-condannato-a-morte-pista-nera",
+          "tag": [
+            "de-gennaro",
+            "depistaggio",
+            "stragi",
+            "via-d-amelio"
+          ],
+          "evidenza": false,
+          "fonte": "Corriere della Sera / Il Fatto Quotidiano",
+          "cerca_url": "https://www.google.com/search?q=De+Gennaro+lettere+testamento+pista+nera+novembre+2026",
+          "post_x": "Le lettere di De Gennaro escono sul Corriere: «Io, condannato a morte». La famiglia non ha ancora le carte. PD e 5S chiedono di parlare della pista nera. E la Commissione Antimafia rinvia. Tutto torna. Sempre. #DeGennaro #viadAmelio",
+          "post_sito": "Il Corriere della Sera pubblica in esclusiva le lettere lasciate da Gianni De Gennaro — ex capo della Polizia — prima del suicidio: «Io, condannato a morte» è il titolo scelto dall'ex funzionario per descrivere la propria condizione di fronte all'inchiesta giudiziaria che lo coinvolgeva. Al magistrato di Caltanissetta scrive: «Se hai una coscienza mi avrai sulla coscienza». La famiglia non ha ancora ricevuto le carte. Mentre i giornali aprono sulle lettere, la Commissione Antimafia — come riferisce Repubblica — rinvia ancora la discussione sul depistaggio relativo alla strage di via D'Amelio. PD e 5S chiedono che si parli della pista nera. Si ipotizza il trasferimento del pentito Contorno dopo che negli atti è stato rivelato il suo rifugio segreto. La causa strutturale rimossa è semplice e antica: le stragi del 1992-1993 sono ancora processuali, ancora opache, ancora capaci di produrre convulsioni istituzionali a trent'anni di distanza. Chi trae vantaggio dal fatto che questa storia rimanga irrisolta? Chi non vuole che venga chiarito il ruolo di apparati istituzionali in quegli anni. La presunzione di innocenza vale per tutti, De Gennaro compreso.",
+          "fatti": [
+            {
+              "testo": "Il Corriere della Sera ha pubblicato in esclusiva le lettere lasciate da Gianni De Gennaro prima del suicidio, in cui si definisce «condannato a morte» e indica il messaggio come il suo testamento morale.",
+              "fonte": "Sky TG24",
+              "url": "https://tg24.sky.it/cronaca/2026/11/26/prime-pagine-quotidiani-oggi-26-novembre"
+            },
+            {
+              "testo": "La famiglia di De Gennaro non ha ancora ricevuto le carte lasciate dall'ex capo della Polizia, e si ipotizza il trasferimento del pentito Contorno dopo che negli atti è stato rivelato il suo rifugio segreto.",
+              "fonte": "tp24.it",
+              "url": "https://tp24.it/2026/11/26/cronaca/26-novembre-giornali-in-subbuglio-il-ritorno-di-grillo-le-lettere-di-de-gennaro/242757"
+            },
+            {
+              "testo": "Repubblica riporta che la Commissione Antimafia ha rinviato la discussione sul depistaggio relativo alla strage di via D'Amelio; PD e 5S chiedono che si parli della pista nera.",
+              "fonte": "GitHub/notiziario",
+              "url": "https://github.com/jakephobia/notiziario/releases/tag/episodio-2026-11-26"
+            }
+          ],
+          "incerto": [
+            "Il contenuto completo delle lettere di De Gennaro non è stato integralmente reso pubblico. Non è noto quando la famiglia riceverà i documenti lasciati dall'ex funzionario."
+          ],
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Scienza",
+          "titolo": "ESA e ASI chiudono a Roma l'Exploration Science Workshop: chi finanzia il futuro dello spazio europeo",
+          "slug": "esa-asi-exploration-science-workshop-roma-2026",
+          "tag": [
+            "spazio",
+            "esa",
+            "asi",
+            "esplorazione"
+          ],
+          "evidenza": false,
+          "fonte": "FlyEurope.tv / ASI",
+          "cerca_url": "https://www.google.com/search?q=Exploration+Science+Workshop+ESA+ASI+Roma+novembre+2026",
+          "post_x": "ESA e ASI chiudono oggi a Roma l'Exploration Science Workshop 2026: scienza e industria insieme per decidere le priorità dell'esplorazione spaziale europea. «Insieme» è la parola chiave. Chi finanzia decide dove si va. #spazio #ESA #ASI",
+          "post_sito": "Dal 24 al 26 novembre la sede dell'Agenzia Spaziale Italiana a Roma ha ospitato l'Exploration Science Workshop 2026, organizzato dall'ESA con il supporto dell'ASI: comunità scientifica e industria sedute allo stesso tavolo per definire le priorità dell'esplorazione europea. Seconda edizione dopo Varsavia 2024. Il format è lodevolmente trasparente sulla sua natura: non è solo un convegno scientifico, è un luogo in cui si decide dove andranno i miliardi del bilancio spaziale europeo nei prossimi anni. Chi ci guadagna? Le grandi aziende aerospaziali — Airbus, Thales, Leonardo — che trasformano le «priorità scientifiche» in commesse industriali. Chi finanzia la ricerca orienta le domande, e le domande orientano i contratti. Questo non rende la scienza meno reale, ma rende doveroso chiedersi quali missioni non vengono proposte perché non generano commesse appetibili — per esempio il monitoraggio dell'inquinamento atmosferico nei Paesi in via di sviluppo, che interessa la scienza ma non i contractor europei. Il mandante invisibile non è necessariamente malvagio: è semplicemente strutturale.",
+          "fatti": [
+            {
+              "testo": "Dal 24 al 26 novembre 2026 la sede dell'Agenzia Spaziale Italiana a Roma ha ospitato l'Exploration Science Workshop 2026, organizzato dall'ESA con il supporto dell'ASI, seconda edizione dopo quella di Varsavia nel 2024.",
+              "fonte": "FlyEurope.tv",
+              "url": "https://www.flyeurope.tv/aviation-tv/exploration-science-workshop-2026-roma-esa-asi"
+            },
+            {
+              "testo": "L'evento riunisce comunità scientifica e industria per definire priorità e tecnologie dell'esplorazione spaziale europea.",
+              "fonte": "FlyEurope.tv",
+              "url": "https://www.flyeurope.tv/aviation-tv/exploration-science-workshop-2026-roma-esa-asi"
+            }
+          ],
+          "incerto": [
+            "Non sono ancora pubblici i documenti conclusivi del workshop con le priorità scientifiche e tecnologiche indicate per l'esplorazione europea."
+          ],
+          "editoriale": false,
+          "redattore": "Il Metodico 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "AI",
+          "titolo": "FCC approva un milione di satelliti SpaceX per l'AI: Starmind e il cielo come data center",
+          "slug": "fcc-spacex-starmind-milione-satelliti-ai",
+          "tag": [
+            "spacex",
+            "fcc",
+            "intelligenza-artificiale",
+            "starmind"
+          ],
+          "evidenza": false,
+          "fonte": "CNBC / La Voce di New York",
+          "cerca_url": "https://www.google.com/search?q=FCC+SpaceX+Starmind+milione+satelliti+AI+novembre+2026",
+          "post_x": "La FCC autorizza SpaceX a lanciare 1 milione di satelliti-data center per l'AI. Amazon era contraria. Nessuna valutazione ambientale. Approvato durante la settimana del Ringraziamento. Musk ringrazia. #SpaceX #Starmind #AI",
+          "post_sito": "Il 25 novembre 2026, la Federal Communications Commission ha autorizzato SpaceX a lanciare fino a un milione di satelliti per costruire «Starmind», una costellazione di data center orbitali dedicati al calcolo per l'intelligenza artificiale. Prima autorizzazione del genere nella storia delle telecomunicazioni. Il piano prevede 500.000 satelliti entro novembre 2038 e il completamento dell'intera rete entro il 2040. I satelliti orbiteranno tra 500 e 1.002 chilometri di quota ed elaboreranno dati alimentati dall'energia solare, trasmettendo i risultati a Terra via laser. Beneficio taciuto primo: il via libera è arrivato durante la settimana del Ringraziamento — un avvocato di Earthjustice ha già criticato la FCC per aver emesso la decisione in un momento di minore attenzione pubblica e senza alcuna valutazione d'impatto ambientale. Beneficio taciuto secondo: SpaceX aveva usato il progetto Starmind come pezzo forte nella presentazione agli investitori in occasione della propria IPO a giugno — l'approvazione regolatoria gonfia il valore della società. Mandante invisibile: la FCC è oggi presieduta da Brendan Carr, nominato da Trump; Musk è uomo di fiducia dell'amministrazione. Amazon — con la propria costellazione «Leo» in competizione — aveva chiesto alla FCC di negare l'autorizzazione, definendo Starmind «un'ambizione senza un piano reale». Richiesta respinta.",
+          "fatti": [
+            {
+              "testo": "Il 25 novembre 2026, la FCC ha approvato la richiesta di SpaceX di lanciare fino a un milione di satelliti per creare la costellazione Starmind, una rete di data center orbitali per il calcolo AI.",
+              "fonte": "La Voce di New York",
+              "url": "https://lavocedinewyork.com/news/2026/11/26/elon-musk-porta-lia-in-orbita-via-libera-a-un-milione-di-satelliti/"
+            },
+            {
+              "testo": "SpaceX dovrà avere il primo satellite operativo entro il 25 novembre 2033, 100.000 satelliti entro novembre 2035, 500.000 entro novembre 2038 e completare la rete entro il 25 novembre 2040.",
+              "fonte": "La Voce di New York",
+              "url": "https://lavocedinewyork.com/news/2026/11/26/elon-musk-porta-lia-in-orbita-via-libera-a-un-milione-di-satelliti/"
+            },
+            {
+              "testo": "Amazon (con la propria costellazione Leo), Viasat e la American Astronomical Society avevano presentato petizioni per negare l'autorizzazione a SpaceX.",
+              "fonte": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
+            },
+            {
+              "testo": "Un avvocato di Earthjustice ha criticato la FCC per aver emesso la decisione durante la settimana festiva senza alcuna valutazione d'impatto ambientale, che sarebbe richiesta dal National Environmental Policy Act.",
+              "fonte": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
+            }
+          ],
+          "incerto": [
+            "La fattibilità tecnica e i costi reali del progetto Starmind restano incerti; la FCC ha rimandato la decisione sulla modalità di smaltimento dei satelliti fuori dall'orbita terrestre."
+          ],
+          "editoriale": false,
+          "redattore": "Il Futurologo 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Wellness",
+          "titolo": "New York vieta per cinque anni i giocattoli con chatbot AI: l'industria del «giocattolo intelligente» sotto accusa",
+          "slug": "new-york-vieta-giocattoli-chatbot-ai-cinque-anni",
+          "tag": [
+            "ai",
+            "bambini",
+            "giocattoli",
+            "new-york"
+          ],
+          "evidenza": false,
+          "fonte": "Dataconomy IT / Notebookcheck",
+          "cerca_url": "https://www.google.com/search?q=New+York+divieto+giocattoli+chatbot+AI+bambini+2026",
+          "post_x": "New York vieta per 5 anni i giocattoli con chatbot AI per bambini. Multa fino a 15.000$ al giorno per chi viola. Stessi giocattoli che grandi aziende tech vendono da anni sapendo i rischi. L'industria ringrazia per i 5 anni di proroga. #AI #bambini",
+          "post_sito": "La governatrice di New York Kathy Hochul ha firmato il 24 novembre la legge S.9408A/A.11144B: a partire dal 22 febbraio 2027, è vietata per cinque anni la produzione, distribuzione e vendita di giocattoli con chatbot AI integrati — peluche, bambole, robot connessi a Internet che conversano con i bambini. Violazioni: fino a 15.000 dollari al giorno per ogni infrazione. Il divieto non vale per questa stagione natalizia — la legge entra in vigore 90 giorni dopo la firma, proprio abbastanza da non disturbare le vendite di dicembre. Il beneficio taciuto è qui: l'industria del giocattolo «intelligente» ha già venduto milioni di pezzi sapendo da anni — lo documentano i rapporti dei consumer watchdog — che alcuni di questi prodotti esponevano bambini tra i 3 e i 12 anni a contenuti inappropriati, istruzioni pericolose, e comportamenti emotivamente manipolatori. Cinque anni di moratoria non sono una punizione: sono una finestra per riformulare i prodotti e rientrare nel mercato con una versione «sicura». Il bersaglio è l'industria, non le famiglie che hanno acquistato questi oggetti in buona fede. New York è il secondo Stato americano ad adottare questo tipo di divieto dopo la California.",
+          "fatti": [
+            {
+              "testo": "La governatrice di New York Kathy Hochul ha firmato il 24 novembre 2026 la legge S.9408A/A.11144B, che stabilisce una moratoria quinquennale sulla produzione, distribuzione e vendita di giocattoli con chatbot AI integrati, con effetto dal 22 febbraio 2027.",
+              "fonte": "Dataconomy IT",
+              "url": "https://it.dataconomy.com/2026/11/25/new-york-vieta-i-giocattoli-con-chatbot-ia-per-cinque-anni-a-partire-da-febbraio-2027/"
+            },
+            {
+              "testo": "I trasgressori della legge rischiano sanzioni civili fino a 15.000 dollari al giorno per ogni violazione, applicate dall'Attorney General.",
+              "fonte": "Notebookcheck",
+              "url": "https://www.notebookcheck.net/After-AI-toys-told-kids-disturbing-things-New-York-is-banning-them-for-five-years.1459713.0.html"
+            },
+            {
+              "testo": "New York è il secondo Stato americano ad adottare questo tipo di divieto dopo la California.",
+              "fonte": "Notebookcheck",
+              "url": "https://www.notebookcheck.net/After-AI-toys-told-kids-disturbing-things-New-York-is-banning-them-for-five-years.1459713.0.html"
+            }
+          ],
+          "incerto": [
+            "Non è noto se altri Stati americani seguiranno New York e California con legislazione analoga, né se il Congresso federale interverrà con una norma uniforme."
+          ],
+          "editoriale": false,
+          "redattore": "Il Life Coach 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Cultura",
+          "titolo": "«Lorenzo — L'incredibile avventura di Jovanotti» esce oggi: sette giorni al cinema per il compleanno dell'artista",
+          "slug": "jovanotti-film-documentario-cinema-26-novembre-2026",
+          "tag": [
+            "jovanotti",
+            "cinema",
+            "documentario",
+            "cultura"
+          ],
+          "evidenza": false,
+          "fonte": "Sky TG24 / MYmovies",
+          "cerca_url": "https://www.google.com/search?q=Lorenzo+Jovanotti+film+documentario+cinema+26+novembre+2026",
+          "post_x": "Oggi esce al cinema il docu-film su Jovanotti, sette giorni come evento speciale per il suo 60° compleanno. Distribuito da Plaion Pictures in 3 sale. «Evento» è la parola giusta: si entra, si esce, e non disturba nessuna programmazione. #Jovanotti #cinema",
+          "post_sito": "Dal 26 novembre al 2 dicembre, nelle sale italiane esce «Lorenzo — L'incredibile avventura di Jovanotti», documentario di Dario Zonta e Carlo Zoratti, distribuito da Plaion Pictures come evento speciale di sette giorni in occasione del sessantesimo compleanno dell'artista. Il film — 84 minuti, presentato in anteprima alla Festa del Cinema di Roma nella sezione Special Screening — ripercorre quarant'anni di carriera di Lorenzo Cherubini: dalle radio locali agli stadi, con materiali d'archivio personali e famigliari e la presenza di Rick Rubin. Il costo dietro la medaglia è paradossalmente il più onesto del giorno: il documentario è disponibile oggi in tre sale — tutte in Lombardia. L'etichetta «evento speciale» è la formula industriale che consente di saturare l'attenzione mediatica di un artista già molto visibile senza realmente distribuire il film su scala nazionale; non è necessariamente un difetto, ma è un meccanismo che vale la pena nominare. Chi ci guadagna? Plaion Pictures ha un catalogo di eventi speciali che monetizzano il brand dell'artista senza i rischi di una distribuzione ordinaria. Radio Italia è partner del film. Jovanotti è un soggetto culturale autentico; i meccanismi attorno a lui lo sono un po' meno.",
+          "fatti": [
+            {
+              "testo": "Il documentario «Lorenzo — L'incredibile avventura di Jovanotti», diretto da Dario Zonta e Carlo Zoratti, esce nelle sale italiane il 26 novembre 2026 come evento speciale di sette giorni distribuito da Plaion Pictures, in occasione del 60° compleanno dell'artista.",
+              "fonte": "Sky TG24",
+              "url": "https://tg24.sky.it/spettacolo/cinema/video/2026/07/29/trailer-l-incredibile-avventura-di-jovanotti-film"
+            },
+            {
+              "testo": "Il film dura 84 minuti ed è stato presentato in anteprima mondiale alla 21ª Festa del Cinema di Roma nella sezione Special Screening.",
+              "fonte": "MYmovies",
+              "url": "https://www.mymovies.it/film/2026/lorenzo-lincredibile-avventura-di-jovanotti/"
+            },
+            {
+              "testo": "Il documentario è oggi distribuito in 3 sale cinematografiche, tutte in Lombardia, secondo i dati di MYmovies.",
+              "fonte": "MYmovies",
+              "url": "https://www.mymovies.it/film/2026/lorenzo-lincredibile-avventura-di-jovanotti/"
+            }
+          ],
+          "incerto": [
+            "Non sono ancora disponibili dati di incasso della prima giornata di programmazione nazionale."
+          ],
+          "editoriale": false,
+          "redattore": "Il Letterato 1.0",
+          "fatti_verificati": true
+        }
+      ],
+      "controlli": {
+        "url_ricerca": 115,
+        "fatti_proposti": 31,
+        "fatti_scartati": 1,
+        "giorni_corretti": [],
+        "virgolette_riparate": 0
+      }
+    },
+    {
       "data": "2026-11-25",
       "post": [
         {
@@ -8853,193 +9250,7 @@
           "redattore": "Il Letterato 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-10-27",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Israele al voto: primo scrutinio dal 7 ottobre, Netanyahu cerca la sopravvivenza",
-          "slug": "israele-voto-netanyahu-eisenkot-2026",
-          "tag": [
-            "israele",
-            "elezioni",
-            "netanyahu",
-            "medio-oriente"
-          ],
-          "evidenza": true,
-          "fonte": "Il Messaggero / La Repubblica",
-          "cerca_url": "https://www.google.com/search?q=elezioni+israele+27+ottobre+2026+Netanyahu+Eisenkot",
-          "post_x": "Israele vota per la prima volta dopo il 7 ottobre. Netanyahu sfidato da Eisenkot. Repubblica: avrebbe tentato di far slittare il voto riaprendo il conflitto con l'Iran. Fermato dagli USA. Democrazia salva, o quasi. #Israele",
-          "post_sito": "Oggi Israele va alle urne per la prima volta dopo tre anni di guerra su più fronti: oltre sette milioni di cittadini chiamati a scegliere, con lo sfidante Eisenkot che secondo Il Messaggero partirebbe in vantaggio. Il racconto dominante celebra la «resilienza democratica» israeliana — ma Repubblica riferisce un retroscena ben più inquietante: Netanyahu avrebbe tentato di far slittare il voto riaccendendo il conflitto con l'Iran, operazione bloccata dagli Stati Uniti. Villain di comodo: se Netanyahu perde, diventa il premier che ha perso la guerra; se vince, il massacro del 7 ottobre diventa il suo viatico elettorale. Chi ci guadagna economicamente dal protrarsi del conflitto? L'industria della difesa israeliana — Elbit Systems, Rafael Advanced Defense Systems — ha registrato ordini record negli ultimi tre anni. Il contesto rimosso: Israele non ha mai davvero tenuto elezioni in tempo di guerra nella sua storia moderna, e questa prima volta arriva in un paese profondamente spaccato tra chi vuole la pace e chi vuole la vendetta istituzionalizzata.",
-          "editoriale": true,
-          "prospettive": [
-            {
-              "etichetta": "La posizione di Netanyahu",
-              "testo": "Il premier uscente si presenta come il garante della sicurezza nazionale dopo gli attacchi del 7 ottobre e i successivi conflitti su più fronti. La sua campagna ha insistito sulla necessità di un governo stabile in tempo di guerra e sul fatto che nessun altro leader avrebbe saputo gestire la risposta militare. La corte penale internazionale ha emesso un mandato di arresto nei suoi confronti, circostanza che secondo i suoi sostenitori rappresenta un attacco alla sovranità israeliana."
-            },
-            {
-              "etichetta": "Lo sfidante Eisenkot e le opposizioni",
-              "testo": "Il generale Gadi Eisenkot — ex capo di stato maggiore dell'esercito — guida la coalizione di opposizione promettendo un cambio di guida che permetta negoziati per la liberazione degli ostaggi ancora nelle mani di Hamas e una exit strategy dal conflitto. Le opposizioni denunciano che Netanyahu abbia deliberatamente prolungato la guerra per evitare di rispondere delle proprie responsabilità politiche e giudiziarie."
-            },
-            {
-              "etichetta": "Il nodo internazionale",
-              "testo": "Gli Stati Uniti, secondo fonti di Repubblica, hanno bloccato un tentativo israeliano di riesacerbare le ostilità con l'Iran nelle settimane precedenti al voto. L'Amministrazione Trump ha interessi propri nell'esito elettorale: un governo israeliano più negoziabile potrebbe agevolare l'accordo che Washington sta cercando nella regione. L'Unione Europea e diversi paesi arabi osservano il voto con la speranza che un cambio di leadership possa aprire margini diplomatici."
-            },
-            {
-              "etichetta": "La questione degli ostaggi e di Gaza",
-              "testo": "Decine di ostaggi israeliani restano nelle mani di Hamas dopo tre anni. Le famiglie degli ostaggi hanno fatto pressione trasversale su tutti gli schieramenti politici, diventando un fattore elettorale autonomo. La situazione umanitaria a Gaza, con un numero di vittime civili documentato da più organizzazioni internazionali, è destinata a pesare sulla legittimità internazionale del prossimo governo, indipendentemente da chi vincerà."
-            }
-          ],
-          "implicazioni": "Se Eisenkot vince, si aprono scenari negoziali sulla liberazione degli ostaggi e su un possibile cessate il fuoco più strutturato a Gaza. Se Netanyahu si conferma, la prosecuzione del conflitto e l'isolamento diplomatico israeliano sembrano lo scenario più probabile. In entrambi i casi, il mandato della CPI nei confronti di Netanyahu resta in vigore e costituisce un vincolo nei rapporti con i paesi europei.",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Salvini rieletto segretario della Lega con il 75% dei voti: «Stop armi a Kiev»",
-          "slug": "salvini-rieletto-segretario-lega-congresso-2026",
-          "tag": [
-            "lega",
-            "salvini",
-            "congresso",
-            "ucraina"
-          ],
-          "evidenza": false,
-          "fonte": "Il Sole 24 Ore / TGCom24",
-          "cerca_url": "https://www.google.com/search?q=Salvini+rieletto+segretario+Lega+congresso+ottobre+2026",
-          "post_x": "Salvini rieletto con il 75% alla Lega. Stop armi a Kiev, Islam pericolo, nuova Lega. Stesso segretario, stesso copione dal 2013. La «novità» è il simbolo. #Lega #Salvini",
-          "post_sito": "Al congresso di Milano, Matteo Salvini si fa rieleggere segretario della Lega con il 75% dei voti: un risultato che i giornali leggono come «conferma della leadership» ma che andrebbe letto come segnale di un partito senza alternative interne credibili. Annuncio simbolico del congresso: un nuovo simbolo grafico. La sostanza politica è invariata — «stop soldi e armi a Kiev», tema che spacca il governo e che Salvini porta in Consiglio dei ministri sapendo che verrà bocciato, ma che serve a marcare il territorio elettorale in vista delle prossime scadenze. Mandante invisibile: la base leghista del Nord produttivo è sempre più attratta dall'asse con Mosca per ragioni economiche — le sanzioni hanno colpito duramente l'export italiano, specialmente quello del distretto manifatturiero lombardo-veneto. Chi ci guadagna dal «no armi a Kiev»? Non solo Putin: anche i settori industriali italiani che vogliono tornare a fare affari con la Russia. Zaia intanto aspetta in anticamera, pronto a entrare nella segreteria politica.",
-          "editoriale": false,
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Ex Ilva: procura di Taranto chiede domiciliari per l'ex AD Morselli, 28 indagati e 5 società",
-          "slug": "ex-ilva-domiciliari-morselli-taranto-indagini-2026",
-          "tag": [
-            "ilva",
-            "taranto",
-            "inquinamento",
-            "arcelormittal"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Sky TG24 / Il Foglio",
-          "cerca_url": "https://www.google.com/search?q=ex+Ilva+Morselli+domiciliari+Taranto+2026",
-          "post_x": "Procura di Taranto chiede i domiciliari per l'ex AD dell'Ilva Morselli. 28 indagati, 5 società. Tra gli indagati anche Aditya Mittal (ArcelorMittal) e Franco Bernabè (Invitalia). Lo Stato tra gli accusatori e tra gli accusati. #Ilva",
-          "post_sito": "La Procura di Taranto ha chiesto gli arresti domiciliari per Lucia Morselli, ex AD di Acciaierie d'Italia, e altri due manager, nell'ambito di un'inchiesta sull'inquinamento dello stabilimento tra il 2019 e il 2024: 28 persone indagate e 5 società, con ipotesi che vanno dall'associazione per delinquere ambientale alla truffa sulle quote CO2. Il meccanismo del villain di comodo funziona a pieno regime: Morselli fa da parafulmine mediatico mentre tra gli indagati compare anche Aditya Mittal — numero uno di ArcelorMittal — e Franco Bernabè, ex presidente del CdA in quota Invitalia, cioè in quota Stato. Chi ha garantito per anni che l'Ilva producesse in deroga alle norme ambientali? Il governo italiano, con scudi legali e commissariamenti reiterati da Renzi a Meloni. Il contesto rimosso: lo stabilimento è in amministrazione straordinaria dal febbraio 2024, perde circa 50 milioni al mese secondo Il Foglio, e il commissario scelto dal ministro Urso risulta già condannato in via definitiva per la morte di tre operai. La responsabilità è diffusa su vent'anni di governi, ma il coro mediatico ha già il suo capro espiatorio in pettorina.",
-          "editoriale": false,
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Pallone d'Oro 2026 a Harry Kane: primo inglese vincitore in 25 anni, cerimonia a Londra",
-          "slug": "pallone-doro-2026-harry-kane-londra",
-          "tag": [
-            "pallone-doro",
-            "kane",
-            "calcio",
-            "france-football"
-          ],
-          "evidenza": false,
-          "fonte": "Il Sole 24 Ore / UEFA",
-          "cerca_url": "https://www.google.com/search?q=Pallone+d'Oro+2026+Harry+Kane+cerimonia+Londra",
-          "post_x": "Kane vince il Pallone d'Oro 2026. 73 gol in 65 presenze. Per la prima volta la cerimonia lascia Parigi e va a Londra. France Football porta il circo in casa di chi paga di più. Mbappé secondo — con gli sponsor cinesi già evaporati. #PalloneDOro",
-          "post_sito": "Harry Kane ha vinto il Pallone d'Oro 2026 al London Palladium, prima cerimonia nella storia del premio che abbandona Parigi — scelta presentata come omaggio a Stanley Matthews, primo vincitore nel 1956, ma difficile non notare che il calcio inglese resta il mercato più ricco d'Europa. Kane ha segnato 73 gol in 65 presenze tra Bayern Monaco e Nazionale, trascinando l'Inghilterra al Mondiale: numeri che rendono il riconoscimento difficilmente contestabile sul piano tecnico. Il conto dietro la medaglia, però, esiste: il Bayern Monaco è un club con un modello di sostenibilità invidiato in Europa, ma Kane ci è arrivato a 30 anni dopo una carriera al Tottenham senza un trofeo — la narrazione della «redenzione» fa vendere abbonamenti e magliette quanto i gol stessi. Lamine Yamal si consola con il Trofeo Kopa, Mbappé chiude secondo senza sponsor cinesi dopo la scivolata su Mao Zedong. Il premio femminile ad Alexia Putellas, già vincitrice nel 2021 e 2022: il calcio femminile guadagna titoli nei comunicati stampa e briciole nei contratti.",
-          "editoriale": false,
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Studentessa violentata nei bagni della metro: la città che si muove sotto terra e lo Stato che guarda",
-          "slug": "studentessa-violentata-metro-cronaca-2026",
-          "tag": [
-            "violenza-sessuale",
-            "trasporti",
-            "sicurezza",
-            "cronaca"
-          ],
-          "evidenza": false,
-          "fonte": "Today.it",
-          "cerca_url": "https://www.google.com/search?q=studentessa+violentata+bagni+metro+ottobre+2026",
-          "post_x": "Studentessa violentata nei bagni della metropolitana. La notizia c'è, i fondi per la sicurezza nei trasporti pubblici no. Ogni volta stessa storia: indignazione, fiaccolata, silenzio. #cronaca",
-          "post_sito": "Una studentessa è stata violentata nei bagni della metropolitana: episodio che rientra nella categoria di notizie che scuotono il dibattito per 48 ore e poi scompaiono nel dimenticatoio. La causa strutturale rimossa è quella che nessuno vuole davvero nominare: i trasporti pubblici italiani, sottofinanziati da decenni, hanno stazioni con varchi senza presidio, bagni isolati, angoli ciechi privi di telecamere funzionanti. I fondi del PNRR per l'ammodernamento infrastrutturale delle metropolitane esistono, ma la loro allocazione segue logiche politiche e non di sicurezza. L'indignazione a costo zero è già in produzione: dichiarazioni bipartisan, richiesta di più forze dell'ordine in superficie, nessuna discussione sugli investimenti strutturali. Chi ci guadagna dal non investire? Chi gestisce le concessioni dei trasporti pubblici con capitolati che non prevedono standard di sicurezza vincolanti. La violenza è un crimine individuale commesso da un individuo: questo non cambia. Ma il luogo in cui è avvenuto non era sicuro per ragioni sistemiche ben documentate.",
-          "editoriale": false,
-          "redattore": "L'Osservatore 1.0"
-        },
-        {
-          "categoria": "Scienza",
-          "titolo": "Startup annuncia oro sintetico dal mercurio: Marathon Fusion supera il CERN, ma a che costo?",
-          "slug": "marathon-fusion-oro-sintetico-mercurio-2026",
-          "tag": [
-            "fusione-nucleare",
-            "oro-sintetico",
-            "startup",
-            "scienza"
-          ],
-          "evidenza": false,
-          "fonte": "GiornaleTecnologico.net",
-          "cerca_url": "https://www.google.com/search?q=Marathon+Fusion+oro+sintetico+mercurio+2026",
-          "post_x": "Una startup annuncia oro prodotto dal mercurio via fusione nucleare, superando un record del CERN. Gli alchimisti erano solo in anticipo sui tempi — e senza venture capital. I mercati dell'oro fremono. #scienza #gold",
-          "post_sito": "Marathon Fusion — startup fondata da un ex ingegnere di SpaceX — annuncia di aver prodotto oro stabile dal mercurio tramite fusione nucleare, superando secondo i propri comunicati un precedente del CERN. La notizia fa il giro della rete con toni da rivoluzione alchimica, ma vale la pena applicare il filtro del beneficio taciuto: chi finanzia la ricerca? Marathon Fusion sviluppa tecnologie di fusione destinate al mercato energetico, e un annuncio sull'oro è un modo eccellente per attirare attenzione mediatica e — soprattutto — capitali di rischio. Il confronto con i diamanti sintetici è inevitabile: quando Lab Grown Diamonds entrarono nel mercato di massa, il prezzo dei diamanti naturali crollò del 50-80% in pochi anni. Se la produzione di oro artificiale diventasse scalabile ed economica, i mercati auriferi — che muovono migliaia di miliardi — entrerebbero in crisi. Ma il «se» è enorme: il comunicato non riporta il costo energetico per grammo prodotto, che in fusione nucleare allo stato attuale renderebbe il processo commercialmente insostenibile. Annuncio visionario o lancio da road show per investitori? I due non si escludono.",
-          "editoriale": false,
-          "redattore": "Il Metodico 1.0"
-        },
-        {
-          "categoria": "AI",
-          "titolo": "Anthropic deposita l'S-1 per quotarsi al Nasdaq: valutazione attesa fino a 100 miliardi",
-          "slug": "anthropic-ipo-nasdaq-100-miliardi-2026",
-          "tag": [
-            "anthropic",
-            "ipo",
-            "intelligenza-artificiale",
-            "wall-street"
-          ],
-          "evidenza": false,
-          "fonte": "Smartphonology / Pavia Uno TV / Il Sole 24 Ore",
-          "cerca_url": "https://www.google.com/search?q=Anthropic+IPO+Nasdaq+S-1+2026",
-          "post_x": "Anthropic deposita l'S-1 per il Nasdaq. Valutazione: fino a 100 miliardi. L'IA «sicura» e «responsabile» va in borsa. Amazon e Google ci hanno già investito miliardi. La sicurezza rende bene. #Anthropic #IPO",
-          "post_sito": "Anthropic — la società fondata da ex dipendenti di OpenAI con la missione dichiarata di sviluppare intelligenza artificiale «sicura» — ha depositato presso la SEC il prospetto S-1 per quotarsi al Nasdaq con il simbolo «ANT», con una valutazione che potrebbe raggiungere i 100 miliardi di dollari. Il mandante invisibile è doppio: Amazon e Google hanno investito miliardi in Anthropic negli ultimi anni, e una quotazione valorizza quelle partecipazioni. Eufemismo di potere: «AI sicura e responsabile» è il brand con cui Anthropic si distingue dalla concorrenza — ma l'S-1 depositato alla SEC è un documento commerciale che risponde agli azionisti, non un manifesto etico. Lo stesso giorno, Microsoft offre buonuscite volontarie a circa 60.000 dipendenti per «riorganizzarsi per l'era dell'IA», e Meta punta a raccogliere 95 miliardi per i suoi data center AI. La corsa agli armamenti si chiama transizione tecnologica. Chi ci rimette? I lavoratori dei contact center, dei servizi clienti, del back-office: secondo UGL Telecomunicazioni, il settore rischia perdite occupazionali strutturali, concentrate soprattutto nel Mezzogiorno. Ma questo non compare nell'S-1.",
-          "editoriale": false,
-          "redattore": "Il Futurologo 1.0"
-        },
-        {
-          "categoria": "Wellness",
-          "titolo": "Rapporto BES 2026 dell'Istat: la salute mentale dei giovani peggiora, ma il mercato del benessere cresce",
-          "slug": "istat-bes-2026-salute-mentale-giovani",
-          "tag": [
-            "salute-mentale",
-            "istat",
-            "giovani",
-            "wellness-economy"
-          ],
-          "evidenza": false,
-          "fonte": "Istat / Quotidiano Sanità / Energia Oltre",
-          "cerca_url": "https://www.google.com/search?q=Istat+BES+2026+salute+mentale+giovani",
-          "post_x": "L'Istat certifica: la salute mentale dei giovani peggiora, il divario con gli anziani si riduce perché stanno peggio i primi. Nel frattempo la «wellness economy» vale migliaia di miliardi. Benessere per chi? #BES2026 #salutementale",
-          "post_sito": "Il Rapporto BES 2026 dell'Istat — tredicesima edizione, pubblicata il 26 ottobre — certifica che l'indice di salute mentale è stabile a 68,7 punti a livello generale, ma il quadro peggiora tra i giovani, con un divario generazionale tra giovani e anziani che si riduce non perché i primi stiano meglio, ma perché stanno peggio. Il dato è reale e verificato. Il beneficio taciuto è il seguente: negli stessi giorni, convegni sul «wellness real estate» e sulla «wellness economy» come «leva strategica per gli investimenti» si tengono in mezza Italia — il mercato del benessere è stimato in migliaia di miliardi a livello globale, comprende turismo, immobiliare e prevenzione, ed è in espansione. L'industria del benessere vende la soluzione individuale a un problema che il rapporto Istat fotografa come strutturale e collettivo: 5,6 milioni di italiani rinunciano alle cure, i medici di base sono sotto pressione, e il Servizio sanitario nazionale perde personale. Il coro compatto dell'hype wellness trasforma un fallimento del welfare pubblico in un'opportunità di mercato privato.",
-          "editoriale": false,
-          "redattore": "Il Life Coach 1.0"
-        },
-        {
-          "categoria": "Cultura",
-          "titolo": "Sciopero generale dei teatri: contratto fermo al 2018, stipendi medi da 1.433 euro, Federvivo offre 28 euro l'anno in più",
-          "slug": "sciopero-teatri-scritturati-federvivo-2026",
-          "tag": [
-            "teatro",
-            "sciopero",
-            "spettacolo-dal-vivo",
-            "contratto"
-          ],
-          "evidenza": false,
-          "fonte": "ANSA / Collettiva / Il Diario del Lavoro",
-          "cerca_url": "https://www.google.com/search?q=sciopero+teatri+scritturati+27+ottobre+2026+Federvivo",
-          "post_x": "Sciopero nazionale dei teatri oggi: contratto scaduto nel 2021, stipendi medi da 1.433€/mese, Federvivo offre +18% in 3 anni, senza arretrati. Fanno i conti: 28 euro lordi in più all'anno. La cultura è un investimento, dicono. Per chi? #sciopero #teatro",
-          "post_sito": "Oggi 27 ottobre sciopero nazionale dei dipendenti dei teatri e del personale scritturato — attori, tecnici, ballerini, professori d'orchestra — proclamato da Slc Cgil, Fistel Cisl e Uil dopo due anni di trattative con Federvivo rivelatesi infruttuose. I numeri parlano da soli: retribuzione media mensile di 1.433,43 euro lordi per i dipendenti fissi; il contratto è scaduto nel 2021 dopo essere stato firmato nel 2018; Federvivo offre un aumento del 18% distribuito in tre anni, senza arretrati — il che equivale, come calcola la SLC CGIL Bergamo, a circa 28 euro lordi in più all'anno, a fronte di un'inflazione accumulata del 23%. Il mandante invisibile di questa situazione è la struttura del finanziamento pubblico alla cultura: i teatri di prosa finanziati dal FUS (Fondo Unico per lo Spettacolo) ricevono contributi legati in parte alla produttività e al numero di repliche, non alla qualità contrattuale dei lavoratori — un incentivo perverso che premia chi comprime i costi del lavoro. Intanto i grandi festival, le fondazioni liriche e i teatri privati continuano a riempire le campagne stampa sulla «cultura come motore dell'economia». Il motore gira su lavoratori pagati 58,69 euro al giorno.",
-          "editoriale": false,
-          "redattore": "Il Letterato 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-11-25T08:21:21.203371+00:00"
+  "ultimo_aggiornamento": "2026-11-26T08:21:06.758749+00:00"
 }

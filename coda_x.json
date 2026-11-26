@@ -1,77 +1,77 @@
 {
-  "data": "2026-11-25",
+  "data": "2026-11-26",
   "tweet": [
     {
-      "testo": "L'Ucraina bombarda navi russe a Bengasi e l'Italia «non era a conoscenza». Tajani chiama Kiev. Noi che abbiamo basi, interessi energetici e accordi in Libia da decenni. Sorpresi. 🫠",
-      "url": "https://corrispondente.filoclastos.it/2026/11/25/ucraina-attacco-droni-bengasi-libia-italia/",
-      "slug": "ucraina-attacco-droni-bengasi-libia-italia",
+      "testo": "Trump annuncia dazi al 15% sull'UE mentre i leader europei sono riuniti a Bruxelles per parlare di… bilanci. Tempismo impeccabile. Chi ci guadagna? Come sempre, chi produce in America e vende in Europa. #dazi #Trump",
+      "url": "https://corrispondente.filoclastos.it/2026/11/26/dazi-trump-europa-consiglio-europeo-straordinario/",
+      "slug": "dazi-trump-europa-consiglio-europeo-straordinario",
       "categoria": "Politica Internazionale",
       "evidenza": true,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "L'UE promuove la manovra italiana, Dombrovskis chiede «prudenza». Dentro, però, Forza Italia blocca la tassa sugli extraprofitti. Forse Mondadori e le banche non c'entrano nulla. Forse. 🤌",
-      "url": "https://corrispondente.filoclastos.it/2026/11/25/manovra-ue-promuove-forza-italia-extraprofitti/",
-      "slug": "manovra-ue-promuove-forza-italia-extraprofitti",
+      "testo": "Il Consiglio di Stato ordina a Meloni di firmare il decreto sugli arretrati ai magistrati entro gennaio. Lei dice no. 50 milioni totali, ~5mila euro a testa. Lo scontro è politico, non economico. #magistratura #governo",
+      "url": "https://corrispondente.filoclastos.it/2026/11/26/meloni-arretrati-magistrati-consiglio-di-stato/",
+      "slug": "meloni-arretrati-magistrati-consiglio-di-stato",
       "categoria": "Politica Nazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Trump: «Concederei la grazia a Jensen Huang se necessario». Nvidia crolla del 6% a Wall Street, Tokyo cede il 3,3%. L'uomo che dovrebbe rispondere del Congresso è già coperto dal presidente. 🎲",
-      "url": "https://corrispondente.filoclastos.it/2026/11/25/nvidia-trump-grazia-jensen-huang-borse-asiatiche/",
-      "slug": "nvidia-trump-grazia-jensen-huang-borse-asiatiche",
+      "testo": "Goldman Sachs: PIL Italia +0,8% nel 2026, poi frenata allo 0,5% nel 2027. Colpa di inflazione e fine fondi UE. Chi ci guadagna dal rallentamento? Chi vende sanità privata e chi gestisce fondi pensione integrativi. #economia #Italia",
+      "url": "https://corrispondente.filoclastos.it/2026/11/26/goldman-sachs-pil-italia-frenata-2027/",
+      "slug": "goldman-sachs-pil-italia-frenata-2027",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Sinner operato al ginocchio a Turku. Niente Australian Open, forse rientro in primavera. L'uomo che ha vinto Wimbledon a luglio e si è fermato ad agosto. Tre mesi di silenzio, poi il bisturi. #Sinner",
-      "url": "https://corrispondente.filoclastos.it/2026/11/25/sinner-operazione-ginocchio-finlandia-rientro-primavera/",
-      "slug": "sinner-operazione-ginocchio-finlandia-rientro-primavera",
+      "testo": "Brignone vince due ori a Milano-Cortina con un ginocchio rattoppato, torna sugli sci 91 giorni dopo l'operazione e si arrende al dolore. 37 vittorie in Coppa del Mondo, 5 medaglie olimpiche. E ora chi vende le scarpe da sci sponsor? #Brignone #sci",
+      "url": "https://corrispondente.filoclastos.it/2026/11/26/federica-brignone-ritiro-sci-alpino/",
+      "slug": "federica-brignone-ritiro-sci-alpino",
       "categoria": "Sport",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "«Sei arrivato dove neanche la mafia era riuscita ad arrivare»: De Gennaro al pm di Caltanissetta, nell'ultima lettera. I Ris confermano la grafia. L'Italia scopre i suoi fantasmi uno alla volta. 📜",
-      "url": "https://corrispondente.filoclastos.it/2026/11/25/de-gennaro-lettere-ris-caltanissetta-via-damalio/",
-      "slug": "de-gennaro-lettere-ris-caltanissetta-via-damalio",
+      "testo": "Le lettere di De Gennaro escono sul Corriere: «Io, condannato a morte». La famiglia non ha ancora le carte. PD e 5S chiedono di parlare della pista nera. E la Commissione Antimafia rinvia. Tutto torna. Sempre. #DeGennaro #viadAmelio",
+      "url": "https://corrispondente.filoclastos.it/2026/11/26/lettere-de-gennaro-condannato-a-morte-pista-nera/",
+      "slug": "lettere-de-gennaro-condannato-a-morte-pista-nera",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Il CNR di Parma e Padova inventano pannelli solari che si piegano come fogli di plastica. Pubblicato su Solar Energy. In Italia. Dove i fondi alla ricerca sono stati tagliati. 🌞",
-      "url": "https://corrispondente.filoclastos.it/2026/11/25/pannelli-fotovoltaici-flessibili-silicio-cnr-padova/",
-      "slug": "pannelli-fotovoltaici-flessibili-silicio-cnr-padova",
+      "testo": "ESA e ASI chiudono oggi a Roma l'Exploration Science Workshop 2026: scienza e industria insieme per decidere le priorità dell'esplorazione spaziale europea. «Insieme» è la parola chiave. Chi finanzia decide dove si va. #spazio #ESA #ASI",
+      "url": "https://corrispondente.filoclastos.it/2026/11/26/esa-asi-exploration-science-workshop-roma-2026/",
+      "slug": "esa-asi-exploration-science-workshop-roma-2026",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Tidal rimuove 27 milioni di brani generati al 100% dall'AI dal 9 dicembre. Il 43% della musica consegnata negli ultimi 90 giorni era sintetica. Il 96% di questi brani non aveva un solo ascolto. 🤖🎵",
-      "url": "https://corrispondente.filoclastos.it/2026/11/25/tidal-ban-musica-ai-generata-dicembre-2026/",
-      "slug": "tidal-ban-musica-ai-generata-dicembre-2026",
+      "testo": "La FCC autorizza SpaceX a lanciare 1 milione di satelliti-data center per l'AI. Amazon era contraria. Nessuna valutazione ambientale. Approvato durante la settimana del Ringraziamento. Musk ringrazia. #SpaceX #Starmind #AI",
+      "url": "https://corrispondente.filoclastos.it/2026/11/26/fcc-spacex-starmind-milione-satelliti-ai/",
+      "slug": "fcc-spacex-starmind-milione-satelliti-ai",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Il benessere entra nei KPI aziendali. Ora la tua «sicurezza psicologica» è monitorata come il fatturato. L'industria del wellness ha trovato il modo di fatturare anche quando sei al lavoro. 📊🧘",
-      "url": "https://corrispondente.filoclastos.it/2026/11/25/wellness-kpi-aziendale-produttivita-industria/",
-      "slug": "wellness-kpi-aziendale-produttivita-industria",
+      "testo": "New York vieta per 5 anni i giocattoli con chatbot AI per bambini. Multa fino a 15.000$ al giorno per chi viola. Stessi giocattoli che grandi aziende tech vendono da anni sapendo i rischi. L'industria ringrazia per i 5 anni di proroga. #AI #bambini",
+      "url": "https://corrispondente.filoclastos.it/2026/11/26/new-york-vieta-giocattoli-chatbot-ai-cinque-anni/",
+      "slug": "new-york-vieta-giocattoli-chatbot-ai-cinque-anni",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "«Una Nessuna Centomila» alla terza edizione: stasera da Piazza del Plebiscito su Rai 1. Duetti inediti, messaggi forti. Domani, le cifre: 67 donne uccise nel 2026. 38 dal partner. L'evento non cambia i numeri. 🔴",
-      "url": "https://corrispondente.filoclastos.it/2026/11/25/una-nessuna-centomila-rai1-napoli-25-novembre/",
-      "slug": "una-nessuna-centomila-rai1-napoli-25-novembre",
+      "testo": "Oggi esce al cinema il docu-film su Jovanotti, sette giorni come evento speciale per il suo 60° compleanno. Distribuito da Plaion Pictures in 3 sale. «Evento» è la parola giusta: si entra, si esce, e non disturba nessuna programmazione. #Jovanotti #cinema",
+      "url": "https://corrispondente.filoclastos.it/2026/11/26/jovanotti-film-documentario-cinema-26-novembre-2026/",
+      "slug": "jovanotti-film-documentario-cinema-26-novembre-2026",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }
