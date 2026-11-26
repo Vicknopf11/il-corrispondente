@@ -1,21 +1,29 @@
 {
-  "generato": "2026-11-26T06:31:23.670475+00:00",
+  "generato": "2026-11-26T12:31:31.479654+00:00",
   "item": [
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "LIVE Gukesh-Sindarov, Mondiale scacchi 2026 in DIRETTA: dalla terza partita si attendono scintille",
+      "link": "https://www.oasport.it/2026/11/live-gukesh-sindarov-mondiale-scacchi-2026-in-diretta-dalla-terza-partita-si-attendono-scintille/",
+      "fonte": "OA Sport — Scacchi",
+      "data_evento": "2026-11-26"
+    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
-      "titolo": "Scherma: Musumeci Greco, un italiano firma i duelli dei 'Tre Moschettieri' a Tolosa",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/25/scherma-musumeci-greco-un-italiano-firma-i-duelli-dei-tre-moschettieri-a-tolosa_d2ec02ef-2d73-447b-88a6-4d6725dca142.html",
+      "titolo": "Taekwondo: World Grand Prix Final, Dell'Aquila e Bossolo ad Astana per l'ultimo atto",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/26/taekwondo-world-grand-prix-final-dellaquila-e-bossolo-ad-astana-per-lultimo_7d5391ae-713a-448c-8e67-b5474afef4fb.html",
       "fonte": "ANSA Sport",
-      "data_evento": "2026-11-25"
+      "data_evento": "2026-11-26"
     },
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
-      "titolo": "La Pro Recco conquista il primato solitario. L’AN Brescia espugna Savona ai rigori",
-      "link": "https://www.oasport.it/2026/11/la-pro-recco-conquista-il-primato-solitario-lan-brescia-espugna-savona-ai-rigori/",
+      "titolo": "Pallanuoto, i migliori italiani della nona giornata di A1: l’uragano Manzi non salva il C.C. Napoli. De Robertis trascina l’Olympic",
+      "link": "https://www.oasport.it/2026/11/pallanuoto-i-migliori-italiani-della-nona-giornata-di-a1-luragano-manzi-non-salva-il-c-c-napoli-de-robertis-trascina-lolympic/",
       "fonte": "OA Sport — Pallanuoto",
-      "data_evento": "2026-11-25"
+      "data_evento": "2026-11-26"
     },
     {
       "sottocategoria": "Calcio femminile",
@@ -26,44 +34,36 @@
       "data_evento": "2026-11-21"
     },
     {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Berrettini-Musetti, rapporti al minimo. Sono di fianco, ma Matteo abbraccia Darderi...",
-      "link": "https://www.gazzetta.it/Tennis/Coppa-Davis/25-11-2026/bettettini-musetti-rapporti-coppa-davis.shtml",
-      "fonte": "Gazzetta — Tennis",
-      "data_evento": "2026-11-25"
-    },
-    {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
-      "titolo": "All Blacks, è crisi nera: ora sono quinti nel ranking. Cosa succede alla squadra faro del rugby?",
-      "link": "https://www.gazzetta.it/Rugby/25-11-2026/rugby-all-blacks-in-crisi-cosa-succede.shtml",
-      "fonte": "Gazzetta — Rugby",
-      "data_evento": "2026-11-25"
+      "titolo": "NBA, top 5 della notte: Wembanyama senza senso, Bridges segna da \"fuori campo\"",
+      "link": "https://video.gazzetta.it/basket/nba/video-nba-top-5-della-notte-wembanyama-senza-senso-bridges-segna-da-fuori-campo/899003f2-a48b-4616-b0b0-b6f4d367fxlk",
+      "fonte": "Gazzetta — Basket",
+      "data_evento": "2026-11-26"
     },
     {
       "sottocategoria": "Atletica",
       "tipo": "notizia",
-      "titolo": "Manuel Lando: “Italia la migliore nel salto in alto: giusto che sia rimasto a casa. Rinuncio a qualcosa oggi pensando ai Giochi”",
-      "link": "https://www.oasport.it/2026/11/manuel-lando-italia-la-migliore-nel-salto-in-alto-giusto-che-sia-rimasto-a-casa-rinuncio-a-qualcosa-oggi-pensando-ai-giochi/",
-      "fonte": "OA Sport — Atletica",
-      "data_evento": "2026-11-25"
+      "titolo": "A Scaloni non basta il Mondiale con l'Argentina: si qualifica a quello del Gran Fondo. Quanti big in bici con lui",
+      "link": "https://www.gazzetta.it/Ciclismo/26-11-2026/scaloni-altro-mondiale-il-ct-dell-argentina-si-qualifica-ai-gran-fondo-2027-in-bici.shtml",
+      "fonte": "Gazzetta — Ciclismo",
+      "data_evento": "2026-11-26"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Tennis: Jannik Sinner non parteciperà agli Australian Open",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/26/jannik-sinner-non-partecipera-agli-australian-open_8907fa06-eb07-4e93-9ce5-2873d033a7fd.html",
+      "fonte": "ANSA Sport",
+      "data_evento": "2026-11-26"
     },
     {
       "sottocategoria": "Invernali",
       "tipo": "notizia",
-      "titolo": "LIVE Biathlon, Individuale maschile Kontiolahti 2026 in DIRETTA: torna in gara Tommaso Giacomel",
-      "link": "https://www.oasport.it/2026/11/live-biathlon-individuale-maschile-kontiolahti-2026-in-diretta-torna-in-gara-tommaso-giacomel/",
-      "fonte": "OA Sport — Sport invernali",
-      "data_evento": "2026-11-26"
-    },
-    {
-      "sottocategoria": "Equitazione e ippica",
-      "tipo": "notizia",
-      "titolo": "GC Playoff Verona, Supercoppa a squadre agli Istanbul Warriors",
-      "link": "https://www.corrieredellosport.it/news/altri-sport/equitazione/2026/11/22-152765983/gc_playoff_verona_supercoppa_a_squadre_agli_istanbul_warriors/",
+      "titolo": "Un futuro scritto dalla culla e quel talento e grinta naturale: l’indimenticabile successo di Federica Brignone",
+      "link": "https://www.corrieredellosport.it/news/altri-sport/sci/2026/11/26-152846318/un_futuro_scritto_dalla_culla_e_quel_talento_e_grinta_naturale_lindimenticabile_successo_di_federica_brignone/",
       "fonte": "Corriere dello Sport — Altri sport",
-      "data_evento": "2026-11-22"
+      "data_evento": "2026-11-26"
     }
   ]
 }
