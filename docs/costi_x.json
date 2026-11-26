@@ -1,6 +1,14 @@
 {
   "pubblicazioni": [
     {
+      "data": "2026-11-26",
+      "slug": "dazi-trump-europa-consiglio-europeo-straordinario",
+      "categoria": "Politica Internazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
       "data": "2026-11-25",
       "slug": "una-nessuna-centomila-rai1-napoli-25-novembre",
       "categoria": "Cultura",
