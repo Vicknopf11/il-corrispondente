@@ -1,6 +1,390 @@
 {
   "edizioni": [
     {
+      "data": "2026-11-27",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Zelensky accusa gli USA sui missili, Trump incontra Rutte",
+          "slug": "zelensky-accusa-usa-missili-trump-rutte",
+          "tag": [
+            "ucraina",
+            "usa",
+            "guerra",
+            "zelensky"
+          ],
+          "evidenza": false,
+          "fonte": "Sky TG24 / Il Messaggero",
+          "cerca_url": "https://www.google.com/search?q=Zelensky+accusa+USA+missili+antibalistici+novembre+2026",
+          "post_x": "Zelensky lamenta che gli USA non premono abbastanza sulla Russia. Nel frattempo Trump incontra Rutte e «invita» Mosca a non allargare il conflitto. Quasi cinque anni di guerra e siamo ancora alla fase degli inviti. #Ucraina",
+          "post_sito": "Zelensky è furioso con Washington: i missili antibalistici non arrivano e le vite degli ucraini si pagano con i ritardi burocratici americani. Trump risponde incontrando il segretario Nato Rutte e chiedendo alla Russia di non estendere il conflitto — un «invito», appunto, non una pressione. Il coro mediatico si divide tra chi accusa Mosca e chi accusa Kiev, ma la domanda che nessuno fa è: chi ci guadagna dal protrarsi di questa guerra? L'industria bellica europea e americana — Rheinmetall, Leonardo, Lockheed — macina contratti miliardari da quasi cinque anni. Beneficio taciuto: ogni settimana di guerra vale ordini, non perdite, per chi produce le armi. Il contesto rimosso: già nel 2022 diversi analisti avvertivano che i ritardi nelle forniture non erano logistici ma politici — calibrati per non far vincere né perdere nessuno troppo in fretta.",
+          "fatti": [
+            {
+              "testo": "Zelensky ha dichiarato che i ritardi nella consegna di missili antibalistici stanno costando vite umane agli ucraini e che gli USA non esercitano pressione sufficiente sulla Russia durante i colloqui di pace.",
+              "fonte": "Sky TG24",
+              "url": "https://tg24.sky.it/mondo/2026/11/27/guerra-ucraina-russia-ultime-notizie-diretta"
+            },
+            {
+              "testo": "Trump ha incontrato il segretario generale della Nato Mark Rutte e ha esortato Mosca a non estendere il conflitto in Ucraina.",
+              "fonte": "Il Messaggero",
+              "url": "https://www.ilmessaggero.it/mondo/guerra_ucraina_attacchi_oggi_diretta_cosa_succede-9916414.html"
+            },
+            {
+              "testo": "Media ucraini riportano la cifra di 700mila soldati russi morti dall'inizio della guerra; la Germania segnala che Mosca sarebbe pronta a schierare un'arma nucleare nello spazio.",
+              "fonte": "Il Messaggero",
+              "url": "https://www.ilmessaggero.it/mondo/guerra_ucraina_attacchi_oggi_diretta_cosa_succede-9916414.html"
+            }
+          ],
+          "incerto": [
+            "La cifra di 700mila soldati russi morti è riportata da media ucraini e non è verificata da fonti indipendenti.",
+            "L'esito dei colloqui di pace e le tempistiche delle forniture di missili Patriot restano non confermati."
+          ],
+          "editoriale": false,
+          "redattore": "Il Corrispondente Estero 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "Meloni contro i magistrati sugli stipendi, diserta il congresso dell'Anm",
+          "slug": "meloni-contro-magistrati-stipendi-congresso-anm",
+          "tag": [
+            "magistratura",
+            "meloni",
+            "anm",
+            "manovra"
+          ],
+          "evidenza": false,
+          "fonte": "Torresette News / Il Post",
+          "cerca_url": "https://www.google.com/search?q=Meloni+magistrati+stipendi+congresso+ANM+novembre+2026",
+          "post_x": "Meloni rifiuta di firmare il decreto sugli stipendi dei magistrati (quasi un miliardo) e diserta il loro congresso a Napoli. L'Anm risponde richiamando il rispetto della legge. Prossima puntata: chi nominerà i prossimi capi degli uffici giudiziari. #Magistratura",
+          "post_sito": "La premier Giorgia Meloni annuncia che non firmerà il decreto sugli adeguamenti stipendiali delle toghe — un costo di quasi un miliardo di euro — e diserta il congresso nazionale dell'Associazione Nazionale Magistrati, inaugurato oggi al Teatro San Carlo di Napoli alla presenza del presidente Mattarella. La mossa viene letta come ennesimo capitolo dello scontro governo-magistratura, ma il meccanismo sottostante è più interessante dello scontro di facciata: mandante invisibile. Chi tira i fili di questa guerra non è solo Palazzo Chigi, ma la pressione interna di correnti di partito che vedono nella magistratura un ostacolo permanente alle proprie ambizioni — da Berlusconi in poi, è un copione che si ripete. Il contesto che il racconto dominante rimuove: il conflitto tra esecutivo e magistratura in Italia ha radici nei processi di Tangentopoli, e ogni governo che si sente «minacciato» dalle toghe trova conveniente alzare i toni — a prescindere dallo schieramento. Quanto alla questione salariale dei magistrati, l'Anm ricorda che si tratta di un obbligo di legge, non di una concessione.",
+          "fatti": [
+            {
+              "testo": "La premier Meloni ha annunciato che non firmerà il decreto sugli adeguamenti stipendiali dei magistrati, dal costo di quasi un miliardo di euro.",
+              "fonte": "Torresette News",
+              "url": "https://www.torresette.news/24-news/2026/11/27/rassegna-stampa-venerdi-27-novembre-scontro-meloni-magistrati-italiani-morti-in-kuwait-e-notizie-dalla-campania"
+            },
+            {
+              "testo": "Il congresso nazionale dell'Anm si apre oggi al Teatro San Carlo di Napoli alla presenza del presidente della Repubblica Sergio Mattarella; Meloni non parteciperà.",
+              "fonte": "Torresette News",
+              "url": "https://www.torresette.news/24-news/2026/11/27/rassegna-stampa-venerdi-27-novembre-scontro-meloni-magistrati-italiani-morti-in-kuwait-e-notizie-dalla-campania"
+            },
+            {
+              "testo": "L'Anm ha replicato duramente, richiamando il rispetto della legge.",
+              "fonte": "Torresette News",
+              "url": "https://www.torresette.news/24-news/2026/11/27/rassegna-stampa-venerdi-27-novembre-scontro-meloni-magistrati-italiani-morti-in-kuwait-e-notizie-dalla-campania"
+            }
+          ],
+          "incerto": [
+            "Non è ancora chiaro se il decreto verrà comunque adottato tramite altri strumenti normativi o se la questione finirà davanti alla Corte Costituzionale."
+          ],
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "De Cos designato alla guida della BCE, mentre la Fed valuta un nuovo rialzo dei tassi",
+          "slug": "de-cos-bce-fed-rialzo-tassi-novembre-2026",
+          "tag": [
+            "bce",
+            "fed",
+            "tassi",
+            "inflazione"
+          ],
+          "evidenza": false,
+          "fonte": "Milano Finanza / FocusAmerica",
+          "cerca_url": "https://www.google.com/search?q=De+Cos+BCE+presidente+Fed+tassi+novembre+2026",
+          "post_x": "Lo spagnolo De Cos designato alla BCE. La Fed valuta un altro rialzo dei tassi. Due banche centrali, stesso problema: inflazione che non scende quanto promesso. Chi ci guadagna? Chi ha già i soldi investiti in obbligazioni a tasso fisso alto. #Economia",
+          "post_sito": "I 21 Paesi dell'eurozona hanno trovato l'accordo sul nome del prossimo presidente della BCE: lo spagnolo Paolo De Cos, ex governatore della Banca di Spagna, succederà a Christine Lagarde in un momento quanto mai delicato. L'inflazione in Francia a novembre si attende attorno al 3,2% e in Spagna al 4,7% — ben sopra il target del 2% — mentre il Pil francese del terzo trimestre mostra un -0,1%. Oltreoceano, la Fed considera un nuovo rialzo dei tassi nonostante la volatilità dei mercati legata ai timori sul boom dell'intelligenza artificiale. Beneficio taciuto: ogni punto percentuale di tasso in più vale decine di miliardi in interessi per chi detiene obbligazioni governative — fondi pensione, banche, investitori istituzionali — mentre le famiglie con mutui variabili pagano il conto. Il mandante invisibile della politica monetaria europea non è il presidente della BCE, ma il meccanismo di pressione dei mercati finanziari e delle agenzie di rating: oggi S&P pubblica la revisione del merito di credito di Francia e Ungheria.",
+          "fatti": [
+            {
+              "testo": "I 21 Paesi dell'eurozona si sono accordati sulla designazione dello spagnolo Paolo De Cos come nuovo presidente della BCE, in sostituzione di Christine Lagarde.",
+              "fonte": "Il Meridiano / Milano Finanza",
+              "url": "https://www.milanofinanza.it/news/borse-oggi-diretta-27-novembre-2026-chiusura-apertura-europee-borsa-milano-ftse-mib-piazza-affari-202611270737073527"
+            },
+            {
+              "testo": "Il consensus degli analisti prevede l'inflazione a novembre al 3,2% in Francia e al 4,7% in Spagna; il PIL francese del terzo trimestre è atteso a -0,1%.",
+              "fonte": "CicliEAscTrading",
+              "url": "https://www.ciclieasctrading.it/dati-macro-di-oggi-27-novembre-2026-inflazione-europea-aste-btp-e-wall-street-a-orario-ridotto/"
+            },
+            {
+              "testo": "Il Tesoro italiano offre in asta BTP a 5 e 10 anni per massimi 9 miliardi di euro nella giornata odierna.",
+              "fonte": "Il Sole 24 Ore",
+              "url": "https://www.ilsole24ore.com/art/morning-note-l-agenda-venerdi-27-novembre-AJoowPUC"
+            }
+          ],
+          "incerto": [
+            "Non è ancora confermato se la Fed procederà effettivamente al rialzo dei tassi nella prossima riunione.",
+            "L'entità dell'impatto dei nuovi dazi di Trump sui 14 partner commerciali sull'inflazione europea è ancora oggetto di dibattito tra gli analisti."
+          ],
+          "editoriale": false,
+          "redattore": "L'Analista 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Coppa Davis, Italia in semifinale a Bologna contro la Repubblica Ceca",
+          "slug": "coppa-davis-italia-repubblica-ceca-semifinale-bologna-2026",
+          "tag": [
+            "coppa-davis",
+            "tennis",
+            "italia",
+            "bologna"
+          ],
+          "evidenza": true,
+          "fonte": "Il Fatto Quotidiano / Sky Sport",
+          "cerca_url": "https://www.google.com/search?q=Italia+Repubblica+Ceca+Coppa+Davis+semifinale+Bologna+27+novembre+2026",
+          "post_x": "Oggi alle 16 l'Italia di Volandri (senza Sinner) affronta la Rep. Ceca per la quarta finale consecutiva di Davis. In chiaro su Rai 1 e SuperTennis. Una squadra, un capitano, zero stelle da copertina: il tennis che piace quando vince davvero. #DavisCup",
+          "post_sito": "Oggi alle 16 alla BolognaFiere Arena l'Italia affronta la Repubblica Ceca nella semifinale della Coppa Davis 2026 — che potrebbe essere la quarta finale consecutiva per gli azzurri di Filippo Volandri. Un risultato straordinario costruito senza Jannik Sinner, assente anche quest'anno, con Musetti, Berrettini, Cobolli e Vavassori a reggere il peso. L'avversario ceco non è banale: Machac, Lehecka e il potenziale jolly Mensik formano una delle squadre più solide del tabellone, che ha eliminato il Canada 2-0 ai quarti. Ciò che vale la pena notare, anche solo per sport: la partita è visibile gratuitamente in chiaro su Rai 1 e SuperTennis — una rarità nell'era della frammentazione televisiva a pagamento. Il conto dietro la medaglia esiste: la Final 8 è a Bologna da anni grazie a un accordo con la Federazione internazionale che vale milioni di indotto per la città e per gli sponsor, ma stavolta il prodotto sportivo è così buono che la battuta sul mercato può aspettare.",
+          "fatti": [
+            {
+              "testo": "La semifinale Italia-Repubblica Ceca si disputa oggi a Bologna, alla BolognaFiere Arena, con inizio alle ore 16:00; i singolari vedono in campo Musetti e Cobolli per l'Italia.",
+              "fonte": "Il Fatto Quotidiano",
+              "url": "https://www.ilfattoquotidiano.it/2026/11/27/italia-repubblica-ceca-coppa-davis-semifinale-orari-tv-streaming/8584709/"
+            },
+            {
+              "testo": "La partita è trasmessa in diretta in chiaro su Rai 1 (dalla semifinale in poi) e su SuperTennis (canale 64 del digitale terrestre), senza abbonamento.",
+              "fonte": "Fanpage",
+              "url": "https://www.fanpage.it/sport/tennis/coppa-davis-2026-italia-in-semifinale-contro-la-cechia-orario-programma-e-dove-vederla-in-tv/"
+            },
+            {
+              "testo": "L'Italia ha vinto le ultime tre edizioni della Davis Cup (2023, 2024, 2025) e punta alla quarta finale consecutiva; Sinner è assente anche in questa edizione.",
+              "fonte": "Sky TG24",
+              "url": "https://tg24.sky.it/sport/2026/11/22/tabellone-coppa-davis-2026"
+            },
+            {
+              "testo": "La Repubblica Ceca, guidata dal capitano Tomas Berdych, ha eliminato il Canada per 2-0 ai quarti di finale con le vittorie nei singolari di Machac e Lehecka.",
+              "fonte": "Sky Sport",
+              "url": "https://sport.sky.it/tennis/2026/11/27/italia-repubblica-ceca-coppa-davis-quando-giocano"
+            }
+          ],
+          "incerto": [
+            "L'esito della semifinale non è ancora noto al momento della redazione.",
+            "Non è confermato se Mensik, non al meglio fisicamente, scenderà in campo per la Repubblica Ceca."
+          ],
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La versione sportiva",
+              "testo": "L'Italia si presenta alla semifinale come campione in carica per il terzo anno consecutivo, con una squadra priva del suo giocatore più forte — Jannik Sinner, assente per ragioni non rese pubbliche — eppure competitiva. Musetti e Cobolli hanno già dimostrato qualità nei turni precedenti, e la coppia di doppio Berrettini-Vavassori è considerata tra le migliori in circolazione. La Repubblica Ceca ha talenti di primo livello, in particolare Machac, numero nell'elite del ranking ATP, e Lehecka; l'incognita Mensik, non in perfetta condizione fisica, potrebbe pesare sulle scelte del capitano Berdych."
+            },
+            {
+              "etichetta": "Il nodo dell'accesso televisivo",
+              "testo": "Per la prima volta nella storia recente degli eventi sportivi maggiori in Italia, la semifinale è visibile gratuitamente su due canali in chiaro: Rai 1 e SuperTennis. Questo modello contrasta con la tendenza prevalente alla frammentazione dei diritti su piattaforme a pagamento. La scelta è in parte legata all'accordo istituzionale tra la Federazione italiana e la Rai, che copre i match della nazionale dalla semifinale in poi. I quarti di finale non erano su Rai 1."
+            },
+            {
+              "etichetta": "L'economia dell'evento",
+              "testo": "Bologna ospita la Final 8 della Davis Cup dal 2021, in virtù di un accordo con la Federazione Internazionale di Tennis (ITF) che garantisce alla città e agli organizzatori locali un significativo indotto economico — stimato in decine di milioni di euro tra ospitalità, ristorazione e indotto turistico. L'evento contribuisce al posizionamento della città come capitale italiana del tennis e ha spinto gli investimenti nella BolognaFiere Arena."
+            }
+          ],
+          "implicazioni": "Se l'Italia raggiungerà la finale domenica, si tratterà della quarta finale consecutiva di Davis Cup: un record senza precedenti nell'era moderna del torneo. Una vittoria consoliderebbe il modello di squadra coesa senza una singola stella dominante — un argomento nel dibattito sul futuro del tennis italiano una volta che Sinner si ritirerà. Sul fronte televisivo, l'eventuale finale domenica sarà anch'essa in chiaro, aumentando l'audience e potenzialmente riaprendo il dibattito sui diritti sportivi pubblici vs. piattaforme a pagamento.",
+          "redattore": "Il Cronista Sportivo 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Due tecnici italiani della Rheinmetall uccisi da droni in Kuwait",
+          "slug": "tecnici-italiani-rheinmetall-uccisi-droni-kuwait",
+          "tag": [
+            "kuwait",
+            "iran",
+            "rheinmetall",
+            "vittime-italiane"
+          ],
+          "evidenza": false,
+          "fonte": "Il Post / Sky TG24",
+          "cerca_url": "https://www.google.com/search?q=tecnici+italiani+Rheinmetall+uccisi+droni+Kuwait+novembre+2026",
+          "post_x": "Due italiani morti in Kuwait: lavoravano per Rheinmetall ai radar antiaerei. «La guerra in subappalto», titola Repubblica. Tajani accusa l'Iran. Teheran nega. Intanto i contractor continuano a essere presenti nelle zone di guerra senza tutele da combattenti. #Kuwait",
+          "post_sito": "Antonio Saccoccio ed Emanuele Lo Russo sono morti a nord di Kuwait City in un attacco con droni: erano tecnici di Rheinmetall Italia impegnati nella manutenzione del sistema di difesa antiaerea Skyguard. «La guerra in subappalto», titola Repubblica con precisione chirurgica: sono civili assunti da un'azienda privata tedesca, inviati in una zona di conflitto senza lo status di militari e quindi senza le tutele che ne derivano. Il ministro Tajani accusa l'Iran, che nega e propone un'inchiesta congiunta. Beneficio taciuto: Rheinmetall è uno dei principali produttori europei di armamenti, con un fatturato in forte crescita negli ultimi tre anni grazie alla domanda bellica. La causa strutturale rimossa: il ricorso massiccio a contractor civili nelle zone di guerra — un fenomeno espanso soprattutto dopo il 2001 — trasferisce il rischio operativo dalle forze armate all'industria privata, e abbassa la soglia politica di coinvolgimento nei conflitti perché le perdite non figurano nelle statistiche militari ufficiali.",
+          "fatti": [
+            {
+              "testo": "Antonio Saccoccio ed Emanuele Lo Russo, tecnici di Rheinmetall Italia, sono stati uccisi da un attacco con droni a nord di Kuwait City mentre svolgevano manutenzione al sistema di difesa antiaerea Skyguard.",
+              "fonte": "Sky TG24",
+              "url": "https://tg24.sky.it/cronaca/2026/11/27/prime-pagine-quotidiani-oggi-27-novembre"
+            },
+            {
+              "testo": "Il ministro degli Esteri Antonio Tajani ha accusato l'Iran per l'attacco; la Repubblica islamica ha negato ogni coinvolgimento e si è detta disponibile a una commissione d'inchiesta congiunta.",
+              "fonte": "Today.it",
+              "url": "https://www.today.it/rassegna/start/ultime-notizie-oggi-27-novembre-2026.html"
+            },
+            {
+              "testo": "La Farnesina ha dichiarato l'allerta massima nella regione del Golfo e si valuta il rafforzamento delle misure di sicurezza per il contingente italiano tra Tripoli e Misurata.",
+              "fonte": "Sky TG24",
+              "url": "https://tg24.sky.it/cronaca/2026/11/27/prime-pagine-quotidiani-oggi-27-novembre"
+            }
+          ],
+          "incerto": [
+            "La responsabilità dell'attacco non è stata accertata: Tajani indica l'Iran, che nega; un'inchiesta congiunta è proposta ma non ancora avviata.",
+            "Non è confermato se altri tecnici italiani siano presenti nella zona e in quale condizione di sicurezza operino."
+          ],
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Scienza",
+          "titolo": "Starmind: la FCC autorizza SpaceX a lanciare un milione di satelliti per l'AI nello spazio",
+          "slug": "spacex-starmind-fcc-milione-satelliti-ai-spazio",
+          "tag": [
+            "spacex",
+            "starmind",
+            "fcc",
+            "intelligenza-artificiale"
+          ],
+          "evidenza": false,
+          "fonte": "AstroSpace / Tom's Hardware / Scienze Notizie",
+          "cerca_url": "https://www.google.com/search?q=SpaceX+Starmind+FCC+milione+satelliti+AI+novembre+2026",
+          "post_x": "La FCC ha autorizzato SpaceX a lanciare fino a 1 milione di satelliti Starmind per data center AI in orbita. Gli astronomi: «Il cielo notturno diventerà irriconoscibile». Musk risponde con un post su X. #Starmind #SpaceX",
+          "post_sito": "Il 25 novembre la Federal Communications Commission ha dato il via libera — condizionato — a SpaceX per lanciare fino a un milione di satelliti della costellazione Starmind, progettati come data center orbitali per l'intelligenza artificiale. È la prima autorizzazione di questo tipo nella storia statunitense. Oggi in orbita ci sono meno di 20mila satelliti: un milione significherebbe moltiplicarli per oltre 50. Il beneficio taciuto è evidente: chi possiede l'infrastruttura di calcolo possiede il mercato AI, e SpaceX — cioè Elon Musk — si candida a controllare la spina dorsale computazionale globale del prossimo decennio, dall'orbita terrestre bassa. Il coro compatto dei comunicati entusiasti oscura due questioni concrete: gli astronomi avvertono che centinaia di satelliti potrebbero essere visibili a occhio nudo simultaneamente, rendendo l'osservazione del cielo impossibile; e la FCC ha respinto la richiesta di deroga sullo smaltimento dei satelliti oltre i 600 km di quota, per mancanza di dettagli sul ciclo di vita. Amazon Leo, ex Project Kuiper, si è opposta formalmente all'autorizzazione — segnale che la guerra commerciale per l'orbita bassa è già aperta.",
+          "fatti": [
+            {
+              "testo": "La FCC ha autorizzato con condizioni SpaceX a lanciare fino a un milione di satelliti Starmind il 25 novembre 2026, prima approvazione di una costellazione di data center orbitali nella storia USA.",
+              "fonte": "AstroSpace",
+              "url": "https://www.astrospace.it/2026/11/26/la-fcc-autorizza-spacex-a-lanciare-fino-a-un-milione-di-satelliti-starmind/"
+            },
+            {
+              "testo": "Le scadenze vincolanti fissate dalla FCC prevedono: primo satellite operativo entro novembre 2033, 100.000 satelliti entro novembre 2035, costellazione completa entro novembre 2040.",
+              "fonte": "Tom's Hardware",
+              "url": "https://www.tomshw.it/scienze/spacex-ottiene-l-ok-a-starmind-fino-a-1-milione-di-satelliti"
+            },
+            {
+              "testo": "Secondo le simulazioni degli astronomi, il sistema potrebbe rendere visibili a occhio nudo centinaia o migliaia di satelliti contemporaneamente; la FCC non ha imposto condizioni specifiche per proteggere l'astronomia ottica.",
+              "fonte": "Scienze Notizie",
+              "url": "https://www.scienzenotizie.it/2026/11/26/spacex-ha-ottenuto-lapprovazione-per-lanciare-un-milione-di-satelliti-con-intelligenza-artificiale-allarme-degli-astronomi-22134758"
+            }
+          ],
+          "incerto": [
+            "Non è ancora noto quanti satelliti SpaceX lancerà effettivamente né quando inizieranno i lanci operativi.",
+            "L'impatto economico reale del progetto sul mercato AI e sugli operatori concorrenti (Amazon Leo, Google) è ancora tutto da verificare."
+          ],
+          "editoriale": false,
+          "redattore": "Il Metodico 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "AI",
+          "titolo": "Moonshot AI cerca server in Europa per il modello Kimi K4, mentre i Paesi Bassi sfidano il MATCH Act USA",
+          "slug": "moonshot-kimi-k4-server-europa-match-act-asml",
+          "tag": [
+            "cina",
+            "ai",
+            "chip",
+            "asml"
+          ],
+          "evidenza": false,
+          "fonte": "Smartphonology",
+          "cerca_url": "https://www.google.com/search?q=Moonshot+Kimi+K4+server+Europa+ASML+MATCH+Act+novembre+2026",
+          "post_x": "La Cina non può addestrare la propria AI sui chip americani. Quindi cerca i server in Europa. I Paesi Bassi protestano contro il MATCH Act USA che minaccia le vendite di ASML a Pechino. La guerra dei chip è diventata la vera guerra fredda del decennio. #AI #Chip",
+          "post_sito": "Dal 19 novembre, le nuove regole americane richiedono una licenza per fornire servizi di calcolo all'estero con chip avanzati di produzione USA. Il risultato immediato: Moonshot AI, l'azienda cinese dietro i modelli Kimi, ha intensificato la ricerca di server in Europa per addestrare il successore di Kimi K3 — il possibile Kimi K4, atteso intorno alla metà del 2027 se trovasse la potenza di calcolo necessaria. Nel frattempo i Paesi Bassi contestano la proposta americana nota come MATCH Act, che colpirebbe le vendite di ASML — il monopolista olandese delle macchine per la produzione di chip — verso la Cina: una quota stimata intorno al 20% delle vendite 2026 di ASML. Il mandante invisibile di tutta questa architettura normativa non è il Congresso americano ma l'industria dei semiconduttori USA — Nvidia, Intel, AMD — che vuole eliminare la concorrenza cinese prima che raggiunga la parità tecnologica. L'eufemismo di potere è «sicurezza nazionale»: nella realtà si tratta di protezione industriale mascherata da geopolitica.",
+          "fatti": [
+            {
+              "testo": "Dal 19 novembre 2026 le nuove regole USA richiedono una licenza per fornire servizi di calcolo all'estero con chip americani avanzati; Moonshot AI ha intensificato la ricerca di server in Europa per addestrare i propri modelli.",
+              "fonte": "Smartphonology",
+              "url": "https://www.smartphonology.it/tech-news-del-27-novembre-2026-i-chip-per-kimi-e-il-caso-asml"
+            },
+            {
+              "testo": "Per ASML la Cina dovrebbe rappresentare circa il 20% delle vendite del 2026; i Paesi Bassi stanno cercando il sostegno di altri Paesi europei contro il MATCH Act americano.",
+              "fonte": "Smartphonology",
+              "url": "https://www.smartphonology.it/tech-news-del-27-novembre-2026-i-chip-per-kimi-e-il-caso-asml"
+            },
+            {
+              "testo": "Una fonte di Reuters colloca il possibile debutto di Kimi K4 intorno alla metà del 2027, subordinato all'accesso ai server esteri.",
+              "fonte": "Smartphonology",
+              "url": "https://www.smartphonology.it/tech-news-del-27-novembre-2026-i-chip-per-kimi-e-il-caso-asml"
+            }
+          ],
+          "incerto": [
+            "Non è confermato dove Moonshot AI troverà effettivamente i server europei né a quali condizioni.",
+            "L'esito del confronto tra Paesi Bassi e USA sul MATCH Act è ancora aperto."
+          ],
+          "editoriale": false,
+          "redattore": "Il Futurologo 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Wellness",
+          "titolo": "Wellness Valley Report 2026: il settore vale 2 miliardi in Romagna, ma è Technogym a presentarlo",
+          "slug": "wellness-valley-report-2026-romagna-technogym",
+          "tag": [
+            "wellness",
+            "romagna",
+            "technogym",
+            "industria-benessere"
+          ],
+          "evidenza": false,
+          "fonte": "ANSA / Il Resto del Carlino",
+          "cerca_url": "https://www.google.com/search?q=Wellness+Valley+Report+2026+Romagna+Technogym",
+          "post_x": "Il Wellness Valley Report 2026 certifica: il benessere in Romagna vale 2 miliardi (+86% dal 2011) e il 57% della popolazione è «attiva». La presentazione? Al Technogym Village. Chi finanzia l'osservatorio che misura il successo di Technogym? #Wellness",
+          "post_sito": "Il Wellness Valley Report 2026, elaborato dall'Osservatorio Wellness dell'Emilia-Romagna, certifica numeri impressionanti: il settore vale oltre 2 miliardi di euro, è cresciuto dell'86% tra il 2011 e il 2024, e il 57% della popolazione romagnola è «attiva» rispetto alla media italiana del 50%. Nei primi otto mesi del 2026 gli arrivi turistici nella zona superano i 6 milioni. Tutti numeri presentati al Technogym Village — sede dell'azienda fondata da Nerio Alessandri a Cesena, leader mondiale dell'attrezzatura fitness. Il beneficio taciuto sta nella composizione stessa dell'Osservatorio: vi partecipano Regione, Università di Bologna, Wellness Foundation, Apt Servizi, Art-er, Unioncamere — un ecosistema istituzionale che produce dati utili a certificare il successo di un distretto industriale dove Technogym è il principale attore economico. Non è cospirazione, è marketing istituzionale ben confezionato: la narrazione «la Romagna fa bene alla salute» è anche la narrazione «comprate attrezzature Technogym e venite in vacanza qui». Il dato sulla sedentarietà — 15% in Romagna contro 26% nazionale — è reale e positivo; chiedersi chi finanzia la ricerca che lo certifica è semplicemente buon giornalismo.",
+          "fatti": [
+            {
+              "testo": "Secondo il Wellness Valley Report 2026 elaborato dall'Osservatorio Wellness dell'Emilia-Romagna, il settore wellness in Romagna vale oltre 2 miliardi di euro ed è cresciuto dell'86% tra il 2011 e il 2024.",
+              "fonte": "ANSA",
+              "url": "https://www.ansa.it/ansacom/notizie/emiliaromagna/2026/11/26/in-romagna-il-settore-wellness-e-cresciuto-dell86-vale-oltre-2-miliardi_59beb550-3de8-48fd-8324-b522734f2300.html"
+            },
+            {
+              "testo": "In Romagna il 57% della popolazione è attiva (media italiana 50%), la percentuale di adulti sedentari è del 15% contro il 26% nazionale.",
+              "fonte": "Il Resto del Carlino",
+              "url": "https://www.ilrestodelcarlino.it/cesena/cronaca/economia-e-salute-dei-cittadini-dbe02b23"
+            },
+            {
+              "testo": "Nei primi otto mesi del 2026 gli arrivi turistici in Romagna sono stati oltre 6 milioni (+2,3% sul 2025).",
+              "fonte": "Il Resto del Carlino",
+              "url": "https://www.ilrestodelcarlino.it/cesena/cronaca/wellness-valley-economia-e-salute-7fb5da4f"
+            }
+          ],
+          "incerto": [
+            "I dati sulla sedentarietà e sull'attività fisica si riferiscono all'osservazione 2024 e non al 2026 in corso."
+          ],
+          "editoriale": false,
+          "redattore": "Il Life Coach 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Cultura",
+          "titolo": "Il Teatro dell'Opera di Roma inaugura la stagione con «The Rake's Progress» di Stravinskij — dopo 58 anni di assenza",
+          "slug": "teatro-opera-roma-rakes-progress-stravinskij-stagione-2026",
+          "tag": [
+            "opera",
+            "roma",
+            "stravinskij",
+            "stagione-lirica"
+          ],
+          "evidenza": false,
+          "fonte": "Fattitaliani",
+          "cerca_url": "https://www.google.com/search?q=Teatro+Opera+Roma+The+Rake%27s+Progress+Stravinskij+2026",
+          "post_x": "Il Teatro dell'Opera di Roma inaugura la stagione 2026/2027 con «The Rake's Progress» di Stravinskij: 58 anni di assenza dal Costanzi. L'opera che racconta la rovina morale di un giovane ricco scialacquatore. Stasera come metafora del momento sembra perfetta. #Opera",
+          "post_sito": "Questa sera alle 19 il Teatro dell'Opera di Roma alza il sipario sulla stagione 2026/2027 con «The Rake's Progress» di Igor' Stravinskij su libretto di Wystan Hugh Auden e Chester Kallman: l'opera torna al Costanzi dopo 58 anni di assenza. È una scelta editorialmente coraggiosa — il titolo è difficile, poco popolare, lontano dal grande repertorio italiano — e già questo merita attenzione in un panorama operistico italiano spesso dominato dalla logica del titolo sicuro e del botteghino garantito. «The Rake's Progress» racconta la parabola di un giovane che eredita una fortuna, cede alla dissolutezza, si rovini e finisce in manicomio: il libretto di Auden non è mai stato così contemporaneo. Il mandante invisibile di ogni stagione operistica è il sistema dei finanziamenti pubblici e dei grandi sponsor privati — banche e fondazioni — che orientano le scelte artistiche verso il sicuro o verso il «coraggioso di facciata». Scegliere Stravinskij anziché Puccini stasera suggerisce che qualcuno, almeno per una sera, abbia scelto il rischio artistico vero.",
+          "fatti": [
+            {
+              "testo": "Il Teatro dell'Opera di Roma inaugura la stagione 2026/2027 il 27 novembre alle ore 19 con «The Rake's Progress», favola in tre atti con musica di Stravinskij su libretto di Auden e Kallman, con repliche fino al 5 dicembre.",
+              "fonte": "Fattitaliani",
+              "url": "https://www.fattitaliani.it/2026/11/roma-cultura-in-citta-gran-finale-di.html"
+            },
+            {
+              "testo": "L'opera torna sul palco del Teatro Costanzi di Roma dopo 58 anni di assenza.",
+              "fonte": "Fattitaliani",
+              "url": "https://www.fattitaliani.it/2026/11/roma-cultura-in-citta-gran-finale-di.html"
+            }
+          ],
+          "incerto": [
+            "Non sono disponibili al momento dati sulle vendite dei biglietti o sull'accoglienza della prima serata."
+          ],
+          "editoriale": false,
+          "redattore": "Il Letterato 1.0",
+          "fatti_verificati": true
+        }
+      ],
+      "controlli": {
+        "url_ricerca": 101,
+        "fatti_proposti": 27,
+        "fatti_scartati": 0,
+        "giorni_corretti": [],
+        "virgolette_riparate": 0
+      }
+    },
+    {
       "data": "2026-11-26",
       "post": [
         {
@@ -9068,189 +9452,7 @@
           "redattore": "Il Letterato 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-10-28",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Israele senza maggioranza: Netanyahu primo ma non governa",
-          "slug": "israele-elezioni-netanyahu-senza-maggioranza",
-          "tag": [
-            "israele",
-            "elezioni",
-            "netanyahu",
-            "medio-oriente"
-          ],
-          "evidenza": true,
-          "fonte": "Corriere della Sera / Sky TG24",
-          "cerca_url": "https://www.google.com/search?q=elezioni+Israele+Netanyahu+senza+maggioranza+28+ottobre+2026",
-          "post_x": "Israele vota con affluenza record (74,7%). Netanyahu primo partito ma senza numeri per governare. Il coro dei media esulta o si dispera. Intanto la commissione ONU certifica atti genocidari a Gaza. Quella parte la leggete più in piccolo. #Israele",
-          "post_sito": "Le elezioni israeliane hanno prodotto il solito verdetto: il Likud di Netanyahu è il primo partito, ma il blocco che lo sostiene non ha i numeri per formare un governo, mentre l'opposizione guidata dall'ex generale Eisenkot e i partiti arabi avanzano in modo significativo. L'affluenza record — quasi il 75%, la più alta dal 1999 — viene celebrata come segnale di vitalità democratica; nessuno si chiede però cosa significhi votare mentre la stessa giornata il rapporto della commissione ONU certifica che Israele «continua a commettere atti genocidari a Gaza anche dopo il cessate il fuoco». Il villain di comodo qui rischia di essere Netanyahu stesso: comodo da indicare come problema sistemico, utile per non dover parlare di chi ha finanziato e armato il suo esercito per decenni. Haaretz riferisce intanto di tensioni nei vertici del Mossad e dell'esercito sulle operazioni contro l'Iran condotte prima del voto — con timori che siano state usate per condizionare l'elettorato — e Netanyahu smentisce, naturalmente. Il contesto rimosso: Israele va al voto per la sesta volta in sette anni. Qualcuno prima o poi dovrebbe chiedersi se il problema sia Netanyahu o il sistema elettorale che lo rende indispensabile.",
-          "editoriale": true,
-          "prospettive": [
-            {
-              "etichetta": "Il risultato elettorale",
-              "testo": "Le elezioni del 27 ottobre hanno consegnato un Parlamento frammentato: il blocco guidato da Netanyahu ha ottenuto circa 55 seggi, insufficienti per la maggioranza di 61. Il blocco di opposizione guidato dall'ex generale Gadi Eisenkot si ferma intorno a 47 seggi. I partiti della lista araba conquistano circa 11 seggi, risultato che la Repubblica definisce «determinante» per gli equilibri futuri. Il presidente Herzog dovrà ora affidare l'incarico di formare il governo; le trattative potrebbero durare settimane."
-            },
-            {
-              "etichetta": "Il nodo Gaza e il rapporto ONU",
-              "testo": "Nella stessa giornata in cui si contano i voti, la commissione indipendente d'inchiesta dell'ONU ha pubblicato un rapporto in cui conclude che Israele continua a commettere atti genocidari a Gaza anche dopo il cessate il fuoco, e che in Cisgiordania è in corso un attacco esteso, sistematico e coordinato contro i palestinesi. Il governo israeliano respinge le conclusioni della commissione come parziali. Una delegazione internazionale di 23 persone, tra parlamentari e studiosi, diretta a un convegno universitario palestinese, è stata respinta al valico con la Giordania dopo ore di interrogatorio."
-            },
-            {
-              "etichetta": "Le tensioni interne sui dossier Iran",
-              "testo": "Il quotidiano israeliano Haaretz ha riferito di tensioni nei vertici militari e nel Mossad riguardo alle operazioni condotte contro l'Iran nelle settimane precedenti al voto, con timori che potessero essere state pianificate anche con l'obiettivo di influenzare l'esito elettorale. Netanyahu ha smentito tali ricostruzioni, mentre il Mossad ha dichiarato di operare esclusivamente per ragioni di sicurezza nazionale."
-            }
-          ],
-          "implicazioni": "Se le trattative per formare un governo fallissero, Israele tornerebbe al voto per la settima volta in otto anni, con Netanyahu alla guida dell'esecutivo uscente. Un governo di coalizione allargato che includesse partiti arabi potrebbe invece modificare radicalmente gli equilibri interni su politiche civili e sul conflitto. La posizione dell'Italia, che ha congelato le forniture militari all'Ucraina dal dicembre 2025 e non ha ancora preso posizione netta sul rapporto ONU, rimane in questo contesto sotto osservazione da parte dei partner europei.",
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Manovra 2027 al Consiglio dei ministri: 23,5 miliardi e nodi ancora aperti",
-          "slug": "manovra-2027-consiglio-ministri-23-miliardi",
-          "tag": [
-            "manovra",
-            "legge-di-bilancio",
-            "meloni",
-            "fisco"
-          ],
-          "evidenza": false,
-          "fonte": "Il Sole 24 Ore / Policy Maker",
-          "cerca_url": "https://www.google.com/search?q=manovra+2027+Consiglio+ministri+28+ottobre+2026",
-          "post_x": "Manovra 2027: 23,5 miliardi, banche tassate quasi 5 miliardi, flat tax ai giovani. Meloni: «manteniamo gli impegni». Quali impegni? Quelli col ceto medio o col settore finanziario che scrive l'assegno? #Manovra2027",
-          "post_sito": "Il Consiglio dei ministri si riunisce oggi per varare la legge di bilancio 2027 da 23,5 miliardi di euro, l'ultima di questa legislatura — e già questo è un dato politico che nessuno nomina esplicitamente. Meloni parla di «dirittura d'arrivo» e di «mantenere gli impegni»: impegni presi con chi, è la domanda che la conferenza stampa non porrà. La copertura principale è un contributo del settore finanziario da quasi 5 miliardi: banche e assicurazioni pagano, dunque — ma l'accordo su come e quanto non è ancora scritto nei singoli articoli, il che lascia ampio spazio per trattative notturne al riparo dai riflettori. Mandante invisibile: il fatto che il disegno di legge sia arrivato al Cdm con le modalità del prelievo bancario ancora «da scrivere» suggerisce che la trattativa con i gruppi finanziari sia ancora in corso mentre il governo annuncia cifre. Nel frattempo la sugar tax e la plastic tax vengono rinviate ancora di sei mesi: è il settimo rinvio consecutivo, ma nessun giornale lo conta più. Il disavanzo è previsto al 3,4% del PIL nel 2027, il debito al 138,5%: numeri che Bruxelles guarda con attenzione e che il comunicato governativo cita solo in fondo.",
-          "editoriale": false,
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Meta raccoglie 25 miliardi in azioni: domanda cinque volte l'offerta per finanziare l'AI",
-          "slug": "meta-aumento-capitale-25-miliardi-ai",
-          "tag": [
-            "meta",
-            "intelligenza-artificiale",
-            "wall-street",
-            "big-tech"
-          ],
-          "evidenza": false,
-          "fonte": "Bloomberg / Il Messaggero / Milano Finanza",
-          "cerca_url": "https://www.google.com/search?q=Meta+aumento+capitale+25+miliardi+AI+ottobre+2026",
-          "post_x": "Meta raccoglie 25 miliardi in azioni con domanda 5 volte superiore. Il fornitore di chip Nvidia investe 3 miliardi nel suo stesso cliente. Nel capitalismo dell'AI i ruoli si fondono: chi vende i mattoni compra anche la casa. #Meta #AI",
-          "post_sito": "Meta Platforms ha chiuso un'offerta azionaria da 25 miliardi di dollari con una domanda pari a cinque volte i titoli disponibili — uno dei maggiori collocamenti azionari della storia — nell'ambito di un piano complessivo che punta a raccogliere fino a 98 miliardi per finanziare investimenti in infrastrutture AI stimati tra 135 e 145 miliardi di dollari nel solo 2026. Il beneficio taciuto più interessante sta nella struttura dell'operazione: Nvidia, principale fornitore di chip per l'AI di Meta, ha investito 3 miliardi nell'aumento di capitale del suo stesso cliente principale, in cambio di un ampliamento della partnership sulle piattaforme Vera Rubin. In questo modo il produttore di semiconduttori finanzia la crescita di chi gli compra l'hardware, che a sua volta cresce e compra più hardware. Un circolo chiuso e lucrativo che non ha nulla da invidiare ai fondi sovrani più opachi. La domanda che nessun comunicato stampa pone: Meta dispone già di circa 82 miliardi tra liquidità e titoli negoziabili al terzo trimestre 2026, e genera cassa in abbondanza. Perché raccogliere altri 98 miliardi dal mercato, diluendo gli azionisti esistenti, invece di utilizzare la cassa propria? La risposta più onesta è che a queste cifre la posta in gioco non è più il prodotto: è il controllo dell'infrastruttura globale dell'intelligenza artificiale.",
-          "editoriale": false,
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Virtus Bologna-Zalgiris in Eurolega: le V-Nere cercano continuità al PalaDozza",
-          "slug": "virtus-bologna-zalgiris-eurolega-basket",
-          "tag": [
-            "basket",
-            "eurolega",
-            "virtus-bologna",
-            "sport"
-          ],
-          "evidenza": false,
-          "fonte": "OA Sport / Kiss Kiss",
-          "cerca_url": "https://www.google.com/search?q=Virtus+Bologna+Zalgiris+Eurolega+28+ottobre+2026",
-          "post_x": "Stasera al PalaDozza, Virtus Bologna-Zalgiris Kaunas in Eurolega (ore 20:30, Sky Sport Basket). Mentre i giornali sportivi riempiono pagine di Serie A, la pallacanestro europea fa i conti reali col continente. Buon basket a chi guarda. #Eurolega",
-          "post_sito": "Mentre i quotidiani sportivi aprono con sei colonne di Serie A, questa sera al PalaDozza di Bologna si gioca una delle partite più interessanti della giornata: Virtus Bologna affronta lo Zalgiris Kaunas nell'ottava giornata di Eurolega, con le V-Nere a quota 4 vittorie e 3 sconfitte in una classifica ancora aperta. La partita è visibile su Sky Sport Basket e NOW — dunque non in chiaro, come del resto l'intera Eurolega — e porta con sé un sottotest tecnico-tattico di rilievo: lo Zalgiris è secondo per triple segnate nella competizione con il 41% dall'arco, e il grande ex Carsen Edwards torna a Bologna dove ha lasciato un'ottima memoria. La Virtus, che in campionato ha appena battuto in rimonta l'Olimpia Milano, cerca conferma anche in Europa. Il conto dietro la medaglia lo conoscono bene i tifosi bolognesi: la recente ristrutturazione della squadra ha portato volti nuovi, un coach (Mumbrù) che impone un gioco rapido, e un roster costruito per competere su più fronti. La pallacanestro europea non chiede spazio sui giornali — lo prende sul campo, punto dopo punto.",
-          "editoriale": false,
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Caso Fakir: la perizia certifica lo schiacciamento come concausa, emergono le frasi degli agenti dalla bodycam",
-          "slug": "caso-fakir-perizia-concausa-frasi-agenti-bodycam",
-          "tag": [
-            "bologna",
-            "fakir",
-            "polizia",
-            "diritti-civili"
-          ],
-          "evidenza": false,
-          "fonte": "Il Fatto Quotidiano / Sky TG24 / Bologna Today",
-          "cerca_url": "https://www.google.com/search?q=morte+Fakir+Bologna+perizia+concausa+frasi+agenti+bodycam+2026",
-          "post_x": "Caso Fakir: la perizia della Procura di Bologna certifica che lo schiacciamento in posizione prona è stato una concausa della morte. Dalle bodycam emergono frasi registrate degli agenti. Sei persone iscritte nel registro per omicidio colposo. #Fakir",
-          "post_sito": "La consulenza tecnica medico-legale disposta dalla Procura di Bologna ha stabilito che lo schiacciamento del corpo di Abderrahim Fakir durante il fermo di polizia del 19 luglio è stato una concausa della sua morte: in assenza di tale schiacciamento, il decesso non si sarebbe verificato. La perizia indica anche l'assunzione di cocaina e una cardiopatia preesistente come fattori concorrenti. Sono sei le persone iscritte nel registro delle annotazioni preliminari per omicidio colposo: due agenti e quattro volontari della Croce Rossa. Emergono contemporaneamente — citate nella parte introduttiva della stessa perizia — le trascrizioni delle frasi registrate dalla bodycam di uno degli agenti nei minuti in cui Fakir stava morendo. Il registro del Corrispondente si ferma qui: i fatti e gli indizi sono documentati, le trascrizioni esistono agli atti della Procura, la presunzione di innocenza vale per tutti gli indagati fino a sentenza definitiva. La causa strutturale rimossa che meriterebbe attenzione — indipendente dalle responsabilità individuali ancora da accertare — è quella relativa alle procedure di contenimento fisico in uso nelle forze dell'ordine, alla formazione degli agenti nelle situazioni di crisi, e all'assenza di protocolli sanitari obbligatori nei fermi. Nessuno di questi temi è entrato seriamente nel dibattito pubblico.",
-          "editoriale": false,
-          "redattore": "L'Osservatore 1.0"
-        },
-        {
-          "categoria": "Scienza",
-          "titolo": "L'ONU certifica: CO2 atmosferica al 153% dei livelli preindustriali, record nel 2025",
-          "slug": "onu-co2-record-153-percento-preindustriale-2025",
-          "tag": [
-            "clima",
-            "co2",
-            "onu",
-            "wmo"
-          ],
-          "evidenza": false,
-          "fonte": "GreenMe / HW Upgrade",
-          "cerca_url": "https://www.google.com/search?q=ONU+WMO+CO2+record+153+percento+preindustriale+2025+2026",
-          "post_x": "L'ONU certifica: CO2 al 153% dei livelli preindustriali, metano al 267%. Il dato è pubblicato mentre i governi sono riuniti a discutere di manovre finanziarie. La correlazione tra le due notizie non è casuale. #Clima #CO2",
-          "post_sito": "Il bollettino annuale dell'Organizzazione Meteorologica Mondiale, pubblicato il 28 ottobre, certifica che la concentrazione di anidride carbonica nell'atmosfera nel 2025 ha raggiunto il 153% dei livelli preindustriali (pre-1750), il metano il 267% e il protossido di azoto il 126%. La CO2, spiega il rapporto, contribuisce per il 66% all'effetto serra complessivo generato dai tre gas insieme. Il dato è reale e verificabile. La domanda controcorrente non riguarda il consenso scientifico — solido — ma il meccanismo con cui questi numeri vengono processati nel dibattito pubblico: il rapporto WMO esce ogni anno, ogni anno registra un nuovo record, ogni anno ottiene un giorno di titoli e poi scompare. Chi ci guadagna dalla ripetizione senza conseguenze? Le industrie fossili, i governi che rimandano le scelte difficili, e — detto senza compiacenza — anche una parte dell'industria della comunicazione climatica che ha trasformato l'allarme in formato narrativo ricorrente senza mai chiedere conto dei meccanismi concreti di finanziamento alle fonti fossili che restano intatti. Un dettaglio che i titoli non citano: la funzionaria scientifica WMO Oksana Tarasova ha spiegato che il tasso di crescita della CO2 nel 2025 è stato leggermente più lento grazie al recupero dei pozzi di assorbimento terrestri e alla riduzione degli incendi post-El Niño — un dato scomodo perché suggerisce che l'ecosistema mantiene una capacità di risposta che l'apocalittismo non prevede.",
-          "editoriale": false,
-          "redattore": "Il Metodico 1.0"
-        },
-        {
-          "categoria": "AI",
-          "titolo": "Microsoft offre l'uscita volontaria a 60.000 dipendenti per finanziare i data center AI",
-          "slug": "microsoft-uscita-volontaria-60mila-dipendenti-ai",
-          "tag": [
-            "microsoft",
-            "intelligenza-artificiale",
-            "lavoro",
-            "big-tech"
-          ],
-          "evidenza": false,
-          "fonte": "La Voce di Venezia / Morning Tech",
-          "cerca_url": "https://www.google.com/search?q=Microsoft+uscita+volontaria+60000+dipendenti+AI+data+center+ottobre+2026",
-          "post_x": "Microsoft offre l'uscita volontaria a 60.000 dipendenti in USA, Canada, India e UK. Obiettivo: liberare risorse per i data center AI. Traduzione: le persone costano, i server no. Benvenuti nell'economia dell'intelligenza artificiale. #Microsoft #AI",
-          "post_sito": "Microsoft ha annunciato il 26 ottobre un'offerta di incentivi per l'uscita volontaria rivolta a circa 60.000 dipendenti negli Stati Uniti, Canada, India e Regno Unito. L'obiettivo dichiarato — e qui l'eufemismo di potere è quasi artistico — è «ridurre i costi fissi per liberare risorse da destinare agli investimenti nei data center necessari per far fronte alla crescente domanda di servizi cloud legati all'intelligenza artificiale». In pratica: l'AI sostituisce le persone che servivano a costruire l'AI. Il beneficio taciuto è doppio. Primo: Microsoft serve come infrastruttura anche ad Anthropic e OpenAI, quindi la riduzione del personale umano finanzia la crescita dei competitor che a loro volta dipendono da Microsoft. Secondo: «uscita volontaria» è una formula che scarica il costo reputazionale sulle persone che «scelgono» di andare — anche se la scelta avviene in un contesto dove il reparto che non viene ristrutturato è l'eccezione. La stessa settimana, Meta raccoglie 25 miliardi per i suoi data center con domanda cinque volte superiore all'offerta. Il pattern è chiaro: il capitale umano esce, il capitale computazionale entra. Nessuna grande testata ha calcolato quanti posti di lavoro, a livello aggregato nelle Big Tech, sono stati eliminati dall'inizio del ciclo di investimenti AI nel 2023. Sarebbe un numero interessante da leggere accanto ai comunicati sulle «opportunità» create dall'intelligenza artificiale.",
-          "editoriale": false,
-          "redattore": "Il Futurologo 1.0"
-        },
-        {
-          "categoria": "Wellness",
-          "titolo": "Rapporto BES 2026 Istat: quasi un italiano su dieci rinuncia alle cure sanitarie",
-          "slug": "istat-bes-2026-rinuncia-cure-sanitarie",
-          "tag": [
-            "salute",
-            "istat",
-            "disuguaglianze",
-            "sanita"
-          ],
-          "evidenza": false,
-          "fonte": "GreenMe / Istat BES 2026",
-          "cerca_url": "https://www.google.com/search?q=Istat+BES+2026+rinuncia+cure+sanitarie+ottobre+2026",
-          "post_x": "Istat BES 2026: quasi 1 italiano su 10 ha rinunciato a cure sanitarie di cui aveva bisogno. Al Sud lavorano solo 4 donne su 10. Il mercato del wellness fattura miliardi. Il benessere reale dipende ancora dal CAP di residenza. #Salute #Istat",
-          "post_sito": "Il Rapporto sul Benessere Equo e Sostenibile 2026 dell'Istat, pubblicato il 26 ottobre e basato su 148 indicatori, fotografa un Paese che vive più a lungo ma in cui quasi una persona su dieci ha rinunciato nell'ultimo anno a una prestazione sanitaria di cui aveva bisogno. Al Sud, lavorano soltanto quattro donne su dieci nella fascia 20-64 anni. Dati che esistono, vengono pubblicati, e poi spariscono sotto la valanga di contenuti sul benessere individuale — le app di meditazione, i programmi di detox, i coach di mindfulness — che costituiscono un'industria da decine di miliardi globali. Il bersaglio satirico, qui, non è chi compra un abbonamento a una palestra o scarica un'app per dormire meglio: è l'industria che ha trasformato la salute collettiva — un problema strutturale di accesso, di reddito, di territorio — in una questione di scelte personali e stili di vita ottimizzati. Chi ci guadagna dalla narrativa del «benessere individuale»: le piattaforme di telemedicina a pagamento, i brand di integratori, le assicurazioni sanitarie private che prosperano esattamente dove il servizio pubblico arretra. Il BES 2026 dice anche che «il benessere dipende ancora dal CAP»: in questo Paese, curarsi bene o male dipende spesso da dove sei nato — e nessuna app risolve questo.",
-          "editoriale": false,
-          "redattore": "Il Life Coach 1.0"
-        },
-        {
-          "categoria": "Cultura",
-          "titolo": "Max Gazzè chiude il trittico napoletano al Teatro Bellini con il nuovo album",
-          "slug": "max-gazze-teatro-bellini-napoli-ornamento-cose-secondarie",
-          "tag": [
-            "musica",
-            "teatro",
-            "napoli",
-            "tour"
-          ],
-          "evidenza": false,
-          "fonte": "Napolike",
-          "cerca_url": "https://www.google.com/search?q=Max+Gazze+Teatro+Bellini+Napoli+ottobre+2026+tour",
-          "post_x": "Max Gazzè chiude stasera il trittico napoletano al Teatro Bellini. Si chiama «L'ornamento delle cose secondarie». In un'epoca in cui tutto deve essere primario, urgente e virale, scegliere di fare un album sulle cose secondarie è l'atto politico più silenzioso della stagione. #Cultura",
-          "post_sito": "Stasera al Teatro Bellini di Napoli si chiude il trittico di date di Max Gazzè con il tour teatrale del nuovo album «L'ornamento delle cose secondarie» — tre serate consecutive nello stesso teatro, formato sempre più raro in un'industria musicale che ottimizza le tournée sulla base dei margini per città. La scelta del teatro, contro la logica del palazzetto da ottimizzare, è già un posizionamento: significa un pubblico selezionato per affezione, acustica curata, nessuna mega-produzione scenografica a debito. Il mandante invisibile dell'industria musicale contemporanea è il modello streaming, che premia i singoli virali e punisce gli album concepiti come oggetti unitari — il che rende la scelta di un cantautore che intitola il proprio disco «cose secondarie» un piccolo atto di resistenza commerciale, consapevole o no. Il beneficio taciuto del tour teatrale per un artista della generazione di Gazzè: riconquistare un pubblico fidelizzato che compra il biglietto, non streamma gratis, e porta in sala persone che tornerebbero. Il tutto mentre i festival estivi e le arene — dove l'headliner è spesso un alibi per vendere birra e merchandising — dominano la narrazione dell'«industria culturale in salute».",
-          "editoriale": false,
-          "redattore": "Il Letterato 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-11-26T08:21:06.758749+00:00"
+  "ultimo_aggiornamento": "2026-11-27T08:20:57.637973+00:00"
 }
