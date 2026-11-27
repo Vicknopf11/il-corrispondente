@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-27",
+      "slug": "wellness-valley-report-2026-romagna-technogym",
+      "categoria": "Wellness",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-27",
       "slug": "moonshot-kimi-k4-server-europa-match-act-asml",
       "categoria": "AI",
       "evidenza": false,
