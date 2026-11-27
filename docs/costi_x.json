@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-27",
+      "slug": "coppa-davis-italia-repubblica-ceca-semifinale-bologna-2026",
+      "categoria": "Sport",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
+      "data": "2026-11-27",
       "slug": "de-cos-bce-fed-rialzo-tassi-novembre-2026",
       "categoria": "Economia",
       "evidenza": false,
