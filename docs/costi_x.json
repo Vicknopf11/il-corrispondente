@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-27",
+      "slug": "de-cos-bce-fed-rialzo-tassi-novembre-2026",
+      "categoria": "Economia",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-27",
       "slug": "meloni-contro-magistrati-stipendi-congresso-anm",
       "categoria": "Politica Nazionale",
       "evidenza": false,
