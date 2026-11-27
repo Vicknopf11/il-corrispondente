@@ -1,6 +1,22 @@
 {
-  "generato": "2026-11-27T12:31:17.792343+00:00",
+  "generato": "2026-11-27T18:31:20.722400+00:00",
   "item": [
+    {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "Magnus Carlsen certo di rimanere numero 1 al mondo anche dopo il match Mondiale Gukesh-Sindarov",
+      "link": "https://www.oasport.it/2026/11/magnus-carlsen-certo-di-rimanere-numero-1-al-mondo-anche-dopo-il-match-mondiale-gukesh-sindarov/",
+      "fonte": "OA Sport — Scacchi",
+      "data_evento": "2026-11-27"
+    },
+    {
+      "sottocategoria": "Racchette e precisione",
+      "tipo": "notizia",
+      "titolo": "Roma prende la mira: nella Capitale la finale della Coppa del Mondo degli Sport di Tiro",
+      "link": "https://www.gazzetta.it/Sport-Vari/27-11-2026/tiro-a-volo-a-roma-la-finale-della-coppa-del-mondo-degli-sport-di-tiro.shtml",
+      "fonte": "Gazzetta — Sport Vari",
+      "data_evento": "2026-11-27"
+    },
     {
       "sottocategoria": "Combattimento",
       "tipo": "notizia",
@@ -12,42 +28,34 @@
     {
       "sottocategoria": "Acqua",
       "tipo": "notizia",
-      "titolo": "Ferrari Hypersail, annunciata la partnership con lo Yacht Club italiano e un nuovo ingresso nel team",
-      "link": "https://www.gazzetta.it/vela/26-11-2026/ferrari-hypersail-elkannn-presenta-l-equipaggio-per-attentare-al-record-del-jules-verne.shtml",
-      "fonte": "Gazzetta — Vela e Nautica",
-      "data_evento": "2026-11-26"
+      "titolo": "Roma Vis Nova, derby time con Amref",
+      "link": "https://www.corrieredellosport.it/news/altri-sport/pallanuoto/2026/11/27-152882077/roma_vis_nova_derby_time_con_amref/",
+      "fonte": "Corriere dello Sport — Altri sport",
+      "data_evento": "2026-11-27"
     },
     {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
-      "titolo": "Tredici Pietro, il rap è sport: \"Cantavo correndo 15 chilometri\". E tra Sinner e Alcaraz sceglie...",
-      "link": "https://www.gazzetta.it/Tennis/27-11-2026/tredici-pietro-intervista-al-figlio-di-gianni-morandi-tra-rap-e-sport.shtml",
+      "titolo": "La Federbasket e IBSA rinnovano la partnership fino al 2029",
+      "link": "https://www.gazzetta.it/Basket/27-11-2026/federbasket-ibsa-rinnovano-partnership-2029.shtml",
       "fonte": "Gazzetta — Basket",
       "data_evento": "2026-11-27"
     },
     {
       "sottocategoria": "Atletica",
       "tipo": "notizia",
-      "titolo": "Marquez, Platini, Borg, Indurain e quelli che dicono addio quando sono al top",
-      "link": "https://www.gazzetta.it/Moto/moto-GP/storie/27-11-2026/marquez-platini-borg-indurain-campioni-ritiri-al-top/addio-al-vertice.shtml",
+      "titolo": "MotoGP, GP Valencia, Alex Marquez scivola durante le pre-qualifiche: il VIDEO",
+      "link": "https://video.gazzetta.it/moto/video-highlights-motogp-gp-valencia-alex-marquez-scivola-durante-le-pre-qualifiche/bdadbf98-50de-4c43-b840-44c26431cxlk",
       "fonte": "Gazzetta — Ciclismo",
       "data_evento": "2026-11-27"
     },
     {
-      "sottocategoria": "Racchette e precisione",
-      "tipo": "notizia",
-      "titolo": "Tennis: Jannik Sinner non parteciperà agli Australian Open",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/26/jannik-sinner-non-partecipera-agli-australian-open_8907fa06-eb07-4e93-9ce5-2873d033a7fd.html",
-      "fonte": "ANSA Sport",
-      "data_evento": "2026-11-26"
-    },
-    {
       "sottocategoria": "Invernali",
       "tipo": "notizia",
-      "titolo": "Brignone si prepara alla sua ultima volta sugli sci: \"Vedremo che cosa sarà possibile. Il mio sogno è...\"",
-      "link": "https://www.corrieredellosport.it/news/altri-sport/sci/2026/11/26-152856397/brignone_si_prepara_alla_sua_ultima_volta_sugli_sci_vedremo_che_cosa_sar_possibile_il_mio_sogno_/",
-      "fonte": "Corriere dello Sport — Altri sport",
-      "data_evento": "2026-11-26"
+      "titolo": "Salto con gli sci, Marius Lindvik in vetta alle qualificazioni di Ruka. Un azzurro accede alla gara",
+      "link": "https://www.oasport.it/2026/11/salto-con-gli-sci-marius-lindvik-in-vetta-alle-qualificazioni-di-ruka-un-azzurro-accede-alla-gara/",
+      "fonte": "OA Sport — Sport invernali",
+      "data_evento": "2026-11-27"
     },
     {
       "sottocategoria": "Calcio femminile",
@@ -56,14 +64,6 @@
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/26/calcio-abodi-con-l1-ai-dilettanti-rispettiamo-gli-impegni_1ef9f4a4-756e-4268-bace-d0cabd82ef50.html",
       "fonte": "ANSA Sport",
       "data_evento": "2026-11-26"
-    },
-    {
-      "sottocategoria": "Equitazione e ippica",
-      "tipo": "notizia",
-      "titolo": "GC Playoff Verona, Supercoppa a squadre agli Istanbul Warriors",
-      "link": "https://www.corrieredellosport.it/news/altri-sport/equitazione/2026/11/22-152765983/gc_playoff_verona_supercoppa_a_squadre_agli_istanbul_warriors/",
-      "fonte": "Corriere dello Sport — Altri sport",
-      "data_evento": "2026-11-22"
     }
   ]
 }
