@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-28",
+      "slug": "montagnareale-cacciatori-arrestato-superstite-agostino-segreto",
+      "categoria": "Cronaca",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-28",
       "slug": "marquez-ritiro-motogp-valencia-10-titoli",
       "categoria": "Sport",
       "evidenza": false,
