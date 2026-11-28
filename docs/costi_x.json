@@ -1,6 +1,14 @@
 {
   "pubblicazioni": [
     {
+      "data": "2026-11-28",
+      "slug": "ucraina-raid-bengasi-navi-russe-zelensky-scuse-meloni",
+      "categoria": "Politica Internazionale",
+      "evidenza": true,
+      "tipo_richiesta": "ContentCreateWithUrl",
+      "costo_usd": 0.2
+    },
+    {
       "data": "2026-11-27",
       "slug": "teatro-opera-roma-rakes-progress-stravinskij-stagione-2026",
       "categoria": "Cultura",
