@@ -1,29 +1,21 @@
 {
-  "generato": "2026-11-28T12:31:24.597087+00:00",
+  "generato": "2026-11-28T18:31:09.287167+00:00",
   "item": [
     {
-      "sottocategoria": "Equitazione e ippica",
+      "sottocategoria": "Combattimento",
       "tipo": "notizia",
-      "titolo": "A Montegiorgio si corre il 38° Palio dei Comuni",
-      "link": "https://www.corrieredellosport.it/news/altri-sport/ippica/2026/11/28-152895004/a_montegiorgio_si_corre_il_38_palio_dei_comuni/",
-      "fonte": "Corriere dello Sport — Altri sport",
+      "titolo": "Hadi, dall'addio all'Iran alla maglia azzurra: \"L’Italia mi ha restituito una vita, sogno Los Angeles 2028\"",
+      "link": "https://www.gazzetta.it/taekwondo/28-11-2026/hadi-tiranvalipour-dall-iran-alla-cittadinanza-italiana.shtml",
+      "fonte": "Gazzetta — Sport Vari",
       "data_evento": "2026-11-28"
     },
     {
       "sottocategoria": "Racchette e precisione",
       "tipo": "notizia",
-      "titolo": "E Sinner non viene? L'appello di Musetti per un blitz a Bologna e la convalescenza in Alto Adige: cosa fa Jannik",
-      "link": "https://www.gazzetta.it/Tennis/28-11-2026/sinner-davis-programmi-operazione.shtml",
+      "titolo": "Cobolli, l'allenamento in vista della finale di Coppa Davis con Alcaraz",
+      "link": "https://video.gazzetta.it/tennis/atp/video-cobolli-l-allenamento-in-vista-della-finale-di-coppa-davis-con-alcaraz/b4efbba0-4efd-4e20-bec3-b1d746d9cxlk",
       "fonte": "Gazzetta — Tennis",
       "data_evento": "2026-11-28"
-    },
-    {
-      "sottocategoria": "Combattimento",
-      "tipo": "notizia",
-      "titolo": "Lotta all'antisemitismo, presentata la strategia nazionale. Abodi: \"C'è tanto da fare\"",
-      "link": "https://www.gazzetta.it/Sport-Vari/24-11-2026/lotta-all-antisemitismo-presentata-la-strategia-nazionale-abodi-c-e-tanto-da-fare.shtml",
-      "fonte": "Gazzetta — Sport Vari",
-      "data_evento": "2026-11-24"
     },
     {
       "sottocategoria": "Acqua",
@@ -34,35 +26,27 @@
       "data_evento": "2026-11-28"
     },
     {
-      "sottocategoria": "Squadra",
+      "sottocategoria": "Invernali",
       "tipo": "notizia",
-      "titolo": "Pallamano, la long list dei preconvocati dell’Italia per i Mondiali 2027: 35 i giocatori selezionati",
-      "link": "https://www.oasport.it/2026/11/pallamano-la-long-list-dei-preconvocati-dellitalia-per-i-mondiali-2027-35-i-giocatori-selezionati/",
-      "fonte": "OA Sport — Pallamano",
-      "data_evento": "2026-11-25"
-    },
-    {
-      "sottocategoria": "Atletica",
-      "tipo": "notizia",
-      "titolo": "Walter Monti sull’allieva Kelly Doualla: “Pensiamo alla staffetta dei Mondiali. Superato un blocco mentale”",
-      "link": "https://www.oasport.it/2026/11/walter-monti-sullallieva-kelly-doualla-pensiamo-alla-staffetta-dei-mondiali-superato-un-blocco-mentale/",
-      "fonte": "OA Sport — Atletica",
-      "data_evento": "2026-11-27"
-    },
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "LIVE Gukesh-Sindarov, Mondiale scacchi 2026 in DIRETTA: chi romperà per primo l’equilibrio?",
-      "link": "https://www.oasport.it/2026/11/live-gukesh-sindarov-mondiale-scacchi-2026-in-diretta-chi-rompera-per-primo-lequilibrio/",
-      "fonte": "OA Sport — Scacchi",
+      "titolo": "Sci: Cdm donne; Shiffrin in testa al gigante di Killington, azzurra Della Mea 6/a",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/28/sci-cdm-donne-shiffrin-in-testa-al-gigante-di-killington-azzurra-della-mea_444deeb3-dce0-4794-985e-e3ae63d2960a.html",
+      "fonte": "ANSA Sport",
       "data_evento": "2026-11-28"
     },
     {
-      "sottocategoria": "Invernali",
+      "sottocategoria": "Calcio femminile",
       "tipo": "notizia",
-      "titolo": "Sci: stagione al via a Obereggen, attesa per lo slalom di Coppa Europa",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/28/sci-stagione-al-via-a-obereggen-attesa-per-lo-slalom-di-coppa-europa_9806bd83-0988-4e23-942d-ab0f1198c2ba.html",
+      "titolo": "Contributi calcio dilettantistico: consiglio direttivo Lnd ringrazia il ministro Abodi",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/28/contributi-calcio-dilettantistico-consiglio-direttivo-lnd-ringrazia-il-ministro-abodi_f8799b85-aeac-4bff-9506-f2f2f87e1a79.html",
       "fonte": "ANSA Sport",
+      "data_evento": "2026-11-28"
+    },
+    {
+      "sottocategoria": "Equitazione e ippica",
+      "tipo": "notizia",
+      "titolo": "A Montegiorgio si corre il 38° Palio dei Comuni",
+      "link": "https://www.corrieredellosport.it/news/altri-sport/ippica/2026/11/28-152895004/a_montegiorgio_si_corre_il_38_palio_dei_comuni/",
+      "fonte": "Corriere dello Sport — Altri sport",
       "data_evento": "2026-11-28"
     }
   ]
