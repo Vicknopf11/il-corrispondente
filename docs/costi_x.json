@@ -2,6 +2,14 @@
   "pubblicazioni": [
     {
       "data": "2026-11-28",
+      "slug": "la-russa-attacca-consulta-legge-elettorale-scontro-istituzionale",
+      "categoria": "Politica Nazionale",
+      "evidenza": false,
+      "tipo_richiesta": "PostCreate",
+      "costo_usd": 0.015
+    },
+    {
+      "data": "2026-11-28",
       "slug": "ucraina-raid-bengasi-navi-russe-zelensky-scuse-meloni",
       "categoria": "Politica Internazionale",
       "evidenza": true,
