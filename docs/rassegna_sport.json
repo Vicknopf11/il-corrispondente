@@ -1,14 +1,6 @@
 {
-  "generato": "2026-11-27T18:31:20.722400+00:00",
+  "generato": "2026-11-28T06:31:31.392110+00:00",
   "item": [
-    {
-      "sottocategoria": "Mente e nicchia",
-      "tipo": "notizia",
-      "titolo": "Magnus Carlsen certo di rimanere numero 1 al mondo anche dopo il match Mondiale Gukesh-Sindarov",
-      "link": "https://www.oasport.it/2026/11/magnus-carlsen-certo-di-rimanere-numero-1-al-mondo-anche-dopo-il-match-mondiale-gukesh-sindarov/",
-      "fonte": "OA Sport — Scacchi",
-      "data_evento": "2026-11-27"
-    },
     {
       "sottocategoria": "Racchette e precisione",
       "tipo": "notizia",
@@ -36,9 +28,9 @@
     {
       "sottocategoria": "Squadra",
       "tipo": "notizia",
-      "titolo": "La Federbasket e IBSA rinnovano la partnership fino al 2029",
-      "link": "https://www.gazzetta.it/Basket/27-11-2026/federbasket-ibsa-rinnovano-partnership-2029.shtml",
-      "fonte": "Gazzetta — Basket",
+      "titolo": "Williams illude l'Australia, poi l'onda verde la travolge: Irlanda quinta nel Nations Championship",
+      "link": "https://www.gazzetta.it/Rugby/27-11-2026/rugby-irlanda-australia-38-14-irlandesi-quinti-nel-nations-championship.shtml",
+      "fonte": "Gazzetta — Rugby",
       "data_evento": "2026-11-27"
     },
     {
@@ -50,12 +42,20 @@
       "data_evento": "2026-11-27"
     },
     {
+      "sottocategoria": "Mente e nicchia",
+      "tipo": "notizia",
+      "titolo": "LIVE Gukesh-Sindarov, Mondiale scacchi 2026 in DIRETTA: chi romperà per primo l’equilibrio?",
+      "link": "https://www.oasport.it/2026/11/live-gukesh-sindarov-mondiale-scacchi-2026-in-diretta-chi-rompera-per-primo-lequilibrio/",
+      "fonte": "OA Sport — Scacchi",
+      "data_evento": "2026-11-28"
+    },
+    {
       "sottocategoria": "Invernali",
       "tipo": "notizia",
-      "titolo": "Salto con gli sci, Marius Lindvik in vetta alle qualificazioni di Ruka. Un azzurro accede alla gara",
-      "link": "https://www.oasport.it/2026/11/salto-con-gli-sci-marius-lindvik-in-vetta-alle-qualificazioni-di-ruka-un-azzurro-accede-alla-gara/",
+      "titolo": "È SUBITO ITALIA nel PGS! Lucia Dalmasso trionfa a Ruyi!",
+      "link": "https://www.oasport.it/2026/11/e-subito-italia-nel-pgs-lucia-dalmasso-trionfa-a-ruyi/",
       "fonte": "OA Sport — Sport invernali",
-      "data_evento": "2026-11-27"
+      "data_evento": "2026-11-28"
     },
     {
       "sottocategoria": "Calcio femminile",
