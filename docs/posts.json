@@ -1,6 +1,393 @@
 {
   "edizioni": [
     {
+      "data": "2026-11-28",
+      "post": [
+        {
+          "categoria": "Politica Internazionale",
+          "titolo": "Ucraina attacca navi russe a Bengasi: Zelensky si scusa con Meloni",
+          "slug": "ucraina-raid-bengasi-navi-russe-zelensky-scuse-meloni",
+          "tag": [
+            "ucraina",
+            "libia",
+            "mediterraneo",
+            "guerra"
+          ],
+          "evidenza": true,
+          "fonte": "Il Post",
+          "cerca_url": "https://www.google.com/search?q=Ucraina+raid+Bengasi+navi+russe+Zelensky+scuse+Meloni+novembre+2026",
+          "post_x": "Zelensky bombarda navi russe a Bengasi senza avvisare gli alleati, poi si scusa. Meloni indignata. Nel frattempo nessuno chiede: cosa ci fanno navi militari russe nel Mediterraneo con la copertura di Haftar? #Libya #MedSea",
+          "post_sito": "Il coro mediatico si divide tra chi biasima Zelensky per l'iniziativa unilaterale e chi lo difende in nome della legittima difesa — ma la domanda che nessuno fa è quella geografica: che ci fa una flotta militare russa ormeggiata a Bengasi, a due ore di navigazione dalle coste italiane? Il raid del 22 novembre ha affondato la corvetta russa Merkury e colpito un cargo usando sette droni navali ucraini, causando la morte di almeno due militari libici e provocando le minacce di rappresaglia del generale Haftar. Zelensky ha prima rivendicato l'operazione come «esemplare», poi ha ammesso in telefonata con Meloni di non aver coordinato nulla con gli alleati europei — dopo aver sostenuto il contrario. Il beneficio taciuto è doppio: per Kiev, che dimostra di poter colpire la rete logistica russa in Africa senza dipendere dai rifornimenti NATO; per le forze di Haftar, che usano l'incidente per rafforzare la propria posizione negoziale con Roma e Bruxelles. L'Italia, che in Libia ha interessi energetici strategici (ENI è il principale operatore), si ritrova a dover scegliere tra la solidarietà atlantica e la protezione dei propri asset nel Mediterraneo — e Meloni sceglie di arrabbiarsi pubblicamente, che è la risposta politicamente più comoda.",
+          "fatti": [
+            {
+              "testo": "Tra il 21 e il 22 novembre 2026 l'Ucraina ha colpito con sette droni navali la corvetta russa Merkury ormeggiata a Bengasi e un cargo nelle acque antistanti la città.",
+              "fonte": "ISPI",
+              "url": "https://www.ispionline.it/it/pubblicazione/attacchi-ucraini-in-libia-logica-e-rischi-di-un-conflitto-allargato-253395"
+            },
+            {
+              "testo": "L'attacco ha provocato la morte di almeno dieci persone secondo le autorità locali, tra cui due militari libici delle forze di Haftar.",
+              "fonte": "ISPI",
+              "url": "https://www.ispionline.it/it/pubblicazione/attacchi-ucraini-in-libia-logica-e-rischi-di-un-conflitto-allargato-253395"
+            },
+            {
+              "testo": "Zelensky ha ammesso in telefonata con Meloni che l'attacco è stato condotto «senza una previa coordinazione con i nostri partner europei», dopo aver inizialmente sostenuto il contrario.",
+              "fonte": "Sarnò Notizie",
+              "url": "https://www.sarnonotizie.it/rassegna-stampa-28-novembre-2026/"
+            },
+            {
+              "testo": "La Stampa ha sottolineato come Italia e NATO fossero rimaste all'oscuro dell'operazione prima della telefonata chiarificatrice del leader ucraino.",
+              "fonte": "Pavia Uno TV",
+              "url": "https://www.paviaunotv.it/radio-pavia-breakfast-news-28-novembre-2026/"
+            },
+            {
+              "testo": "Il ministro Tajani ha dichiarato: «Ci saremmo opposti al raid», mentre il ministro degli Esteri francese Barrot ha difeso il «diritto assoluto alla legittima difesa» di Kiev.",
+              "fonte": "Quotidiano Nazionale",
+              "url": "https://www.quotidiano.net/esteri/attacco-ucraino-bengasi-morti-i-due-militari-libici-feriti-haftar-giura-vendetta-uatoz4jv"
+            }
+          ],
+          "incerto": [
+            "Non è ancora noto il movente strategico completo che ha spinto Kiev ad agire in Libia senza coordinamento con gli alleati, né se la decisione fosse di Zelensky o di comandi militari autonomi.",
+            "Le possibili rappresaglie delle forze di Haftar contro obiettivi ucraini o i loro alleati restano imprevedibili nella forma e nei tempi."
+          ],
+          "editoriale": true,
+          "prospettive": [
+            {
+              "etichetta": "La posizione italiana",
+              "testo": "Il governo Meloni ha espresso formale sostegno all'Ucraina ma ha ribadito con fermezza che tale sostegno non può tradursi nell'accettazione di iniziative militari che espongano l'Italia a rischi diretti nel Mediterraneo. La premier ha contattato Zelensky per ottenere chiarimenti e ha ricevuto scuse formali. Roma ritiene che qualunque operazione militare in un'area così prossima alle coste italiane debba essere preventivamente concordata in sede NATO."
+            },
+            {
+              "etichetta": "La logica di Kiev",
+              "testo": "Dal punto di vista ucraino, il raid a Bengasi risponde a una logica militare coerente: colpire la rete logistica russa in Africa, che utilizza porti libici sotto controllo di Haftar per rifornire i contingenti di Mosca operativi in Cirenaica e nel Sahel. Zelensky ha inizialmente definito l'operazione «esemplare», inquadrandola nella più ampia guerra ibrida contro le infrastrutture di supporto russe al di fuori del teatro europeo."
+            },
+            {
+              "etichetta": "Il nodo libico",
+              "testo": "La Libia rimane divisa tra due governi rivali. Le forze del generale Haftar, che controlla la Cirenaica e il porto di Bengasi, hanno stretto legami con la Russia e hanno reagito all'attacco ucraino minacciando rappresaglie militari contro Kiev. L'incidente complica ulteriormente la già fragile stabilità libica e mette a rischio gli accordi di cooperazione energetica che l'Italia, attraverso ENI, ha costruito negli anni."
+            },
+            {
+              "etichetta": "La dimensione NATO",
+              "testo": "Sia l'Italia sia la NATO erano all'oscuro dell'operazione. Questo solleva un problema di governance interna all'Alleanza: in che misura un paese in guerra che riceve supporto occidentale può condurre operazioni autonome in teatri terzi senza consultare i propri sostenitori? La questione non ha ancora trovato risposta formale in sede atlantica."
+            }
+          ],
+          "implicazioni": "Se l'Ucraina dovesse replicare operazioni simili in altri porti del Mediterraneo o del Mar Rosso, l'Italia si troverebbe a dover ridefinire le condizioni del proprio sostegno a Kiev. Sul piano libico, l'incidente rafforza la posizione negoziale di Haftar con Roma e potrebbe accelerare una revisione degli accordi energetici e migratori che l'Italia ha faticosamente costruito con le autorità della Cirenaica. A livello NATO, si apre la questione se sia necessario un protocollo formale di notifica preventiva per le operazioni ucraine in teatri extraeuropei.",
+          "redattore": "Il Corrispondente Estero 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Politica Nazionale",
+          "titolo": "La Russa attacca la Consulta sulla legge elettorale: scontro istituzionale",
+          "slug": "la-russa-attacca-consulta-legge-elettorale-scontro-istituzionale",
+          "tag": [
+            "legge-elettorale",
+            "corte-costituzionale",
+            "la-russa",
+            "istituzioni"
+          ],
+          "evidenza": false,
+          "fonte": "la Repubblica",
+          "cerca_url": "https://www.google.com/search?q=La+Russa+attacca+Consulta+legge+elettorale+novembre+2026",
+          "post_x": "La Russa avverte la Consulta: se bocciate la norma sul premier indicato in coalizione fate un favore alla sinistra. Ovvero: i giudici costituzionali dovrebbero decidere guardando i sondaggi. Nuova frontiera del diritto italiano. #Costituzione",
+          "post_sito": "Il presidente del Senato Ignazio La Russa ha dichiarato che una bocciatura da parte della Corte costituzionale sull'indicazione del premier in lista elettorale rappresenterebbe «un aiuto alla sinistra» — una frase che vale più di qualunque trattato di scienza politica per capire come viene intesa l'autonomia del potere giudiziario da certi ambienti del centrodestra. Il presidente emerito Silvestri ha replicato duramente, e il capogruppo dem Boccia ha accusato La Russa di voler «delegittimare i giudici costituzionali». Sullo sfondo, il 37° congresso dell'ANM si è aperto a Napoli al Teatro San Carlo con il presidente Tango che ha chiesto al governo di smettere «le continue condotte di delegittimazione di giudici e pm» — davanti al capo dello Stato Mattarella e al ministro Nordio, seduti in platea. Il mandante invisibile di questa battaglia non è solo politico: una legge elettorale che cristallizza la figura del premier-candidato prima del voto riduce il peso delle correnti interne di partito, delle nomine ministeriali e degli accordi post-elettorali — ovvero esattamente i canali attraverso cui i poteri economici tradizionalmente condizionano la politica italiana. Chi teme più di tutti un premier indicato prima del voto? Chi preferisce sceglierlo dopo.",
+          "fatti": [
+            {
+              "testo": "Il presidente del Senato Ignazio La Russa ha sostenuto che una bocciatura della Consulta sulla norma che obbliga le coalizioni a indicare il proprio candidato premier prima del voto rappresenterebbe un aiuto alla sinistra.",
+              "fonte": "Il Meridiano",
+              "url": "https://www.il-meridiano.it/notizie/126-rassegna-stampa/28633-la-rassegna-stampa-del-meridiano-sabato-28-novembre-le-prime-pagine-dei-grandi-quotidiani-nazionali-070001.html"
+            },
+            {
+              "testo": "Il presidente dell'ANM Giuseppe Tango ha aperto il 37° congresso nazionale dei magistrati a Napoli chiedendo al governo di interrompere le azioni di delegittimazione delle toghe, alla presenza di Mattarella e Nordio.",
+              "fonte": "GitHub/Notiziario",
+              "url": "https://github.com/jakephobia/notiziario/releases/tag/episodio-2026-11-28"
+            },
+            {
+              "testo": "Repubblica riporta la dura replica del presidente emerito Silvestri alle parole di La Russa, mentre La Stampa registra l'accusa del capogruppo dem Boccia di voler delegittimare i giudici costituzionali.",
+              "fonte": "Il Meridiano",
+              "url": "https://www.il-meridiano.it/notizie/126-rassegna-stampa/28633-la-rassegna-stampa-del-meridiano-sabato-28-novembre-le-prime-pagine-dei-grandi-quotidiani-nazionali-070001.html"
+            }
+          ],
+          "incerto": [
+            "Non è ancora noto quando la Corte costituzionale si pronuncerà sulla norma della legge elettorale contestata."
+          ],
+          "editoriale": false,
+          "redattore": "Il Bastian Contrario 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Economia",
+          "titolo": "Vertice UE sul bilancio nel caos: 45 miliardi all'Ucraina e fondi di coesione sotto attacco",
+          "slug": "vertice-ue-bilancio-caos-45-miliardi-ucraina-fondi-coesione",
+          "tag": [
+            "bilancio-ue",
+            "ucraina",
+            "fondi-coesione",
+            "bruxelles"
+          ],
+          "evidenza": false,
+          "fonte": "Euronews",
+          "cerca_url": "https://www.google.com/search?q=vertice+UE+bilancio+45+miliardi+Ucraina+fondi+coesione+novembre+2026",
+          "post_x": "Vertice UE sul bilancio «finisce nel caos». Traduzione: i paesi ricchi vogliono tagliare i fondi ai paesi poveri per finanziare la guerra. Meloni difende i fondi italiani. Macron risponde a Le Pen. Nessuno chiede chi vende le armi. #EU #Budget",
+          "post_sito": "Il vertice europeo sul bilancio pluriennale si è chiuso senza accordo — definito da alcuni osservatori «solo teatro politico» — mentre sul tavolo restava la questione del prestito da 45 miliardi all'Ucraina e dei tagli ai fondi di coesione e agricoli. Euronews ricorda che un quinto delle regioni dell'Unione resta ancora sotto il PIL del 2008: quel dato scompare sistematicamente quando si parla di «solidarietà europea», che di solito significa soldi ai paesi ricchi per finanziare guerre e infrastrutture digitali, e tagli agli aiuti strutturali per le regioni che non sono mai uscite dalla crisi del decennio scorso. L'energia elettrica italiana si conferma nel frattempo la più cara d'Europa, a 154 euro a megawattora, con buona pace dei proclami sulla transizione verde. Il beneficio taciuto del caos negoziale: ogni rinvio sul bilancio UE posticipa anche la discussione sulle condizionalità ai fondi di coesione — ovvero le clausole che legano gli aiuti strutturali a riforme di governance che molti governi, incluso quello italiano, preferirebbero non attuare.",
+          "fatti": [
+            {
+              "testo": "Il vertice UE sul bilancio si è concluso senza accordo, con in discussione un prestito da 45 miliardi all'Ucraina e la difesa dei fondi di coesione e agricoli.",
+              "fonte": "Euronews",
+              "url": "https://it.euronews.com/video/2026/11/28/le-notizie-del-giorno-28-novembre-2026-mattino"
+            },
+            {
+              "testo": "Il Sole 24 Ore riporta che l'Agenzia delle Entrate ha fissato un obiettivo di recupero crediti di 15,7 miliardi per il 2027 attraverso il rafforzamento della riscossione.",
+              "fonte": "Pavia Uno TV",
+              "url": "https://www.paviaunotv.it/radio-pavia-breakfast-news-28-novembre-2026/"
+            }
+          ],
+          "incerto": [
+            "Non è ancora chiaro se e quando il vertice UE raggiungerà un accordo sul prestito da 45 miliardi all'Ucraina e sulla struttura del bilancio pluriennale."
+          ],
+          "editoriale": false,
+          "redattore": "L'Analista 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Sport",
+          "titolo": "Marc Márquez si ritira dalla MotoGP: addio all'ultima gara a Valencia dopo 10 titoli mondiali",
+          "slug": "marquez-ritiro-motogp-valencia-10-titoli",
+          "tag": [
+            "motogp",
+            "marquez",
+            "valencia",
+            "motociclismo"
+          ],
+          "evidenza": false,
+          "fonte": "Il Post",
+          "cerca_url": "https://www.google.com/search?q=Marc+Marquez+ritiro+MotoGP+Valencia+2026",
+          "post_x": "Márquez si ritira dalla MotoGP a 33 anni, 10 titoli mondiali, l'ultima gara domenica a Valencia. I grandi campioni sanno quando smettere. Raro. Quasi unico. Godetevi Valencia. 🏍️ #MotoGP #Marquez",
+          "post_sito": "Marc Márquez ha annunciato venerdì mattina, in diretta durante le prove libere di Valencia, il suo ritiro dalla MotoGP — tenendo in mano dei cartelli mentre le telecamere lo inquadravano, con la discrezione di chi sa che certi momenti non hanno bisogno di parole. Ha 33 anni, dieci titoli mondiali (otto in MotoGP, uno in Moto2, uno in 125cc), ha eguagliato Giacomo Agostini e superato Valentino Rossi nella conta dei titoli. Aveva preso la decisione a inizio ottobre, dopo il Gran Premio del Giappone, ma ha aspettato la certezza matematica del titolo a Portimao prima di parlare: «Parlare del ritiro mi avrebbe tolto molte energie». Ha comunicato tutto alla Ducati solo il giovedì sera. Il conto dietro la medaglia esiste, eccome: una carriera segnata da infortuni gravissimi, operazioni multiple alla spalla destra, cadute che avrebbero fermato chiunque altro, e una seconda parte di carriera in cui la paura — parola sua — ha cominciato a pesare quanto il talento. Domenica 29 novembre sarà la sua ultima gara sul Circuito Ricardo Tormo. Poi il silenzio, che per uno come lui varrà più di qualunque titolo.",
+          "fatti": [
+            {
+              "testo": "Marc Márquez, 33 anni, ha annunciato venerdì 27 novembre il ritiro dalla MotoGP durante le prove libere del Gran Premio di Valencia, mostrando cartelli in diretta tv.",
+              "fonte": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/27/marc-marquez-ritiro-moto-gp/"
+            },
+            {
+              "testo": "Il pilota spagnolo della Ducati ha conquistato il suo decimo titolo mondiale domenica scorsa a Portimao, l'ottavo in MotoGP, eguagliando il record di Giacomo Agostini e superando Valentino Rossi.",
+              "fonte": "Sky TG24",
+              "url": "https://tg24.sky.it/sport/2026/11/27/marc-marquez-ritiro-motogp"
+            },
+            {
+              "testo": "Márquez ha spiegato di aver preso la decisione di ritirarsi a inizio ottobre, dopo il Gran Premio del Giappone, e di averla comunicata alla Ducati solo il giovedì sera prima dell'annuncio.",
+              "fonte": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/27/marc-marquez-ritiro-moto-gp/"
+            },
+            {
+              "testo": "Il Gran Premio della Comunità Valenciana del 29 novembre 2026 sul Circuito Ricardo Tormo sarà l'ultima gara della carriera di Márquez.",
+              "fonte": "Il Bianconero",
+              "url": "https://www.ilbianconero.com/liste/marc-marquez-ritiro-motogp-annuncio-ducati-ultima-gara-valencia/bltfbeeb62a56a6fbf5"
+            }
+          ],
+          "incerto": [],
+          "editoriale": false,
+          "redattore": "Il Cronista Sportivo 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Cronaca",
+          "titolo": "Strage di Montagnareale: arrestato l'unico superstite della sparatoria di tre cacciatori",
+          "slug": "montagnareale-cacciatori-arrestato-superstite-agostino-segreto",
+          "tag": [
+            "cronaca",
+            "montagnareale",
+            "messina",
+            "omicidio"
+          ],
+          "evidenza": false,
+          "fonte": "Open Online",
+          "cerca_url": "https://www.google.com/search?q=Montagnareale+cacciatori+arrestato+superstite+Agostino+Segreto+2026",
+          "post_x": "A Montagnareale, dieci mesi dopo la strage di tre cacciatori nei boschi, arrestato l'unico superstite. Le analisi balistiche del RIS hanno fatto il resto. La storia più antica del mondo: quello che sopravvive non è sempre quello che sembra. #cronaca",
+          "post_sito": "Il 28 gennaio 2026, nei boschi di contrada Caristia a Montagnareale, nel Messinese, tre cacciatori morirono colpiti da arma da fuoco: Antonio Gatani, 82 anni, e i fratelli Devis, 26 anni, e Giuseppe Pino, 44 anni. L'unico superstite era rimasto sul posto. Dieci mesi di indagini dei Carabinieri del Nucleo Investigativo di Patti, con il supporto del RIS di Messina e dello Squadrone Cacciatori di Sicilia, hanno ricostruito la sequenza degli eventi: secondo la tesi accusatoria condivisa dal GIP del Tribunale di Patti, dopo che due cacciatori erano già morti, Agostino Segreto — amico di Gatani — avrebbe sparato al terzo rimasto ferito, a distanza ravvicinata, uccidendolo. Segreto è stato arrestato stamane per omicidio volontario. La causa strutturale rimossa che vale la pena segnalare non riguarda la tragedia in sé, ma il sistema di controllo sulle battute di caccia nei boschi italiani: chi era presente, con quale armamento, chi ha sparato per primo — sono tutte informazioni che nessun registro preventivo raccoglie sistematicamente. Segreto è indagato, non condannato: la presunzione di innocenza vale anche per chi viene descritto come il villain di questa storia.",
+          "fatti": [
+            {
+              "testo": "Il 28 gennaio 2026 tre cacciatori — Antonio Gatani, 82 anni, e i fratelli Devis Pino, 26 anni, e Giuseppe Pino, 44 anni — morirono colpiti da arma da fuoco nei boschi di Montagnareale (Messina).",
+              "fonte": "Open Online",
+              "url": "https://www.open.online/2026/11/28/cacciatori-morti-montagnareale-arrestato-superstite-sparatoria-agostino-segreto/"
+            },
+            {
+              "testo": "Il 28 novembre 2026, su disposizione della Procura di Patti, i Carabinieri hanno arrestato Agostino Segreto, unico superstite della sparatoria, con l'accusa di omicidio volontario.",
+              "fonte": "Gazzetta del Sud",
+              "url": "https://messina.gazzettadelsud.it/articoli/cronaca/2026/11/28/strage-di-cacciatori-a-montagnareale-arrestato-lunico-superstite-avrebbe-ucciso-il-terzo-ferito-a-distanza-ravvicinata-de6d6035-0ace-4311-90f2-1114dd745f44/"
+            },
+            {
+              "testo": "Secondo la ricostruzione accusatoria condivisa dal GIP, dopo che due cacciatori erano stati uccisi, l'indagato avrebbe sparato al terzo rimasto ferito a distanza ravvicinata col proprio fucile.",
+              "fonte": "Stampalibera",
+              "url": "https://www.stampalibera.it/2026/11/28/strage-di-cacciatori-a-montagnareale-arrestato-lunico-superstite-avrebbe-ucciso-il-terzo-ferito/"
+            },
+            {
+              "testo": "A incastrare l'indagato sono state le analisi balistiche e chimiche dei Carabinieri del RIS di Messina.",
+              "fonte": "Open Online",
+              "url": "https://www.open.online/2026/11/28/cacciatori-morti-montagnareale-arrestato-superstite-sparatoria-agostino-segreto/"
+            }
+          ],
+          "incerto": [
+            "Il movente dell'omicidio contestato all'unico superstite non è ancora stato reso noto dagli inquirenti.",
+            "Le circostanze della morte degli altri due cacciatori restano da chiarire compiutamente nel corso del procedimento."
+          ],
+          "editoriale": false,
+          "redattore": "L'Osservatore 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Scienza",
+          "titolo": "Studio dell'Università di Trieste: il battito cardiaco frena la proliferazione delle cellule tumorali",
+          "slug": "cuore-battito-frena-cellule-tumorali-studio-trieste",
+          "tag": [
+            "oncologia",
+            "cardiologia",
+            "ricerca",
+            "università-trieste"
+          ],
+          "evidenza": false,
+          "fonte": "GreenMe",
+          "cerca_url": "https://www.google.com/search?q=cuore+battito+cardiaco+cellule+tumorali+studio+Trieste+ICGEB+2026",
+          "post_x": "Lo studio dell'Università di Trieste: le contrazioni cardiache rallentano la proliferazione delle cellule tumorali. Pubblicato su «Science». I prossimi 5 anni: un fondo farmaceutico ne acquisterà i brevetti. I successivi 5: lo studio sarà dimenticato. #scienza",
+          "post_sito": "Uno studio pubblicato sulla rivista Science, coordinato dall'Università di Trieste in collaborazione con l'ICGEB e il Centro Cardiologico Monzino di Milano, suggerisce che le forze meccaniche prodotte dalle contrazioni cardiache possano rallentare la proliferazione delle cellule tumorali, modificando anche il modo in cui queste utilizzano il proprio DNA — il che spiegherebbe perché i tumori maligni quasi mai metastatizzano nel tessuto cardiaco. È una scoperta affascinante, e il tono trionfalistico con cui è stata rilanciata dai media merita la solita dose di scetticismo metodico: si tratta di risultati sperimentali che devono ancora essere confermati da trial clinici, e la strada dalla petri dish al farmaco è lunga e costosa. Chi ci guadagna dalla narrazione del «cuore come scudo anti-tumorale»? Almeno tre categorie: i laboratori di ricerca che cercano fondi, le università che cercano visibilità internazionale, e — più avanti — le aziende farmaceutiche che brevettano i composti capaci di mimare le forze meccaniche cardiache senza bisogno del cuore. Il conto dietro la medaglia scientifica vale sempre la pena leggerlo.",
+          "fatti": [
+            {
+              "testo": "Uno studio coordinato dall'Università di Trieste, in collaborazione con l'ICGEB e il Centro Cardiologico Monzino di Milano, è stato pubblicato sulla rivista Science il 28 novembre 2026.",
+              "fonte": "GreenMe",
+              "url": "https://www.greenme.it/salute-e-alimentazione/salute/gli-scienziati-potrebbero-aver-scoperto-perche-il-cancro-non-si-diffonde-quasi-mai-al-cuore/"
+            },
+            {
+              "testo": "I ricercatori hanno scoperto che le forze meccaniche prodotte dalle contrazioni cardiache possono rallentare la proliferazione delle cellule tumorali, modificando anche il modo in cui queste utilizzano il proprio DNA.",
+              "fonte": "GreenMe",
+              "url": "https://www.greenme.it/salute-e-alimentazione/salute/gli-scienziati-potrebbero-aver-scoperto-perche-il-cancro-non-si-diffonde-quasi-mai-al-cuore/"
+            }
+          ],
+          "incerto": [
+            "I risultati, per quanto pubblicati su Science, sono sperimentali: non sono ancora stati confermati da trial clinici sull'uomo.",
+            "Non è ancora chiaro se e come le scoperte potranno tradursi in applicazioni terapeutiche concrete."
+          ],
+          "editoriale": false,
+          "redattore": "Il Metodico 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "AI",
+          "titolo": "OpenAI fa causa ad Apple: accuse di furto di segreti industriali e pressioni sui fornitori",
+          "slug": "openai-causa-apple-segreti-industriali-fornitori",
+          "tag": [
+            "openai",
+            "apple",
+            "intelligenza-artificiale",
+            "hardware"
+          ],
+          "evidenza": false,
+          "fonte": "Al Jazeera",
+          "cerca_url": "https://www.google.com/search?q=OpenAI+causa+Apple+segreti+industriali+novembre+2026",
+          "post_x": "OpenAI fa causa ad Apple per furto di segreti industriali. Apple aveva già fatto causa a OpenAI a luglio. Due monopolisti si accusano di rubarsi le idee a vicenda. Chi ci rimette: chiunque voglia un ecosistema AI aperto. #OpenAI #Apple #AI",
+          "post_sito": "Il 27 novembre OpenAI ha depositato una domanda riconvenzionale presso il tribunale federale di San José, California, accusando Apple di aver ottenuto segreti industriali sui suoi futuri dispositivi attraverso un ex dipendente — che aveva lavorato per Apple per anni, è passato a OpenAI il 2 dicembre 2025 e ne è uscito il 2 giugno 2026, tornando a Cupertino — e di esercitare pressioni sui fornitori comuni per ostacolare la concorrenza. La causa era partita da Apple il 10 luglio scorso. Due giganti tecnologici con capitalizzazioni combinate nell'ordine dei quattro trilioni di dollari si accusano reciprocamente di rubare segreti: il mandante invisibile di questo conflitto non è legale ma strategico. Il punto vero è chi controllerà i dispositivi AI di prossima generazione — un mercato che potrebbe spostare decine di miliardi di dollari di fatturato dall'hardware di consumo tradizionale a nuove piattaforme. OpenAI, con la sussidiaria io Products nata dalla fusione con la startup di Jony Ive acquistata per 6,5 miliardi nel 2025, punta a costruire un dispositivo alternativo all'iPhone. Apple sa che se quel dispositivo funziona, il suo ecosistema è a rischio. Il tribunale non ha ancora valutato le accuse: nessuno dei due è colpevole di nulla fino a prova contraria.",
+          "fatti": [
+            {
+              "testo": "Il 27 novembre 2026 OpenAI ha depositato una domanda riconvenzionale al tribunale federale del distretto Nord della California, accusando Apple di aver ottenuto segreti industriali tramite un ex dipendente e di fare pressione sui fornitori.",
+              "fonte": "Pasquale Pillitteri",
+              "url": "https://pasqualepillitteri.it/news/37295/openai-fa-causa-apple-segreti-industriali"
+            },
+            {
+              "testo": "La causa originaria era stata depositata da Apple il 10 luglio 2026, contro OpenAI e due ex dipendenti Apple — Chang Liu e Tang Tan — accusati di aver trasferito segreti a OpenAI.",
+              "fonte": "Matricedigitale",
+              "url": "https://www.matricedigitale.it/2026/11/28/openai-apple-controcausa-segreti-industriali-fornitori-hardware-ai/"
+            },
+            {
+              "testo": "Secondo OpenAI, l'ex dipendente «Employee X» aveva lavorato per Apple per anni in hardware, era entrato in OpenAI il 2 dicembre 2025 e ne era uscito il 2 giugno 2026, restituendo accesso a Cupertino.",
+              "fonte": "Pasquale Pillitteri",
+              "url": "https://pasqualepillitteri.it/en/news/37296/openai-countersues-apple-trade-secrets"
+            },
+            {
+              "testo": "OpenAI ha acquistato nel 2025 la startup io Products — fondata dall'ex designer Apple Jony Ive — per 6,5 miliardi di dollari, nell'ambito del suo progetto di sviluppo di un dispositivo AI.",
+              "fonte": "Al Jazeera",
+              "url": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up"
+            }
+          ],
+          "incerto": [
+            "Il tribunale non ha ancora valutato le accuse: nessuno dei due soggetti è stato ritenuto responsabile di alcunché.",
+            "Non è ancora chiaro quando e in quale forma OpenAI intenda presentare il proprio dispositivo consumer."
+          ],
+          "editoriale": false,
+          "redattore": "Il Futurologo 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Wellness",
+          "titolo": "Il Ministero della Salute stringe sui farmaci dimagranti GLP-1: controlli sulle prescrizioni facili",
+          "slug": "ministero-salute-controlli-farmaci-glp1-ozempic-wegovy-prescrizioni",
+          "tag": [
+            "glp-1",
+            "ozempic",
+            "wegovy",
+            "farmaci-dimagranti"
+          ],
+          "evidenza": false,
+          "fonte": "Pazienti.it",
+          "cerca_url": "https://www.google.com/search?q=Ministero+Salute+controlli+prescrizioni+Ozempic+Wegovy+GLP-1+Italia+2026",
+          "post_x": "Il Ministero stringe sulle prescrizioni facili di Ozempic e Wegovy. Domanda mai posta: chi guadagna 160-300 euro al mese per paziente su farmaci che il SSN non rimborsa per l'obesità? Novo Nordisk ringrazierà comunque. #Ozempic #GLP1 #Wellness",
+          "post_sito": "Il Ministero della Salute ha sollecitato controlli sulle prescrizioni di Ozempic, Wegovy e Mounjaro, i farmaci GLP-1 diventati il fenomeno commerciale dell'anno: l'industria della perdita di peso li ha trasformati in oggetti di desiderio, mentre il sistema regolatorio italiano cerca di arginare le prescrizioni che non rispettano i criteri AIFA. Il quadro regolatorio è chiaro sulla carta: Ozempic (circa 130-180 euro a penna) è rimborsato dal SSN solo per il diabete di tipo 2 secondo la Nota 100 AIFA; Wegovy, specificamente indicato per l'obesità, costa 280-360 euro al mese ed è interamente a carico del paziente; Mounjaro è rimborsato solo per il diabete. Chi ci guadagna dall'epidemia di prescrizioni «facili»? In primo luogo Novo Nordisk, che produce sia Ozempic sia Wegovy, e che ha visto il proprio fatturato crescere in modo straordinario negli ultimi anni. In secondo luogo i medici che prescrivono fuori dai criteri, spesso su richiesta di pazienti benestanti che possono permettersi 300 euro al mese. Il bersaglio satirico è l'industria che ha saputo costruire il desiderio di un farmaco venduto come soluzione definitiva — non le persone che lo cercano, che spesso combattono con patologie serie e reali.",
+          "fatti": [
+            {
+              "testo": "Il Ministero della Salute ha sollecitato controlli sulle prescrizioni di Ozempic, Wegovy e Mounjaro, segnalando che una parte delle prescrizioni per questi farmaci risulta irregolare rispetto ai criteri AIFA.",
+              "fonte": "Pazienti.it",
+              "url": "https://www.pazienti.it/news-di-salute/farmaci-per-dimagrire-il-ministero-interviene-sulle-ricette-facili-cosa-sta-succedendo-16112026"
+            },
+            {
+              "testo": "Secondo la guida AIFA aggiornata a novembre 2026, Ozempic è rimborsato dal SSN in Classe A/PHT per il diabete mellito di tipo 2 secondo la Nota 100; Wegovy per l'obesità è in Classe C, non rimborsato.",
+              "fonte": "AIFA",
+              "url": "https://www.aifa.gov.it/documents/20142/3346516/guida_GLP-1_2026.pdf"
+            },
+            {
+              "testo": "Wegovy per l'obesità costa tra 280 e 360 euro al mese ed è interamente a carico del paziente; Ozempic ha un prezzo indicativo di circa 130-180 euro a penna.",
+              "fonte": "GLP1-Italia",
+              "url": "https://glp1-italia.it/"
+            }
+          ],
+          "incerto": [
+            "Non è ancora noto quale forma assumeranno concretamente i controlli sollecitati dal Ministero né quali sanzioni siano previste per le prescrizioni irregolari accertate."
+          ],
+          "editoriale": false,
+          "redattore": "Il Life Coach 1.0",
+          "fatti_verificati": true
+        },
+        {
+          "categoria": "Cultura",
+          "titolo": "Corrado Augias: il ricordo in musica e parole all'Auditorium di Roma",
+          "slug": "corrado-augias-ricordo-auditorium-roma-musica",
+          "tag": [
+            "augias",
+            "cultura",
+            "roma",
+            "giornalismo"
+          ],
+          "evidenza": false,
+          "fonte": "Mantovauno.it",
+          "cerca_url": "https://www.google.com/search?q=Corrado+Augias+ricordo+musica+parole+Auditorium+Roma+28+novembre+2026",
+          "post_x": "Oggi all'Auditorium di Roma il ricordo di Corrado Augias, in musica e parole. Un uomo che ha fatto credere agli italiani che leggere i libri fosse normale. Non era normale. Era raro. Mancherà. #Augias #cultura",
+          "post_sito": "Oggi all'Auditorium Parco della Musica di Roma si tiene il ricordo di Corrado Augias — giornalista, scrittore, divulgatore, parlamentare — in un evento che unisce musica e parole. Augias ha attraversato cinquant'anni di cultura italiana con una particolarità che lo distingueva quasi tutti i colleghi: trattava i lettori da adulti. In una televisione che semplifica per abbassare, lui semplificava per alzare. Vale la pena chiedersi perché la RAI, che per decenni lo ha ospitato, abbia progressivamente ridotto lo spazio alla divulgazione culturale seria: la risposta è nei dati Auditel e negli accordi di palinsesto, non nell'intelligenza del pubblico. L'industria culturale italiana preferisce il format replicabile al pensiero originale. Augias era pensiero originale — e il fatto che oggi si faccia un ricordo in suo onore, invece che avere ancora la sua voce in diretta, dice qualcosa di preciso sulla direzione che abbiamo scelto.",
+          "fatti": [
+            {
+              "testo": "Il 28 novembre 2026 all'Auditorium Parco della Musica di Roma si è tenuto il ricordo di Corrado Augias in musica e parole.",
+              "fonte": "Mantovauno.it",
+              "url": "https://mantovauno.it/economia/evolution-horizon-award-2026-matteo-massarenti-racconta-lassociazione-tesla-owners-italia/"
+            }
+          ],
+          "incerto": [],
+          "editoriale": false,
+          "redattore": "Il Letterato 1.0",
+          "fatti_verificati": true
+        }
+      ],
+      "controlli": {
+        "url_ricerca": 124,
+        "fatti_proposti": 30,
+        "fatti_scartati": 2,
+        "giorni_corretti": [],
+        "virgolette_riparate": 0
+      }
+    },
+    {
       "data": "2026-11-27",
       "post": [
         {
@@ -9270,189 +9657,7 @@
           "redattore": "Il Letterato 1.0"
         }
       ]
-    },
-    {
-      "data": "2026-10-29",
-      "post": [
-        {
-          "categoria": "Politica Internazionale",
-          "titolo": "Elezioni in Israele: Netanyahu sopravvive ancora, l'Europa torna a fare i conti con se stessa",
-          "slug": "elezioni-israele-netanyahu-europa-conti",
-          "tag": [
-            "israele",
-            "netanyahu",
-            "elezioni",
-            "medio-oriente"
-          ],
-          "evidenza": false,
-          "fonte": "Il Post / Sky TG24",
-          "cerca_url": "https://www.google.com/search?q=elezioni+israele+risultati+Netanyahu+ottobre+2026",
-          "post_x": "Netanyahu non ha vinto, ma è ancora in sella. L'Europa che sperava gli israeliani la liberassero dall'imbarazzo può smettere di aspettare. Il problema siamo noi — non lui. #Israele #Netanyahu",
-          "post_sito": "I risultati delle elezioni israeliane parlano chiaro: il blocco di Netanyahu si ferma a 53 seggi su 120, la coalizione avversaria a 48, i partiti arabi a 19 — nessuno ha la maggioranza assoluta. Il coro europeo che sussurrava «speriamo li caccino loro» può archiviare la pratica: non sarà così. La domanda scomoda che nessun cancelliere o premier vuole affrontare è: cosa ha fatto l'Europa concretamente in questi anni, oltre a dichiarazioni di cordoglio e riunioni a vuoto? Beneficio taciuto: la paralisi europea è conveniente per chi non vuole scegliere tra i mercati di armi e le sanzioni, tra gli accordi di gas e il diritto internazionale. Il consenso mediatico attorno alla delusione post-voto rischia di diventare un nuovo alibi: avevamo sperato, non potevamo fare altro. Ora invece occorre decidere cosa fare — e questa è la notizia che il coro preferisce non scrivere.",
-          "editoriale": false,
-          "redattore": "Il Corrispondente Estero 1.0"
-        },
-        {
-          "categoria": "Politica Nazionale",
-          "titolo": "Manovra da 26 miliardi: taglio Irpef al 33%, flat tax giovani e Meloni contro i giudici sul caso Siher",
-          "slug": "manovra-26-miliardi-irpef-meloni-giudici-siher",
-          "tag": [
-            "manovra",
-            "irpef",
-            "meloni",
-            "magistratura"
-          ],
-          "evidenza": false,
-          "fonte": "Sky TG24 / Today.it",
-          "cerca_url": "https://www.google.com/search?q=manovra+26+miliardi+irpef+Meloni+Siher+giudici+ottobre+2026",
-          "post_x": "Manovra da 26 miliardi: 500 euro l'anno in più per chi guadagna fino a 55mila. Intanto Meloni attacca i giudici sul caso Siher. Due spettacoli in uno, prezzo d'ingresso invariato. #Manovra #Siher",
-          "post_sito": "Il Consiglio dei ministri approva una manovra da 26 miliardi per il 2027: l'aliquota Irpef scende al 33% per i redditi fino a 55mila euro, con un beneficio calcolato in 500 euro annui — meno di una settimana di spesa media familiare. Mentre i giornali titolano sul taglio alle tasse, il vero dibattito del giorno è l'attacco di Meloni alla magistratura dopo la scarcerazione di Youssef Siher a Milano, definita «una vergogna». Meccanismo riconoscibile: distrazione utile. La manovra è annunciata ma i dettagli sono ancora fumosi; lo scontro governo-giudici è cinematografico e immediato — perfetto per riempire i titoli finché i decreti attuativi restano nel cassetto. Chi ci guadagna dalla frammentazione dell'attenzione pubblica? Chi ha interesse a che il dibattito sulla redistribuzione fiscale resti superficiale, e che la guerra alle toghe monopolizzi il frame politico a pochi giorni dallo sciopero generale del 30 ottobre.",
-          "editoriale": true,
-          "prospettive": [
-            {
-              "etichetta": "La versione del governo",
-              "testo": "Il governo presenta la manovra come una risposta concreta alle famiglie del ceto medio: l'abbassamento dell'aliquota Irpef al 33% per i redditi fino a 55mila euro, la cedolare secca estesa ai negozi, lo stop strutturale al bollo per auto medio-piccole e un mese aggiuntivo di congedo parentale. Meloni definisce la manovra «non risolutiva ma nella direzione giusta» e incassa il sostegno della maggioranza. Sul caso Siher, il governo sostiene che la scarcerazione di un indagato per reati gravi rappresenti un fallimento dell'applicazione delle norme sull'immigrazione, e rilancia la proposta di riforma delle garanzie cautelari."
-            },
-            {
-              "etichetta": "Le critiche dell'opposizione e dei sindacati",
-              "testo": "Le opposizioni sottolineano che il beneficio netto del taglio Irpef per i redditi fino a 55mila euro ammonta a circa 500 euro annui — meno di 42 euro al mese — e che restano invariate le criticità sulla sanità pubblica e sulle pensioni. I sindacati, che hanno proclamato lo sciopero generale per il 30 ottobre, contestano l'assenza di misure strutturali sul potere d'acquisto e sui contratti collettivi, oltre alla precettazione disposta dal Ministero delle Infrastrutture per limitare i disagi ferroviari."
-            },
-            {
-              "etichetta": "Il nodo istituzionale: governo contro magistratura",
-              "testo": "Lo scontro tra Palazzo Chigi e la magistratura si acuisce dopo la scarcerazione di Siher, decisa da un giudice milanese. Meloni parla di «vergogna» e rilancia la necessità di riformare le norme sulla custodia cautelare degli stranieri. I magistrati e parte del mondo forense replicano che la scarcerazione è avvenuta nel pieno rispetto delle norme vigenti e che le critiche del governo configurano un'indebita pressione sull'indipendenza della magistratura. La tensione si inserisce in un quadro più ampio di proposte di riforma costituzionale della giustizia ancora in discussione."
-            }
-          ],
-          "implicazioni": "Se approvata definitivamente, la manovra produrrà i suoi effetti dal 2027. Lo sciopero generale del 30 ottobre è il primo banco di prova della tenuta sociale del governo. Sul fronte istituzionale, lo scontro governo-magistratura potrebbe accelerare la discussione parlamentare sulla riforma della giustizia, con conseguenze sull'equilibrio tra poteri dello Stato che si estendono ben oltre la vicenda Siher.",
-          "redattore": "Il Bastian Contrario 1.0"
-        },
-        {
-          "categoria": "Economia",
-          "titolo": "Assemblea MPS-Mediobanca: gli azionisti votano il più grande riassetto bancario italiano degli ultimi vent'anni",
-          "slug": "mps-mediobanca-assemblea-fusione-riassetto-bancario",
-          "tag": [
-            "mps",
-            "mediobanca",
-            "banche",
-            "finanza"
-          ],
-          "evidenza": false,
-          "fonte": "Borsa Italiana / Il Sole 24 Ore",
-          "cerca_url": "https://www.google.com/search?q=MPS+Mediobanca+assemblea+fusione+29+ottobre+2026",
-          "post_x": "Oggi gli azionisti di MPS votano su fusione Mediobanca, OPS su BancoBPM e Banca Generali. Tre operazioni, miliardi in gioco, Intesa Sanpaolo in agguato. Il risiko bancario si decide a Siena. #MPS #Mediobanca",
-          "post_sito": "L'assemblea straordinaria di Monte dei Paschi di Siena si riunisce oggi per votare su un pacchetto che ridisegnerebbe l'intero sistema bancario italiano: la fusione per incorporazione di Mediobanca, l'offerta pubblica di scambio su BancoBPM, quella su Banca Generali e il maxi-dividendo collegato. MPS controlla già l'86,3% di Mediobanca dopo un'OPA da quasi 14 miliardi; la fusione — benedetta dalla BCE a settembre — sposterebbe in Toscana il cuore della finanza d'affari italiana, tradizionalmente ancorata a Piazzetta Cuccia. Mandante invisibile da non perdere di vista: il Ministero dell'Economia è azionista di riferimento di MPS; Caltagirone siede nel cda; Intesa Sanpaolo ha lanciato la propria OPAS concorrente chiedendo agli azionisti di bloccare le mosse della banca senese. Chi ci guadagna? Dipende dall'esito: se MPS passa, il risiko produce un polo alternativo a Intesa e Unicredit; se vince Intesa, Ca' de Sass consolida la posizione dominante nel sistema bancario italiano. I lavoratori — che la Fisac-CGIL tutela esplicitamente chiedendo garanzie sull'occupazione — restano l'unica variabile che nessuno dei contendenti ha inserito nel comunicato stampa.",
-          "editoriale": false,
-          "redattore": "L'Analista 1.0"
-        },
-        {
-          "categoria": "Sport",
-          "titolo": "Derby italiano a Vienna: Cobolli sfida Berrettini per i quarti dell'ATP 500",
-          "slug": "cobolli-berrettini-atp-vienna-derby-italiano",
-          "tag": [
-            "tennis",
-            "atp-vienna",
-            "cobolli",
-            "berrettini"
-          ],
-          "evidenza": false,
-          "fonte": "Kiss Kiss / Sky Sport",
-          "cerca_url": "https://www.google.com/search?q=Cobolli+Berrettini+ATP+Vienna+2026+derby+italiano",
-          "post_x": "Cobolli contro Berrettini a Vienna, primo derby italiano in carriera per i due. Uno ha scalato la classifica dal basso, l'altro sta cercando la strada del ritorno. Il tennis italiano è roba seria. #Tennis #ATP",
-          "post_sito": "Questa sera sul campo centrale di Vienna si gioca un quarto di finale che vale più di un passaggio di turno: Flavio Cobolli e Matteo Berrettini si affrontano per la prima volta in carriera nell'ATP 500 austriaco. Cobolli è arrivato fin qui battendo Grigor Dimitrov; Berrettini ha superato Etcheverry, e il suo ritorno ai vertici del tennis mondiale è una storia che non ha bisogno di aggiustamenti narrativi. Entrambi visibili su Sky Sport Uno, Sky Sport Tennis e NOW. Questo è uno di quei momenti in cui il tennis italiano — sport spesso ignorato finché non si vince — occupa meritatamente il centro della scena senza bisogno di una medaglia olimpica come giustificazione. Darderi gioca in mattinata contro Tommy Paul, Musetti nel pomeriggio contro Fery: tre italiani nello stesso turno dello stesso torneo, in un'annata che sta ridisegnando la mappa del tennis europeo.",
-          "editoriale": false,
-          "redattore": "Il Cronista Sportivo 1.0"
-        },
-        {
-          "categoria": "Cronaca",
-          "titolo": "Strage ferroviaria in Spagna: 68 morti vicino a Toledo, tre italiane disperse. «Errore umano inspiegabile» dopo un guasto al sistema",
-          "slug": "strage-ferroviaria-spagna-toledo-68-morti-italiane-disperse",
-          "tag": [
-            "spagna",
-            "incidente-ferroviario",
-            "toledo",
-            "alta-velocita"
-          ],
-          "evidenza": true,
-          "fonte": "Il Post / ANSA / LaPresse",
-          "cerca_url": "https://www.google.com/search?q=incidente+ferroviario+Toledo+Spagna+68+morti+italiane+disperse+ottobre+2026",
-          "post_x": "68 morti vicino a Toledo, tre italiane disperse. Un guasto al sistema LZB, poi un ordine «inspiegabile» di ripartire. La seconda tragedia sulla Madrid-Siviglia in meno di un anno. #Spagna #Toledo",
-          "post_sito": "Mercoledì mattina, alle 8:54, un treno Renfe ad alta velocità con 397 passeggeri si è scontrato con un convoglio Iryo fermo sul binario con 147 persone a bordo, nei pressi di Urda, provincia di Toledo. Il bilancio è di almeno 68 morti e oltre 100 feriti, con tre cittadine italiane ancora disperse. Secondo la ricostruzione del ministro dei Trasporti spagnolo Óscar Puente, alle 8:30 un guasto al sistema di sicurezza LZB aveva fermato sei treni in un raggio di 63 chilometri; il centro di controllo di Adif aveva poi autorizzato la ripartenza del Renfe mentre l'Iryo era ancora fermo — un errore definito «inspiegabile». Elemento che il racconto dominante tende a rimuovere: è la seconda tragedia sulla stessa linea Madrid-Siviglia in meno di un anno, dopo il disastro di Adamuz. I sindacati dei macchinisti avevano segnalato ad Adif già nell'agosto 2025 l'usura delle infrastrutture su quella tratta, senza che venissero adottati provvedimenti. Il tema strutturale — manutenzione, investimenti, modello di gestione mista pubblico-privato dell'alta velocità spagnola — rischia di essere sepolto sotto la narrazione dell'«errore umano singolo», che è sempre più comodo della causa sistemica rimossa.",
-          "editoriale": false,
-          "redattore": "L'Osservatore 1.0"
-        },
-        {
-          "categoria": "Scienza",
-          "titolo": "Enzimi progettati dall'IA per sintetizzare farmaci anti-HIV: la ricerca tra Manchester e Seattle",
-          "slug": "enzimi-ia-farmaci-hiv-manchester-institute-protein-design",
-          "tag": [
-            "intelligenza-artificiale",
-            "farmaci",
-            "biotecnologie",
-            "hiv"
-          ],
-          "evidenza": false,
-          "fonte": "Tom's Hardware / Cronache della Campania",
-          "cerca_url": "https://www.google.com/search?q=enzimi+IA+lenacapavir+HIV+Manchester+Institute+Protein+Design+2026",
-          "post_x": "Ricercatori di Manchester e dell'Institute for Protein Design usano l'IA per progettare enzimi che sintetizzano il lenacapavir, farmaco anti-HIV. Il migliore converte il 79% del reagente. Risultato promettente — in attesa di verifiche indipendenti. #Scienza #AI",
-          "post_sito": "Un gruppo dell'Università di Manchester, in collaborazione con l'Institute for Protein Design (con il coinvolgimento di NVIDIA per l'infrastruttura computazionale), ha verificato in laboratorio 67 enzimi progettati con modelli generativi di IA per facilitare un passaggio della sintesi del lenacapavir — farmaco impiegato nella prevenzione dell'HIV. Il candidato migliore, Design 52, ha convertito il 79% del reagente nel prodotto desiderato con la selettività chimica richiesta. Il risultato, pubblicato ma ancora in attesa di valutazioni indipendenti, riguarda tecnologie come RFdiffusion2 e AlphaFold3. La domanda che il coro dell'entusiasmo tecnologico preferisce non porre: chi finanzia questo percorso e chi controlla i brevetti sugli enzimi progettati dall'IA per farmaci già esistenti? Il lenacapavir è prodotto da Gilead Sciences, che ha fissato un prezzo di listino negli Stati Uniti superiore ai 40.000 dollari annui per paziente. Se l'IA abbatte i costi di sintesi, il risparmio andrà ai pazienti o ai margini industriali? Questa è la domanda che nessun comunicato stampa ha incluso.",
-          "editoriale": false,
-          "redattore": "Il Metodico 1.0"
-        },
-        {
-          "categoria": "AI",
-          "titolo": "Google crolla del 10%: 51 miliardi spesi in AI in un trimestre, free cash flow negativo per 9 miliardi",
-          "slug": "google-alphabet-calo-10-percento-ai-spesa-51-miliardi-cash-flow",
-          "tag": [
-            "google",
-            "alphabet",
-            "intelligenza-artificiale",
-            "borsa"
-          ],
-          "evidenza": false,
-          "fonte": "Money.it / FinanzaOnline / Yahoo Finance",
-          "cerca_url": "https://www.google.com/search?q=Google+Alphabet+calo+10+AI+spesa+51+miliardi+trimestrale+ottobre+2026",
-          "post_x": "Google spende 51 miliardi in AI in tre mesi, brucia 9 miliardi di cassa e perde il 10% in borsa. Il futuro è qui. Il conto pure. #Google #AI #Alphabet",
-          "post_sito": "Alphabet, la casa madre di Google, ha pubblicato i risultati del terzo trimestre 2026: ricavi per 127,6 miliardi di dollari (sotto le attese di 128,2 miliardi), investimenti in conto capitale a 51,3 miliardi, free cash flow negativo per 9,07 miliardi — il secondo trimestre con saldo negativo dalla quotazione in borsa del 2004. Il titolo è crollato di quasi il 10% nelle contrattazioni after-hours, rischiando di bruciare oltre 400 miliardi di capitalizzazione in una sola seduta. La narrativa dominante parla di «scommessa sull'AI» e di «domanda straordinaria». Quella che il comunicato stampa non dice: la «modalità IA» di Google ha penalizzato i ricavi della ricerca tradizionale — il motore che finanzia tutto il resto. Detto diversamente: Google sta demolendo il business che ha generato la cassa necessaria per costruire quello nuovo, senza che il nuovo generi ancora flussi sufficienti a sostenersi. I veri beneficiari di questa corsa agli investimenti sono i produttori di chip (Nvidia in primis), i costruttori di data center e i fornitori di energia — che incassano indipendentemente dal fatto che l'AI di Google trovi o meno un modello di ricavi sostenibile. Alphabet ha già emesso obbligazioni per partecipare ai 230 miliardi di dollari collocati dalle cinque grandi tech nel 2026: la scommessa si finanzia anche a debito.",
-          "editoriale": false,
-          "redattore": "Il Futurologo 1.0"
-        },
-        {
-          "categoria": "Wellness",
-          "titolo": "Salute femminile: più attente alla prevenzione ma bloccate dai costi — il 15% rinuncia alla psicoterapia per ragioni economiche",
-          "slug": "salute-femminile-prevenzione-costi-barriere-economiche",
-          "tag": [
-            "salute",
-            "donne",
-            "prevenzione",
-            "welfare"
-          ],
-          "evidenza": false,
-          "fonte": "Italia Report USA / Il Sole 24 Ore Salute",
-          "cerca_url": "https://www.google.com/search?q=salute+femminile+prevenzione+costi+barriere+economiche+2026",
-          "post_x": "Le donne fanno più prevenzione degli uomini, ma solo il 39% riesce ad affrontare tempestivamente una diagnosi complessa. Il 15% ha rinunciato alla psicoterapia per i costi. L'industria del wellness vende meditazioni. #Salute #Welfare",
-          "post_sito": "Un'indagine pubblicata il 29 ottobre fotografa una contraddizione strutturale del sistema sanitario italiano: le donne mostrano una maggiore attenzione alla prevenzione rispetto agli uomini, ma solo il 39% riesce ad affrontare tempestivamente una diagnosi complessa a causa di barriere economiche e di carico familiare. Il 15% delle intervistate ha dovuto rinunciare a percorsi di supporto psicologico perché ritenuti troppo costosi. Nel frattempo, l'industria del benessere fattura miliardi in app di meditazione, abbonamenti wellness e integratori certificati con la linguetta del «prendersi cura di sé». Il bersaglio non sono le persone che cercano aiuto, ma il meccanismo per cui il sistema pubblico si restringe e l'offerta privata riempie il vuoto con prodotti accessibili solo a chi può permetterseli — trasformando la salute in una questione di stile di vita invece che di diritto. L'eufemismo di potere del giorno è «empowerment femminile»: una parola che suona bene nei comunicati delle aziende farmaceutiche e che non cambia di un centesimo la tariffa di una seduta dallo psicologo.",
-          "editoriale": false,
-          "redattore": "Il Life Coach 1.0"
-        },
-        {
-          "categoria": "Cultura",
-          "titolo": "«Dio Ride» di Giovanni Veronesi esce oggi in sala: Favino è un frate del Seicento che disturba la Chiesa. E il distributore chi è?",
-          "slug": "dio-ride-veronesi-favino-cinema-uscita",
-          "tag": [
-            "cinema",
-            "dio-ride",
-            "veronesi",
-            "favino"
-          ],
-          "evidenza": false,
-          "fonte": "Ditutto.it / Cinema in Sala / Masedomani",
-          "cerca_url": "https://www.google.com/search?q=Dio+Ride+Veronesi+Favino+uscita+cinema+29+ottobre+2026",
-          "post_x": "«Dio Ride» di Veronesi con Favino esce oggi. Un frate del Seicento che predica un Vangelo gioioso contro la Inquisizione. Nel 2026, distribuito da PiperFilm. La Chiesa cambia, i distributori anche. #DioRide #Cinema",
-          "post_sito": "Arriva oggi nelle sale italiane «Dio Ride», film di Giovanni Veronesi con Pierfrancesco Favino, Silvio Orlando e Carlo Cecchi nel ruolo di Papa Innocenzo X — presentato fuori concorso alla Mostra di Venezia 2026 e distribuito da PiperFilm. La storia è quella di Frate Leopoldo da Casamacchia, predicatore toscano del Seicento che porta un Vangelo semplice e gioioso in contrasto con l'apparato dell'Inquisizione: tema vecchio di quattro secoli, dunque attualissimo. L'angolazione che merita attenzione non è il contenuto del film — una commedia drammatica storica con cast di lusso — ma il meccanismo industriale attorno. Il beneficio taciuto: il cinema italiano «d'autore» con grandi nomi esce su pochi schermi, fa poco rumore mediatico la prima settimana, poi sparisce nelle piattaforme a pagamento. La domanda che si pone raramente è chi decide le finestre di distribuzione, chi finanzia quali progetti e perché certi film con cast altrettanto valido non trovano i 17 milioni di budget che servono per girare. Oggi escono anche 16 altri titoli: il mercato è affollato, le sale sono poche, il pubblico deve scegliere — e chi controlla la pubblicità decide chi vince.",
-          "editoriale": false,
-          "redattore": "Il Letterato 1.0"
-        }
-      ]
     }
   ],
-  "ultimo_aggiornamento": "2026-11-27T08:20:57.637973+00:00"
+  "ultimo_aggiornamento": "2026-11-28T08:24:46.236084+00:00"
 }

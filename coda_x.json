@@ -1,77 +1,77 @@
 {
-  "data": "2026-11-27",
+  "data": "2026-11-28",
   "tweet": [
     {
-      "testo": "Zelensky lamenta che gli USA non premono abbastanza sulla Russia. Nel frattempo Trump incontra Rutte e «invita» Mosca a non allargare il conflitto. Quasi cinque anni di guerra e siamo ancora alla fase degli inviti. #Ucraina",
-      "url": "https://corrispondente.filoclastos.it/2026/11/27/zelensky-accusa-usa-missili-trump-rutte/",
-      "slug": "zelensky-accusa-usa-missili-trump-rutte",
+      "testo": "Zelensky bombarda navi russe a Bengasi senza avvisare gli alleati, poi si scusa. Meloni indignata. Nel frattempo nessuno chiede: cosa ci fanno navi militari russe nel Mediterraneo con la copertura di Haftar? #Libya #MedSea",
+      "url": "https://corrispondente.filoclastos.it/2026/11/28/ucraina-raid-bengasi-navi-russe-zelensky-scuse-meloni/",
+      "slug": "ucraina-raid-bengasi-navi-russe-zelensky-scuse-meloni",
       "categoria": "Politica Internazionale",
-      "evidenza": false,
-      "pubblicato": true
+      "evidenza": true,
+      "pubblicato": false
     },
     {
-      "testo": "Meloni rifiuta di firmare il decreto sugli stipendi dei magistrati (quasi un miliardo) e diserta il loro congresso a Napoli. L'Anm risponde richiamando il rispetto della legge. Prossima puntata: chi nominerà i prossimi capi degli uffici giudiziari. #Magistratura",
-      "url": "https://corrispondente.filoclastos.it/2026/11/27/meloni-contro-magistrati-stipendi-congresso-anm/",
-      "slug": "meloni-contro-magistrati-stipendi-congresso-anm",
+      "testo": "La Russa avverte la Consulta: se bocciate la norma sul premier indicato in coalizione fate un favore alla sinistra. Ovvero: i giudici costituzionali dovrebbero decidere guardando i sondaggi. Nuova frontiera del diritto italiano. #Costituzione",
+      "url": "https://corrispondente.filoclastos.it/2026/11/28/la-russa-attacca-consulta-legge-elettorale-scontro-istituzionale/",
+      "slug": "la-russa-attacca-consulta-legge-elettorale-scontro-istituzionale",
       "categoria": "Politica Nazionale",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Lo spagnolo De Cos designato alla BCE. La Fed valuta un altro rialzo dei tassi. Due banche centrali, stesso problema: inflazione che non scende quanto promesso. Chi ci guadagna? Chi ha già i soldi investiti in obbligazioni a tasso fisso alto. #Economia",
-      "url": "https://corrispondente.filoclastos.it/2026/11/27/de-cos-bce-fed-rialzo-tassi-novembre-2026/",
-      "slug": "de-cos-bce-fed-rialzo-tassi-novembre-2026",
+      "testo": "Vertice UE sul bilancio «finisce nel caos». Traduzione: i paesi ricchi vogliono tagliare i fondi ai paesi poveri per finanziare la guerra. Meloni difende i fondi italiani. Macron risponde a Le Pen. Nessuno chiede chi vende le armi. #EU #Budget",
+      "url": "https://corrispondente.filoclastos.it/2026/11/28/vertice-ue-bilancio-caos-45-miliardi-ucraina-fondi-coesione/",
+      "slug": "vertice-ue-bilancio-caos-45-miliardi-ucraina-fondi-coesione",
       "categoria": "Economia",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Oggi alle 16 l'Italia di Volandri (senza Sinner) affronta la Rep. Ceca per la quarta finale consecutiva di Davis. In chiaro su Rai 1 e SuperTennis. Una squadra, un capitano, zero stelle da copertina: il tennis che piace quando vince davvero. #DavisCup",
-      "url": "https://corrispondente.filoclastos.it/2026/11/27/coppa-davis-italia-repubblica-ceca-semifinale-bologna-2026/",
-      "slug": "coppa-davis-italia-repubblica-ceca-semifinale-bologna-2026",
+      "testo": "Márquez si ritira dalla MotoGP a 33 anni, 10 titoli mondiali, l'ultima gara domenica a Valencia. I grandi campioni sanno quando smettere. Raro. Quasi unico. Godetevi Valencia. 🏍️ #MotoGP #Marquez",
+      "url": "https://corrispondente.filoclastos.it/2026/11/28/marquez-ritiro-motogp-valencia-10-titoli/",
+      "slug": "marquez-ritiro-motogp-valencia-10-titoli",
       "categoria": "Sport",
-      "evidenza": true,
-      "pubblicato": true
+      "evidenza": false,
+      "pubblicato": false
     },
     {
-      "testo": "Due italiani morti in Kuwait: lavoravano per Rheinmetall ai radar antiaerei. «La guerra in subappalto», titola Repubblica. Tajani accusa l'Iran. Teheran nega. Intanto i contractor continuano a essere presenti nelle zone di guerra senza tutele da combattenti. #Kuwait",
-      "url": "https://corrispondente.filoclastos.it/2026/11/27/tecnici-italiani-rheinmetall-uccisi-droni-kuwait/",
-      "slug": "tecnici-italiani-rheinmetall-uccisi-droni-kuwait",
+      "testo": "A Montagnareale, dieci mesi dopo la strage di tre cacciatori nei boschi, arrestato l'unico superstite. Le analisi balistiche del RIS hanno fatto il resto. La storia più antica del mondo: quello che sopravvive non è sempre quello che sembra. #cronaca",
+      "url": "https://corrispondente.filoclastos.it/2026/11/28/montagnareale-cacciatori-arrestato-superstite-agostino-segreto/",
+      "slug": "montagnareale-cacciatori-arrestato-superstite-agostino-segreto",
       "categoria": "Cronaca",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "La FCC ha autorizzato SpaceX a lanciare fino a 1 milione di satelliti Starmind per data center AI in orbita. Gli astronomi: «Il cielo notturno diventerà irriconoscibile». Musk risponde con un post su X. #Starmind #SpaceX",
-      "url": "https://corrispondente.filoclastos.it/2026/11/27/spacex-starmind-fcc-milione-satelliti-ai-spazio/",
-      "slug": "spacex-starmind-fcc-milione-satelliti-ai-spazio",
+      "testo": "Lo studio dell'Università di Trieste: le contrazioni cardiache rallentano la proliferazione delle cellule tumorali. Pubblicato su «Science». I prossimi 5 anni: un fondo farmaceutico ne acquisterà i brevetti. I successivi 5: lo studio sarà dimenticato. #scienza",
+      "url": "https://corrispondente.filoclastos.it/2026/11/28/cuore-battito-frena-cellule-tumorali-studio-trieste/",
+      "slug": "cuore-battito-frena-cellule-tumorali-studio-trieste",
       "categoria": "Scienza",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "La Cina non può addestrare la propria AI sui chip americani. Quindi cerca i server in Europa. I Paesi Bassi protestano contro il MATCH Act USA che minaccia le vendite di ASML a Pechino. La guerra dei chip è diventata la vera guerra fredda del decennio. #AI #Chip",
-      "url": "https://corrispondente.filoclastos.it/2026/11/27/moonshot-kimi-k4-server-europa-match-act-asml/",
-      "slug": "moonshot-kimi-k4-server-europa-match-act-asml",
+      "testo": "OpenAI fa causa ad Apple per furto di segreti industriali. Apple aveva già fatto causa a OpenAI a luglio. Due monopolisti si accusano di rubarsi le idee a vicenda. Chi ci rimette: chiunque voglia un ecosistema AI aperto. #OpenAI #Apple #AI",
+      "url": "https://corrispondente.filoclastos.it/2026/11/28/openai-causa-apple-segreti-industriali-fornitori/",
+      "slug": "openai-causa-apple-segreti-industriali-fornitori",
       "categoria": "AI",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Il Wellness Valley Report 2026 certifica: il benessere in Romagna vale 2 miliardi (+86% dal 2011) e il 57% della popolazione è «attiva». La presentazione? Al Technogym Village. Chi finanzia l'osservatorio che misura il successo di Technogym? #Wellness",
-      "url": "https://corrispondente.filoclastos.it/2026/11/27/wellness-valley-report-2026-romagna-technogym/",
-      "slug": "wellness-valley-report-2026-romagna-technogym",
+      "testo": "Il Ministero stringe sulle prescrizioni facili di Ozempic e Wegovy. Domanda mai posta: chi guadagna 160-300 euro al mese per paziente su farmaci che il SSN non rimborsa per l'obesità? Novo Nordisk ringrazierà comunque. #Ozempic #GLP1 #Wellness",
+      "url": "https://corrispondente.filoclastos.it/2026/11/28/ministero-salute-controlli-farmaci-glp1-ozempic-wegovy-prescrizioni/",
+      "slug": "ministero-salute-controlli-farmaci-glp1-ozempic-wegovy-prescrizioni",
       "categoria": "Wellness",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     },
     {
-      "testo": "Il Teatro dell'Opera di Roma inaugura la stagione 2026/2027 con «The Rake's Progress» di Stravinskij: 58 anni di assenza dal Costanzi. L'opera che racconta la rovina morale di un giovane ricco scialacquatore. Stasera come metafora del momento sembra perfetta. #Opera",
-      "url": "https://corrispondente.filoclastos.it/2026/11/27/teatro-opera-roma-rakes-progress-stravinskij-stagione-2026/",
-      "slug": "teatro-opera-roma-rakes-progress-stravinskij-stagione-2026",
+      "testo": "Oggi all'Auditorium di Roma il ricordo di Corrado Augias, in musica e parole. Un uomo che ha fatto credere agli italiani che leggere i libri fosse normale. Non era normale. Era raro. Mancherà. #Augias #cultura",
+      "url": "https://corrispondente.filoclastos.it/2026/11/28/corrado-augias-ricordo-auditorium-roma-musica/",
+      "slug": "corrado-augias-ricordo-auditorium-roma-musica",
       "categoria": "Cultura",
       "evidenza": false,
-      "pubblicato": true
+      "pubblicato": false
     }
   ]
 }
